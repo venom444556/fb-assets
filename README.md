@@ -7,3 +7,9 @@ Bottle-only transparent PNG cutouts used by the FragranceBroker Discord cards.
 Planned image path: `<house-slug>/<male|female|unisex>/<slug>.png`. House, name and gender come from a light
 Fragrantica check; no Fragrantica images are used. `qc_status`: `pending` (no image yet), `legacy-flat-live`
 (passed host QC, still served from the flat path), later `passed`/`failed`.
+
+## Inspection
+`python3 -I tools/inspect_bottles.py . --sheet contact_sheet.png` checks every nested cutout (size/mode, transparent
+corners, no solid pixels on a canvas edge, centering, 80-95% height, lost-cap "top-gap") and rebuilds
+`contact_sheet.png`. FAIL exits non-zero. WARN means look at the sheet; top-gap also fires on natural shapes
+(antlers, bevelled caps). Rerun after every image change and eyeball the sheet.
