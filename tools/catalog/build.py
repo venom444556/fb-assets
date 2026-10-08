@@ -38,9 +38,29 @@ for hs in cat:
     idx[hs] = rows
     for r in rows:
         m = URL.match(r['fragrantica_url'])
-        if m: seg2slug[m.group(1)] = hs
+        if m and m.group(1) not in ALIAS: seg2slug[m.group(1)] = hs
+# fold houses already written under an old alias, and drop any ID written twice (first row wins)
+removed = []
+for seg, target in ALIAS.items():
+    old = seg.lower()
+    if old in idx and old != target:
+        cat.setdefault(target, cat[old]); idx.setdefault(target, [])
+        idx[target] += idx.pop(old); cat.pop(old); removed.append(old)
+seen = set()
+for hs in idx:
+    keep = []
+    for x in idx[hs]:
+        i = fid(x['fragrantica_url'])
+        if i and i in seen: continue
+        seen.add(i); keep.append(x)
+    idx[hs] = keep
+# slugs already published keep their Fragrantica ID (FB_SLUGS: house_slug<TAB>fragrantica_id<TAB>slug)
+prev, reserved = {}, set()
+if os.environ.get('FB_SLUGS'):
+    with open(os.environ['FB_SLUGS'], encoding='utf-8') as f:
+        for line in f:
+            h, i, sl = line.rstrip('\n').split('\t'); prev[i] = sl; reserved.add((h, sl))
 added = collections.Counter(); skipped = collections.Counter()
-seen = {fid(x['fragrantica_url']) for rows in idx.values() for x in rows}
 for src in sys.argv[2:]:
     with open(src, encoding='utf-8') as f:
         for r in csv.DictReader(f, delimiter='\t'):
@@ -57,12 +77,17 @@ for src in sys.argv[2:]:
             if m.group(2) in seen:
                 skipped['dup'] += 1; continue
             seen.add(m.group(2))
-            slug = ascii_slug(name) or 'f'
-            if any(x['slug'] == slug for x in rows): slug = f'{slug}-{m.group(2)}'
+            taken = {x['slug'] for x in rows}
+            slug = prev.get(m.group(2))
+            if not slug or slug in taken:
+                slug = ascii_slug(name) or 'f'
+                if slug in taken or ((hs, slug) in reserved and prev.get(m.group(2)) != slug): slug = f'{slug}-{m.group(2)}'
             rows.append(dict(slug=slug, fragrance=name, concentration='', gender=g, fragrantica_url=u,
                              image_path='', source_url='', hosted_raw_url='', qc_status='pending'))
             added[hs] += 1
 # write
+import shutil
+for old in removed: shutil.rmtree(os.path.join(repo, old), ignore_errors=True)
 lookup = []
 for hs, rows in idx.items():
     os.makedirs(os.path.join(repo, hs), exist_ok=True)

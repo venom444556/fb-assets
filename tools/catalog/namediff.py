@@ -13,8 +13,7 @@ for f in sorted(os.listdir(ndir)):
     for line in open(os.path.join(ndir, f), encoding='utf-8'):
         p = line.rstrip('\n').split('\t'); name = p[0].strip()
         if not name: continue
-        k = n(name); k2 = n(re.sub(r'\(\d{4}\)', '', name))
-        if k in H or k2 in H: continue
+        if n(name) in H: continue
         miss.append((name, p[1].strip() if len(p) > 1 else ''))
     print(seg, 'listed', sum(1 for _ in open(os.path.join(ndir, f))), 'table', len(H)//1, 'missing', len(miss))
     for name, g in miss: out.write(f'{seg}\t{name}\t{g}\n')

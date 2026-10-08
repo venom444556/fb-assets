@@ -14,7 +14,8 @@ for r in csv.DictReader(open(seed, encoding='utf-8'), delimiter='\t'):
 rows, bad = [], 0
 for line in open(raw, encoding='utf-8'):
     p = [x.strip() for x in line.rstrip('\n').split('\t')]
-    if len(p) < 3 or p[0].lower() in ('fragrance','name'): continue
+    if p[0].lower() in ('fragrance','name'): continue
+    if len(p) < 3: bad += 1; continue
     name, g, u = p[0], G.get(p[1].lower()), p[2]
     m = URL.match(u)
     if not (m and g and name and m.group(1) == seg): bad += 1; continue
@@ -31,6 +32,6 @@ house = house or (sys.argv[4] if len(sys.argv) > 4 else seg.replace('-', ' '))
 with open(raw.replace('.tsv', '.ok.tsv'), 'w', encoding='utf-8') as f:
     f.write('house\tfragrance\tgender\tfragrantica_url\n')
     for r in new: f.write(f'{house}\t{r[0]}\t{r[1]}\t{r[2]}\n')
-rate = agree / len(overlap) if overlap else None
+rate = agree / len(overlap) if overlap else (0.0 if known and not LENIENT else None)  # a known house with no overlap is a failed fetch
 print(f'{seg}\tlisted={len(ids)}\tbad={bad}\tknown={len(known)}\toverlap={len(overlap)}\tagree={agree}\tnew={len(new)}\tseed_not_listed={missing}\t' +
       ('OK' if (rate is None or rate >= (0.9 if LENIENT else 0.95)) and (LENIENT or bad <= max(2, len(rows)//20)) else 'REJECT'))

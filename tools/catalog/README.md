@@ -19,3 +19,8 @@ Sources, in merge order:
 Run: `tools/catalog/round.sh . DATA_DIR RAW_DIR`. It rewrites `crawl/progress.tsv`, one row per house checked
 live, so a crawl can resume with the houses that are missing from it. `build.py` folds renamed Fragrantica
 houses (`ALIAS`) and never writes an ID twice.
+
+Normally `build.py` runs over the current catalog, so existing rows (and their slugs) stay as they are. When rebuilding
+from scratch, export the published slugs first (`house_slug<TAB>fragrantica_id<TAB>slug`, one line per row of the
+current index files) and pass the file as `FB_SLUGS=...`, so every ID keeps the slug it already had.
+Houses written under an old alias are folded into the current house, and IDs written twice are dropped (first wins).
