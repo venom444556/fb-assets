@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-9ix	9IX		male		https://www.fragrantica.com/perfume/Rocawear/9IX-4245.html				pending
-evolution	Evolution		male		https://www.fragrantica.com/perfume/Rocawear/Evolution-13180.html				pending
-rocawear-x	Rocawear X		male		https://www.fragrantica.com/perfume/Rocawear/Rocawear-X-7120.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+9ix	9IX		male	https://www.fragrantica.com/perfume/Rocawear/9IX-4245.html				pending
+evolution	Evolution		male	https://www.fragrantica.com/perfume/Rocawear/Evolution-13180.html				pending
+rocawear-x	Rocawear X		male	https://www.fragrantica.com/perfume/Rocawear/Rocawear-X-7120.html				pending

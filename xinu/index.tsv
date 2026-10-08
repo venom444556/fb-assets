@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aguamadera	Aguamadera		unisex		https://www.fragrantica.com/perfume/Xinu/Aguamadera-44916.html				pending
-copala	Copala		unisex		https://www.fragrantica.com/perfume/Xinu/Copala-44917.html				pending
-oronardo	OroNardo		unisex		https://www.fragrantica.com/perfume/Xinu/OroNardo-44918.html				pending
-ummo	Ummo		unisex		https://www.fragrantica.com/perfume/Xinu/Ummo-67782.html				pending
-vetiverde	VetiVerde		unisex		https://www.fragrantica.com/perfume/Xinu/VetiVerde-103611.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aguamadera	Aguamadera		unisex	https://www.fragrantica.com/perfume/Xinu/Aguamadera-44916.html				pending
+copala	Copala		unisex	https://www.fragrantica.com/perfume/Xinu/Copala-44917.html				pending
+oronardo	OroNardo		unisex	https://www.fragrantica.com/perfume/Xinu/OroNardo-44918.html				pending
+ummo	Ummo		unisex	https://www.fragrantica.com/perfume/Xinu/Ummo-67782.html				pending
+vetiverde	VetiVerde		unisex	https://www.fragrantica.com/perfume/Xinu/VetiVerde-103611.html				pending

@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-azahar	Azahar		unisex		https://www.fragrantica.com/perfume/Voyages-Imaginaires/Azahar-67444.html				pending
-comme-un-gant	Comme Un Gant		unisex		https://www.fragrantica.com/perfume/Voyages-Imaginaires/Comme-Un-Gant-99180.html				pending
-leau-des-immortels	L'Eau des Immortels		unisex		https://www.fragrantica.com/perfume/Voyages-Imaginaires/L-Eau-des-Immortels-79741.html				pending
-lechappee-sauvage	L'échappée Sauvage		male		https://www.fragrantica.com/perfume/Voyages-Imaginaires/L-echappee-Sauvage-67447.html				pending
-la-couleur-de-la-nuit	La Couleur de la Nuit		unisex		https://www.fragrantica.com/perfume/Voyages-Imaginaires/La-Couleur-de-la-Nuit-67445.html				pending
-le-grand-jeu	Le Grand Jeu		female		https://www.fragrantica.com/perfume/Voyages-Imaginaires/Le-Grand-Jeu-67446.html				pending
-tea-and-rockn-roll	Tea & Rock'n Roll		unisex		https://www.fragrantica.com/perfume/Voyages-Imaginaires/Tea-Rock-n-Roll-67448.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+azahar	Azahar		unisex	https://www.fragrantica.com/perfume/Voyages-Imaginaires/Azahar-67444.html				pending
+comme-un-gant	Comme Un Gant		unisex	https://www.fragrantica.com/perfume/Voyages-Imaginaires/Comme-Un-Gant-99180.html				pending
+leau-des-immortels	L'Eau des Immortels		unisex	https://www.fragrantica.com/perfume/Voyages-Imaginaires/L-Eau-des-Immortels-79741.html				pending
+lechappee-sauvage	L'échappée Sauvage		male	https://www.fragrantica.com/perfume/Voyages-Imaginaires/L-echappee-Sauvage-67447.html				pending
+la-couleur-de-la-nuit	La Couleur de la Nuit		unisex	https://www.fragrantica.com/perfume/Voyages-Imaginaires/La-Couleur-de-la-Nuit-67445.html				pending
+le-grand-jeu	Le Grand Jeu		female	https://www.fragrantica.com/perfume/Voyages-Imaginaires/Le-Grand-Jeu-67446.html				pending
+tea-and-rockn-roll	Tea & Rock'n Roll		unisex	https://www.fragrantica.com/perfume/Voyages-Imaginaires/Tea-Rock-n-Roll-67448.html				pending

@@ -1,34 +1,34 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-sud-del-mondo	A Sud Del Mondo		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/A-Sud-Del-Mondo-34464.html				pending
-agrumi-mediterranei	Agrumi Mediterranei		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Agrumi-Mediterranei-17537.html				pending
-ambra-doriente	Ambra D'Oriente		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Ambra-D-Oriente-17544.html				pending
-aquamarina	Aquamarina		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Aquamarina-12078.html				pending
-argento	Argento		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Argento-34469.html				pending
-artemisia	Artemisia		male		https://www.fragrantica.com/perfume/Officine-del-Profumo/Artemisia-12083.html				pending
-fresia-di-portofino	Fresia di Portofino		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Fresia-di-Portofino-12086.html				pending
-gelsomino-viola	Gelsomino Viola		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Gelsomino-Viola-12081.html				pending
-giacinto-imperiale	Giacinto Imperiale		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Giacinto-Imperiale-17536.html				pending
-ginepro-di-calabria	Ginepro di Calabria		male		https://www.fragrantica.com/perfume/Officine-del-Profumo/Ginepro-di-Calabria-12082.html				pending
-hiera	Hiera		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Hiera-34468.html				pending
-imperio	Imperio		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Imperio-46231.html				pending
-incanto	Incanto		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Incanto-46230.html				pending
-incenso-di-toscana	Incenso di Toscana		male		https://www.fragrantica.com/perfume/Officine-del-Profumo/Incenso-di-Toscana-12084.html				pending
-juanito	Juanito		male		https://www.fragrantica.com/perfume/Officine-del-Profumo/Juanito-34467.html				pending
-lavanda-di-roma	Lavanda di Roma		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Lavanda-di-Roma-12085.html				pending
-lei	Lei		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Lei-54629.html				pending
-magnolia-imperiale	Magnolia Imperiale		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Magnolia-Imperiale-17534.html				pending
-mandarino-e-spezie	Mandarino e Spezie		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Mandarino-e-Spezie-19281.html				pending
-mandorla-di-sicilia	Mandorla di Sicilia		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Mandorla-di-Sicilia-12079.html				pending
-meraviglioso-istante	Meraviglioso Istante		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Meraviglioso-Istante-46229.html				pending
-mojito	Mojito		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Mojito-17543.html				pending
-mugheto-della-cinque-terre	Mugheto della Cinque Terre		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Mugheto-della-Cinque-Terre-17541.html				pending
-musk	Musk		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Musk-17538.html				pending
-notti-del-golfo	Notti Del Golfo		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Notti-Del-Golfo-34466.html				pending
-orchidea-della-costa-rica	Orchidea della Costa Rica		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Orchidea-della-Costa-Rica-17539.html				pending
-passiflora	Passiflora		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Passiflora-12077.html				pending
-patchouli-ditalia	Patchouli d'Italia		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Patchouli-d-Italia-17542.html				pending
-ribes-nero-imperiale	Ribes Nero Imperiale		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Ribes-Nero-Imperiale-17392.html				pending
-rosa-primula	Rosa Primula		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Rosa-Primula-12080.html				pending
-tuberosa-imperiale	Tuberosa Imperiale		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Tuberosa-Imperiale-17533.html				pending
-wood	Wood		unisex		https://www.fragrantica.com/perfume/Officine-del-Profumo/Wood-19282.html				pending
-zaahra	Zaahra		female		https://www.fragrantica.com/perfume/Officine-del-Profumo/Zaahra-34465.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-sud-del-mondo	A Sud Del Mondo		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/A-Sud-Del-Mondo-34464.html				pending
+agrumi-mediterranei	Agrumi Mediterranei		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Agrumi-Mediterranei-17537.html				pending
+ambra-doriente	Ambra D'Oriente		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Ambra-D-Oriente-17544.html				pending
+aquamarina	Aquamarina		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Aquamarina-12078.html				pending
+argento	Argento		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Argento-34469.html				pending
+artemisia	Artemisia		male	https://www.fragrantica.com/perfume/Officine-del-Profumo/Artemisia-12083.html				pending
+fresia-di-portofino	Fresia di Portofino		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Fresia-di-Portofino-12086.html				pending
+gelsomino-viola	Gelsomino Viola		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Gelsomino-Viola-12081.html				pending
+giacinto-imperiale	Giacinto Imperiale		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Giacinto-Imperiale-17536.html				pending
+ginepro-di-calabria	Ginepro di Calabria		male	https://www.fragrantica.com/perfume/Officine-del-Profumo/Ginepro-di-Calabria-12082.html				pending
+hiera	Hiera		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Hiera-34468.html				pending
+imperio	Imperio		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Imperio-46231.html				pending
+incanto	Incanto		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Incanto-46230.html				pending
+incenso-di-toscana	Incenso di Toscana		male	https://www.fragrantica.com/perfume/Officine-del-Profumo/Incenso-di-Toscana-12084.html				pending
+juanito	Juanito		male	https://www.fragrantica.com/perfume/Officine-del-Profumo/Juanito-34467.html				pending
+lavanda-di-roma	Lavanda di Roma		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Lavanda-di-Roma-12085.html				pending
+lei	Lei		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Lei-54629.html				pending
+magnolia-imperiale	Magnolia Imperiale		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Magnolia-Imperiale-17534.html				pending
+mandarino-e-spezie	Mandarino e Spezie		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Mandarino-e-Spezie-19281.html				pending
+mandorla-di-sicilia	Mandorla di Sicilia		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Mandorla-di-Sicilia-12079.html				pending
+meraviglioso-istante	Meraviglioso Istante		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Meraviglioso-Istante-46229.html				pending
+mojito	Mojito		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Mojito-17543.html				pending
+mugheto-della-cinque-terre	Mugheto della Cinque Terre		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Mugheto-della-Cinque-Terre-17541.html				pending
+musk	Musk		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Musk-17538.html				pending
+notti-del-golfo	Notti Del Golfo		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Notti-Del-Golfo-34466.html				pending
+orchidea-della-costa-rica	Orchidea della Costa Rica		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Orchidea-della-Costa-Rica-17539.html				pending
+passiflora	Passiflora		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Passiflora-12077.html				pending
+patchouli-ditalia	Patchouli d'Italia		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Patchouli-d-Italia-17542.html				pending
+ribes-nero-imperiale	Ribes Nero Imperiale		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Ribes-Nero-Imperiale-17392.html				pending
+rosa-primula	Rosa Primula		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Rosa-Primula-12080.html				pending
+tuberosa-imperiale	Tuberosa Imperiale		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Tuberosa-Imperiale-17533.html				pending
+wood	Wood		unisex	https://www.fragrantica.com/perfume/Officine-del-Profumo/Wood-19282.html				pending
+zaahra	Zaahra		female	https://www.fragrantica.com/perfume/Officine-del-Profumo/Zaahra-34465.html				pending

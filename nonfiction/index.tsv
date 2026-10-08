@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-for-rest	FOR REST		unisex		https://www.fragrantica.com/perfume/Nonfiction/FOR-REST-84326.html				pending
-forget-me-not	Forget Me Not		unisex		https://www.fragrantica.com/perfume/Nonfiction/Forget-Me-Not-66900.html				pending
-gaiac-flower	Gaiac Flower		unisex		https://www.fragrantica.com/perfume/Nonfiction/Gaiac-Flower-66898.html				pending
-gentle-night	Gentle Night		unisex		https://www.fragrantica.com/perfume/Nonfiction/Gentle-Night-66896.html				pending
-in-the-shower	In The Shower		unisex		https://www.fragrantica.com/perfume/Nonfiction/In-The-Shower-66902.html				pending
-neroli-dream	NEROLI DREAM		unisex		https://www.fragrantica.com/perfume/Nonfiction/NEROLI-DREAM-84324.html				pending
-santal-cream	Santal Cream		unisex		https://www.fragrantica.com/perfume/Nonfiction/Santal-Cream-66895.html				pending
-simple-garden	SIMPLE GARDEN		unisex		https://www.fragrantica.com/perfume/Nonfiction/SIMPLE-GARDEN-84325.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+for-rest	FOR REST		unisex	https://www.fragrantica.com/perfume/Nonfiction/FOR-REST-84326.html				pending
+forget-me-not	Forget Me Not		unisex	https://www.fragrantica.com/perfume/Nonfiction/Forget-Me-Not-66900.html				pending
+gaiac-flower	Gaiac Flower		unisex	https://www.fragrantica.com/perfume/Nonfiction/Gaiac-Flower-66898.html				pending
+gentle-night	Gentle Night		unisex	https://www.fragrantica.com/perfume/Nonfiction/Gentle-Night-66896.html				pending
+in-the-shower	In The Shower		unisex	https://www.fragrantica.com/perfume/Nonfiction/In-The-Shower-66902.html				pending
+neroli-dream	NEROLI DREAM		unisex	https://www.fragrantica.com/perfume/Nonfiction/NEROLI-DREAM-84324.html				pending
+santal-cream	Santal Cream		unisex	https://www.fragrantica.com/perfume/Nonfiction/Santal-Cream-66895.html				pending
+simple-garden	SIMPLE GARDEN		unisex	https://www.fragrantica.com/perfume/Nonfiction/SIMPLE-GARDEN-84325.html				pending

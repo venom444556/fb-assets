@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amendoas	Amêndoas		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Amendoas-72527.html				pending
-bergamota	Bergamota		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Bergamota-72528.html				pending
-camelia	Camélia		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Camelia-72529.html				pending
-cedro-branco	Cedro Branco		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Cedro-Branco-72545.html				pending
-cedro-wood	Cedro Wood		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Cedro-Wood-72543.html				pending
-cereja	Cereja		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Cereja-72532.html				pending
-fava-tonka	Fava Tonka		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Fava-Tonka-72547.html				pending
-figo	Figo		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Figo-72530.html				pending
-flor-de-pitanga	Flor de Pitanga		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Flor-de-Pitanga-72531.html				pending
-folha-de-figo	Folha de Figo		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Folha-de-Figo-72553.html				pending
-jasmim	Jasmim		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Jasmim-72538.html				pending
-lavanda	Lavanda		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Lavanda-72533.html				pending
-lavanda-oud	Lavanda Oud		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Lavanda-Oud-72542.html				pending
-olivier	Olivier		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Olivier-72537.html				pending
-olivia	Olívia		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Olivia-72534.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Patchouli-72550.html				pending
-rosa	Rosa		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Rosa-72540.html				pending
-sandalo	Sândalo		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Sandalo-72552.html				pending
-vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Vetiver-72551.html				pending
-iris	íris		unisex		https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/iris-72549.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amendoas	Amêndoas		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Amendoas-72527.html				pending
+bergamota	Bergamota		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Bergamota-72528.html				pending
+camelia	Camélia		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Camelia-72529.html				pending
+cedro-branco	Cedro Branco		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Cedro-Branco-72545.html				pending
+cedro-wood	Cedro Wood		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Cedro-Wood-72543.html				pending
+cereja	Cereja		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Cereja-72532.html				pending
+fava-tonka	Fava Tonka		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Fava-Tonka-72547.html				pending
+figo	Figo		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Figo-72530.html				pending
+flor-de-pitanga	Flor de Pitanga		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Flor-de-Pitanga-72531.html				pending
+folha-de-figo	Folha de Figo		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Folha-de-Figo-72553.html				pending
+jasmim	Jasmim		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Jasmim-72538.html				pending
+lavanda	Lavanda		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Lavanda-72533.html				pending
+lavanda-oud	Lavanda Oud		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Lavanda-Oud-72542.html				pending
+olivier	Olivier		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Olivier-72537.html				pending
+olivia	Olívia		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Olivia-72534.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Patchouli-72550.html				pending
+rosa	Rosa		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Rosa-72540.html				pending
+sandalo	Sândalo		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Sandalo-72552.html				pending
+vetiver	Vetiver		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/Vetiver-72551.html				pending
+iris	íris		unisex	https://www.fragrantica.com/perfume/O-Livia-Inspiracao-Botanica/iris-72549.html				pending

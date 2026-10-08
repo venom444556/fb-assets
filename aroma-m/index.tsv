@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-geisha-blanche-eau-de-parfum	Geisha Blanche Eau de Parfum		female		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Blanche-Eau-de-Parfum-6055.html				pending
-geisha-noire-eau-de-parfum	Geisha Noire Eau de Parfum		female		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Noire-Eau-de-Parfum-6053.html				pending
-geisha-rouge-eau-de-parfum	Geisha Rouge Eau de Parfum		female		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Rouge-Eau-de-Parfum-14190.html				pending
-geisha-vanilla-hinoki-eau-de-parfum	Geisha Vanilla Hinoki Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Vanilla-Hinoki-Eau-de-Parfum-38200.html				pending
-camellia-eau-de-parfum	Camellia Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Aroma-M/Camellia-Eau-de-Parfum-28184.html				pending
-geisha-blue-roll-on-perfume-oil	Geisha Blue Roll-On Perfume Oil		unisex		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Blue-Roll-On-Perfume-Oil-39137.html				pending
-geisha-botan-eau-de-parfum	Geisha Botan Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Botan-Eau-de-Parfum-53723.html				pending
-geisha-green-roll-on-perfume-oil	Geisha Green Roll-on Perfume Oil		unisex		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Green-Roll-on-Perfume-Oil-39135.html				pending
-geisha-hana-cha-eau-de-parfum	Geisha Hana-Cha Eau de Parfum		female		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Hana-Cha-Eau-de-Parfum-6051.html				pending
-geisha-marron-roll-on-perfume-oil	Geisha Marron Roll-On Perfume Oil		female		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Marron-Roll-On-Perfume-Oil-39133.html				pending
-geisha-nobara-cha-eau-de-parfum	Geisha Nobara-Cha Eau de Parfum		female		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Nobara-Cha-Eau-de-Parfum-6052.html				pending
-geisha-noire-roll-on-perfume-oil	Geisha Noire Roll-On Perfume Oil		unisex		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Noire-Roll-On-Perfume-Oil-71935.html				pending
-geisha-o-cha-eau-de-parfum	Geisha O-Cha Eau de Parfum		female		https://www.fragrantica.com/perfume/Aroma-M/Geisha-O-Cha-Eau-de-Parfum-6054.html				pending
-geisha-pink-roll-on-perfume-oil	Geisha Pink Roll-On Perfume Oil		female		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Pink-Roll-On-Perfume-Oil-39136.html				pending
-geisha-rouge-roll-on-perfume-oil	Geisha Rouge Roll-On Perfume Oil		unisex		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Rouge-Roll-On-Perfume-Oil-71934.html				pending
-geisha-vanilla-hinoki-roll-on-perfume-oil	Geisha Vanilla Hinoki Roll-on Perfume Oil		unisex		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Vanilla-Hinoki-Roll-on-Perfume-Oil-71932.html				pending
-geisha-violet-roll-on-perfume-oil	Geisha Violet Roll-On Perfume Oil		female		https://www.fragrantica.com/perfume/Aroma-M/Geisha-Violet-Roll-On-Perfume-Oil-39134.html				pending
-nobara-cha-roll-on-perfume-oil	Nobara-Cha Roll-On Perfume Oil		unisex		https://www.fragrantica.com/perfume/Aroma-M/Nobara-Cha-Roll-On-Perfume-Oil-71933.html				pending
-voluptuous-nostalgia	Voluptuous Nostalgia		female		https://www.fragrantica.com/perfume/Aroma-M/Voluptuous-Nostalgia-32895.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+camellia-eau-de-parfum	Camellia Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Aroma-M/Camellia-Eau-de-Parfum-28184.html				pending
+geisha-blanche-eau-de-parfum	Geisha Blanche Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Blanche-Eau-de-Parfum-6055.html				pending
+geisha-blue-roll-on-perfume-oil	Geisha Blue Roll-On Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Blue-Roll-On-Perfume-Oil-39137.html				pending
+geisha-botan-eau-de-parfum	Geisha Botan Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Botan-Eau-de-Parfum-53723.html				pending
+geisha-green-roll-on-perfume-oil	Geisha Green Roll-on Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Green-Roll-on-Perfume-Oil-39135.html				pending
+geisha-hana-cha-eau-de-parfum	Geisha Hana-Cha Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Hana-Cha-Eau-de-Parfum-6051.html				pending
+geisha-marron-roll-on-perfume-oil	Geisha Marron Roll-On Perfume Oil	Perfume Oil	female	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Marron-Roll-On-Perfume-Oil-39133.html				pending
+geisha-nobara-cha-eau-de-parfum	Geisha Nobara-Cha Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Nobara-Cha-Eau-de-Parfum-6052.html				pending
+geisha-noire-eau-de-parfum	Geisha Noire Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Noire-Eau-de-Parfum-6053.html				pending
+geisha-noire-roll-on-perfume-oil	Geisha Noire Roll-On Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Noire-Roll-On-Perfume-Oil-71935.html				pending
+geisha-o-cha-eau-de-parfum	Geisha O-Cha Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Aroma-M/Geisha-O-Cha-Eau-de-Parfum-6054.html				pending
+geisha-pink-roll-on-perfume-oil	Geisha Pink Roll-On Perfume Oil	Perfume Oil	female	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Pink-Roll-On-Perfume-Oil-39136.html				pending
+geisha-rouge-eau-de-parfum	Geisha Rouge Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Rouge-Eau-de-Parfum-14190.html				pending
+geisha-rouge-roll-on-perfume-oil	Geisha Rouge Roll-On Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Rouge-Roll-On-Perfume-Oil-71934.html				pending
+geisha-vanilla-hinoki-eau-de-parfum	Geisha Vanilla Hinoki Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Vanilla-Hinoki-Eau-de-Parfum-38200.html				pending
+geisha-vanilla-hinoki-roll-on-perfume-oil	Geisha Vanilla Hinoki Roll-on Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Vanilla-Hinoki-Roll-on-Perfume-Oil-71932.html				pending
+geisha-violet-roll-on-perfume-oil	Geisha Violet Roll-On Perfume Oil	Perfume Oil	female	https://www.fragrantica.com/perfume/Aroma-M/Geisha-Violet-Roll-On-Perfume-Oil-39134.html				pending
+nobara-cha-roll-on-perfume-oil	Nobara-Cha Roll-On Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Aroma-M/Nobara-Cha-Roll-On-Perfume-Oil-71933.html				pending
+voluptuous-nostalgia	Voluptuous Nostalgia		female	https://www.fragrantica.com/perfume/Aroma-M/Voluptuous-Nostalgia-32895.html				pending

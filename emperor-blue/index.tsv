@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-caballera	Caballera		female		https://www.fragrantica.com/perfume/Emperor-Blue/Caballera-89162.html				pending
-caballero	Caballero		male		https://www.fragrantica.com/perfume/Emperor-Blue/Caballero-89161.html				pending
-dominant	Dominant		male		https://www.fragrantica.com/perfume/Emperor-Blue/Dominant-89194.html				pending
-emperador	Emperador		male		https://www.fragrantica.com/perfume/Emperor-Blue/Emperador-89136.html				pending
-emperatriz	Emperatriz		female		https://www.fragrantica.com/perfume/Emperor-Blue/Emperatriz-89137.html				pending
-glorious	Glorious		female		https://www.fragrantica.com/perfume/Emperor-Blue/Glorious-89189.html				pending
-grandiosa	Grandiosa		female		https://www.fragrantica.com/perfume/Emperor-Blue/Grandiosa-89186.html				pending
-grandiose	Grandiose		male		https://www.fragrantica.com/perfume/Emperor-Blue/Grandiose-89185.html				pending
-immortal	Immortal		unisex		https://www.fragrantica.com/perfume/Emperor-Blue/Immortal-89139.html				pending
-independent	Independent		female		https://www.fragrantica.com/perfume/Emperor-Blue/Independent-89226.html				pending
-indivisible	Indivisible		female		https://www.fragrantica.com/perfume/Emperor-Blue/Indivisible-89225.html				pending
-infinite	Infinite		female		https://www.fragrantica.com/perfume/Emperor-Blue/Infinite-89138.html				pending
-irresistible	Irresistible		unisex		https://www.fragrantica.com/perfume/Emperor-Blue/Irresistible-89218.html				pending
-lionheart	Lionheart		male		https://www.fragrantica.com/perfume/Emperor-Blue/Lionheart-89190.html				pending
-magnificent	Magnificent		female		https://www.fragrantica.com/perfume/Emperor-Blue/Magnificent-89188.html				pending
-victorious	Victorious		male		https://www.fragrantica.com/perfume/Emperor-Blue/Victorious-89187.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+caballera	Caballera		female	https://www.fragrantica.com/perfume/Emperor-Blue/Caballera-89162.html				pending
+caballero	Caballero		male	https://www.fragrantica.com/perfume/Emperor-Blue/Caballero-89161.html				pending
+dominant	Dominant		male	https://www.fragrantica.com/perfume/Emperor-Blue/Dominant-89194.html				pending
+emperador	Emperador		male	https://www.fragrantica.com/perfume/Emperor-Blue/Emperador-89136.html				pending
+emperatriz	Emperatriz		female	https://www.fragrantica.com/perfume/Emperor-Blue/Emperatriz-89137.html				pending
+glorious	Glorious		female	https://www.fragrantica.com/perfume/Emperor-Blue/Glorious-89189.html				pending
+grandiosa	Grandiosa		female	https://www.fragrantica.com/perfume/Emperor-Blue/Grandiosa-89186.html				pending
+grandiose	Grandiose		male	https://www.fragrantica.com/perfume/Emperor-Blue/Grandiose-89185.html				pending
+immortal	Immortal		unisex	https://www.fragrantica.com/perfume/Emperor-Blue/Immortal-89139.html				pending
+independent	Independent		female	https://www.fragrantica.com/perfume/Emperor-Blue/Independent-89226.html				pending
+indivisible	Indivisible		female	https://www.fragrantica.com/perfume/Emperor-Blue/Indivisible-89225.html				pending
+infinite	Infinite		female	https://www.fragrantica.com/perfume/Emperor-Blue/Infinite-89138.html				pending
+irresistible	Irresistible		unisex	https://www.fragrantica.com/perfume/Emperor-Blue/Irresistible-89218.html				pending
+lionheart	Lionheart		male	https://www.fragrantica.com/perfume/Emperor-Blue/Lionheart-89190.html				pending
+magnificent	Magnificent		female	https://www.fragrantica.com/perfume/Emperor-Blue/Magnificent-89188.html				pending
+victorious	Victorious		male	https://www.fragrantica.com/perfume/Emperor-Blue/Victorious-89187.html				pending

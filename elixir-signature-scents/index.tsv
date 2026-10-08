@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-musc	Acqua Musc		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Acqua-Musc-77407.html				pending
-ambrosia	Ambrosia		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Ambrosia-77408.html				pending
-blu-infini	Blu Infini		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Blu-Infini-77409.html				pending
-deja-vu	Deja Vu		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Deja-Vu-77410.html				pending
-elixir-of-life	Elixir of Life		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Elixir-of-Life-77411.html				pending
-elude-elixir-of-the-cellar	Elude - Elixir Of The Cellar		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Elude-Elixir-Of-The-Cellar-77710.html				pending
-hypnotic	Hypnotic		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Hypnotic-77412.html				pending
-impetus-elixir-of-the-ocean	Impetus - Elixir Of The Ocean		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Impetus-Elixir-Of-The-Ocean-77715.html				pending
-inversion-elixir-of-kush	Inversion - Elixir Of Kush		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Inversion-Elixir-Of-Kush-77714.html				pending
-legendary-oud	Legendary Oud		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Legendary-Oud-91996.html				pending
-lygo-elixir-of-the-diablo	Lygo - Elixir Of The Diablo		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Lygo-Elixir-Of-The-Diablo-77712.html				pending
-marbella	Marbella		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Marbella-77413.html				pending
-radiatus-elixir-of-the-sun	Radiatus - Elixir Of The Sun		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Radiatus-Elixir-Of-The-Sun-77713.html				pending
-sang-noir	Sang Noir		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Sang-Noir-77414.html				pending
-xyst-elixir-of-love	Xyst - Elixir Of Love		unisex		https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Xyst-Elixir-Of-Love-77711.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-musc	Acqua Musc		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Acqua-Musc-77407.html				pending
+ambrosia	Ambrosia		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Ambrosia-77408.html				pending
+blu-infini	Blu Infini		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Blu-Infini-77409.html				pending
+deja-vu	Deja Vu		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Deja-Vu-77410.html				pending
+elixir-of-life	Elixir of Life		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Elixir-of-Life-77411.html				pending
+elude-elixir-of-the-cellar	Elude - Elixir Of The Cellar		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Elude-Elixir-Of-The-Cellar-77710.html				pending
+hypnotic	Hypnotic		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Hypnotic-77412.html				pending
+impetus-elixir-of-the-ocean	Impetus - Elixir Of The Ocean		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Impetus-Elixir-Of-The-Ocean-77715.html				pending
+inversion-elixir-of-kush	Inversion - Elixir Of Kush		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Inversion-Elixir-Of-Kush-77714.html				pending
+legendary-oud	Legendary Oud		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Legendary-Oud-91996.html				pending
+lygo-elixir-of-the-diablo	Lygo - Elixir Of The Diablo		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Lygo-Elixir-Of-The-Diablo-77712.html				pending
+marbella	Marbella		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Marbella-77413.html				pending
+radiatus-elixir-of-the-sun	Radiatus - Elixir Of The Sun		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Radiatus-Elixir-Of-The-Sun-77713.html				pending
+sang-noir	Sang Noir		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Sang-Noir-77414.html				pending
+xyst-elixir-of-love	Xyst - Elixir Of Love		unisex	https://www.fragrantica.com/perfume/Elixir-Signature-Scents/Xyst-Elixir-Of-Love-77711.html				pending

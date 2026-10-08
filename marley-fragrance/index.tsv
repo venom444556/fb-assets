@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-lights-down-low	Lights Down Low		unisex		https://www.fragrantica.com/perfume/Marley-Fragrance/Lights-Down-Low-105859.html				pending
-place-of-peace	Place of Peace		unisex		https://www.fragrantica.com/perfume/Marley-Fragrance/Place-of-Peace-105854.html				pending
-satisfy-my-soul	Satisfy My Soul		unisex		https://www.fragrantica.com/perfume/Marley-Fragrance/Satisfy-My-Soul-105860.html				pending
-simmer-down	Simmer Down		unisex		https://www.fragrantica.com/perfume/Marley-Fragrance/Simmer-Down-105856.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+lights-down-low	Lights Down Low		unisex	https://www.fragrantica.com/perfume/Marley-Fragrance/Lights-Down-Low-105859.html				pending
+place-of-peace	Place of Peace		unisex	https://www.fragrantica.com/perfume/Marley-Fragrance/Place-of-Peace-105854.html				pending
+satisfy-my-soul	Satisfy My Soul		unisex	https://www.fragrantica.com/perfume/Marley-Fragrance/Satisfy-My-Soul-105860.html				pending
+simmer-down	Simmer Down		unisex	https://www.fragrantica.com/perfume/Marley-Fragrance/Simmer-Down-105856.html				pending

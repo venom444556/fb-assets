@@ -1,38 +1,38 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-boys	Boys		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Boys-39326.html				pending
-cuore-di-codibel	Cuore Di Codibel		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Cuore-Di-Codibel-38850.html				pending
-dakar	Dakar		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Dakar-39324.html				pending
-f1-formula-1	F1 Formula 1		male		https://www.fragrantica.com/perfume/Parfums-Codibel/F1-Formula-1-39333.html				pending
-f1-formula-1-go	F1 Formula 1 Go		male		https://www.fragrantica.com/perfume/Parfums-Codibel/F1-Formula-1-Go-39332.html				pending
-f1-formula-1-power	F1 Formula 1 Power		male		https://www.fragrantica.com/perfume/Parfums-Codibel/F1-Formula-1-Power-39334.html				pending
-f1-formula-1-racing	F1 Formula 1 Racing		male		https://www.fragrantica.com/perfume/Parfums-Codibel/F1-Formula-1-Racing-39331.html				pending
-femme-de-codibel	Femme de Codibel		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Femme-de-Codibel-38837.html				pending
-femme-de-nuit	Femme de Nuit		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Femme-de-Nuit-38839.html				pending
-femme-en-rouge	Femme en Rouge		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Femme-en-Rouge-38838.html				pending
-fido-dido	Fido Dido		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Fido-Dido-39330.html				pending
-for-night-gold	For Night Gold		female		https://www.fragrantica.com/perfume/Parfums-Codibel/For-Night-Gold-39317.html				pending
-for-night-silver	For Night Silver		female		https://www.fragrantica.com/perfume/Parfums-Codibel/For-Night-Silver-39316.html				pending
-for-night-women	For Night Women		female		https://www.fragrantica.com/perfume/Parfums-Codibel/For-Night-Women-39315.html				pending
-gaudi	Gaudi		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Gaudi-38835.html				pending
-gaudi-39318	Gaudi		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Gaudi-39318.html				pending
-girls	Girls		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Girls-38849.html				pending
-granada-di-codibel	Granada di Codibel		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Granada-di-Codibel-38882.html				pending
-h2o	H2O		female		https://www.fragrantica.com/perfume/Parfums-Codibel/H2O-38877.html				pending
-karissima	Karissima		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Karissima-38879.html				pending
-latino	Latino		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Latino-39329.html				pending
-latino-absoluto	Latino Absoluto		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Latino-Absoluto-38880.html				pending
-latino-absoluto-39335	Latino Absoluto		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Latino-Absoluto-39335.html				pending
-magic-black-man	Magic Black Man		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Magic-Black-Man-39336.html				pending
-magic-black-woman	Magic Black Woman		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Magic-Black-Woman-38881.html				pending
-paris-dakar-arenas	Paris - Dakar Arenas		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Arenas-39320.html				pending
-paris-dakar-extreme	Paris - Dakar Extreme		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Extreme-39323.html				pending
-paris-dakar-gran-reserva	Paris - Dakar Gran Reserva		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Gran-Reserva-39322.html				pending
-paris-dakar-motors	Paris - Dakar Motors		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Motors-39325.html				pending
-paris-dakar-pour-femme	Paris - Dakar Pour Femme		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Pour-Femme-38836.html				pending
-paris-dakar-pour-homme	Paris - Dakar Pour Homme		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Pour-Homme-39319.html				pending
-paris-dakar-rain	Paris - Dakar Rain		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Rain-39321.html				pending
-polvora	Polvora		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Polvora-39327.html				pending
-rosas-frescas	Rosas Frescas		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Rosas-Frescas-38876.html				pending
-venezia-di-codibel	Venezia Di Codibel		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Venezia-Di-Codibel-38847.html				pending
-venezia-di-notte	Venezia di Notte		female		https://www.fragrantica.com/perfume/Parfums-Codibel/Venezia-di-Notte-38848.html				pending
-web	Web		male		https://www.fragrantica.com/perfume/Parfums-Codibel/Web-39328.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+boys	Boys		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Boys-39326.html				pending
+cuore-di-codibel	Cuore Di Codibel		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Cuore-Di-Codibel-38850.html				pending
+dakar	Dakar		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Dakar-39324.html				pending
+f1-formula-1	F1 Formula 1		male	https://www.fragrantica.com/perfume/Parfums-Codibel/F1-Formula-1-39333.html				pending
+f1-formula-1-go	F1 Formula 1 Go		male	https://www.fragrantica.com/perfume/Parfums-Codibel/F1-Formula-1-Go-39332.html				pending
+f1-formula-1-power	F1 Formula 1 Power		male	https://www.fragrantica.com/perfume/Parfums-Codibel/F1-Formula-1-Power-39334.html				pending
+f1-formula-1-racing	F1 Formula 1 Racing		male	https://www.fragrantica.com/perfume/Parfums-Codibel/F1-Formula-1-Racing-39331.html				pending
+femme-de-codibel	Femme de Codibel		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Femme-de-Codibel-38837.html				pending
+femme-de-nuit	Femme de Nuit		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Femme-de-Nuit-38839.html				pending
+femme-en-rouge	Femme en Rouge		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Femme-en-Rouge-38838.html				pending
+fido-dido	Fido Dido		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Fido-Dido-39330.html				pending
+for-night-gold	For Night Gold		female	https://www.fragrantica.com/perfume/Parfums-Codibel/For-Night-Gold-39317.html				pending
+for-night-silver	For Night Silver		female	https://www.fragrantica.com/perfume/Parfums-Codibel/For-Night-Silver-39316.html				pending
+for-night-women	For Night Women		female	https://www.fragrantica.com/perfume/Parfums-Codibel/For-Night-Women-39315.html				pending
+gaudi	Gaudi		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Gaudi-38835.html				pending
+gaudi-39318	Gaudi		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Gaudi-39318.html				pending
+girls	Girls		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Girls-38849.html				pending
+granada-di-codibel	Granada di Codibel		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Granada-di-Codibel-38882.html				pending
+h2o	H2O		female	https://www.fragrantica.com/perfume/Parfums-Codibel/H2O-38877.html				pending
+karissima	Karissima		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Karissima-38879.html				pending
+latino	Latino		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Latino-39329.html				pending
+latino-absoluto	Latino Absoluto		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Latino-Absoluto-38880.html				pending
+latino-absoluto-39335	Latino Absoluto		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Latino-Absoluto-39335.html				pending
+magic-black-man	Magic Black Man		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Magic-Black-Man-39336.html				pending
+magic-black-woman	Magic Black Woman		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Magic-Black-Woman-38881.html				pending
+paris-dakar-arenas	Paris - Dakar Arenas		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Arenas-39320.html				pending
+paris-dakar-extreme	Paris - Dakar Extreme		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Extreme-39323.html				pending
+paris-dakar-gran-reserva	Paris - Dakar Gran Reserva		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Gran-Reserva-39322.html				pending
+paris-dakar-motors	Paris - Dakar Motors		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Motors-39325.html				pending
+paris-dakar-pour-femme	Paris - Dakar Pour Femme		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Pour-Femme-38836.html				pending
+paris-dakar-pour-homme	Paris - Dakar Pour Homme		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Pour-Homme-39319.html				pending
+paris-dakar-rain	Paris - Dakar Rain		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Paris-Dakar-Rain-39321.html				pending
+polvora	Polvora		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Polvora-39327.html				pending
+rosas-frescas	Rosas Frescas		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Rosas-Frescas-38876.html				pending
+venezia-di-codibel	Venezia Di Codibel		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Venezia-Di-Codibel-38847.html				pending
+venezia-di-notte	Venezia di Notte		female	https://www.fragrantica.com/perfume/Parfums-Codibel/Venezia-di-Notte-38848.html				pending
+web	Web		male	https://www.fragrantica.com/perfume/Parfums-Codibel/Web-39328.html				pending

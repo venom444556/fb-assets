@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-67-artemisia	67 Artemisia		unisex		https://www.fragrantica.com/perfume/Pomellato/67-Artemisia-26152.html				pending
-pomellato-nudo-amber	Pomellato Nudo Amber		female		https://www.fragrantica.com/perfume/Pomellato/Pomellato-Nudo-Amber-18891.html				pending
-pomellato-nudo-amber-intense	Pomellato Nudo Amber Intense		female		https://www.fragrantica.com/perfume/Pomellato/Pomellato-Nudo-Amber-Intense-28453.html				pending
-pomellato-nudo-blue	Pomellato Nudo Blue		female		https://www.fragrantica.com/perfume/Pomellato/Pomellato-Nudo-Blue-18889.html				pending
-pomellato-nudo-rose	Pomellato Nudo Rose		female		https://www.fragrantica.com/perfume/Pomellato/Pomellato-Nudo-Rose-18890.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+67-artemisia	67 Artemisia		unisex	https://www.fragrantica.com/perfume/Pomellato/67-Artemisia-26152.html				pending
+pomellato-nudo-amber	Pomellato Nudo Amber		female	https://www.fragrantica.com/perfume/Pomellato/Pomellato-Nudo-Amber-18891.html				pending
+pomellato-nudo-amber-intense	Pomellato Nudo Amber Intense		female	https://www.fragrantica.com/perfume/Pomellato/Pomellato-Nudo-Amber-Intense-28453.html				pending
+pomellato-nudo-blue	Pomellato Nudo Blue		female	https://www.fragrantica.com/perfume/Pomellato/Pomellato-Nudo-Blue-18889.html				pending
+pomellato-nudo-rose	Pomellato Nudo Rose		female	https://www.fragrantica.com/perfume/Pomellato/Pomellato-Nudo-Rose-18890.html				pending

@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambra-di-venezia	Ambra di Venezia		unisex		https://www.fragrantica.com/perfume/Acque-di-Italia/Ambra-di-Venezia-27001.html				pending
-cedro-di-pantelleria	Cedro di Pantelleria		unisex		https://www.fragrantica.com/perfume/Acque-di-Italia/Cedro-di-Pantelleria-27000.html				pending
-giglio-di-sardegna	Giglio di Sardegna		female		https://www.fragrantica.com/perfume/Acque-di-Italia/Giglio-di-Sardegna-27002.html				pending
-gran-bouquet-italiano	Gran Bouquet Italiano		unisex		https://www.fragrantica.com/perfume/Acque-di-Italia/Gran-Bouquet-Italiano-27003.html				pending
-iris-di-toscana	Iris di Toscana		female		https://www.fragrantica.com/perfume/Acque-di-Italia/Iris-di-Toscana-27004.html				pending
-muschio-del-trentino	Muschio del Trentino		unisex		https://www.fragrantica.com/perfume/Acque-di-Italia/Muschio-del-Trentino-26999.html				pending
-oleandro-di-panarea	Oleandro di Panarea		female		https://www.fragrantica.com/perfume/Acque-di-Italia/Oleandro-di-Panarea-26998.html				pending
-peonia-di-amalfi	Peonia di Amalfi		female		https://www.fragrantica.com/perfume/Acque-di-Italia/Peonia-di-Amalfi-27005.html				pending
-rosa-di-portofino	Rosa di Portofino		female		https://www.fragrantica.com/perfume/Acque-di-Italia/Rosa-di-Portofino-27007.html				pending
-zagara-di-sicilia	Zagara di Sicilia		unisex		https://www.fragrantica.com/perfume/Acque-di-Italia/Zagara-di-Sicilia-27006.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambra-di-venezia	Ambra di Venezia		unisex	https://www.fragrantica.com/perfume/Acque-di-Italia/Ambra-di-Venezia-27001.html				pending
+cedro-di-pantelleria	Cedro di Pantelleria		unisex	https://www.fragrantica.com/perfume/Acque-di-Italia/Cedro-di-Pantelleria-27000.html				pending
+giglio-di-sardegna	Giglio di Sardegna		female	https://www.fragrantica.com/perfume/Acque-di-Italia/Giglio-di-Sardegna-27002.html				pending
+gran-bouquet-italiano	Gran Bouquet Italiano		unisex	https://www.fragrantica.com/perfume/Acque-di-Italia/Gran-Bouquet-Italiano-27003.html				pending
+iris-di-toscana	Iris di Toscana		female	https://www.fragrantica.com/perfume/Acque-di-Italia/Iris-di-Toscana-27004.html				pending
+muschio-del-trentino	Muschio del Trentino		unisex	https://www.fragrantica.com/perfume/Acque-di-Italia/Muschio-del-Trentino-26999.html				pending
+oleandro-di-panarea	Oleandro di Panarea		female	https://www.fragrantica.com/perfume/Acque-di-Italia/Oleandro-di-Panarea-26998.html				pending
+peonia-di-amalfi	Peonia di Amalfi		female	https://www.fragrantica.com/perfume/Acque-di-Italia/Peonia-di-Amalfi-27005.html				pending
+rosa-di-portofino	Rosa di Portofino		female	https://www.fragrantica.com/perfume/Acque-di-Italia/Rosa-di-Portofino-27007.html				pending
+zagara-di-sicilia	Zagara di Sicilia		unisex	https://www.fragrantica.com/perfume/Acque-di-Italia/Zagara-di-Sicilia-27006.html				pending

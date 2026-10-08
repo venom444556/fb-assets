@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bergamask	Bergamask		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Bergamask-24191.html				pending
-boccanera	Boccanera		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Boccanera-24195.html				pending
-brutus	Brutus		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Brutus-24194.html				pending
-cuoium	Cuoium		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Cuoium-69923.html				pending
-megamare	Megamare		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Megamare-53471.html				pending
-risvelium	Risvelium		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Risvelium-104365.html				pending
-stercus	Stercus		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Stercus-24192.html				pending
-terroni	Terroni		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Terroni-45475.html				pending
-viride	Viride		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Viride-24193.html				pending
-seminalis	Seminalis		unisex		https://www.fragrantica.com/perfume/Orto-Parisi/Seminalis-38293.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bergamask	Bergamask		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Bergamask-24191.html				pending
+boccanera	Boccanera		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Boccanera-24195.html				pending
+brutus	Brutus		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Brutus-24194.html				pending
+cuoium	Cuoium		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Cuoium-69923.html				pending
+megamare	Megamare		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Megamare-53471.html				pending
+risvelium	Risvelium		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Risvelium-104365.html				pending
+seminalis	Seminalis		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Seminalis-38293.html				pending
+stercus	Stercus		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Stercus-24192.html				pending
+terroni	Terroni		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Terroni-45475.html				pending
+viride	Viride		unisex	https://www.fragrantica.com/perfume/Orto-Parisi/Viride-24193.html				pending

@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-collection-homme-the-brun	Collection Homme/Thé Brun		male		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Collection-Homme-The-Brun-6730.html				pending
-fleurs-dombre-jasmin-lilas	Fleurs d'Ombre/Jasmin Lilas		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Jasmin-Lilas-6727.html				pending
-fleurs-dombre-nymphea	Fleurs d'Ombre/Nymphéa		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Nymphea-19051.html				pending
-fleurs-dombre-ombre-bleue	Fleurs d'Ombre/Ombre Bleue		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Ombre-Bleue-6728.html				pending
-fleurs-dombre-rose	Fleurs d'Ombre/Rose		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Rose-21862.html				pending
-fleurs-dombre-the-poudre	Fleurs d'Ombre/Thé Poudré		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-The-Poudre-44970.html				pending
-fleurs-dombre-violette-menthe	Fleurs d'Ombre/Violette - Menthe		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Violette-Menthe-6729.html				pending
-ombre-orientale	Ombre Orientale		unisex		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Orientale-19052.html				pending
-ombre-platine	Ombre Platine		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Platine-13591.html				pending
-ombre-rubis	Ombre Rubis		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Rubis-30954.html				pending
-atlas-cedar	Atlas Cedar		male		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Atlas-Cedar-6726.html				pending
-bois-dorient	Bois D'Orient		male		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Bois-D-Orient-13592.html				pending
-fleurs-dombre-bergamote	Fleurs d'Ombre Bergamote		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Bergamote-6725.html				pending
-fleurs-dombre-heliotrope	Fleurs d'Ombre Héliotrope		unisex		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Heliotrope-80402.html				pending
-fruit-de-bois	Fruit de Bois		male		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fruit-de-Bois-13593.html				pending
-ombre-azurite	Ombre Azurite		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Azurite-50111.html				pending
-ombre-bleue-loriginal	Ombre Bleue L'Original		unisex		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Bleue-L-Original-80403.html				pending
-ombre-dor	Ombre D'Or		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-D-Or-3974.html				pending
-ombre-rose-edition-dexception-eau-de-parfum	Ombre Rose Edition d'Exception Eau de Parfum		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Rose-Edition-d-Exception-Eau-de-Parfum-66879.html				pending
-ombre-rose-loriginal	Ombre Rose L'Original		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Rose-L-Original-3973.html				pending
-ombre-rose-parfum	Ombre Rose Parfum		female		https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Rose-Parfum-66878.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+atlas-cedar	Atlas Cedar		male	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Atlas-Cedar-6726.html				pending
+bois-dorient	Bois D'Orient		male	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Bois-D-Orient-13592.html				pending
+collection-homme-the-brun	Collection Homme/Thé Brun		male	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Collection-Homme-The-Brun-6730.html				pending
+fleurs-dombre-bergamote	Fleurs d'Ombre Bergamote		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Bergamote-6725.html				pending
+fleurs-dombre-heliotrope	Fleurs d'Ombre Héliotrope		unisex	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Heliotrope-80402.html				pending
+fleurs-dombre-jasmin-lilas	Fleurs d'Ombre/Jasmin Lilas		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Jasmin-Lilas-6727.html				pending
+fleurs-dombre-nymphea	Fleurs d'Ombre/Nymphéa		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Nymphea-19051.html				pending
+fleurs-dombre-ombre-bleue	Fleurs d'Ombre/Ombre Bleue		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Ombre-Bleue-6728.html				pending
+fleurs-dombre-rose	Fleurs d'Ombre/Rose		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Rose-21862.html				pending
+fleurs-dombre-the-poudre	Fleurs d'Ombre/Thé Poudré		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-The-Poudre-44970.html				pending
+fleurs-dombre-violette-menthe	Fleurs d'Ombre/Violette - Menthe		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fleurs-d-Ombre-Violette-Menthe-6729.html				pending
+fruit-de-bois	Fruit de Bois		male	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Fruit-de-Bois-13593.html				pending
+ombre-azurite	Ombre Azurite		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Azurite-50111.html				pending
+ombre-bleue-loriginal	Ombre Bleue L'Original		unisex	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Bleue-L-Original-80403.html				pending
+ombre-dor	Ombre D'Or		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-D-Or-3974.html				pending
+ombre-orientale	Ombre Orientale		unisex	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Orientale-19052.html				pending
+ombre-platine	Ombre Platine		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Platine-13591.html				pending
+ombre-rose-edition-dexception-eau-de-parfum	Ombre Rose Edition d'Exception Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Rose-Edition-d-Exception-Eau-de-Parfum-66879.html				pending
+ombre-rose-loriginal	Ombre Rose L'Original		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Rose-L-Original-3973.html				pending
+ombre-rose-parfum	Ombre Rose Parfum	Parfum	female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Rose-Parfum-66878.html				pending
+ombre-rubis	Ombre Rubis		female	https://www.fragrantica.com/perfume/Jean-Charles-Brosseau/Ombre-Rubis-30954.html				pending

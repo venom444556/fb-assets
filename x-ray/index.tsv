@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amnesia	Amnesia		unisex		https://www.fragrantica.com/perfume/X-Ray/Amnesia-25139.html				pending
-delirium	Delirium		female		https://www.fragrantica.com/perfume/X-Ray/Delirium-15161.html				pending
-enigma	Enigma		unisex		https://www.fragrantica.com/perfume/X-Ray/Enigma-20836.html				pending
-lacquered-rose	Lacquered Rose		unisex		https://www.fragrantica.com/perfume/X-Ray/Lacquered-Rose-16491.html				pending
-morphine	Morphine		unisex		https://www.fragrantica.com/perfume/X-Ray/Morphine-15162.html				pending
-plastique	Plastique		unisex		https://www.fragrantica.com/perfume/X-Ray/Plastique-16490.html				pending
-resurrextion	Resurrextion		unisex		https://www.fragrantica.com/perfume/X-Ray/Resurrextion-15160.html				pending
-tantrum	Tantrum		unisex		https://www.fragrantica.com/perfume/X-Ray/Tantrum-18314.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amnesia	Amnesia		unisex	https://www.fragrantica.com/perfume/X-Ray/Amnesia-25139.html				pending
+delirium	Delirium		female	https://www.fragrantica.com/perfume/X-Ray/Delirium-15161.html				pending
+enigma	Enigma		unisex	https://www.fragrantica.com/perfume/X-Ray/Enigma-20836.html				pending
+lacquered-rose	Lacquered Rose		unisex	https://www.fragrantica.com/perfume/X-Ray/Lacquered-Rose-16491.html				pending
+morphine	Morphine		unisex	https://www.fragrantica.com/perfume/X-Ray/Morphine-15162.html				pending
+plastique	Plastique		unisex	https://www.fragrantica.com/perfume/X-Ray/Plastique-16490.html				pending
+resurrextion	Resurrextion		unisex	https://www.fragrantica.com/perfume/X-Ray/Resurrextion-15160.html				pending
+tantrum	Tantrum		unisex	https://www.fragrantica.com/perfume/X-Ray/Tantrum-18314.html				pending

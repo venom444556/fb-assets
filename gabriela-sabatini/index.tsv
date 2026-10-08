@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-devotion	Dévotion		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Devotion-586.html				pending
-elegance	Elegance		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Elegance-584.html				pending
-happy-life	Happy Life		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Happy-Life-31346.html				pending
-miss-gabriela	Miss Gabriela		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Miss-Gabriela-18551.html				pending
-miss-gabriela-night	Miss Gabriela Night		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Miss-Gabriela-Night-26238.html				pending
-ocean-sun	Ocean Sun		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Ocean-Sun-585.html				pending
-summer	Summer		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Summer-7140.html				pending
-temperamento	Temperamento		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Temperamento-583.html				pending
-bolero	Bolero		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Bolero-579.html				pending
-cascaya	Cascaya		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Cascaya-11023.html				pending
-cascaya-summer	Cascaya Summer		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Cascaya-Summer-11024.html				pending
-daylight	Daylight		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Daylight-581.html				pending
-devotion-for-men	Devotion for Men		male		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Devotion-for-Men-1886.html				pending
-gabriela-sabatini	Gabriela Sabatini		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Gabriela-Sabatini-580.html				pending
-latin-dance	Latin Dance		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Latin-Dance-3489.html				pending
-magnetic	Magnetic		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Magnetic-9104.html				pending
-private-edition	Private Edition		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Private-Edition-582.html				pending
-wild-wind	Wild Wind		female		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Wild-Wind-5757.html				pending
-wild-wind-for-men	Wild Wind for Men		male		https://www.fragrantica.com/perfume/Gabriela-Sabatini/Wild-Wind-for-Men-5758.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bolero	Bolero		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Bolero-579.html				pending
+cascaya	Cascaya		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Cascaya-11023.html				pending
+cascaya-summer	Cascaya Summer		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Cascaya-Summer-11024.html				pending
+daylight	Daylight		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Daylight-581.html				pending
+devotion-for-men	Devotion for Men		male	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Devotion-for-Men-1886.html				pending
+devotion	Dévotion		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Devotion-586.html				pending
+elegance	Elegance		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Elegance-584.html				pending
+gabriela-sabatini	Gabriela Sabatini		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Gabriela-Sabatini-580.html				pending
+happy-life	Happy Life		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Happy-Life-31346.html				pending
+latin-dance	Latin Dance		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Latin-Dance-3489.html				pending
+magnetic	Magnetic		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Magnetic-9104.html				pending
+miss-gabriela	Miss Gabriela		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Miss-Gabriela-18551.html				pending
+miss-gabriela-night	Miss Gabriela Night		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Miss-Gabriela-Night-26238.html				pending
+ocean-sun	Ocean Sun		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Ocean-Sun-585.html				pending
+private-edition	Private Edition		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Private-Edition-582.html				pending
+summer	Summer		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Summer-7140.html				pending
+temperamento	Temperamento		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Temperamento-583.html				pending
+wild-wind	Wild Wind		female	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Wild-Wind-5757.html				pending
+wild-wind-for-men	Wild Wind for Men		male	https://www.fragrantica.com/perfume/Gabriela-Sabatini/Wild-Wind-for-Men-5758.html				pending

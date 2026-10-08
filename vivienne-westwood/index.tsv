@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-anglomania	Anglomania		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Anglomania-1531.html				pending
-boudoir-jouy	Boudoir Jouy		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Boudoir-Jouy-6208.html				pending
-boudoir-sin-garden	Boudoir Sin Garden		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Boudoir-Sin-Garden-1533.html				pending
-cheeky-alice	Cheeky Alice		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Cheeky-Alice-13632.html				pending
-flirty-alice	Flirty Alice		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Flirty-Alice-17609.html				pending
-let-it-rock	Let It Rock		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Let-It-Rock-1534.html				pending
-libertine	Libertine		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Libertine-1535.html				pending
-mon-boudoir	Mon Boudoir		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Mon-Boudoir-21770.html				pending
-naughty-alice	Naughty Alice		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Naughty-Alice-9989.html				pending
-sunny-alice	Sunny Alice		female		https://www.fragrantica.com/perfume/Vivienne-Westwood/Sunny-Alice-24640.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+anglomania	Anglomania		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Anglomania-1531.html				pending
+boudoir-jouy	Boudoir Jouy		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Boudoir-Jouy-6208.html				pending
+boudoir-sin-garden	Boudoir Sin Garden		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Boudoir-Sin-Garden-1533.html				pending
+cheeky-alice	Cheeky Alice		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Cheeky-Alice-13632.html				pending
+flirty-alice	Flirty Alice		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Flirty-Alice-17609.html				pending
+let-it-rock	Let It Rock		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Let-It-Rock-1534.html				pending
+libertine	Libertine		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Libertine-1535.html				pending
+mon-boudoir	Mon Boudoir		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Mon-Boudoir-21770.html				pending
+naughty-alice	Naughty Alice		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Naughty-Alice-9989.html				pending
+sunny-alice	Sunny Alice		female	https://www.fragrantica.com/perfume/Vivienne-Westwood/Sunny-Alice-24640.html				pending

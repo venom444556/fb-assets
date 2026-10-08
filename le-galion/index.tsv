@@ -1,40 +1,40 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-222	222		unisex		https://www.fragrantica.com/perfume/Le-Galion/222-24542.html				pending
-aesthete	Aesthete		male		https://www.fragrantica.com/perfume/Le-Galion/Aesthete-30984.html				pending
-bourrasque-2020	Bourrasque (2020)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Bourrasque-2020-63458.html				pending
-cologne	Cologne		unisex		https://www.fragrantica.com/perfume/Le-Galion/Cologne-37477.html				pending
-cologne-nocturne	Cologne Nocturne		unisex		https://www.fragrantica.com/perfume/Le-Galion/Cologne-Nocturne-37476.html				pending
-cuir	Cuir		unisex		https://www.fragrantica.com/perfume/Le-Galion/Cuir-30982.html				pending
-eau-noble-2014	Eau Noble (2014)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Eau-Noble-2014-24541.html				pending
-iris	Iris		female		https://www.fragrantica.com/perfume/Le-Galion/Iris-24535.html				pending
-lastre	L'Astre		female		https://www.fragrantica.com/perfume/Le-Galion/L-Astre-80093.html				pending
-lame-perdue	L'âme Perdue		female		https://www.fragrantica.com/perfume/Le-Galion/L-ame-Perdue-48444.html				pending
-la-rose	La Rose		female		https://www.fragrantica.com/perfume/Le-Galion/La-Rose-24538.html				pending
-sang-bleu	Sang Bleu		male		https://www.fragrantica.com/perfume/Le-Galion/Sang-Bleu-39674.html				pending
-snob	Snob		female		https://www.fragrantica.com/perfume/Le-Galion/Snob-24539.html				pending
-sortilege-2014	Sortilege (2014)		female		https://www.fragrantica.com/perfume/Le-Galion/Sortilege-2014-24534.html				pending
-sovereign	Sovereign		male		https://www.fragrantica.com/perfume/Le-Galion/Sovereign-30988.html				pending
-special-for-gentlemen	Special for Gentlemen		male		https://www.fragrantica.com/perfume/Le-Galion/Special-for-Gentlemen-24537.html				pending
-tilleul	Tilleul		unisex		https://www.fragrantica.com/perfume/Le-Galion/Tilleul-63453.html				pending
-tubereuse	Tubereuse		female		https://www.fragrantica.com/perfume/Le-Galion/Tubereuse-24536.html				pending
-tulipe	Tulipe		unisex		https://www.fragrantica.com/perfume/Le-Galion/Tulipe-63456.html				pending
-vetyver	Vetyver		unisex		https://www.fragrantica.com/perfume/Le-Galion/Vetyver-30981.html				pending
-whip-2014	Whip (2014)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Whip-2014-24540.html				pending
-brumes-2020	Brumes (2020)		female		https://www.fragrantica.com/perfume/Le-Galion/Brumes-2020-63457.html				pending
-champs-de-mai-2020	Champs de Mai (2020)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Champs-de-Mai-2020-63460.html				pending
-chypre-2020	Chypre (2020)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Chypre-2020-63459.html				pending
-eau-de-vetyver	Eau de Vetyver		male		https://www.fragrantica.com/perfume/Le-Galion/Eau-de-Vetyver-33434.html				pending
-eau-noble-1972	Eau Noble (1972)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Eau-Noble-1972-50032.html				pending
-eau-noble-2022	Eau Noble (2022)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Eau-Noble-2022-74382.html				pending
-esquive-2020	Esquive (2020)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Esquive-2020-63452.html				pending
-essence-noble	Essence Noble		unisex		https://www.fragrantica.com/perfume/Le-Galion/Essence-Noble-30987.html				pending
-ferveur	Ferveur		unisex		https://www.fragrantica.com/perfume/Le-Galion/Ferveur-76578.html				pending
-galion-dor	Galion d'Or		female		https://www.fragrantica.com/perfume/Le-Galion/Galion-d-Or-51427.html				pending
-jasmin-2020	Jasmin (2020)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Jasmin-2020-63455.html				pending
-lily-of-the-valley	Lily of the Valley		female		https://www.fragrantica.com/perfume/Le-Galion/Lily-of-the-Valley-48809.html				pending
-lily-of-the-valley-2020	Lily Of The Valley (2020)		unisex		https://www.fragrantica.com/perfume/Le-Galion/Lily-Of-The-Valley-2020-63454.html				pending
-megara	Megara		female		https://www.fragrantica.com/perfume/Le-Galion/Megara-58184.html				pending
-sortilege-2022	Sortilege (2022)		female		https://www.fragrantica.com/perfume/Le-Galion/Sortilege-2022-83059.html				pending
-sortilege-elixir	Sortilege Elixir		female		https://www.fragrantica.com/perfume/Le-Galion/Sortilege-Elixir-30986.html				pending
-sortilege	Sortilège		female		https://www.fragrantica.com/perfume/Le-Galion/Sortilege-51428.html				pending
-whip-1953	Whip (1953)		male		https://www.fragrantica.com/perfume/Le-Galion/Whip-1953-50033.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+222	222		unisex	https://www.fragrantica.com/perfume/Le-Galion/222-24542.html				pending
+aesthete	Aesthete		male	https://www.fragrantica.com/perfume/Le-Galion/Aesthete-30984.html				pending
+bourrasque-2020	Bourrasque (2020)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Bourrasque-2020-63458.html				pending
+brumes-2020	Brumes (2020)		female	https://www.fragrantica.com/perfume/Le-Galion/Brumes-2020-63457.html				pending
+champs-de-mai-2020	Champs de Mai (2020)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Champs-de-Mai-2020-63460.html				pending
+chypre-2020	Chypre (2020)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Chypre-2020-63459.html				pending
+cologne	Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Le-Galion/Cologne-37477.html				pending
+cologne-nocturne	Cologne Nocturne		unisex	https://www.fragrantica.com/perfume/Le-Galion/Cologne-Nocturne-37476.html				pending
+cuir	Cuir		unisex	https://www.fragrantica.com/perfume/Le-Galion/Cuir-30982.html				pending
+eau-de-vetyver	Eau de Vetyver		male	https://www.fragrantica.com/perfume/Le-Galion/Eau-de-Vetyver-33434.html				pending
+eau-noble-1972	Eau Noble (1972)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Eau-Noble-1972-50032.html				pending
+eau-noble-2014	Eau Noble (2014)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Eau-Noble-2014-24541.html				pending
+eau-noble-2022	Eau Noble (2022)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Eau-Noble-2022-74382.html				pending
+esquive-2020	Esquive (2020)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Esquive-2020-63452.html				pending
+essence-noble	Essence Noble		unisex	https://www.fragrantica.com/perfume/Le-Galion/Essence-Noble-30987.html				pending
+ferveur	Ferveur		unisex	https://www.fragrantica.com/perfume/Le-Galion/Ferveur-76578.html				pending
+galion-dor	Galion d'Or		female	https://www.fragrantica.com/perfume/Le-Galion/Galion-d-Or-51427.html				pending
+iris	Iris		female	https://www.fragrantica.com/perfume/Le-Galion/Iris-24535.html				pending
+jasmin-2020	Jasmin (2020)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Jasmin-2020-63455.html				pending
+lastre	L'Astre		female	https://www.fragrantica.com/perfume/Le-Galion/L-Astre-80093.html				pending
+lame-perdue	L'âme Perdue		female	https://www.fragrantica.com/perfume/Le-Galion/L-ame-Perdue-48444.html				pending
+la-rose	La Rose		female	https://www.fragrantica.com/perfume/Le-Galion/La-Rose-24538.html				pending
+lily-of-the-valley	Lily of the Valley		female	https://www.fragrantica.com/perfume/Le-Galion/Lily-of-the-Valley-48809.html				pending
+lily-of-the-valley-2020	Lily Of The Valley (2020)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Lily-Of-The-Valley-2020-63454.html				pending
+megara	Megara		female	https://www.fragrantica.com/perfume/Le-Galion/Megara-58184.html				pending
+sang-bleu	Sang Bleu		male	https://www.fragrantica.com/perfume/Le-Galion/Sang-Bleu-39674.html				pending
+snob	Snob		female	https://www.fragrantica.com/perfume/Le-Galion/Snob-24539.html				pending
+sortilege-2014	Sortilege (2014)		female	https://www.fragrantica.com/perfume/Le-Galion/Sortilege-2014-24534.html				pending
+sortilege-2022	Sortilege (2022)		female	https://www.fragrantica.com/perfume/Le-Galion/Sortilege-2022-83059.html				pending
+sortilege-elixir	Sortilege Elixir		female	https://www.fragrantica.com/perfume/Le-Galion/Sortilege-Elixir-30986.html				pending
+sortilege	Sortilège		female	https://www.fragrantica.com/perfume/Le-Galion/Sortilege-51428.html				pending
+sovereign	Sovereign		male	https://www.fragrantica.com/perfume/Le-Galion/Sovereign-30988.html				pending
+special-for-gentlemen	Special for Gentlemen		male	https://www.fragrantica.com/perfume/Le-Galion/Special-for-Gentlemen-24537.html				pending
+tilleul	Tilleul		unisex	https://www.fragrantica.com/perfume/Le-Galion/Tilleul-63453.html				pending
+tubereuse	Tubereuse		female	https://www.fragrantica.com/perfume/Le-Galion/Tubereuse-24536.html				pending
+tulipe	Tulipe		unisex	https://www.fragrantica.com/perfume/Le-Galion/Tulipe-63456.html				pending
+vetyver	Vetyver		unisex	https://www.fragrantica.com/perfume/Le-Galion/Vetyver-30981.html				pending
+whip-1953	Whip (1953)		male	https://www.fragrantica.com/perfume/Le-Galion/Whip-1953-50033.html				pending
+whip-2014	Whip (2014)		unisex	https://www.fragrantica.com/perfume/Le-Galion/Whip-2014-24540.html				pending

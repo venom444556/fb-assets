@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-edo-park	Edo Park		unisex		https://www.fragrantica.com/perfume/Cherigan/Edo-Park-69469.html				pending
-fiesta-habana	Fiesta Habana		unisex		https://www.fragrantica.com/perfume/Cherigan/Fiesta-Habana-80719.html				pending
-fleurs-de-tabac	Fleurs de Tabac		unisex		https://www.fragrantica.com/perfume/Cherigan/Fleurs-de-Tabac-69465.html				pending
-iris-coffee	Iris Coffee		unisex		https://www.fragrantica.com/perfume/Cherigan/Iris-Coffee-69470.html				pending
-lovers-in-pink	Lovers In Pink		unisex		https://www.fragrantica.com/perfume/Cherigan/Lovers-In-Pink-69466.html				pending
-or-des-iles	Or Des Îles		unisex		https://www.fragrantica.com/perfume/Cherigan/Or-Des-Iles-69467.html				pending
-shanghai-le-soir	Shanghai le Soir		unisex		https://www.fragrantica.com/perfume/Cherigan/Shanghai-le-Soir-103033.html				pending
-the-purple-bar	The Purple Bar		unisex		https://www.fragrantica.com/perfume/Cherigan/The-Purple-Bar-69471.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+edo-park	Edo Park		unisex	https://www.fragrantica.com/perfume/Cherigan/Edo-Park-69469.html				pending
+fiesta-habana	Fiesta Habana		unisex	https://www.fragrantica.com/perfume/Cherigan/Fiesta-Habana-80719.html				pending
+fleurs-de-tabac	Fleurs de Tabac		unisex	https://www.fragrantica.com/perfume/Cherigan/Fleurs-de-Tabac-69465.html				pending
+iris-coffee	Iris Coffee		unisex	https://www.fragrantica.com/perfume/Cherigan/Iris-Coffee-69470.html				pending
+lovers-in-pink	Lovers In Pink		unisex	https://www.fragrantica.com/perfume/Cherigan/Lovers-In-Pink-69466.html				pending
+or-des-iles	Or Des Îles		unisex	https://www.fragrantica.com/perfume/Cherigan/Or-Des-Iles-69467.html				pending
+shanghai-le-soir	Shanghai le Soir		unisex	https://www.fragrantica.com/perfume/Cherigan/Shanghai-le-Soir-103033.html				pending
+the-purple-bar	The Purple Bar		unisex	https://www.fragrantica.com/perfume/Cherigan/The-Purple-Bar-69471.html				pending

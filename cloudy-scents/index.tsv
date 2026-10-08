@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-06-ete-creme	[06] été crème		female		https://www.fragrantica.com/perfume/Cloudy-Scents/06-ete-creme-116087.html				pending
-4-vanilla-goddess	[4] vanilla goddess		female		https://www.fragrantica.com/perfume/Cloudy-Scents/4-vanilla-goddess-116141.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+06-ete-creme	[06] été crème		female	https://www.fragrantica.com/perfume/Cloudy-Scents/06-ete-creme-116087.html				pending
+4-vanilla-goddess	[4] vanilla goddess		female	https://www.fragrantica.com/perfume/Cloudy-Scents/4-vanilla-goddess-116141.html				pending

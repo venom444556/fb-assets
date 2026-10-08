@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alva	Alva		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Alva-29856.html				pending
-be-mine	Be Mine		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Be-Mine-29852.html				pending
-crystal-glam-lamour	Crystal Glam l'Amour		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Crystal-Glam-l-Amour-29847.html				pending
-dandy-lady	Dandy Lady		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Dandy-Lady-36241.html				pending
-edge	Edge		male		https://www.fragrantica.com/perfume/Fleur-de-Sante/Edge-29853.html				pending
-energetic-me	Energetic Me		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Energetic-Me-29855.html				pending
-exuberance	Exuberance		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Exuberance-29844.html				pending
-fallen-angel	Fallen Angel		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Fallen-Angel-36068.html				pending
-femme	Femme		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Femme-29843.html				pending
-fleur-rose	Fleur Rose		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Fleur-Rose-29837.html				pending
-fleurette	Fleurette		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Fleurette-29854.html				pending
-goddess	Goddess		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Goddess-29836.html				pending
-golden-snow-pearl	Golden Snow Pearl		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Golden-Snow-Pearl-29851.html				pending
-graziella	Graziella		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Graziella-29838.html				pending
-h-pour-homme	H Pour Homme		male		https://www.fragrantica.com/perfume/Fleur-de-Sante/H-Pour-Homme-29860.html				pending
-iced-dreams	Iced Dreams		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Iced-Dreams-29857.html				pending
-l-pour-elle	L Pour Elle		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/L-Pour-Elle-29840.html				pending
-l-pour-elle-nuit-noire	L pour Elle Nuit Noire		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/L-pour-Elle-Nuit-Noire-35970.html				pending
-mystere-de-nature-fleur	Mystere de Nature Fleur		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Mystere-de-Nature-Fleur-29858.html				pending
-mystere-de-nature-fruit	Mystere de Nature Fruit		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Mystere-de-Nature-Fruit-29859.html				pending
-natures-spring-flurry	Natures Spring Flurry		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Natures-Spring-Flurry-36243.html				pending
-natures-summer-flurry	Natures Summer Flurry		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Natures-Summer-Flurry-36242.html				pending
-natures-winter-flurry	Natures Winter Flurry		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Natures-Winter-Flurry-36244.html				pending
-passionate-me	Passionate Me		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Passionate-Me-29841.html				pending
-romantic-me	Romantic Me		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Romantic-Me-29842.html				pending
-sensual	Sensual		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Sensual-36069.html				pending
-snow-pearl	Snow Pearl		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Snow-Pearl-29849.html				pending
-soiree	Soirée		female		https://www.fragrantica.com/perfume/Fleur-de-Sante/Soiree-29839.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alva	Alva		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Alva-29856.html				pending
+be-mine	Be Mine		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Be-Mine-29852.html				pending
+crystal-glam-lamour	Crystal Glam l'Amour		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Crystal-Glam-l-Amour-29847.html				pending
+dandy-lady	Dandy Lady		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Dandy-Lady-36241.html				pending
+edge	Edge		male	https://www.fragrantica.com/perfume/Fleur-de-Sante/Edge-29853.html				pending
+energetic-me	Energetic Me		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Energetic-Me-29855.html				pending
+exuberance	Exuberance		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Exuberance-29844.html				pending
+fallen-angel	Fallen Angel		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Fallen-Angel-36068.html				pending
+femme	Femme		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Femme-29843.html				pending
+fleur-rose	Fleur Rose		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Fleur-Rose-29837.html				pending
+fleurette	Fleurette		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Fleurette-29854.html				pending
+goddess	Goddess		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Goddess-29836.html				pending
+golden-snow-pearl	Golden Snow Pearl		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Golden-Snow-Pearl-29851.html				pending
+graziella	Graziella		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Graziella-29838.html				pending
+h-pour-homme	H Pour Homme		male	https://www.fragrantica.com/perfume/Fleur-de-Sante/H-Pour-Homme-29860.html				pending
+iced-dreams	Iced Dreams		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Iced-Dreams-29857.html				pending
+l-pour-elle	L Pour Elle		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/L-Pour-Elle-29840.html				pending
+l-pour-elle-nuit-noire	L pour Elle Nuit Noire		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/L-pour-Elle-Nuit-Noire-35970.html				pending
+mystere-de-nature-fleur	Mystere de Nature Fleur		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Mystere-de-Nature-Fleur-29858.html				pending
+mystere-de-nature-fruit	Mystere de Nature Fruit		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Mystere-de-Nature-Fruit-29859.html				pending
+natures-spring-flurry	Natures Spring Flurry		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Natures-Spring-Flurry-36243.html				pending
+natures-summer-flurry	Natures Summer Flurry		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Natures-Summer-Flurry-36242.html				pending
+natures-winter-flurry	Natures Winter Flurry		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Natures-Winter-Flurry-36244.html				pending
+passionate-me	Passionate Me		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Passionate-Me-29841.html				pending
+romantic-me	Romantic Me		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Romantic-Me-29842.html				pending
+sensual	Sensual		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Sensual-36069.html				pending
+snow-pearl	Snow Pearl		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Snow-Pearl-29849.html				pending
+soiree	Soirée		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Soiree-29839.html				pending

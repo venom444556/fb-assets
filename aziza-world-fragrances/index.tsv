@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aphrodites-kiss	Aphrodite's Kiss		female		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Aphrodite-s-Kiss-25099.html				pending
-black-lotus	Black Lotus		female		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Black-Lotus-25101.html				pending
-dark-entity	Dark Entity		male		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Dark-Entity-25129.html				pending
-dark-phoenix	Dark Phoenix		unisex		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Dark-Phoenix-25098.html				pending
-dragons-breath	Dragon's Breath		unisex		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Dragon-s-Breath-25131.html				pending
-electric-leather	Electric Leather		male		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Electric-Leather-25128.html				pending
-emeralds-garden	Emerald's Garden		female		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Emerald-s-Garden-25097.html				pending
-godking	Godking		male		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Godking-25126.html				pending
-gypsy-spice	Gypsy Spice		female		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Gypsy-Spice-25121.html				pending
-nag-champa-and-patcouli	Nag Champa & Patcouli		unisex		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Nag-Champa-Patcouli-25134.html				pending
-osiris	Osiris		male		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Osiris-25133.html				pending
-pandoras-passion	Pandora's Passion		female		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Pandora-s-Passion-25102.html				pending
-possession	Possession		male		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Possession-25132.html				pending
-sinfully-cherry	Sinfully Cherry		female		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Sinfully-Cherry-25100.html				pending
-sirens-song	Siren's Song		female		https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Siren-s-Song-25122.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aphrodites-kiss	Aphrodite's Kiss		female	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Aphrodite-s-Kiss-25099.html				pending
+black-lotus	Black Lotus		female	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Black-Lotus-25101.html				pending
+dark-entity	Dark Entity		male	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Dark-Entity-25129.html				pending
+dark-phoenix	Dark Phoenix		unisex	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Dark-Phoenix-25098.html				pending
+dragons-breath	Dragon's Breath		unisex	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Dragon-s-Breath-25131.html				pending
+electric-leather	Electric Leather		male	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Electric-Leather-25128.html				pending
+emeralds-garden	Emerald's Garden		female	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Emerald-s-Garden-25097.html				pending
+godking	Godking		male	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Godking-25126.html				pending
+gypsy-spice	Gypsy Spice		female	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Gypsy-Spice-25121.html				pending
+nag-champa-and-patcouli	Nag Champa & Patcouli		unisex	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Nag-Champa-Patcouli-25134.html				pending
+osiris	Osiris		male	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Osiris-25133.html				pending
+pandoras-passion	Pandora's Passion		female	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Pandora-s-Passion-25102.html				pending
+possession	Possession		male	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Possession-25132.html				pending
+sinfully-cherry	Sinfully Cherry		female	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Sinfully-Cherry-25100.html				pending
+sirens-song	Siren's Song		female	https://www.fragrantica.com/perfume/Aziza-World-Fragrances/Siren-s-Song-25122.html				pending

@@ -1,41 +1,41 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-3rd-eiger	3rd Eiger		unisex		https://www.fragrantica.com/perfume/Ajne/3rd-Eiger-21536.html				pending
-adler	Adler		unisex		https://www.fragrantica.com/perfume/Ajne/Adler-21537.html				pending
-adonis	Adonis		unisex		https://www.fragrantica.com/perfume/Ajne/Adonis-21538.html				pending
-aphrodite	Aphrodite		female		https://www.fragrantica.com/perfume/Ajne/Aphrodite-21507.html				pending
-bella	Bella		female		https://www.fragrantica.com/perfume/Ajne/Bella-21508.html				pending
-big-sur	Big Sur		unisex		https://www.fragrantica.com/perfume/Ajne/Big-Sur-21506.html				pending
-bloom-de-nuit-nights-bloom	Bloom de Nuit - Night's Bloom		female		https://www.fragrantica.com/perfume/Ajne/Bloom-de-Nuit-Night-s-Bloom-21509.html				pending
-calme-calm	Calme - Calm		unisex		https://www.fragrantica.com/perfume/Ajne/Calme-Calm-21510.html				pending
-calypso	Calypso		female		https://www.fragrantica.com/perfume/Ajne/Calypso-21511.html				pending
-citron-regenerez-liquid-sunshine	Citron Regenerez - Liquid Sunshine		unisex		https://www.fragrantica.com/perfume/Ajne/Citron-Regenerez-Liquid-Sunshine-21512.html				pending
-coolbleu-cool-blues	CoolBleu - Cool Blues		unisex		https://www.fragrantica.com/perfume/Ajne/CoolBleu-Cool-Blues-21513.html				pending
-delavande	deLavande		unisex		https://www.fragrantica.com/perfume/Ajne/deLavande-21514.html				pending
-desir-desire	Desir - Desire		female		https://www.fragrantica.com/perfume/Ajne/Desir-Desire-21515.html				pending
-divin-divine	Divin - Divine		female		https://www.fragrantica.com/perfume/Ajne/Divin-Divine-21533.html				pending
-espoir-hope	Espoir - Hope		female		https://www.fragrantica.com/perfume/Ajne/Espoir-Hope-21516.html				pending
-esprit-spirit	Esprit (Spirit)		female		https://www.fragrantica.com/perfume/Ajne/Esprit-Spirit-21517.html				pending
-fleur-blanche-white-flower	Fleur Blanche - White Flower		female		https://www.fragrantica.com/perfume/Ajne/Fleur-Blanche-White-Flower-21518.html				pending
-houston	Houston		unisex		https://www.fragrantica.com/perfume/Ajne/Houston-21539.html				pending
-joie-joy	Joie - Joy		female		https://www.fragrantica.com/perfume/Ajne/Joie-Joy-21519.html				pending
-kincaid	Kincaid		unisex		https://www.fragrantica.com/perfume/Ajne/Kincaid-21540.html				pending
-lago	Lago		unisex		https://www.fragrantica.com/perfume/Ajne/Lago-21541.html				pending
-lakshmi	Lakshmi		female		https://www.fragrantica.com/perfume/Ajne/Lakshmi-21534.html				pending
-lucky	Lucky		unisex		https://www.fragrantica.com/perfume/Ajne/Lucky-21542.html				pending
-maternite-epice-spice	Maternite Epice - Spice		female		https://www.fragrantica.com/perfume/Ajne/Maternite-Epice-Spice-21531.html				pending
-maternite-rose	Maternite Rose		female		https://www.fragrantica.com/perfume/Ajne/Maternite-Rose-21532.html				pending
-nectar	Nectar		female		https://www.fragrantica.com/perfume/Ajne/Nectar-21520.html				pending
-nouvel-amour-new-love	Nouvel Amour - New Love		female		https://www.fragrantica.com/perfume/Ajne/Nouvel-Amour-New-Love-21521.html				pending
-om	Om		unisex		https://www.fragrantica.com/perfume/Ajne/Om-21522.html				pending
-passion	Passion		female		https://www.fragrantica.com/perfume/Ajne/Passion-21523.html				pending
-printemps-springtime	Printemps - Springtime		female		https://www.fragrantica.com/perfume/Ajne/Printemps-Springtime-21524.html				pending
-psyche	Psyche		unisex		https://www.fragrantica.com/perfume/Ajne/Psyche-21525.html				pending
-roshambo	Roshambo		unisex		https://www.fragrantica.com/perfume/Ajne/Roshambo-21543.html				pending
-sambac	Sambac		unisex		https://www.fragrantica.com/perfume/Ajne/Sambac-21526.html				pending
-savannah	Savannah		unisex		https://www.fragrantica.com/perfume/Ajne/Savannah-21535.html				pending
-savoir-knowing	Savoir - Knowing		unisex		https://www.fragrantica.com/perfume/Ajne/Savoir-Knowing-21527.html				pending
-scorpio	Scorpio		unisex		https://www.fragrantica.com/perfume/Ajne/Scorpio-21544.html				pending
-spindrift	Spindrift		unisex		https://www.fragrantica.com/perfume/Ajne/Spindrift-21545.html				pending
-sublime	Sublime		unisex		https://www.fragrantica.com/perfume/Ajne/Sublime-21528.html				pending
-vanille	Vanille		unisex		https://www.fragrantica.com/perfume/Ajne/Vanille-21529.html				pending
-yuzu	Yuzu		unisex		https://www.fragrantica.com/perfume/Ajne/Yuzu-21530.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+3rd-eiger	3rd Eiger		unisex	https://www.fragrantica.com/perfume/Ajne/3rd-Eiger-21536.html				pending
+adler	Adler		unisex	https://www.fragrantica.com/perfume/Ajne/Adler-21537.html				pending
+adonis	Adonis		unisex	https://www.fragrantica.com/perfume/Ajne/Adonis-21538.html				pending
+aphrodite	Aphrodite		female	https://www.fragrantica.com/perfume/Ajne/Aphrodite-21507.html				pending
+bella	Bella		female	https://www.fragrantica.com/perfume/Ajne/Bella-21508.html				pending
+big-sur	Big Sur		unisex	https://www.fragrantica.com/perfume/Ajne/Big-Sur-21506.html				pending
+bloom-de-nuit-nights-bloom	Bloom de Nuit - Night's Bloom		female	https://www.fragrantica.com/perfume/Ajne/Bloom-de-Nuit-Night-s-Bloom-21509.html				pending
+calme-calm	Calme - Calm		unisex	https://www.fragrantica.com/perfume/Ajne/Calme-Calm-21510.html				pending
+calypso	Calypso		female	https://www.fragrantica.com/perfume/Ajne/Calypso-21511.html				pending
+citron-regenerez-liquid-sunshine	Citron Regenerez - Liquid Sunshine		unisex	https://www.fragrantica.com/perfume/Ajne/Citron-Regenerez-Liquid-Sunshine-21512.html				pending
+coolbleu-cool-blues	CoolBleu - Cool Blues		unisex	https://www.fragrantica.com/perfume/Ajne/CoolBleu-Cool-Blues-21513.html				pending
+delavande	deLavande		unisex	https://www.fragrantica.com/perfume/Ajne/deLavande-21514.html				pending
+desir-desire	Desir - Desire		female	https://www.fragrantica.com/perfume/Ajne/Desir-Desire-21515.html				pending
+divin-divine	Divin - Divine		female	https://www.fragrantica.com/perfume/Ajne/Divin-Divine-21533.html				pending
+espoir-hope	Espoir - Hope		female	https://www.fragrantica.com/perfume/Ajne/Espoir-Hope-21516.html				pending
+esprit-spirit	Esprit (Spirit)		female	https://www.fragrantica.com/perfume/Ajne/Esprit-Spirit-21517.html				pending
+fleur-blanche-white-flower	Fleur Blanche - White Flower		female	https://www.fragrantica.com/perfume/Ajne/Fleur-Blanche-White-Flower-21518.html				pending
+houston	Houston		unisex	https://www.fragrantica.com/perfume/Ajne/Houston-21539.html				pending
+joie-joy	Joie - Joy		female	https://www.fragrantica.com/perfume/Ajne/Joie-Joy-21519.html				pending
+kincaid	Kincaid		unisex	https://www.fragrantica.com/perfume/Ajne/Kincaid-21540.html				pending
+lago	Lago		unisex	https://www.fragrantica.com/perfume/Ajne/Lago-21541.html				pending
+lakshmi	Lakshmi		female	https://www.fragrantica.com/perfume/Ajne/Lakshmi-21534.html				pending
+lucky	Lucky		unisex	https://www.fragrantica.com/perfume/Ajne/Lucky-21542.html				pending
+maternite-epice-spice	Maternite Epice - Spice		female	https://www.fragrantica.com/perfume/Ajne/Maternite-Epice-Spice-21531.html				pending
+maternite-rose	Maternite Rose		female	https://www.fragrantica.com/perfume/Ajne/Maternite-Rose-21532.html				pending
+nectar	Nectar		female	https://www.fragrantica.com/perfume/Ajne/Nectar-21520.html				pending
+nouvel-amour-new-love	Nouvel Amour - New Love		female	https://www.fragrantica.com/perfume/Ajne/Nouvel-Amour-New-Love-21521.html				pending
+om	Om		unisex	https://www.fragrantica.com/perfume/Ajne/Om-21522.html				pending
+passion	Passion		female	https://www.fragrantica.com/perfume/Ajne/Passion-21523.html				pending
+printemps-springtime	Printemps - Springtime		female	https://www.fragrantica.com/perfume/Ajne/Printemps-Springtime-21524.html				pending
+psyche	Psyche		unisex	https://www.fragrantica.com/perfume/Ajne/Psyche-21525.html				pending
+roshambo	Roshambo		unisex	https://www.fragrantica.com/perfume/Ajne/Roshambo-21543.html				pending
+sambac	Sambac		unisex	https://www.fragrantica.com/perfume/Ajne/Sambac-21526.html				pending
+savannah	Savannah		unisex	https://www.fragrantica.com/perfume/Ajne/Savannah-21535.html				pending
+savoir-knowing	Savoir - Knowing		unisex	https://www.fragrantica.com/perfume/Ajne/Savoir-Knowing-21527.html				pending
+scorpio	Scorpio		unisex	https://www.fragrantica.com/perfume/Ajne/Scorpio-21544.html				pending
+spindrift	Spindrift		unisex	https://www.fragrantica.com/perfume/Ajne/Spindrift-21545.html				pending
+sublime	Sublime		unisex	https://www.fragrantica.com/perfume/Ajne/Sublime-21528.html				pending
+vanille	Vanille		unisex	https://www.fragrantica.com/perfume/Ajne/Vanille-21529.html				pending
+yuzu	Yuzu		unisex	https://www.fragrantica.com/perfume/Ajne/Yuzu-21530.html				pending

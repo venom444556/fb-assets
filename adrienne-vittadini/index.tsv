@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amore	Amore		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/Amore-20318.html				pending
-capri	Capri		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/Capri-4899.html				pending
-adrienne-vittadini	Adrienne Vittadini		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/Adrienne-Vittadini-4897.html				pending
-av	AV		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-4898.html				pending
-av-glamour	AV Glamour		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Glamour-40438.html				pending
-av-glamour-charming	AV Glamour Charming		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Glamour-Charming-83246.html				pending
-av-glamour-enchanting	AV Glamour Enchanting		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Glamour-Enchanting-83247.html				pending
-av-glamour-passionate	AV Glamour Passionate		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Glamour-Passionate-83248.html				pending
-av-midnight-blossom	AV Midnight Blossom		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Midnight-Blossom-83245.html				pending
-cassis-and-bergamot	Cassis and Bergamot		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/Cassis-and-Bergamot-83250.html				pending
-venezia	Venezia		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/Venezia-4900.html				pending
-waterlily-and-white-musk	Waterlily and White Musk		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/Waterlily-and-White-Musk-83251.html				pending
-white-peach-and-peony	White Peach and Peony		female		https://www.fragrantica.com/perfume/Adrienne-Vittadini/White-Peach-and-Peony-83249.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adrienne-vittadini	Adrienne Vittadini		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/Adrienne-Vittadini-4897.html				pending
+amore	Amore		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/Amore-20318.html				pending
+av	AV		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-4898.html				pending
+av-glamour	AV Glamour		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Glamour-40438.html				pending
+av-glamour-charming	AV Glamour Charming		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Glamour-Charming-83246.html				pending
+av-glamour-enchanting	AV Glamour Enchanting		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Glamour-Enchanting-83247.html				pending
+av-glamour-passionate	AV Glamour Passionate		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Glamour-Passionate-83248.html				pending
+av-midnight-blossom	AV Midnight Blossom		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/AV-Midnight-Blossom-83245.html				pending
+capri	Capri		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/Capri-4899.html				pending
+cassis-and-bergamot	Cassis and Bergamot		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/Cassis-and-Bergamot-83250.html				pending
+venezia	Venezia		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/Venezia-4900.html				pending
+waterlily-and-white-musk	Waterlily and White Musk		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/Waterlily-and-White-Musk-83251.html				pending
+white-peach-and-peony	White Peach and Peony		female	https://www.fragrantica.com/perfume/Adrienne-Vittadini/White-Peach-and-Peony-83249.html				pending

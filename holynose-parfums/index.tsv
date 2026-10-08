@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-sunrise	Восход Sunrise		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Voshod-Sunrise-77858.html				pending
-nylon	Нейлон Nylon		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Nejlon-Nylon-51343.html				pending
-ash	Пепел Ash		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Pepel-Ash-51342.html				pending
-pollen	Пыльца Pollen		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Pyl-ca-Pollen-70261.html				pending
-rhythm	Ритм Rhythm		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Ritm-Rhythm-51344.html				pending
-svoy	Свой Svoy		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Svoj-Svoy-71017.html				pending
-tirage	Тираж Tirage		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Tiraz-Tirage-105670.html				pending
-fog	Туман Fog		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Tuman-Fog-59920.html				pending
-black	Черный Black		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Cernyj-Black-51345.html				pending
-bulvar-bul-var	Bulvar Bul var		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Bulvar-Bul-var-51347.html				pending
-drakon-dragon	Drakon Dragon		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Drakon-Dragon-71019.html				pending
-pesok-pesok	Pesok Pesok		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Pesok-Pesok-51346.html				pending
-stena-wall	Stena Wall		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Stena-Wall-71018.html				pending
-volnenie-volnenie	Volnenie Volnenie		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Volnenie-Volnenie-51348.html				pending
-zakat-sunset	Zakat Sunset		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Zakat-Sunset-77859.html				pending
-zarevo-zarevo	Zarevo Zarevo		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Zarevo-Zarevo-51349.html				pending
-zemcuzina-pearl	Zemcuzina Pearl		unisex		https://www.fragrantica.com/perfume/Holynose-Parfums/Zemcuzina-Pearl-71020.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bulvar-bul-var	Bulvar Bul var		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Bulvar-Bul-var-51347.html				pending
+drakon-dragon	Drakon Dragon		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Drakon-Dragon-71019.html				pending
+pesok-pesok	Pesok Pesok		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Pesok-Pesok-51346.html				pending
+stena-wall	Stena Wall		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Stena-Wall-71018.html				pending
+volnenie-volnenie	Volnenie Volnenie		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Volnenie-Volnenie-51348.html				pending
+zakat-sunset	Zakat Sunset		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Zakat-Sunset-77859.html				pending
+zarevo-zarevo	Zarevo Zarevo		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Zarevo-Zarevo-51349.html				pending
+zemcuzina-pearl	Zemcuzina Pearl		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Zemcuzina-Pearl-71020.html				pending
+sunrise	Восход Sunrise		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Voshod-Sunrise-77858.html				pending
+nylon	Нейлон Nylon		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Nejlon-Nylon-51343.html				pending
+ash	Пепел Ash		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Pepel-Ash-51342.html				pending
+pollen	Пыльца Pollen		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Pyl-ca-Pollen-70261.html				pending
+rhythm	Ритм Rhythm		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Ritm-Rhythm-51344.html				pending
+svoy	Свой Svoy		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Svoj-Svoy-71017.html				pending
+tirage	Тираж Tirage		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Tiraz-Tirage-105670.html				pending
+fog	Туман Fog		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Tuman-Fog-59920.html				pending
+black	Черный Black		unisex	https://www.fragrantica.com/perfume/Holynose-Parfums/Cernyj-Black-51345.html				pending

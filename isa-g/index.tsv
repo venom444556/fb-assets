@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-103	103		unisex		https://www.fragrantica.com/perfume/Isa-G/103-67631.html				pending
-107	107		unisex		https://www.fragrantica.com/perfume/Isa-G/107-67638.html				pending
-315	315		unisex		https://www.fragrantica.com/perfume/Isa-G/315-67636.html				pending
-704	704		unisex		https://www.fragrantica.com/perfume/Isa-G/704-67632.html				pending
-901	901		unisex		https://www.fragrantica.com/perfume/Isa-G/901-67630.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+103	103		unisex	https://www.fragrantica.com/perfume/Isa-G/103-67631.html				pending
+107	107		unisex	https://www.fragrantica.com/perfume/Isa-G/107-67638.html				pending
+315	315		unisex	https://www.fragrantica.com/perfume/Isa-G/315-67636.html				pending
+704	704		unisex	https://www.fragrantica.com/perfume/Isa-G/704-67632.html				pending
+901	901		unisex	https://www.fragrantica.com/perfume/Isa-G/901-67630.html				pending

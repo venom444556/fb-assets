@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-shine	Shine		female		https://www.fragrantica.com/perfume/Heidi-Klum/Shine-11315.html				pending
-shine-blue	Shine Blue		female		https://www.fragrantica.com/perfume/Heidi-Klum/Shine-Blue-18540.html				pending
-shine-my-rose	Shine My Rose		female		https://www.fragrantica.com/perfume/Heidi-Klum/Shine-My-Rose-15921.html				pending
-surprise	Surprise		female		https://www.fragrantica.com/perfume/Heidi-Klum/Surprise-17110.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+shine	Shine		female	https://www.fragrantica.com/perfume/Heidi-Klum/Shine-11315.html				pending
+shine-blue	Shine Blue		female	https://www.fragrantica.com/perfume/Heidi-Klum/Shine-Blue-18540.html				pending
+shine-my-rose	Shine My Rose		female	https://www.fragrantica.com/perfume/Heidi-Klum/Shine-My-Rose-15921.html				pending
+surprise	Surprise		female	https://www.fragrantica.com/perfume/Heidi-Klum/Surprise-17110.html				pending

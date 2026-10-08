@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amorous	Amorous		female		https://www.fragrantica.com/perfume/Celebon/Amorous-62405.html				pending
-canaille	Canaille		female		https://www.fragrantica.com/perfume/Celebon/Canaille-55701.html				pending
-fortune	Fortune		female		https://www.fragrantica.com/perfume/Celebon/Fortune-55702.html				pending
-iconique	Iconique		male		https://www.fragrantica.com/perfume/Celebon/Iconique-55703.html				pending
-imparfait	Imparfait		male		https://www.fragrantica.com/perfume/Celebon/Imparfait-55706.html				pending
-milord	Milord		male		https://www.fragrantica.com/perfume/Celebon/Milord-55704.html				pending
-mogador	Mogador		female		https://www.fragrantica.com/perfume/Celebon/Mogador-55700.html				pending
-rafaelle	Rafaelle		male		https://www.fragrantica.com/perfume/Celebon/Rafaelle-55707.html				pending
-rise	Rise		female		https://www.fragrantica.com/perfume/Celebon/Rise-62406.html				pending
-typhon	Typhon		male		https://www.fragrantica.com/perfume/Celebon/Typhon-55705.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amorous	Amorous		female	https://www.fragrantica.com/perfume/Celebon/Amorous-62405.html				pending
+canaille	Canaille		female	https://www.fragrantica.com/perfume/Celebon/Canaille-55701.html				pending
+fortune	Fortune		female	https://www.fragrantica.com/perfume/Celebon/Fortune-55702.html				pending
+iconique	Iconique		male	https://www.fragrantica.com/perfume/Celebon/Iconique-55703.html				pending
+imparfait	Imparfait		male	https://www.fragrantica.com/perfume/Celebon/Imparfait-55706.html				pending
+milord	Milord		male	https://www.fragrantica.com/perfume/Celebon/Milord-55704.html				pending
+mogador	Mogador		female	https://www.fragrantica.com/perfume/Celebon/Mogador-55700.html				pending
+rafaelle	Rafaelle		male	https://www.fragrantica.com/perfume/Celebon/Rafaelle-55707.html				pending
+rise	Rise		female	https://www.fragrantica.com/perfume/Celebon/Rise-62406.html				pending
+typhon	Typhon		male	https://www.fragrantica.com/perfume/Celebon/Typhon-55705.html				pending

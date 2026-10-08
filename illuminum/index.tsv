@@ -1,43 +1,43 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-arabian-amber	Arabian Amber		unisex		https://www.fragrantica.com/perfume/Illuminum/Arabian-Amber-11818.html				pending
-cashmere-musk	Cashmere Musk		unisex		https://www.fragrantica.com/perfume/Illuminum/Cashmere-Musk-11813.html				pending
-ginger-pear	Ginger Pear		unisex		https://www.fragrantica.com/perfume/Illuminum/Ginger-Pear-11805.html				pending
-piper-leather	Piper Leather		unisex		https://www.fragrantica.com/perfume/Illuminum/Piper-Leather-11815.html				pending
-rajamusk	Rajamusk		unisex		https://www.fragrantica.com/perfume/Illuminum/Rajamusk-11814.html				pending
-rose-oud	Rose Oud		unisex		https://www.fragrantica.com/perfume/Illuminum/Rose-Oud-11820.html				pending
-saffron-amber	Saffron Amber		unisex		https://www.fragrantica.com/perfume/Illuminum/Saffron-Amber-11810.html				pending
-scarlet-oud	Scarlet Oud		unisex		https://www.fragrantica.com/perfume/Illuminum/Scarlet-Oud-11819.html				pending
-skin-petals	Skin Petals		unisex		https://www.fragrantica.com/perfume/Illuminum/Skin-Petals-11807.html				pending
-tahitian-yuzu	Tahitian Yuzu		unisex		https://www.fragrantica.com/perfume/Illuminum/Tahitian-Yuzu-11811.html				pending
-tribal-black-tea	Tribal Black Tea		unisex		https://www.fragrantica.com/perfume/Illuminum/Tribal-Black-Tea-11809.html				pending
-white-datura	White Datura		unisex		https://www.fragrantica.com/perfume/Illuminum/White-Datura-11808.html				pending
-white-gardenia-petals	White Gardenia Petals		unisex		https://www.fragrantica.com/perfume/Illuminum/White-Gardenia-Petals-11806.html				pending
-wild-berry-blossom	Wild Berry Blossom		unisex		https://www.fragrantica.com/perfume/Illuminum/Wild-Berry-Blossom-11816.html				pending
-wild-tobacco	Wild Tobacco		unisex		https://www.fragrantica.com/perfume/Illuminum/Wild-Tobacco-11817.html				pending
-234	234		unisex		https://www.fragrantica.com/perfume/Illuminum/234-23575.html				pending
-bergamot-blossom	Bergamot Blossom		unisex		https://www.fragrantica.com/perfume/Illuminum/Bergamot-Blossom-11812.html				pending
-black-amber	Black Amber		unisex		https://www.fragrantica.com/perfume/Illuminum/Black-Amber-39044.html				pending
-black-gardenia	Black Gardenia		unisex		https://www.fragrantica.com/perfume/Illuminum/Black-Gardenia-19068.html				pending
-black-musk	Black Musk		unisex		https://www.fragrantica.com/perfume/Illuminum/Black-Musk-19070.html				pending
-black-oud	Black OUD		unisex		https://www.fragrantica.com/perfume/Illuminum/Black-OUD-19080.html				pending
-black-rose	Black Rose		unisex		https://www.fragrantica.com/perfume/Illuminum/Black-Rose-19069.html				pending
-brunswick-house	Brunswick House		unisex		https://www.fragrantica.com/perfume/Illuminum/Brunswick-House-39047.html				pending
-hindi-oud	Hindi OUD		female		https://www.fragrantica.com/perfume/Illuminum/Hindi-OUD-19081.html				pending
-indian-oud	Indian OUD		unisex		https://www.fragrantica.com/perfume/Illuminum/Indian-OUD-19082.html				pending
-majestic-oud	Majestic Oud		unisex		https://www.fragrantica.com/perfume/Illuminum/Majestic-Oud-39043.html				pending
-moroccan-tuberose	Moroccan Tuberose		unisex		https://www.fragrantica.com/perfume/Illuminum/Moroccan-Tuberose-19074.html				pending
-orange-blossom	Orange Blossom		unisex		https://www.fragrantica.com/perfume/Illuminum/Orange-Blossom-19073.html				pending
-phool	Phool		unisex		https://www.fragrantica.com/perfume/Illuminum/Phool-19076.html				pending
-rosewood	Rosewood		unisex		https://www.fragrantica.com/perfume/Illuminum/Rosewood-39045.html				pending
-taif-rose	Taif Rose		unisex		https://www.fragrantica.com/perfume/Illuminum/Taif-Rose-19072.html				pending
-tom-wolfe-234	Tom Wolfe #234		unisex		https://www.fragrantica.com/perfume/Illuminum/Tom-Wolfe-234-39048.html				pending
-tomato-leaf	Tomato Leaf		unisex		https://www.fragrantica.com/perfume/Illuminum/Tomato-Leaf-19075.html				pending
-tonka-oud	Tonka Oud		unisex		https://www.fragrantica.com/perfume/Illuminum/Tonka-Oud-39042.html				pending
-trumpet-flower	Trumpet Flower		unisex		https://www.fragrantica.com/perfume/Illuminum/Trumpet-Flower-19077.html				pending
-vetiver-oud	Vetiver OUD		unisex		https://www.fragrantica.com/perfume/Illuminum/Vetiver-OUD-19083.html				pending
-white-lotus	White Lotus		unisex		https://www.fragrantica.com/perfume/Illuminum/White-Lotus-19071.html				pending
-white-musk	White Musk		unisex		https://www.fragrantica.com/perfume/Illuminum/White-Musk-19079.html				pending
-white-on-white	White on White		unisex		https://www.fragrantica.com/perfume/Illuminum/White-on-White-39049.html				pending
-white-oud	White Oud		unisex		https://www.fragrantica.com/perfume/Illuminum/White-Oud-39050.html				pending
-white-saffron	White Saffron		unisex		https://www.fragrantica.com/perfume/Illuminum/White-Saffron-19078.html				pending
-yuki	Yuki		unisex		https://www.fragrantica.com/perfume/Illuminum/Yuki-39046.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+234	234		unisex	https://www.fragrantica.com/perfume/Illuminum/234-23575.html				pending
+arabian-amber	Arabian Amber		unisex	https://www.fragrantica.com/perfume/Illuminum/Arabian-Amber-11818.html				pending
+bergamot-blossom	Bergamot Blossom		unisex	https://www.fragrantica.com/perfume/Illuminum/Bergamot-Blossom-11812.html				pending
+black-amber	Black Amber		unisex	https://www.fragrantica.com/perfume/Illuminum/Black-Amber-39044.html				pending
+black-gardenia	Black Gardenia		unisex	https://www.fragrantica.com/perfume/Illuminum/Black-Gardenia-19068.html				pending
+black-musk	Black Musk		unisex	https://www.fragrantica.com/perfume/Illuminum/Black-Musk-19070.html				pending
+black-oud	Black OUD		unisex	https://www.fragrantica.com/perfume/Illuminum/Black-OUD-19080.html				pending
+black-rose	Black Rose		unisex	https://www.fragrantica.com/perfume/Illuminum/Black-Rose-19069.html				pending
+brunswick-house	Brunswick House		unisex	https://www.fragrantica.com/perfume/Illuminum/Brunswick-House-39047.html				pending
+cashmere-musk	Cashmere Musk		unisex	https://www.fragrantica.com/perfume/Illuminum/Cashmere-Musk-11813.html				pending
+ginger-pear	Ginger Pear		unisex	https://www.fragrantica.com/perfume/Illuminum/Ginger-Pear-11805.html				pending
+hindi-oud	Hindi OUD		female	https://www.fragrantica.com/perfume/Illuminum/Hindi-OUD-19081.html				pending
+indian-oud	Indian OUD		unisex	https://www.fragrantica.com/perfume/Illuminum/Indian-OUD-19082.html				pending
+majestic-oud	Majestic Oud		unisex	https://www.fragrantica.com/perfume/Illuminum/Majestic-Oud-39043.html				pending
+moroccan-tuberose	Moroccan Tuberose		unisex	https://www.fragrantica.com/perfume/Illuminum/Moroccan-Tuberose-19074.html				pending
+orange-blossom	Orange Blossom		unisex	https://www.fragrantica.com/perfume/Illuminum/Orange-Blossom-19073.html				pending
+phool	Phool		unisex	https://www.fragrantica.com/perfume/Illuminum/Phool-19076.html				pending
+piper-leather	Piper Leather		unisex	https://www.fragrantica.com/perfume/Illuminum/Piper-Leather-11815.html				pending
+rajamusk	Rajamusk		unisex	https://www.fragrantica.com/perfume/Illuminum/Rajamusk-11814.html				pending
+rose-oud	Rose Oud		unisex	https://www.fragrantica.com/perfume/Illuminum/Rose-Oud-11820.html				pending
+rosewood	Rosewood		unisex	https://www.fragrantica.com/perfume/Illuminum/Rosewood-39045.html				pending
+saffron-amber	Saffron Amber		unisex	https://www.fragrantica.com/perfume/Illuminum/Saffron-Amber-11810.html				pending
+scarlet-oud	Scarlet Oud		unisex	https://www.fragrantica.com/perfume/Illuminum/Scarlet-Oud-11819.html				pending
+skin-petals	Skin Petals		unisex	https://www.fragrantica.com/perfume/Illuminum/Skin-Petals-11807.html				pending
+tahitian-yuzu	Tahitian Yuzu		unisex	https://www.fragrantica.com/perfume/Illuminum/Tahitian-Yuzu-11811.html				pending
+taif-rose	Taif Rose		unisex	https://www.fragrantica.com/perfume/Illuminum/Taif-Rose-19072.html				pending
+tom-wolfe-234	Tom Wolfe #234		unisex	https://www.fragrantica.com/perfume/Illuminum/Tom-Wolfe-234-39048.html				pending
+tomato-leaf	Tomato Leaf		unisex	https://www.fragrantica.com/perfume/Illuminum/Tomato-Leaf-19075.html				pending
+tonka-oud	Tonka Oud		unisex	https://www.fragrantica.com/perfume/Illuminum/Tonka-Oud-39042.html				pending
+tribal-black-tea	Tribal Black Tea		unisex	https://www.fragrantica.com/perfume/Illuminum/Tribal-Black-Tea-11809.html				pending
+trumpet-flower	Trumpet Flower		unisex	https://www.fragrantica.com/perfume/Illuminum/Trumpet-Flower-19077.html				pending
+vetiver-oud	Vetiver OUD		unisex	https://www.fragrantica.com/perfume/Illuminum/Vetiver-OUD-19083.html				pending
+white-datura	White Datura		unisex	https://www.fragrantica.com/perfume/Illuminum/White-Datura-11808.html				pending
+white-gardenia-petals	White Gardenia Petals		unisex	https://www.fragrantica.com/perfume/Illuminum/White-Gardenia-Petals-11806.html				pending
+white-lotus	White Lotus		unisex	https://www.fragrantica.com/perfume/Illuminum/White-Lotus-19071.html				pending
+white-musk	White Musk		unisex	https://www.fragrantica.com/perfume/Illuminum/White-Musk-19079.html				pending
+white-on-white	White on White		unisex	https://www.fragrantica.com/perfume/Illuminum/White-on-White-39049.html				pending
+white-oud	White Oud		unisex	https://www.fragrantica.com/perfume/Illuminum/White-Oud-39050.html				pending
+white-saffron	White Saffron		unisex	https://www.fragrantica.com/perfume/Illuminum/White-Saffron-19078.html				pending
+wild-berry-blossom	Wild Berry Blossom		unisex	https://www.fragrantica.com/perfume/Illuminum/Wild-Berry-Blossom-11816.html				pending
+wild-tobacco	Wild Tobacco		unisex	https://www.fragrantica.com/perfume/Illuminum/Wild-Tobacco-11817.html				pending
+yuki	Yuki		unisex	https://www.fragrantica.com/perfume/Illuminum/Yuki-39046.html				pending

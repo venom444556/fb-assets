@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-benares-wood	Benarés Wood		unisex		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Benares-Wood-84160.html				pending
-brahman	Brahman		male		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Brahman-84164.html				pending
-citric-mumbai	Citric Mumbai		unisex		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Citric-Mumbai-84161.html				pending
-darshan	Darshan		male		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Darshan-84168.html				pending
-devi	Devi		female		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Devi-84163.html				pending
-este	Este		female		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Este-84173.html				pending
-gulaab-rose	Gulaab Rose		female		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Gulaab-Rose-84166.html				pending
-hanuman	Hanuman		male		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Hanuman-84170.html				pending
-indian-vanilla	Indian Vanilla		female		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Indian-Vanilla-84162.html				pending
-maharaja	Maharaja		male		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Maharaja-84169.html				pending
-norte	Norte		unisex		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Norte-84171.html				pending
-oeste	Oeste		female		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Oeste-84174.html				pending
-princess-of-jaipur	Princess of Jaipur		female		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Princess-of-Jaipur-84165.html				pending
-puja	Puja		female		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Puja-84167.html				pending
-pushkar-flowers	Pushkar Flowers		female		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Pushkar-Flowers-84159.html				pending
-sur	Sur		male		https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Sur-84172.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+benares-wood	Benarés Wood		unisex	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Benares-Wood-84160.html				pending
+brahman	Brahman		male	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Brahman-84164.html				pending
+citric-mumbai	Citric Mumbai		unisex	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Citric-Mumbai-84161.html				pending
+darshan	Darshan		male	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Darshan-84168.html				pending
+devi	Devi		female	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Devi-84163.html				pending
+este	Este		female	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Este-84173.html				pending
+gulaab-rose	Gulaab Rose		female	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Gulaab-Rose-84166.html				pending
+hanuman	Hanuman		male	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Hanuman-84170.html				pending
+indian-vanilla	Indian Vanilla		female	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Indian-Vanilla-84162.html				pending
+maharaja	Maharaja		male	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Maharaja-84169.html				pending
+norte	Norte		unisex	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Norte-84171.html				pending
+oeste	Oeste		female	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Oeste-84174.html				pending
+princess-of-jaipur	Princess of Jaipur		female	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Princess-of-Jaipur-84165.html				pending
+puja	Puja		female	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Puja-84167.html				pending
+pushkar-flowers	Pushkar Flowers		female	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Pushkar-Flowers-84159.html				pending
+sur	Sur		male	https://www.fragrantica.com/perfume/ATTAR-Alma-de-Perfume/Sur-84172.html				pending

@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-green	Green		unisex		https://www.fragrantica.com/perfume/A-Perfume-Organic/Green-8051.html				pending
-mejica	Mejica		unisex		https://www.fragrantica.com/perfume/A-Perfume-Organic/Mejica-10836.html				pending
-perfumed-wine-rose	Perfumed Wine - Rosé		unisex		https://www.fragrantica.com/perfume/A-Perfume-Organic/Perfumed-Wine-Rose-8053.html				pending
-urban-organic	Urban Organic		unisex		https://www.fragrantica.com/perfume/A-Perfume-Organic/Urban-Organic-8052.html				pending
-white-magik	White Magik		unisex		https://www.fragrantica.com/perfume/A-Perfume-Organic/White-Magik-8054.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+green	Green		unisex	https://www.fragrantica.com/perfume/A-Perfume-Organic/Green-8051.html				pending
+mejica	Mejica		unisex	https://www.fragrantica.com/perfume/A-Perfume-Organic/Mejica-10836.html				pending
+perfumed-wine-rose	Perfumed Wine - Rosé		unisex	https://www.fragrantica.com/perfume/A-Perfume-Organic/Perfumed-Wine-Rose-8053.html				pending
+urban-organic	Urban Organic		unisex	https://www.fragrantica.com/perfume/A-Perfume-Organic/Urban-Organic-8052.html				pending
+white-magik	White Magik		unisex	https://www.fragrantica.com/perfume/A-Perfume-Organic/White-Magik-8054.html				pending

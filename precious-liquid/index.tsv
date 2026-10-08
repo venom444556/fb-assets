@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-oud	Acqua Oud		unisex		https://www.fragrantica.com/perfume/Precious-Liquid/Acqua-Oud-105064.html				pending
-blue-agave	Blue Agave		unisex		https://www.fragrantica.com/perfume/Precious-Liquid/Blue-Agave-46155.html				pending
-mandarine	Mandarine		unisex		https://www.fragrantica.com/perfume/Precious-Liquid/Mandarine-46153.html				pending
-neroli-musk	Neroli Musk		unisex		https://www.fragrantica.com/perfume/Precious-Liquid/Neroli-Musk-46154.html				pending
-oud-symphony	Oud Symphony		unisex		https://www.fragrantica.com/perfume/Precious-Liquid/Oud-Symphony-80625.html				pending
-rose-blanche	Rose Blanche		female		https://www.fragrantica.com/perfume/Precious-Liquid/Rose-Blanche-70994.html				pending
-salt-and-pepper	Salt & Pepper		unisex		https://www.fragrantica.com/perfume/Precious-Liquid/Salt-Pepper-80626.html				pending
-tobacco-royal	Tobacco Royal		unisex		https://www.fragrantica.com/perfume/Precious-Liquid/Tobacco-Royal-105055.html				pending
-vanilla-orchid	Vanilla Orchid		female		https://www.fragrantica.com/perfume/Precious-Liquid/Vanilla-Orchid-70995.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-oud	Acqua Oud		unisex	https://www.fragrantica.com/perfume/Precious-Liquid/Acqua-Oud-105064.html				pending
+blue-agave	Blue Agave		unisex	https://www.fragrantica.com/perfume/Precious-Liquid/Blue-Agave-46155.html				pending
+mandarine	Mandarine		unisex	https://www.fragrantica.com/perfume/Precious-Liquid/Mandarine-46153.html				pending
+neroli-musk	Neroli Musk		unisex	https://www.fragrantica.com/perfume/Precious-Liquid/Neroli-Musk-46154.html				pending
+oud-symphony	Oud Symphony		unisex	https://www.fragrantica.com/perfume/Precious-Liquid/Oud-Symphony-80625.html				pending
+rose-blanche	Rose Blanche		female	https://www.fragrantica.com/perfume/Precious-Liquid/Rose-Blanche-70994.html				pending
+salt-and-pepper	Salt & Pepper		unisex	https://www.fragrantica.com/perfume/Precious-Liquid/Salt-Pepper-80626.html				pending
+tobacco-royal	Tobacco Royal		unisex	https://www.fragrantica.com/perfume/Precious-Liquid/Tobacco-Royal-105055.html				pending
+vanilla-orchid	Vanilla Orchid		female	https://www.fragrantica.com/perfume/Precious-Liquid/Vanilla-Orchid-70995.html				pending

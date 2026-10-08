@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aura	Aura		unisex		https://www.fragrantica.com/perfume/Kinetic-Perfumes/Aura-72336.html				pending
-kayu	Kayu		unisex		https://www.fragrantica.com/perfume/Kinetic-Perfumes/Kayu-72338.html				pending
-nel	Nel		unisex		https://www.fragrantica.com/perfume/Kinetic-Perfumes/Nel-72339.html				pending
-sillage	Sillage		unisex		https://www.fragrantica.com/perfume/Kinetic-Perfumes/Sillage-72333.html				pending
-verdigris	Verdigris		unisex		https://www.fragrantica.com/perfume/Kinetic-Perfumes/Verdigris-72334.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aura	Aura		unisex	https://www.fragrantica.com/perfume/Kinetic-Perfumes/Aura-72336.html				pending
+kayu	Kayu		unisex	https://www.fragrantica.com/perfume/Kinetic-Perfumes/Kayu-72338.html				pending
+nel	Nel		unisex	https://www.fragrantica.com/perfume/Kinetic-Perfumes/Nel-72339.html				pending
+sillage	Sillage		unisex	https://www.fragrantica.com/perfume/Kinetic-Perfumes/Sillage-72333.html				pending
+verdigris	Verdigris		unisex	https://www.fragrantica.com/perfume/Kinetic-Perfumes/Verdigris-72334.html				pending

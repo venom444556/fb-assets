@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-before-midnight	Before Midnight		male		https://www.fragrantica.com/perfume/John-Galliano/Before-Midnight-18008.html				pending
-john-galliano	John Galliano		female		https://www.fragrantica.com/perfume/John-Galliano/John-Galliano-4056.html				pending
-john-galliano-eau-de-toilette	John Galliano Eau de Toilette		female		https://www.fragrantica.com/perfume/John-Galliano/John-Galliano-Eau-de-Toilette-8170.html				pending
-parlez-moi-damour-eau-de-parfum	Parlez-Moi d'Amour Eau de Parfum		female		https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-Eau-de-Parfum-14034.html				pending
-parlez-moi-damour-encore	Parlez-Moi d'Amour Encore		female		https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-Encore-15953.html				pending
-parlez-moi-damour-gold-edition	Parlez-Moi d'Amour Gold Edition		female		https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-Gold-Edition-16579.html				pending
-parlez-moi-damour	Parlez-Moi d’Amour		female		https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-10279.html				pending
-parlez-moi-damour-eau-fraiche	Parlez-Moi d’Amour Eau Fraiche		female		https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-Eau-Fraiche-14649.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+before-midnight	Before Midnight		male	https://www.fragrantica.com/perfume/John-Galliano/Before-Midnight-18008.html				pending
+john-galliano	John Galliano		female	https://www.fragrantica.com/perfume/John-Galliano/John-Galliano-4056.html				pending
+john-galliano-eau-de-toilette	John Galliano Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/John-Galliano/John-Galliano-Eau-de-Toilette-8170.html				pending
+parlez-moi-damour-eau-de-parfum	Parlez-Moi d'Amour Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-Eau-de-Parfum-14034.html				pending
+parlez-moi-damour-encore	Parlez-Moi d'Amour Encore		female	https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-Encore-15953.html				pending
+parlez-moi-damour-gold-edition	Parlez-Moi d'Amour Gold Edition		female	https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-Gold-Edition-16579.html				pending
+parlez-moi-damour	Parlez-Moi d’Amour		female	https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-10279.html				pending
+parlez-moi-damour-eau-fraiche	Parlez-Moi d’Amour Eau Fraiche	Eau Fraiche	female	https://www.fragrantica.com/perfume/John-Galliano/Parlez-Moi-d-Amour-Eau-Fraiche-14649.html				pending

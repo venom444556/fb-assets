@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-coup-de-pied	Coup de Pied		unisex		https://www.fragrantica.com/perfume/Odette-Parfum-Co/Coup-de-Pied-91893.html				pending
-lapinou	Lapinou		unisex		https://www.fragrantica.com/perfume/Odette-Parfum-Co/Lapinou-118920.html				pending
-madeleine	Madeleine		unisex		https://www.fragrantica.com/perfume/Odette-Parfum-Co/Madeleine-95187.html				pending
-pas-de-chat	Pas de Chat		unisex		https://www.fragrantica.com/perfume/Odette-Parfum-Co/Pas-de-Chat-89644.html				pending
-petit-gateau	Petit Gâteau		unisex		https://www.fragrantica.com/perfume/Odette-Parfum-Co/Petit-Gateau-89645.html				pending
-rose-adage	Rose Adage		unisex		https://www.fragrantica.com/perfume/Odette-Parfum-Co/Rose-Adage-90770.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+coup-de-pied	Coup de Pied		unisex	https://www.fragrantica.com/perfume/Odette-Parfum-Co/Coup-de-Pied-91893.html				pending
+lapinou	Lapinou		unisex	https://www.fragrantica.com/perfume/Odette-Parfum-Co/Lapinou-118920.html				pending
+madeleine	Madeleine		unisex	https://www.fragrantica.com/perfume/Odette-Parfum-Co/Madeleine-95187.html				pending
+pas-de-chat	Pas de Chat		unisex	https://www.fragrantica.com/perfume/Odette-Parfum-Co/Pas-de-Chat-89644.html				pending
+petit-gateau	Petit Gâteau		unisex	https://www.fragrantica.com/perfume/Odette-Parfum-Co/Petit-Gateau-89645.html				pending
+rose-adage	Rose Adage		unisex	https://www.fragrantica.com/perfume/Odette-Parfum-Co/Rose-Adage-90770.html				pending

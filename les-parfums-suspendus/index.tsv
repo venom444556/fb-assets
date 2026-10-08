@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-flamboyant-and-petitgrain	Flamboyant & Petitgrain		unisex		https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Flamboyant-Petitgrain-40678.html				pending
-impatiente-royale-de-lhimalaya-and-rose	Impatiente Royale de L'Himalaya & Rose		unisex		https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Impatiente-Royale-de-L-Himalaya-Rose-40680.html				pending
-muguet-froisse-and-coquelicot	Muguet Froissé & Coquelicot		unisex		https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Muguet-Froisse-Coquelicot-40681.html				pending
-new-barbers-envolee-marine	New Barbers Envolee Marine		male		https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/New-Barbers-Envolee-Marine-42211.html				pending
-new-barbers-pamplemousse-gingembre	New Barbers Pamplemousse Gingembre		male		https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/New-Barbers-Pamplemousse-Gingembre-42212.html				pending
-new-barbers-the-vert-bambou	New Barbers The Vert Bambou		male		https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/New-Barbers-The-Vert-Bambou-42213.html				pending
-orchidee-pourpre-and-musc-capiteux	Orchidée Pourpre & Musc Capiteux		unisex		https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Orchidee-Pourpre-Musc-Capiteux-40679.html				pending
-tonka-ambree-and-edelweiss	Tonka Ambrée & Edelweiss		unisex		https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Tonka-Ambree-Edelweiss-40682.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+flamboyant-and-petitgrain	Flamboyant & Petitgrain		unisex	https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Flamboyant-Petitgrain-40678.html				pending
+impatiente-royale-de-lhimalaya-and-rose	Impatiente Royale de L'Himalaya & Rose		unisex	https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Impatiente-Royale-de-L-Himalaya-Rose-40680.html				pending
+muguet-froisse-and-coquelicot	Muguet Froissé & Coquelicot		unisex	https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Muguet-Froisse-Coquelicot-40681.html				pending
+new-barbers-envolee-marine	New Barbers Envolee Marine		male	https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/New-Barbers-Envolee-Marine-42211.html				pending
+new-barbers-pamplemousse-gingembre	New Barbers Pamplemousse Gingembre		male	https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/New-Barbers-Pamplemousse-Gingembre-42212.html				pending
+new-barbers-the-vert-bambou	New Barbers The Vert Bambou		male	https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/New-Barbers-The-Vert-Bambou-42213.html				pending
+orchidee-pourpre-and-musc-capiteux	Orchidée Pourpre & Musc Capiteux		unisex	https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Orchidee-Pourpre-Musc-Capiteux-40679.html				pending
+tonka-ambree-and-edelweiss	Tonka Ambrée & Edelweiss		unisex	https://www.fragrantica.com/perfume/Les-Parfums-Suspendus/Tonka-Ambree-Edelweiss-40682.html				pending

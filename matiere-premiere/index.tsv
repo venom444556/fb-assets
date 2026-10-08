@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bois-debene	Bois d'Ebene		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Bois-d-Ebene-59062.html				pending
-cologne-cedrat	Cologne Cedrat		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Cologne-Cedrat-59059.html				pending
-crystal-saffron	Crystal Saffron		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Crystal-Saffron-76131.html				pending
-crystal-saffron-extrait	Crystal Saffron Extrait		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Crystal-Saffron-Extrait-96551.html				pending
-encens-suave	Encens Suave		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Encens-Suave-59060.html				pending
-encens-suave-extrait	Encens Suave Extrait		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Encens-Suave-Extrait-96554.html				pending
-falcon-leather	Falcon Leather		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Falcon-Leather-59057.html				pending
-falcon-leather-extrait	Falcon Leather Extrait		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Falcon-Leather-Extrait-96042.html				pending
-french-flower	French Flower		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/French-Flower-73007.html				pending
-metal-lavender	Metal Lavender		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Metal-Lavender-131224.html				pending
-neroli-oranger	Neroli Oranger		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Neroli-Oranger-59058.html				pending
-oud-seven	Oud Seven		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Oud-Seven-68858.html				pending
-parisian-musc	Parisian Musc		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Parisian-Musc-59063.html				pending
-radical-rose	Radical Rose		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Radical-Rose-66043.html				pending
-radical-rose-extrait	Radical Rose Extrait		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Radical-Rose-Extrait-96552.html				pending
-santal-austral	Santal Austral		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Santal-Austral-59061.html				pending
-santal-austral-extrait	Santal Austral Extrait		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Santal-Austral-Extrait-96553.html				pending
-vanilla-powder	Vanilla Powder		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Vanilla-Powder-84933.html				pending
-vanilla-powder-112581	Vanilla Powder		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Vanilla-Powder-112581.html				pending
-black-currant-extrait	Black Currant Extrait		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Black-Currant-Extrait-136686.html				pending
-cherry-amber	Cherry Amber		unisex		https://www.fragrantica.com/perfume/Matiere-Premiere/Cherry-Amber-141447.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-currant-extrait	Black Currant Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Black-Currant-Extrait-136686.html				pending
+bois-debene	Bois d'Ebene		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Bois-d-Ebene-59062.html				pending
+cherry-amber	Cherry Amber		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Cherry-Amber-141447.html				pending
+cologne-cedrat	Cologne Cedrat		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Cologne-Cedrat-59059.html				pending
+crystal-saffron	Crystal Saffron		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Crystal-Saffron-76131.html				pending
+crystal-saffron-extrait	Crystal Saffron Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Crystal-Saffron-Extrait-96551.html				pending
+encens-suave	Encens Suave		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Encens-Suave-59060.html				pending
+encens-suave-extrait	Encens Suave Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Encens-Suave-Extrait-96554.html				pending
+falcon-leather	Falcon Leather		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Falcon-Leather-59057.html				pending
+falcon-leather-extrait	Falcon Leather Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Falcon-Leather-Extrait-96042.html				pending
+french-flower	French Flower		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/French-Flower-73007.html				pending
+metal-lavender	Metal Lavender		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Metal-Lavender-131224.html				pending
+neroli-oranger	Neroli Oranger		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Neroli-Oranger-59058.html				pending
+oud-seven	Oud Seven		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Oud-Seven-68858.html				pending
+parisian-musc	Parisian Musc		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Parisian-Musc-59063.html				pending
+radical-rose	Radical Rose		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Radical-Rose-66043.html				pending
+radical-rose-extrait	Radical Rose Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Radical-Rose-Extrait-96552.html				pending
+santal-austral	Santal Austral		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Santal-Austral-59061.html				pending
+santal-austral-extrait	Santal Austral Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Santal-Austral-Extrait-96553.html				pending
+vanilla-powder	Vanilla Powder		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Vanilla-Powder-84933.html				pending
+vanilla-powder-112581	Vanilla Powder		unisex	https://www.fragrantica.com/perfume/Matiere-Premiere/Vanilla-Powder-112581.html				pending

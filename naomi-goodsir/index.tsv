@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bois-dascese	Bois d'Ascese		unisex		https://www.fragrantica.com/perfume/Naomi-Goodsir/Bois-d-Ascese-16582.html				pending
-corpus-equus	Corpus Equus		unisex		https://www.fragrantica.com/perfume/Naomi-Goodsir/Corpus-Equus-69309.html				pending
-cuir-velours	Cuir Velours		unisex		https://www.fragrantica.com/perfume/Naomi-Goodsir/Cuir-Velours-16581.html				pending
-iris-cendre	Iris Cendre		unisex		https://www.fragrantica.com/perfume/Naomi-Goodsir/Iris-Cendre-32062.html				pending
-nuit-de-bakelite	Nuit de Bakélite		unisex		https://www.fragrantica.com/perfume/Naomi-Goodsir/Nuit-de-Bakelite-43954.html				pending
-or-du-serail	Or du Serail		unisex		https://www.fragrantica.com/perfume/Naomi-Goodsir/Or-du-Serail-24716.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bois-dascese	Bois d'Ascese		unisex	https://www.fragrantica.com/perfume/Naomi-Goodsir/Bois-d-Ascese-16582.html				pending
+corpus-equus	Corpus Equus		unisex	https://www.fragrantica.com/perfume/Naomi-Goodsir/Corpus-Equus-69309.html				pending
+cuir-velours	Cuir Velours		unisex	https://www.fragrantica.com/perfume/Naomi-Goodsir/Cuir-Velours-16581.html				pending
+iris-cendre	Iris Cendre		unisex	https://www.fragrantica.com/perfume/Naomi-Goodsir/Iris-Cendre-32062.html				pending
+nuit-de-bakelite	Nuit de Bakélite		unisex	https://www.fragrantica.com/perfume/Naomi-Goodsir/Nuit-de-Bakelite-43954.html				pending
+or-du-serail	Or du Serail		unisex	https://www.fragrantica.com/perfume/Naomi-Goodsir/Or-du-Serail-24716.html				pending

@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-no-07	Nº 07		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-07-84422.html				pending
-no-09	Nº 09		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-09-84420.html				pending
-no-10	Nº 10		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-10-84425.html				pending
-no-16	Nº 16		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-16-84416.html				pending
-no-18	Nº 18		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-18-84417.html				pending
-no-20	Nº 20		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-20-84427.html				pending
-no-25	Nº 25		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-25-84428.html				pending
-no-29	Nº 29		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-29-84423.html				pending
-no-31	Nº 31		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-31-84421.html				pending
-no-37	Nº 37		unisex		https://www.fragrantica.com/perfume/Dailus-Lab/No-37-84424.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+no-07	Nº 07		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-07-84422.html				pending
+no-09	Nº 09		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-09-84420.html				pending
+no-10	Nº 10		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-10-84425.html				pending
+no-16	Nº 16		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-16-84416.html				pending
+no-18	Nº 18		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-18-84417.html				pending
+no-20	Nº 20		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-20-84427.html				pending
+no-25	Nº 25		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-25-84428.html				pending
+no-29	Nº 29		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-29-84423.html				pending
+no-31	Nº 31		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-31-84421.html				pending
+no-37	Nº 37		unisex	https://www.fragrantica.com/perfume/Dailus-Lab/No-37-84424.html				pending

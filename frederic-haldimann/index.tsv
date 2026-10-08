@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-eau-fraiche-de-frederic	Eau Fraiche de Frederic		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Eau-Fraiche-de-Frederic-27074.html				pending
-frederic	Frederic		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-27076.html				pending
-frederic-no-2	Frederic No. 2		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-No-2-27078.html				pending
-frederic-no-3	Frederic No. 3		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-No-3-27213.html				pending
-frederic-no-4	Frederic No. 4		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-No-4-27261.html				pending
-frederic-no-1	Frederic No.1		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-No-1-27211.html				pending
-haute-couture	Haute Couture		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Haute-Couture-27263.html				pending
-impressions-delegance	Impressions d'Elegance		male		https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-d-Elegance-27215.html				pending
-impressions-dete	Impressions d'Ete		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-d-Ete-27264.html				pending
-impressions-dhiver	Impressions d'Hiver		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-d-Hiver-27260.html				pending
-impressions-de-paris	Impressions de Paris		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-de-Paris-27258.html				pending
-impressions-de-soleil	Impressions de Soleil		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-de-Soleil-27257.html				pending
-impressions-de-sport	Impressions de Sport		male		https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-de-Sport-27256.html				pending
-impressions-fraicheur	Impressions Fraicheur		unisex		https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-Fraicheur-43921.html				pending
-la-vie-dune-rose	La Vie d'une Rose		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/La-Vie-d-une-Rose-27212.html				pending
-ma-cherie	Ma Cherie		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Ma-Cherie-27254.html				pending
-madame-de-frederic	Madame de Frederic		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Madame-de-Frederic-27075.html				pending
-mon-amour	Mon Amour		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Mon-Amour-27217.html				pending
-plaisir-de-frederic	Plaisir de Frederic		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Plaisir-de-Frederic-27077.html				pending
-poesie	Poesie		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Poesie-27259.html				pending
-reve-de-frederic	Reve de Frederic		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/Reve-de-Frederic-27262.html				pending
-the-blanc	The Blanc		female		https://www.fragrantica.com/perfume/Frederic-Haldimann/The-Blanc-27214.html				pending
-vetiver-de-frederic	Vetiver de Frederic		male		https://www.fragrantica.com/perfume/Frederic-Haldimann/Vetiver-de-Frederic-27216.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+eau-fraiche-de-frederic	Eau Fraiche de Frederic	Eau Fraiche	female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Eau-Fraiche-de-Frederic-27074.html				pending
+frederic	Frederic		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-27076.html				pending
+frederic-no-2	Frederic No. 2		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-No-2-27078.html				pending
+frederic-no-3	Frederic No. 3		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-No-3-27213.html				pending
+frederic-no-4	Frederic No. 4		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-No-4-27261.html				pending
+frederic-no-1	Frederic No.1		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Frederic-No-1-27211.html				pending
+haute-couture	Haute Couture		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Haute-Couture-27263.html				pending
+impressions-delegance	Impressions d'Elegance		male	https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-d-Elegance-27215.html				pending
+impressions-dete	Impressions d'Ete		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-d-Ete-27264.html				pending
+impressions-dhiver	Impressions d'Hiver		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-d-Hiver-27260.html				pending
+impressions-de-paris	Impressions de Paris		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-de-Paris-27258.html				pending
+impressions-de-soleil	Impressions de Soleil		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-de-Soleil-27257.html				pending
+impressions-de-sport	Impressions de Sport		male	https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-de-Sport-27256.html				pending
+impressions-fraicheur	Impressions Fraicheur		unisex	https://www.fragrantica.com/perfume/Frederic-Haldimann/Impressions-Fraicheur-43921.html				pending
+la-vie-dune-rose	La Vie d'une Rose		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/La-Vie-d-une-Rose-27212.html				pending
+ma-cherie	Ma Cherie		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Ma-Cherie-27254.html				pending
+madame-de-frederic	Madame de Frederic		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Madame-de-Frederic-27075.html				pending
+mon-amour	Mon Amour		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Mon-Amour-27217.html				pending
+plaisir-de-frederic	Plaisir de Frederic		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Plaisir-de-Frederic-27077.html				pending
+poesie	Poesie		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Poesie-27259.html				pending
+reve-de-frederic	Reve de Frederic		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/Reve-de-Frederic-27262.html				pending
+the-blanc	The Blanc		female	https://www.fragrantica.com/perfume/Frederic-Haldimann/The-Blanc-27214.html				pending
+vetiver-de-frederic	Vetiver de Frederic		male	https://www.fragrantica.com/perfume/Frederic-Haldimann/Vetiver-de-Frederic-27216.html				pending

@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-vivant-lhomme-cologne	Vivant L'Homme Cologne		male		https://www.fragrantica.com/perfume/VIVANT-Cosmeticos/Vivant-L-Homme-Cologne-82740.html				pending
-vivant-lhomme-leau	Vivant L'Homme L'Eau		male		https://www.fragrantica.com/perfume/VIVANT-Cosmeticos/Vivant-L-Homme-L-Eau-89733.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+vivant-lhomme-cologne	Vivant L'Homme Cologne	Cologne	male	https://www.fragrantica.com/perfume/VIVANT-Cosmeticos/Vivant-L-Homme-Cologne-82740.html				pending
+vivant-lhomme-leau	Vivant L'Homme L'Eau		male	https://www.fragrantica.com/perfume/VIVANT-Cosmeticos/Vivant-L-Homme-L-Eau-89733.html				pending

@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-nikos	Nikos		male		https://www.fragrantica.com/perfume/Nikos/Nikos-926.html				pending
-nikos-sculpture-fresh-blue	Nikos Sculpture Fresh Blue		male		https://www.fragrantica.com/perfume/Nikos/Nikos-Sculpture-Fresh-Blue-2631.html				pending
-sculpture-delicate-fleur	Sculpture Delicate Fleur		female		https://www.fragrantica.com/perfume/Nikos/Sculpture-Delicate-Fleur-9934.html				pending
-sculpture-homme-gods-night	Sculpture Homme God's Night		male		https://www.fragrantica.com/perfume/Nikos/Sculpture-Homme-God-s-Night-42277.html				pending
-sculpture-mykonos-eau-de-parfum-fraiche	Sculpture Mykonos Eau de Parfum Fraiche		unisex		https://www.fragrantica.com/perfume/Nikos/Sculpture-Mykonos-Eau-de-Parfum-Fraiche-85286.html				pending
-sculpture-parfum	Sculpture Parfum		male		https://www.fragrantica.com/perfume/Nikos/Sculpture-Parfum-74214.html				pending
-sculpture	Sculpture		female		https://www.fragrantica.com/perfume/Nikos/Sculpture-924.html				pending
-sculpture-air-de-lune	Sculpture Air de Lune		unisex		https://www.fragrantica.com/perfume/Nikos/Sculpture-Air-de-Lune-94741.html				pending
-sculpture-blue-breeze	Sculpture Blue Breeze		male		https://www.fragrantica.com/perfume/Nikos/Sculpture-Blue-Breeze-2482.html				pending
-sculpture-homme	Sculpture Homme		male		https://www.fragrantica.com/perfume/Nikos/Sculpture-Homme-925.html				pending
-sculpture-morning-feel	Sculpture Morning Feel		male		https://www.fragrantica.com/perfume/Nikos/Sculpture-Morning-Feel-26759.html				pending
-sculpture-ocean-light	Sculpture Ocean Light		male		https://www.fragrantica.com/perfume/Nikos/Sculpture-Ocean-Light-85369.html				pending
-sculpture-reverie	Sculpture Rêverie		unisex		https://www.fragrantica.com/perfume/Nikos/Sculpture-Reverie-94740.html				pending
-sculpture-voyage-en-orient	Sculpture Voyage en Orient		female		https://www.fragrantica.com/perfume/Nikos/Sculpture-Voyage-en-Orient-89248.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+nikos	Nikos		male	https://www.fragrantica.com/perfume/Nikos/Nikos-926.html				pending
+nikos-sculpture-fresh-blue	Nikos Sculpture Fresh Blue		male	https://www.fragrantica.com/perfume/Nikos/Nikos-Sculpture-Fresh-Blue-2631.html				pending
+sculpture	Sculpture		female	https://www.fragrantica.com/perfume/Nikos/Sculpture-924.html				pending
+sculpture-air-de-lune	Sculpture Air de Lune		unisex	https://www.fragrantica.com/perfume/Nikos/Sculpture-Air-de-Lune-94741.html				pending
+sculpture-blue-breeze	Sculpture Blue Breeze		male	https://www.fragrantica.com/perfume/Nikos/Sculpture-Blue-Breeze-2482.html				pending
+sculpture-delicate-fleur	Sculpture Delicate Fleur		female	https://www.fragrantica.com/perfume/Nikos/Sculpture-Delicate-Fleur-9934.html				pending
+sculpture-homme	Sculpture Homme		male	https://www.fragrantica.com/perfume/Nikos/Sculpture-Homme-925.html				pending
+sculpture-homme-gods-night	Sculpture Homme God's Night		male	https://www.fragrantica.com/perfume/Nikos/Sculpture-Homme-God-s-Night-42277.html				pending
+sculpture-morning-feel	Sculpture Morning Feel		male	https://www.fragrantica.com/perfume/Nikos/Sculpture-Morning-Feel-26759.html				pending
+sculpture-mykonos-eau-de-parfum-fraiche	Sculpture Mykonos Eau de Parfum Fraiche	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Nikos/Sculpture-Mykonos-Eau-de-Parfum-Fraiche-85286.html				pending
+sculpture-ocean-light	Sculpture Ocean Light		male	https://www.fragrantica.com/perfume/Nikos/Sculpture-Ocean-Light-85369.html				pending
+sculpture-parfum	Sculpture Parfum	Parfum	male	https://www.fragrantica.com/perfume/Nikos/Sculpture-Parfum-74214.html				pending
+sculpture-reverie	Sculpture Rêverie		unisex	https://www.fragrantica.com/perfume/Nikos/Sculpture-Reverie-94740.html				pending
+sculpture-voyage-en-orient	Sculpture Voyage en Orient		female	https://www.fragrantica.com/perfume/Nikos/Sculpture-Voyage-en-Orient-89248.html				pending

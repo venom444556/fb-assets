@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-angels-kiss	Angels Kiss		female		https://www.fragrantica.com/perfume/Ariana-Grande/Angels-Kiss-96166.html				pending
-ari	Ari		female		https://www.fragrantica.com/perfume/Ariana-Grande/Ari-31661.html				pending
-cloud	Cloud		female		https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-50384.html				pending
-cloud-aurora	Cloud Aurora		female		https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Aurora-136621.html				pending
-cloud-intense	Cloud Intense		female		https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Intense-69296.html				pending
-cloud-pink	Cloud Pink		female		https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Pink-83995.html				pending
-frankie	Frankie		unisex		https://www.fragrantica.com/perfume/Ariana-Grande/Frankie-35343.html				pending
-god-is-a-woman	God Is A Woman		female		https://www.fragrantica.com/perfume/Ariana-Grande/God-Is-A-Woman-68664.html				pending
-mod-blush	Mod Blush		female		https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Blush-77800.html				pending
-mod-vanilla	Mod Vanilla		female		https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Vanilla-77799.html				pending
-moonlight	Moonlight		female		https://www.fragrantica.com/perfume/Ariana-Grande/Moonlight-46410.html				pending
-pink-woods	Pink Woods		female		https://www.fragrantica.com/perfume/Ariana-Grande/Pink-Woods-96255.html				pending
-plush-vanilla	Plush Vanilla		female		https://www.fragrantica.com/perfume/Ariana-Grande/Plush-Vanilla-111202.html				pending
-pressed-petals	Pressed Petals		female		https://www.fragrantica.com/perfume/Ariana-Grande/Pressed-Petals-96256.html				pending
-r-e-m	R.E.M.		female		https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-62578.html				pending
-r-e-m-cherry-eclipse	R.E.M. Cherry Eclipse		female		https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-Cherry-Eclipse-102379.html				pending
-sweet-like-candy	Sweet Like Candy		female		https://www.fragrantica.com/perfume/Ariana-Grande/Sweet-Like-Candy-39970.html				pending
-sweet-like-candy-limited-edition	Sweet Like Candy Limited Edition		female		https://www.fragrantica.com/perfume/Ariana-Grande/Sweet-Like-Candy-Limited-Edition-43095.html				pending
-thank-u-next-2-0	Thank U Next 2.0		female		https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-2-0-68367.html				pending
-thank-u-next	Thank U, Next		female		https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-56741.html				pending
-vanilla-suede	Vanilla Suede		female		https://www.fragrantica.com/perfume/Ariana-Grande/Vanilla-Suede-96257.html				pending
-wicked-for-good-elphaba-enchanted	Wicked For Good – Elphaba Enchanted		unisex		https://www.fragrantica.com/perfume/Ariana-Grande/Wicked-For-Good-Elphaba-Enchanted-113738.html				pending
-wicked-for-good-glinda-bubbly-pink	Wicked For Good – Glinda Bubbly Pink		unisex		https://www.fragrantica.com/perfume/Ariana-Grande/Wicked-For-Good-Glinda-Bubbly-Pink-113739.html				pending
-ari-body-mist	ARI Body Mist		female		https://www.fragrantica.com/perfume/Ariana-Grande/ARI-Body-Mist-92530.html				pending
-cloud-body-mist	Cloud Body Mist		female		https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Body-Mist-92509.html				pending
-god-is-a-woman-body-mist	God Is A Woman Body Mist		female		https://www.fragrantica.com/perfume/Ariana-Grande/God-Is-A-Woman-Body-Mist-92534.html				pending
-moonlight-body-mist	Moonlight Body Mist		female		https://www.fragrantica.com/perfume/Ariana-Grande/Moonlight-Body-Mist-92529.html				pending
-sweet-like-candy-body-mist	Sweet Like Candy Body Mist		female		https://www.fragrantica.com/perfume/Ariana-Grande/Sweet-Like-Candy-Body-Mist-92532.html				pending
-thank-u-next-2-0-body-mist	Thank U Next 2.0 Body Mist		female		https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-2-0-Body-Mist-92533.html				pending
-thank-u-next-body-mist	Thank U, Next Body Mist		female		https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-Body-Mist-92531.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+angels-kiss	Angels Kiss		female	https://www.fragrantica.com/perfume/Ariana-Grande/Angels-Kiss-96166.html				pending
+ari	Ari		female	https://www.fragrantica.com/perfume/Ariana-Grande/Ari-31661.html				pending
+ari-body-mist	ARI Body Mist	Body Mist	female	https://www.fragrantica.com/perfume/Ariana-Grande/ARI-Body-Mist-92530.html				pending
+cloud	Cloud		female	https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-50384.html				pending
+cloud-aurora	Cloud Aurora		female	https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Aurora-136621.html				pending
+cloud-body-mist	Cloud Body Mist	Body Mist	female	https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Body-Mist-92509.html				pending
+cloud-intense	Cloud Intense		female	https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Intense-69296.html				pending
+cloud-pink	Cloud Pink		female	https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Pink-83995.html				pending
+frankie	Frankie		unisex	https://www.fragrantica.com/perfume/Ariana-Grande/Frankie-35343.html				pending
+god-is-a-woman	God Is A Woman		female	https://www.fragrantica.com/perfume/Ariana-Grande/God-Is-A-Woman-68664.html				pending
+god-is-a-woman-body-mist	God Is A Woman Body Mist	Body Mist	female	https://www.fragrantica.com/perfume/Ariana-Grande/God-Is-A-Woman-Body-Mist-92534.html				pending
+mod-blush	Mod Blush		female	https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Blush-77800.html				pending
+mod-vanilla	Mod Vanilla		female	https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Vanilla-77799.html				pending
+moonlight	Moonlight		female	https://www.fragrantica.com/perfume/Ariana-Grande/Moonlight-46410.html				pending
+moonlight-body-mist	Moonlight Body Mist	Body Mist	female	https://www.fragrantica.com/perfume/Ariana-Grande/Moonlight-Body-Mist-92529.html				pending
+pink-woods	Pink Woods		female	https://www.fragrantica.com/perfume/Ariana-Grande/Pink-Woods-96255.html				pending
+plush-vanilla	Plush Vanilla		female	https://www.fragrantica.com/perfume/Ariana-Grande/Plush-Vanilla-111202.html				pending
+pressed-petals	Pressed Petals		female	https://www.fragrantica.com/perfume/Ariana-Grande/Pressed-Petals-96256.html				pending
+r-e-m	R.E.M.		female	https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-62578.html				pending
+r-e-m-cherry-eclipse	R.E.M. Cherry Eclipse		female	https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-Cherry-Eclipse-102379.html				pending
+sweet-like-candy	Sweet Like Candy		female	https://www.fragrantica.com/perfume/Ariana-Grande/Sweet-Like-Candy-39970.html				pending
+sweet-like-candy-body-mist	Sweet Like Candy Body Mist	Body Mist	female	https://www.fragrantica.com/perfume/Ariana-Grande/Sweet-Like-Candy-Body-Mist-92532.html				pending
+sweet-like-candy-limited-edition	Sweet Like Candy Limited Edition		female	https://www.fragrantica.com/perfume/Ariana-Grande/Sweet-Like-Candy-Limited-Edition-43095.html				pending
+thank-u-next-2-0	Thank U Next 2.0		female	https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-2-0-68367.html				pending
+thank-u-next-2-0-body-mist	Thank U Next 2.0 Body Mist	Body Mist	female	https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-2-0-Body-Mist-92533.html				pending
+thank-u-next	Thank U, Next		female	https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-56741.html				pending
+thank-u-next-body-mist	Thank U, Next Body Mist	Body Mist	female	https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-Body-Mist-92531.html				pending
+vanilla-suede	Vanilla Suede		female	https://www.fragrantica.com/perfume/Ariana-Grande/Vanilla-Suede-96257.html				pending
+wicked-for-good-elphaba-enchanted	Wicked For Good – Elphaba Enchanted		unisex	https://www.fragrantica.com/perfume/Ariana-Grande/Wicked-For-Good-Elphaba-Enchanted-113738.html				pending
+wicked-for-good-glinda-bubbly-pink	Wicked For Good – Glinda Bubbly Pink		unisex	https://www.fragrantica.com/perfume/Ariana-Grande/Wicked-For-Good-Glinda-Bubbly-Pink-113739.html				pending

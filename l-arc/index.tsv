@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-argentium-halo-de-lune	Argentium Halo de Lune		unisex		https://www.fragrantica.com/perfume/L-Arc/Argentium-Halo-de-Lune-47222.html				pending
-aventure-jasmin-de-karnak	Aventure Jasmin de Karnak		unisex		https://www.fragrantica.com/perfume/L-Arc/Aventure-Jasmin-de-Karnak-19252.html				pending
-balade-tiare-de-tahiti	Balade Tiare de Tahiti		unisex		https://www.fragrantica.com/perfume/L-Arc/Balade-Tiare-de-Tahiti-19254.html				pending
-calda	Calda		unisex		https://www.fragrantica.com/perfume/L-Arc/Calda-90371.html				pending
-escapade-vanille-des-illes	Escapade Vanille des Illes		unisex		https://www.fragrantica.com/perfume/L-Arc/Escapade-Vanille-des-Illes-19253.html				pending
-evasion-digo-de-havane	Evasion Digo de Havane		unisex		https://www.fragrantica.com/perfume/L-Arc/Evasion-Digo-de-Havane-19256.html				pending
-memoire-carnet-de-voyage	Mémoire, Carnet de voyage		unisex		https://www.fragrantica.com/perfume/L-Arc/Memoire-Carnet-de-voyage-32289.html				pending
-traversee-cedre-difrane	Traversèe Cèdre d'Ifrane		unisex		https://www.fragrantica.com/perfume/L-Arc/Traversee-Cedre-d-Ifrane-19255.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+argentium-halo-de-lune	Argentium Halo de Lune		unisex	https://www.fragrantica.com/perfume/L-Arc/Argentium-Halo-de-Lune-47222.html				pending
+aventure-jasmin-de-karnak	Aventure Jasmin de Karnak		unisex	https://www.fragrantica.com/perfume/L-Arc/Aventure-Jasmin-de-Karnak-19252.html				pending
+balade-tiare-de-tahiti	Balade Tiare de Tahiti		unisex	https://www.fragrantica.com/perfume/L-Arc/Balade-Tiare-de-Tahiti-19254.html				pending
+calda	Calda		unisex	https://www.fragrantica.com/perfume/L-Arc/Calda-90371.html				pending
+escapade-vanille-des-illes	Escapade Vanille des Illes		unisex	https://www.fragrantica.com/perfume/L-Arc/Escapade-Vanille-des-Illes-19253.html				pending
+evasion-digo-de-havane	Evasion Digo de Havane		unisex	https://www.fragrantica.com/perfume/L-Arc/Evasion-Digo-de-Havane-19256.html				pending
+memoire-carnet-de-voyage	Mémoire, Carnet de voyage		unisex	https://www.fragrantica.com/perfume/L-Arc/Memoire-Carnet-de-voyage-32289.html				pending
+traversee-cedre-difrane	Traversèe Cèdre d'Ifrane		unisex	https://www.fragrantica.com/perfume/L-Arc/Traversee-Cedre-d-Ifrane-19255.html				pending

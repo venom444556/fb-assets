@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black	Black		unisex		https://www.fragrantica.com/perfume/Lanoe/Black-30106.html				pending
-classic	Classic		male		https://www.fragrantica.com/perfume/Lanoe/Classic-30136.html				pending
-faun	Faun		male		https://www.fragrantica.com/perfume/Lanoe/Faun-30124.html				pending
-glike	G'Like		male		https://www.fragrantica.com/perfume/Lanoe/G-Like-30107.html				pending
-happily	Happily		unisex		https://www.fragrantica.com/perfume/Lanoe/Happily-30126.html				pending
-hidden-love	Hidden Love		female		https://www.fragrantica.com/perfume/Lanoe/Hidden-Love-30125.html				pending
-ibiza-love	Ibiza Love		female		https://www.fragrantica.com/perfume/Lanoe/Ibiza-Love-30108.html				pending
-jasmin-dorange	Jasmin d'Orange		female		https://www.fragrantica.com/perfume/Lanoe/Jasmin-d-Orange-30110.html				pending
-jungle-rain	Jungle Rain		unisex		https://www.fragrantica.com/perfume/Lanoe/Jungle-Rain-30128.html				pending
-lila-purple	Lila (Purple)		female		https://www.fragrantica.com/perfume/Lanoe/Lila-Purple-30109.html				pending
-lovely	Lovely		female		https://www.fragrantica.com/perfume/Lanoe/Lovely-30111.html				pending
-mirus-i	Mirus I		female		https://www.fragrantica.com/perfume/Lanoe/Mirus-I-30132.html				pending
-mirus-ii	Mirus II		male		https://www.fragrantica.com/perfume/Lanoe/Mirus-II-30133.html				pending
-no-3	No. 3		unisex		https://www.fragrantica.com/perfume/Lanoe/No-3-30113.html				pending
-no-4	No. 4		unisex		https://www.fragrantica.com/perfume/Lanoe/No-4-30114.html				pending
-no-6	No. 6		unisex		https://www.fragrantica.com/perfume/Lanoe/No-6-30115.html				pending
-no-7	No. 7		unisex		https://www.fragrantica.com/perfume/Lanoe/No-7-30122.html				pending
-no-8	No. 8		unisex		https://www.fragrantica.com/perfume/Lanoe/No-8-30123.html				pending
-original	Original		female		https://www.fragrantica.com/perfume/Lanoe/Original-30135.html				pending
-pacific-rain	Pacific Rain		unisex		https://www.fragrantica.com/perfume/Lanoe/Pacific-Rain-30130.html				pending
-queen-of-heart	Queen of Heart		female		https://www.fragrantica.com/perfume/Lanoe/Queen-of-Heart-30127.html				pending
-summer-rain	Summer Rain		unisex		https://www.fragrantica.com/perfume/Lanoe/Summer-Rain-30129.html				pending
-tropical-rain	Tropical Rain		unisex		https://www.fragrantica.com/perfume/Lanoe/Tropical-Rain-30131.html				pending
-white	White		female		https://www.fragrantica.com/perfume/Lanoe/White-30112.html				pending
-white-edition	White Edition		unisex		https://www.fragrantica.com/perfume/Lanoe/White-Edition-30134.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black	Black		unisex	https://www.fragrantica.com/perfume/Lanoe/Black-30106.html				pending
+classic	Classic		male	https://www.fragrantica.com/perfume/Lanoe/Classic-30136.html				pending
+faun	Faun		male	https://www.fragrantica.com/perfume/Lanoe/Faun-30124.html				pending
+glike	G'Like		male	https://www.fragrantica.com/perfume/Lanoe/G-Like-30107.html				pending
+happily	Happily		unisex	https://www.fragrantica.com/perfume/Lanoe/Happily-30126.html				pending
+hidden-love	Hidden Love		female	https://www.fragrantica.com/perfume/Lanoe/Hidden-Love-30125.html				pending
+ibiza-love	Ibiza Love		female	https://www.fragrantica.com/perfume/Lanoe/Ibiza-Love-30108.html				pending
+jasmin-dorange	Jasmin d'Orange		female	https://www.fragrantica.com/perfume/Lanoe/Jasmin-d-Orange-30110.html				pending
+jungle-rain	Jungle Rain		unisex	https://www.fragrantica.com/perfume/Lanoe/Jungle-Rain-30128.html				pending
+lila-purple	Lila (Purple)		female	https://www.fragrantica.com/perfume/Lanoe/Lila-Purple-30109.html				pending
+lovely	Lovely		female	https://www.fragrantica.com/perfume/Lanoe/Lovely-30111.html				pending
+mirus-i	Mirus I		female	https://www.fragrantica.com/perfume/Lanoe/Mirus-I-30132.html				pending
+mirus-ii	Mirus II		male	https://www.fragrantica.com/perfume/Lanoe/Mirus-II-30133.html				pending
+no-3	No. 3		unisex	https://www.fragrantica.com/perfume/Lanoe/No-3-30113.html				pending
+no-4	No. 4		unisex	https://www.fragrantica.com/perfume/Lanoe/No-4-30114.html				pending
+no-6	No. 6		unisex	https://www.fragrantica.com/perfume/Lanoe/No-6-30115.html				pending
+no-7	No. 7		unisex	https://www.fragrantica.com/perfume/Lanoe/No-7-30122.html				pending
+no-8	No. 8		unisex	https://www.fragrantica.com/perfume/Lanoe/No-8-30123.html				pending
+original	Original		female	https://www.fragrantica.com/perfume/Lanoe/Original-30135.html				pending
+pacific-rain	Pacific Rain		unisex	https://www.fragrantica.com/perfume/Lanoe/Pacific-Rain-30130.html				pending
+queen-of-heart	Queen of Heart		female	https://www.fragrantica.com/perfume/Lanoe/Queen-of-Heart-30127.html				pending
+summer-rain	Summer Rain		unisex	https://www.fragrantica.com/perfume/Lanoe/Summer-Rain-30129.html				pending
+tropical-rain	Tropical Rain		unisex	https://www.fragrantica.com/perfume/Lanoe/Tropical-Rain-30131.html				pending
+white	White		female	https://www.fragrantica.com/perfume/Lanoe/White-30112.html				pending
+white-edition	White Edition		unisex	https://www.fragrantica.com/perfume/Lanoe/White-Edition-30134.html				pending

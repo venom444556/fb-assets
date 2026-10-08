@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-angie	Angie		unisex		https://www.fragrantica.com/perfume/By-Rosie-Jane/Angie-52179.html				pending
-dulce	Dulce		unisex		https://www.fragrantica.com/perfume/By-Rosie-Jane/Dulce-79146.html				pending
-dylan	Dylan		unisex		https://www.fragrantica.com/perfume/By-Rosie-Jane/Dylan-66973.html				pending
-james	James		unisex		https://www.fragrantica.com/perfume/By-Rosie-Jane/James-52176.html				pending
-lake	Lake		unisex		https://www.fragrantica.com/perfume/By-Rosie-Jane/Lake-57827.html				pending
-leila-lou	Leila Lou		female		https://www.fragrantica.com/perfume/By-Rosie-Jane/Leila-Lou-16942.html				pending
-madie	Madie		unisex		https://www.fragrantica.com/perfume/By-Rosie-Jane/Madie-60761.html				pending
-matilda	Matilda		female		https://www.fragrantica.com/perfume/By-Rosie-Jane/Matilda-122773.html				pending
-missy	Missy		female		https://www.fragrantica.com/perfume/By-Rosie-Jane/Missy-90841.html				pending
-remi	Remi		unisex		https://www.fragrantica.com/perfume/By-Rosie-Jane/Remi-114881.html				pending
-rosie	Rosie		unisex		https://www.fragrantica.com/perfume/By-Rosie-Jane/Rosie-52177.html				pending
-tilly	Tilly		female		https://www.fragrantica.com/perfume/By-Rosie-Jane/Tilly-20612.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+angie	Angie		unisex	https://www.fragrantica.com/perfume/By-Rosie-Jane/Angie-52179.html				pending
+dulce	Dulce		unisex	https://www.fragrantica.com/perfume/By-Rosie-Jane/Dulce-79146.html				pending
+dylan	Dylan		unisex	https://www.fragrantica.com/perfume/By-Rosie-Jane/Dylan-66973.html				pending
+james	James		unisex	https://www.fragrantica.com/perfume/By-Rosie-Jane/James-52176.html				pending
+lake	Lake		unisex	https://www.fragrantica.com/perfume/By-Rosie-Jane/Lake-57827.html				pending
+leila-lou	Leila Lou		female	https://www.fragrantica.com/perfume/By-Rosie-Jane/Leila-Lou-16942.html				pending
+madie	Madie		unisex	https://www.fragrantica.com/perfume/By-Rosie-Jane/Madie-60761.html				pending
+matilda	Matilda		female	https://www.fragrantica.com/perfume/By-Rosie-Jane/Matilda-122773.html				pending
+missy	Missy		female	https://www.fragrantica.com/perfume/By-Rosie-Jane/Missy-90841.html				pending
+remi	Remi		unisex	https://www.fragrantica.com/perfume/By-Rosie-Jane/Remi-114881.html				pending
+rosie	Rosie		unisex	https://www.fragrantica.com/perfume/By-Rosie-Jane/Rosie-52177.html				pending
+tilly	Tilly		female	https://www.fragrantica.com/perfume/By-Rosie-Jane/Tilly-20612.html				pending

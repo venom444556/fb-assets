@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-chic	Ambre Chic		male		https://www.fragrantica.com/perfume/Saint-Hilaire/Ambre-Chic-66385.html				pending
-private-black	Private Black		male		https://www.fragrantica.com/perfume/Saint-Hilaire/Private-Black-61472.html				pending
-private-blue	Private Blue		male		https://www.fragrantica.com/perfume/Saint-Hilaire/Private-Blue-61470.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-chic	Ambre Chic		male	https://www.fragrantica.com/perfume/Saint-Hilaire/Ambre-Chic-66385.html				pending
+private-black	Private Black		male	https://www.fragrantica.com/perfume/Saint-Hilaire/Private-Black-61472.html				pending
+private-blue	Private Blue		male	https://www.fragrantica.com/perfume/Saint-Hilaire/Private-Blue-61470.html				pending

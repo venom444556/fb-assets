@@ -1,2 +1,2 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-fleur-de-bonbon	Fleur De Bonbon		unisex		https://www.fragrantica.com/perfume/Organ-Tale/Fleur-De-Bonbon-95898.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+fleur-de-bonbon	Fleur De Bonbon		unisex	https://www.fragrantica.com/perfume/Organ-Tale/Fleur-De-Bonbon-95898.html				pending

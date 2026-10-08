@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-barbe-a-papa	Barbe a Papa		female		https://www.fragrantica.com/perfume/Tutti-Delices/Barbe-a-Papa-57402.html				pending
-coconut-cocktail	Coconut Cocktail		female		https://www.fragrantica.com/perfume/Tutti-Delices/Coconut-Cocktail-88870.html				pending
-fraise-bonbon	Fraise Bonbon		female		https://www.fragrantica.com/perfume/Tutti-Delices/Fraise-Bonbon-57403.html				pending
-macaron-amande	Macaron Amande		female		https://www.fragrantica.com/perfume/Tutti-Delices/Macaron-Amande-88869.html				pending
-pomme-damour	Pomme d'Amour		female		https://www.fragrantica.com/perfume/Tutti-Delices/Pomme-d-Amour-57404.html				pending
-vanille-caramel	Vanille Caramel		female		https://www.fragrantica.com/perfume/Tutti-Delices/Vanille-Caramel-57405.html				pending
-vanille-chantilly	Vanille Chantilly		female		https://www.fragrantica.com/perfume/Tutti-Delices/Vanille-Chantilly-70816.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+barbe-a-papa	Barbe a Papa		female	https://www.fragrantica.com/perfume/Tutti-Delices/Barbe-a-Papa-57402.html				pending
+coconut-cocktail	Coconut Cocktail		female	https://www.fragrantica.com/perfume/Tutti-Delices/Coconut-Cocktail-88870.html				pending
+fraise-bonbon	Fraise Bonbon		female	https://www.fragrantica.com/perfume/Tutti-Delices/Fraise-Bonbon-57403.html				pending
+macaron-amande	Macaron Amande		female	https://www.fragrantica.com/perfume/Tutti-Delices/Macaron-Amande-88869.html				pending
+pomme-damour	Pomme d'Amour		female	https://www.fragrantica.com/perfume/Tutti-Delices/Pomme-d-Amour-57404.html				pending
+vanille-caramel	Vanille Caramel		female	https://www.fragrantica.com/perfume/Tutti-Delices/Vanille-Caramel-57405.html				pending
+vanille-chantilly	Vanille Chantilly		female	https://www.fragrantica.com/perfume/Tutti-Delices/Vanille-Chantilly-70816.html				pending

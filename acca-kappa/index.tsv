@@ -1,33 +1,33 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1869-eau-de-cologne	1869 Eau de Cologne		male		https://www.fragrantica.com/perfume/Acca-Kappa/1869-Eau-de-Cologne-5778.html				pending
-black-pepper-and-sandalwood	Black Pepper & Sandalwood		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Black-Pepper-Sandalwood-29421.html				pending
-calycanthus	Calycanthus		female		https://www.fragrantica.com/perfume/Acca-Kappa/Calycanthus-5777.html				pending
-dolce-treviso	Dolce Treviso		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Dolce-Treviso-90827.html				pending
-glicine	Glicine		female		https://www.fragrantica.com/perfume/Acca-Kappa/Glicine-5774.html				pending
-green-mandarin	Green Mandarin		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Green-Mandarin-19393.html				pending
-idillio	Idillio		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Idillio-43060.html				pending
-mandarin-and-green-tea	Mandarin & Green Tea		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Mandarin-Green-Tea-54968.html				pending
-ode	Ode		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Ode-43061.html				pending
-sakura-tokyo	Sakura Tokyo		female		https://www.fragrantica.com/perfume/Acca-Kappa/Sakura-Tokyo-54969.html				pending
-tilia-cordata	Tilia Cordata		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Tilia-Cordata-29422.html				pending
-vaniglia-fior-di-mandorlo	Vaniglia Fior di Mandorlo		female		https://www.fragrantica.com/perfume/Acca-Kappa/Vaniglia-Fior-di-Mandorlo-29420.html				pending
-white-fig-and-cashmere	White Fig & Cashmere		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/White-Fig-Cashmere-102227.html				pending
-sfaria	Šfarìa		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Sfaria-62295.html				pending
-1869-eau-de-parfum	1869 Eau de Parfum		male		https://www.fragrantica.com/perfume/Acca-Kappa/1869-Eau-de-Parfum-29340.html				pending
-blue-lavender	Blue Lavender		female		https://www.fragrantica.com/perfume/Acca-Kappa/Blue-Lavender-19390.html				pending
-cedro	Cedro		male		https://www.fragrantica.com/perfume/Acca-Kappa/Cedro-3055.html				pending
-fior-daqua	Fior d'Aqua		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Fior-d-Aqua-44804.html				pending
-giallo-elicriso	Giallo Elicriso		male		https://www.fragrantica.com/perfume/Acca-Kappa/Giallo-Elicriso-19391.html				pending
-giardino-segreto	Giardino Segreto		female		https://www.fragrantica.com/perfume/Acca-Kappa/Giardino-Segreto-19392.html				pending
-hibiscus	Hibiscus		female		https://www.fragrantica.com/perfume/Acca-Kappa/Hibiscus-5776.html				pending
-libocedro	LiboCedro		male		https://www.fragrantica.com/perfume/Acca-Kappa/LiboCedro-19396.html				pending
-libocedro-and-salvia	Libocedro & Salvia		male		https://www.fragrantica.com/perfume/Acca-Kappa/Libocedro-Salvia-87537.html				pending
-mimosa	Mimosa		female		https://www.fragrantica.com/perfume/Acca-Kappa/Mimosa-5775.html				pending
-myscent-150	Myscent 150		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Myscent-150-56998.html				pending
-pepe-rosa-and-arancio-amaro	Pepe Rosa & Arancio Amaro		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Pepe-Rosa-Arancio-Amaro-87542.html				pending
-virginia-rose	Virginia Rose		female		https://www.fragrantica.com/perfume/Acca-Kappa/Virginia-Rose-19395.html				pending
-volata	Volata		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/Volata-67007.html				pending
-white-moss	White Moss		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/White-Moss-5773.html				pending
-white-moss-eau-de-parfum	White Moss Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/White-Moss-Eau-de-Parfum-29423.html				pending
-white-moss-nourishing-hair-perfume	White Moss Nourishing Hair Perfume		unisex		https://www.fragrantica.com/perfume/Acca-Kappa/White-Moss-Nourishing-Hair-Perfume-47107.html				pending
-wisteria	Wisteria		female		https://www.fragrantica.com/perfume/Acca-Kappa/Wisteria-19394.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1869-eau-de-cologne	1869 Eau de Cologne	Eau de Cologne	male	https://www.fragrantica.com/perfume/Acca-Kappa/1869-Eau-de-Cologne-5778.html				pending
+1869-eau-de-parfum	1869 Eau de Parfum	Eau de Parfum	male	https://www.fragrantica.com/perfume/Acca-Kappa/1869-Eau-de-Parfum-29340.html				pending
+black-pepper-and-sandalwood	Black Pepper & Sandalwood		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Black-Pepper-Sandalwood-29421.html				pending
+blue-lavender	Blue Lavender		female	https://www.fragrantica.com/perfume/Acca-Kappa/Blue-Lavender-19390.html				pending
+calycanthus	Calycanthus		female	https://www.fragrantica.com/perfume/Acca-Kappa/Calycanthus-5777.html				pending
+cedro	Cedro		male	https://www.fragrantica.com/perfume/Acca-Kappa/Cedro-3055.html				pending
+dolce-treviso	Dolce Treviso		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Dolce-Treviso-90827.html				pending
+fior-daqua	Fior d'Aqua		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Fior-d-Aqua-44804.html				pending
+giallo-elicriso	Giallo Elicriso		male	https://www.fragrantica.com/perfume/Acca-Kappa/Giallo-Elicriso-19391.html				pending
+giardino-segreto	Giardino Segreto		female	https://www.fragrantica.com/perfume/Acca-Kappa/Giardino-Segreto-19392.html				pending
+glicine	Glicine		female	https://www.fragrantica.com/perfume/Acca-Kappa/Glicine-5774.html				pending
+green-mandarin	Green Mandarin		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Green-Mandarin-19393.html				pending
+hibiscus	Hibiscus		female	https://www.fragrantica.com/perfume/Acca-Kappa/Hibiscus-5776.html				pending
+idillio	Idillio		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Idillio-43060.html				pending
+libocedro	LiboCedro		male	https://www.fragrantica.com/perfume/Acca-Kappa/LiboCedro-19396.html				pending
+libocedro-and-salvia	Libocedro & Salvia		male	https://www.fragrantica.com/perfume/Acca-Kappa/Libocedro-Salvia-87537.html				pending
+mandarin-and-green-tea	Mandarin & Green Tea		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Mandarin-Green-Tea-54968.html				pending
+mimosa	Mimosa		female	https://www.fragrantica.com/perfume/Acca-Kappa/Mimosa-5775.html				pending
+myscent-150	Myscent 150		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Myscent-150-56998.html				pending
+ode	Ode		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Ode-43061.html				pending
+pepe-rosa-and-arancio-amaro	Pepe Rosa & Arancio Amaro		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Pepe-Rosa-Arancio-Amaro-87542.html				pending
+sakura-tokyo	Sakura Tokyo		female	https://www.fragrantica.com/perfume/Acca-Kappa/Sakura-Tokyo-54969.html				pending
+tilia-cordata	Tilia Cordata		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Tilia-Cordata-29422.html				pending
+vaniglia-fior-di-mandorlo	Vaniglia Fior di Mandorlo		female	https://www.fragrantica.com/perfume/Acca-Kappa/Vaniglia-Fior-di-Mandorlo-29420.html				pending
+virginia-rose	Virginia Rose		female	https://www.fragrantica.com/perfume/Acca-Kappa/Virginia-Rose-19395.html				pending
+volata	Volata		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Volata-67007.html				pending
+white-fig-and-cashmere	White Fig & Cashmere		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/White-Fig-Cashmere-102227.html				pending
+white-moss	White Moss		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/White-Moss-5773.html				pending
+white-moss-eau-de-parfum	White Moss Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acca-Kappa/White-Moss-Eau-de-Parfum-29423.html				pending
+white-moss-nourishing-hair-perfume	White Moss Nourishing Hair Perfume		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/White-Moss-Nourishing-Hair-Perfume-47107.html				pending
+wisteria	Wisteria		female	https://www.fragrantica.com/perfume/Acca-Kappa/Wisteria-19394.html				pending
+sfaria	Šfarìa		unisex	https://www.fragrantica.com/perfume/Acca-Kappa/Sfaria-62295.html				pending

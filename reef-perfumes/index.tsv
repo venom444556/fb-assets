@@ -1,32 +1,32 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-33-white	33 White		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/33-White-124620.html				pending
-abaya-arabs	Abaya Arabs		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Abaya-Arabs-88807.html				pending
-arabs-of-diriyah	Arabs of Diriyah		male		https://www.fragrantica.com/perfume/Reef-Perfumes/Arabs-of-Diriyah-89271.html				pending
-blanc-ash	Blanc Ash		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Blanc-Ash-120567.html				pending
-pesca	Pesca		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Pesca-106879.html				pending
-reef-33	Reef 33		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-33-89358.html				pending
-reef15	REEF15		male		https://www.fragrantica.com/perfume/Reef-Perfumes/REEF15-89273.html				pending
-summer-pink	Summer Pink		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Summer-Pink-88803.html				pending
-summer-yellow	Summer Yellow		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Summer-Yellow-88804.html				pending
-volcano	Volcano		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Volcano-105225.html				pending
-arabs-of-alula	Arabs of AlUla		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Arabs-of-AlUla-89356.html				pending
-niche-1	Niche 1		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-1-89355.html				pending
-niche-2	Niche 2		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-2-89354.html				pending
-niche-3	Niche 3		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-3-89351.html				pending
-niche-4	Niche 4		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-4-89352.html				pending
-niche-5	Niche 5		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-5-89353.html				pending
-reef-01	Reef 01		female		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-01-89275.html				pending
-reef-06	Reef 06		female		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-06-89274.html				pending
-reef-10	Reef 10		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-10-89365.html				pending
-reef-11	Reef 11		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-11-89364.html				pending
-reef-19	Reef 19		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-19-89363.html				pending
-reef-19-national-day	Reef 19 National Day		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-19-National-Day-89367.html				pending
-reef-21	Reef 21		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-21-89362.html				pending
-reef-27	Reef 27		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-27-89361.html				pending
-reef-29	Reef 29		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-29-89360.html				pending
-reef-31	Reef 31		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-31-89359.html				pending
-reef-36	REEF 36		female		https://www.fragrantica.com/perfume/Reef-Perfumes/REEF-36-89276.html				pending
-reef-43	Reef 43		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-43-89357.html				pending
-reef-43-national-day	Reef 43 National Day		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-43-National-Day-89366.html				pending
-summer-tiffany	Summer Tiffany		unisex		https://www.fragrantica.com/perfume/Reef-Perfumes/Summer-Tiffany-88802.html				pending
-tuwaiq-arabs	Tuwaiq Arabs		female		https://www.fragrantica.com/perfume/Reef-Perfumes/Tuwaiq-Arabs-89272.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+33-white	33 White		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/33-White-124620.html				pending
+abaya-arabs	Abaya Arabs		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Abaya-Arabs-88807.html				pending
+arabs-of-alula	Arabs of AlUla		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Arabs-of-AlUla-89356.html				pending
+arabs-of-diriyah	Arabs of Diriyah		male	https://www.fragrantica.com/perfume/Reef-Perfumes/Arabs-of-Diriyah-89271.html				pending
+blanc-ash	Blanc Ash		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Blanc-Ash-120567.html				pending
+niche-1	Niche 1		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-1-89355.html				pending
+niche-2	Niche 2		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-2-89354.html				pending
+niche-3	Niche 3		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-3-89351.html				pending
+niche-4	Niche 4		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-4-89352.html				pending
+niche-5	Niche 5		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Niche-5-89353.html				pending
+pesca	Pesca		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Pesca-106879.html				pending
+reef-01	Reef 01		female	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-01-89275.html				pending
+reef-06	Reef 06		female	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-06-89274.html				pending
+reef-10	Reef 10		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-10-89365.html				pending
+reef-11	Reef 11		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-11-89364.html				pending
+reef-19	Reef 19		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-19-89363.html				pending
+reef-19-national-day	Reef 19 National Day		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-19-National-Day-89367.html				pending
+reef-21	Reef 21		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-21-89362.html				pending
+reef-27	Reef 27		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-27-89361.html				pending
+reef-29	Reef 29		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-29-89360.html				pending
+reef-31	Reef 31		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-31-89359.html				pending
+reef-33	Reef 33		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-33-89358.html				pending
+reef-36	REEF 36		female	https://www.fragrantica.com/perfume/Reef-Perfumes/REEF-36-89276.html				pending
+reef-43	Reef 43		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-43-89357.html				pending
+reef-43-national-day	Reef 43 National Day		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Reef-43-National-Day-89366.html				pending
+reef15	REEF15		male	https://www.fragrantica.com/perfume/Reef-Perfumes/REEF15-89273.html				pending
+summer-pink	Summer Pink		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Summer-Pink-88803.html				pending
+summer-tiffany	Summer Tiffany		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Summer-Tiffany-88802.html				pending
+summer-yellow	Summer Yellow		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Summer-Yellow-88804.html				pending
+tuwaiq-arabs	Tuwaiq Arabs		female	https://www.fragrantica.com/perfume/Reef-Perfumes/Tuwaiq-Arabs-89272.html				pending
+volcano	Volcano		unisex	https://www.fragrantica.com/perfume/Reef-Perfumes/Volcano-105225.html				pending

@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-al-khanjar-perfume	Al Khanjar Perfume		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Al-Khanjar-Perfume-77002.html				pending
-al-bander	Al-Bander		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Al-Bander-74795.html				pending
-ander-al-musk	Ander Al Musk		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Ander-Al-Musk-77003.html				pending
-ander-al-oud	Ander Al Oud		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Ander-Al-Oud-77004.html				pending
-balsam-perfume	Balsam Perfume		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Balsam-Perfume-77005.html				pending
-black-oud	Black Oud		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Black-Oud-74796.html				pending
-brown-oud	Brown Oud		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Brown-Oud-74797.html				pending
-brown-tawqie-perfume	Brown Tawqie Perfume		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Brown-Tawqie-Perfume-77006.html				pending
-mahsanak	Mahsanak		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Mahsanak-74804.html				pending
-nurhan-green	Nurhan Green		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Nurhan-Green-74802.html				pending
-nurhan-pink	Nurhan Pink		female		https://www.fragrantica.com/perfume/Banafa-for-Oud/Nurhan-Pink-74803.html				pending
-oud-diamond	Oud Diamond		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Oud-Diamond-74798.html				pending
-pink-diamond	Pink Diamond		female		https://www.fragrantica.com/perfume/Banafa-for-Oud/Pink-Diamond-74799.html				pending
-pink-tawqie-perfume	Pink Tawqie Perfume		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Pink-Tawqie-Perfume-77007.html				pending
-rose-diamond	Rose Diamond		female		https://www.fragrantica.com/perfume/Banafa-for-Oud/Rose-Diamond-74801.html				pending
-shillin-2-perfume	Shillin 2 Perfume		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Shillin-2-Perfume-77009.html				pending
-shillin-4-perfume	Shillin 4 Perfume		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Shillin-4-Perfume-77010.html				pending
-shillin-6-perfume	Shillin 6 Perfume		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Shillin-6-Perfume-77011.html				pending
-shrouq-gold-perfume	Shrouq Gold Perfume		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Shrouq-Gold-Perfume-77012.html				pending
-silver-diamond	Silver Diamond		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Silver-Diamond-74800.html				pending
-tawqie-perfume	Tawqie Perfume		unisex		https://www.fragrantica.com/perfume/Banafa-for-Oud/Tawqie-Perfume-77008.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+al-khanjar-perfume	Al Khanjar Perfume		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Al-Khanjar-Perfume-77002.html				pending
+al-bander	Al-Bander		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Al-Bander-74795.html				pending
+ander-al-musk	Ander Al Musk		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Ander-Al-Musk-77003.html				pending
+ander-al-oud	Ander Al Oud		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Ander-Al-Oud-77004.html				pending
+balsam-perfume	Balsam Perfume		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Balsam-Perfume-77005.html				pending
+black-oud	Black Oud		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Black-Oud-74796.html				pending
+brown-oud	Brown Oud		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Brown-Oud-74797.html				pending
+brown-tawqie-perfume	Brown Tawqie Perfume		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Brown-Tawqie-Perfume-77006.html				pending
+mahsanak	Mahsanak		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Mahsanak-74804.html				pending
+nurhan-green	Nurhan Green		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Nurhan-Green-74802.html				pending
+nurhan-pink	Nurhan Pink		female	https://www.fragrantica.com/perfume/Banafa-for-Oud/Nurhan-Pink-74803.html				pending
+oud-diamond	Oud Diamond		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Oud-Diamond-74798.html				pending
+pink-diamond	Pink Diamond		female	https://www.fragrantica.com/perfume/Banafa-for-Oud/Pink-Diamond-74799.html				pending
+pink-tawqie-perfume	Pink Tawqie Perfume		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Pink-Tawqie-Perfume-77007.html				pending
+rose-diamond	Rose Diamond		female	https://www.fragrantica.com/perfume/Banafa-for-Oud/Rose-Diamond-74801.html				pending
+shillin-2-perfume	Shillin 2 Perfume		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Shillin-2-Perfume-77009.html				pending
+shillin-4-perfume	Shillin 4 Perfume		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Shillin-4-Perfume-77010.html				pending
+shillin-6-perfume	Shillin 6 Perfume		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Shillin-6-Perfume-77011.html				pending
+shrouq-gold-perfume	Shrouq Gold Perfume		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Shrouq-Gold-Perfume-77012.html				pending
+silver-diamond	Silver Diamond		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Silver-Diamond-74800.html				pending
+tawqie-perfume	Tawqie Perfume		unisex	https://www.fragrantica.com/perfume/Banafa-for-Oud/Tawqie-Perfume-77008.html				pending

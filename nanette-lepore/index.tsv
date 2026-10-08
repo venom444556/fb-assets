@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-beautiful-times	Beautiful Times		female		https://www.fragrantica.com/perfume/Nanette-Lepore/Beautiful-Times-60577.html				pending
-everlasting	Everlasting		female		https://www.fragrantica.com/perfume/Nanette-Lepore/Everlasting-72689.html				pending
-luna	Luna		female		https://www.fragrantica.com/perfume/Nanette-Lepore/Luna-67779.html				pending
-nanette	Nanette		female		https://www.fragrantica.com/perfume/Nanette-Lepore/Nanette-6692.html				pending
-nanette-lepore	Nanette Lepore		female		https://www.fragrantica.com/perfume/Nanette-Lepore/Nanette-Lepore-2590.html				pending
-nanette-lepore-2017	Nanette Lepore (2017)		female		https://www.fragrantica.com/perfume/Nanette-Lepore/Nanette-Lepore-2017-45260.html				pending
-shanghai-butterfly	Shanghai Butterfly		female		https://www.fragrantica.com/perfume/Nanette-Lepore/Shanghai-Butterfly-2591.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+beautiful-times	Beautiful Times		female	https://www.fragrantica.com/perfume/Nanette-Lepore/Beautiful-Times-60577.html				pending
+everlasting	Everlasting		female	https://www.fragrantica.com/perfume/Nanette-Lepore/Everlasting-72689.html				pending
+luna	Luna		female	https://www.fragrantica.com/perfume/Nanette-Lepore/Luna-67779.html				pending
+nanette	Nanette		female	https://www.fragrantica.com/perfume/Nanette-Lepore/Nanette-6692.html				pending
+nanette-lepore	Nanette Lepore		female	https://www.fragrantica.com/perfume/Nanette-Lepore/Nanette-Lepore-2590.html				pending
+nanette-lepore-2017	Nanette Lepore (2017)		female	https://www.fragrantica.com/perfume/Nanette-Lepore/Nanette-Lepore-2017-45260.html				pending
+shanghai-butterfly	Shanghai Butterfly		female	https://www.fragrantica.com/perfume/Nanette-Lepore/Shanghai-Butterfly-2591.html				pending

@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber	Amber		unisex		https://www.fragrantica.com/perfume/Sage-Machado/Amber-8599.html				pending
-amber-and-carnelian	Amber & Carnelian		female		https://www.fragrantica.com/perfume/Sage-Machado/Amber-Carnelian-8616.html				pending
-amethyst	Amethyst		unisex		https://www.fragrantica.com/perfume/Sage-Machado/Amethyst-23643.html				pending
-carnelian	Carnelian		unisex		https://www.fragrantica.com/perfume/Sage-Machado/Carnelian-23646.html				pending
-citrine	Citrine		unisex		https://www.fragrantica.com/perfume/Sage-Machado/Citrine-23642.html				pending
-coral	Coral		female		https://www.fragrantica.com/perfume/Sage-Machado/Coral-8606.html				pending
-diamond	Diamond		unisex		https://www.fragrantica.com/perfume/Sage-Machado/Diamond-23641.html				pending
-garnet	Garnet		female		https://www.fragrantica.com/perfume/Sage-Machado/Garnet-8600.html				pending
-garnet-and-amethyst	Garnet & Amethyst		female		https://www.fragrantica.com/perfume/Sage-Machado/Garnet-Amethyst-8617.html				pending
-jade	Jade		unisex		https://www.fragrantica.com/perfume/Sage-Machado/Jade-23647.html				pending
-jade-and-topaz	Jade & Topaz		female		https://www.fragrantica.com/perfume/Sage-Machado/Jade-Topaz-8618.html				pending
-moonstone	Moonstone		female		https://www.fragrantica.com/perfume/Sage-Machado/Moonstone-8605.html				pending
-onyx	Onyx		female		https://www.fragrantica.com/perfume/Sage-Machado/Onyx-8601.html				pending
-onyx-and-peridot	Onyx & Peridot		female		https://www.fragrantica.com/perfume/Sage-Machado/Onyx-Peridot-8619.html				pending
-pearl	Pearl		female		https://www.fragrantica.com/perfume/Sage-Machado/Pearl-8603.html				pending
-peridot	Peridot		unisex		https://www.fragrantica.com/perfume/Sage-Machado/Peridot-23645.html				pending
-sage	Sage		unisex		https://www.fragrantica.com/perfume/Sage-Machado/Sage-8602.html				pending
-sage-and-citrine	Sage & Citrine		female		https://www.fragrantica.com/perfume/Sage-Machado/Sage-Citrine-8620.html				pending
-topaz	Topaz		unisex		https://www.fragrantica.com/perfume/Sage-Machado/Topaz-23644.html				pending
-turquoise	Turquoise		female		https://www.fragrantica.com/perfume/Sage-Machado/Turquoise-8604.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber	Amber		unisex	https://www.fragrantica.com/perfume/Sage-Machado/Amber-8599.html				pending
+amber-and-carnelian	Amber & Carnelian		female	https://www.fragrantica.com/perfume/Sage-Machado/Amber-Carnelian-8616.html				pending
+amethyst	Amethyst		unisex	https://www.fragrantica.com/perfume/Sage-Machado/Amethyst-23643.html				pending
+carnelian	Carnelian		unisex	https://www.fragrantica.com/perfume/Sage-Machado/Carnelian-23646.html				pending
+citrine	Citrine		unisex	https://www.fragrantica.com/perfume/Sage-Machado/Citrine-23642.html				pending
+coral	Coral		female	https://www.fragrantica.com/perfume/Sage-Machado/Coral-8606.html				pending
+diamond	Diamond		unisex	https://www.fragrantica.com/perfume/Sage-Machado/Diamond-23641.html				pending
+garnet	Garnet		female	https://www.fragrantica.com/perfume/Sage-Machado/Garnet-8600.html				pending
+garnet-and-amethyst	Garnet & Amethyst		female	https://www.fragrantica.com/perfume/Sage-Machado/Garnet-Amethyst-8617.html				pending
+jade	Jade		unisex	https://www.fragrantica.com/perfume/Sage-Machado/Jade-23647.html				pending
+jade-and-topaz	Jade & Topaz		female	https://www.fragrantica.com/perfume/Sage-Machado/Jade-Topaz-8618.html				pending
+moonstone	Moonstone		female	https://www.fragrantica.com/perfume/Sage-Machado/Moonstone-8605.html				pending
+onyx	Onyx		female	https://www.fragrantica.com/perfume/Sage-Machado/Onyx-8601.html				pending
+onyx-and-peridot	Onyx & Peridot		female	https://www.fragrantica.com/perfume/Sage-Machado/Onyx-Peridot-8619.html				pending
+pearl	Pearl		female	https://www.fragrantica.com/perfume/Sage-Machado/Pearl-8603.html				pending
+peridot	Peridot		unisex	https://www.fragrantica.com/perfume/Sage-Machado/Peridot-23645.html				pending
+sage	Sage		unisex	https://www.fragrantica.com/perfume/Sage-Machado/Sage-8602.html				pending
+sage-and-citrine	Sage & Citrine		female	https://www.fragrantica.com/perfume/Sage-Machado/Sage-Citrine-8620.html				pending
+topaz	Topaz		unisex	https://www.fragrantica.com/perfume/Sage-Machado/Topaz-23644.html				pending
+turquoise	Turquoise		female	https://www.fragrantica.com/perfume/Sage-Machado/Turquoise-8604.html				pending

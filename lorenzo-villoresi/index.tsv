@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alamut	Alamut		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Alamut-5076.html				pending
-atman-xaman	Atman Xaman		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Atman-Xaman-53763.html				pending
-aura-maris	Aura Maris		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Aura-Maris-16294.html				pending
-dilmun	Dilmun		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Dilmun-5077.html				pending
-iperborea	Iperborea		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Iperborea-10834.html				pending
-kamasurabhi	Kamasurabhi		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Kamasurabhi-31304.html				pending
-teint-de-neige	Teint de Neige		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Teint-de-Neige-5079.html				pending
-teti	Teti		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Teti-115228.html				pending
-theseus	Theseus		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Theseus-13998.html				pending
-vintage-collection-ambra	Vintage Collection Ambra		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Ambra-26300.html				pending
-vintage-collection-garofano	Vintage Collection Garofano		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Garofano-26310.html				pending
-vintage-collection-incensi	Vintage Collection Incensi		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Incensi-26301.html				pending
-vintage-collection-tropicana	Vintage Collection Tropicana		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Tropicana-26311.html				pending
-vintage-collection-vetiver	Vintage Collection Vetiver		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Vetiver-26312.html				pending
-vintage-collection-ylang-ylang	Vintage Collection Ylang Ylang		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Ylang-Ylang-26313.html				pending
-yerbamate	Yerbamate		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Yerbamate-5081.html				pending
-25-insieme	25 Insieme		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/25-Insieme-34878.html				pending
-acqua-di-colonia	Acqua di Colonia		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Acqua-di-Colonia-5083.html				pending
-donna	Donna		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Donna-5084.html				pending
-garofano	Garofano		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Garofano-5085.html				pending
-incensi	Incensi		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Incensi-5089.html				pending
-musk	Musk		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Musk-5090.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Patchouli-5091.html				pending
-piper-nigrum	Piper Nigrum		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Piper-Nigrum-5078.html				pending
-sandalo	Sandalo		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Sandalo-5092.html				pending
-spezie	Spezie		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Spezie-5093.html				pending
-teint-de-neige-eau-de-parfum	Teint de Neige Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Teint-de-Neige-Eau-de-Parfum-69084.html				pending
-uomo	Uomo		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Uomo-5094.html				pending
-vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vetiver-5095.html				pending
-wild-lavender	Wild Lavender		unisex		https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Wild-Lavender-5096.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+25-insieme	25 Insieme		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/25-Insieme-34878.html				pending
+acqua-di-colonia	Acqua di Colonia		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Acqua-di-Colonia-5083.html				pending
+alamut	Alamut		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Alamut-5076.html				pending
+atman-xaman	Atman Xaman		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Atman-Xaman-53763.html				pending
+aura-maris	Aura Maris		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Aura-Maris-16294.html				pending
+dilmun	Dilmun		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Dilmun-5077.html				pending
+donna	Donna		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Donna-5084.html				pending
+garofano	Garofano		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Garofano-5085.html				pending
+incensi	Incensi		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Incensi-5089.html				pending
+iperborea	Iperborea		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Iperborea-10834.html				pending
+kamasurabhi	Kamasurabhi		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Kamasurabhi-31304.html				pending
+musk	Musk		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Musk-5090.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Patchouli-5091.html				pending
+piper-nigrum	Piper Nigrum		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Piper-Nigrum-5078.html				pending
+sandalo	Sandalo		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Sandalo-5092.html				pending
+spezie	Spezie		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Spezie-5093.html				pending
+teint-de-neige	Teint de Neige		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Teint-de-Neige-5079.html				pending
+teint-de-neige-eau-de-parfum	Teint de Neige Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Teint-de-Neige-Eau-de-Parfum-69084.html				pending
+teti	Teti		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Teti-115228.html				pending
+theseus	Theseus		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Theseus-13998.html				pending
+uomo	Uomo		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Uomo-5094.html				pending
+vetiver	Vetiver		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vetiver-5095.html				pending
+vintage-collection-ambra	Vintage Collection Ambra		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Ambra-26300.html				pending
+vintage-collection-garofano	Vintage Collection Garofano		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Garofano-26310.html				pending
+vintage-collection-incensi	Vintage Collection Incensi		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Incensi-26301.html				pending
+vintage-collection-tropicana	Vintage Collection Tropicana		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Tropicana-26311.html				pending
+vintage-collection-vetiver	Vintage Collection Vetiver		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Vetiver-26312.html				pending
+vintage-collection-ylang-ylang	Vintage Collection Ylang Ylang		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vintage-Collection-Ylang-Ylang-26313.html				pending
+wild-lavender	Wild Lavender		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Wild-Lavender-5096.html				pending
+yerbamate	Yerbamate		unisex	https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Yerbamate-5081.html				pending

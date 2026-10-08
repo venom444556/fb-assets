@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blooming-fire	Blooming Fire		female		https://www.fragrantica.com/perfume/Orebella/Blooming-Fire-92426.html				pending
-eternal-roots	Eternal Roots		unisex		https://www.fragrantica.com/perfume/Orebella/Eternal-Roots-113493.html				pending
-jasmine-blues	Jasmine Blues		unisex		https://www.fragrantica.com/perfume/Orebella/Jasmine-Blues-128347.html				pending
-nightcap	Nightcap		unisex		https://www.fragrantica.com/perfume/Orebella/Nightcap-96537.html				pending
-salted-muse	Salted Muse		female		https://www.fragrantica.com/perfume/Orebella/Salted-Muse-92427.html				pending
-window2soul	Window2Soul		female		https://www.fragrantica.com/perfume/Orebella/Window2Soul-92428.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blooming-fire	Blooming Fire		female	https://www.fragrantica.com/perfume/Orebella/Blooming-Fire-92426.html				pending
+eternal-roots	Eternal Roots		unisex	https://www.fragrantica.com/perfume/Orebella/Eternal-Roots-113493.html				pending
+jasmine-blues	Jasmine Blues		unisex	https://www.fragrantica.com/perfume/Orebella/Jasmine-Blues-128347.html				pending
+nightcap	Nightcap		unisex	https://www.fragrantica.com/perfume/Orebella/Nightcap-96537.html				pending
+salted-muse	Salted Muse		female	https://www.fragrantica.com/perfume/Orebella/Salted-Muse-92427.html				pending
+window2soul	Window2Soul		female	https://www.fragrantica.com/perfume/Orebella/Window2Soul-92428.html				pending

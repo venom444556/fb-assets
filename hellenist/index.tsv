@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-la-nuit-des-300	La Nuit des 300		unisex		https://www.fragrantica.com/perfume/Hellenist/La-Nuit-des-300-115331.html				pending
-le-chant-dachille	Le Chant d'Achille		unisex		https://www.fragrantica.com/perfume/Hellenist/Le-Chant-d-Achille-102456.html				pending
-les-bras-de-morphee	Les Bras de Morphée		unisex		https://www.fragrantica.com/perfume/Hellenist/Les-Bras-de-Morphee-102454.html				pending
-les-dieux-aux-bains	Les Dieux aux Bains		unisex		https://www.fragrantica.com/perfume/Hellenist/Les-Dieux-aux-Bains-103475.html				pending
-a-lombre-dartemis	À l’Ombre d'Artémis		unisex		https://www.fragrantica.com/perfume/Hellenist/A-l-Ombre-d-Artemis-102455.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+la-nuit-des-300	La Nuit des 300		unisex	https://www.fragrantica.com/perfume/Hellenist/La-Nuit-des-300-115331.html				pending
+le-chant-dachille	Le Chant d'Achille		unisex	https://www.fragrantica.com/perfume/Hellenist/Le-Chant-d-Achille-102456.html				pending
+les-bras-de-morphee	Les Bras de Morphée		unisex	https://www.fragrantica.com/perfume/Hellenist/Les-Bras-de-Morphee-102454.html				pending
+les-dieux-aux-bains	Les Dieux aux Bains		unisex	https://www.fragrantica.com/perfume/Hellenist/Les-Dieux-aux-Bains-103475.html				pending
+a-lombre-dartemis	À l’Ombre d'Artémis		unisex	https://www.fragrantica.com/perfume/Hellenist/A-l-Ombre-d-Artemis-102455.html				pending

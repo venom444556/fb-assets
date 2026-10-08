@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-carbon-6c	Carbon [6C]		unisex		https://www.fragrantica.com/perfume/One-of-Those/Carbon-6C-16562.html				pending
-helium-2he	Helium [2He]		unisex		https://www.fragrantica.com/perfume/One-of-Those/Helium-2He-16560.html				pending
-hydrogen-1h	Hydrogen [1H]		unisex		https://www.fragrantica.com/perfume/One-of-Those/Hydrogen-1H-16559.html				pending
-lithium-3li	Lithium [3Li]		unisex		https://www.fragrantica.com/perfume/One-of-Those/Lithium-3Li-16561.html				pending
-mercury-80hg	Mercury [80Hg]		unisex		https://www.fragrantica.com/perfume/One-of-Those/Mercury-80Hg-19332.html				pending
-oxygen-8o	Oxygen [8O]		unisex		https://www.fragrantica.com/perfume/One-of-Those/Oxygen-8O-16563.html				pending
-sulphur-16s	Sulphur [16S]		unisex		https://www.fragrantica.com/perfume/One-of-Those/Sulphur-16S-19331.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+carbon-6c	Carbon [6C]		unisex	https://www.fragrantica.com/perfume/One-of-Those/Carbon-6C-16562.html				pending
+helium-2he	Helium [2He]		unisex	https://www.fragrantica.com/perfume/One-of-Those/Helium-2He-16560.html				pending
+hydrogen-1h	Hydrogen [1H]		unisex	https://www.fragrantica.com/perfume/One-of-Those/Hydrogen-1H-16559.html				pending
+lithium-3li	Lithium [3Li]		unisex	https://www.fragrantica.com/perfume/One-of-Those/Lithium-3Li-16561.html				pending
+mercury-80hg	Mercury [80Hg]		unisex	https://www.fragrantica.com/perfume/One-of-Those/Mercury-80Hg-19332.html				pending
+oxygen-8o	Oxygen [8O]		unisex	https://www.fragrantica.com/perfume/One-of-Those/Oxygen-8O-16563.html				pending
+sulphur-16s	Sulphur [16S]		unisex	https://www.fragrantica.com/perfume/One-of-Those/Sulphur-16S-19331.html				pending

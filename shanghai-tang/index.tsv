@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-gold-lily	Gold Lily		female		https://www.fragrantica.com/perfume/Shanghai-Tang/Gold-Lily-29175.html				pending
-jade-dragon	Jade Dragon		male		https://www.fragrantica.com/perfume/Shanghai-Tang/Jade-Dragon-29180.html				pending
-mandarin-tea	Mandarin Tea		male		https://www.fragrantica.com/perfume/Shanghai-Tang/Mandarin-Tea-29182.html				pending
-orchid-bloom	Orchid Bloom		female		https://www.fragrantica.com/perfume/Shanghai-Tang/Orchid-Bloom-29178.html				pending
-oriental-pearl	Oriental Pearl		female		https://www.fragrantica.com/perfume/Shanghai-Tang/Oriental-Pearl-29179.html				pending
-rose-silk	Rose Silk		female		https://www.fragrantica.com/perfume/Shanghai-Tang/Rose-Silk-29177.html				pending
-spring-jasmine	Spring Jasmine		female		https://www.fragrantica.com/perfume/Shanghai-Tang/Spring-Jasmine-29176.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+gold-lily	Gold Lily		female	https://www.fragrantica.com/perfume/Shanghai-Tang/Gold-Lily-29175.html				pending
+jade-dragon	Jade Dragon		male	https://www.fragrantica.com/perfume/Shanghai-Tang/Jade-Dragon-29180.html				pending
+mandarin-tea	Mandarin Tea		male	https://www.fragrantica.com/perfume/Shanghai-Tang/Mandarin-Tea-29182.html				pending
+orchid-bloom	Orchid Bloom		female	https://www.fragrantica.com/perfume/Shanghai-Tang/Orchid-Bloom-29178.html				pending
+oriental-pearl	Oriental Pearl		female	https://www.fragrantica.com/perfume/Shanghai-Tang/Oriental-Pearl-29179.html				pending
+rose-silk	Rose Silk		female	https://www.fragrantica.com/perfume/Shanghai-Tang/Rose-Silk-29177.html				pending
+spring-jasmine	Spring Jasmine		female	https://www.fragrantica.com/perfume/Shanghai-Tang/Spring-Jasmine-29176.html				pending

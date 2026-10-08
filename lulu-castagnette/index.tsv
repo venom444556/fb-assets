@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-golden-dream	Golden Dream		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Golden-Dream-13226.html				pending
-in-white	In White		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/In-White-13440.html				pending
-indomptee	Indomptee		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Indomptee-5026.html				pending
-je-tm	Je t'M :-)		unisex		https://www.fragrantica.com/perfume/Lulu-Castagnette/Je-t-M-5024.html				pending
-just-4-u-x	Just 4 U :-X		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Just-4-U-X-5020.html				pending
-lady-castagnette	Lady Castagnette		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Lady-Castagnette-10722.html				pending
-les-delices	Les Delices		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Delices-21257.html				pending
-les-petites-folies-00-10	Les Petites Folies 00:10		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Petites-Folies-00-10-8745.html				pending
-les-petites-folies-20-15	Les Petites Folies 20:15		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Petites-Folies-20-15-8746.html				pending
-lol	lol ;-)		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/lol-5025.html				pending
-lulu	Lulu		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Lulu-4939.html				pending
-lulu-castagnette-blue-addiction	Lulu Castagnette Blue Addiction		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Lulu-Castagnette-Blue-Addiction-16966.html				pending
-lulu-rose	Lulu Rose		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Lulu-Rose-5022.html				pending
-lulucastagnette	LuluCastagnette		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/LuluCastagnette-5027.html				pending
-luluforever	Luluforever		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Luluforever-3748.html				pending
-piege-de-lulu-castagnette	Piège de Lulu Castagnette		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Piege-de-Lulu-Castagnette-31019.html				pending
-forever-glam-edition	Forever Glam Edition		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Forever-Glam-Edition-33156.html				pending
-les-petites-folies-07-30	Les Petites Folies 07:30		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Petites-Folies-07-30-17203.html				pending
-les-plaisirs	Les Plaisirs		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Plaisirs-21258.html				pending
-les-rendez-vous	Les Rendez-Vous		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Rendez-Vous-21256.html				pending
-piege-de-lulu-castagnette-pink	Piège de Lulu Castagnette Pink		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Piege-de-Lulu-Castagnette-Pink-75679.html				pending
-piege-de-lulu-castagnette-purple	Piège de Lulu Castagnette Purple		female		https://www.fragrantica.com/perfume/Lulu-Castagnette/Piege-de-Lulu-Castagnette-Purple-75678.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+forever-glam-edition	Forever Glam Edition		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Forever-Glam-Edition-33156.html				pending
+golden-dream	Golden Dream		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Golden-Dream-13226.html				pending
+in-white	In White		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/In-White-13440.html				pending
+indomptee	Indomptee		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Indomptee-5026.html				pending
+je-tm	Je t'M :-)		unisex	https://www.fragrantica.com/perfume/Lulu-Castagnette/Je-t-M-5024.html				pending
+just-4-u-x	Just 4 U :-X		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Just-4-U-X-5020.html				pending
+lady-castagnette	Lady Castagnette		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Lady-Castagnette-10722.html				pending
+les-delices	Les Delices		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Delices-21257.html				pending
+les-petites-folies-00-10	Les Petites Folies 00:10		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Petites-Folies-00-10-8745.html				pending
+les-petites-folies-07-30	Les Petites Folies 07:30		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Petites-Folies-07-30-17203.html				pending
+les-petites-folies-20-15	Les Petites Folies 20:15		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Petites-Folies-20-15-8746.html				pending
+les-plaisirs	Les Plaisirs		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Plaisirs-21258.html				pending
+les-rendez-vous	Les Rendez-Vous		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Les-Rendez-Vous-21256.html				pending
+lol	lol ;-)		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/lol-5025.html				pending
+lulu	Lulu		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Lulu-4939.html				pending
+lulu-castagnette-blue-addiction	Lulu Castagnette Blue Addiction		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Lulu-Castagnette-Blue-Addiction-16966.html				pending
+lulu-rose	Lulu Rose		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Lulu-Rose-5022.html				pending
+lulucastagnette	LuluCastagnette		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/LuluCastagnette-5027.html				pending
+luluforever	Luluforever		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Luluforever-3748.html				pending
+piege-de-lulu-castagnette	Piège de Lulu Castagnette		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Piege-de-Lulu-Castagnette-31019.html				pending
+piege-de-lulu-castagnette-pink	Piège de Lulu Castagnette Pink		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Piege-de-Lulu-Castagnette-Pink-75679.html				pending
+piege-de-lulu-castagnette-purple	Piège de Lulu Castagnette Purple		female	https://www.fragrantica.com/perfume/Lulu-Castagnette/Piege-de-Lulu-Castagnette-Purple-75678.html				pending

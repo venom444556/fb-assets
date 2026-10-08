@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-carrousel	Carrousel		unisex		https://www.fragrantica.com/perfume/Paul-Emilien/Carrousel-24202.html				pending
-chaleur-gitane	Chaleur Gitane		unisex		https://www.fragrantica.com/perfume/Paul-Emilien/Chaleur-Gitane-30893.html				pending
-lesprit-divin	L'Esprit Divin		unisex		https://www.fragrantica.com/perfume/Paul-Emilien/L-Esprit-Divin-28628.html				pending
-musc-angelique	Musc Angelique		unisex		https://www.fragrantica.com/perfume/Paul-Emilien/Musc-Angelique-42040.html				pending
-premiere-danse	Premiere Danse		unisex		https://www.fragrantica.com/perfume/Paul-Emilien/Premiere-Danse-24200.html				pending
-pure-addiction	Pure Addiction		unisex		https://www.fragrantica.com/perfume/Paul-Emilien/Pure-Addiction-24201.html				pending
-souffle-intime	Souffle Intime		unisex		https://www.fragrantica.com/perfume/Paul-Emilien/Souffle-Intime-24203.html				pending
-une-belle-journee	Une Belle Journee		unisex		https://www.fragrantica.com/perfume/Paul-Emilien/Une-Belle-Journee-28627.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+carrousel	Carrousel		unisex	https://www.fragrantica.com/perfume/Paul-Emilien/Carrousel-24202.html				pending
+chaleur-gitane	Chaleur Gitane		unisex	https://www.fragrantica.com/perfume/Paul-Emilien/Chaleur-Gitane-30893.html				pending
+lesprit-divin	L'Esprit Divin		unisex	https://www.fragrantica.com/perfume/Paul-Emilien/L-Esprit-Divin-28628.html				pending
+musc-angelique	Musc Angelique		unisex	https://www.fragrantica.com/perfume/Paul-Emilien/Musc-Angelique-42040.html				pending
+premiere-danse	Premiere Danse		unisex	https://www.fragrantica.com/perfume/Paul-Emilien/Premiere-Danse-24200.html				pending
+pure-addiction	Pure Addiction		unisex	https://www.fragrantica.com/perfume/Paul-Emilien/Pure-Addiction-24201.html				pending
+souffle-intime	Souffle Intime		unisex	https://www.fragrantica.com/perfume/Paul-Emilien/Souffle-Intime-24203.html				pending
+une-belle-journee	Une Belle Journee		unisex	https://www.fragrantica.com/perfume/Paul-Emilien/Une-Belle-Journee-28627.html				pending

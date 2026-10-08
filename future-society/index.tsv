@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cloud-reverie	Cloud Reverie		unisex		https://www.fragrantica.com/perfume/Future-Society/Cloud-Reverie-130631.html				pending
-floating-forest	Floating Forest		unisex		https://www.fragrantica.com/perfume/Future-Society/Floating-Forest-87779.html				pending
-grassland-opera	Grassland Opera		unisex		https://www.fragrantica.com/perfume/Future-Society/Grassland-Opera-87787.html				pending
-haunted-rose	Haunted Rose		unisex		https://www.fragrantica.com/perfume/Future-Society/Haunted-Rose-87781.html				pending
-invisible-woods	Invisible Woods		unisex		https://www.fragrantica.com/perfume/Future-Society/Invisible-Woods-87785.html				pending
-reclaimed-flame	Reclaimed Flame		unisex		https://www.fragrantica.com/perfume/Future-Society/Reclaimed-Flame-87784.html				pending
-solar-canopy	Solar Canopy		unisex		https://www.fragrantica.com/perfume/Future-Society/Solar-Canopy-87783.html				pending
-wandering-rain	Wandering Rain		unisex		https://www.fragrantica.com/perfume/Future-Society/Wandering-Rain-136440.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cloud-reverie	Cloud Reverie		unisex	https://www.fragrantica.com/perfume/Future-Society/Cloud-Reverie-130631.html				pending
+floating-forest	Floating Forest		unisex	https://www.fragrantica.com/perfume/Future-Society/Floating-Forest-87779.html				pending
+grassland-opera	Grassland Opera		unisex	https://www.fragrantica.com/perfume/Future-Society/Grassland-Opera-87787.html				pending
+haunted-rose	Haunted Rose		unisex	https://www.fragrantica.com/perfume/Future-Society/Haunted-Rose-87781.html				pending
+invisible-woods	Invisible Woods		unisex	https://www.fragrantica.com/perfume/Future-Society/Invisible-Woods-87785.html				pending
+reclaimed-flame	Reclaimed Flame		unisex	https://www.fragrantica.com/perfume/Future-Society/Reclaimed-Flame-87784.html				pending
+solar-canopy	Solar Canopy		unisex	https://www.fragrantica.com/perfume/Future-Society/Solar-Canopy-87783.html				pending
+wandering-rain	Wandering Rain		unisex	https://www.fragrantica.com/perfume/Future-Society/Wandering-Rain-136440.html				pending

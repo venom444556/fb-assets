@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-james-bond-007	James Bond 007		male		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-15944.html				pending
-james-bond-007-for-women	James Bond 007 for Women		female		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-for-Women-29401.html				pending
-james-bond-007-for-women-ii	James Bond 007 for Women II		female		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-for-Women-II-35839.html				pending
-james-bond-007-for-women-iii	James Bond 007 for Women III		female		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-for-Women-III-46458.html				pending
-james-bond-007-ocean-royale	James Bond 007 Ocean Royale		male		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Ocean-Royale-17832.html				pending
-james-bond-007-pour-femme	James Bond 007 Pour Femme		female		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Pour-Femme-59439.html				pending
-james-bond-007-quantum	James Bond 007 Quantum		male		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Quantum-18969.html				pending
-james-bond-007-seven	James Bond 007 Seven		male		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Seven-31784.html				pending
-james-bond-007-seven-intense	James Bond 007 Seven Intense		male		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Seven-Intense-31785.html				pending
-james-bond-007-cologne	James Bond 007 Cologne		male		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Cologne-50121.html				pending
-james-bond-007-edition-gold	James Bond 007 Edition Gold		male		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Edition-Gold-16556.html				pending
-james-bond-007-pour-homme	James Bond 007 Pour Homme		male		https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Pour-Homme-59441.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+james-bond-007	James Bond 007		male	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-15944.html				pending
+james-bond-007-cologne	James Bond 007 Cologne	Cologne	male	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Cologne-50121.html				pending
+james-bond-007-edition-gold	James Bond 007 Edition Gold		male	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Edition-Gold-16556.html				pending
+james-bond-007-for-women	James Bond 007 for Women		female	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-for-Women-29401.html				pending
+james-bond-007-for-women-ii	James Bond 007 for Women II		female	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-for-Women-II-35839.html				pending
+james-bond-007-for-women-iii	James Bond 007 for Women III		female	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-for-Women-III-46458.html				pending
+james-bond-007-ocean-royale	James Bond 007 Ocean Royale		male	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Ocean-Royale-17832.html				pending
+james-bond-007-pour-femme	James Bond 007 Pour Femme		female	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Pour-Femme-59439.html				pending
+james-bond-007-pour-homme	James Bond 007 Pour Homme		male	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Pour-Homme-59441.html				pending
+james-bond-007-quantum	James Bond 007 Quantum		male	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Quantum-18969.html				pending
+james-bond-007-seven	James Bond 007 Seven		male	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Seven-31784.html				pending
+james-bond-007-seven-intense	James Bond 007 Seven Intense		male	https://www.fragrantica.com/perfume/Eon-Productions/James-Bond-007-Seven-Intense-31785.html				pending

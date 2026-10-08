@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-iris-baie-rose	Iris Baie Rose		unisex		https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Iris-Baie-Rose-66324.html				pending
-iris-coriandre	Iris Coriandre		unisex		https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Iris-Coriandre-74209.html				pending
-oud-cannelle	Oud Cannelle		unisex		https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Oud-Cannelle-54834.html				pending
-oud-cardamome	Oud Cardamome		unisex		https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Oud-Cardamome-54837.html				pending
-rose-cannelle	Rose Cannelle		unisex		https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Rose-Cannelle-54829.html				pending
-rose-cardamome	Rose Cardamome		unisex		https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Rose-Cardamome-54830.html				pending
-rose-muscade	Rose Muscade		unisex		https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Rose-Muscade-54832.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+iris-baie-rose	Iris Baie Rose		unisex	https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Iris-Baie-Rose-66324.html				pending
+iris-coriandre	Iris Coriandre		unisex	https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Iris-Coriandre-74209.html				pending
+oud-cannelle	Oud Cannelle		unisex	https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Oud-Cannelle-54834.html				pending
+oud-cardamome	Oud Cardamome		unisex	https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Oud-Cardamome-54837.html				pending
+rose-cannelle	Rose Cannelle		unisex	https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Rose-Cannelle-54829.html				pending
+rose-cardamome	Rose Cardamome		unisex	https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Rose-Cardamome-54830.html				pending
+rose-muscade	Rose Muscade		unisex	https://www.fragrantica.com/perfume/La-Closerie-des-Parfums/Rose-Muscade-54832.html				pending

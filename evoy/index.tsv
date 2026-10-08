@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambra-bombeza	Ambra Bombeza		unisex		https://www.fragrantica.com/perfume/EVOY/Ambra-Bombeza-55505.html				pending
-elven-garden	Elven Garden		unisex		https://www.fragrantica.com/perfume/EVOY/Elven-Garden-61081.html				pending
-ganache-praline-crumble	Ganache Praline Crumble		female		https://www.fragrantica.com/perfume/EVOY/Ganache-Praline-Crumble-94174.html				pending
-imperator	Imperator		unisex		https://www.fragrantica.com/perfume/EVOY/Imperator-62787.html				pending
-malina-velours	Malina velours		female		https://www.fragrantica.com/perfume/EVOY/Malina-velours-59625.html				pending
-miss-pudris	Miss Pudris		female		https://www.fragrantica.com/perfume/EVOY/Miss-Pudris-94173.html				pending
-monpasie	Monpasie		female		https://www.fragrantica.com/perfume/EVOY/Monpasie-55509.html				pending
-oda-vanille	O'da Vanille		unisex		https://www.fragrantica.com/perfume/EVOY/O-da-Vanille-55508.html				pending
-open-mind	Open Mind		unisex		https://www.fragrantica.com/perfume/EVOY/Open-Mind-88585.html				pending
-pachundra	Pachundra		unisex		https://www.fragrantica.com/perfume/EVOY/Pachundra-55506.html				pending
-santar	Santar		unisex		https://www.fragrantica.com/perfume/EVOY/Santar-55504.html				pending
-sekiss	Sekiss		unisex		https://www.fragrantica.com/perfume/EVOY/Sekiss-66930.html				pending
-shadow-sense	Shadow Sense		female		https://www.fragrantica.com/perfume/EVOY/Shadow-Sense-62788.html				pending
-shelma	SHELMA		female		https://www.fragrantica.com/perfume/EVOY/SHELMA-55470.html				pending
-soft-vetiver	Soft Vetiver		unisex		https://www.fragrantica.com/perfume/EVOY/Soft-Vetiver-55507.html				pending
-tabachcha	Tabachcha		unisex		https://www.fragrantica.com/perfume/EVOY/Tabachcha-57492.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambra-bombeza	Ambra Bombeza		unisex	https://www.fragrantica.com/perfume/EVOY/Ambra-Bombeza-55505.html				pending
+elven-garden	Elven Garden		unisex	https://www.fragrantica.com/perfume/EVOY/Elven-Garden-61081.html				pending
+ganache-praline-crumble	Ganache Praline Crumble		female	https://www.fragrantica.com/perfume/EVOY/Ganache-Praline-Crumble-94174.html				pending
+imperator	Imperator		unisex	https://www.fragrantica.com/perfume/EVOY/Imperator-62787.html				pending
+malina-velours	Malina velours		female	https://www.fragrantica.com/perfume/EVOY/Malina-velours-59625.html				pending
+miss-pudris	Miss Pudris		female	https://www.fragrantica.com/perfume/EVOY/Miss-Pudris-94173.html				pending
+monpasie	Monpasie		female	https://www.fragrantica.com/perfume/EVOY/Monpasie-55509.html				pending
+oda-vanille	O'da Vanille		unisex	https://www.fragrantica.com/perfume/EVOY/O-da-Vanille-55508.html				pending
+open-mind	Open Mind		unisex	https://www.fragrantica.com/perfume/EVOY/Open-Mind-88585.html				pending
+pachundra	Pachundra		unisex	https://www.fragrantica.com/perfume/EVOY/Pachundra-55506.html				pending
+santar	Santar		unisex	https://www.fragrantica.com/perfume/EVOY/Santar-55504.html				pending
+sekiss	Sekiss		unisex	https://www.fragrantica.com/perfume/EVOY/Sekiss-66930.html				pending
+shadow-sense	Shadow Sense		female	https://www.fragrantica.com/perfume/EVOY/Shadow-Sense-62788.html				pending
+shelma	SHELMA		female	https://www.fragrantica.com/perfume/EVOY/SHELMA-55470.html				pending
+soft-vetiver	Soft Vetiver		unisex	https://www.fragrantica.com/perfume/EVOY/Soft-Vetiver-55507.html				pending
+tabachcha	Tabachcha		unisex	https://www.fragrantica.com/perfume/EVOY/Tabachcha-57492.html				pending

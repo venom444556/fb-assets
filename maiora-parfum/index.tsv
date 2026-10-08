@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ali-baba	Alì Babà		unisex		https://www.fragrantica.com/perfume/Maiora-Parfum/Ali-Baba-87412.html				pending
-ask	Ask		unisex		https://www.fragrantica.com/perfume/Maiora-Parfum/Ask-80240.html				pending
-phraenesya-pastiera	Phraenesya Pastiera		unisex		https://www.fragrantica.com/perfume/Maiora-Parfum/Phraenesya-Pastiera-80242.html				pending
-tropical-sky	Tropical Sky		unisex		https://www.fragrantica.com/perfume/Maiora-Parfum/Tropical-Sky-92022.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ali-baba	Alì Babà		unisex	https://www.fragrantica.com/perfume/Maiora-Parfum/Ali-Baba-87412.html				pending
+ask	Ask		unisex	https://www.fragrantica.com/perfume/Maiora-Parfum/Ask-80240.html				pending
+phraenesya-pastiera	Phraenesya Pastiera		unisex	https://www.fragrantica.com/perfume/Maiora-Parfum/Phraenesya-Pastiera-80242.html				pending
+tropical-sky	Tropical Sky		unisex	https://www.fragrantica.com/perfume/Maiora-Parfum/Tropical-Sky-92022.html				pending

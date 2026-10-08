@@ -1,39 +1,39 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-525	525		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/525-38794.html				pending
-alessandra	Alessandra		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Alessandra-38780.html				pending
-anastasia	Anastasia		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Anastasia-38781.html				pending
-antonis	Antonis		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Antonis-38778.html				pending
-carre	Carré		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Carre-38795.html				pending
-dark-garden	Dark Garden		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Dark-Garden-71185.html				pending
-eau-de-cologne	Eau de Cologne		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Eau-de-Cologne-38800.html				pending
-eau-de-noir	Eau de Noir		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Eau-de-Noir-38801.html				pending
-eau-de-pluie	Eau de Pluie		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Eau-de-Pluie-38802.html				pending
-eleftorea	Eleftorea		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Eleftorea-38779.html				pending
-entre-nous	Entre Nous		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Entre-Nous-38782.html				pending
-festival	Festival		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Festival-38783.html				pending
-fleur-de-royale	Fleur de Royale		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Fleur-de-Royale-38784.html				pending
-forever-new-orleans	Forever New Orleans		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Forever-New-Orleans-38785.html				pending
-french-lavender	French Lavender		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/French-Lavender-38803.html				pending
-huiles-85	Huiles 85		unisex		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Huiles-85-38841.html				pending
-jardin-de-cour	Jardin de Cour		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Jardin-de-Cour-38777.html				pending
-kus-kus	Kus Kus		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Kus-Kus-38743.html				pending
-la-pluie	La Pluie		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/La-Pluie-38776.html				pending
-la-vie-nouveau	La Vie Nouveau		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/La-Vie-Nouveau-38842.html				pending
-la-vie-nouvelle	La Vie Nouvelle		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/La-Vie-Nouvelle-38786.html				pending
-marguerite	Marguerite		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Marguerite-38772.html				pending
-mon-amour	Mon Amour		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Mon-Amour-38787.html				pending
-mon-idee	Mon Idée		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Mon-Idee-38773.html				pending
-oriental-rose	Oriental Rose		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Oriental-Rose-38788.html				pending
-patchouli	Patchouli		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Patchouli-38843.html				pending
-perfume-of-paradise	Perfume of Paradise		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Perfume-of-Paradise-38789.html				pending
-quadroon	Quadroon		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Quadroon-38790.html				pending
-romanov	Romanov		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Romanov-38791.html				pending
-rum-royale	Rum Royale		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Rum-Royale-38844.html				pending
-sandlewood	Sandlewood		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Sandlewood-38845.html				pending
-sans-nom	Sans Nom		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Sans-Nom-38774.html				pending
-sequessence	Sequessence		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Sequessence-38775.html				pending
-tonight	Tonight		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Tonight-38792.html				pending
-vanille-jardin	Vanille Jardin		female		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Vanille-Jardin-38793.html				pending
-vetivert	Vetivert		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Vetivert-38745.html				pending
-voodoo-love	Voodoo Love		unisex		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Voodoo-Love-38744.html				pending
-wjl	WJL		male		https://www.fragrantica.com/perfume/Bourbon-French-Parfums/WJL-38846.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+525	525		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/525-38794.html				pending
+alessandra	Alessandra		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Alessandra-38780.html				pending
+anastasia	Anastasia		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Anastasia-38781.html				pending
+antonis	Antonis		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Antonis-38778.html				pending
+carre	Carré		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Carre-38795.html				pending
+dark-garden	Dark Garden		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Dark-Garden-71185.html				pending
+eau-de-cologne	Eau de Cologne	Eau de Cologne	male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Eau-de-Cologne-38800.html				pending
+eau-de-noir	Eau de Noir		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Eau-de-Noir-38801.html				pending
+eau-de-pluie	Eau de Pluie		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Eau-de-Pluie-38802.html				pending
+eleftorea	Eleftorea		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Eleftorea-38779.html				pending
+entre-nous	Entre Nous		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Entre-Nous-38782.html				pending
+festival	Festival		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Festival-38783.html				pending
+fleur-de-royale	Fleur de Royale		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Fleur-de-Royale-38784.html				pending
+forever-new-orleans	Forever New Orleans		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Forever-New-Orleans-38785.html				pending
+french-lavender	French Lavender		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/French-Lavender-38803.html				pending
+huiles-85	Huiles 85		unisex	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Huiles-85-38841.html				pending
+jardin-de-cour	Jardin de Cour		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Jardin-de-Cour-38777.html				pending
+kus-kus	Kus Kus		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Kus-Kus-38743.html				pending
+la-pluie	La Pluie		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/La-Pluie-38776.html				pending
+la-vie-nouveau	La Vie Nouveau		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/La-Vie-Nouveau-38842.html				pending
+la-vie-nouvelle	La Vie Nouvelle		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/La-Vie-Nouvelle-38786.html				pending
+marguerite	Marguerite		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Marguerite-38772.html				pending
+mon-amour	Mon Amour		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Mon-Amour-38787.html				pending
+mon-idee	Mon Idée		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Mon-Idee-38773.html				pending
+oriental-rose	Oriental Rose		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Oriental-Rose-38788.html				pending
+patchouli	Patchouli		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Patchouli-38843.html				pending
+perfume-of-paradise	Perfume of Paradise		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Perfume-of-Paradise-38789.html				pending
+quadroon	Quadroon		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Quadroon-38790.html				pending
+romanov	Romanov		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Romanov-38791.html				pending
+rum-royale	Rum Royale		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Rum-Royale-38844.html				pending
+sandlewood	Sandlewood		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Sandlewood-38845.html				pending
+sans-nom	Sans Nom		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Sans-Nom-38774.html				pending
+sequessence	Sequessence		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Sequessence-38775.html				pending
+tonight	Tonight		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Tonight-38792.html				pending
+vanille-jardin	Vanille Jardin		female	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Vanille-Jardin-38793.html				pending
+vetivert	Vetivert		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Vetivert-38745.html				pending
+voodoo-love	Voodoo Love		unisex	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/Voodoo-Love-38744.html				pending
+wjl	WJL		male	https://www.fragrantica.com/perfume/Bourbon-French-Parfums/WJL-38846.html				pending

@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber	Amber		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Amber-62277.html				pending
-forest	Forest		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Forest-50269.html				pending
-forest-2020-edition	Forest 2020 Edition		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Forest-2020-Edition-59349.html				pending
-rook-by-rook-2020-edition	Rook by Rook 2020 Edition		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Rook-by-Rook-2020-Edition-59348.html				pending
-suede	Suede		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Suede-62279.html				pending
-thurible	Thurible		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Thurible-62278.html				pending
-undergrowth	Undergrowth		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Undergrowth-50273.html				pending
-undergrowth-2020-edition	Undergrowth 2020 Edition		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Undergrowth-2020-Edition-59350.html				pending
-amber-50268	Amber		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Amber-50268.html				pending
-baklava-musk	Baklava Musk		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Baklava-Musk-89232.html				pending
-faqqua-iris	Faqqua Iris		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Faqqua-Iris-89292.html				pending
-misk-albahr-almayit	Misk Albahr Almayit		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Misk-Albahr-Almayit-52279.html				pending
-neroli	Neroli		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Neroli-50270.html				pending
-rook-by-rook	Rook by Rook		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Rook-by-Rook-50421.html				pending
-rsx-the-scent-of-the-metaverse	RSX | The Scent of the Metaverse		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-The-Scent-of-the-Metaverse-89294.html				pending
-rsx-01-the-greengrocer	RSX/01: The Greengrocer		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-01-The-Greengrocer-89456.html				pending
-rsx-02-flaming-dandelion	RSX/02: Flaming Dandelion		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-02-Flaming-Dandelion-89301.html				pending
-rsx-05-acresford	RSX/05: Acresford		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-05-Acresford-89448.html				pending
-rsx-06-tea-chest	RSX/06: Tea Chest		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-06-Tea-Chest-89443.html				pending
-rsx-misk	RSX: Misk		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-Misk-89445.html				pending
-rsx-origami	RSX: Origami		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-Origami-89449.html				pending
-school	School		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/School-71048.html				pending
-suede-50271	Suede		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Suede-50271.html				pending
-thurible-50272	Thurible		unisex		https://www.fragrantica.com/perfume/Rook-Perfumes/Thurible-50272.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber	Amber		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Amber-62277.html				pending
+amber-50268	Amber		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Amber-50268.html				pending
+baklava-musk	Baklava Musk		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Baklava-Musk-89232.html				pending
+faqqua-iris	Faqqua Iris		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Faqqua-Iris-89292.html				pending
+forest	Forest		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Forest-50269.html				pending
+forest-2020-edition	Forest 2020 Edition		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Forest-2020-Edition-59349.html				pending
+misk-albahr-almayit	Misk Albahr Almayit		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Misk-Albahr-Almayit-52279.html				pending
+neroli	Neroli		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Neroli-50270.html				pending
+rook-by-rook	Rook by Rook		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Rook-by-Rook-50421.html				pending
+rook-by-rook-2020-edition	Rook by Rook 2020 Edition		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Rook-by-Rook-2020-Edition-59348.html				pending
+rsx-the-scent-of-the-metaverse	RSX | The Scent of the Metaverse		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-The-Scent-of-the-Metaverse-89294.html				pending
+rsx-01-the-greengrocer	RSX/01: The Greengrocer		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-01-The-Greengrocer-89456.html				pending
+rsx-02-flaming-dandelion	RSX/02: Flaming Dandelion		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-02-Flaming-Dandelion-89301.html				pending
+rsx-05-acresford	RSX/05: Acresford		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-05-Acresford-89448.html				pending
+rsx-06-tea-chest	RSX/06: Tea Chest		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-06-Tea-Chest-89443.html				pending
+rsx-misk	RSX: Misk		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-Misk-89445.html				pending
+rsx-origami	RSX: Origami		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/RSX-Origami-89449.html				pending
+school	School		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/School-71048.html				pending
+suede	Suede		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Suede-62279.html				pending
+suede-50271	Suede		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Suede-50271.html				pending
+thurible	Thurible		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Thurible-62278.html				pending
+thurible-50272	Thurible		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Thurible-50272.html				pending
+undergrowth	Undergrowth		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Undergrowth-50273.html				pending
+undergrowth-2020-edition	Undergrowth 2020 Edition		unisex	https://www.fragrantica.com/perfume/Rook-Perfumes/Undergrowth-2020-Edition-59350.html				pending

@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-enticing	Enticing		female		https://www.fragrantica.com/perfume/Soma/Enticing-28303.html				pending
-oh-my-gorgeous-embraceable	Oh My Gorgeous Embraceable		female		https://www.fragrantica.com/perfume/Soma/Oh-My-Gorgeous-Embraceable-28302.html				pending
-oh-my-gorgeous-passionate	Oh My Gorgeous Passionate		female		https://www.fragrantica.com/perfume/Soma/Oh-My-Gorgeous-Passionate-28301.html				pending
-oh-my-gorgeous-vibrant	Oh My Gorgeous Vibrant		female		https://www.fragrantica.com/perfume/Soma/Oh-My-Gorgeous-Vibrant-28299.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+enticing	Enticing		female	https://www.fragrantica.com/perfume/Soma/Enticing-28303.html				pending
+oh-my-gorgeous-embraceable	Oh My Gorgeous Embraceable		female	https://www.fragrantica.com/perfume/Soma/Oh-My-Gorgeous-Embraceable-28302.html				pending
+oh-my-gorgeous-passionate	Oh My Gorgeous Passionate		female	https://www.fragrantica.com/perfume/Soma/Oh-My-Gorgeous-Passionate-28301.html				pending
+oh-my-gorgeous-vibrant	Oh My Gorgeous Vibrant		female	https://www.fragrantica.com/perfume/Soma/Oh-My-Gorgeous-Vibrant-28299.html				pending

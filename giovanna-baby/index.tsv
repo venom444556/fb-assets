@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blanc-vanilla	Blanc Vanilla		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Blanc-Vanilla-54739.html				pending
-blue	Blue		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Blue-34620.html				pending
-candy	Candy		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Candy-34623.html				pending
-cherry	Cherry		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Cherry-34622.html				pending
-giovanna-baby-blue	Giovanna Baby Blue		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Blue-110321.html				pending
-giovanna-baby-classic	Giovanna Baby Classic		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Classic-110320.html				pending
-lilac	Lilac		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Lilac-34621.html				pending
-bess-sense	Bess Sense		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Bess-Sense-54738.html				pending
-blueberry	Blueberry		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Blueberry-61731.html				pending
-ella	Ella		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Ella-84834.html				pending
-gb-men-active	GB Men Active		male		https://www.fragrantica.com/perfume/Giovanna-Baby/GB-Men-Active-84830.html				pending
-gb-men-fresh	GB Men Fresh		male		https://www.fragrantica.com/perfume/Giovanna-Baby/GB-Men-Fresh-84831.html				pending
-gb-men-power	GB Men Power		male		https://www.fragrantica.com/perfume/Giovanna-Baby/GB-Men-Power-84833.html				pending
-gb-men-urban	GB Men Urban		male		https://www.fragrantica.com/perfume/Giovanna-Baby/GB-Men-Urban-84832.html				pending
-giby	Giby		unisex		https://www.fragrantica.com/perfume/Giovanna-Baby/Giby-63366.html				pending
-giby-and-gaby	Giby & Gaby		unisex		https://www.fragrantica.com/perfume/Giovanna-Baby/Giby-Gaby-74758.html				pending
-giovanna-baby-beauty	Giovanna Baby Beauty		unisex		https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Beauty-84829.html				pending
-giovanna-baby-fantasy	Giovanna Baby Fantasy		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Fantasy-84827.html				pending
-giovanna-baby-gold	Giovanna Baby Gold		unisex		https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Gold-79359.html				pending
-giovanna-baby-lovely	Giovanna Baby Lovely		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Lovely-84828.html				pending
-giovanna-baby-silver	Giovanna Baby Silver		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Silver-79360.html				pending
-kim-sense	Kim Sense		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Kim-Sense-54737.html				pending
-lavanda-rosa-classic	Lavanda Rosa Classic		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Lavanda-Rosa-Classic-34619.html				pending
-peacha	Peacha		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Peacha-34624.html				pending
-yve-sense	Yve Sense		female		https://www.fragrantica.com/perfume/Giovanna-Baby/Yve-Sense-54736.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bess-sense	Bess Sense		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Bess-Sense-54738.html				pending
+blanc-vanilla	Blanc Vanilla		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Blanc-Vanilla-54739.html				pending
+blue	Blue		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Blue-34620.html				pending
+blueberry	Blueberry		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Blueberry-61731.html				pending
+candy	Candy		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Candy-34623.html				pending
+cherry	Cherry		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Cherry-34622.html				pending
+ella	Ella		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Ella-84834.html				pending
+gb-men-active	GB Men Active		male	https://www.fragrantica.com/perfume/Giovanna-Baby/GB-Men-Active-84830.html				pending
+gb-men-fresh	GB Men Fresh		male	https://www.fragrantica.com/perfume/Giovanna-Baby/GB-Men-Fresh-84831.html				pending
+gb-men-power	GB Men Power		male	https://www.fragrantica.com/perfume/Giovanna-Baby/GB-Men-Power-84833.html				pending
+gb-men-urban	GB Men Urban		male	https://www.fragrantica.com/perfume/Giovanna-Baby/GB-Men-Urban-84832.html				pending
+giby	Giby		unisex	https://www.fragrantica.com/perfume/Giovanna-Baby/Giby-63366.html				pending
+giby-and-gaby	Giby & Gaby		unisex	https://www.fragrantica.com/perfume/Giovanna-Baby/Giby-Gaby-74758.html				pending
+giovanna-baby-beauty	Giovanna Baby Beauty		unisex	https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Beauty-84829.html				pending
+giovanna-baby-blue	Giovanna Baby Blue		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Blue-110321.html				pending
+giovanna-baby-classic	Giovanna Baby Classic		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Classic-110320.html				pending
+giovanna-baby-fantasy	Giovanna Baby Fantasy		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Fantasy-84827.html				pending
+giovanna-baby-gold	Giovanna Baby Gold		unisex	https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Gold-79359.html				pending
+giovanna-baby-lovely	Giovanna Baby Lovely		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Lovely-84828.html				pending
+giovanna-baby-silver	Giovanna Baby Silver		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Giovanna-Baby-Silver-79360.html				pending
+kim-sense	Kim Sense		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Kim-Sense-54737.html				pending
+lavanda-rosa-classic	Lavanda Rosa Classic		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Lavanda-Rosa-Classic-34619.html				pending
+lilac	Lilac		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Lilac-34621.html				pending
+peacha	Peacha		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Peacha-34624.html				pending
+yve-sense	Yve Sense		female	https://www.fragrantica.com/perfume/Giovanna-Baby/Yve-Sense-54736.html				pending

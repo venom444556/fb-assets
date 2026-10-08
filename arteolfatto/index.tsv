@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-delicieuse	Ambre Delicieuse		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Ambre-Delicieuse-47488.html				pending
-black-hashish	Black Hashish		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Black-Hashish-33592.html				pending
-bois-precious	Bois Precious		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Bois-Precious-33593.html				pending
-brise-marine	Brise Marine		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Brise-Marine-33594.html				pending
-calar-del-sole	Calar del Sole		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Calar-del-Sole-75537.html				pending
-cuir-sublime	Cuir Sublime		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Cuir-Sublime-80603.html				pending
-habano-vanilla	Habano Vanilla		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Habano-Vanilla-33596.html				pending
-oud-khasian	Oud Khasian		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Oud-Khasian-33599.html				pending
-paropamiso	Paropamiso		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Paropamiso-33598.html				pending
-primero-marocaine	Primero Marocaine		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Primero-Marocaine-76773.html				pending
-tuberose-vanilla	Tuberose Vanilla		female		https://www.fragrantica.com/perfume/ArteOlfatto/Tuberose-Vanilla-54334.html				pending
-vanesya	Vanesya		female		https://www.fragrantica.com/perfume/ArteOlfatto/Vanesya-33597.html				pending
-vetiverve	Vetiverve		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Vetiverve-54335.html				pending
-wild-orchid	Wild Orchid		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Wild-Orchid-33595.html				pending
-yakamoz	Yakamoz		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Yakamoz-75536.html				pending
-avenue-imperial	Avenue Imperial		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Avenue-Imperial-39451.html				pending
-biancofiore	Biancofiore		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Biancofiore-39452.html				pending
-bois-tendre	Bois Tendre		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Bois-Tendre-39453.html				pending
-eau-epices	Eau Epices		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Eau-Epices-39454.html				pending
-giuggiola	Giuggiola		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Giuggiola-39455.html				pending
-gorgeous	Gorgeous		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Gorgeous-39456.html				pending
-jardin-afghan	Jardin Afghan		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Jardin-Afghan-39461.html				pending
-la-savina	La Savina		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/La-Savina-39460.html				pending
-oud	Oud		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Oud-39463.html				pending
-patchoulystan	Patchoulystan		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Patchoulystan-39458.html				pending
-purple-orchid	Purple Orchid		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Purple-Orchid-39462.html				pending
-sine-more	Sine More		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Sine-More-47495.html				pending
-very-musk	Very Musk		unisex		https://www.fragrantica.com/perfume/ArteOlfatto/Very-Musk-39457.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-delicieuse	Ambre Delicieuse		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Ambre-Delicieuse-47488.html				pending
+avenue-imperial	Avenue Imperial		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Avenue-Imperial-39451.html				pending
+biancofiore	Biancofiore		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Biancofiore-39452.html				pending
+black-hashish	Black Hashish		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Black-Hashish-33592.html				pending
+bois-precious	Bois Precious		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Bois-Precious-33593.html				pending
+bois-tendre	Bois Tendre		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Bois-Tendre-39453.html				pending
+brise-marine	Brise Marine		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Brise-Marine-33594.html				pending
+calar-del-sole	Calar del Sole		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Calar-del-Sole-75537.html				pending
+cuir-sublime	Cuir Sublime		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Cuir-Sublime-80603.html				pending
+eau-epices	Eau Epices		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Eau-Epices-39454.html				pending
+giuggiola	Giuggiola		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Giuggiola-39455.html				pending
+gorgeous	Gorgeous		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Gorgeous-39456.html				pending
+habano-vanilla	Habano Vanilla		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Habano-Vanilla-33596.html				pending
+jardin-afghan	Jardin Afghan		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Jardin-Afghan-39461.html				pending
+la-savina	La Savina		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/La-Savina-39460.html				pending
+oud	Oud		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Oud-39463.html				pending
+oud-khasian	Oud Khasian		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Oud-Khasian-33599.html				pending
+paropamiso	Paropamiso		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Paropamiso-33598.html				pending
+patchoulystan	Patchoulystan		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Patchoulystan-39458.html				pending
+primero-marocaine	Primero Marocaine		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Primero-Marocaine-76773.html				pending
+purple-orchid	Purple Orchid		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Purple-Orchid-39462.html				pending
+sine-more	Sine More		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Sine-More-47495.html				pending
+tuberose-vanilla	Tuberose Vanilla		female	https://www.fragrantica.com/perfume/ArteOlfatto/Tuberose-Vanilla-54334.html				pending
+vanesya	Vanesya		female	https://www.fragrantica.com/perfume/ArteOlfatto/Vanesya-33597.html				pending
+very-musk	Very Musk		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Very-Musk-39457.html				pending
+vetiverve	Vetiverve		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Vetiverve-54335.html				pending
+wild-orchid	Wild Orchid		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Wild-Orchid-33595.html				pending
+yakamoz	Yakamoz		unisex	https://www.fragrantica.com/perfume/ArteOlfatto/Yakamoz-75536.html				pending

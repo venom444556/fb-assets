@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-411-intenso	411 Intenso		unisex		https://www.fragrantica.com/perfume/Giovanna-Antonelli/411-Intenso-43473.html				pending
-611-extremo	611 Extremo		unisex		https://www.fragrantica.com/perfume/Giovanna-Antonelli/611-Extremo-43474.html				pending
-811-absoluto	811 Absoluto		unisex		https://www.fragrantica.com/perfume/Giovanna-Antonelli/811-Absoluto-43475.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+411-intenso	411 Intenso		unisex	https://www.fragrantica.com/perfume/Giovanna-Antonelli/411-Intenso-43473.html				pending
+611-extremo	611 Extremo		unisex	https://www.fragrantica.com/perfume/Giovanna-Antonelli/611-Extremo-43474.html				pending
+811-absoluto	811 Absoluto		unisex	https://www.fragrantica.com/perfume/Giovanna-Antonelli/811-Absoluto-43475.html				pending

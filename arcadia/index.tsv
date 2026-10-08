@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-no-13-fever	No.13 Fever		unisex		https://www.fragrantica.com/perfume/Arcadia/No-13-Fever-82615.html				pending
-no-6-milk-musk	No.6 Milk Musk		unisex		https://www.fragrantica.com/perfume/Arcadia/No-6-Milk-Musk-82606.html				pending
-aura	Aura		unisex		https://www.fragrantica.com/perfume/Arcadia/Aura-82689.html				pending
-auric	Auric		unisex		https://www.fragrantica.com/perfume/Arcadia/Auric-82686.html				pending
-devotion	Devotion		unisex		https://www.fragrantica.com/perfume/Arcadia/Devotion-82678.html				pending
-eternal	Eternal		unisex		https://www.fragrantica.com/perfume/Arcadia/Eternal-82683.html				pending
-infinity	Infinity		unisex		https://www.fragrantica.com/perfume/Arcadia/Infinity-82687.html				pending
-no-1-royal-orchard	No.1 Royal Orchard		unisex		https://www.fragrantica.com/perfume/Arcadia/No-1-Royal-Orchard-82602.html				pending
-no-11-jinx	No.11 Jinx		unisex		https://www.fragrantica.com/perfume/Arcadia/No-11-Jinx-82613.html				pending
-no-12-pseudo	No.12 Pseudo		unisex		https://www.fragrantica.com/perfume/Arcadia/No-12-Pseudo-82614.html				pending
-no-14-obsidian	No.14 Obsidian		unisex		https://www.fragrantica.com/perfume/Arcadia/No-14-Obsidian-82616.html				pending
-no-15-hysteria	No.15 Hysteria		unisex		https://www.fragrantica.com/perfume/Arcadia/No-15-Hysteria-82617.html				pending
-no-16-faded	No.16 Faded		unisex		https://www.fragrantica.com/perfume/Arcadia/No-16-Faded-82618.html				pending
-no-17-enigma	No.17 Enigma		unisex		https://www.fragrantica.com/perfume/Arcadia/No-17-Enigma-82619.html				pending
-no-18-bete-noir	No.18 Bête Noir		unisex		https://www.fragrantica.com/perfume/Arcadia/No-18-Bete-Noir-82620.html				pending
-no-2-splinter	No.2 Splinter		unisex		https://www.fragrantica.com/perfume/Arcadia/No-2-Splinter-82603.html				pending
-no-3-fumee	No.3 Fumee		unisex		https://www.fragrantica.com/perfume/Arcadia/No-3-Fumee-82604.html				pending
-no-4-hassaku-high	No.4 Hassaku High		unisex		https://www.fragrantica.com/perfume/Arcadia/No-4-Hassaku-High-82605.html				pending
-no-5-periwinkle	No.5 Periwinkle		unisex		https://www.fragrantica.com/perfume/Arcadia/No-5-Periwinkle-82610.html				pending
-no-7-rose-pellets	No.7 Rose Pellets		unisex		https://www.fragrantica.com/perfume/Arcadia/No-7-Rose-Pellets-82607.html				pending
-no-8-cerulean-crystal	No.8 Cerulean Crystal		unisex		https://www.fragrantica.com/perfume/Arcadia/No-8-Cerulean-Crystal-82608.html				pending
-no-9-vanilla-pod	No.9 Vanilla Pod		unisex		https://www.fragrantica.com/perfume/Arcadia/No-9-Vanilla-Pod-82609.html				pending
-sincere	Sincere		unisex		https://www.fragrantica.com/perfume/Arcadia/Sincere-82681.html				pending
-thunderous	Thunderous		unisex		https://www.fragrantica.com/perfume/Arcadia/Thunderous-82690.html				pending
-unity	Unity		unisex		https://www.fragrantica.com/perfume/Arcadia/Unity-82688.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aura	Aura		unisex	https://www.fragrantica.com/perfume/Arcadia/Aura-82689.html				pending
+auric	Auric		unisex	https://www.fragrantica.com/perfume/Arcadia/Auric-82686.html				pending
+devotion	Devotion		unisex	https://www.fragrantica.com/perfume/Arcadia/Devotion-82678.html				pending
+eternal	Eternal		unisex	https://www.fragrantica.com/perfume/Arcadia/Eternal-82683.html				pending
+infinity	Infinity		unisex	https://www.fragrantica.com/perfume/Arcadia/Infinity-82687.html				pending
+no-1-royal-orchard	No.1 Royal Orchard		unisex	https://www.fragrantica.com/perfume/Arcadia/No-1-Royal-Orchard-82602.html				pending
+no-11-jinx	No.11 Jinx		unisex	https://www.fragrantica.com/perfume/Arcadia/No-11-Jinx-82613.html				pending
+no-12-pseudo	No.12 Pseudo		unisex	https://www.fragrantica.com/perfume/Arcadia/No-12-Pseudo-82614.html				pending
+no-13-fever	No.13 Fever		unisex	https://www.fragrantica.com/perfume/Arcadia/No-13-Fever-82615.html				pending
+no-14-obsidian	No.14 Obsidian		unisex	https://www.fragrantica.com/perfume/Arcadia/No-14-Obsidian-82616.html				pending
+no-15-hysteria	No.15 Hysteria		unisex	https://www.fragrantica.com/perfume/Arcadia/No-15-Hysteria-82617.html				pending
+no-16-faded	No.16 Faded		unisex	https://www.fragrantica.com/perfume/Arcadia/No-16-Faded-82618.html				pending
+no-17-enigma	No.17 Enigma		unisex	https://www.fragrantica.com/perfume/Arcadia/No-17-Enigma-82619.html				pending
+no-18-bete-noir	No.18 Bête Noir		unisex	https://www.fragrantica.com/perfume/Arcadia/No-18-Bete-Noir-82620.html				pending
+no-2-splinter	No.2 Splinter		unisex	https://www.fragrantica.com/perfume/Arcadia/No-2-Splinter-82603.html				pending
+no-3-fumee	No.3 Fumee		unisex	https://www.fragrantica.com/perfume/Arcadia/No-3-Fumee-82604.html				pending
+no-4-hassaku-high	No.4 Hassaku High		unisex	https://www.fragrantica.com/perfume/Arcadia/No-4-Hassaku-High-82605.html				pending
+no-5-periwinkle	No.5 Periwinkle		unisex	https://www.fragrantica.com/perfume/Arcadia/No-5-Periwinkle-82610.html				pending
+no-6-milk-musk	No.6 Milk Musk		unisex	https://www.fragrantica.com/perfume/Arcadia/No-6-Milk-Musk-82606.html				pending
+no-7-rose-pellets	No.7 Rose Pellets		unisex	https://www.fragrantica.com/perfume/Arcadia/No-7-Rose-Pellets-82607.html				pending
+no-8-cerulean-crystal	No.8 Cerulean Crystal		unisex	https://www.fragrantica.com/perfume/Arcadia/No-8-Cerulean-Crystal-82608.html				pending
+no-9-vanilla-pod	No.9 Vanilla Pod		unisex	https://www.fragrantica.com/perfume/Arcadia/No-9-Vanilla-Pod-82609.html				pending
+sincere	Sincere		unisex	https://www.fragrantica.com/perfume/Arcadia/Sincere-82681.html				pending
+thunderous	Thunderous		unisex	https://www.fragrantica.com/perfume/Arcadia/Thunderous-82690.html				pending
+unity	Unity		unisex	https://www.fragrantica.com/perfume/Arcadia/Unity-82688.html				pending

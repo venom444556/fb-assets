@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-negroni	Amber Negroni		unisex		https://www.fragrantica.com/perfume/BLNDRGRPHY/Amber-Negroni-97255.html				pending
-jasmin-martini	Jasmin Martini		unisex		https://www.fragrantica.com/perfume/BLNDRGRPHY/Jasmin-Martini-97253.html				pending
-patchouli-mojito	Patchouli Mojito		unisex		https://www.fragrantica.com/perfume/BLNDRGRPHY/Patchouli-Mojito-97250.html				pending
-santal-painkiller	Santal Painkiller		unisex		https://www.fragrantica.com/perfume/BLNDRGRPHY/Santal-Painkiller-97256.html				pending
-vanilla-mudslide	Vanilla Mudslide		unisex		https://www.fragrantica.com/perfume/BLNDRGRPHY/Vanilla-Mudslide-97254.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-negroni	Amber Negroni		unisex	https://www.fragrantica.com/perfume/BLNDRGRPHY/Amber-Negroni-97255.html				pending
+jasmin-martini	Jasmin Martini		unisex	https://www.fragrantica.com/perfume/BLNDRGRPHY/Jasmin-Martini-97253.html				pending
+patchouli-mojito	Patchouli Mojito		unisex	https://www.fragrantica.com/perfume/BLNDRGRPHY/Patchouli-Mojito-97250.html				pending
+santal-painkiller	Santal Painkiller		unisex	https://www.fragrantica.com/perfume/BLNDRGRPHY/Santal-Painkiller-97256.html				pending
+vanilla-mudslide	Vanilla Mudslide		unisex	https://www.fragrantica.com/perfume/BLNDRGRPHY/Vanilla-Mudslide-97254.html				pending

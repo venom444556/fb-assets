@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-friday	Friday		unisex		https://www.fragrantica.com/perfume/Arielle-Shoshana/Friday-71778.html				pending
-monday	Monday		female		https://www.fragrantica.com/perfume/Arielle-Shoshana/Monday-84532.html				pending
-saturday	Saturday		female		https://www.fragrantica.com/perfume/Arielle-Shoshana/Saturday-45689.html				pending
-sunday	Sunday		female		https://www.fragrantica.com/perfume/Arielle-Shoshana/Sunday-54746.html				pending
-tuesday	Tuesday		unisex		https://www.fragrantica.com/perfume/Arielle-Shoshana/Tuesday-99506.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+friday	Friday		unisex	https://www.fragrantica.com/perfume/Arielle-Shoshana/Friday-71778.html				pending
+monday	Monday		female	https://www.fragrantica.com/perfume/Arielle-Shoshana/Monday-84532.html				pending
+saturday	Saturday		female	https://www.fragrantica.com/perfume/Arielle-Shoshana/Saturday-45689.html				pending
+sunday	Sunday		female	https://www.fragrantica.com/perfume/Arielle-Shoshana/Sunday-54746.html				pending
+tuesday	Tuesday		unisex	https://www.fragrantica.com/perfume/Arielle-Shoshana/Tuesday-99506.html				pending

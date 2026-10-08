@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-beton-brut	Beton Brut		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/Beton-Brut-62700.html				pending
-bohemian-woods	Bohemian Woods		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/Bohemian-Woods-51622.html				pending
-voodoo-flowers	Voodoo Flowers		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/Voodoo-Flowers-63220.html				pending
-april-skies	April Skies		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/April-Skies-73026.html				pending
-closer	Closer		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/Closer-46632.html				pending
-lightfalls	Lightfalls		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/Lightfalls-69436.html				pending
-marble-sea	Marble Sea		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/Marble-Sea-51621.html				pending
-moon-sigh	Moon Sigh		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/Moon-Sigh-69435.html				pending
-saint	Saint		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/Saint-46635.html				pending
-the-eternal	The Eternal		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/The-Eternal-46631.html				pending
-white-light	White Light		unisex		https://www.fragrantica.com/perfume/Atelier-Oblique/White-Light-46634.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+april-skies	April Skies		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/April-Skies-73026.html				pending
+beton-brut	Beton Brut		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/Beton-Brut-62700.html				pending
+bohemian-woods	Bohemian Woods		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/Bohemian-Woods-51622.html				pending
+closer	Closer		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/Closer-46632.html				pending
+lightfalls	Lightfalls		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/Lightfalls-69436.html				pending
+marble-sea	Marble Sea		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/Marble-Sea-51621.html				pending
+moon-sigh	Moon Sigh		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/Moon-Sigh-69435.html				pending
+saint	Saint		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/Saint-46635.html				pending
+the-eternal	The Eternal		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/The-Eternal-46631.html				pending
+voodoo-flowers	Voodoo Flowers		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/Voodoo-Flowers-63220.html				pending
+white-light	White Light		unisex	https://www.fragrantica.com/perfume/Atelier-Oblique/White-Light-46634.html				pending

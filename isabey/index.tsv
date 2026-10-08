@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-avant-et-apres	Avant et Apres		female		https://www.fragrantica.com/perfume/Isabey/Avant-et-Apres-74681.html				pending
-isabey-fleur-nocturne	Isabey Fleur Nocturne		female		https://www.fragrantica.com/perfume/Isabey/Isabey-Fleur-Nocturne-7616.html				pending
-isabey-gardenia	Isabey Gardenia		female		https://www.fragrantica.com/perfume/Isabey/Isabey-Gardenia-2257.html				pending
-isabey-lambre-de-carthage	Isabey L'ambre de Carthage		male		https://www.fragrantica.com/perfume/Isabey/Isabey-L-ambre-de-Carthage-14012.html				pending
-isabey-la-route-demeraude	Isabey La Route d'Emeraude		female		https://www.fragrantica.com/perfume/Isabey/Isabey-La-Route-d-Emeraude-17170.html				pending
-isabey-lys-noir	Isabey Lys Noir		female		https://www.fragrantica.com/perfume/Isabey/Isabey-Lys-Noir-28477.html				pending
-isabey-perle-de-gardenia	Isabey Perle de Gardenia		female		https://www.fragrantica.com/perfume/Isabey/Isabey-Perle-de-Gardenia-29272.html				pending
-isabey-perle-de-la-route-demeraude	Isabey Perle de la Route d'Emeraude		female		https://www.fragrantica.com/perfume/Isabey/Isabey-Perle-de-la-Route-d-Emeraude-29273.html				pending
-prends-moi-take-me	Prends-Moi (Take Me)		female		https://www.fragrantica.com/perfume/Isabey/Prends-Moi-Take-Me-57360.html				pending
-rue-de-la-paix	Rue De La Paix		female		https://www.fragrantica.com/perfume/Isabey/Rue-De-La-Paix-90769.html				pending
-sir-gallahad	Sir Gallahad		male		https://www.fragrantica.com/perfume/Isabey/Sir-Gallahad-44225.html				pending
-tendre-nuit	Tendre Nuit		female		https://www.fragrantica.com/perfume/Isabey/Tendre-Nuit-49430.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+avant-et-apres	Avant et Apres		female	https://www.fragrantica.com/perfume/Isabey/Avant-et-Apres-74681.html				pending
+isabey-fleur-nocturne	Isabey Fleur Nocturne		female	https://www.fragrantica.com/perfume/Isabey/Isabey-Fleur-Nocturne-7616.html				pending
+isabey-gardenia	Isabey Gardenia		female	https://www.fragrantica.com/perfume/Isabey/Isabey-Gardenia-2257.html				pending
+isabey-lambre-de-carthage	Isabey L'ambre de Carthage		male	https://www.fragrantica.com/perfume/Isabey/Isabey-L-ambre-de-Carthage-14012.html				pending
+isabey-la-route-demeraude	Isabey La Route d'Emeraude		female	https://www.fragrantica.com/perfume/Isabey/Isabey-La-Route-d-Emeraude-17170.html				pending
+isabey-lys-noir	Isabey Lys Noir		female	https://www.fragrantica.com/perfume/Isabey/Isabey-Lys-Noir-28477.html				pending
+isabey-perle-de-gardenia	Isabey Perle de Gardenia		female	https://www.fragrantica.com/perfume/Isabey/Isabey-Perle-de-Gardenia-29272.html				pending
+isabey-perle-de-la-route-demeraude	Isabey Perle de la Route d'Emeraude		female	https://www.fragrantica.com/perfume/Isabey/Isabey-Perle-de-la-Route-d-Emeraude-29273.html				pending
+prends-moi-take-me	Prends-Moi (Take Me)		female	https://www.fragrantica.com/perfume/Isabey/Prends-Moi-Take-Me-57360.html				pending
+rue-de-la-paix	Rue De La Paix		female	https://www.fragrantica.com/perfume/Isabey/Rue-De-La-Paix-90769.html				pending
+sir-gallahad	Sir Gallahad		male	https://www.fragrantica.com/perfume/Isabey/Sir-Gallahad-44225.html				pending
+tendre-nuit	Tendre Nuit		female	https://www.fragrantica.com/perfume/Isabey/Tendre-Nuit-49430.html				pending

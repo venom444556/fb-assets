@@ -1,36 +1,36 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ahlami	Ahlami		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Ahlami-41440.html				pending
-al-jamal-al-aswad	Al Jamal Al Aswad		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Al-Jamal-Al-Aswad-23158.html				pending
-al-walan	Al Walan		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Al-Walan-23159.html				pending
-amirati	Amirati		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Amirati-23160.html				pending
-asayel	Asayel		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Asayel-23161.html				pending
-ashab-al-sada	Ashab Al Sada		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Ashab-Al-Sada-23162.html				pending
-ashiq-walahan	Ashiq Walahan		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Ashiq-Walahan-23163.html				pending
-ashraqah-sabah	Ashraqah Sabah		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Ashraqah-Sabah-23164.html				pending
-bint-al-noor	Bint Al Noor		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Bint-Al-Noor-23165.html				pending
-budoor	Budoor		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Budoor-23166.html				pending
-ehsas-al-hub	Ehsas Al Hub		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Ehsas-Al-Hub-23167.html				pending
-farsan-najd	Farsan Najd		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Farsan-Najd-23168.html				pending
-gadeer	Gadeer		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Gadeer-23169.html				pending
-hams-al-habib	Hams Al Habib		male		https://www.fragrantica.com/perfume/Sarahs-Creations/Hams-Al-Habib-23170.html				pending
-hamsat-al-layl	Hamsat Al Layl		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Hamsat-Al-Layl-23171.html				pending
-honey-moon-shar-al-asl	Honey Moon (Shar Al Asl)		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Honey-Moon-Shar-Al-Asl-23172.html				pending
-jalsa-safa	Jalsa Safa		male		https://www.fragrantica.com/perfume/Sarahs-Creations/Jalsa-Safa-23173.html				pending
-laheeb-al-shouq	Laheeb Al Shouq		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Laheeb-Al-Shouq-23174.html				pending
-lailatul-hub	Lailatul Hub		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Lailatul-Hub-23175.html				pending
-leqa-al-ahibba	Leqa Al Ahibba		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Leqa-Al-Ahibba-23176.html				pending
-mawaeed	Mawaeed		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Mawaeed-23177.html				pending
-mukhallat-mullok	Mukhallat Mullok		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Mukhallat-Mullok-23719.html				pending
-mushtaq	Mushtaq		male		https://www.fragrantica.com/perfume/Sarahs-Creations/Mushtaq-23178.html				pending
-noor-al-sabah	Noor Al Sabah		male		https://www.fragrantica.com/perfume/Sarahs-Creations/Noor-Al-Sabah-23179.html				pending
-oud-aseeel	Oud Aseeel		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Oud-Aseeel-23180.html				pending
-raheeb	Raheeb		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Raheeb-23181.html				pending
-raihana	Raihana		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Raihana-23182.html				pending
-rooh-dubai	Rooh Dubai		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Rooh-Dubai-23183.html				pending
-safa-al-rooh	Safa Al Rooh		male		https://www.fragrantica.com/perfume/Sarahs-Creations/Safa-Al-Rooh-23184.html				pending
-sams-al-khaleej	Sams Al Khaleej		male		https://www.fragrantica.com/perfume/Sarahs-Creations/Sams-Al-Khaleej-23185.html				pending
-sultan-al-arab	Sultan Al Arab		male		https://www.fragrantica.com/perfume/Sarahs-Creations/Sultan-Al-Arab-23186.html				pending
-toyour-al-jannah	Toyour Al Jannah		male		https://www.fragrantica.com/perfume/Sarahs-Creations/Toyour-Al-Jannah-23187.html				pending
-youn-al-emarat	Youn Al Emarat		unisex		https://www.fragrantica.com/perfume/Sarahs-Creations/Youn-Al-Emarat-23189.html				pending
-youn-kuhaila	Youn Kuhaila		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Youn-Kuhaila-23188.html				pending
-zuhur-al-madayen	Zuhur Al Madayen		female		https://www.fragrantica.com/perfume/Sarahs-Creations/Zuhur-Al-Madayen-23190.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ahlami	Ahlami		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Ahlami-41440.html				pending
+al-jamal-al-aswad	Al Jamal Al Aswad		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Al-Jamal-Al-Aswad-23158.html				pending
+al-walan	Al Walan		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Al-Walan-23159.html				pending
+amirati	Amirati		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Amirati-23160.html				pending
+asayel	Asayel		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Asayel-23161.html				pending
+ashab-al-sada	Ashab Al Sada		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Ashab-Al-Sada-23162.html				pending
+ashiq-walahan	Ashiq Walahan		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Ashiq-Walahan-23163.html				pending
+ashraqah-sabah	Ashraqah Sabah		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Ashraqah-Sabah-23164.html				pending
+bint-al-noor	Bint Al Noor		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Bint-Al-Noor-23165.html				pending
+budoor	Budoor		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Budoor-23166.html				pending
+ehsas-al-hub	Ehsas Al Hub		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Ehsas-Al-Hub-23167.html				pending
+farsan-najd	Farsan Najd		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Farsan-Najd-23168.html				pending
+gadeer	Gadeer		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Gadeer-23169.html				pending
+hams-al-habib	Hams Al Habib		male	https://www.fragrantica.com/perfume/Sarahs-Creations/Hams-Al-Habib-23170.html				pending
+hamsat-al-layl	Hamsat Al Layl		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Hamsat-Al-Layl-23171.html				pending
+honey-moon-shar-al-asl	Honey Moon (Shar Al Asl)		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Honey-Moon-Shar-Al-Asl-23172.html				pending
+jalsa-safa	Jalsa Safa		male	https://www.fragrantica.com/perfume/Sarahs-Creations/Jalsa-Safa-23173.html				pending
+laheeb-al-shouq	Laheeb Al Shouq		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Laheeb-Al-Shouq-23174.html				pending
+lailatul-hub	Lailatul Hub		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Lailatul-Hub-23175.html				pending
+leqa-al-ahibba	Leqa Al Ahibba		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Leqa-Al-Ahibba-23176.html				pending
+mawaeed	Mawaeed		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Mawaeed-23177.html				pending
+mukhallat-mullok	Mukhallat Mullok		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Mukhallat-Mullok-23719.html				pending
+mushtaq	Mushtaq		male	https://www.fragrantica.com/perfume/Sarahs-Creations/Mushtaq-23178.html				pending
+noor-al-sabah	Noor Al Sabah		male	https://www.fragrantica.com/perfume/Sarahs-Creations/Noor-Al-Sabah-23179.html				pending
+oud-aseeel	Oud Aseeel		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Oud-Aseeel-23180.html				pending
+raheeb	Raheeb		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Raheeb-23181.html				pending
+raihana	Raihana		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Raihana-23182.html				pending
+rooh-dubai	Rooh Dubai		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Rooh-Dubai-23183.html				pending
+safa-al-rooh	Safa Al Rooh		male	https://www.fragrantica.com/perfume/Sarahs-Creations/Safa-Al-Rooh-23184.html				pending
+sams-al-khaleej	Sams Al Khaleej		male	https://www.fragrantica.com/perfume/Sarahs-Creations/Sams-Al-Khaleej-23185.html				pending
+sultan-al-arab	Sultan Al Arab		male	https://www.fragrantica.com/perfume/Sarahs-Creations/Sultan-Al-Arab-23186.html				pending
+toyour-al-jannah	Toyour Al Jannah		male	https://www.fragrantica.com/perfume/Sarahs-Creations/Toyour-Al-Jannah-23187.html				pending
+youn-al-emarat	Youn Al Emarat		unisex	https://www.fragrantica.com/perfume/Sarahs-Creations/Youn-Al-Emarat-23189.html				pending
+youn-kuhaila	Youn Kuhaila		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Youn-Kuhaila-23188.html				pending
+zuhur-al-madayen	Zuhur Al Madayen		female	https://www.fragrantica.com/perfume/Sarahs-Creations/Zuhur-Al-Madayen-23190.html				pending

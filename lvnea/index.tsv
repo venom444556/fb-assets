@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ghost-pine	Ghost Pine		unisex		https://www.fragrantica.com/perfume/Lvnea/Ghost-Pine-52455.html				pending
-la-foret-dormante	La Forêt Dormante		unisex		https://www.fragrantica.com/perfume/Lvnea/La-Foret-Dormante-42882.html				pending
-black-sea	Black Sea		unisex		https://www.fragrantica.com/perfume/Lvnea/Black-Sea-52457.html				pending
-bois-de-lobscurite	Bois de l'Obscurité		unisex		https://www.fragrantica.com/perfume/Lvnea/Bois-de-l-Obscurite-42884.html				pending
-cuir-fetiche	Cuir Fetiche		unisex		https://www.fragrantica.com/perfume/Lvnea/Cuir-Fetiche-52458.html				pending
-dagger-moon	Dagger Moon		unisex		https://www.fragrantica.com/perfume/Lvnea/Dagger-Moon-52459.html				pending
-eau-de-floride	Eau de Floride		unisex		https://www.fragrantica.com/perfume/Lvnea/Eau-de-Floride-65122.html				pending
-eau-de-la-reine	Eau de la Reine		unisex		https://www.fragrantica.com/perfume/Lvnea/Eau-de-la-Reine-65123.html				pending
-eau-du-diable	Eau du Diable		unisex		https://www.fragrantica.com/perfume/Lvnea/Eau-du-Diable-52456.html				pending
-fern-and-moss	Fern and Moss		unisex		https://www.fragrantica.com/perfume/Lvnea/Fern-and-Moss-52460.html				pending
-feu-follet	Feu Follet		unisex		https://www.fragrantica.com/perfume/Lvnea/Feu-Follet-65121.html				pending
-frost-flowers	Frost Flowers		unisex		https://www.fragrantica.com/perfume/Lvnea/Frost-Flowers-52461.html				pending
-ghost-pine-52462	Ghost Pine		unisex		https://www.fragrantica.com/perfume/Lvnea/Ghost-Pine-52462.html				pending
-lalchimie	L'Alchimie		unisex		https://www.fragrantica.com/perfume/Lvnea/L-Alchimie-52464.html				pending
-letranger	L'Étranger		unisex		https://www.fragrantica.com/perfume/Lvnea/L-Etranger-52465.html				pending
-la-serpentine	La Serpentine		unisex		https://www.fragrantica.com/perfume/Lvnea/La-Serpentine-65120.html				pending
-les-lunatiques	Les Lunatiques		unisex		https://www.fragrantica.com/perfume/Lvnea/Les-Lunatiques-65118.html				pending
-lumen-naturae	Lumen Naturae		unisex		https://www.fragrantica.com/perfume/Lvnea/Lumen-Naturae-52466.html				pending
-morning-ritual	Morning Ritual		unisex		https://www.fragrantica.com/perfume/Lvnea/Morning-Ritual-52467.html				pending
-nuit-desert	Nuit Désert		unisex		https://www.fragrantica.com/perfume/Lvnea/Nuit-Desert-52468.html				pending
-papillon-de-nuit	Papillon de Nuit		unisex		https://www.fragrantica.com/perfume/Lvnea/Papillon-de-Nuit-52469.html				pending
-peche-obscene	PÊCHE OBSCÈNE		unisex		https://www.fragrantica.com/perfume/Lvnea/PECHE-OBSCENE-82694.html				pending
-rose-fantome	Rose Fantôme		unisex		https://www.fragrantica.com/perfume/Lvnea/Rose-Fantome-65119.html				pending
-saffron-rouge	Saffron Rouge		unisex		https://www.fragrantica.com/perfume/Lvnea/Saffron-Rouge-52470.html				pending
-spirituum	Spirituum		unisex		https://www.fragrantica.com/perfume/Lvnea/Spirituum-52471.html				pending
-tasseomancy	Tasseomancy		unisex		https://www.fragrantica.com/perfume/Lvnea/Tasseomancy-52472.html				pending
-terres-detoiles	Terres d'Étoiles		unisex		https://www.fragrantica.com/perfume/Lvnea/Terres-d-Etoiles-42883.html				pending
-violet-woods	Violet Woods		unisex		https://www.fragrantica.com/perfume/Lvnea/Violet-Woods-52473.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-sea	Black Sea		unisex	https://www.fragrantica.com/perfume/Lvnea/Black-Sea-52457.html				pending
+bois-de-lobscurite	Bois de l'Obscurité		unisex	https://www.fragrantica.com/perfume/Lvnea/Bois-de-l-Obscurite-42884.html				pending
+cuir-fetiche	Cuir Fetiche		unisex	https://www.fragrantica.com/perfume/Lvnea/Cuir-Fetiche-52458.html				pending
+dagger-moon	Dagger Moon		unisex	https://www.fragrantica.com/perfume/Lvnea/Dagger-Moon-52459.html				pending
+eau-de-floride	Eau de Floride		unisex	https://www.fragrantica.com/perfume/Lvnea/Eau-de-Floride-65122.html				pending
+eau-de-la-reine	Eau de la Reine		unisex	https://www.fragrantica.com/perfume/Lvnea/Eau-de-la-Reine-65123.html				pending
+eau-du-diable	Eau du Diable		unisex	https://www.fragrantica.com/perfume/Lvnea/Eau-du-Diable-52456.html				pending
+fern-and-moss	Fern and Moss		unisex	https://www.fragrantica.com/perfume/Lvnea/Fern-and-Moss-52460.html				pending
+feu-follet	Feu Follet		unisex	https://www.fragrantica.com/perfume/Lvnea/Feu-Follet-65121.html				pending
+frost-flowers	Frost Flowers		unisex	https://www.fragrantica.com/perfume/Lvnea/Frost-Flowers-52461.html				pending
+ghost-pine	Ghost Pine		unisex	https://www.fragrantica.com/perfume/Lvnea/Ghost-Pine-52455.html				pending
+ghost-pine-52462	Ghost Pine		unisex	https://www.fragrantica.com/perfume/Lvnea/Ghost-Pine-52462.html				pending
+lalchimie	L'Alchimie		unisex	https://www.fragrantica.com/perfume/Lvnea/L-Alchimie-52464.html				pending
+letranger	L'Étranger		unisex	https://www.fragrantica.com/perfume/Lvnea/L-Etranger-52465.html				pending
+la-foret-dormante	La Forêt Dormante		unisex	https://www.fragrantica.com/perfume/Lvnea/La-Foret-Dormante-42882.html				pending
+la-serpentine	La Serpentine		unisex	https://www.fragrantica.com/perfume/Lvnea/La-Serpentine-65120.html				pending
+les-lunatiques	Les Lunatiques		unisex	https://www.fragrantica.com/perfume/Lvnea/Les-Lunatiques-65118.html				pending
+lumen-naturae	Lumen Naturae		unisex	https://www.fragrantica.com/perfume/Lvnea/Lumen-Naturae-52466.html				pending
+morning-ritual	Morning Ritual		unisex	https://www.fragrantica.com/perfume/Lvnea/Morning-Ritual-52467.html				pending
+nuit-desert	Nuit Désert		unisex	https://www.fragrantica.com/perfume/Lvnea/Nuit-Desert-52468.html				pending
+papillon-de-nuit	Papillon de Nuit		unisex	https://www.fragrantica.com/perfume/Lvnea/Papillon-de-Nuit-52469.html				pending
+peche-obscene	PÊCHE OBSCÈNE		unisex	https://www.fragrantica.com/perfume/Lvnea/PECHE-OBSCENE-82694.html				pending
+rose-fantome	Rose Fantôme		unisex	https://www.fragrantica.com/perfume/Lvnea/Rose-Fantome-65119.html				pending
+saffron-rouge	Saffron Rouge		unisex	https://www.fragrantica.com/perfume/Lvnea/Saffron-Rouge-52470.html				pending
+spirituum	Spirituum		unisex	https://www.fragrantica.com/perfume/Lvnea/Spirituum-52471.html				pending
+tasseomancy	Tasseomancy		unisex	https://www.fragrantica.com/perfume/Lvnea/Tasseomancy-52472.html				pending
+terres-detoiles	Terres d'Étoiles		unisex	https://www.fragrantica.com/perfume/Lvnea/Terres-d-Etoiles-42883.html				pending
+violet-woods	Violet Woods		unisex	https://www.fragrantica.com/perfume/Lvnea/Violet-Woods-52473.html				pending

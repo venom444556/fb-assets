@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-afgano	Black Afgano		male		https://www.fragrantica.com/perfume/Atrin-Star/Black-Afgano-42196.html				pending
-granite	Granite		unisex		https://www.fragrantica.com/perfume/Atrin-Star/Granite-42203.html				pending
-granite-absolute	Granite Absolute		unisex		https://www.fragrantica.com/perfume/Atrin-Star/Granite-Absolute-50871.html				pending
-impressionism	Impressionism		unisex		https://www.fragrantica.com/perfume/Atrin-Star/Impressionism-42205.html				pending
-realism	Realism		unisex		https://www.fragrantica.com/perfume/Atrin-Star/Realism-42206.html				pending
-surrealism	Surrealism		unisex		https://www.fragrantica.com/perfume/Atrin-Star/Surrealism-42207.html				pending
-vip-collection-no-1	VIP Collection No. 1		unisex		https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-1-42208.html				pending
-vip-collection-no-1-new-edition	VIP Collection No. 1 New Edition		female		https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-1-New-Edition-42264.html				pending
-vip-collection-no-2	VIP Collection No. 2		unisex		https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-2-42209.html				pending
-vip-collection-no-2-new-edition	VIP Collection No. 2 New Edition		female		https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-2-New-Edition-42265.html				pending
-vip-collection-no-3	VIP Collection No. 3		unisex		https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-3-42261.html				pending
-vip-collection-no-4	VIP Collection No. 4		unisex		https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-4-42262.html				pending
-vip-collection-no-5	VIP Collection No. 5		unisex		https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-5-42263.html				pending
-vip-collection-special-edition	VIP Collection Special Edition		unisex		https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-Special-Edition-42266.html				pending
-white-afgano	White Afgano		unisex		https://www.fragrantica.com/perfume/Atrin-Star/White-Afgano-42201.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-afgano	Black Afgano		male	https://www.fragrantica.com/perfume/Atrin-Star/Black-Afgano-42196.html				pending
+granite	Granite		unisex	https://www.fragrantica.com/perfume/Atrin-Star/Granite-42203.html				pending
+granite-absolute	Granite Absolute		unisex	https://www.fragrantica.com/perfume/Atrin-Star/Granite-Absolute-50871.html				pending
+impressionism	Impressionism		unisex	https://www.fragrantica.com/perfume/Atrin-Star/Impressionism-42205.html				pending
+realism	Realism		unisex	https://www.fragrantica.com/perfume/Atrin-Star/Realism-42206.html				pending
+surrealism	Surrealism		unisex	https://www.fragrantica.com/perfume/Atrin-Star/Surrealism-42207.html				pending
+vip-collection-no-1	VIP Collection No. 1		unisex	https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-1-42208.html				pending
+vip-collection-no-1-new-edition	VIP Collection No. 1 New Edition		female	https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-1-New-Edition-42264.html				pending
+vip-collection-no-2	VIP Collection No. 2		unisex	https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-2-42209.html				pending
+vip-collection-no-2-new-edition	VIP Collection No. 2 New Edition		female	https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-2-New-Edition-42265.html				pending
+vip-collection-no-3	VIP Collection No. 3		unisex	https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-3-42261.html				pending
+vip-collection-no-4	VIP Collection No. 4		unisex	https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-4-42262.html				pending
+vip-collection-no-5	VIP Collection No. 5		unisex	https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-No-5-42263.html				pending
+vip-collection-special-edition	VIP Collection Special Edition		unisex	https://www.fragrantica.com/perfume/Atrin-Star/VIP-Collection-Special-Edition-42266.html				pending
+white-afgano	White Afgano		unisex	https://www.fragrantica.com/perfume/Atrin-Star/White-Afgano-42201.html				pending

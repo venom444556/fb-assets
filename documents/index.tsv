@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-120-excite	120 Excite		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/120-Excite-93766.html				pending
-50-loose	50 Loose		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/50-Loose-93768.html				pending
-eclipse	Eclipse		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Eclipse-93771.html				pending
-feather	Feather		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Feather-93767.html				pending
-lilac	Lilac		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Lilac-93769.html				pending
-mean	Mean		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Mean-93762.html				pending
-naive	Naive		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Naive-93759.html				pending
-off	Off		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Off-93761.html				pending
-sensitive	Sensitive		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Sensitive-93758.html				pending
-shy	Shy		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Shy-91605.html				pending
-snow	Snow		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Snow-93774.html				pending
-stubborn	Stubborn		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Stubborn-93764.html				pending
-think	Think		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Think-93765.html				pending
-thunder	Thunder		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Thunder-93770.html				pending
-void	Void		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Void-93773.html				pending
-wonder	Wonder		unisex		https://www.fragrantica.com/perfume/DOCUMENTS/Wonder-93772.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+120-excite	120 Excite		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/120-Excite-93766.html				pending
+50-loose	50 Loose		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/50-Loose-93768.html				pending
+eclipse	Eclipse		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Eclipse-93771.html				pending
+feather	Feather		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Feather-93767.html				pending
+lilac	Lilac		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Lilac-93769.html				pending
+mean	Mean		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Mean-93762.html				pending
+naive	Naive		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Naive-93759.html				pending
+off	Off		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Off-93761.html				pending
+sensitive	Sensitive		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Sensitive-93758.html				pending
+shy	Shy		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Shy-91605.html				pending
+snow	Snow		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Snow-93774.html				pending
+stubborn	Stubborn		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Stubborn-93764.html				pending
+think	Think		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Think-93765.html				pending
+thunder	Thunder		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Thunder-93770.html				pending
+void	Void		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Void-93773.html				pending
+wonder	Wonder		unisex	https://www.fragrantica.com/perfume/DOCUMENTS/Wonder-93772.html				pending

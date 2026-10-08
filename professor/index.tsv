@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-albore	Albore		unisex		https://www.fragrantica.com/perfume/Professor/Albore-70337.html				pending
-cristallo	Cristallo		unisex		https://www.fragrantica.com/perfume/Professor/Cristallo-70340.html				pending
-deserto	Deserto		unisex		https://www.fragrantica.com/perfume/Professor/Deserto-70335.html				pending
-diamante	Diamante		unisex		https://www.fragrantica.com/perfume/Professor/Diamante-70346.html				pending
-donna	Donna		unisex		https://www.fragrantica.com/perfume/Professor/Donna-70596.html				pending
-effetto	Effetto		unisex		https://www.fragrantica.com/perfume/Professor/Effetto-70593.html				pending
-floreale	Floreale		unisex		https://www.fragrantica.com/perfume/Professor/Floreale-70602.html				pending
-foresta-oud	Foresta Oud		unisex		https://www.fragrantica.com/perfume/Professor/Foresta-Oud-70603.html				pending
-garbo	Garbo		unisex		https://www.fragrantica.com/perfume/Professor/Garbo-70598.html				pending
-infinito-oud	Infinito Oud		unisex		https://www.fragrantica.com/perfume/Professor/Infinito-Oud-70343.html				pending
-ori-oud	Ori Oud		unisex		https://www.fragrantica.com/perfume/Professor/Ori-Oud-70338.html				pending
-patcholi	Patcholi		unisex		https://www.fragrantica.com/perfume/Professor/Patcholi-70601.html				pending
-pelle	Pelle		unisex		https://www.fragrantica.com/perfume/Professor/Pelle-70594.html				pending
-profondo	Profondo		unisex		https://www.fragrantica.com/perfume/Professor/Profondo-70591.html				pending
-quercia	Quercia		unisex		https://www.fragrantica.com/perfume/Professor/Quercia-70600.html				pending
-reale-oud	Reale Oud		unisex		https://www.fragrantica.com/perfume/Professor/Reale-Oud-70342.html				pending
-regina	Regina		unisex		https://www.fragrantica.com/perfume/Professor/Regina-70597.html				pending
-sabbia	Sabbia		unisex		https://www.fragrantica.com/perfume/Professor/Sabbia-70341.html				pending
-sierra	Sierra		unisex		https://www.fragrantica.com/perfume/Professor/Sierra-70595.html				pending
-tono	Tono		unisex		https://www.fragrantica.com/perfume/Professor/Tono-70336.html				pending
-uomo	Uomo		unisex		https://www.fragrantica.com/perfume/Professor/Uomo-70599.html				pending
-zaffiro	Zaffiro		unisex		https://www.fragrantica.com/perfume/Professor/Zaffiro-70339.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+albore	Albore		unisex	https://www.fragrantica.com/perfume/Professor/Albore-70337.html				pending
+cristallo	Cristallo		unisex	https://www.fragrantica.com/perfume/Professor/Cristallo-70340.html				pending
+deserto	Deserto		unisex	https://www.fragrantica.com/perfume/Professor/Deserto-70335.html				pending
+diamante	Diamante		unisex	https://www.fragrantica.com/perfume/Professor/Diamante-70346.html				pending
+donna	Donna		unisex	https://www.fragrantica.com/perfume/Professor/Donna-70596.html				pending
+effetto	Effetto		unisex	https://www.fragrantica.com/perfume/Professor/Effetto-70593.html				pending
+floreale	Floreale		unisex	https://www.fragrantica.com/perfume/Professor/Floreale-70602.html				pending
+foresta-oud	Foresta Oud		unisex	https://www.fragrantica.com/perfume/Professor/Foresta-Oud-70603.html				pending
+garbo	Garbo		unisex	https://www.fragrantica.com/perfume/Professor/Garbo-70598.html				pending
+infinito-oud	Infinito Oud		unisex	https://www.fragrantica.com/perfume/Professor/Infinito-Oud-70343.html				pending
+ori-oud	Ori Oud		unisex	https://www.fragrantica.com/perfume/Professor/Ori-Oud-70338.html				pending
+patcholi	Patcholi		unisex	https://www.fragrantica.com/perfume/Professor/Patcholi-70601.html				pending
+pelle	Pelle		unisex	https://www.fragrantica.com/perfume/Professor/Pelle-70594.html				pending
+profondo	Profondo		unisex	https://www.fragrantica.com/perfume/Professor/Profondo-70591.html				pending
+quercia	Quercia		unisex	https://www.fragrantica.com/perfume/Professor/Quercia-70600.html				pending
+reale-oud	Reale Oud		unisex	https://www.fragrantica.com/perfume/Professor/Reale-Oud-70342.html				pending
+regina	Regina		unisex	https://www.fragrantica.com/perfume/Professor/Regina-70597.html				pending
+sabbia	Sabbia		unisex	https://www.fragrantica.com/perfume/Professor/Sabbia-70341.html				pending
+sierra	Sierra		unisex	https://www.fragrantica.com/perfume/Professor/Sierra-70595.html				pending
+tono	Tono		unisex	https://www.fragrantica.com/perfume/Professor/Tono-70336.html				pending
+uomo	Uomo		unisex	https://www.fragrantica.com/perfume/Professor/Uomo-70599.html				pending
+zaffiro	Zaffiro		unisex	https://www.fragrantica.com/perfume/Professor/Zaffiro-70339.html				pending

@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aristocrat	Aristocrat		male		https://www.fragrantica.com/perfume/Lia-Ruy/Aristocrat-58707.html				pending
-beauty	Beauty		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/Beauty-80119.html				pending
-femme	Femme		female		https://www.fragrantica.com/perfume/Lia-Ruy/Femme-57497.html				pending
-homme	Homme		male		https://www.fragrantica.com/perfume/Lia-Ruy/Homme-57498.html				pending
-lady	Lady		female		https://www.fragrantica.com/perfume/Lia-Ruy/Lady-58708.html				pending
-life	Life		female		https://www.fragrantica.com/perfume/Lia-Ruy/Life-58706.html				pending
-light	Light		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/Light-67068.html				pending
-love	Love		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/Love-73754.html				pending
-megapolis	Megapolis		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/Megapolis-57500.html				pending
-new-years-eve	New Year's Eve		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/New-Year-s-Eve-80117.html				pending
-new-years-eve-shine	New Year's Eve Shine		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/New-Year-s-Eve-Shine-80118.html				pending
-pure	Pure		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/Pure-80120.html				pending
-soul	Soul		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/Soul-67066.html				pending
-time	Time		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/Time-67067.html				pending
-unisex	Unisex		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/Unisex-57499.html				pending
-world	World		unisex		https://www.fragrantica.com/perfume/Lia-Ruy/World-67065.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aristocrat	Aristocrat		male	https://www.fragrantica.com/perfume/Lia-Ruy/Aristocrat-58707.html				pending
+beauty	Beauty		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/Beauty-80119.html				pending
+femme	Femme		female	https://www.fragrantica.com/perfume/Lia-Ruy/Femme-57497.html				pending
+homme	Homme		male	https://www.fragrantica.com/perfume/Lia-Ruy/Homme-57498.html				pending
+lady	Lady		female	https://www.fragrantica.com/perfume/Lia-Ruy/Lady-58708.html				pending
+life	Life		female	https://www.fragrantica.com/perfume/Lia-Ruy/Life-58706.html				pending
+light	Light		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/Light-67068.html				pending
+love	Love		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/Love-73754.html				pending
+megapolis	Megapolis		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/Megapolis-57500.html				pending
+new-years-eve	New Year's Eve		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/New-Year-s-Eve-80117.html				pending
+new-years-eve-shine	New Year's Eve Shine		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/New-Year-s-Eve-Shine-80118.html				pending
+pure	Pure		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/Pure-80120.html				pending
+soul	Soul		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/Soul-67066.html				pending
+time	Time		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/Time-67067.html				pending
+unisex	Unisex		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/Unisex-57499.html				pending
+world	World		unisex	https://www.fragrantica.com/perfume/Lia-Ruy/World-67065.html				pending

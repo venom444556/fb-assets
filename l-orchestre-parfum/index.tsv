@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-cello	Ambre Cello		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Ambre-Cello-67694.html				pending
-bouquet-encore	Bouquet Encore		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Bouquet-Encore-62136.html				pending
-bouquet-encore-latte	Bouquet Encore Latte		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Bouquet-Encore-Latte-114119.html				pending
-cocktail-appalaches	Cocktail Appalaches		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Cocktail-Appalaches-100611.html				pending
-cuir-kora	Cuir Kora		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Cuir-Kora-47785.html				pending
-electro-limonade	Electro Limonade		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Electro-Limonade-62134.html				pending
-encens-asakusa	Encens Asakusa		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Encens-Asakusa-47784.html				pending
-flamenco-neroli	Flamenco Néroli		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Flamenco-Neroli-47783.html				pending
-liquor-bpm	Liquor BPM		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Liquor-BPM-82034.html				pending
-mono-cachemire	Mono Cachemire		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Mono-Cachemire-90484.html				pending
-piano-santal	Piano Santal		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Piano-Santal-57336.html				pending
-rose-trombone	Rose Trombone		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Rose-Trombone-47782.html				pending
-the-darbouka	Thé Darbouka		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/The-Darbouka-47786.html				pending
-vetiver-overdrive	Vétiver Overdrive		unisex		https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Vetiver-Overdrive-73587.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-cello	Ambre Cello		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Ambre-Cello-67694.html				pending
+bouquet-encore	Bouquet Encore		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Bouquet-Encore-62136.html				pending
+bouquet-encore-latte	Bouquet Encore Latte		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Bouquet-Encore-Latte-114119.html				pending
+cocktail-appalaches	Cocktail Appalaches		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Cocktail-Appalaches-100611.html				pending
+cuir-kora	Cuir Kora		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Cuir-Kora-47785.html				pending
+electro-limonade	Electro Limonade		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Electro-Limonade-62134.html				pending
+encens-asakusa	Encens Asakusa		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Encens-Asakusa-47784.html				pending
+flamenco-neroli	Flamenco Néroli		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Flamenco-Neroli-47783.html				pending
+liquor-bpm	Liquor BPM		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Liquor-BPM-82034.html				pending
+mono-cachemire	Mono Cachemire		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Mono-Cachemire-90484.html				pending
+piano-santal	Piano Santal		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Piano-Santal-57336.html				pending
+rose-trombone	Rose Trombone		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Rose-Trombone-47782.html				pending
+the-darbouka	Thé Darbouka		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/The-Darbouka-47786.html				pending
+vetiver-overdrive	Vétiver Overdrive		unisex	https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Vetiver-Overdrive-73587.html				pending

@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-constellation	Constellation		female		https://www.fragrantica.com/perfume/Paloma-Picasso/Constellation-13207.html				pending
-minotaure	Minotaure		male		https://www.fragrantica.com/perfume/Paloma-Picasso/Minotaure-1695.html				pending
-mon-parfum	Mon Parfum		female		https://www.fragrantica.com/perfume/Paloma-Picasso/Mon-Parfum-6044.html				pending
-paloma-picasso	Paloma Picasso		female		https://www.fragrantica.com/perfume/Paloma-Picasso/Paloma-Picasso-1009.html				pending
-paloma-picasso-eau-de-toilette	Paloma Picasso Eau de Toilette		female		https://www.fragrantica.com/perfume/Paloma-Picasso/Paloma-Picasso-Eau-de-Toilette-29033.html				pending
-tentations	Tentations		female		https://www.fragrantica.com/perfume/Paloma-Picasso/Tentations-2960.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+constellation	Constellation		female	https://www.fragrantica.com/perfume/Paloma-Picasso/Constellation-13207.html				pending
+minotaure	Minotaure		male	https://www.fragrantica.com/perfume/Paloma-Picasso/Minotaure-1695.html				pending
+mon-parfum	Mon Parfum		female	https://www.fragrantica.com/perfume/Paloma-Picasso/Mon-Parfum-6044.html				pending
+paloma-picasso	Paloma Picasso		female	https://www.fragrantica.com/perfume/Paloma-Picasso/Paloma-Picasso-1009.html				pending
+paloma-picasso-eau-de-toilette	Paloma Picasso Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Paloma-Picasso/Paloma-Picasso-Eau-de-Toilette-29033.html				pending
+tentations	Tentations		female	https://www.fragrantica.com/perfume/Paloma-Picasso/Tentations-2960.html				pending

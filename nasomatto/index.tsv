@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-absinth	Absinth		unisex		https://www.fragrantica.com/perfume/Nasomatto/Absinth-4293.html				pending
-baraonda	Baraonda		unisex		https://www.fragrantica.com/perfume/Nasomatto/Baraonda-40200.html				pending
-black-afgano	Black Afgano		unisex		https://www.fragrantica.com/perfume/Nasomatto/Black-Afgano-6472.html				pending
-blamage	Blamage		unisex		https://www.fragrantica.com/perfume/Nasomatto/Blamage-25575.html				pending
-china-white	China White		female		https://www.fragrantica.com/perfume/Nasomatto/China-White-4290.html				pending
-duro	Duro		male		https://www.fragrantica.com/perfume/Nasomatto/Duro-4291.html				pending
-fantomas	Fantomas		unisex		https://www.fragrantica.com/perfume/Nasomatto/Fantomas-62775.html				pending
-hindu-grass	Hindu Grass		unisex		https://www.fragrantica.com/perfume/Nasomatto/Hindu-Grass-4294.html				pending
-micodelirio	Micodelirio		unisex		https://www.fragrantica.com/perfume/Nasomatto/Micodelirio-133379.html				pending
-narcotic-venus	Narcotic Venus		female		https://www.fragrantica.com/perfume/Nasomatto/Narcotic-Venus-4292.html				pending
-nudiflorum	Nudiflorum		unisex		https://www.fragrantica.com/perfume/Nasomatto/Nudiflorum-49223.html				pending
-pardon	Pardon		male		https://www.fragrantica.com/perfume/Nasomatto/Pardon-12130.html				pending
-sadonaso	Sadonaso		unisex		https://www.fragrantica.com/perfume/Nasomatto/Sadonaso-80076.html				pending
-silver-musk	Silver Musk		unisex		https://www.fragrantica.com/perfume/Nasomatto/Silver-Musk-4295.html				pending
-nuda	Nuda		female		https://www.fragrantica.com/perfume/Nasomatto/Nuda-9319.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+absinth	Absinth		unisex	https://www.fragrantica.com/perfume/Nasomatto/Absinth-4293.html				pending
+baraonda	Baraonda		unisex	https://www.fragrantica.com/perfume/Nasomatto/Baraonda-40200.html				pending
+black-afgano	Black Afgano		unisex	https://www.fragrantica.com/perfume/Nasomatto/Black-Afgano-6472.html				pending
+blamage	Blamage		unisex	https://www.fragrantica.com/perfume/Nasomatto/Blamage-25575.html				pending
+china-white	China White		female	https://www.fragrantica.com/perfume/Nasomatto/China-White-4290.html				pending
+duro	Duro		male	https://www.fragrantica.com/perfume/Nasomatto/Duro-4291.html				pending
+fantomas	Fantomas		unisex	https://www.fragrantica.com/perfume/Nasomatto/Fantomas-62775.html				pending
+hindu-grass	Hindu Grass		unisex	https://www.fragrantica.com/perfume/Nasomatto/Hindu-Grass-4294.html				pending
+micodelirio	Micodelirio		unisex	https://www.fragrantica.com/perfume/Nasomatto/Micodelirio-133379.html				pending
+narcotic-venus	Narcotic Venus		female	https://www.fragrantica.com/perfume/Nasomatto/Narcotic-Venus-4292.html				pending
+nuda	Nuda		female	https://www.fragrantica.com/perfume/Nasomatto/Nuda-9319.html				pending
+nudiflorum	Nudiflorum		unisex	https://www.fragrantica.com/perfume/Nasomatto/Nudiflorum-49223.html				pending
+pardon	Pardon		male	https://www.fragrantica.com/perfume/Nasomatto/Pardon-12130.html				pending
+sadonaso	Sadonaso		unisex	https://www.fragrantica.com/perfume/Nasomatto/Sadonaso-80076.html				pending
+silver-musk	Silver Musk		unisex	https://www.fragrantica.com/perfume/Nasomatto/Silver-Musk-4295.html				pending

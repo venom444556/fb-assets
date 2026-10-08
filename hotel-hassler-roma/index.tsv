@@ -1,2 +1,2 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amorvero	Amorvero		female		https://www.fragrantica.com/perfume/Hotel-Hassler-Roma/Amorvero-13503.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amorvero	Amorvero		female	https://www.fragrantica.com/perfume/Hotel-Hassler-Roma/Amorvero-13503.html				pending

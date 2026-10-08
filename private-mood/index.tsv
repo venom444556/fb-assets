@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-berrylicious	Berrylicious		unisex		https://www.fragrantica.com/perfume/Private-Mood/Berrylicious-74211.html				pending
-cotton-candy	Cotton Candy		unisex		https://www.fragrantica.com/perfume/Private-Mood/Cotton-Candy-74210.html				pending
-so-vanilla	So Vanilla		unisex		https://www.fragrantica.com/perfume/Private-Mood/So-Vanilla-74213.html				pending
-vanille-et-cognac	Vanille Et Cognac		unisex		https://www.fragrantica.com/perfume/Private-Mood/Vanille-Et-Cognac-74212.html				pending
-velvet-coco	Velvet Coco		unisex		https://www.fragrantica.com/perfume/Private-Mood/Velvet-Coco-84613.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+berrylicious	Berrylicious		unisex	https://www.fragrantica.com/perfume/Private-Mood/Berrylicious-74211.html				pending
+cotton-candy	Cotton Candy		unisex	https://www.fragrantica.com/perfume/Private-Mood/Cotton-Candy-74210.html				pending
+so-vanilla	So Vanilla		unisex	https://www.fragrantica.com/perfume/Private-Mood/So-Vanilla-74213.html				pending
+vanille-et-cognac	Vanille Et Cognac		unisex	https://www.fragrantica.com/perfume/Private-Mood/Vanille-Et-Cognac-74212.html				pending
+velvet-coco	Velvet Coco		unisex	https://www.fragrantica.com/perfume/Private-Mood/Velvet-Coco-84613.html				pending

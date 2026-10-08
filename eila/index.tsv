@@ -1,34 +1,34 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber	Amber		unisex		https://www.fragrantica.com/perfume/Eila/Amber-78308.html				pending
-aqua-bouquet	Aqua Bouquet		unisex		https://www.fragrantica.com/perfume/Eila/Aqua-Bouquet-81248.html				pending
-be-you	Be You		unisex		https://www.fragrantica.com/perfume/Eila/Be-You-78309.html				pending
-bettina	Bettina		unisex		https://www.fragrantica.com/perfume/Eila/Bettina-78296.html				pending
-cashmere-and-silk	Cashmere & Silk		unisex		https://www.fragrantica.com/perfume/Eila/Cashmere-Silk-81288.html				pending
-dark-oud	Dark Oud		unisex		https://www.fragrantica.com/perfume/Eila/Dark-Oud-78310.html				pending
-flower-goddess	Flower Goddess		unisex		https://www.fragrantica.com/perfume/Eila/Flower-Goddess-78297.html				pending
-golden-code	Golden Code		unisex		https://www.fragrantica.com/perfume/Eila/Golden-Code-78311.html				pending
-golden-rule	Golden Rule		unisex		https://www.fragrantica.com/perfume/Eila/Golden-Rule-88356.html				pending
-grande-finale	Grande Finale		unisex		https://www.fragrantica.com/perfume/Eila/Grande-Finale-88359.html				pending
-hidden-notes	Hidden Notes		unisex		https://www.fragrantica.com/perfume/Eila/Hidden-Notes-88360.html				pending
-invisible-musk	Invisible Musk		unisex		https://www.fragrantica.com/perfume/Eila/Invisible-Musk-78302.html				pending
-leather	Leather		unisex		https://www.fragrantica.com/perfume/Eila/Leather-78312.html				pending
-lemon-cologne	Lemon Cologne		unisex		https://www.fragrantica.com/perfume/Eila/Lemon-Cologne-81289.html				pending
-orange-blossom	Orange Blossom		unisex		https://www.fragrantica.com/perfume/Eila/Orange-Blossom-81311.html				pending
-orient-glow	Orient Glow		unisex		https://www.fragrantica.com/perfume/Eila/Orient-Glow-88357.html				pending
-osmanthus-white	Osmanthus White		unisex		https://www.fragrantica.com/perfume/Eila/Osmanthus-White-78303.html				pending
-overflowing-glory	Overflowing Glory		unisex		https://www.fragrantica.com/perfume/Eila/Overflowing-Glory-88361.html				pending
-paradise	Paradise		unisex		https://www.fragrantica.com/perfume/Eila/Paradise-78298.html				pending
-payidar	Payidar		unisex		https://www.fragrantica.com/perfume/Eila/Payidar-88362.html				pending
-pear-freesia	Pear Freesia		unisex		https://www.fragrantica.com/perfume/Eila/Pear-Freesia-78299.html				pending
-pepper-satin	Pepper Satin		unisex		https://www.fragrantica.com/perfume/Eila/Pepper-Satin-78304.html				pending
-powdery-orris	Powdery Orris		unisex		https://www.fragrantica.com/perfume/Eila/Powdery-Orris-78305.html				pending
-rose-musk	Rose Musk		unisex		https://www.fragrantica.com/perfume/Eila/Rose-Musk-78306.html				pending
-sakura-rice	Sakura Rice		unisex		https://www.fragrantica.com/perfume/Eila/Sakura-Rice-78300.html				pending
-sandalwood	Sandalwood		unisex		https://www.fragrantica.com/perfume/Eila/Sandalwood-78313.html				pending
-spice-up	Spice Up		unisex		https://www.fragrantica.com/perfume/Eila/Spice-Up-78314.html				pending
-stylish-elixir	Stylish Elixir		unisex		https://www.fragrantica.com/perfume/Eila/Stylish-Elixir-88358.html				pending
-velvet-stiletto	Velvet Stiletto		unisex		https://www.fragrantica.com/perfume/Eila/Velvet-Stiletto-78301.html				pending
-vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/Eila/Vetiver-78315.html				pending
-white-jasmine-and-mint	White Jasmine & Mint		unisex		https://www.fragrantica.com/perfume/Eila/White-Jasmine-Mint-81331.html				pending
-white-musk-and-amber	White Musk & Amber		unisex		https://www.fragrantica.com/perfume/Eila/White-Musk-Amber-78307.html				pending
-ylang-ylang-and-sakura	Ylang Ylang & Sakura		unisex		https://www.fragrantica.com/perfume/Eila/Ylang-Ylang-Sakura-81352.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber	Amber		unisex	https://www.fragrantica.com/perfume/Eila/Amber-78308.html				pending
+aqua-bouquet	Aqua Bouquet		unisex	https://www.fragrantica.com/perfume/Eila/Aqua-Bouquet-81248.html				pending
+be-you	Be You		unisex	https://www.fragrantica.com/perfume/Eila/Be-You-78309.html				pending
+bettina	Bettina		unisex	https://www.fragrantica.com/perfume/Eila/Bettina-78296.html				pending
+cashmere-and-silk	Cashmere & Silk		unisex	https://www.fragrantica.com/perfume/Eila/Cashmere-Silk-81288.html				pending
+dark-oud	Dark Oud		unisex	https://www.fragrantica.com/perfume/Eila/Dark-Oud-78310.html				pending
+flower-goddess	Flower Goddess		unisex	https://www.fragrantica.com/perfume/Eila/Flower-Goddess-78297.html				pending
+golden-code	Golden Code		unisex	https://www.fragrantica.com/perfume/Eila/Golden-Code-78311.html				pending
+golden-rule	Golden Rule		unisex	https://www.fragrantica.com/perfume/Eila/Golden-Rule-88356.html				pending
+grande-finale	Grande Finale		unisex	https://www.fragrantica.com/perfume/Eila/Grande-Finale-88359.html				pending
+hidden-notes	Hidden Notes		unisex	https://www.fragrantica.com/perfume/Eila/Hidden-Notes-88360.html				pending
+invisible-musk	Invisible Musk		unisex	https://www.fragrantica.com/perfume/Eila/Invisible-Musk-78302.html				pending
+leather	Leather		unisex	https://www.fragrantica.com/perfume/Eila/Leather-78312.html				pending
+lemon-cologne	Lemon Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Eila/Lemon-Cologne-81289.html				pending
+orange-blossom	Orange Blossom		unisex	https://www.fragrantica.com/perfume/Eila/Orange-Blossom-81311.html				pending
+orient-glow	Orient Glow		unisex	https://www.fragrantica.com/perfume/Eila/Orient-Glow-88357.html				pending
+osmanthus-white	Osmanthus White		unisex	https://www.fragrantica.com/perfume/Eila/Osmanthus-White-78303.html				pending
+overflowing-glory	Overflowing Glory		unisex	https://www.fragrantica.com/perfume/Eila/Overflowing-Glory-88361.html				pending
+paradise	Paradise		unisex	https://www.fragrantica.com/perfume/Eila/Paradise-78298.html				pending
+payidar	Payidar		unisex	https://www.fragrantica.com/perfume/Eila/Payidar-88362.html				pending
+pear-freesia	Pear Freesia		unisex	https://www.fragrantica.com/perfume/Eila/Pear-Freesia-78299.html				pending
+pepper-satin	Pepper Satin		unisex	https://www.fragrantica.com/perfume/Eila/Pepper-Satin-78304.html				pending
+powdery-orris	Powdery Orris		unisex	https://www.fragrantica.com/perfume/Eila/Powdery-Orris-78305.html				pending
+rose-musk	Rose Musk		unisex	https://www.fragrantica.com/perfume/Eila/Rose-Musk-78306.html				pending
+sakura-rice	Sakura Rice		unisex	https://www.fragrantica.com/perfume/Eila/Sakura-Rice-78300.html				pending
+sandalwood	Sandalwood		unisex	https://www.fragrantica.com/perfume/Eila/Sandalwood-78313.html				pending
+spice-up	Spice Up		unisex	https://www.fragrantica.com/perfume/Eila/Spice-Up-78314.html				pending
+stylish-elixir	Stylish Elixir		unisex	https://www.fragrantica.com/perfume/Eila/Stylish-Elixir-88358.html				pending
+velvet-stiletto	Velvet Stiletto		unisex	https://www.fragrantica.com/perfume/Eila/Velvet-Stiletto-78301.html				pending
+vetiver	Vetiver		unisex	https://www.fragrantica.com/perfume/Eila/Vetiver-78315.html				pending
+white-jasmine-and-mint	White Jasmine & Mint		unisex	https://www.fragrantica.com/perfume/Eila/White-Jasmine-Mint-81331.html				pending
+white-musk-and-amber	White Musk & Amber		unisex	https://www.fragrantica.com/perfume/Eila/White-Musk-Amber-78307.html				pending
+ylang-ylang-and-sakura	Ylang Ylang & Sakura		unisex	https://www.fragrantica.com/perfume/Eila/Ylang-Ylang-Sakura-81352.html				pending

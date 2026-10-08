@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-gris	Ambre Gris		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Ambre-Gris-23307.html				pending
-ayako	Ayako		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Ayako-9042.html				pending
-bleu-de-chine	Bleu de Chine		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Bleu-de-Chine-9041.html				pending
-celebrity	Celebrity		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Celebrity-23309.html				pending
-gengis-khan	Gengis Khan		male		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Gengis-Khan-18340.html				pending
-kiyo	Kiyo		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Kiyo-23720.html				pending
-kozmic-oud	Kozmic Oud		male		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Kozmic-Oud-25187.html				pending
-lady-mdm	Lady MDM		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Lady-MDM-23101.html				pending
-m-by-marc-de-la-morandiere	M by Marc de la Morandiere		male		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/M-by-Marc-de-la-Morandiere-23104.html				pending
-m-pour-monsieur	M pour Monsieur		male		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/M-pour-Monsieur-23105.html				pending
-mdm-black	MDM Black		male		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/MDM-Black-23102.html				pending
-mdm-white	MDM White		male		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/MDM-White-23103.html				pending
-melodie-damour	Melodie d'Amour		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Melodie-d-Amour-9043.html				pending
-melody	Melody		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Melody-23722.html				pending
-natsuko	Natsuko		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Natsuko-23721.html				pending
-nuage-deau	Nuage D'Eau		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Nuage-D-Eau-22884.html				pending
-nuage-dor	Nuage d'Or		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Nuage-d-Or-23723.html				pending
-rose-dorient	Rose d'Orient		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Rose-d-Orient-23306.html				pending
-sissi	Sissi		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Sissi-9040.html				pending
-tendresse	Tendresse		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Tendresse-23308.html				pending
-thiara	Thiara		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Thiara-9044.html				pending
-vanille-de-tahiti	Vanille de Tahiti		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Vanille-de-Tahiti-23305.html				pending
-voila	Voilà		female		https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Voila-23310.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-gris	Ambre Gris		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Ambre-Gris-23307.html				pending
+ayako	Ayako		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Ayako-9042.html				pending
+bleu-de-chine	Bleu de Chine		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Bleu-de-Chine-9041.html				pending
+celebrity	Celebrity		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Celebrity-23309.html				pending
+gengis-khan	Gengis Khan		male	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Gengis-Khan-18340.html				pending
+kiyo	Kiyo		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Kiyo-23720.html				pending
+kozmic-oud	Kozmic Oud		male	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Kozmic-Oud-25187.html				pending
+lady-mdm	Lady MDM		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Lady-MDM-23101.html				pending
+m-by-marc-de-la-morandiere	M by Marc de la Morandiere		male	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/M-by-Marc-de-la-Morandiere-23104.html				pending
+m-pour-monsieur	M pour Monsieur		male	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/M-pour-Monsieur-23105.html				pending
+mdm-black	MDM Black		male	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/MDM-Black-23102.html				pending
+mdm-white	MDM White		male	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/MDM-White-23103.html				pending
+melodie-damour	Melodie d'Amour		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Melodie-d-Amour-9043.html				pending
+melody	Melody		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Melody-23722.html				pending
+natsuko	Natsuko		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Natsuko-23721.html				pending
+nuage-deau	Nuage D'Eau		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Nuage-D-Eau-22884.html				pending
+nuage-dor	Nuage d'Or		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Nuage-d-Or-23723.html				pending
+rose-dorient	Rose d'Orient		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Rose-d-Orient-23306.html				pending
+sissi	Sissi		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Sissi-9040.html				pending
+tendresse	Tendresse		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Tendresse-23308.html				pending
+thiara	Thiara		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Thiara-9044.html				pending
+vanille-de-tahiti	Vanille de Tahiti		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Vanille-de-Tahiti-23305.html				pending
+voila	Voilà		female	https://www.fragrantica.com/perfume/Marc-de-la-Morandiere/Voila-23310.html				pending

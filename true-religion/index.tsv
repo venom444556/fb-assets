@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-drifter	Drifter		male		https://www.fragrantica.com/perfume/True-Religion/Drifter-11913.html				pending
-hippie-chic	Hippie Chic		female		https://www.fragrantica.com/perfume/True-Religion/Hippie-Chic-11914.html				pending
-true-religion	True Religion		female		https://www.fragrantica.com/perfume/True-Religion/True-Religion-4965.html				pending
-true-religion-love-hope-denim	True Religion Love Hope Denim		female		https://www.fragrantica.com/perfume/True-Religion/True-Religion-Love-Hope-Denim-16605.html				pending
-true-religion-men	True Religion Men		male		https://www.fragrantica.com/perfume/True-Religion/True-Religion-Men-6024.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+drifter	Drifter		male	https://www.fragrantica.com/perfume/True-Religion/Drifter-11913.html				pending
+hippie-chic	Hippie Chic		female	https://www.fragrantica.com/perfume/True-Religion/Hippie-Chic-11914.html				pending
+true-religion	True Religion		female	https://www.fragrantica.com/perfume/True-Religion/True-Religion-4965.html				pending
+true-religion-love-hope-denim	True Religion Love Hope Denim		female	https://www.fragrantica.com/perfume/True-Religion/True-Religion-Love-Hope-Denim-16605.html				pending
+true-religion-men	True Religion Men		male	https://www.fragrantica.com/perfume/True-Religion/True-Religion-Men-6024.html				pending

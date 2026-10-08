@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alias	Alias		male		https://www.fragrantica.com/perfume/Honore-Payan/Alias-42659.html				pending
-aline	Aline		female		https://www.fragrantica.com/perfume/Honore-Payan/Aline-42700.html				pending
-always	Always		female		https://www.fragrantica.com/perfume/Honore-Payan/Always-42657.html				pending
-ambre-eau-de-toilette	Ambré Eau de Toilette		female		https://www.fragrantica.com/perfume/Honore-Payan/Ambre-Eau-de-Toilette-42701.html				pending
-anthea	Anthéa		female		https://www.fragrantica.com/perfume/Honore-Payan/Anthea-42658.html				pending
-fleur-de-tiare	Fleur de Tiare		unisex		https://www.fragrantica.com/perfume/Honore-Payan/Fleur-de-Tiare-79084.html				pending
-icone	Icône		female		https://www.fragrantica.com/perfume/Honore-Payan/Icone-82654.html				pending
-jasmin	Jasmin		female		https://www.fragrantica.com/perfume/Honore-Payan/Jasmin-42660.html				pending
-jeunesse	Jeunesse		female		https://www.fragrantica.com/perfume/Honore-Payan/Jeunesse-82662.html				pending
-lumpur	Lumpur		unisex		https://www.fragrantica.com/perfume/Honore-Payan/Lumpur-82643.html				pending
-musc-noir	Musc Noir		unisex		https://www.fragrantica.com/perfume/Honore-Payan/Musc-Noir-82646.html				pending
-ophelie	Ophélie		female		https://www.fragrantica.com/perfume/Honore-Payan/Ophelie-82661.html				pending
-oud	Oud		unisex		https://www.fragrantica.com/perfume/Honore-Payan/Oud-82645.html				pending
-patchouli-1854	Patchouli 1854		unisex		https://www.fragrantica.com/perfume/Honore-Payan/Patchouli-1854-82647.html				pending
-patchouli-antique	Patchouli Antique		unisex		https://www.fragrantica.com/perfume/Honore-Payan/Patchouli-Antique-42760.html				pending
-patchouli-eau-de-toilette	Patchouli Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Honore-Payan/Patchouli-Eau-de-Toilette-42759.html				pending
-princesse	Princesse		female		https://www.fragrantica.com/perfume/Honore-Payan/Princesse-82658.html				pending
-printemps	Printemps		female		https://www.fragrantica.com/perfume/Honore-Payan/Printemps-82656.html				pending
-provence	Provence		female		https://www.fragrantica.com/perfume/Honore-Payan/Provence-82659.html				pending
-rose-patchouli	Rose Patchouli		unisex		https://www.fragrantica.com/perfume/Honore-Payan/Rose-Patchouli-82644.html				pending
-rubis	Rubis		female		https://www.fragrantica.com/perfume/Honore-Payan/Rubis-59389.html				pending
-turquoise	Turquoise		female		https://www.fragrantica.com/perfume/Honore-Payan/Turquoise-59391.html				pending
-vanille	Vanille		female		https://www.fragrantica.com/perfume/Honore-Payan/Vanille-59390.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alias	Alias		male	https://www.fragrantica.com/perfume/Honore-Payan/Alias-42659.html				pending
+aline	Aline		female	https://www.fragrantica.com/perfume/Honore-Payan/Aline-42700.html				pending
+always	Always		female	https://www.fragrantica.com/perfume/Honore-Payan/Always-42657.html				pending
+ambre-eau-de-toilette	Ambré Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Honore-Payan/Ambre-Eau-de-Toilette-42701.html				pending
+anthea	Anthéa		female	https://www.fragrantica.com/perfume/Honore-Payan/Anthea-42658.html				pending
+fleur-de-tiare	Fleur de Tiare		unisex	https://www.fragrantica.com/perfume/Honore-Payan/Fleur-de-Tiare-79084.html				pending
+icone	Icône		female	https://www.fragrantica.com/perfume/Honore-Payan/Icone-82654.html				pending
+jasmin	Jasmin		female	https://www.fragrantica.com/perfume/Honore-Payan/Jasmin-42660.html				pending
+jeunesse	Jeunesse		female	https://www.fragrantica.com/perfume/Honore-Payan/Jeunesse-82662.html				pending
+lumpur	Lumpur		unisex	https://www.fragrantica.com/perfume/Honore-Payan/Lumpur-82643.html				pending
+musc-noir	Musc Noir		unisex	https://www.fragrantica.com/perfume/Honore-Payan/Musc-Noir-82646.html				pending
+ophelie	Ophélie		female	https://www.fragrantica.com/perfume/Honore-Payan/Ophelie-82661.html				pending
+oud	Oud		unisex	https://www.fragrantica.com/perfume/Honore-Payan/Oud-82645.html				pending
+patchouli-1854	Patchouli 1854		unisex	https://www.fragrantica.com/perfume/Honore-Payan/Patchouli-1854-82647.html				pending
+patchouli-antique	Patchouli Antique		unisex	https://www.fragrantica.com/perfume/Honore-Payan/Patchouli-Antique-42760.html				pending
+patchouli-eau-de-toilette	Patchouli Eau de Toilette	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Honore-Payan/Patchouli-Eau-de-Toilette-42759.html				pending
+princesse	Princesse		female	https://www.fragrantica.com/perfume/Honore-Payan/Princesse-82658.html				pending
+printemps	Printemps		female	https://www.fragrantica.com/perfume/Honore-Payan/Printemps-82656.html				pending
+provence	Provence		female	https://www.fragrantica.com/perfume/Honore-Payan/Provence-82659.html				pending
+rose-patchouli	Rose Patchouli		unisex	https://www.fragrantica.com/perfume/Honore-Payan/Rose-Patchouli-82644.html				pending
+rubis	Rubis		female	https://www.fragrantica.com/perfume/Honore-Payan/Rubis-59389.html				pending
+turquoise	Turquoise		female	https://www.fragrantica.com/perfume/Honore-Payan/Turquoise-59391.html				pending
+vanille	Vanille		female	https://www.fragrantica.com/perfume/Honore-Payan/Vanille-59390.html				pending

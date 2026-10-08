@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-mans-empire	A Man's Empire		male		https://www.fragrantica.com/perfume/Crystal-Water/A-Man-s-Empire-80162.html				pending
-a-womans-empire	A Woman's Empire		female		https://www.fragrantica.com/perfume/Crystal-Water/A-Woman-s-Empire-80160.html				pending
-africano-woody	Africano Woody		male		https://www.fragrantica.com/perfume/Crystal-Water/Africano-Woody-80161.html				pending
-blue-sea	Blue Sea		unisex		https://www.fragrantica.com/perfume/Crystal-Water/Blue-Sea-78391.html				pending
-breath	Breath		unisex		https://www.fragrantica.com/perfume/Crystal-Water/Breath-80163.html				pending
-cupcake	Cupcake		unisex		https://www.fragrantica.com/perfume/Crystal-Water/Cupcake-90339.html				pending
-indulgence	Indulgence		unisex		https://www.fragrantica.com/perfume/Crystal-Water/Indulgence-78385.html				pending
-moana	Moana		female		https://www.fragrantica.com/perfume/Crystal-Water/Moana-78388.html				pending
-oud-smoked-honey	Oud Smoked Honey		unisex		https://www.fragrantica.com/perfume/Crystal-Water/Oud-Smoked-Honey-78393.html				pending
-sporting	Sporting		unisex		https://www.fragrantica.com/perfume/Crystal-Water/Sporting-90338.html				pending
-street-in-cairo	Street in Cairo		unisex		https://www.fragrantica.com/perfume/Crystal-Water/Street-in-Cairo-90340.html				pending
-sun-rays	Sun Rays		unisex		https://www.fragrantica.com/perfume/Crystal-Water/Sun-Rays-78389.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-mans-empire	A Man's Empire		male	https://www.fragrantica.com/perfume/Crystal-Water/A-Man-s-Empire-80162.html				pending
+a-womans-empire	A Woman's Empire		female	https://www.fragrantica.com/perfume/Crystal-Water/A-Woman-s-Empire-80160.html				pending
+africano-woody	Africano Woody		male	https://www.fragrantica.com/perfume/Crystal-Water/Africano-Woody-80161.html				pending
+blue-sea	Blue Sea		unisex	https://www.fragrantica.com/perfume/Crystal-Water/Blue-Sea-78391.html				pending
+breath	Breath		unisex	https://www.fragrantica.com/perfume/Crystal-Water/Breath-80163.html				pending
+cupcake	Cupcake		unisex	https://www.fragrantica.com/perfume/Crystal-Water/Cupcake-90339.html				pending
+indulgence	Indulgence		unisex	https://www.fragrantica.com/perfume/Crystal-Water/Indulgence-78385.html				pending
+moana	Moana		female	https://www.fragrantica.com/perfume/Crystal-Water/Moana-78388.html				pending
+oud-smoked-honey	Oud Smoked Honey		unisex	https://www.fragrantica.com/perfume/Crystal-Water/Oud-Smoked-Honey-78393.html				pending
+sporting	Sporting		unisex	https://www.fragrantica.com/perfume/Crystal-Water/Sporting-90338.html				pending
+street-in-cairo	Street in Cairo		unisex	https://www.fragrantica.com/perfume/Crystal-Water/Street-in-Cairo-90340.html				pending
+sun-rays	Sun Rays		unisex	https://www.fragrantica.com/perfume/Crystal-Water/Sun-Rays-78389.html				pending

@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bergamot	Bergamot		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Bergamot-49892.html				pending
-bergamot-and-amberwood	Bergamot & Amberwood		male		https://www.fragrantica.com/perfume/Blue-Scents/Bergamot-Amberwood-62044.html				pending
-black-infusion	Black Infusion		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Black-Infusion-49893.html				pending
-cardamom-and-vanilla	Cardamom & Vanilla		male		https://www.fragrantica.com/perfume/Blue-Scents/Cardamom-Vanilla-62045.html				pending
-dark-cherry	Dark Cherry		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Dark-Cherry-49894.html				pending
-freesia-and-osmanthus	Freesia & Osmanthus		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Freesia-Osmanthus-62046.html				pending
-gardenia	Gardenia		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Gardenia-49895.html				pending
-golden-honey-and-argan-oil	Golden Honey & Argan Oil		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Golden-Honey-Argan-Oil-93784.html				pending
-iris	Iris		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Iris-49896.html				pending
-juicy-lemon	Juicy Lemon		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Juicy-Lemon-62047.html				pending
-mandarin	Mandarin		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Mandarin-49908.html				pending
-neroli	Neroli		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Neroli-49897.html				pending
-night-jasmine	Night Jasmine		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Night-Jasmine-49898.html				pending
-ocean-bliss	Ocean Bliss		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Ocean-Bliss-49899.html				pending
-peony	Peony		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Peony-49900.html				pending
-pink-infusion	Pink Infusion		female		https://www.fragrantica.com/perfume/Blue-Scents/Pink-Infusion-62048.html				pending
-pomegranate	Pomegranate		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Pomegranate-49901.html				pending
-pomegranate-and-violet	Pomegranate & Violet		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Pomegranate-Violet-62050.html				pending
-pure	Pure		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Pure-49905.html				pending
-pure-elixir	Pure Elixir		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Pure-Elixir-65737.html				pending
-salt-and-sun	Salt & Sun		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Salt-Sun-62051.html				pending
-violet	Violet		unisex		https://www.fragrantica.com/perfume/Blue-Scents/Violet-49907.html				pending
-white-infusion	White Infusion		unisex		https://www.fragrantica.com/perfume/Blue-Scents/White-Infusion-49906.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bergamot	Bergamot		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Bergamot-49892.html				pending
+bergamot-and-amberwood	Bergamot & Amberwood		male	https://www.fragrantica.com/perfume/Blue-Scents/Bergamot-Amberwood-62044.html				pending
+black-infusion	Black Infusion		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Black-Infusion-49893.html				pending
+cardamom-and-vanilla	Cardamom & Vanilla		male	https://www.fragrantica.com/perfume/Blue-Scents/Cardamom-Vanilla-62045.html				pending
+dark-cherry	Dark Cherry		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Dark-Cherry-49894.html				pending
+freesia-and-osmanthus	Freesia & Osmanthus		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Freesia-Osmanthus-62046.html				pending
+gardenia	Gardenia		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Gardenia-49895.html				pending
+golden-honey-and-argan-oil	Golden Honey & Argan Oil		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Golden-Honey-Argan-Oil-93784.html				pending
+iris	Iris		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Iris-49896.html				pending
+juicy-lemon	Juicy Lemon		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Juicy-Lemon-62047.html				pending
+mandarin	Mandarin		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Mandarin-49908.html				pending
+neroli	Neroli		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Neroli-49897.html				pending
+night-jasmine	Night Jasmine		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Night-Jasmine-49898.html				pending
+ocean-bliss	Ocean Bliss		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Ocean-Bliss-49899.html				pending
+peony	Peony		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Peony-49900.html				pending
+pink-infusion	Pink Infusion		female	https://www.fragrantica.com/perfume/Blue-Scents/Pink-Infusion-62048.html				pending
+pomegranate	Pomegranate		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Pomegranate-49901.html				pending
+pomegranate-and-violet	Pomegranate & Violet		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Pomegranate-Violet-62050.html				pending
+pure	Pure		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Pure-49905.html				pending
+pure-elixir	Pure Elixir		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Pure-Elixir-65737.html				pending
+salt-and-sun	Salt & Sun		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Salt-Sun-62051.html				pending
+violet	Violet		unisex	https://www.fragrantica.com/perfume/Blue-Scents/Violet-49907.html				pending
+white-infusion	White Infusion		unisex	https://www.fragrantica.com/perfume/Blue-Scents/White-Infusion-49906.html				pending

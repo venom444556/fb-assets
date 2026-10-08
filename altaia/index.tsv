@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-atacama	Atacama		unisex		https://www.fragrantica.com/perfume/ALTAIA/Atacama-66297.html				pending
-by-any-other-name	By Any Other Name		female		https://www.fragrantica.com/perfume/ALTAIA/By-Any-Other-Name-32342.html				pending
-dont-cry-for-me	Don't Cry For Me		unisex		https://www.fragrantica.com/perfume/ALTAIA/Don-t-Cry-For-Me-32343.html				pending
-tuberose-in-blue	Tuberose in Blue		female		https://www.fragrantica.com/perfume/ALTAIA/Tuberose-in-Blue-46596.html				pending
-wonder-of-you	Wonder Of You		unisex		https://www.fragrantica.com/perfume/ALTAIA/Wonder-Of-You-57328.html				pending
-yu-son	Yu Son		unisex		https://www.fragrantica.com/perfume/ALTAIA/Yu-Son-32344.html				pending
-amankay	Amank'ay		unisex		https://www.fragrantica.com/perfume/ALTAIA/Amank-ay-89179.html				pending
-any-day-now	Any Day Now		unisex		https://www.fragrantica.com/perfume/ALTAIA/Any-Day-Now-82029.html				pending
-ombu	Ombú		unisex		https://www.fragrantica.com/perfume/ALTAIA/Ombu-40829.html				pending
-purple-land	Purple Land		unisex		https://www.fragrantica.com/perfume/ALTAIA/Purple-Land-51363.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amankay	Amank'ay		unisex	https://www.fragrantica.com/perfume/ALTAIA/Amank-ay-89179.html				pending
+any-day-now	Any Day Now		unisex	https://www.fragrantica.com/perfume/ALTAIA/Any-Day-Now-82029.html				pending
+atacama	Atacama		unisex	https://www.fragrantica.com/perfume/ALTAIA/Atacama-66297.html				pending
+by-any-other-name	By Any Other Name		female	https://www.fragrantica.com/perfume/ALTAIA/By-Any-Other-Name-32342.html				pending
+dont-cry-for-me	Don't Cry For Me		unisex	https://www.fragrantica.com/perfume/ALTAIA/Don-t-Cry-For-Me-32343.html				pending
+ombu	Ombú		unisex	https://www.fragrantica.com/perfume/ALTAIA/Ombu-40829.html				pending
+purple-land	Purple Land		unisex	https://www.fragrantica.com/perfume/ALTAIA/Purple-Land-51363.html				pending
+tuberose-in-blue	Tuberose in Blue		female	https://www.fragrantica.com/perfume/ALTAIA/Tuberose-in-Blue-46596.html				pending
+wonder-of-you	Wonder Of You		unisex	https://www.fragrantica.com/perfume/ALTAIA/Wonder-Of-You-57328.html				pending
+yu-son	Yu Son		unisex	https://www.fragrantica.com/perfume/ALTAIA/Yu-Son-32344.html				pending

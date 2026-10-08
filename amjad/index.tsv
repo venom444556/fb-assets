@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bright-musk	Bright Musk		male		https://www.fragrantica.com/perfume/Amjad/Bright-Musk-67013.html				pending
-desert-rose	Desert Rose		male		https://www.fragrantica.com/perfume/Amjad/Desert-Rose-67015.html				pending
-majestic-spice	Majestic Spice		male		https://www.fragrantica.com/perfume/Amjad/Majestic-Spice-67016.html				pending
-noble-oud	Noble Oud		male		https://www.fragrantica.com/perfume/Amjad/Noble-Oud-67017.html				pending
-oriental-wood	Oriental Wood		male		https://www.fragrantica.com/perfume/Amjad/Oriental-Wood-67014.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bright-musk	Bright Musk		male	https://www.fragrantica.com/perfume/Amjad/Bright-Musk-67013.html				pending
+desert-rose	Desert Rose		male	https://www.fragrantica.com/perfume/Amjad/Desert-Rose-67015.html				pending
+majestic-spice	Majestic Spice		male	https://www.fragrantica.com/perfume/Amjad/Majestic-Spice-67016.html				pending
+noble-oud	Noble Oud		male	https://www.fragrantica.com/perfume/Amjad/Noble-Oud-67017.html				pending
+oriental-wood	Oriental Wood		male	https://www.fragrantica.com/perfume/Amjad/Oriental-Wood-67014.html				pending

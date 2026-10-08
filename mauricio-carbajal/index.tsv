@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-litoral	Litoral		unisex		https://www.fragrantica.com/perfume/Mauricio-Carbajal/Litoral-91096.html				pending
-pour-homme	Pour Homme		unisex		https://www.fragrantica.com/perfume/Mauricio-Carbajal/Pour-Homme-91097.html				pending
-tradicion	Tradición		unisex		https://www.fragrantica.com/perfume/Mauricio-Carbajal/Tradicion-91095.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+litoral	Litoral		unisex	https://www.fragrantica.com/perfume/Mauricio-Carbajal/Litoral-91096.html				pending
+pour-homme	Pour Homme		unisex	https://www.fragrantica.com/perfume/Mauricio-Carbajal/Pour-Homme-91097.html				pending
+tradicion	Tradición		unisex	https://www.fragrantica.com/perfume/Mauricio-Carbajal/Tradicion-91095.html				pending

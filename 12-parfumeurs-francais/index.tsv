@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-azay-le-rideau	Azay-le-Rideau		unisex		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Azay-le-Rideau-38637.html				pending
-breteuil	Breteuil		unisex		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Breteuil-44254.html				pending
-conciergerie	Conciergerie		unisex		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Conciergerie-33181.html				pending
-fontainebleau	Fontainebleau		unisex		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Fontainebleau-33184.html				pending
-intrigue-de-lamour	Intrigue de l’Amour		female		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Intrigue-de-l-Amour-26333.html				pending
-la-reine-margot	La Reine Margot		female		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/La-Reine-Margot-55401.html				pending
-luxembourg	Luxembourg		male		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Luxembourg-42912.html				pending
-maintenon	Maintenon		female		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Maintenon-38640.html				pending
-malmaison	Malmaison		unisex		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Malmaison-44256.html				pending
-marie-de-medicis	Marie de Medicis		female		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Marie-de-Medicis-55400.html				pending
-marqueyssac	Marqueyssac		female		https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Marqueyssac-42909.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+azay-le-rideau	Azay-le-Rideau		unisex	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Azay-le-Rideau-38637.html				pending
+breteuil	Breteuil		unisex	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Breteuil-44254.html				pending
+conciergerie	Conciergerie		unisex	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Conciergerie-33181.html				pending
+fontainebleau	Fontainebleau		unisex	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Fontainebleau-33184.html				pending
+intrigue-de-lamour	Intrigue de l’Amour		female	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Intrigue-de-l-Amour-26333.html				pending
+la-reine-margot	La Reine Margot		female	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/La-Reine-Margot-55401.html				pending
+luxembourg	Luxembourg		male	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Luxembourg-42912.html				pending
+maintenon	Maintenon		female	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Maintenon-38640.html				pending
+malmaison	Malmaison		unisex	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Malmaison-44256.html				pending
+marie-de-medicis	Marie de Medicis		female	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Marie-de-Medicis-55400.html				pending
+marqueyssac	Marqueyssac		female	https://www.fragrantica.com/perfume/12-Parfumeurs-Francais/Marqueyssac-42909.html				pending

@@ -1,33 +1,33 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-berry-naughty	Berry Naughty		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Berry-Naughty-58040.html				pending
-berry-trifle	Berry Trifle		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Berry-Trifle-58058.html				pending
-berry-vanilla	Berry Vanilla		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Berry-Vanilla-58048.html				pending
-better-than-sex-cake	Better Than Sex Cake		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Better-Than-Sex-Cake-58063.html				pending
-bite-me	Bite Me		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Bite-Me-58047.html				pending
-black-cherry-merlot	Black Cherry Merlot		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Black-Cherry-Merlot-58054.html				pending
-blue-raspberry	Blue Raspberry		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Blue-Raspberry-58019.html				pending
-blueberry-cheesecake	Blueberry Cheesecake		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Blueberry-Cheesecake-58042.html				pending
-cherry-slushie	Cherry Slushie		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Cherry-Slushie-58053.html				pending
-chocolate-raspberry	Chocolate Raspberry		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Chocolate-Raspberry-58061.html				pending
-cinnamon-caramel	Cinnamon Caramel		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Cinnamon-Caramel-58052.html				pending
-cinnamon-rol	Cinnamon Rol		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Cinnamon-Rol-58057.html				pending
-cotton-candy	Cotton Candy		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Cotton-Candy-58051.html				pending
-creme-brulee	Creme Brulee		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Creme-Brulee-58014.html				pending
-farmers-market-sweet-strawberry	Farmer's Market Sweet Strawberry		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Farmer-s-Market-Sweet-Strawberry-58045.html				pending
-german-chocolate-cake	German Chocolate Cake		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/German-Chocolate-Cake-58017.html				pending
-hello-sugar	Hello Sugar		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Hello-Sugar-58064.html				pending
-island-nectar	Island Nectar		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Island-Nectar-58060.html				pending
-jelly-doughnut	Jelly Doughnut		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Jelly-Doughnut-58049.html				pending
-kentucky-bourbon	Kentucky Bourbon		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Kentucky-Bourbon-58055.html				pending
-maple-pumpkin	Maple Pumpkin		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Maple-Pumpkin-58041.html				pending
-market-peach	Market Peach		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Market-Peach-58043.html				pending
-olde-town-bakery	Olde Town Bakery		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Olde-Town-Bakery-58016.html				pending
-pink-berry-mimosa	Pink Berry Mimosa		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Pink-Berry-Mimosa-58062.html				pending
-red-currant	Red Currant		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Red-Currant-58056.html				pending
-skittles	Skittles		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Skittles-58044.html				pending
-snickers-coffee	Snickers Coffee		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Snickers-Coffee-58046.html				pending
-strawberries-and-cream	Strawberries and Cream		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Strawberries-and-Cream-58015.html				pending
-strawberry-jam	Strawberry Jam		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Strawberry-Jam-58059.html				pending
-vanilla-rum-cake	Vanilla Rum Cake		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Vanilla-Rum-Cake-58013.html				pending
-warm-caramel-vanilla	Warm Caramel Vanilla		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Warm-Caramel-Vanilla-58018.html				pending
-watermelon-candy	Watermelon Candy		unisex		https://www.fragrantica.com/perfume/Land-of-Aahs/Watermelon-Candy-58050.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+berry-naughty	Berry Naughty		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Berry-Naughty-58040.html				pending
+berry-trifle	Berry Trifle		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Berry-Trifle-58058.html				pending
+berry-vanilla	Berry Vanilla		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Berry-Vanilla-58048.html				pending
+better-than-sex-cake	Better Than Sex Cake		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Better-Than-Sex-Cake-58063.html				pending
+bite-me	Bite Me		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Bite-Me-58047.html				pending
+black-cherry-merlot	Black Cherry Merlot		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Black-Cherry-Merlot-58054.html				pending
+blue-raspberry	Blue Raspberry		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Blue-Raspberry-58019.html				pending
+blueberry-cheesecake	Blueberry Cheesecake		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Blueberry-Cheesecake-58042.html				pending
+cherry-slushie	Cherry Slushie		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Cherry-Slushie-58053.html				pending
+chocolate-raspberry	Chocolate Raspberry		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Chocolate-Raspberry-58061.html				pending
+cinnamon-caramel	Cinnamon Caramel		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Cinnamon-Caramel-58052.html				pending
+cinnamon-rol	Cinnamon Rol		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Cinnamon-Rol-58057.html				pending
+cotton-candy	Cotton Candy		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Cotton-Candy-58051.html				pending
+creme-brulee	Creme Brulee		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Creme-Brulee-58014.html				pending
+farmers-market-sweet-strawberry	Farmer's Market Sweet Strawberry		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Farmer-s-Market-Sweet-Strawberry-58045.html				pending
+german-chocolate-cake	German Chocolate Cake		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/German-Chocolate-Cake-58017.html				pending
+hello-sugar	Hello Sugar		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Hello-Sugar-58064.html				pending
+island-nectar	Island Nectar		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Island-Nectar-58060.html				pending
+jelly-doughnut	Jelly Doughnut		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Jelly-Doughnut-58049.html				pending
+kentucky-bourbon	Kentucky Bourbon		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Kentucky-Bourbon-58055.html				pending
+maple-pumpkin	Maple Pumpkin		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Maple-Pumpkin-58041.html				pending
+market-peach	Market Peach		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Market-Peach-58043.html				pending
+olde-town-bakery	Olde Town Bakery		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Olde-Town-Bakery-58016.html				pending
+pink-berry-mimosa	Pink Berry Mimosa		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Pink-Berry-Mimosa-58062.html				pending
+red-currant	Red Currant		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Red-Currant-58056.html				pending
+skittles	Skittles		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Skittles-58044.html				pending
+snickers-coffee	Snickers Coffee		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Snickers-Coffee-58046.html				pending
+strawberries-and-cream	Strawberries and Cream		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Strawberries-and-Cream-58015.html				pending
+strawberry-jam	Strawberry Jam		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Strawberry-Jam-58059.html				pending
+vanilla-rum-cake	Vanilla Rum Cake		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Vanilla-Rum-Cake-58013.html				pending
+warm-caramel-vanilla	Warm Caramel Vanilla		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Warm-Caramel-Vanilla-58018.html				pending
+watermelon-candy	Watermelon Candy		unisex	https://www.fragrantica.com/perfume/Land-of-Aahs/Watermelon-Candy-58050.html				pending

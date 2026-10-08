@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-manila-grace	Manila Grace		female		https://www.fragrantica.com/perfume/Manila-Grace/Manila-Grace-32357.html				pending
-manila-grace-eau-fraiche	Manila Grace Eau Fraîche		female		https://www.fragrantica.com/perfume/Manila-Grace/Manila-Grace-Eau-Fraiche-38346.html				pending
-manila-grace-fleur-narcotique	Manila Grace Fleur Narcotique		female		https://www.fragrantica.com/perfume/Manila-Grace/Manila-Grace-Fleur-Narcotique-41637.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+manila-grace	Manila Grace		female	https://www.fragrantica.com/perfume/Manila-Grace/Manila-Grace-32357.html				pending
+manila-grace-eau-fraiche	Manila Grace Eau Fraîche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Manila-Grace/Manila-Grace-Eau-Fraiche-38346.html				pending
+manila-grace-fleur-narcotique	Manila Grace Fleur Narcotique		female	https://www.fragrantica.com/perfume/Manila-Grace/Manila-Grace-Fleur-Narcotique-41637.html				pending

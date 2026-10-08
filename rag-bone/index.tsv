@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber	Amber		unisex		https://www.fragrantica.com/perfume/Rag-Bone/Amber-41465.html				pending
-bergamot	Bergamot		unisex		https://www.fragrantica.com/perfume/Rag-Bone/Bergamot-41472.html				pending
-cypress	Cypress		unisex		https://www.fragrantica.com/perfume/Rag-Bone/Cypress-41471.html				pending
-encens	Encens		unisex		https://www.fragrantica.com/perfume/Rag-Bone/Encens-41470.html				pending
-genmaicha	Genmaicha		unisex		https://www.fragrantica.com/perfume/Rag-Bone/Genmaicha-65422.html				pending
-monoi	Monoï		unisex		https://www.fragrantica.com/perfume/Rag-Bone/Monoi-70991.html				pending
-neroli	Neroli		unisex		https://www.fragrantica.com/perfume/Rag-Bone/Neroli-41469.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber	Amber		unisex	https://www.fragrantica.com/perfume/Rag-Bone/Amber-41465.html				pending
+bergamot	Bergamot		unisex	https://www.fragrantica.com/perfume/Rag-Bone/Bergamot-41472.html				pending
+cypress	Cypress		unisex	https://www.fragrantica.com/perfume/Rag-Bone/Cypress-41471.html				pending
+encens	Encens		unisex	https://www.fragrantica.com/perfume/Rag-Bone/Encens-41470.html				pending
+genmaicha	Genmaicha		unisex	https://www.fragrantica.com/perfume/Rag-Bone/Genmaicha-65422.html				pending
+monoi	Monoï		unisex	https://www.fragrantica.com/perfume/Rag-Bone/Monoi-70991.html				pending
+neroli	Neroli		unisex	https://www.fragrantica.com/perfume/Rag-Bone/Neroli-41469.html				pending

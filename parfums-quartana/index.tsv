@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bloodflower	Bloodflower		unisex		https://www.fragrantica.com/perfume/Parfums-Quartana/Bloodflower-39226.html				pending
-digitalis	Digitalis		unisex		https://www.fragrantica.com/perfume/Parfums-Quartana/Digitalis-39229.html				pending
-forest-of-the-golden-dream	Forest of the Golden Dream		unisex		https://www.fragrantica.com/perfume/Parfums-Quartana/Forest-of-the-Golden-Dream-84970.html				pending
-hemlock	Hemlock		unisex		https://www.fragrantica.com/perfume/Parfums-Quartana/Hemlock-39232.html				pending
-ierofante	Ierofante		unisex		https://www.fragrantica.com/perfume/Parfums-Quartana/Ierofante-75160.html				pending
-lily-of-the-valley	Lily of the Valley		female		https://www.fragrantica.com/perfume/Parfums-Quartana/Lily-of-the-Valley-39233.html				pending
-mandrake	Mandrake		male		https://www.fragrantica.com/perfume/Parfums-Quartana/Mandrake-39234.html				pending
-midnight-datura	Midnight Datura		female		https://www.fragrantica.com/perfume/Parfums-Quartana/Midnight-Datura-39228.html				pending
-poppy-soma	Poppy Soma		female		https://www.fragrantica.com/perfume/Parfums-Quartana/Poppy-Soma-39235.html				pending
-venetian-belladonna	Venetian Belladonna		female		https://www.fragrantica.com/perfume/Parfums-Quartana/Venetian-Belladonna-39224.html				pending
-wolfsbane	Wolfsbane		male		https://www.fragrantica.com/perfume/Parfums-Quartana/Wolfsbane-39236.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bloodflower	Bloodflower		unisex	https://www.fragrantica.com/perfume/Parfums-Quartana/Bloodflower-39226.html				pending
+digitalis	Digitalis		unisex	https://www.fragrantica.com/perfume/Parfums-Quartana/Digitalis-39229.html				pending
+forest-of-the-golden-dream	Forest of the Golden Dream		unisex	https://www.fragrantica.com/perfume/Parfums-Quartana/Forest-of-the-Golden-Dream-84970.html				pending
+hemlock	Hemlock		unisex	https://www.fragrantica.com/perfume/Parfums-Quartana/Hemlock-39232.html				pending
+ierofante	Ierofante		unisex	https://www.fragrantica.com/perfume/Parfums-Quartana/Ierofante-75160.html				pending
+lily-of-the-valley	Lily of the Valley		female	https://www.fragrantica.com/perfume/Parfums-Quartana/Lily-of-the-Valley-39233.html				pending
+mandrake	Mandrake		male	https://www.fragrantica.com/perfume/Parfums-Quartana/Mandrake-39234.html				pending
+midnight-datura	Midnight Datura		female	https://www.fragrantica.com/perfume/Parfums-Quartana/Midnight-Datura-39228.html				pending
+poppy-soma	Poppy Soma		female	https://www.fragrantica.com/perfume/Parfums-Quartana/Poppy-Soma-39235.html				pending
+venetian-belladonna	Venetian Belladonna		female	https://www.fragrantica.com/perfume/Parfums-Quartana/Venetian-Belladonna-39224.html				pending
+wolfsbane	Wolfsbane		male	https://www.fragrantica.com/perfume/Parfums-Quartana/Wolfsbane-39236.html				pending

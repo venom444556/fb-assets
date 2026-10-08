@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-eilish	Eilish		female		https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-70052.html				pending
-eilish-intense	Eilish Intense		unisex		https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-Intense-137621.html				pending
-eilish-no-2	Eilish No 2		unisex		https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-No-2-76532.html				pending
-eilish-no-3	Eilish No.3		unisex		https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-No-3-87945.html				pending
-your-turn	Your Turn		unisex		https://www.fragrantica.com/perfume/Billie-Eilish/Your-Turn-102635.html				pending
-your-turn-ii	Your Turn II		unisex		https://www.fragrantica.com/perfume/Billie-Eilish/Your-Turn-II-119365.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+eilish	Eilish		female	https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-70052.html				pending
+eilish-intense	Eilish Intense		unisex	https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-Intense-137621.html				pending
+eilish-no-2	Eilish No 2		unisex	https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-No-2-76532.html				pending
+eilish-no-3	Eilish No.3		unisex	https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-No-3-87945.html				pending
+your-turn	Your Turn		unisex	https://www.fragrantica.com/perfume/Billie-Eilish/Your-Turn-102635.html				pending
+your-turn-ii	Your Turn II		unisex	https://www.fragrantica.com/perfume/Billie-Eilish/Your-Turn-II-119365.html				pending

@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-330	Acqua 330		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Acqua-330-5240.html				pending
-miss-pucci	Miss Pucci		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Miss-Pucci-9184.html				pending
-miss-pucci-intense	Miss Pucci Intense		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Miss-Pucci-Intense-12786.html				pending
-sabbia-167	Sabbia 167		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Sabbia-167-5241.html				pending
-sole-149	Sole 149		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Sole-149-5239.html				pending
-verde-072	Verde 072		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Verde-072-11509.html				pending
-vivara-2007	Vivara (2007)		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-2007-2193.html				pending
-vivara-turquoise-edition	Vivara Turquoise Edition		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-Turquoise-Edition-9242.html				pending
-eau-de-zadig	Eau de Zadig		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Eau-de-Zadig-21766.html				pending
-miss-zadig	Miss Zadig		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Miss-Zadig-21764.html				pending
-miss-zadig-eau-fraiche	Miss Zadig Eau Fraîche		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Miss-Zadig-Eau-Fraiche-21765.html				pending
-pucci	Pucci		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Pucci-21762.html				pending
-pucci-eau-fraiche	Pucci Eau Fraiche		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Pucci-Eau-Fraiche-21725.html				pending
-signor-vivara	Signor Vivara		male		https://www.fragrantica.com/perfume/Emilio-Pucci/Signor-Vivara-21726.html				pending
-stra-vivara	Stra-Vivara		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Stra-Vivara-21763.html				pending
-vivara-1965	Vivara (1965)		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-1965-10517.html				pending
-vivara-black-edition	Vivara Black Edition		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-Black-Edition-6416.html				pending
-vivara-silver-edition	Vivara Silver Edition		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-Silver-Edition-3975.html				pending
-zadig	Zadig		female		https://www.fragrantica.com/perfume/Emilio-Pucci/Zadig-21727.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-330	Acqua 330		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Acqua-330-5240.html				pending
+eau-de-zadig	Eau de Zadig		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Eau-de-Zadig-21766.html				pending
+miss-pucci	Miss Pucci		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Miss-Pucci-9184.html				pending
+miss-pucci-intense	Miss Pucci Intense		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Miss-Pucci-Intense-12786.html				pending
+miss-zadig	Miss Zadig		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Miss-Zadig-21764.html				pending
+miss-zadig-eau-fraiche	Miss Zadig Eau Fraîche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Emilio-Pucci/Miss-Zadig-Eau-Fraiche-21765.html				pending
+pucci	Pucci		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Pucci-21762.html				pending
+pucci-eau-fraiche	Pucci Eau Fraiche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Emilio-Pucci/Pucci-Eau-Fraiche-21725.html				pending
+sabbia-167	Sabbia 167		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Sabbia-167-5241.html				pending
+signor-vivara	Signor Vivara		male	https://www.fragrantica.com/perfume/Emilio-Pucci/Signor-Vivara-21726.html				pending
+sole-149	Sole 149		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Sole-149-5239.html				pending
+stra-vivara	Stra-Vivara		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Stra-Vivara-21763.html				pending
+verde-072	Verde 072		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Verde-072-11509.html				pending
+vivara-1965	Vivara (1965)		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-1965-10517.html				pending
+vivara-2007	Vivara (2007)		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-2007-2193.html				pending
+vivara-black-edition	Vivara Black Edition		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-Black-Edition-6416.html				pending
+vivara-silver-edition	Vivara Silver Edition		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-Silver-Edition-3975.html				pending
+vivara-turquoise-edition	Vivara Turquoise Edition		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Vivara-Turquoise-Edition-9242.html				pending
+zadig	Zadig		female	https://www.fragrantica.com/perfume/Emilio-Pucci/Zadig-21727.html				pending

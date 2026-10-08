@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-malaki	Amber Malaki		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Amber-Malaki-59353.html				pending
-amber-special	Amber Special		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Amber-Special-59356.html				pending
-ancient	Ancient		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Ancient-59494.html				pending
-attraction	Attraction		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Attraction-59456.html				pending
-awrad	Awrad		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Awrad-59358.html				pending
-bulgarian-rose	Bulgarian Rose		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Bulgarian-Rose-59352.html				pending
-classy	Classy		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Classy-59457.html				pending
-delicate	Delicate		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Delicate-59481.html				pending
-delight	Delight		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Delight-59407.html				pending
-elegant	Elegant		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Elegant-59492.html				pending
-harmony	Harmony		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Harmony-59491.html				pending
-indian-rose-oil	Indian Rose Oil		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Indian-Rose-Oil-59355.html				pending
-loban	Loban		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Loban-59354.html				pending
-lucid	Lucid		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Lucid-59495.html				pending
-luxury-musk	Luxury Musk		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Luxury-Musk-59351.html				pending
-misk-wa-zohor-fresh	Misk Wa Zohor Fresh		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Misk-Wa-Zohor-Fresh-59361.html				pending
-musk	Musk		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Musk-59357.html				pending
-my-code	My Code		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/My-Code-59496.html				pending
-oriental	Oriental		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Oriental-59493.html				pending
-solid	Solid		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Solid-59497.html				pending
-symphony	Symphony		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Symphony-59296.html				pending
-vip-4	VIP 4		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/VIP-4-59360.html				pending
-zohor-wa-tawabel	Zohor Wa Tawabel		unisex		https://www.fragrantica.com/perfume/Mahdi-Alajmi/Zohor-Wa-Tawabel-59359.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-malaki	Amber Malaki		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Amber-Malaki-59353.html				pending
+amber-special	Amber Special		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Amber-Special-59356.html				pending
+ancient	Ancient		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Ancient-59494.html				pending
+attraction	Attraction		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Attraction-59456.html				pending
+awrad	Awrad		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Awrad-59358.html				pending
+bulgarian-rose	Bulgarian Rose		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Bulgarian-Rose-59352.html				pending
+classy	Classy		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Classy-59457.html				pending
+delicate	Delicate		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Delicate-59481.html				pending
+delight	Delight		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Delight-59407.html				pending
+elegant	Elegant		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Elegant-59492.html				pending
+harmony	Harmony		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Harmony-59491.html				pending
+indian-rose-oil	Indian Rose Oil		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Indian-Rose-Oil-59355.html				pending
+loban	Loban		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Loban-59354.html				pending
+lucid	Lucid		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Lucid-59495.html				pending
+luxury-musk	Luxury Musk		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Luxury-Musk-59351.html				pending
+misk-wa-zohor-fresh	Misk Wa Zohor Fresh		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Misk-Wa-Zohor-Fresh-59361.html				pending
+musk	Musk		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Musk-59357.html				pending
+my-code	My Code		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/My-Code-59496.html				pending
+oriental	Oriental		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Oriental-59493.html				pending
+solid	Solid		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Solid-59497.html				pending
+symphony	Symphony		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Symphony-59296.html				pending
+vip-4	VIP 4		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/VIP-4-59360.html				pending
+zohor-wa-tawabel	Zohor Wa Tawabel		unisex	https://www.fragrantica.com/perfume/Mahdi-Alajmi/Zohor-Wa-Tawabel-59359.html				pending

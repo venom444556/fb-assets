@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-custo-barcelona	Custo Barcelona		female		https://www.fragrantica.com/perfume/Custo-Barcelona/Custo-Barcelona-4751.html				pending
-custo-man	Custo Man		male		https://www.fragrantica.com/perfume/Custo-Barcelona/Custo-Man-6833.html				pending
-glam-star	Glam Star		female		https://www.fragrantica.com/perfume/Custo-Barcelona/Glam-Star-16866.html				pending
-pure-custo-barcelona-man	Pure Custo Barcelona Man		male		https://www.fragrantica.com/perfume/Custo-Barcelona/Pure-Custo-Barcelona-Man-10338.html				pending
-pure-custo-barcelona-woman	Pure Custo Barcelona Woman		female		https://www.fragrantica.com/perfume/Custo-Barcelona/Pure-Custo-Barcelona-Woman-10337.html				pending
-blue-wind	Blue Wind		male		https://www.fragrantica.com/perfume/Custo-Barcelona/Blue-Wind-15414.html				pending
-custo-woman-leau	Custo Woman L’Eau		female		https://www.fragrantica.com/perfume/Custo-Barcelona/Custo-Woman-L-Eau-25935.html				pending
-enjoy-man	Enjoy Man		male		https://www.fragrantica.com/perfume/Custo-Barcelona/Enjoy-Man-18868.html				pending
-enjoy-woman	Enjoy Woman		female		https://www.fragrantica.com/perfume/Custo-Barcelona/Enjoy-Woman-18869.html				pending
-this-is-me	This is Me		female		https://www.fragrantica.com/perfume/Custo-Barcelona/This-is-Me-84971.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blue-wind	Blue Wind		male	https://www.fragrantica.com/perfume/Custo-Barcelona/Blue-Wind-15414.html				pending
+custo-barcelona	Custo Barcelona		female	https://www.fragrantica.com/perfume/Custo-Barcelona/Custo-Barcelona-4751.html				pending
+custo-man	Custo Man		male	https://www.fragrantica.com/perfume/Custo-Barcelona/Custo-Man-6833.html				pending
+custo-woman-leau	Custo Woman L’Eau		female	https://www.fragrantica.com/perfume/Custo-Barcelona/Custo-Woman-L-Eau-25935.html				pending
+enjoy-man	Enjoy Man		male	https://www.fragrantica.com/perfume/Custo-Barcelona/Enjoy-Man-18868.html				pending
+enjoy-woman	Enjoy Woman		female	https://www.fragrantica.com/perfume/Custo-Barcelona/Enjoy-Woman-18869.html				pending
+glam-star	Glam Star		female	https://www.fragrantica.com/perfume/Custo-Barcelona/Glam-Star-16866.html				pending
+pure-custo-barcelona-man	Pure Custo Barcelona Man		male	https://www.fragrantica.com/perfume/Custo-Barcelona/Pure-Custo-Barcelona-Man-10338.html				pending
+pure-custo-barcelona-woman	Pure Custo Barcelona Woman		female	https://www.fragrantica.com/perfume/Custo-Barcelona/Pure-Custo-Barcelona-Woman-10337.html				pending
+this-is-me	This is Me		female	https://www.fragrantica.com/perfume/Custo-Barcelona/This-is-Me-84971.html				pending

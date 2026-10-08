@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-anime-sante	Anime Sante		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Anime-Sante-64812.html				pending
-barry-lyndon	Barry Lyndon		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Barry-Lyndon-14200.html				pending
-burlesque	Burlesque		female		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Burlesque-17996.html				pending
-cinabre	Cinabre		female		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Cinabre-14198.html				pending
-elephant-and-roses	Elephant & Roses		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Elephant-Roses-32123.html				pending
-exultat	Exultat		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Exultat-14197.html				pending
-finisterre	Finisterre		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Finisterre-23063.html				pending
-gentile	Gentile		male		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Gentile-17997.html				pending
-gershwin	Gershwin		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Gershwin-14199.html				pending
-hanbury	Hanbury		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Hanbury-14201.html				pending
-kitrea	Kitrea		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Kitrea-31768.html				pending
-lady-day	Lady Day		female		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Lady-Day-17998.html				pending
-lankaran-forest	Lankaran Forest		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Lankaran-Forest-40961.html				pending
-leuco	Leucò		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Leuco-31767.html				pending
-luberon	Luberon		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Luberon-17995.html				pending
-noir-tropical	Noir Tropical		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Noir-Tropical-23064.html				pending
-rrose-selavy	Rrose Sèlavy		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Rrose-Selavy-37564.html				pending
-sideris	Sideris		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Sideris-14202.html				pending
-syconium	Syconium		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Syconium-31766.html				pending
-viridarium	Viridarium		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Viridarium-86163.html				pending
-yazemeenah	Yazemeenah		unisex		https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Yazemeenah-73785.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+anime-sante	Anime Sante		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Anime-Sante-64812.html				pending
+barry-lyndon	Barry Lyndon		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Barry-Lyndon-14200.html				pending
+burlesque	Burlesque		female	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Burlesque-17996.html				pending
+cinabre	Cinabre		female	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Cinabre-14198.html				pending
+elephant-and-roses	Elephant & Roses		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Elephant-Roses-32123.html				pending
+exultat	Exultat		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Exultat-14197.html				pending
+finisterre	Finisterre		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Finisterre-23063.html				pending
+gentile	Gentile		male	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Gentile-17997.html				pending
+gershwin	Gershwin		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Gershwin-14199.html				pending
+hanbury	Hanbury		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Hanbury-14201.html				pending
+kitrea	Kitrea		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Kitrea-31768.html				pending
+lady-day	Lady Day		female	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Lady-Day-17998.html				pending
+lankaran-forest	Lankaran Forest		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Lankaran-Forest-40961.html				pending
+leuco	Leucò		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Leuco-31767.html				pending
+luberon	Luberon		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Luberon-17995.html				pending
+noir-tropical	Noir Tropical		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Noir-Tropical-23064.html				pending
+rrose-selavy	Rrose Sèlavy		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Rrose-Selavy-37564.html				pending
+sideris	Sideris		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Sideris-14202.html				pending
+syconium	Syconium		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Syconium-31766.html				pending
+viridarium	Viridarium		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Viridarium-86163.html				pending
+yazemeenah	Yazemeenah		unisex	https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Yazemeenah-73785.html				pending

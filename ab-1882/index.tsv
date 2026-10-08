@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-jardin-bleu	Jardin Bleu		unisex		https://www.fragrantica.com/perfume/AB-1882/Jardin-Bleu-78207.html				pending
-joli-rien	Joli Rien		unisex		https://www.fragrantica.com/perfume/AB-1882/Joli-Rien-78209.html				pending
-le-petit-ab	Le Petit AB		unisex		https://www.fragrantica.com/perfume/AB-1882/Le-Petit-AB-80538.html				pending
-mon-petit-joli-rien	Mon Petit Joli Rien		unisex		https://www.fragrantica.com/perfume/AB-1882/Mon-Petit-Joli-Rien-80537.html				pending
-narciris	Narciris		unisex		https://www.fragrantica.com/perfume/AB-1882/Narciris-78203.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+jardin-bleu	Jardin Bleu		unisex	https://www.fragrantica.com/perfume/AB-1882/Jardin-Bleu-78207.html				pending
+joli-rien	Joli Rien		unisex	https://www.fragrantica.com/perfume/AB-1882/Joli-Rien-78209.html				pending
+le-petit-ab	Le Petit AB		unisex	https://www.fragrantica.com/perfume/AB-1882/Le-Petit-AB-80538.html				pending
+mon-petit-joli-rien	Mon Petit Joli Rien		unisex	https://www.fragrantica.com/perfume/AB-1882/Mon-Petit-Joli-Rien-80537.html				pending
+narciris	Narciris		unisex	https://www.fragrantica.com/perfume/AB-1882/Narciris-78203.html				pending

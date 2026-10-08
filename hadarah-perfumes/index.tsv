@@ -1,19 +1,19 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adelard	Adelard		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Adelard-30617.html				pending
-aflaton	Aflaton		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Aflaton-30654.html				pending
-algazel	Algazel		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Algazel-30618.html				pending
-aristotle	Aristotle		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Aristotle-44461.html				pending
-copernicus	Copernicus		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Copernicus-30650.html				pending
-delicate-fleur-doranger	Delicate Fleur d'Oranger		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Delicate-Fleur-d-Oranger-49667.html				pending
-farab	Farab		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Farab-30652.html				pending
-flower-aphrodisiac	Flower Aphrodisiac		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Flower-Aphrodisiac-49665.html				pending
-geber	Geber		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Geber-30653.html				pending
-gourmandise	Gourmandise		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Gourmandise-49666.html				pending
-hazarfen	Hazarfen		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Hazarfen-44462.html				pending
-kyphi	Kyphi		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Kyphi-49664.html				pending
-marquise	Marquise		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Marquise-49668.html				pending
-offa	Offa		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Offa-30619.html				pending
-oud-kyphi	Oud Kyphi		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Oud-Kyphi-49663.html				pending
-ronda	Ronda		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Ronda-44463.html				pending
-sinan	Sinan		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Sinan-30649.html				pending
-zheng-he	Zheng He		unisex		https://www.fragrantica.com/perfume/Hadarah-Perfumes/Zheng-He-30655.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adelard	Adelard		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Adelard-30617.html				pending
+aflaton	Aflaton		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Aflaton-30654.html				pending
+algazel	Algazel		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Algazel-30618.html				pending
+aristotle	Aristotle		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Aristotle-44461.html				pending
+copernicus	Copernicus		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Copernicus-30650.html				pending
+delicate-fleur-doranger	Delicate Fleur d'Oranger		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Delicate-Fleur-d-Oranger-49667.html				pending
+farab	Farab		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Farab-30652.html				pending
+flower-aphrodisiac	Flower Aphrodisiac		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Flower-Aphrodisiac-49665.html				pending
+geber	Geber		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Geber-30653.html				pending
+gourmandise	Gourmandise		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Gourmandise-49666.html				pending
+hazarfen	Hazarfen		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Hazarfen-44462.html				pending
+kyphi	Kyphi		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Kyphi-49664.html				pending
+marquise	Marquise		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Marquise-49668.html				pending
+offa	Offa		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Offa-30619.html				pending
+oud-kyphi	Oud Kyphi		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Oud-Kyphi-49663.html				pending
+ronda	Ronda		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Ronda-44463.html				pending
+sinan	Sinan		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Sinan-30649.html				pending
+zheng-he	Zheng He		unisex	https://www.fragrantica.com/perfume/Hadarah-Perfumes/Zheng-He-30655.html				pending

@@ -1,28 +1,28 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-agua-de-alfazema	Agua de Alfazema		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-de-Alfazema-26222.html				pending
-agua-de-almiscar	Agua de Almiscar		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-de-Almiscar-26221.html				pending
-agua-de-flores	Agua de Flores		female		https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-de-Flores-26224.html				pending
-agua-imperial	Agua Imperial		male		https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-Imperial-26583.html				pending
-agua-selvagem	Agua Selvagem		male		https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-Selvagem-26584.html				pending
-aguas-de-verao-cavalheiros	Aguas de Verao Cavalheiros		male		https://www.fragrantica.com/perfume/Companhia-da-Terra/Aguas-de-Verao-Cavalheiros-26212.html				pending
-aguas-de-verao-damas	Aguas de Verao Damas		female		https://www.fragrantica.com/perfume/Companhia-da-Terra/Aguas-de-Verao-Damas-26220.html				pending
-ambreta	Ambreta		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Ambreta-26236.html				pending
-bergamota	Bergamota		male		https://www.fragrantica.com/perfume/Companhia-da-Terra/Bergamota-26684.html				pending
-camaris	Camaris		male		https://www.fragrantica.com/perfume/Companhia-da-Terra/Camaris-26223.html				pending
-capim-cheiroso	Capim Cheiroso		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Capim-Cheiroso-26226.html				pending
-colonia-petropolis	Colonia Petropolis		male		https://www.fragrantica.com/perfume/Companhia-da-Terra/Colonia-Petropolis-26685.html				pending
-da-vinci	Da Vinci		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Da-Vinci-26225.html				pending
-eau-de-provence	Eau de Provence		male		https://www.fragrantica.com/perfume/Companhia-da-Terra/Eau-de-Provence-26244.html				pending
-eau-de-provence-26243	Eau de Provence		female		https://www.fragrantica.com/perfume/Companhia-da-Terra/Eau-de-Provence-26243.html				pending
-flor-de-maca	Flor de Maca		female		https://www.fragrantica.com/perfume/Companhia-da-Terra/Flor-de-Maca-26686.html				pending
-flores-do-campo	Flores do Campo		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Flores-do-Campo-26687.html				pending
-lavanda-natural	Lavanda Natural		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Lavanda-Natural-26237.html				pending
-lilas	Lilas		female		https://www.fragrantica.com/perfume/Companhia-da-Terra/Lilas-26688.html				pending
-maca-verde	Maca Verde		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Maca-Verde-26689.html				pending
-magnolia	Magnolia		female		https://www.fragrantica.com/perfume/Companhia-da-Terra/Magnolia-26690.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Patchouli-26234.html				pending
-rosa	Rosa		female		https://www.fragrantica.com/perfume/Companhia-da-Terra/Rosa-26691.html				pending
-secret-garden	Secret Garden		female		https://www.fragrantica.com/perfume/Companhia-da-Terra/Secret-Garden-26692.html				pending
-sport-cologne	Sport Cologne		male		https://www.fragrantica.com/perfume/Companhia-da-Terra/Sport-Cologne-26693.html				pending
-violeta	Violeta		female		https://www.fragrantica.com/perfume/Companhia-da-Terra/Violeta-26694.html				pending
-ylang-ylang	Ylang Ylang		unisex		https://www.fragrantica.com/perfume/Companhia-da-Terra/Ylang-Ylang-26235.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+agua-de-alfazema	Agua de Alfazema		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-de-Alfazema-26222.html				pending
+agua-de-almiscar	Agua de Almiscar		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-de-Almiscar-26221.html				pending
+agua-de-flores	Agua de Flores		female	https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-de-Flores-26224.html				pending
+agua-imperial	Agua Imperial		male	https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-Imperial-26583.html				pending
+agua-selvagem	Agua Selvagem		male	https://www.fragrantica.com/perfume/Companhia-da-Terra/Agua-Selvagem-26584.html				pending
+aguas-de-verao-cavalheiros	Aguas de Verao Cavalheiros		male	https://www.fragrantica.com/perfume/Companhia-da-Terra/Aguas-de-Verao-Cavalheiros-26212.html				pending
+aguas-de-verao-damas	Aguas de Verao Damas		female	https://www.fragrantica.com/perfume/Companhia-da-Terra/Aguas-de-Verao-Damas-26220.html				pending
+ambreta	Ambreta		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Ambreta-26236.html				pending
+bergamota	Bergamota		male	https://www.fragrantica.com/perfume/Companhia-da-Terra/Bergamota-26684.html				pending
+camaris	Camaris		male	https://www.fragrantica.com/perfume/Companhia-da-Terra/Camaris-26223.html				pending
+capim-cheiroso	Capim Cheiroso		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Capim-Cheiroso-26226.html				pending
+colonia-petropolis	Colonia Petropolis		male	https://www.fragrantica.com/perfume/Companhia-da-Terra/Colonia-Petropolis-26685.html				pending
+da-vinci	Da Vinci		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Da-Vinci-26225.html				pending
+eau-de-provence	Eau de Provence		male	https://www.fragrantica.com/perfume/Companhia-da-Terra/Eau-de-Provence-26244.html				pending
+eau-de-provence-26243	Eau de Provence		female	https://www.fragrantica.com/perfume/Companhia-da-Terra/Eau-de-Provence-26243.html				pending
+flor-de-maca	Flor de Maca		female	https://www.fragrantica.com/perfume/Companhia-da-Terra/Flor-de-Maca-26686.html				pending
+flores-do-campo	Flores do Campo		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Flores-do-Campo-26687.html				pending
+lavanda-natural	Lavanda Natural		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Lavanda-Natural-26237.html				pending
+lilas	Lilas		female	https://www.fragrantica.com/perfume/Companhia-da-Terra/Lilas-26688.html				pending
+maca-verde	Maca Verde		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Maca-Verde-26689.html				pending
+magnolia	Magnolia		female	https://www.fragrantica.com/perfume/Companhia-da-Terra/Magnolia-26690.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Patchouli-26234.html				pending
+rosa	Rosa		female	https://www.fragrantica.com/perfume/Companhia-da-Terra/Rosa-26691.html				pending
+secret-garden	Secret Garden		female	https://www.fragrantica.com/perfume/Companhia-da-Terra/Secret-Garden-26692.html				pending
+sport-cologne	Sport Cologne	Cologne	male	https://www.fragrantica.com/perfume/Companhia-da-Terra/Sport-Cologne-26693.html				pending
+violeta	Violeta		female	https://www.fragrantica.com/perfume/Companhia-da-Terra/Violeta-26694.html				pending
+ylang-ylang	Ylang Ylang		unisex	https://www.fragrantica.com/perfume/Companhia-da-Terra/Ylang-Ylang-26235.html				pending

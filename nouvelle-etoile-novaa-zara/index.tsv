@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-fiesta	Fiesta		female		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Fiesta-51341.html				pending
-love-me	Love Me		female		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Love-Me-27969.html				pending
-only-you	Only You		female		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Only-You-32459.html				pending
-opus	Opus		female		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Opus-51339.html				pending
-patchouli-dor-light	Patchouli d'Or Light		female		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Patchouli-d-Or-Light-45786.html				pending
-rose-de-nuit	Rose De Nuit		female		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Rose-De-Nuit-25782.html				pending
-tango-de-passion	Tango de Passion		female		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Tango-de-Passion-32950.html				pending
-the-vert-bergamote	The Vert Bergamote		unisex		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/The-Vert-Bergamote-34347.html				pending
-vetiver-chic	Vetiver Chic		male		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Vetiver-Chic-82826.html				pending
-white-tea	White Tea		female		https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/White-Tea-14235.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+fiesta	Fiesta		female	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Fiesta-51341.html				pending
+love-me	Love Me		female	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Love-Me-27969.html				pending
+only-you	Only You		female	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Only-You-32459.html				pending
+opus	Opus		female	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Opus-51339.html				pending
+patchouli-dor-light	Patchouli d'Or Light		female	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Patchouli-d-Or-Light-45786.html				pending
+rose-de-nuit	Rose De Nuit		female	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Rose-De-Nuit-25782.html				pending
+tango-de-passion	Tango de Passion		female	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Tango-de-Passion-32950.html				pending
+the-vert-bergamote	The Vert Bergamote		unisex	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/The-Vert-Bergamote-34347.html				pending
+vetiver-chic	Vetiver Chic		male	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/Vetiver-Chic-82826.html				pending
+white-tea	White Tea		female	https://www.fragrantica.com/perfume/Nouvelle-Etoile-Novaa-Zara/White-Tea-14235.html				pending

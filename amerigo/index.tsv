@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-91-man	91 Man		male		https://www.fragrantica.com/perfume/Amerigo/91-Man-67300.html				pending
-agrumi-and-frutti	Agrumi & Frutti		female		https://www.fragrantica.com/perfume/Amerigo/Agrumi-Frutti-67285.html				pending
-amerigo-uomo	Amerigo Uomo		male		https://www.fragrantica.com/perfume/Amerigo/Amerigo-Uomo-67299.html				pending
-armonia-rosa	Armonia Rosa		female		https://www.fragrantica.com/perfume/Amerigo/Armonia-Rosa-67287.html				pending
-armonia-verde	Armonia Verde		female		https://www.fragrantica.com/perfume/Amerigo/Armonia-Verde-67286.html				pending
-calycanthus-in-fiore	Calycanthus In Fiore		female		https://www.fragrantica.com/perfume/Amerigo/Calycanthus-In-Fiore-67294.html				pending
-daurora	D'Aurora		female		https://www.fragrantica.com/perfume/Amerigo/D-Aurora-67273.html				pending
-dolce-zenzero	Dolce Zenzero		female		https://www.fragrantica.com/perfume/Amerigo/Dolce-Zenzero-67280.html				pending
-fior-di-vaniglia	Fior Di Vaniglia		female		https://www.fragrantica.com/perfume/Amerigo/Fior-Di-Vaniglia-67296.html				pending
-fresco-relax	Fresco Relax		unisex		https://www.fragrantica.com/perfume/Amerigo/Fresco-Relax-67295.html				pending
-gardenia	Gardenia		female		https://www.fragrantica.com/perfume/Amerigo/Gardenia-67297.html				pending
-ghadames	Ghadames		female		https://www.fragrantica.com/perfume/Amerigo/Ghadames-67288.html				pending
-giglio-bianco	Giglio Bianco		female		https://www.fragrantica.com/perfume/Amerigo/Giglio-Bianco-67293.html				pending
-iris-e-talco	Iris e Talco		female		https://www.fragrantica.com/perfume/Amerigo/Iris-e-Talco-67289.html				pending
-muschio-bianco	Muschio Bianco		female		https://www.fragrantica.com/perfume/Amerigo/Muschio-Bianco-67298.html				pending
-narciso-cipriato	Narciso Cipriato		female		https://www.fragrantica.com/perfume/Amerigo/Narciso-Cipriato-67282.html				pending
-perla-bianca	Perla Bianca		female		https://www.fragrantica.com/perfume/Amerigo/Perla-Bianca-67292.html				pending
-petali-fioriti	Petali Fioriti		female		https://www.fragrantica.com/perfume/Amerigo/Petali-Fioriti-67290.html				pending
-violetta-di-tolosa	Violetta Di Tolosa		female		https://www.fragrantica.com/perfume/Amerigo/Violetta-Di-Tolosa-67291.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+91-man	91 Man		male	https://www.fragrantica.com/perfume/Amerigo/91-Man-67300.html				pending
+agrumi-and-frutti	Agrumi & Frutti		female	https://www.fragrantica.com/perfume/Amerigo/Agrumi-Frutti-67285.html				pending
+amerigo-uomo	Amerigo Uomo		male	https://www.fragrantica.com/perfume/Amerigo/Amerigo-Uomo-67299.html				pending
+armonia-rosa	Armonia Rosa		female	https://www.fragrantica.com/perfume/Amerigo/Armonia-Rosa-67287.html				pending
+armonia-verde	Armonia Verde		female	https://www.fragrantica.com/perfume/Amerigo/Armonia-Verde-67286.html				pending
+calycanthus-in-fiore	Calycanthus In Fiore		female	https://www.fragrantica.com/perfume/Amerigo/Calycanthus-In-Fiore-67294.html				pending
+daurora	D'Aurora		female	https://www.fragrantica.com/perfume/Amerigo/D-Aurora-67273.html				pending
+dolce-zenzero	Dolce Zenzero		female	https://www.fragrantica.com/perfume/Amerigo/Dolce-Zenzero-67280.html				pending
+fior-di-vaniglia	Fior Di Vaniglia		female	https://www.fragrantica.com/perfume/Amerigo/Fior-Di-Vaniglia-67296.html				pending
+fresco-relax	Fresco Relax		unisex	https://www.fragrantica.com/perfume/Amerigo/Fresco-Relax-67295.html				pending
+gardenia	Gardenia		female	https://www.fragrantica.com/perfume/Amerigo/Gardenia-67297.html				pending
+ghadames	Ghadames		female	https://www.fragrantica.com/perfume/Amerigo/Ghadames-67288.html				pending
+giglio-bianco	Giglio Bianco		female	https://www.fragrantica.com/perfume/Amerigo/Giglio-Bianco-67293.html				pending
+iris-e-talco	Iris e Talco		female	https://www.fragrantica.com/perfume/Amerigo/Iris-e-Talco-67289.html				pending
+muschio-bianco	Muschio Bianco		female	https://www.fragrantica.com/perfume/Amerigo/Muschio-Bianco-67298.html				pending
+narciso-cipriato	Narciso Cipriato		female	https://www.fragrantica.com/perfume/Amerigo/Narciso-Cipriato-67282.html				pending
+perla-bianca	Perla Bianca		female	https://www.fragrantica.com/perfume/Amerigo/Perla-Bianca-67292.html				pending
+petali-fioriti	Petali Fioriti		female	https://www.fragrantica.com/perfume/Amerigo/Petali-Fioriti-67290.html				pending
+violetta-di-tolosa	Violetta Di Tolosa		female	https://www.fragrantica.com/perfume/Amerigo/Violetta-Di-Tolosa-67291.html				pending

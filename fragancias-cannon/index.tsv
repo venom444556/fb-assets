@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ciel	Ciel		female		https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-66191.html				pending
-ciel-crystal	Ciel Crystal		female		https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-Crystal-66188.html				pending
-ciel-dete	Ciel d'Été		female		https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-d-Ete-66192.html				pending
-ciel-nuit	Ciel Nuit		female		https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-Nuit-66189.html				pending
-ciel-paradise	Ciel Paradise		female		https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-Paradise-66190.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ciel	Ciel		female	https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-66191.html				pending
+ciel-crystal	Ciel Crystal		female	https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-Crystal-66188.html				pending
+ciel-dete	Ciel d'Été		female	https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-d-Ete-66192.html				pending
+ciel-nuit	Ciel Nuit		female	https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-Nuit-66189.html				pending
+ciel-paradise	Ciel Paradise		female	https://www.fragrantica.com/perfume/Fragancias-Cannon/Ciel-Paradise-66190.html				pending

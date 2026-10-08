@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-berg	Berg		unisex		https://www.fragrantica.com/perfume/Piper-Perro/Berg-72704.html				pending
-froth	Froth		unisex		https://www.fragrantica.com/perfume/Piper-Perro/Froth-93857.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+berg	Berg		unisex	https://www.fragrantica.com/perfume/Piper-Perro/Berg-72704.html				pending
+froth	Froth		unisex	https://www.fragrantica.com/perfume/Piper-Perro/Froth-93857.html				pending

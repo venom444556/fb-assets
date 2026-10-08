@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alice-and-the-rabbit	Alice & The Rabbit		female		https://www.fragrantica.com/perfume/Juliet-Rose/Alice-The-Rabbit-91622.html				pending
-snuggle-bug	Snuggle Bug		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Snuggle-Bug-91630.html				pending
-angel-skin	Angel Skin		female		https://www.fragrantica.com/perfume/Juliet-Rose/Angel-Skin-91623.html				pending
-black-rose-musk	Black Rose Musk		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Black-Rose-Musk-91624.html				pending
-boleyn-tudor-rose	Boleyn Tudor Rose		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Boleyn-Tudor-Rose-91626.html				pending
-come-hither-vanilla	Come Hither Vanilla		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Come-Hither-Vanilla-91625.html				pending
-creme-brulee	Crème Brûlée		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Creme-Brulee-91627.html				pending
-creme-de-banane	Crème de Banane		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Creme-de-Banane-91628.html				pending
-gothic-woods	Gothic Woods		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Gothic-Woods-91629.html				pending
-lost-in-a-forest	Lost in a Forest		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Lost-in-a-Forest-91631.html				pending
-mango-bay-st-james-barbados	Mango Bay St. James Barbados		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Mango-Bay-St-James-Barbados-91621.html				pending
-nina-bonita	Niña Bonita		female		https://www.fragrantica.com/perfume/Juliet-Rose/Nina-Bonita-91618.html				pending
-pahuna-pakele	Pahuna Pakele		female		https://www.fragrantica.com/perfume/Juliet-Rose/Pahuna-Pakele-91632.html				pending
-pistachio-almond-rose	Pistachio Almond Rose		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Pistachio-Almond-Rose-92824.html				pending
-tahitian-vanilla-rum	Tahitian Vanilla Rum		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Tahitian-Vanilla-Rum-91619.html				pending
-toffee-caramel-creme	Toffee Caramel Creme		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Toffee-Caramel-Creme-91633.html				pending
-vanilla-amber-patchouli	Vanilla Amber Patchouli		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Vanilla-Amber-Patchouli-91617.html				pending
-vanilla-cacao	Vanilla Cacao		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Vanilla-Cacao-91620.html				pending
-vanilla-cream-love-bomb	Vanilla Cream Love Bomb		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Vanilla-Cream-Love-Bomb-91634.html				pending
-victorian-violet	Victorian Violet		unisex		https://www.fragrantica.com/perfume/Juliet-Rose/Victorian-Violet-91635.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alice-and-the-rabbit	Alice & The Rabbit		female	https://www.fragrantica.com/perfume/Juliet-Rose/Alice-The-Rabbit-91622.html				pending
+angel-skin	Angel Skin		female	https://www.fragrantica.com/perfume/Juliet-Rose/Angel-Skin-91623.html				pending
+black-rose-musk	Black Rose Musk		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Black-Rose-Musk-91624.html				pending
+boleyn-tudor-rose	Boleyn Tudor Rose		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Boleyn-Tudor-Rose-91626.html				pending
+come-hither-vanilla	Come Hither Vanilla		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Come-Hither-Vanilla-91625.html				pending
+creme-brulee	Crème Brûlée		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Creme-Brulee-91627.html				pending
+creme-de-banane	Crème de Banane		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Creme-de-Banane-91628.html				pending
+gothic-woods	Gothic Woods		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Gothic-Woods-91629.html				pending
+lost-in-a-forest	Lost in a Forest		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Lost-in-a-Forest-91631.html				pending
+mango-bay-st-james-barbados	Mango Bay St. James Barbados		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Mango-Bay-St-James-Barbados-91621.html				pending
+nina-bonita	Niña Bonita		female	https://www.fragrantica.com/perfume/Juliet-Rose/Nina-Bonita-91618.html				pending
+pahuna-pakele	Pahuna Pakele		female	https://www.fragrantica.com/perfume/Juliet-Rose/Pahuna-Pakele-91632.html				pending
+pistachio-almond-rose	Pistachio Almond Rose		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Pistachio-Almond-Rose-92824.html				pending
+snuggle-bug	Snuggle Bug		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Snuggle-Bug-91630.html				pending
+tahitian-vanilla-rum	Tahitian Vanilla Rum		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Tahitian-Vanilla-Rum-91619.html				pending
+toffee-caramel-creme	Toffee Caramel Creme		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Toffee-Caramel-Creme-91633.html				pending
+vanilla-amber-patchouli	Vanilla Amber Patchouli		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Vanilla-Amber-Patchouli-91617.html				pending
+vanilla-cacao	Vanilla Cacao		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Vanilla-Cacao-91620.html				pending
+vanilla-cream-love-bomb	Vanilla Cream Love Bomb		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Vanilla-Cream-Love-Bomb-91634.html				pending
+victorian-violet	Victorian Violet		unisex	https://www.fragrantica.com/perfume/Juliet-Rose/Victorian-Violet-91635.html				pending

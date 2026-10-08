@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-carli	Carli		female		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Carli-87462.html				pending
-caz	Caz		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Caz-89567.html				pending
-diplomat-diplomat	Diplomat Diplomat		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Diplomat-Diplomat-41270.html				pending
-impul-s-dukhi	Impul s dukhi		female		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Impul-s-dukhi-90054.html				pending
-impul-s-odekolon	Impul s odekolon		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Impul-s-odekolon-90055.html				pending
-khattrik	Khattrik		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Khattrik-89693.html				pending
-kontinent	Kontinent		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Kontinent-94966.html				pending
-kristal-nyj-crystal	Kristal nyj Crystal		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Kristal-nyj-Crystal-87416.html				pending
-lavandovyj	Lavandovyj		unisex		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Lavandovyj-87461.html				pending
-moskovskij-kreml-dukhi	Moskovskij Kreml Dukhi		female		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Moskovskij-Kreml-Dukhi-90158.html				pending
-moskovskij-kreml-odekolon	Moskovskij Kreml Odekolon		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Moskovskij-Kreml-Odekolon-90157.html				pending
-quid	Quid		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Quid-82333.html				pending
-sans-chance	Sans Chance		female		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Sans-Chance-38941.html				pending
-siraki	Siraki		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Siraki-83073.html				pending
-tabiti	Tabiti		unisex		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Tabiti-83072.html				pending
-tundra	Tundra		male		https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Tundra-82332.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+carli	Carli		female	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Carli-87462.html				pending
+caz	Caz		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Caz-89567.html				pending
+diplomat-diplomat	Diplomat Diplomat		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Diplomat-Diplomat-41270.html				pending
+impul-s-dukhi	Impul s dukhi		female	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Impul-s-dukhi-90054.html				pending
+impul-s-odekolon	Impul s odekolon		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Impul-s-odekolon-90055.html				pending
+khattrik	Khattrik		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Khattrik-89693.html				pending
+kontinent	Kontinent		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Kontinent-94966.html				pending
+kristal-nyj-crystal	Kristal nyj Crystal		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Kristal-nyj-Crystal-87416.html				pending
+lavandovyj	Lavandovyj		unisex	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Lavandovyj-87461.html				pending
+moskovskij-kreml-dukhi	Moskovskij Kreml Dukhi		female	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Moskovskij-Kreml-Dukhi-90158.html				pending
+moskovskij-kreml-odekolon	Moskovskij Kreml Odekolon		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Moskovskij-Kreml-Odekolon-90157.html				pending
+quid	Quid		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Quid-82333.html				pending
+sans-chance	Sans Chance		female	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Sans-Chance-38941.html				pending
+siraki	Siraki		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Siraki-83073.html				pending
+tabiti	Tabiti		unisex	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Tabiti-83072.html				pending
+tundra	Tundra		male	https://www.fragrantica.com/perfume/Souzparfumerprom-Soyuzparfumerprom/Tundra-82332.html				pending

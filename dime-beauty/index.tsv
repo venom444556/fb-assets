@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-7-summers	7 Summers		female		https://www.fragrantica.com/perfume/DIME-Beauty/7-Summers-73531.html				pending
-i-love-your-smell-baby	I Love Your Smell, Baby		female		https://www.fragrantica.com/perfume/DIME-Beauty/I-Love-Your-Smell-Baby-73533.html				pending
-lovely-sweet-dreams	Lovely Sweet Dreams		female		https://www.fragrantica.com/perfume/DIME-Beauty/Lovely-Sweet-Dreams-73534.html				pending
-malibu-night	Malibu Night		female		https://www.fragrantica.com/perfume/DIME-Beauty/Malibu-Night-73532.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+7-summers	7 Summers		female	https://www.fragrantica.com/perfume/DIME-Beauty/7-Summers-73531.html				pending
+i-love-your-smell-baby	I Love Your Smell, Baby		female	https://www.fragrantica.com/perfume/DIME-Beauty/I-Love-Your-Smell-Baby-73533.html				pending
+lovely-sweet-dreams	Lovely Sweet Dreams		female	https://www.fragrantica.com/perfume/DIME-Beauty/Lovely-Sweet-Dreams-73534.html				pending
+malibu-night	Malibu Night		female	https://www.fragrantica.com/perfume/DIME-Beauty/Malibu-Night-73532.html				pending

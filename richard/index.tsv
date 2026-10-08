@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-mark	Black Mark		unisex		https://www.fragrantica.com/perfume/Richard/Black-Mark-55986.html				pending
-blue-blood	Blue Blood		unisex		https://www.fragrantica.com/perfume/Richard/Blue-Blood-63001.html				pending
-cake-pops	Cake Pops		unisex		https://www.fragrantica.com/perfume/Richard/Cake-Pops-75275.html				pending
-champagne-kiss	Champagne Kiss		female		https://www.fragrantica.com/perfume/Richard/Champagne-Kiss-95390.html				pending
-cherry-show	Cherry Show		female		https://www.fragrantica.com/perfume/Richard/Cherry-Show-97480.html				pending
-coca-chocola	Coca Chocola		female		https://www.fragrantica.com/perfume/Richard/Coca-Chocola-95391.html				pending
-dark-side	Dark Side		unisex		https://www.fragrantica.com/perfume/Richard/Dark-Side-68839.html				pending
-dirty-mango	Dirty Mango		female		https://www.fragrantica.com/perfume/Richard/Dirty-Mango-66804.html				pending
-dirty-peach	Dirty Peach		female		https://www.fragrantica.com/perfume/Richard/Dirty-Peach-72264.html				pending
-dirty-pineapple	Dirty Pineapple		unisex		https://www.fragrantica.com/perfume/Richard/Dirty-Pineapple-75276.html				pending
-fake-love	Fake Love		female		https://www.fragrantica.com/perfume/Richard/Fake-Love-97479.html				pending
-green-virus	Green Virus		unisex		https://www.fragrantica.com/perfume/Richard/Green-Virus-66805.html				pending
-pear-show	Pear Show		unisex		https://www.fragrantica.com/perfume/Richard/Pear-Show-75274.html				pending
-red-fury	Red Fury		unisex		https://www.fragrantica.com/perfume/Richard/Red-Fury-68837.html				pending
-red-square	Red Square		unisex		https://www.fragrantica.com/perfume/Richard/Red-Square-55987.html				pending
-venom	Venom		unisex		https://www.fragrantica.com/perfume/Richard/Venom-72263.html				pending
-white-chocola-extrait	White Chocola Extrait		female		https://www.fragrantica.com/perfume/Richard/White-Chocola-Extrait-78342.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-mark	Black Mark		unisex	https://www.fragrantica.com/perfume/Richard/Black-Mark-55986.html				pending
+blue-blood	Blue Blood		unisex	https://www.fragrantica.com/perfume/Richard/Blue-Blood-63001.html				pending
+cake-pops	Cake Pops		unisex	https://www.fragrantica.com/perfume/Richard/Cake-Pops-75275.html				pending
+champagne-kiss	Champagne Kiss		female	https://www.fragrantica.com/perfume/Richard/Champagne-Kiss-95390.html				pending
+cherry-show	Cherry Show		female	https://www.fragrantica.com/perfume/Richard/Cherry-Show-97480.html				pending
+coca-chocola	Coca Chocola		female	https://www.fragrantica.com/perfume/Richard/Coca-Chocola-95391.html				pending
+dark-side	Dark Side		unisex	https://www.fragrantica.com/perfume/Richard/Dark-Side-68839.html				pending
+dirty-mango	Dirty Mango		female	https://www.fragrantica.com/perfume/Richard/Dirty-Mango-66804.html				pending
+dirty-peach	Dirty Peach		female	https://www.fragrantica.com/perfume/Richard/Dirty-Peach-72264.html				pending
+dirty-pineapple	Dirty Pineapple		unisex	https://www.fragrantica.com/perfume/Richard/Dirty-Pineapple-75276.html				pending
+fake-love	Fake Love		female	https://www.fragrantica.com/perfume/Richard/Fake-Love-97479.html				pending
+green-virus	Green Virus		unisex	https://www.fragrantica.com/perfume/Richard/Green-Virus-66805.html				pending
+pear-show	Pear Show		unisex	https://www.fragrantica.com/perfume/Richard/Pear-Show-75274.html				pending
+red-fury	Red Fury		unisex	https://www.fragrantica.com/perfume/Richard/Red-Fury-68837.html				pending
+red-square	Red Square		unisex	https://www.fragrantica.com/perfume/Richard/Red-Square-55987.html				pending
+venom	Venom		unisex	https://www.fragrantica.com/perfume/Richard/Venom-72263.html				pending
+white-chocola-extrait	White Chocola Extrait	Extrait de Parfum	female	https://www.fragrantica.com/perfume/Richard/White-Chocola-Extrait-78342.html				pending

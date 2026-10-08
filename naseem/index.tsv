@@ -1,36 +1,36 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-nadeen	Nadeen		unisex		https://www.fragrantica.com/perfume/Naseem/Nadeen-75265.html				pending
-ocean-enigma	Ocean Enigma		unisex		https://www.fragrantica.com/perfume/Naseem/Ocean-Enigma-93549.html				pending
-african-sunset	African Sunset		unisex		https://www.fragrantica.com/perfume/Naseem/African-Sunset-92357.html				pending
-al-manar	Al Manar		unisex		https://www.fragrantica.com/perfume/Naseem/Al-Manar-39268.html				pending
-amaal	Amaal		female		https://www.fragrantica.com/perfume/Naseem/Amaal-39267.html				pending
-amethyst-love	Amethyst Love		unisex		https://www.fragrantica.com/perfume/Naseem/Amethyst-Love-81432.html				pending
-aqua	Aqua		unisex		https://www.fragrantica.com/perfume/Naseem/Aqua-75219.html				pending
-asma	Asma		unisex		https://www.fragrantica.com/perfume/Naseem/Asma-75270.html				pending
-aura	Aura		unisex		https://www.fragrantica.com/perfume/Naseem/Aura-75220.html				pending
-dahan-al-ood-muattaq	Dahan Al Ood Muattaq		unisex		https://www.fragrantica.com/perfume/Naseem/Dahan-Al-Ood-Muattaq-40454.html				pending
-dunya	Dunya		unisex		https://www.fragrantica.com/perfume/Naseem/Dunya-75280.html				pending
-hafsa	Hafsa		unisex		https://www.fragrantica.com/perfume/Naseem/Hafsa-75279.html				pending
-hanayen	Hanayen		unisex		https://www.fragrantica.com/perfume/Naseem/Hanayen-35066.html				pending
-huda	Huda		female		https://www.fragrantica.com/perfume/Naseem/Huda-39270.html				pending
-hypnotic-passion	Hypnotic Passion		unisex		https://www.fragrantica.com/perfume/Naseem/Hypnotic-Passion-81431.html				pending
-ibdaa	Ibdaa		unisex		https://www.fragrantica.com/perfume/Naseem/Ibdaa-75281.html				pending
-inferno	Inferno		unisex		https://www.fragrantica.com/perfume/Naseem/Inferno-75221.html				pending
-khalsat	Khalsat		female		https://www.fragrantica.com/perfume/Naseem/Khalsat-63867.html				pending
-lost-in-the-woods	Lost in the Woods		unisex		https://www.fragrantica.com/perfume/Naseem/Lost-in-the-Woods-81436.html				pending
-love-me-now	Love Me Now		unisex		https://www.fragrantica.com/perfume/Naseem/Love-Me-Now-81442.html				pending
-night-of-success	Night of Success		unisex		https://www.fragrantica.com/perfume/Naseem/Night-of-Success-81441.html				pending
-oud	Oud		unisex		https://www.fragrantica.com/perfume/Naseem/Oud-75218.html				pending
-purple-blue	Purple Blue		unisex		https://www.fragrantica.com/perfume/Naseem/Purple-Blue-81433.html				pending
-qadr	Qadr		unisex		https://www.fragrantica.com/perfume/Naseem/Qadr-40453.html				pending
-rehan	Rehan		unisex		https://www.fragrantica.com/perfume/Naseem/Rehan-75269.html				pending
-sabika	Sabika		unisex		https://www.fragrantica.com/perfume/Naseem/Sabika-75271.html				pending
-salwa	Salwa		unisex		https://www.fragrantica.com/perfume/Naseem/Salwa-75296.html				pending
-shabab	Shabab		unisex		https://www.fragrantica.com/perfume/Naseem/Shabab-75222.html				pending
-summer-69	Summer-69		unisex		https://www.fragrantica.com/perfume/Naseem/Summer-69-81440.html				pending
-turn-up-the-volume	Turn Up The Volume		unisex		https://www.fragrantica.com/perfume/Naseem/Turn-Up-The-Volume-81437.html				pending
-twin-paradise	Twin Paradise		unisex		https://www.fragrantica.com/perfume/Naseem/Twin-Paradise-81434.html				pending
-urban-beat	Urban Beat		unisex		https://www.fragrantica.com/perfume/Naseem/Urban-Beat-81435.html				pending
-wild-impulse	Wild Impulse		unisex		https://www.fragrantica.com/perfume/Naseem/Wild-Impulse-81438.html				pending
-wild-obsession	Wild Obsession		unisex		https://www.fragrantica.com/perfume/Naseem/Wild-Obsession-81439.html				pending
-yumna	Yumna		unisex		https://www.fragrantica.com/perfume/Naseem/Yumna-75267.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+african-sunset	African Sunset		unisex	https://www.fragrantica.com/perfume/Naseem/African-Sunset-92357.html				pending
+al-manar	Al Manar		unisex	https://www.fragrantica.com/perfume/Naseem/Al-Manar-39268.html				pending
+amaal	Amaal		female	https://www.fragrantica.com/perfume/Naseem/Amaal-39267.html				pending
+amethyst-love	Amethyst Love		unisex	https://www.fragrantica.com/perfume/Naseem/Amethyst-Love-81432.html				pending
+aqua	Aqua		unisex	https://www.fragrantica.com/perfume/Naseem/Aqua-75219.html				pending
+asma	Asma		unisex	https://www.fragrantica.com/perfume/Naseem/Asma-75270.html				pending
+aura	Aura		unisex	https://www.fragrantica.com/perfume/Naseem/Aura-75220.html				pending
+dahan-al-ood-muattaq	Dahan Al Ood Muattaq		unisex	https://www.fragrantica.com/perfume/Naseem/Dahan-Al-Ood-Muattaq-40454.html				pending
+dunya	Dunya		unisex	https://www.fragrantica.com/perfume/Naseem/Dunya-75280.html				pending
+hafsa	Hafsa		unisex	https://www.fragrantica.com/perfume/Naseem/Hafsa-75279.html				pending
+hanayen	Hanayen		unisex	https://www.fragrantica.com/perfume/Naseem/Hanayen-35066.html				pending
+huda	Huda		female	https://www.fragrantica.com/perfume/Naseem/Huda-39270.html				pending
+hypnotic-passion	Hypnotic Passion		unisex	https://www.fragrantica.com/perfume/Naseem/Hypnotic-Passion-81431.html				pending
+ibdaa	Ibdaa		unisex	https://www.fragrantica.com/perfume/Naseem/Ibdaa-75281.html				pending
+inferno	Inferno		unisex	https://www.fragrantica.com/perfume/Naseem/Inferno-75221.html				pending
+khalsat	Khalsat		female	https://www.fragrantica.com/perfume/Naseem/Khalsat-63867.html				pending
+lost-in-the-woods	Lost in the Woods		unisex	https://www.fragrantica.com/perfume/Naseem/Lost-in-the-Woods-81436.html				pending
+love-me-now	Love Me Now		unisex	https://www.fragrantica.com/perfume/Naseem/Love-Me-Now-81442.html				pending
+nadeen	Nadeen		unisex	https://www.fragrantica.com/perfume/Naseem/Nadeen-75265.html				pending
+night-of-success	Night of Success		unisex	https://www.fragrantica.com/perfume/Naseem/Night-of-Success-81441.html				pending
+ocean-enigma	Ocean Enigma		unisex	https://www.fragrantica.com/perfume/Naseem/Ocean-Enigma-93549.html				pending
+oud	Oud		unisex	https://www.fragrantica.com/perfume/Naseem/Oud-75218.html				pending
+purple-blue	Purple Blue		unisex	https://www.fragrantica.com/perfume/Naseem/Purple-Blue-81433.html				pending
+qadr	Qadr		unisex	https://www.fragrantica.com/perfume/Naseem/Qadr-40453.html				pending
+rehan	Rehan		unisex	https://www.fragrantica.com/perfume/Naseem/Rehan-75269.html				pending
+sabika	Sabika		unisex	https://www.fragrantica.com/perfume/Naseem/Sabika-75271.html				pending
+salwa	Salwa		unisex	https://www.fragrantica.com/perfume/Naseem/Salwa-75296.html				pending
+shabab	Shabab		unisex	https://www.fragrantica.com/perfume/Naseem/Shabab-75222.html				pending
+summer-69	Summer-69		unisex	https://www.fragrantica.com/perfume/Naseem/Summer-69-81440.html				pending
+turn-up-the-volume	Turn Up The Volume		unisex	https://www.fragrantica.com/perfume/Naseem/Turn-Up-The-Volume-81437.html				pending
+twin-paradise	Twin Paradise		unisex	https://www.fragrantica.com/perfume/Naseem/Twin-Paradise-81434.html				pending
+urban-beat	Urban Beat		unisex	https://www.fragrantica.com/perfume/Naseem/Urban-Beat-81435.html				pending
+wild-impulse	Wild Impulse		unisex	https://www.fragrantica.com/perfume/Naseem/Wild-Impulse-81438.html				pending
+wild-obsession	Wild Obsession		unisex	https://www.fragrantica.com/perfume/Naseem/Wild-Obsession-81439.html				pending
+yumna	Yumna		unisex	https://www.fragrantica.com/perfume/Naseem/Yumna-75267.html				pending

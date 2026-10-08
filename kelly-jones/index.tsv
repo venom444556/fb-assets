@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-citrus-perfume-oil	Citrus Perfume Oil		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Citrus-Perfume-Oil-42120.html				pending
-earth-perfume-oil	Earth Perfume Oil		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Earth-Perfume-Oil-42121.html				pending
-floral-perfume-oil	Floral Perfume Oil		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Floral-Perfume-Oil-42122.html				pending
-fruit-perfume-oil	Fruit Perfume Oil		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Fruit-Perfume-Oil-42123.html				pending
-mezcal-anejo	Mezcal Añejo		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Anejo-87523.html				pending
-mezcal-blanca	Mezcal Blanca		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Blanca-53301.html				pending
-mezcal-flora	Mezcal Flora		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Flora-87522.html				pending
-mezcal-negra	Mezcal Negra		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Negra-53302.html				pending
-mezcal-roja	Mezcal Roja		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Roja-53303.html				pending
-mezcal-verde	Mezcal Verde		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Verde-73674.html				pending
-no-1-notes-of-sauvignon-blanc	No. 1 Notes of Sauvignon Blanc		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/No-1-Notes-of-Sauvignon-Blanc-35905.html				pending
-no-2-notes-of-riesling	No. 2 Notes of Riesling		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/No-2-Notes-of-Riesling-35906.html				pending
-no-3-notes-of-cabernet	No. 3 Notes of Cabernet		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/No-3-Notes-of-Cabernet-35907.html				pending
-no-4-notes-of-merlot	No. 4 Notes of Merlot		female		https://www.fragrantica.com/perfume/Kelly-Jones/No-4-Notes-of-Merlot-35908.html				pending
-no-5-notes-of-chardonnay	No. 5 Notes of Chardonnay		female		https://www.fragrantica.com/perfume/Kelly-Jones/No-5-Notes-of-Chardonnay-35909.html				pending
-notes-of-cabernet-reserve	Notes of Cabernet Reserve		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Cabernet-Reserve-41244.html				pending
-notes-of-chardonnay-reserve	Notes of Chardonnay Reserve		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Chardonnay-Reserve-41241.html				pending
-notes-of-merlot-reserve	Notes of Merlot Reserve		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Merlot-Reserve-41245.html				pending
-notes-of-pinot-grigio-reserve	Notes of Pinot Grigio Reserve		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Pinot-Grigio-Reserve-41242.html				pending
-notes-of-riesling-reserve	Notes Of Riesling Reserve		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Notes-Of-Riesling-Reserve-41243.html				pending
-notes-of-rose-reserve	Notes of Rose Reserve		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Rose-Reserve-41246.html				pending
-oak-perfume-oil	Oak Perfume Oil		unisex		https://www.fragrantica.com/perfume/Kelly-Jones/Oak-Perfume-Oil-42119.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+citrus-perfume-oil	Citrus Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Citrus-Perfume-Oil-42120.html				pending
+earth-perfume-oil	Earth Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Earth-Perfume-Oil-42121.html				pending
+floral-perfume-oil	Floral Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Floral-Perfume-Oil-42122.html				pending
+fruit-perfume-oil	Fruit Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Fruit-Perfume-Oil-42123.html				pending
+mezcal-anejo	Mezcal Añejo		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Anejo-87523.html				pending
+mezcal-blanca	Mezcal Blanca		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Blanca-53301.html				pending
+mezcal-flora	Mezcal Flora		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Flora-87522.html				pending
+mezcal-negra	Mezcal Negra		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Negra-53302.html				pending
+mezcal-roja	Mezcal Roja		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Roja-53303.html				pending
+mezcal-verde	Mezcal Verde		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Mezcal-Verde-73674.html				pending
+no-1-notes-of-sauvignon-blanc	No. 1 Notes of Sauvignon Blanc		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/No-1-Notes-of-Sauvignon-Blanc-35905.html				pending
+no-2-notes-of-riesling	No. 2 Notes of Riesling		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/No-2-Notes-of-Riesling-35906.html				pending
+no-3-notes-of-cabernet	No. 3 Notes of Cabernet		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/No-3-Notes-of-Cabernet-35907.html				pending
+no-4-notes-of-merlot	No. 4 Notes of Merlot		female	https://www.fragrantica.com/perfume/Kelly-Jones/No-4-Notes-of-Merlot-35908.html				pending
+no-5-notes-of-chardonnay	No. 5 Notes of Chardonnay		female	https://www.fragrantica.com/perfume/Kelly-Jones/No-5-Notes-of-Chardonnay-35909.html				pending
+notes-of-cabernet-reserve	Notes of Cabernet Reserve		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Cabernet-Reserve-41244.html				pending
+notes-of-chardonnay-reserve	Notes of Chardonnay Reserve		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Chardonnay-Reserve-41241.html				pending
+notes-of-merlot-reserve	Notes of Merlot Reserve		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Merlot-Reserve-41245.html				pending
+notes-of-pinot-grigio-reserve	Notes of Pinot Grigio Reserve		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Pinot-Grigio-Reserve-41242.html				pending
+notes-of-riesling-reserve	Notes Of Riesling Reserve		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Notes-Of-Riesling-Reserve-41243.html				pending
+notes-of-rose-reserve	Notes of Rose Reserve		unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Notes-of-Rose-Reserve-41246.html				pending
+oak-perfume-oil	Oak Perfume Oil	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Kelly-Jones/Oak-Perfume-Oil-42119.html				pending

@@ -1,43 +1,43 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-al-andalus	Al Andalus		unisex		https://www.fragrantica.com/perfume/Moresque/Al-Andalus-31079.html				pending
-alma-pure	Alma Pure		female		https://www.fragrantica.com/perfume/Moresque/Alma-Pure-52367.html				pending
-aristoqrati	Aristoqrati		unisex		https://www.fragrantica.com/perfume/Moresque/Aristoqrati-31084.html				pending
-aurum	Aurum		unisex		https://www.fragrantica.com/perfume/Moresque/Aurum-41459.html				pending
-ballerina	Ballerina		female		https://www.fragrantica.com/perfume/Moresque/Ballerina-57501.html				pending
-byron	Byron		male		https://www.fragrantica.com/perfume/Moresque/Byron-77030.html				pending
-contessa	Contessa		unisex		https://www.fragrantica.com/perfume/Moresque/Contessa-35669.html				pending
-diadema	Diadema		unisex		https://www.fragrantica.com/perfume/Moresque/Diadema-31081.html				pending
-divina-marchesa	Divina Marchesa		unisex		https://www.fragrantica.com/perfume/Moresque/Divina-Marchesa-69595.html				pending
-emiro	Emiro		unisex		https://www.fragrantica.com/perfume/Moresque/Emiro-31078.html				pending
-fiamma	Fiamma		unisex		https://www.fragrantica.com/perfume/Moresque/Fiamma-41458.html				pending
-fiore-di-portofino	Fiore di Portofino		unisex		https://www.fragrantica.com/perfume/Moresque/Fiore-di-Portofino-41027.html				pending
-jasminisha	Jasminisha		unisex		https://www.fragrantica.com/perfume/Moresque/Jasminisha-52361.html				pending
-lady-tubereuse	Lady Tubereuse		female		https://www.fragrantica.com/perfume/Moresque/Lady-Tubereuse-60115.html				pending
-modern-oud	Modern Oud		male		https://www.fragrantica.com/perfume/Moresque/Modern-Oud-60116.html				pending
-moreta	Moreta		unisex		https://www.fragrantica.com/perfume/Moresque/Moreta-31082.html				pending
-muskberry	Muskberry		unisex		https://www.fragrantica.com/perfume/Moresque/Muskberry-103061.html				pending
-oro	Oro		unisex		https://www.fragrantica.com/perfume/Moresque/Oro-49377.html				pending
-oroluna	Oroluna		unisex		https://www.fragrantica.com/perfume/Moresque/Oroluna-41460.html				pending
-perpetual	Perpetual		unisex		https://www.fragrantica.com/perfume/Moresque/Perpetual-91332.html				pending
-rand	Rand		unisex		https://www.fragrantica.com/perfume/Moresque/Rand-31080.html				pending
-rand-rose	Rand Rose		unisex		https://www.fragrantica.com/perfume/Moresque/Rand-Rose-87131.html				pending
-re-nero	Re Nero		unisex		https://www.fragrantica.com/perfume/Moresque/Re-Nero-49379.html				pending
-regina	Regina		unisex		https://www.fragrantica.com/perfume/Moresque/Regina-41028.html				pending
-regina-di-fiori	Regina Di Fiori		unisex		https://www.fragrantica.com/perfume/Moresque/Regina-Di-Fiori-87132.html				pending
-rosa-ekaterina	Rosa Ekaterina		unisex		https://www.fragrantica.com/perfume/Moresque/Rosa-Ekaterina-46816.html				pending
-royal	Royal		female		https://www.fragrantica.com/perfume/Moresque/Royal-54815.html				pending
-sahara-blue	Sahara Blue		unisex		https://www.fragrantica.com/perfume/Moresque/Sahara-Blue-49378.html				pending
-sandal-granada	Sandal Granada		unisex		https://www.fragrantica.com/perfume/Moresque/Sandal-Granada-44325.html				pending
-scarlet-rouge	Scarlet Rouge		unisex		https://www.fragrantica.com/perfume/Moresque/Scarlet-Rouge-74770.html				pending
-scirocco	Scirocco		unisex		https://www.fragrantica.com/perfume/Moresque/Scirocco-79845.html				pending
-seta	Seta		unisex		https://www.fragrantica.com/perfume/Moresque/Seta-52360.html				pending
-sole	Sole		unisex		https://www.fragrantica.com/perfume/Moresque/Sole-44226.html				pending
-soul-batik	Soul Batik		unisex		https://www.fragrantica.com/perfume/Moresque/Soul-Batik-52362.html				pending
-tamima	Tamima		unisex		https://www.fragrantica.com/perfume/Moresque/Tamima-31083.html				pending
-tamima-sillage	Tamima Sillage		female		https://www.fragrantica.com/perfume/Moresque/Tamima-Sillage-69523.html				pending
-ubar-1992	Ubar 1992		unisex		https://www.fragrantica.com/perfume/Moresque/Ubar-1992-52368.html				pending
-white-duke	White Duke		male		https://www.fragrantica.com/perfume/Moresque/White-Duke-54814.html				pending
-amber-arabesque	Amber Arabesque		unisex		https://www.fragrantica.com/perfume/Moresque/Amber-Arabesque-79147.html				pending
-amberesque	Amberesque		unisex		https://www.fragrantica.com/perfume/Moresque/Amberesque-87130.html				pending
-emarati	Emarati		unisex		https://www.fragrantica.com/perfume/Moresque/Emarati-58829.html				pending
-midnight-london	Midnight London		unisex		https://www.fragrantica.com/perfume/Moresque/Midnight-London-52574.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+al-andalus	Al Andalus		unisex	https://www.fragrantica.com/perfume/Moresque/Al-Andalus-31079.html				pending
+alma-pure	Alma Pure		female	https://www.fragrantica.com/perfume/Moresque/Alma-Pure-52367.html				pending
+amber-arabesque	Amber Arabesque		unisex	https://www.fragrantica.com/perfume/Moresque/Amber-Arabesque-79147.html				pending
+amberesque	Amberesque		unisex	https://www.fragrantica.com/perfume/Moresque/Amberesque-87130.html				pending
+aristoqrati	Aristoqrati		unisex	https://www.fragrantica.com/perfume/Moresque/Aristoqrati-31084.html				pending
+aurum	Aurum		unisex	https://www.fragrantica.com/perfume/Moresque/Aurum-41459.html				pending
+ballerina	Ballerina		female	https://www.fragrantica.com/perfume/Moresque/Ballerina-57501.html				pending
+byron	Byron		male	https://www.fragrantica.com/perfume/Moresque/Byron-77030.html				pending
+contessa	Contessa		unisex	https://www.fragrantica.com/perfume/Moresque/Contessa-35669.html				pending
+diadema	Diadema		unisex	https://www.fragrantica.com/perfume/Moresque/Diadema-31081.html				pending
+divina-marchesa	Divina Marchesa		unisex	https://www.fragrantica.com/perfume/Moresque/Divina-Marchesa-69595.html				pending
+emarati	Emarati		unisex	https://www.fragrantica.com/perfume/Moresque/Emarati-58829.html				pending
+emiro	Emiro		unisex	https://www.fragrantica.com/perfume/Moresque/Emiro-31078.html				pending
+fiamma	Fiamma		unisex	https://www.fragrantica.com/perfume/Moresque/Fiamma-41458.html				pending
+fiore-di-portofino	Fiore di Portofino		unisex	https://www.fragrantica.com/perfume/Moresque/Fiore-di-Portofino-41027.html				pending
+jasminisha	Jasminisha		unisex	https://www.fragrantica.com/perfume/Moresque/Jasminisha-52361.html				pending
+lady-tubereuse	Lady Tubereuse		female	https://www.fragrantica.com/perfume/Moresque/Lady-Tubereuse-60115.html				pending
+midnight-london	Midnight London		unisex	https://www.fragrantica.com/perfume/Moresque/Midnight-London-52574.html				pending
+modern-oud	Modern Oud		male	https://www.fragrantica.com/perfume/Moresque/Modern-Oud-60116.html				pending
+moreta	Moreta		unisex	https://www.fragrantica.com/perfume/Moresque/Moreta-31082.html				pending
+muskberry	Muskberry		unisex	https://www.fragrantica.com/perfume/Moresque/Muskberry-103061.html				pending
+oro	Oro		unisex	https://www.fragrantica.com/perfume/Moresque/Oro-49377.html				pending
+oroluna	Oroluna		unisex	https://www.fragrantica.com/perfume/Moresque/Oroluna-41460.html				pending
+perpetual	Perpetual		unisex	https://www.fragrantica.com/perfume/Moresque/Perpetual-91332.html				pending
+rand	Rand		unisex	https://www.fragrantica.com/perfume/Moresque/Rand-31080.html				pending
+rand-rose	Rand Rose		unisex	https://www.fragrantica.com/perfume/Moresque/Rand-Rose-87131.html				pending
+re-nero	Re Nero		unisex	https://www.fragrantica.com/perfume/Moresque/Re-Nero-49379.html				pending
+regina	Regina		unisex	https://www.fragrantica.com/perfume/Moresque/Regina-41028.html				pending
+regina-di-fiori	Regina Di Fiori		unisex	https://www.fragrantica.com/perfume/Moresque/Regina-Di-Fiori-87132.html				pending
+rosa-ekaterina	Rosa Ekaterina		unisex	https://www.fragrantica.com/perfume/Moresque/Rosa-Ekaterina-46816.html				pending
+royal	Royal		female	https://www.fragrantica.com/perfume/Moresque/Royal-54815.html				pending
+sahara-blue	Sahara Blue		unisex	https://www.fragrantica.com/perfume/Moresque/Sahara-Blue-49378.html				pending
+sandal-granada	Sandal Granada		unisex	https://www.fragrantica.com/perfume/Moresque/Sandal-Granada-44325.html				pending
+scarlet-rouge	Scarlet Rouge		unisex	https://www.fragrantica.com/perfume/Moresque/Scarlet-Rouge-74770.html				pending
+scirocco	Scirocco		unisex	https://www.fragrantica.com/perfume/Moresque/Scirocco-79845.html				pending
+seta	Seta		unisex	https://www.fragrantica.com/perfume/Moresque/Seta-52360.html				pending
+sole	Sole		unisex	https://www.fragrantica.com/perfume/Moresque/Sole-44226.html				pending
+soul-batik	Soul Batik		unisex	https://www.fragrantica.com/perfume/Moresque/Soul-Batik-52362.html				pending
+tamima	Tamima		unisex	https://www.fragrantica.com/perfume/Moresque/Tamima-31083.html				pending
+tamima-sillage	Tamima Sillage		female	https://www.fragrantica.com/perfume/Moresque/Tamima-Sillage-69523.html				pending
+ubar-1992	Ubar 1992		unisex	https://www.fragrantica.com/perfume/Moresque/Ubar-1992-52368.html				pending
+white-duke	White Duke		male	https://www.fragrantica.com/perfume/Moresque/White-Duke-54814.html				pending

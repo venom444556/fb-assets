@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-carate-urio	Carate Urio		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Carate-Urio-113735.html				pending
-chypre-23	Chypre 23		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Chypre-23-60887.html				pending
-cloud-collection	Cloud Collection		female		https://www.fragrantica.com/perfume/ZARKOPERFUME/Cloud-Collection-45618.html				pending
-cloud-collection-no-2	Cloud Collection No 2		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Cloud-Collection-No-2-51928.html				pending
-cloud-collection-no-3	Cloud Collection No 3		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Cloud-Collection-No-3-58962.html				pending
-cloud-collection-no-4	Cloud Collection No 4		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Cloud-Collection-No-4-90305.html				pending
-dreamer	Dreamer		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Dreamer-113736.html				pending
-e-l	e´L		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/e-L-24807.html				pending
-inception	INCEPTION		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/INCEPTION-24805.html				pending
-molecule-234-38	MOLéCULE 234.38		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/MOLeCULE-234-38-24804.html				pending
-molecule-c-19-the-beach	MOLéCULE C - 19 The Beach		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/MOLeCULE-C-19-The-Beach-91715.html				pending
-molecule-no-8	MOLéCULE No. 8		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/MOLeCULE-No-8-30246.html				pending
-menage-a-trois	Ménage à Trois		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Menage-a-Trois-38353.html				pending
-oud-couture	Oud-Couture		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Oud-Couture-41995.html				pending
-oudish	OUD’ISH		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/OUD-ISH-24806.html				pending
-pink-molecule-090-09	PINK MOLéCULE 090.09		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/PINK-MOLeCULE-090-09-25474.html				pending
-purple-molecule-070-07	Purple Molecule 070 · 07		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Purple-Molecule-070-07-55137.html				pending
-quantum-molecule	Quantum Molecule		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Quantum-Molecule-69739.html				pending
-sending-love	Sending Love		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Sending-Love-89481.html				pending
-the-lawyer	The Lawyer		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/The-Lawyer-67265.html				pending
-the-muse	The Muse		female		https://www.fragrantica.com/perfume/ZARKOPERFUME/The-Muse-60665.html				pending
-youth	Youth		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Youth-75594.html				pending
-buddha-wood	BUDDHA-WOOD		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/BUDDHA-WOOD-50595.html				pending
-buddha-wood-41997	Buddha-Wood		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Buddha-Wood-41997.html				pending
-supercharged-molecule	Supercharged Molécule		unisex		https://www.fragrantica.com/perfume/ZARKOPERFUME/Supercharged-Molecule-41996.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+buddha-wood	BUDDHA-WOOD		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/BUDDHA-WOOD-50595.html				pending
+buddha-wood-41997	Buddha-Wood		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Buddha-Wood-41997.html				pending
+carate-urio	Carate Urio		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Carate-Urio-113735.html				pending
+chypre-23	Chypre 23		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Chypre-23-60887.html				pending
+cloud-collection	Cloud Collection		female	https://www.fragrantica.com/perfume/ZARKOPERFUME/Cloud-Collection-45618.html				pending
+cloud-collection-no-2	Cloud Collection No 2		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Cloud-Collection-No-2-51928.html				pending
+cloud-collection-no-3	Cloud Collection No 3		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Cloud-Collection-No-3-58962.html				pending
+cloud-collection-no-4	Cloud Collection No 4		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Cloud-Collection-No-4-90305.html				pending
+dreamer	Dreamer		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Dreamer-113736.html				pending
+e-l	e´L		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/e-L-24807.html				pending
+inception	INCEPTION		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/INCEPTION-24805.html				pending
+molecule-234-38	MOLéCULE 234.38		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/MOLeCULE-234-38-24804.html				pending
+molecule-c-19-the-beach	MOLéCULE C - 19 The Beach		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/MOLeCULE-C-19-The-Beach-91715.html				pending
+molecule-no-8	MOLéCULE No. 8		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/MOLeCULE-No-8-30246.html				pending
+menage-a-trois	Ménage à Trois		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Menage-a-Trois-38353.html				pending
+oud-couture	Oud-Couture		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Oud-Couture-41995.html				pending
+oudish	OUD’ISH		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/OUD-ISH-24806.html				pending
+pink-molecule-090-09	PINK MOLéCULE 090.09		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/PINK-MOLeCULE-090-09-25474.html				pending
+purple-molecule-070-07	Purple Molecule 070 · 07		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Purple-Molecule-070-07-55137.html				pending
+quantum-molecule	Quantum Molecule		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Quantum-Molecule-69739.html				pending
+sending-love	Sending Love		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Sending-Love-89481.html				pending
+supercharged-molecule	Supercharged Molécule		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Supercharged-Molecule-41996.html				pending
+the-lawyer	The Lawyer		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/The-Lawyer-67265.html				pending
+the-muse	The Muse		female	https://www.fragrantica.com/perfume/ZARKOPERFUME/The-Muse-60665.html				pending
+youth	Youth		unisex	https://www.fragrantica.com/perfume/ZARKOPERFUME/Youth-75594.html				pending

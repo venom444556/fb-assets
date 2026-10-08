@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-couro-lounge	Couro Lounge		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Couro-Lounge-65888.html				pending
-fava-tonka-and-chocolate	Fava Tonka & Chocolate		male		https://www.fragrantica.com/perfume/Maracuja-Brasil/Fava-Tonka-Chocolate-60107.html				pending
-figo-soleil	Figo Soleil		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Figo-Soleil-65887.html				pending
-limao-siciliano-and-neroli	Limão Siciliano & Neroli		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Limao-Siciliano-Neroli-60055.html				pending
-maracuja-and-baunilha	Maracujá & Baunilha		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Maracuja-Baunilha-61638.html				pending
-maracuja-and-patchouli	Maracujá & Patchouli		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Maracuja-Patchouli-61637.html				pending
-bleu-2-0	Bleu 2.0		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Bleu-2-0-71306.html				pending
-flor-de-lotus-and-rosas	Flor de Lótus & Rosas		female		https://www.fragrantica.com/perfume/Maracuja-Brasil/Flor-de-Lotus-Rosas-60106.html				pending
-frutas-vermelhas-and-vetiver	Frutas Vermelhas & Vetiver		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Frutas-Vermelhas-Vetiver-71304.html				pending
-groselha-negra-and-pera	Groselha Negra & Pera		female		https://www.fragrantica.com/perfume/Maracuja-Brasil/Groselha-Negra-Pera-60057.html				pending
-homem-bleu	Homem Bleu		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Homem-Bleu-71305.html				pending
-lorangerie-i	L'Orangerie I		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/L-Orangerie-I-73996.html				pending
-lorangerie-ii	L'Orangerie II		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/L-Orangerie-II-73997.html				pending
-lorangerie-iii	L'Orangerie III		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/L-Orangerie-III-73998.html				pending
-lorangerie-iv	L'Orangerie IV		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/L-Orangerie-IV-73999.html				pending
-mandarina-wood	Mandarina Wood		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Mandarina-Wood-91083.html				pending
-praline-and-vanilla	Pralinê & Vanilla		female		https://www.fragrantica.com/perfume/Maracuja-Brasil/Praline-Vanilla-60058.html				pending
-spicy-dois	Spicy.dois		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Spicy-dois-83056.html				pending
-spicy-quatro	Spicy.quatro		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Spicy-quatro-84447.html				pending
-spicy-tres	Spicy.três		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Spicy-tres-84446.html				pending
-spicy-um	Spicy.um		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Spicy-um-80082.html				pending
-spring-peonia	Spring Peônia		female		https://www.fragrantica.com/perfume/Maracuja-Brasil/Spring-Peonia-65886.html				pending
-vetiver-and-bergamota	Vetiver & Bergamota		unisex		https://www.fragrantica.com/perfume/Maracuja-Brasil/Vetiver-Bergamota-60056.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bleu-2-0	Bleu 2.0		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Bleu-2-0-71306.html				pending
+couro-lounge	Couro Lounge		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Couro-Lounge-65888.html				pending
+fava-tonka-and-chocolate	Fava Tonka & Chocolate		male	https://www.fragrantica.com/perfume/Maracuja-Brasil/Fava-Tonka-Chocolate-60107.html				pending
+figo-soleil	Figo Soleil		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Figo-Soleil-65887.html				pending
+flor-de-lotus-and-rosas	Flor de Lótus & Rosas		female	https://www.fragrantica.com/perfume/Maracuja-Brasil/Flor-de-Lotus-Rosas-60106.html				pending
+frutas-vermelhas-and-vetiver	Frutas Vermelhas & Vetiver		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Frutas-Vermelhas-Vetiver-71304.html				pending
+groselha-negra-and-pera	Groselha Negra & Pera		female	https://www.fragrantica.com/perfume/Maracuja-Brasil/Groselha-Negra-Pera-60057.html				pending
+homem-bleu	Homem Bleu		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Homem-Bleu-71305.html				pending
+lorangerie-i	L'Orangerie I		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/L-Orangerie-I-73996.html				pending
+lorangerie-ii	L'Orangerie II		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/L-Orangerie-II-73997.html				pending
+lorangerie-iii	L'Orangerie III		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/L-Orangerie-III-73998.html				pending
+lorangerie-iv	L'Orangerie IV		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/L-Orangerie-IV-73999.html				pending
+limao-siciliano-and-neroli	Limão Siciliano & Neroli		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Limao-Siciliano-Neroli-60055.html				pending
+mandarina-wood	Mandarina Wood		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Mandarina-Wood-91083.html				pending
+maracuja-and-baunilha	Maracujá & Baunilha		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Maracuja-Baunilha-61638.html				pending
+maracuja-and-patchouli	Maracujá & Patchouli		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Maracuja-Patchouli-61637.html				pending
+praline-and-vanilla	Pralinê & Vanilla		female	https://www.fragrantica.com/perfume/Maracuja-Brasil/Praline-Vanilla-60058.html				pending
+spicy-dois	Spicy.dois		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Spicy-dois-83056.html				pending
+spicy-quatro	Spicy.quatro		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Spicy-quatro-84447.html				pending
+spicy-tres	Spicy.três		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Spicy-tres-84446.html				pending
+spicy-um	Spicy.um		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Spicy-um-80082.html				pending
+spring-peonia	Spring Peônia		female	https://www.fragrantica.com/perfume/Maracuja-Brasil/Spring-Peonia-65886.html				pending
+vetiver-and-bergamota	Vetiver & Bergamota		unisex	https://www.fragrantica.com/perfume/Maracuja-Brasil/Vetiver-Bergamota-60056.html				pending

@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-dentro	Dentro		unisex		https://www.fragrantica.com/perfume/Jijide/Dentro-103080.html				pending
-fuoco	Fuoco		unisex		https://www.fragrantica.com/perfume/Jijide/Fuoco-98594.html				pending
-grano	Grano		unisex		https://www.fragrantica.com/perfume/Jijide/Grano-82250.html				pending
-oltre	Oltre		unisex		https://www.fragrantica.com/perfume/Jijide/Oltre-103079.html				pending
-riso	Riso		unisex		https://www.fragrantica.com/perfume/Jijide/Riso-82249.html				pending
-terra	Terra		unisex		https://www.fragrantica.com/perfume/Jijide/Terra-98593.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+dentro	Dentro		unisex	https://www.fragrantica.com/perfume/Jijide/Dentro-103080.html				pending
+fuoco	Fuoco		unisex	https://www.fragrantica.com/perfume/Jijide/Fuoco-98594.html				pending
+grano	Grano		unisex	https://www.fragrantica.com/perfume/Jijide/Grano-82250.html				pending
+oltre	Oltre		unisex	https://www.fragrantica.com/perfume/Jijide/Oltre-103079.html				pending
+riso	Riso		unisex	https://www.fragrantica.com/perfume/Jijide/Riso-82249.html				pending
+terra	Terra		unisex	https://www.fragrantica.com/perfume/Jijide/Terra-98593.html				pending

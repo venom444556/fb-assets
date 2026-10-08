@@ -1,32 +1,32 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-claude-montana	Claude Montana		female		https://www.fragrantica.com/perfume/Montana/Claude-Montana-32330.html				pending
-graphite	Graphite		male		https://www.fragrantica.com/perfume/Montana/Graphite-13518.html				pending
-montana-80	Montana 80		female		https://www.fragrantica.com/perfume/Montana/Montana-80-11132.html				pending
-montana-black-edition	Montana Black Edition		male		https://www.fragrantica.com/perfume/Montana/Montana-Black-Edition-17676.html				pending
-montana-blu	Montana Blu		female		https://www.fragrantica.com/perfume/Montana/Montana-Blu-2373.html				pending
-montana-homme	Montana Homme		male		https://www.fragrantica.com/perfume/Montana/Montana-Homme-2381.html				pending
-montana-mood-soft	Montana Mood Soft		female		https://www.fragrantica.com/perfume/Montana/Montana-Mood-Soft-2377.html				pending
-parfum-delle-2	Parfum d'Elle 2		female		https://www.fragrantica.com/perfume/Montana/Parfum-d-Elle-2-2383.html				pending
-parfum-de-femme	Parfum de Femme		female		https://www.fragrantica.com/perfume/Montana/Parfum-de-Femme-7182.html				pending
-peau-intense	Peau Intense		female		https://www.fragrantica.com/perfume/Montana/Peau-Intense-57519.html				pending
-comore	Comore		male		https://www.fragrantica.com/perfume/Montana/Comore-32332.html				pending
-eau-cuivree	Eau Cuivrée		unisex		https://www.fragrantica.com/perfume/Montana/Eau-Cuivree-32583.html				pending
-eau-dargent	Eau d'Argent		unisex		https://www.fragrantica.com/perfume/Montana/Eau-d-Argent-32582.html				pending
-eau-dor	Eau d'Or		unisex		https://www.fragrantica.com/perfume/Montana/Eau-d-Or-32581.html				pending
-eau-transparente	Eau Transparente		female		https://www.fragrantica.com/perfume/Montana/Eau-Transparente-32333.html				pending
-graphite-oud-edition	Graphite Oud Edition		male		https://www.fragrantica.com/perfume/Montana/Graphite-Oud-Edition-31963.html				pending
-just-me	Just Me		female		https://www.fragrantica.com/perfume/Montana/Just-Me-1897.html				pending
-malaita	Malaita		female		https://www.fragrantica.com/perfume/Montana/Malaita-11978.html				pending
-montana-en-turquoise	Montana en Turquoise		female		https://www.fragrantica.com/perfume/Montana/Montana-en-Turquoise-3608.html				pending
-montana-green	Montana Green		male		https://www.fragrantica.com/perfume/Montana/Montana-Green-2374.html				pending
-montana-initial	Montana Initial		male		https://www.fragrantica.com/perfume/Montana/Montana-Initial-32334.html				pending
-montana-mood-sensual	Montana Mood Sensual		female		https://www.fragrantica.com/perfume/Montana/Montana-Mood-Sensual-2375.html				pending
-montana-mood-sexy	Montana Mood Sexy		female		https://www.fragrantica.com/perfume/Montana/Montana-Mood-Sexy-2376.html				pending
-montana-parfum-dhomme	Montana Parfum d'Homme		male		https://www.fragrantica.com/perfume/Montana/Montana-Parfum-d-Homme-2384.html				pending
-parfum-delle	Parfum d'Elle		female		https://www.fragrantica.com/perfume/Montana/Parfum-d-Elle-2382.html				pending
-parfum-de-peau	Parfum de Peau		female		https://www.fragrantica.com/perfume/Montana/Parfum-de-Peau-2385.html				pending
-samar	Samar		female		https://www.fragrantica.com/perfume/Montana/Samar-2920.html				pending
-suggestion-eau-cuivree	Suggestion Eau Cuivree		female		https://www.fragrantica.com/perfume/Montana/Suggestion-Eau-Cuivree-2386.html				pending
-suggestion-eau-dargent-1994	Suggestion Eau d'Argent 1994		female		https://www.fragrantica.com/perfume/Montana/Suggestion-Eau-d-Argent-1994-2387.html				pending
-suggestion-eau-dargent-2016	Suggestion Eau d'Argent 2016		female		https://www.fragrantica.com/perfume/Montana/Suggestion-Eau-d-Argent-2016-42662.html				pending
-suggestion-eau-dor	Suggestion Eau d'Or		female		https://www.fragrantica.com/perfume/Montana/Suggestion-Eau-d-Or-2388.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+claude-montana	Claude Montana		female	https://www.fragrantica.com/perfume/Montana/Claude-Montana-32330.html				pending
+comore	Comore		male	https://www.fragrantica.com/perfume/Montana/Comore-32332.html				pending
+eau-cuivree	Eau Cuivrée		unisex	https://www.fragrantica.com/perfume/Montana/Eau-Cuivree-32583.html				pending
+eau-dargent	Eau d'Argent		unisex	https://www.fragrantica.com/perfume/Montana/Eau-d-Argent-32582.html				pending
+eau-dor	Eau d'Or		unisex	https://www.fragrantica.com/perfume/Montana/Eau-d-Or-32581.html				pending
+eau-transparente	Eau Transparente		female	https://www.fragrantica.com/perfume/Montana/Eau-Transparente-32333.html				pending
+graphite	Graphite		male	https://www.fragrantica.com/perfume/Montana/Graphite-13518.html				pending
+graphite-oud-edition	Graphite Oud Edition		male	https://www.fragrantica.com/perfume/Montana/Graphite-Oud-Edition-31963.html				pending
+just-me	Just Me		female	https://www.fragrantica.com/perfume/Montana/Just-Me-1897.html				pending
+malaita	Malaita		female	https://www.fragrantica.com/perfume/Montana/Malaita-11978.html				pending
+montana-80	Montana 80		female	https://www.fragrantica.com/perfume/Montana/Montana-80-11132.html				pending
+montana-black-edition	Montana Black Edition		male	https://www.fragrantica.com/perfume/Montana/Montana-Black-Edition-17676.html				pending
+montana-blu	Montana Blu		female	https://www.fragrantica.com/perfume/Montana/Montana-Blu-2373.html				pending
+montana-en-turquoise	Montana en Turquoise		female	https://www.fragrantica.com/perfume/Montana/Montana-en-Turquoise-3608.html				pending
+montana-green	Montana Green		male	https://www.fragrantica.com/perfume/Montana/Montana-Green-2374.html				pending
+montana-homme	Montana Homme		male	https://www.fragrantica.com/perfume/Montana/Montana-Homme-2381.html				pending
+montana-initial	Montana Initial		male	https://www.fragrantica.com/perfume/Montana/Montana-Initial-32334.html				pending
+montana-mood-sensual	Montana Mood Sensual		female	https://www.fragrantica.com/perfume/Montana/Montana-Mood-Sensual-2375.html				pending
+montana-mood-sexy	Montana Mood Sexy		female	https://www.fragrantica.com/perfume/Montana/Montana-Mood-Sexy-2376.html				pending
+montana-mood-soft	Montana Mood Soft		female	https://www.fragrantica.com/perfume/Montana/Montana-Mood-Soft-2377.html				pending
+montana-parfum-dhomme	Montana Parfum d'Homme		male	https://www.fragrantica.com/perfume/Montana/Montana-Parfum-d-Homme-2384.html				pending
+parfum-delle	Parfum d'Elle		female	https://www.fragrantica.com/perfume/Montana/Parfum-d-Elle-2382.html				pending
+parfum-delle-2	Parfum d'Elle 2		female	https://www.fragrantica.com/perfume/Montana/Parfum-d-Elle-2-2383.html				pending
+parfum-de-femme	Parfum de Femme		female	https://www.fragrantica.com/perfume/Montana/Parfum-de-Femme-7182.html				pending
+parfum-de-peau	Parfum de Peau		female	https://www.fragrantica.com/perfume/Montana/Parfum-de-Peau-2385.html				pending
+peau-intense	Peau Intense		female	https://www.fragrantica.com/perfume/Montana/Peau-Intense-57519.html				pending
+samar	Samar		female	https://www.fragrantica.com/perfume/Montana/Samar-2920.html				pending
+suggestion-eau-cuivree	Suggestion Eau Cuivree		female	https://www.fragrantica.com/perfume/Montana/Suggestion-Eau-Cuivree-2386.html				pending
+suggestion-eau-dargent-1994	Suggestion Eau d'Argent 1994		female	https://www.fragrantica.com/perfume/Montana/Suggestion-Eau-d-Argent-1994-2387.html				pending
+suggestion-eau-dargent-2016	Suggestion Eau d'Argent 2016		female	https://www.fragrantica.com/perfume/Montana/Suggestion-Eau-d-Argent-2016-42662.html				pending
+suggestion-eau-dor	Suggestion Eau d'Or		female	https://www.fragrantica.com/perfume/Montana/Suggestion-Eau-d-Or-2388.html				pending

@@ -1,32 +1,32 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-arborist	Arborist		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Arborist-55190.html				pending
-askr	ASKR		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/ASKR-90341.html				pending
-athenaeum	Athenaeum		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Athenaeum-63498.html				pending
-boswellia-scotia	Boswellia Scotia		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Boswellia-Scotia-99511.html				pending
-carduus	Carduus		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Carduus-55192.html				pending
-elegy	Elegy		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Elegy-70459.html				pending
-fantosmia	Fantosmia		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Fantosmia-62258.html				pending
-firewater	Firewater		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Firewater-73895.html				pending
-gorseland	Gorseland		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Gorseland-73893.html				pending
-healing-berry	Healing Berry		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Healing-Berry-73892.html				pending
-medullary-ray	Medullary-ray		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Medullary-ray-55191.html				pending
-monolith	Monolith		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Monolith-95192.html				pending
-nectary	Nectary		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Nectary-55195.html				pending
-opaline	Opaline		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Opaline-95194.html				pending
-paradisi	Paradisi		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Paradisi-73093.html				pending
-pentimento	Pentimento		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Pentimento-70457.html				pending
-phloem	Phloem		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Phloem-55194.html				pending
-pluck	Pluck!		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Pluck-110286.html				pending
-pony-boy	Pony Boy		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Pony-Boy-77620.html				pending
-rose-highland	Rose Highland		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Rose-Highland-73894.html				pending
-spiritcask	Spiritcask		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Spiritcask-79477.html				pending
-trimerous	Trimerous		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Trimerous-55193.html				pending
-unspoken-gesture	Unspoken Gesture		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Unspoken-Gesture-101042.html				pending
-vernus	Vernus		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Vernus-107929.html				pending
-zhaar	Zhaar		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Zhaar-95193.html				pending
-psychoterratica-i	Psychoterratica I		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-I-56027.html				pending
-psychoterratica-i-2020	Psychoterratica I 2020		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-I-2020-60578.html				pending
-psychoterratica-ii	Psychoterratica II		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-II-56028.html				pending
-psychoterratica-ii-2020	Psychoterratica II 2020		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-II-2020-60579.html				pending
-psychoterratica-iii	Psychoterratica III		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-III-56029.html				pending
-psychoterratica-iii-2020	Psychoterratica III 2020		unisex		https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-III-2020-60580.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+arborist	Arborist		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Arborist-55190.html				pending
+askr	ASKR		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/ASKR-90341.html				pending
+athenaeum	Athenaeum		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Athenaeum-63498.html				pending
+boswellia-scotia	Boswellia Scotia		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Boswellia-Scotia-99511.html				pending
+carduus	Carduus		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Carduus-55192.html				pending
+elegy	Elegy		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Elegy-70459.html				pending
+fantosmia	Fantosmia		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Fantosmia-62258.html				pending
+firewater	Firewater		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Firewater-73895.html				pending
+gorseland	Gorseland		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Gorseland-73893.html				pending
+healing-berry	Healing Berry		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Healing-Berry-73892.html				pending
+medullary-ray	Medullary-ray		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Medullary-ray-55191.html				pending
+monolith	Monolith		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Monolith-95192.html				pending
+nectary	Nectary		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Nectary-55195.html				pending
+opaline	Opaline		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Opaline-95194.html				pending
+paradisi	Paradisi		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Paradisi-73093.html				pending
+pentimento	Pentimento		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Pentimento-70457.html				pending
+phloem	Phloem		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Phloem-55194.html				pending
+pluck	Pluck!		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Pluck-110286.html				pending
+pony-boy	Pony Boy		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Pony-Boy-77620.html				pending
+psychoterratica-i	Psychoterratica I		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-I-56027.html				pending
+psychoterratica-i-2020	Psychoterratica I 2020		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-I-2020-60578.html				pending
+psychoterratica-ii	Psychoterratica II		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-II-56028.html				pending
+psychoterratica-ii-2020	Psychoterratica II 2020		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-II-2020-60579.html				pending
+psychoterratica-iii	Psychoterratica III		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-III-56029.html				pending
+psychoterratica-iii-2020	Psychoterratica III 2020		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Psychoterratica-III-2020-60580.html				pending
+rose-highland	Rose Highland		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Rose-Highland-73894.html				pending
+spiritcask	Spiritcask		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Spiritcask-79477.html				pending
+trimerous	Trimerous		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Trimerous-55193.html				pending
+unspoken-gesture	Unspoken Gesture		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Unspoken-Gesture-101042.html				pending
+vernus	Vernus		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Vernus-107929.html				pending
+zhaar	Zhaar		unisex	https://www.fragrantica.com/perfume/Jorum-Studio/Zhaar-95193.html				pending

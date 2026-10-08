@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aj-petri-ai-petri	Aj Petri Ai Petri		unisex		https://www.fragrantica.com/perfume/Flora/Aj-Petri-Ai-Petri-81422.html				pending
-aj-todor-ay-todor	Aj Todor Ay Todor		female		https://www.fragrantica.com/perfume/Flora/Aj-Todor-Ay-Todor-83671.html				pending
-ellada-hellas	Ellada Hellas		female		https://www.fragrantica.com/perfume/Flora/Ellada-Hellas-81533.html				pending
-fantaasia-fantazia	Fantaasia Fantazia		female		https://www.fragrantica.com/perfume/Flora/Fantaasia-Fantazia-88101.html				pending
-gornaa-fialka-mountain-violet	Gornaa fialka Mountain violet		female		https://www.fragrantica.com/perfume/Flora/Gornaa-fialka-Mountain-violet-81534.html				pending
-iris-iris	Iris Iris		female		https://www.fragrantica.com/perfume/Flora/Iris-Iris-81473.html				pending
-kajakas-cajka	Kajakas Cajka		female		https://www.fragrantica.com/perfume/Flora/Kajakas-Cajka-88718.html				pending
-kannel	Kannel		female		https://www.fragrantica.com/perfume/Flora/Kannel-91530.html				pending
-landys-serebristyj-muguet-argente	Landys serebristyj Muguet Argente		female		https://www.fragrantica.com/perfume/Flora/Landys-serebristyj-Muguet-Argente-81502.html				pending
-pikantnyj-piquant	Pikantnyj Piquant		unisex		https://www.fragrantica.com/perfume/Flora/Pikantnyj-Piquant-83670.html				pending
-pikovaa-dama-pikovaya-dama	Pikovaa Dama Pikovaya Dama		female		https://www.fragrantica.com/perfume/Flora/Pikovaa-Dama-Pikovaya-Dama-81835.html				pending
-pirita	Pirita		female		https://www.fragrantica.com/perfume/Flora/Pirita-88746.html				pending
-podarocnyj-podarochniy	Podarocnyj Podarochniy		unisex		https://www.fragrantica.com/perfume/Flora/Podarocnyj-Podarochniy-81943.html				pending
-prazdnik-urozaa-harvest-fest-eau-de-cologne	Prazdnik urozaa Harvest Fest Eau de Cologne		female		https://www.fragrantica.com/perfume/Flora/Prazdnik-urozaa-Harvest-Fest-Eau-de-Cologne-63175.html				pending
-salto	Salto		female		https://www.fragrantica.com/perfume/Flora/Salto-93993.html				pending
-sapfir-sapphire	Sapfir Sapphire		female		https://www.fragrantica.com/perfume/Flora/Sapfir-Sapphire-81515.html				pending
-sm-rock-n-roll	SM RoCK N Roll		male		https://www.fragrantica.com/perfume/Flora/SM-RoCK-N-Roll-93992.html				pending
-tallinn	Tallinn		female		https://www.fragrantica.com/perfume/Flora/Tallinn-91490.html				pending
-tallinn-cologne	Tallinn Cologne		male		https://www.fragrantica.com/perfume/Flora/Tallinn-Cologne-91491.html				pending
-tiina	Tiina		female		https://www.fragrantica.com/perfume/Flora/Tiina-91529.html				pending
-unelm-grezy	Unelm Grezy		female		https://www.fragrantica.com/perfume/Flora/Unelm-Grezy-91489.html				pending
-vana-toomas	Vana Toomas		female		https://www.fragrantica.com/perfume/Flora/Vana-Toomas-82566.html				pending
-vana-toomas-cologne	Vana Toomas Cologne		unisex		https://www.fragrantica.com/perfume/Flora/Vana-Toomas-Cologne-82569.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aj-petri-ai-petri	Aj Petri Ai Petri		unisex	https://www.fragrantica.com/perfume/Flora/Aj-Petri-Ai-Petri-81422.html				pending
+aj-todor-ay-todor	Aj Todor Ay Todor		female	https://www.fragrantica.com/perfume/Flora/Aj-Todor-Ay-Todor-83671.html				pending
+ellada-hellas	Ellada Hellas		female	https://www.fragrantica.com/perfume/Flora/Ellada-Hellas-81533.html				pending
+fantaasia-fantazia	Fantaasia Fantazia		female	https://www.fragrantica.com/perfume/Flora/Fantaasia-Fantazia-88101.html				pending
+gornaa-fialka-mountain-violet	Gornaa fialka Mountain violet		female	https://www.fragrantica.com/perfume/Flora/Gornaa-fialka-Mountain-violet-81534.html				pending
+iris-iris	Iris Iris		female	https://www.fragrantica.com/perfume/Flora/Iris-Iris-81473.html				pending
+kajakas-cajka	Kajakas Cajka		female	https://www.fragrantica.com/perfume/Flora/Kajakas-Cajka-88718.html				pending
+kannel	Kannel		female	https://www.fragrantica.com/perfume/Flora/Kannel-91530.html				pending
+landys-serebristyj-muguet-argente	Landys serebristyj Muguet Argente		female	https://www.fragrantica.com/perfume/Flora/Landys-serebristyj-Muguet-Argente-81502.html				pending
+pikantnyj-piquant	Pikantnyj Piquant		unisex	https://www.fragrantica.com/perfume/Flora/Pikantnyj-Piquant-83670.html				pending
+pikovaa-dama-pikovaya-dama	Pikovaa Dama Pikovaya Dama		female	https://www.fragrantica.com/perfume/Flora/Pikovaa-Dama-Pikovaya-Dama-81835.html				pending
+pirita	Pirita		female	https://www.fragrantica.com/perfume/Flora/Pirita-88746.html				pending
+podarocnyj-podarochniy	Podarocnyj Podarochniy		unisex	https://www.fragrantica.com/perfume/Flora/Podarocnyj-Podarochniy-81943.html				pending
+prazdnik-urozaa-harvest-fest-eau-de-cologne	Prazdnik urozaa Harvest Fest Eau de Cologne	Eau de Cologne	female	https://www.fragrantica.com/perfume/Flora/Prazdnik-urozaa-Harvest-Fest-Eau-de-Cologne-63175.html				pending
+salto	Salto		female	https://www.fragrantica.com/perfume/Flora/Salto-93993.html				pending
+sapfir-sapphire	Sapfir Sapphire		female	https://www.fragrantica.com/perfume/Flora/Sapfir-Sapphire-81515.html				pending
+sm-rock-n-roll	SM RoCK N Roll		male	https://www.fragrantica.com/perfume/Flora/SM-RoCK-N-Roll-93992.html				pending
+tallinn	Tallinn		female	https://www.fragrantica.com/perfume/Flora/Tallinn-91490.html				pending
+tallinn-cologne	Tallinn Cologne	Cologne	male	https://www.fragrantica.com/perfume/Flora/Tallinn-Cologne-91491.html				pending
+tiina	Tiina		female	https://www.fragrantica.com/perfume/Flora/Tiina-91529.html				pending
+unelm-grezy	Unelm Grezy		female	https://www.fragrantica.com/perfume/Flora/Unelm-Grezy-91489.html				pending
+vana-toomas	Vana Toomas		female	https://www.fragrantica.com/perfume/Flora/Vana-Toomas-82566.html				pending
+vana-toomas-cologne	Vana Toomas Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Flora/Vana-Toomas-Cologne-82569.html				pending

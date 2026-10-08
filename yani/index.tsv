@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alp	Alp		unisex		https://www.fragrantica.com/perfume/YANI/Alp-89389.html				pending
-bougainvillea	Bougainvillea		female		https://www.fragrantica.com/perfume/YANI/Bougainvillea-94003.html				pending
-cinnamon-angel	Cinnamon Angel		unisex		https://www.fragrantica.com/perfume/YANI/Cinnamon-Angel-89656.html				pending
-fairies-story	Fairies Story		female		https://www.fragrantica.com/perfume/YANI/Fairies-Story-91553.html				pending
-kalut	Kalut		unisex		https://www.fragrantica.com/perfume/YANI/Kalut-88955.html				pending
-kashan	Kashan		unisex		https://www.fragrantica.com/perfume/YANI/Kashan-88953.html				pending
-little-black-fish	Little Black Fish		unisex		https://www.fragrantica.com/perfume/YANI/Little-Black-Fish-91552.html				pending
-mangrove-jungle	Mangrove Jungle		unisex		https://www.fragrantica.com/perfume/YANI/Mangrove-Jungle-88951.html				pending
-opert	Opert		unisex		https://www.fragrantica.com/perfume/YANI/Opert-88956.html				pending
-shalizar	Shalizar		unisex		https://www.fragrantica.com/perfume/YANI/Shalizar-89657.html				pending
-silence-valley	Silence Valley		unisex		https://www.fragrantica.com/perfume/YANI/Silence-Valley-88954.html				pending
-silver-beach	Silver Beach		unisex		https://www.fragrantica.com/perfume/YANI/Silver-Beach-88952.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alp	Alp		unisex	https://www.fragrantica.com/perfume/YANI/Alp-89389.html				pending
+bougainvillea	Bougainvillea		female	https://www.fragrantica.com/perfume/YANI/Bougainvillea-94003.html				pending
+cinnamon-angel	Cinnamon Angel		unisex	https://www.fragrantica.com/perfume/YANI/Cinnamon-Angel-89656.html				pending
+fairies-story	Fairies Story		female	https://www.fragrantica.com/perfume/YANI/Fairies-Story-91553.html				pending
+kalut	Kalut		unisex	https://www.fragrantica.com/perfume/YANI/Kalut-88955.html				pending
+kashan	Kashan		unisex	https://www.fragrantica.com/perfume/YANI/Kashan-88953.html				pending
+little-black-fish	Little Black Fish		unisex	https://www.fragrantica.com/perfume/YANI/Little-Black-Fish-91552.html				pending
+mangrove-jungle	Mangrove Jungle		unisex	https://www.fragrantica.com/perfume/YANI/Mangrove-Jungle-88951.html				pending
+opert	Opert		unisex	https://www.fragrantica.com/perfume/YANI/Opert-88956.html				pending
+shalizar	Shalizar		unisex	https://www.fragrantica.com/perfume/YANI/Shalizar-89657.html				pending
+silence-valley	Silence Valley		unisex	https://www.fragrantica.com/perfume/YANI/Silence-Valley-88954.html				pending
+silver-beach	Silver Beach		unisex	https://www.fragrantica.com/perfume/YANI/Silver-Beach-88952.html				pending

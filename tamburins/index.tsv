@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-berga-sandal	Berga Sandal		unisex		https://www.fragrantica.com/perfume/Tamburins/Berga-Sandal-78953.html				pending
-blue-hinoki	Blue Hinoki		unisex		https://www.fragrantica.com/perfume/Tamburins/Blue-Hinoki-112830.html				pending
-bottari	Bottari		unisex		https://www.fragrantica.com/perfume/Tamburins/Bottari-123204.html				pending
-chamo	Chamo		unisex		https://www.fragrantica.com/perfume/Tamburins/Chamo-78952.html				pending
-lale	Lale		unisex		https://www.fragrantica.com/perfume/Tamburins/Lale-78959.html				pending
-pumkini	Pumkini		unisex		https://www.fragrantica.com/perfume/Tamburins/Pumkini-108962.html				pending
-white-darjeeling	White Darjeeling		unisex		https://www.fragrantica.com/perfume/Tamburins/White-Darjeeling-78957.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+berga-sandal	Berga Sandal		unisex	https://www.fragrantica.com/perfume/Tamburins/Berga-Sandal-78953.html				pending
+blue-hinoki	Blue Hinoki		unisex	https://www.fragrantica.com/perfume/Tamburins/Blue-Hinoki-112830.html				pending
+bottari	Bottari		unisex	https://www.fragrantica.com/perfume/Tamburins/Bottari-123204.html				pending
+chamo	Chamo		unisex	https://www.fragrantica.com/perfume/Tamburins/Chamo-78952.html				pending
+lale	Lale		unisex	https://www.fragrantica.com/perfume/Tamburins/Lale-78959.html				pending
+pumkini	Pumkini		unisex	https://www.fragrantica.com/perfume/Tamburins/Pumkini-108962.html				pending
+white-darjeeling	White Darjeeling		unisex	https://www.fragrantica.com/perfume/Tamburins/White-Darjeeling-78957.html				pending

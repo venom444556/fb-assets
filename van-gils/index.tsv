@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-basic-instinct	Basic Instinct		male		https://www.fragrantica.com/perfume/Van-Gils/Basic-Instinct-5615.html				pending
-frosted	Frosted		male		https://www.fragrantica.com/perfume/Van-Gils/Frosted-17370.html				pending
-van-gils-i	Van Gils I		male		https://www.fragrantica.com/perfume/Van-Gils/Van-Gils-I-48801.html				pending
-van-gils-i-for-her	Van Gils I For Her		female		https://www.fragrantica.com/perfume/Van-Gils/Van-Gils-I-For-Her-59773.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+basic-instinct	Basic Instinct		male	https://www.fragrantica.com/perfume/Van-Gils/Basic-Instinct-5615.html				pending
+frosted	Frosted		male	https://www.fragrantica.com/perfume/Van-Gils/Frosted-17370.html				pending
+van-gils-i	Van Gils I		male	https://www.fragrantica.com/perfume/Van-Gils/Van-Gils-I-48801.html				pending
+van-gils-i-for-her	Van Gils I For Her		female	https://www.fragrantica.com/perfume/Van-Gils/Van-Gils-I-For-Her-59773.html				pending

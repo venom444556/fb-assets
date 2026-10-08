@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-genesis	Genesis		unisex		https://www.fragrantica.com/perfume/Le-Frag/Genesis-68341.html				pending
-grimmtale	Grimmtale		unisex		https://www.fragrantica.com/perfume/Le-Frag/Grimmtale-74113.html				pending
-mad-tea-party	Mad Tea Party		unisex		https://www.fragrantica.com/perfume/Le-Frag/Mad-Tea-Party-82856.html				pending
-meluzyna	Meluzyna		unisex		https://www.fragrantica.com/perfume/Le-Frag/Meluzyna-76186.html				pending
-pippilotta	Pippilotta		unisex		https://www.fragrantica.com/perfume/Le-Frag/Pippilotta-68342.html				pending
-time-machine	Time Machine		unisex		https://www.fragrantica.com/perfume/Le-Frag/Time-Machine-90486.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+genesis	Genesis		unisex	https://www.fragrantica.com/perfume/Le-Frag/Genesis-68341.html				pending
+grimmtale	Grimmtale		unisex	https://www.fragrantica.com/perfume/Le-Frag/Grimmtale-74113.html				pending
+mad-tea-party	Mad Tea Party		unisex	https://www.fragrantica.com/perfume/Le-Frag/Mad-Tea-Party-82856.html				pending
+meluzyna	Meluzyna		unisex	https://www.fragrantica.com/perfume/Le-Frag/Meluzyna-76186.html				pending
+pippilotta	Pippilotta		unisex	https://www.fragrantica.com/perfume/Le-Frag/Pippilotta-68342.html				pending
+time-machine	Time Machine		unisex	https://www.fragrantica.com/perfume/Le-Frag/Time-Machine-90486.html				pending

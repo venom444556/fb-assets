@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-immense-pour-femme	Immense Pour Femme		female		https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/Immense-Pour-Femme-2099.html				pending
-one-love	One Love		female		https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/One-Love-30121.html				pending
-pop-delights-01	Pop Delights 01		female		https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/Pop-Delights-01-46318.html				pending
-pop-delights-02	Pop Delights 02		female		https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/Pop-Delights-02-46319.html				pending
-pop-delights-03	Pop Delights 03		female		https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/Pop-Delights-03-46320.html				pending
-s-de-scherrer	S de Scherrer		female		https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/S-de-Scherrer-2095.html				pending
-s-de-scherrer-homme	S de Scherrer Homme		male		https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/S-de-Scherrer-Homme-2096.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+immense-pour-femme	Immense Pour Femme		female	https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/Immense-Pour-Femme-2099.html				pending
+one-love	One Love		female	https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/One-Love-30121.html				pending
+pop-delights-01	Pop Delights 01		female	https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/Pop-Delights-01-46318.html				pending
+pop-delights-02	Pop Delights 02		female	https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/Pop-Delights-02-46319.html				pending
+pop-delights-03	Pop Delights 03		female	https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/Pop-Delights-03-46320.html				pending
+s-de-scherrer	S de Scherrer		female	https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/S-de-Scherrer-2095.html				pending
+s-de-scherrer-homme	S de Scherrer Homme		male	https://www.fragrantica.com/perfume/Jean-Louis-Scherrer/S-de-Scherrer-Homme-2096.html				pending

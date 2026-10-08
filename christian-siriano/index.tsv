@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-intimate-silhouette	Intimate Silhouette		female		https://www.fragrantica.com/perfume/Christian-Siriano/Intimate-Silhouette-52437.html				pending
-midnight-silhouette	Midnight Silhouette		female		https://www.fragrantica.com/perfume/Christian-Siriano/Midnight-Silhouette-57175.html				pending
-ooh-la-rouge	Ooh La Rouge		female		https://www.fragrantica.com/perfume/Christian-Siriano/Ooh-La-Rouge-61001.html				pending
-people-are-people	People Are People		female		https://www.fragrantica.com/perfume/Christian-Siriano/People-Are-People-53861.html				pending
-silhouette	Silhouette		female		https://www.fragrantica.com/perfume/Christian-Siriano/Silhouette-27614.html				pending
-silhouette-au-naturel	Silhouette Au Naturel		female		https://www.fragrantica.com/perfume/Christian-Siriano/Silhouette-Au-Naturel-84604.html				pending
-silhouette-in-bloom	Silhouette In Bloom		female		https://www.fragrantica.com/perfume/Christian-Siriano/Silhouette-In-Bloom-48646.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+intimate-silhouette	Intimate Silhouette		female	https://www.fragrantica.com/perfume/Christian-Siriano/Intimate-Silhouette-52437.html				pending
+midnight-silhouette	Midnight Silhouette		female	https://www.fragrantica.com/perfume/Christian-Siriano/Midnight-Silhouette-57175.html				pending
+ooh-la-rouge	Ooh La Rouge		female	https://www.fragrantica.com/perfume/Christian-Siriano/Ooh-La-Rouge-61001.html				pending
+people-are-people	People Are People		female	https://www.fragrantica.com/perfume/Christian-Siriano/People-Are-People-53861.html				pending
+silhouette	Silhouette		female	https://www.fragrantica.com/perfume/Christian-Siriano/Silhouette-27614.html				pending
+silhouette-au-naturel	Silhouette Au Naturel		female	https://www.fragrantica.com/perfume/Christian-Siriano/Silhouette-Au-Naturel-84604.html				pending
+silhouette-in-bloom	Silhouette In Bloom		female	https://www.fragrantica.com/perfume/Christian-Siriano/Silhouette-In-Bloom-48646.html				pending

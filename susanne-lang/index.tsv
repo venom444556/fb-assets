@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cashmere	Cashmere		female		https://www.fragrantica.com/perfume/Susanne-Lang/Cashmere-7254.html				pending
-lotus-blossom	Lotus Blossom		female		https://www.fragrantica.com/perfume/Susanne-Lang/Lotus-Blossom-7250.html				pending
-midnight-orchid-72	Midnight Orchid 72		female		https://www.fragrantica.com/perfume/Susanne-Lang/Midnight-Orchid-72-7249.html				pending
-red-ginger	Red Ginger		female		https://www.fragrantica.com/perfume/Susanne-Lang/Red-Ginger-7252.html				pending
-sula-beach-beauty-playering-set	Sula Beach Beauty Playering Set		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Beach-Beauty-Playering-Set-8562.html				pending
-sula-blackberry-blush	Sula Blackberry Blush		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Blackberry-Blush-8561.html				pending
-sula-butterfly-kiss	Sula Butterfly Kiss		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Butterfly-Kiss-8553.html				pending
-sula-champagne-sugar	Sula Champagne Sugar		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Champagne-Sugar-8560.html				pending
-sula-girl-next-door-playering-set	Sula Girl Next Door Playering Set		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Girl-Next-Door-Playering-Set-8563.html				pending
-sula-lily-lotus	Sula Lily Lotus		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Lily-Lotus-8556.html				pending
-sula-lovebirds-fresh	Sula Lovebirds Fresh		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Lovebirds-Fresh-10478.html				pending
-sula-lovebirds-tropical	Sula Lovebirds Tropical		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Lovebirds-Tropical-10479.html				pending
-sula-socialite-playering-set	Sula Socialite Playering Set		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Socialite-Playering-Set-8564.html				pending
-sula-stiletto-musk	Sula Stiletto Musk		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Stiletto-Musk-8554.html				pending
-sula-sun-kissed-citrus	Sula Sun-Kissed Citrus		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Sun-Kissed-Citrus-8557.html				pending
-sula-supermodel-playering-set	Sula Supermodel Playering Set		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Supermodel-Playering-Set-8566.html				pending
-sula-vanilla-blossom	Sula Vanilla Blossom		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Vanilla-Blossom-8555.html				pending
-sula-vixen-playering-set	Sula Vixen Playering Set		female		https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Vixen-Playering-Set-8565.html				pending
-tamboti-wood	Tamboti Wood		female		https://www.fragrantica.com/perfume/Susanne-Lang/Tamboti-Wood-7251.html				pending
-vanilla-coconut	Vanilla Coconut		female		https://www.fragrantica.com/perfume/Susanne-Lang/Vanilla-Coconut-7253.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cashmere	Cashmere		female	https://www.fragrantica.com/perfume/Susanne-Lang/Cashmere-7254.html				pending
+lotus-blossom	Lotus Blossom		female	https://www.fragrantica.com/perfume/Susanne-Lang/Lotus-Blossom-7250.html				pending
+midnight-orchid-72	Midnight Orchid 72		female	https://www.fragrantica.com/perfume/Susanne-Lang/Midnight-Orchid-72-7249.html				pending
+red-ginger	Red Ginger		female	https://www.fragrantica.com/perfume/Susanne-Lang/Red-Ginger-7252.html				pending
+sula-beach-beauty-playering-set	Sula Beach Beauty Playering Set		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Beach-Beauty-Playering-Set-8562.html				pending
+sula-blackberry-blush	Sula Blackberry Blush		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Blackberry-Blush-8561.html				pending
+sula-butterfly-kiss	Sula Butterfly Kiss		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Butterfly-Kiss-8553.html				pending
+sula-champagne-sugar	Sula Champagne Sugar		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Champagne-Sugar-8560.html				pending
+sula-girl-next-door-playering-set	Sula Girl Next Door Playering Set		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Girl-Next-Door-Playering-Set-8563.html				pending
+sula-lily-lotus	Sula Lily Lotus		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Lily-Lotus-8556.html				pending
+sula-lovebirds-fresh	Sula Lovebirds Fresh		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Lovebirds-Fresh-10478.html				pending
+sula-lovebirds-tropical	Sula Lovebirds Tropical		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Lovebirds-Tropical-10479.html				pending
+sula-socialite-playering-set	Sula Socialite Playering Set		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Socialite-Playering-Set-8564.html				pending
+sula-stiletto-musk	Sula Stiletto Musk		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Stiletto-Musk-8554.html				pending
+sula-sun-kissed-citrus	Sula Sun-Kissed Citrus		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Sun-Kissed-Citrus-8557.html				pending
+sula-supermodel-playering-set	Sula Supermodel Playering Set		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Supermodel-Playering-Set-8566.html				pending
+sula-vanilla-blossom	Sula Vanilla Blossom		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Vanilla-Blossom-8555.html				pending
+sula-vixen-playering-set	Sula Vixen Playering Set		female	https://www.fragrantica.com/perfume/Susanne-Lang/Sula-Vixen-Playering-Set-8565.html				pending
+tamboti-wood	Tamboti Wood		female	https://www.fragrantica.com/perfume/Susanne-Lang/Tamboti-Wood-7251.html				pending
+vanilla-coconut	Vanilla Coconut		female	https://www.fragrantica.com/perfume/Susanne-Lang/Vanilla-Coconut-7253.html				pending

@@ -1,33 +1,33 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-azzurra	Acqua Azzurra		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Acqua-Azzurra-3174.html				pending
-blooming-rose	Blooming Rose		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Blooming-Rose-55299.html				pending
-camicia-113	Camicia 113		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Camicia-113-31694.html				pending
-camicia-113-eau-de-toilette	Camicia 113 Eau de Toilette		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Camicia-113-Eau-de-Toilette-38186.html				pending
-essence-deau	Essence d’eau		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Essence-d-eau-159.html				pending
-ferre-black	Ferre Black		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Black-30546.html				pending
-ferre-eau-de-parfum	Ferre Eau de Parfum		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Eau-de-Parfum-166.html				pending
-ferre-for-men	Ferre for Men		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-for-Men-803.html				pending
-ferre-rose	Ferre Rose		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Rose-886.html				pending
-ferre-rose-diamond-limited-edition	Ferre Rose Diamond Limited Edition		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Rose-Diamond-Limited-Edition-2632.html				pending
-ferre-rose-princesse	Ferré Rose Princesse		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Rose-Princesse-4762.html				pending
-gf-ferre-bluemusk	GF Ferre Bluemusk		unisex		https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Ferre-Bluemusk-1482.html				pending
-gf-ferre-lei-her	GF Ferre Lei-Her		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Ferre-Lei-Her-163.html				pending
-gf-ferre-lui-him	GF Ferre Lui-Him		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Ferre-Lui-Him-164.html				pending
-gianfranco-ferre-bergamotto-marino	Gianfranco Ferre Bergamotto Marino		unisex		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gianfranco-Ferre-Bergamotto-Marino-165.html				pending
-in-the-mood-for-love	In The Mood For Love		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/In-The-Mood-For-Love-6530.html				pending
-in-the-mood-for-love-man	In The Mood For Love Man		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/In-The-Mood-For-Love-Man-11966.html				pending
-in-the-mood-for-love-pure	In The Mood For Love Pure		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/In-The-Mood-For-Love-Pure-9714.html				pending
-in-the-mood-for-love-tender	In The Mood For Love Tender		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/In-The-Mood-For-Love-Tender-11965.html				pending
-luomo	L'Uomo		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/L-Uomo-40538.html				pending
-pontaccio-21	Pontaccio 21		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Pontaccio-21-169.html				pending
-20-for-woman	20 For Woman		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/20-For-Woman-167.html				pending
-eau-du-matin	Eau du Matin		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Eau-du-Matin-43915.html				pending
-ferre-by-ferre	Ferre by Ferre		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-by-Ferre-168.html				pending
-fougere-italiano	Fougère Italiano		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Fougere-Italiano-80250.html				pending
-gff-donna	GFF Donna		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/GFF-Donna-9447.html				pending
-gff-uomo	GFF Uomo		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/GFF-Uomo-9446.html				pending
-gianfranco-ferre	Gianfranco Ferre		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gianfranco-Ferre-160.html				pending
-gianfranco-ferre-9448	Gianfranco Ferre		female		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gianfranco-Ferre-9448.html				pending
-gianfranco-ferre-for-man	Gianfranco Ferre for Man		male		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gianfranco-Ferre-for-Man-161.html				pending
-gieffeffe	Gieffeffe		unisex		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gieffeffe-162.html				pending
-gieffeffe-bianco-assoluto	Gieffeffe Bianco Assoluto		unisex		https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gieffeffe-Bianco-Assoluto-73943.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+20-for-woman	20 For Woman		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/20-For-Woman-167.html				pending
+acqua-azzurra	Acqua Azzurra		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Acqua-Azzurra-3174.html				pending
+blooming-rose	Blooming Rose		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Blooming-Rose-55299.html				pending
+camicia-113	Camicia 113		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Camicia-113-31694.html				pending
+camicia-113-eau-de-toilette	Camicia 113 Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Camicia-113-Eau-de-Toilette-38186.html				pending
+eau-du-matin	Eau du Matin		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Eau-du-Matin-43915.html				pending
+essence-deau	Essence d’eau		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Essence-d-eau-159.html				pending
+ferre-black	Ferre Black		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Black-30546.html				pending
+ferre-by-ferre	Ferre by Ferre		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-by-Ferre-168.html				pending
+ferre-eau-de-parfum	Ferre Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Eau-de-Parfum-166.html				pending
+ferre-for-men	Ferre for Men		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-for-Men-803.html				pending
+ferre-rose	Ferre Rose		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Rose-886.html				pending
+ferre-rose-diamond-limited-edition	Ferre Rose Diamond Limited Edition		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Rose-Diamond-Limited-Edition-2632.html				pending
+ferre-rose-princesse	Ferré Rose Princesse		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Ferre-Rose-Princesse-4762.html				pending
+fougere-italiano	Fougère Italiano		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Fougere-Italiano-80250.html				pending
+gf-ferre-bluemusk	GF Ferre Bluemusk		unisex	https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Ferre-Bluemusk-1482.html				pending
+gf-ferre-lei-her	GF Ferre Lei-Her		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Ferre-Lei-Her-163.html				pending
+gf-ferre-lui-him	GF Ferre Lui-Him		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Ferre-Lui-Him-164.html				pending
+gff-donna	GFF Donna		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/GFF-Donna-9447.html				pending
+gff-uomo	GFF Uomo		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/GFF-Uomo-9446.html				pending
+gianfranco-ferre	Gianfranco Ferre		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gianfranco-Ferre-160.html				pending
+gianfranco-ferre-9448	Gianfranco Ferre		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gianfranco-Ferre-9448.html				pending
+gianfranco-ferre-bergamotto-marino	Gianfranco Ferre Bergamotto Marino		unisex	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gianfranco-Ferre-Bergamotto-Marino-165.html				pending
+gianfranco-ferre-for-man	Gianfranco Ferre for Man		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gianfranco-Ferre-for-Man-161.html				pending
+gieffeffe	Gieffeffe		unisex	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gieffeffe-162.html				pending
+gieffeffe-bianco-assoluto	Gieffeffe Bianco Assoluto		unisex	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Gieffeffe-Bianco-Assoluto-73943.html				pending
+in-the-mood-for-love	In The Mood For Love		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/In-The-Mood-For-Love-6530.html				pending
+in-the-mood-for-love-man	In The Mood For Love Man		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/In-The-Mood-For-Love-Man-11966.html				pending
+in-the-mood-for-love-pure	In The Mood For Love Pure		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/In-The-Mood-For-Love-Pure-9714.html				pending
+in-the-mood-for-love-tender	In The Mood For Love Tender		female	https://www.fragrantica.com/perfume/Gianfranco-Ferre/In-The-Mood-For-Love-Tender-11965.html				pending
+luomo	L'Uomo		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/L-Uomo-40538.html				pending
+pontaccio-21	Pontaccio 21		male	https://www.fragrantica.com/perfume/Gianfranco-Ferre/Pontaccio-21-169.html				pending

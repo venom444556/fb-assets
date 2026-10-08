@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blue-lotus-tabac	Blue Lotus Tabac		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Blue-Lotus-Tabac-20969.html				pending
-drifting-sparks	Drifting Sparks		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Drifting-Sparks-20964.html				pending
-edenwood	Edenwood		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Edenwood-20970.html				pending
-eros	Eros		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Eros-20962.html				pending
-golden-hour	Golden Hour		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Golden-Hour-20965.html				pending
-havana-coffee-flower	Havana (Coffee Flower)		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Havana-Coffee-Flower-20966.html				pending
-la-colombe	La Colombe		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/La-Colombe-31959.html				pending
-ondine	Ondine		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Ondine-20963.html				pending
-orchard	Orchard		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Orchard-20967.html				pending
-ozymandias	Ozymandias		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Ozymandias-26770.html				pending
-rayon-vert	Rayon Vert		unisex		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Rayon-Vert-20968.html				pending
-saveur-de-labricot	Saveur de l’Abricot		female		https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Saveur-de-l-Abricot-20961.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blue-lotus-tabac	Blue Lotus Tabac		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Blue-Lotus-Tabac-20969.html				pending
+drifting-sparks	Drifting Sparks		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Drifting-Sparks-20964.html				pending
+edenwood	Edenwood		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Edenwood-20970.html				pending
+eros	Eros		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Eros-20962.html				pending
+golden-hour	Golden Hour		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Golden-Hour-20965.html				pending
+havana-coffee-flower	Havana (Coffee Flower)		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Havana-Coffee-Flower-20966.html				pending
+la-colombe	La Colombe		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/La-Colombe-31959.html				pending
+ondine	Ondine		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Ondine-20963.html				pending
+orchard	Orchard		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Orchard-20967.html				pending
+ozymandias	Ozymandias		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Ozymandias-26770.html				pending
+rayon-vert	Rayon Vert		unisex	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Rayon-Vert-20968.html				pending
+saveur-de-labricot	Saveur de l’Abricot		female	https://www.fragrantica.com/perfume/Artemisia-Natural-Perfume/Saveur-de-l-Abricot-20961.html				pending

@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bonfire-whisper	Bonfire Whisper		unisex		https://www.fragrantica.com/perfume/ASMR-Fragrances/Bonfire-Whisper-95060.html				pending
-rain-tapping	Rain Tapping		unisex		https://www.fragrantica.com/perfume/ASMR-Fragrances/Rain-Tapping-95064.html				pending
-yummy-tingles	Yummy Tingles		unisex		https://www.fragrantica.com/perfume/ASMR-Fragrances/Yummy-Tingles-95061.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bonfire-whisper	Bonfire Whisper		unisex	https://www.fragrantica.com/perfume/ASMR-Fragrances/Bonfire-Whisper-95060.html				pending
+rain-tapping	Rain Tapping		unisex	https://www.fragrantica.com/perfume/ASMR-Fragrances/Rain-Tapping-95064.html				pending
+yummy-tingles	Yummy Tingles		unisex	https://www.fragrantica.com/perfume/ASMR-Fragrances/Yummy-Tingles-95061.html				pending

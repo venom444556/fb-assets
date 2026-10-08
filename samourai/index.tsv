@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-samourai-woman	Samouraï Woman		female		https://www.fragrantica.com/perfume/Samourai/Samourai-Woman-5479.html				pending
-blooming-love	Blooming Love		female		https://www.fragrantica.com/perfume/Samourai/Blooming-Love-22049.html				pending
-catch-her	Catch Her		male		https://www.fragrantica.com/perfume/Samourai/Catch-Her-22046.html				pending
-dazzle	Dazzle		male		https://www.fragrantica.com/perfume/Samourai/Dazzle-43488.html				pending
-get-up	Get Up		male		https://www.fragrantica.com/perfume/Samourai/Get-Up-22047.html				pending
-samourai	Samouraï		male		https://www.fragrantica.com/perfume/Samourai/Samourai-50474.html				pending
-stay-cool	Stay Cool		male		https://www.fragrantica.com/perfume/Samourai/Stay-Cool-22045.html				pending
-sweet-love	Sweet Love		female		https://www.fragrantica.com/perfume/Samourai/Sweet-Love-22048.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blooming-love	Blooming Love		female	https://www.fragrantica.com/perfume/Samourai/Blooming-Love-22049.html				pending
+catch-her	Catch Her		male	https://www.fragrantica.com/perfume/Samourai/Catch-Her-22046.html				pending
+dazzle	Dazzle		male	https://www.fragrantica.com/perfume/Samourai/Dazzle-43488.html				pending
+get-up	Get Up		male	https://www.fragrantica.com/perfume/Samourai/Get-Up-22047.html				pending
+samourai	Samouraï		male	https://www.fragrantica.com/perfume/Samourai/Samourai-50474.html				pending
+samourai-woman	Samouraï Woman		female	https://www.fragrantica.com/perfume/Samourai/Samourai-Woman-5479.html				pending
+stay-cool	Stay Cool		male	https://www.fragrantica.com/perfume/Samourai/Stay-Cool-22045.html				pending
+sweet-love	Sweet Love		female	https://www.fragrantica.com/perfume/Samourai/Sweet-Love-22048.html				pending

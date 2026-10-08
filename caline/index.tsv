@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-absolute-blue	Absolute Blue		male		https://www.fragrantica.com/perfume/Caline/Absolute-Blue-72918.html				pending
-belle-icone	Belle Icône		female		https://www.fragrantica.com/perfume/Caline/Belle-Icone-85070.html				pending
-fleur-noir	Fleur Noir		female		https://www.fragrantica.com/perfume/Caline/Fleur-Noir-72921.html				pending
-infinite-navy	Infinite Navy		male		https://www.fragrantica.com/perfume/Caline/Infinite-Navy-85071.html				pending
-intense-gold	Intense Gold		male		https://www.fragrantica.com/perfume/Caline/Intense-Gold-72922.html				pending
-madame-cherie	Madame Chérie		female		https://www.fragrantica.com/perfume/Caline/Madame-Cherie-112641.html				pending
-mon-amour	Mon Amour		female		https://www.fragrantica.com/perfume/Caline/Mon-Amour-72924.html				pending
-rouge-intense	Rouge Intense		female		https://www.fragrantica.com/perfume/Caline/Rouge-Intense-85069.html				pending
-cherie-de-fleurs	Chérie De Fleurs		female		https://www.fragrantica.com/perfume/Caline/Cherie-De-Fleurs-85068.html				pending
-classic-silver	Classic Silver		male		https://www.fragrantica.com/perfume/Caline/Classic-Silver-72919.html				pending
-femme-florale	Femme Florale		female		https://www.fragrantica.com/perfume/Caline/Femme-Florale-72920.html				pending
-jour-en-rose	Jour En Rose		female		https://www.fragrantica.com/perfume/Caline/Jour-En-Rose-72923.html				pending
-a-la-vie	À La Vie		female		https://www.fragrantica.com/perfume/Caline/A-La-Vie-72917.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+absolute-blue	Absolute Blue		male	https://www.fragrantica.com/perfume/Caline/Absolute-Blue-72918.html				pending
+belle-icone	Belle Icône		female	https://www.fragrantica.com/perfume/Caline/Belle-Icone-85070.html				pending
+cherie-de-fleurs	Chérie De Fleurs		female	https://www.fragrantica.com/perfume/Caline/Cherie-De-Fleurs-85068.html				pending
+classic-silver	Classic Silver		male	https://www.fragrantica.com/perfume/Caline/Classic-Silver-72919.html				pending
+femme-florale	Femme Florale		female	https://www.fragrantica.com/perfume/Caline/Femme-Florale-72920.html				pending
+fleur-noir	Fleur Noir		female	https://www.fragrantica.com/perfume/Caline/Fleur-Noir-72921.html				pending
+infinite-navy	Infinite Navy		male	https://www.fragrantica.com/perfume/Caline/Infinite-Navy-85071.html				pending
+intense-gold	Intense Gold		male	https://www.fragrantica.com/perfume/Caline/Intense-Gold-72922.html				pending
+jour-en-rose	Jour En Rose		female	https://www.fragrantica.com/perfume/Caline/Jour-En-Rose-72923.html				pending
+madame-cherie	Madame Chérie		female	https://www.fragrantica.com/perfume/Caline/Madame-Cherie-112641.html				pending
+mon-amour	Mon Amour		female	https://www.fragrantica.com/perfume/Caline/Mon-Amour-72924.html				pending
+rouge-intense	Rouge Intense		female	https://www.fragrantica.com/perfume/Caline/Rouge-Intense-85069.html				pending
+a-la-vie	À La Vie		female	https://www.fragrantica.com/perfume/Caline/A-La-Vie-72917.html				pending

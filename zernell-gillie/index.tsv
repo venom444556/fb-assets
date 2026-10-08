@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blues	Blues		unisex		https://www.fragrantica.com/perfume/Zernell-Gillie/Blues-119830.html				pending
-disco	Disco		unisex		https://www.fragrantica.com/perfume/Zernell-Gillie/Disco-77273.html				pending
-hip-hop	Hip-Hop		unisex		https://www.fragrantica.com/perfume/Zernell-Gillie/Hip-Hop-88962.html				pending
-house	House		unisex		https://www.fragrantica.com/perfume/Zernell-Gillie/House-92270.html				pending
-jazz	Jazz		unisex		https://www.fragrantica.com/perfume/Zernell-Gillie/Jazz-101272.html				pending
-r-and-b	R&B		unisex		https://www.fragrantica.com/perfume/Zernell-Gillie/R-B-108726.html				pending
-techno	Techno		unisex		https://www.fragrantica.com/perfume/Zernell-Gillie/Techno-81702.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blues	Blues		unisex	https://www.fragrantica.com/perfume/Zernell-Gillie/Blues-119830.html				pending
+disco	Disco		unisex	https://www.fragrantica.com/perfume/Zernell-Gillie/Disco-77273.html				pending
+hip-hop	Hip-Hop		unisex	https://www.fragrantica.com/perfume/Zernell-Gillie/Hip-Hop-88962.html				pending
+house	House		unisex	https://www.fragrantica.com/perfume/Zernell-Gillie/House-92270.html				pending
+jazz	Jazz		unisex	https://www.fragrantica.com/perfume/Zernell-Gillie/Jazz-101272.html				pending
+r-and-b	R&B		unisex	https://www.fragrantica.com/perfume/Zernell-Gillie/R-B-108726.html				pending
+techno	Techno		unisex	https://www.fragrantica.com/perfume/Zernell-Gillie/Techno-81702.html				pending

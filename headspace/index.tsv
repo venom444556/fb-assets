@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-absinthe-headspace	Absinthe Headspace		unisex		https://www.fragrantica.com/perfume/Headspace/Absinthe-Headspace-74942.html				pending
-genievre-headspace	Genievre Headspace		unisex		https://www.fragrantica.com/perfume/Headspace/Genievre-Headspace-74946.html				pending
-kirsch-headspace	Kirsch Headspace		unisex		https://www.fragrantica.com/perfume/Headspace/Kirsch-Headspace-86159.html				pending
-myrrhe-headspace	Myrrhe Headspace		unisex		https://www.fragrantica.com/perfume/Headspace/Myrrhe-Headspace-74944.html				pending
-santal-headspace	Santal Headspace		unisex		https://www.fragrantica.com/perfume/Headspace/Santal-Headspace-74943.html				pending
-styrax-headspace	Styrax Headspace		unisex		https://www.fragrantica.com/perfume/Headspace/Styrax-Headspace-74945.html				pending
-tubereuse-headspace	Tubereuse Headspace		unisex		https://www.fragrantica.com/perfume/Headspace/Tubereuse-Headspace-74941.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+absinthe-headspace	Absinthe Headspace		unisex	https://www.fragrantica.com/perfume/Headspace/Absinthe-Headspace-74942.html				pending
+genievre-headspace	Genievre Headspace		unisex	https://www.fragrantica.com/perfume/Headspace/Genievre-Headspace-74946.html				pending
+kirsch-headspace	Kirsch Headspace		unisex	https://www.fragrantica.com/perfume/Headspace/Kirsch-Headspace-86159.html				pending
+myrrhe-headspace	Myrrhe Headspace		unisex	https://www.fragrantica.com/perfume/Headspace/Myrrhe-Headspace-74944.html				pending
+santal-headspace	Santal Headspace		unisex	https://www.fragrantica.com/perfume/Headspace/Santal-Headspace-74943.html				pending
+styrax-headspace	Styrax Headspace		unisex	https://www.fragrantica.com/perfume/Headspace/Styrax-Headspace-74945.html				pending
+tubereuse-headspace	Tubereuse Headspace		unisex	https://www.fragrantica.com/perfume/Headspace/Tubereuse-Headspace-74941.html				pending

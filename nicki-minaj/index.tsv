@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-minajesty	Minajesty		female		https://www.fragrantica.com/perfume/Nicki-Minaj/Minajesty-18900.html				pending
-minajesty-exotic-edition	Minajesty Exotic Edition		female		https://www.fragrantica.com/perfume/Nicki-Minaj/Minajesty-Exotic-Edition-25912.html				pending
-onika	Onika		female		https://www.fragrantica.com/perfume/Nicki-Minaj/Onika-25913.html				pending
-pink-friday	Pink Friday		female		https://www.fragrantica.com/perfume/Nicki-Minaj/Pink-Friday-16078.html				pending
-pink-friday-2	Pink Friday 2		female		https://www.fragrantica.com/perfume/Nicki-Minaj/Pink-Friday-2-88380.html				pending
-pink-friday-deluxe-edition	Pink Friday Deluxe Edition		female		https://www.fragrantica.com/perfume/Nicki-Minaj/Pink-Friday-Deluxe-Edition-22105.html				pending
-pink-friday-special-edition	Pink Friday Special Edition		female		https://www.fragrantica.com/perfume/Nicki-Minaj/Pink-Friday-Special-Edition-17829.html				pending
-queen	Queen		female		https://www.fragrantica.com/perfume/Nicki-Minaj/Queen-53540.html				pending
-the-pinkprint	The Pinkprint		female		https://www.fragrantica.com/perfume/Nicki-Minaj/The-Pinkprint-31669.html				pending
-trini-girl	Trini Girl		female		https://www.fragrantica.com/perfume/Nicki-Minaj/Trini-Girl-41709.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+minajesty	Minajesty		female	https://www.fragrantica.com/perfume/Nicki-Minaj/Minajesty-18900.html				pending
+minajesty-exotic-edition	Minajesty Exotic Edition		female	https://www.fragrantica.com/perfume/Nicki-Minaj/Minajesty-Exotic-Edition-25912.html				pending
+onika	Onika		female	https://www.fragrantica.com/perfume/Nicki-Minaj/Onika-25913.html				pending
+pink-friday	Pink Friday		female	https://www.fragrantica.com/perfume/Nicki-Minaj/Pink-Friday-16078.html				pending
+pink-friday-2	Pink Friday 2		female	https://www.fragrantica.com/perfume/Nicki-Minaj/Pink-Friday-2-88380.html				pending
+pink-friday-deluxe-edition	Pink Friday Deluxe Edition		female	https://www.fragrantica.com/perfume/Nicki-Minaj/Pink-Friday-Deluxe-Edition-22105.html				pending
+pink-friday-special-edition	Pink Friday Special Edition		female	https://www.fragrantica.com/perfume/Nicki-Minaj/Pink-Friday-Special-Edition-17829.html				pending
+queen	Queen		female	https://www.fragrantica.com/perfume/Nicki-Minaj/Queen-53540.html				pending
+the-pinkprint	The Pinkprint		female	https://www.fragrantica.com/perfume/Nicki-Minaj/The-Pinkprint-31669.html				pending
+trini-girl	Trini Girl		female	https://www.fragrantica.com/perfume/Nicki-Minaj/Trini-Girl-41709.html				pending

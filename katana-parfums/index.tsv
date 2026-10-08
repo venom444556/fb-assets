@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-fleur-de-oud	Fleur de Oud		unisex		https://www.fragrantica.com/perfume/Katana-Parfums/Fleur-de-Oud-68027.html				pending
-hayal	Hayal		unisex		https://www.fragrantica.com/perfume/Katana-Parfums/Hayal-81899.html				pending
-santal-segar	Santal Segar		unisex		https://www.fragrantica.com/perfume/Katana-Parfums/Santal-Segar-68026.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+fleur-de-oud	Fleur de Oud		unisex	https://www.fragrantica.com/perfume/Katana-Parfums/Fleur-de-Oud-68027.html				pending
+hayal	Hayal		unisex	https://www.fragrantica.com/perfume/Katana-Parfums/Hayal-81899.html				pending
+santal-segar	Santal Segar		unisex	https://www.fragrantica.com/perfume/Katana-Parfums/Santal-Segar-68026.html				pending

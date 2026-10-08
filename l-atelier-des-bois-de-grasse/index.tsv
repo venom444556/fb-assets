@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-pamplemousse-rose	Ambre Pamplemousse Rose		unisex		https://www.fragrantica.com/perfume/L-Atelier-des-Bois-de-Grasse/Ambre-Pamplemousse-Rose-41605.html				pending
-cuir-iris	Cuir Iris		unisex		https://www.fragrantica.com/perfume/L-Atelier-des-Bois-de-Grasse/Cuir-Iris-41610.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-pamplemousse-rose	Ambre Pamplemousse Rose		unisex	https://www.fragrantica.com/perfume/L-Atelier-des-Bois-de-Grasse/Ambre-Pamplemousse-Rose-41605.html				pending
+cuir-iris	Cuir Iris		unisex	https://www.fragrantica.com/perfume/L-Atelier-des-Bois-de-Grasse/Cuir-Iris-41610.html				pending

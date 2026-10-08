@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-rosas-roubadas	Rosas Roubadas		female		https://www.fragrantica.com/perfume/Tania-Bulhoes/Rosas-Roubadas-88709.html				pending
-camelia	Camélia		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Camelia-69058.html				pending
-cedro	Cedro		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Cedro-69053.html				pending
-cha-branco-colonia	Chá Branco Colônia		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Cha-Branco-Colonia-27598.html				pending
-fava-selvagem	Fava Selvagem		female		https://www.fragrantica.com/perfume/Tania-Bulhoes/Fava-Selvagem-78486.html				pending
-figo	Figo		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Figo-27603.html				pending
-flor-de-minas	Flor de Minas		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Flor-de-Minas-27601.html				pending
-flor-de-pimenta	Flor de Pimenta		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Flor-de-Pimenta-27599.html				pending
-folha-de-cha-branco	Folha de Chá Branco		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Folha-de-Cha-Branco-69057.html				pending
-fruta-do-conde	Fruta do Conde		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Fruta-do-Conde-69063.html				pending
-jabuticaba	Jabuticaba		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Jabuticaba-27604.html				pending
-jardim-de-rosas	Jardim de Rosas		female		https://www.fragrantica.com/perfume/Tania-Bulhoes/Jardim-de-Rosas-75888.html				pending
-lavanda	Lavanda		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Lavanda-69066.html				pending
-lavanda-colonge	Lavanda Colonge		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Lavanda-Colonge-27596.html				pending
-lavande-de-provence	Lavande de Provence		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Lavande-de-Provence-27597.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Patchouli-69056.html				pending
-prata-classico	Prata Classico		male		https://www.fragrantica.com/perfume/Tania-Bulhoes/Prata-Classico-27607.html				pending
-prata-contemporaneo	Prata Contemporaneo		male		https://www.fragrantica.com/perfume/Tania-Bulhoes/Prata-Contemporaneo-27606.html				pending
-primavera	Primavera		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Primavera-27600.html				pending
-sandalo	Sândalo		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Sandalo-69062.html				pending
-tangerina-verde	Tangerina Verde		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Tangerina-Verde-69052.html				pending
-tania-no-30	Tania Nº 30		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Tania-No-30-69064.html				pending
-tropical-do-brasil-colonia	Tropical do Brasil Colonia		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Tropical-do-Brasil-Colonia-27605.html				pending
-vanilla	Vanilla		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Vanilla-27602.html				pending
-vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/Tania-Bulhoes/Vetiver-69055.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+camelia	Camélia		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Camelia-69058.html				pending
+cedro	Cedro		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Cedro-69053.html				pending
+cha-branco-colonia	Chá Branco Colônia		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Cha-Branco-Colonia-27598.html				pending
+fava-selvagem	Fava Selvagem		female	https://www.fragrantica.com/perfume/Tania-Bulhoes/Fava-Selvagem-78486.html				pending
+figo	Figo		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Figo-27603.html				pending
+flor-de-minas	Flor de Minas		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Flor-de-Minas-27601.html				pending
+flor-de-pimenta	Flor de Pimenta		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Flor-de-Pimenta-27599.html				pending
+folha-de-cha-branco	Folha de Chá Branco		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Folha-de-Cha-Branco-69057.html				pending
+fruta-do-conde	Fruta do Conde		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Fruta-do-Conde-69063.html				pending
+jabuticaba	Jabuticaba		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Jabuticaba-27604.html				pending
+jardim-de-rosas	Jardim de Rosas		female	https://www.fragrantica.com/perfume/Tania-Bulhoes/Jardim-de-Rosas-75888.html				pending
+lavanda	Lavanda		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Lavanda-69066.html				pending
+lavanda-colonge	Lavanda Colonge		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Lavanda-Colonge-27596.html				pending
+lavande-de-provence	Lavande de Provence		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Lavande-de-Provence-27597.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Patchouli-69056.html				pending
+prata-classico	Prata Classico		male	https://www.fragrantica.com/perfume/Tania-Bulhoes/Prata-Classico-27607.html				pending
+prata-contemporaneo	Prata Contemporaneo		male	https://www.fragrantica.com/perfume/Tania-Bulhoes/Prata-Contemporaneo-27606.html				pending
+primavera	Primavera		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Primavera-27600.html				pending
+rosas-roubadas	Rosas Roubadas		female	https://www.fragrantica.com/perfume/Tania-Bulhoes/Rosas-Roubadas-88709.html				pending
+sandalo	Sândalo		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Sandalo-69062.html				pending
+tangerina-verde	Tangerina Verde		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Tangerina-Verde-69052.html				pending
+tania-no-30	Tania Nº 30		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Tania-No-30-69064.html				pending
+tropical-do-brasil-colonia	Tropical do Brasil Colonia		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Tropical-do-Brasil-Colonia-27605.html				pending
+vanilla	Vanilla		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Vanilla-27602.html				pending
+vetiver	Vetiver		unisex	https://www.fragrantica.com/perfume/Tania-Bulhoes/Vetiver-69055.html				pending

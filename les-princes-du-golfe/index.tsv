@@ -1,2 +1,2 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-citron-macaron	Citron Macaron		unisex		https://www.fragrantica.com/perfume/Les-Princes-Du-Golfe/Citron-Macaron-98167.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+citron-macaron	Citron Macaron		unisex	https://www.fragrantica.com/perfume/Les-Princes-Du-Golfe/Citron-Macaron-98167.html				pending

@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adam	ADAM		male		https://www.fragrantica.com/perfume/AAP-PERFUMES/ADAM-72084.html				pending
-balsamic-cacao	BALSAMIC CACAO		female		https://www.fragrantica.com/perfume/AAP-PERFUMES/BALSAMIC-CACAO-72080.html				pending
-coconut-bergamot	COCONUT BERGAMOT		unisex		https://www.fragrantica.com/perfume/AAP-PERFUMES/COCONUT-BERGAMOT-72075.html				pending
-fresh-spicy	FRESH SPICY		male		https://www.fragrantica.com/perfume/AAP-PERFUMES/FRESH-SPICY-72072.html				pending
-iris-amber	IRIS AMBER		unisex		https://www.fragrantica.com/perfume/AAP-PERFUMES/IRIS-AMBER-72082.html				pending
-lily-of-the-valley	LILY OF THE VALLEY		female		https://www.fragrantica.com/perfume/AAP-PERFUMES/LILY-OF-THE-VALLEY-72078.html				pending
-mysteries-of-wood	MYSTERIES OF WOOD		female		https://www.fragrantica.com/perfume/AAP-PERFUMES/MYSTERIES-OF-WOOD-72079.html				pending
-nutmeg-honey	NUTMEG HONEY		unisex		https://www.fragrantica.com/perfume/AAP-PERFUMES/NUTMEG-HONEY-72073.html				pending
-oakmoss	OAKMOSS		male		https://www.fragrantica.com/perfume/AAP-PERFUMES/OAKMOSS-72077.html				pending
-oud-amber	OUD AMBER		unisex		https://www.fragrantica.com/perfume/AAP-PERFUMES/OUD-AMBER-72076.html				pending
-rena	RENA		female		https://www.fragrantica.com/perfume/AAP-PERFUMES/RENA-72085.html				pending
-sultan	SULTAN		male		https://www.fragrantica.com/perfume/AAP-PERFUMES/SULTAN-72081.html				pending
-white-oud	WHITE OUD		unisex		https://www.fragrantica.com/perfume/AAP-PERFUMES/WHITE-OUD-72083.html				pending
-wild-jasmine	WILD JASMINE		female		https://www.fragrantica.com/perfume/AAP-PERFUMES/WILD-JASMINE-72074.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adam	ADAM		male	https://www.fragrantica.com/perfume/AAP-PERFUMES/ADAM-72084.html				pending
+balsamic-cacao	BALSAMIC CACAO		female	https://www.fragrantica.com/perfume/AAP-PERFUMES/BALSAMIC-CACAO-72080.html				pending
+coconut-bergamot	COCONUT BERGAMOT		unisex	https://www.fragrantica.com/perfume/AAP-PERFUMES/COCONUT-BERGAMOT-72075.html				pending
+fresh-spicy	FRESH SPICY		male	https://www.fragrantica.com/perfume/AAP-PERFUMES/FRESH-SPICY-72072.html				pending
+iris-amber	IRIS AMBER		unisex	https://www.fragrantica.com/perfume/AAP-PERFUMES/IRIS-AMBER-72082.html				pending
+lily-of-the-valley	LILY OF THE VALLEY		female	https://www.fragrantica.com/perfume/AAP-PERFUMES/LILY-OF-THE-VALLEY-72078.html				pending
+mysteries-of-wood	MYSTERIES OF WOOD		female	https://www.fragrantica.com/perfume/AAP-PERFUMES/MYSTERIES-OF-WOOD-72079.html				pending
+nutmeg-honey	NUTMEG HONEY		unisex	https://www.fragrantica.com/perfume/AAP-PERFUMES/NUTMEG-HONEY-72073.html				pending
+oakmoss	OAKMOSS		male	https://www.fragrantica.com/perfume/AAP-PERFUMES/OAKMOSS-72077.html				pending
+oud-amber	OUD AMBER		unisex	https://www.fragrantica.com/perfume/AAP-PERFUMES/OUD-AMBER-72076.html				pending
+rena	RENA		female	https://www.fragrantica.com/perfume/AAP-PERFUMES/RENA-72085.html				pending
+sultan	SULTAN		male	https://www.fragrantica.com/perfume/AAP-PERFUMES/SULTAN-72081.html				pending
+white-oud	WHITE OUD		unisex	https://www.fragrantica.com/perfume/AAP-PERFUMES/WHITE-OUD-72083.html				pending
+wild-jasmine	WILD JASMINE		female	https://www.fragrantica.com/perfume/AAP-PERFUMES/WILD-JASMINE-72074.html				pending

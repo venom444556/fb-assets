@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-540	540		unisex		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/540-61747.html				pending
-against-me	Against Me		female		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Against-Me-68459.html				pending
-arena	Arena		unisex		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Arena-68455.html				pending
-attr-alluban-by-sam-wari	ATTR ALLUBAN BY SAM WARI		unisex		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/ATTR-ALLUBAN-BY-SAM-WARI-55231.html				pending
-black-matter	Black Matter		female		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Black-Matter-68461.html				pending
-bloom	Bloom		female		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Bloom-61746.html				pending
-dunes-oud	Dunes Oud		male		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Dunes-Oud-61758.html				pending
-flower-musk	Flower Musk		unisex		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Flower-Musk-61774.html				pending
-imprints-on-skin	Imprints On Skin		female		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Imprints-On-Skin-68456.html				pending
-its-complicated	It's Complicated		male		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/It-s-Complicated-61745.html				pending
-nomade	Nomade		female		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Nomade-68460.html				pending
-oud-no-1	Oud No. 1		male		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Oud-No-1-61760.html				pending
-oudy	Oudy		unisex		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Oudy-61744.html				pending
-parched-oud-by-sam-wari	Parched Oud By Sam Wari		unisex		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Parched-Oud-By-Sam-Wari-57829.html				pending
-patchouli-musk	Patchouli Musk		female		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Patchouli-Musk-61775.html				pending
-shai-blue-by-sam-wari	Shai Blue By Sam Wari		unisex		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Shai-Blue-By-Sam-Wari-60040.html				pending
-soir-de-la-vie	Soir De La Vie		unisex		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Soir-De-La-Vie-57828.html				pending
-travellers-compass	Traveller's Compass		female		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Traveller-s-Compass-68457.html				pending
-tuberose	Tuberose		female		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Tuberose-68458.html				pending
-wood-blend	Wood Blend		unisex		https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Wood-Blend-69126.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+540	540		unisex	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/540-61747.html				pending
+against-me	Against Me		female	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Against-Me-68459.html				pending
+arena	Arena		unisex	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Arena-68455.html				pending
+attr-alluban-by-sam-wari	ATTR ALLUBAN BY SAM WARI		unisex	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/ATTR-ALLUBAN-BY-SAM-WARI-55231.html				pending
+black-matter	Black Matter		female	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Black-Matter-68461.html				pending
+bloom	Bloom		female	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Bloom-61746.html				pending
+dunes-oud	Dunes Oud		male	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Dunes-Oud-61758.html				pending
+flower-musk	Flower Musk		unisex	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Flower-Musk-61774.html				pending
+imprints-on-skin	Imprints On Skin		female	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Imprints-On-Skin-68456.html				pending
+its-complicated	It's Complicated		male	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/It-s-Complicated-61745.html				pending
+nomade	Nomade		female	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Nomade-68460.html				pending
+oud-no-1	Oud No. 1		male	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Oud-No-1-61760.html				pending
+oudy	Oudy		unisex	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Oudy-61744.html				pending
+parched-oud-by-sam-wari	Parched Oud By Sam Wari		unisex	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Parched-Oud-By-Sam-Wari-57829.html				pending
+patchouli-musk	Patchouli Musk		female	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Patchouli-Musk-61775.html				pending
+shai-blue-by-sam-wari	Shai Blue By Sam Wari		unisex	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Shai-Blue-By-Sam-Wari-60040.html				pending
+soir-de-la-vie	Soir De La Vie		unisex	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Soir-De-La-Vie-57828.html				pending
+travellers-compass	Traveller's Compass		female	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Traveller-s-Compass-68457.html				pending
+tuberose	Tuberose		female	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Tuberose-68458.html				pending
+wood-blend	Wood Blend		unisex	https://www.fragrantica.com/perfume/Sahar-Al-Sharq-Perfumes/Wood-Blend-69126.html				pending

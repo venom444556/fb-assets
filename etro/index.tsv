@@ -1,42 +1,42 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-anice	Anice		unisex		https://www.fragrantica.com/perfume/Etro/Anice-1135.html				pending
-benetroessere-raving	Benetroessere Raving		female		https://www.fragrantica.com/perfume/Etro/Benetroessere-Raving-4000.html				pending
-dianthus	Dianthus		female		https://www.fragrantica.com/perfume/Etro/Dianthus-1133.html				pending
-greene-street	Greene Street		unisex		https://www.fragrantica.com/perfume/Etro/Greene-Street-16557.html				pending
-io-myself	Io Myself		unisex		https://www.fragrantica.com/perfume/Etro/Io-Myself-31620.html				pending
-jacquard	Jacquard		female		https://www.fragrantica.com/perfume/Etro/Jacquard-24031.html				pending
-manrose	ManRose		male		https://www.fragrantica.com/perfume/Etro/ManRose-42939.html				pending
-marquetry	Marquetry		unisex		https://www.fragrantica.com/perfume/Etro/Marquetry-31929.html				pending
-musk	Musk		unisex		https://www.fragrantica.com/perfume/Etro/Musk-1134.html				pending
-musk-eau-de-parfum	Musk Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Etro/Musk-Eau-de-Parfum-51420.html				pending
-nectar	Nectar		unisex		https://www.fragrantica.com/perfume/Etro/Nectar-94838.html				pending
-new-tradition	New Tradition		unisex		https://www.fragrantica.com/perfume/Etro/New-Tradition-4814.html				pending
-paisley	Paisley		unisex		https://www.fragrantica.com/perfume/Etro/Paisley-12930.html				pending
-patchouly-eau-de-parfum	Patchouly Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Etro/Patchouly-Eau-de-Parfum-42131.html				pending
-pegaso	Pegaso		unisex		https://www.fragrantica.com/perfume/Etro/Pegaso-5656.html				pending
-rajasthan	Rajasthan		female		https://www.fragrantica.com/perfume/Etro/Rajasthan-17515.html				pending
-relent	Relent		unisex		https://www.fragrantica.com/perfume/Etro/Relent-8143.html				pending
-shantung	Shantung		unisex		https://www.fragrantica.com/perfume/Etro/Shantung-37342.html				pending
-udaipur	Udaipur		unisex		https://www.fragrantica.com/perfume/Etro/Udaipur-49248.html				pending
-via-verri	Via Verri		female		https://www.fragrantica.com/perfume/Etro/Via-Verri-81585.html				pending
-via-verri-vintage-limited-edition	Via Verri Vintage Limited Edition		female		https://www.fragrantica.com/perfume/Etro/Via-Verri-Vintage-Limited-Edition-4884.html				pending
-vicolo-fiori-eau-de-parfum	Vicolo Fiori Eau De Parfum		female		https://www.fragrantica.com/perfume/Etro/Vicolo-Fiori-Eau-De-Parfum-12525.html				pending
-white-magnolia	White Magnolia		unisex		https://www.fragrantica.com/perfume/Etro/White-Magnolia-66647.html				pending
-ambra	Ambra		unisex		https://www.fragrantica.com/perfume/Etro/Ambra-4810.html				pending
-benetroessere-relent	Benetroessere Relent		female		https://www.fragrantica.com/perfume/Etro/Benetroessere-Relent-4001.html				pending
-benetroessere-resort	Benetroessere Resort		female		https://www.fragrantica.com/perfume/Etro/Benetroessere-Resort-4002.html				pending
-etra-etro	Etra Etro		unisex		https://www.fragrantica.com/perfume/Etro/Etra-Etro-3144.html				pending
-gomma	Gomma		unisex		https://www.fragrantica.com/perfume/Etro/Gomma-4811.html				pending
-heliotrope	Heliotrope		unisex		https://www.fragrantica.com/perfume/Etro/Heliotrope-4812.html				pending
-lemon-sorbet	Lemon Sorbet		unisex		https://www.fragrantica.com/perfume/Etro/Lemon-Sorbet-4813.html				pending
-magot	Magot		unisex		https://www.fragrantica.com/perfume/Etro/Magot-3148.html				pending
-mahogany	Mahogany		unisex		https://www.fragrantica.com/perfume/Etro/Mahogany-24746.html				pending
-messe-de-minuit	Messe de Minuit		unisex		https://www.fragrantica.com/perfume/Etro/Messe-de-Minuit-4348.html				pending
-palais-jamais	Palais Jamais		unisex		https://www.fragrantica.com/perfume/Etro/Palais-Jamais-3151.html				pending
-patchouly	Patchouly		unisex		https://www.fragrantica.com/perfume/Etro/Patchouly-4815.html				pending
-raving	Raving		unisex		https://www.fragrantica.com/perfume/Etro/Raving-75516.html				pending
-royal-pavillon	Royal Pavillon		female		https://www.fragrantica.com/perfume/Etro/Royal-Pavillon-3152.html				pending
-sandalo	Sandalo		unisex		https://www.fragrantica.com/perfume/Etro/Sandalo-4816.html				pending
-shaal-nur	Shaal Nur		female		https://www.fragrantica.com/perfume/Etro/Shaal-Nur-3476.html				pending
-vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/Etro/Vetiver-4817.html				pending
-vicolo-fiori	Vicolo Fiori		female		https://www.fragrantica.com/perfume/Etro/Vicolo-Fiori-3153.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambra	Ambra		unisex	https://www.fragrantica.com/perfume/Etro/Ambra-4810.html				pending
+anice	Anice		unisex	https://www.fragrantica.com/perfume/Etro/Anice-1135.html				pending
+benetroessere-raving	Benetroessere Raving		female	https://www.fragrantica.com/perfume/Etro/Benetroessere-Raving-4000.html				pending
+benetroessere-relent	Benetroessere Relent		female	https://www.fragrantica.com/perfume/Etro/Benetroessere-Relent-4001.html				pending
+benetroessere-resort	Benetroessere Resort		female	https://www.fragrantica.com/perfume/Etro/Benetroessere-Resort-4002.html				pending
+dianthus	Dianthus		female	https://www.fragrantica.com/perfume/Etro/Dianthus-1133.html				pending
+etra-etro	Etra Etro		unisex	https://www.fragrantica.com/perfume/Etro/Etra-Etro-3144.html				pending
+gomma	Gomma		unisex	https://www.fragrantica.com/perfume/Etro/Gomma-4811.html				pending
+greene-street	Greene Street		unisex	https://www.fragrantica.com/perfume/Etro/Greene-Street-16557.html				pending
+heliotrope	Heliotrope		unisex	https://www.fragrantica.com/perfume/Etro/Heliotrope-4812.html				pending
+io-myself	Io Myself		unisex	https://www.fragrantica.com/perfume/Etro/Io-Myself-31620.html				pending
+jacquard	Jacquard		female	https://www.fragrantica.com/perfume/Etro/Jacquard-24031.html				pending
+lemon-sorbet	Lemon Sorbet		unisex	https://www.fragrantica.com/perfume/Etro/Lemon-Sorbet-4813.html				pending
+magot	Magot		unisex	https://www.fragrantica.com/perfume/Etro/Magot-3148.html				pending
+mahogany	Mahogany		unisex	https://www.fragrantica.com/perfume/Etro/Mahogany-24746.html				pending
+manrose	ManRose		male	https://www.fragrantica.com/perfume/Etro/ManRose-42939.html				pending
+marquetry	Marquetry		unisex	https://www.fragrantica.com/perfume/Etro/Marquetry-31929.html				pending
+messe-de-minuit	Messe de Minuit		unisex	https://www.fragrantica.com/perfume/Etro/Messe-de-Minuit-4348.html				pending
+musk	Musk		unisex	https://www.fragrantica.com/perfume/Etro/Musk-1134.html				pending
+musk-eau-de-parfum	Musk Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Etro/Musk-Eau-de-Parfum-51420.html				pending
+nectar	Nectar		unisex	https://www.fragrantica.com/perfume/Etro/Nectar-94838.html				pending
+new-tradition	New Tradition		unisex	https://www.fragrantica.com/perfume/Etro/New-Tradition-4814.html				pending
+paisley	Paisley		unisex	https://www.fragrantica.com/perfume/Etro/Paisley-12930.html				pending
+palais-jamais	Palais Jamais		unisex	https://www.fragrantica.com/perfume/Etro/Palais-Jamais-3151.html				pending
+patchouly	Patchouly		unisex	https://www.fragrantica.com/perfume/Etro/Patchouly-4815.html				pending
+patchouly-eau-de-parfum	Patchouly Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Etro/Patchouly-Eau-de-Parfum-42131.html				pending
+pegaso	Pegaso		unisex	https://www.fragrantica.com/perfume/Etro/Pegaso-5656.html				pending
+rajasthan	Rajasthan		female	https://www.fragrantica.com/perfume/Etro/Rajasthan-17515.html				pending
+raving	Raving		unisex	https://www.fragrantica.com/perfume/Etro/Raving-75516.html				pending
+relent	Relent		unisex	https://www.fragrantica.com/perfume/Etro/Relent-8143.html				pending
+royal-pavillon	Royal Pavillon		female	https://www.fragrantica.com/perfume/Etro/Royal-Pavillon-3152.html				pending
+sandalo	Sandalo		unisex	https://www.fragrantica.com/perfume/Etro/Sandalo-4816.html				pending
+shaal-nur	Shaal Nur		female	https://www.fragrantica.com/perfume/Etro/Shaal-Nur-3476.html				pending
+shantung	Shantung		unisex	https://www.fragrantica.com/perfume/Etro/Shantung-37342.html				pending
+udaipur	Udaipur		unisex	https://www.fragrantica.com/perfume/Etro/Udaipur-49248.html				pending
+vetiver	Vetiver		unisex	https://www.fragrantica.com/perfume/Etro/Vetiver-4817.html				pending
+via-verri	Via Verri		female	https://www.fragrantica.com/perfume/Etro/Via-Verri-81585.html				pending
+via-verri-vintage-limited-edition	Via Verri Vintage Limited Edition		female	https://www.fragrantica.com/perfume/Etro/Via-Verri-Vintage-Limited-Edition-4884.html				pending
+vicolo-fiori	Vicolo Fiori		female	https://www.fragrantica.com/perfume/Etro/Vicolo-Fiori-3153.html				pending
+vicolo-fiori-eau-de-parfum	Vicolo Fiori Eau De Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Etro/Vicolo-Fiori-Eau-De-Parfum-12525.html				pending
+white-magnolia	White Magnolia		unisex	https://www.fragrantica.com/perfume/Etro/White-Magnolia-66647.html				pending

@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alva	Alva		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Alva-79717.html				pending
-arcanum	Arcanum		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Arcanum-51643.html				pending
-dark-orange	Dark orange		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Dark-orange-51641.html				pending
-glaros	Glaros		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Glaros-57559.html				pending
-molitva	Molitva		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Molitva-57556.html				pending
-overture	Overture		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Overture-51644.html				pending
-vert-insight	Vert insight		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Vert-insight-51640.html				pending
-13	13		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/13-62828.html				pending
-ambre-soleil	Ambre soleil		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Ambre-soleil-57557.html				pending
-chypre-vivo	Chypre vivo		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Chypre-vivo-87960.html				pending
-endless-summer	Endless summer		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Endless-summer-93880.html				pending
-gella	Gella		female		https://www.fragrantica.com/perfume/Incarna-parfums/Gella-51642.html				pending
-granite-flowers	Granite flowers		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Granite-flowers-76534.html				pending
-illusive-rose	Illusive rose		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Illusive-rose-59849.html				pending
-immortelle-black	Immortelle black		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Immortelle-black-69185.html				pending
-lelia	Lelia		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Lelia-90208.html				pending
-lyu-blue	Lyu blue		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Lyu-blue-66013.html				pending
-mango-me	Mango me		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Mango-me-51891.html				pending
-nymph	Nymph		female		https://www.fragrantica.com/perfume/Incarna-parfums/Nymph-51890.html				pending
-sacral-oud	Sacral oud		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Sacral-oud-57558.html				pending
-secret-gift	Secret gift		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Secret-gift-77934.html				pending
-september-23	September 23		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/September-23-86087.html				pending
-velvet-nights	Velvet nights		unisex		https://www.fragrantica.com/perfume/Incarna-parfums/Velvet-nights-73013.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+13	13		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/13-62828.html				pending
+alva	Alva		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Alva-79717.html				pending
+ambre-soleil	Ambre soleil		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Ambre-soleil-57557.html				pending
+arcanum	Arcanum		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Arcanum-51643.html				pending
+chypre-vivo	Chypre vivo		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Chypre-vivo-87960.html				pending
+dark-orange	Dark orange		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Dark-orange-51641.html				pending
+endless-summer	Endless summer		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Endless-summer-93880.html				pending
+gella	Gella		female	https://www.fragrantica.com/perfume/Incarna-parfums/Gella-51642.html				pending
+glaros	Glaros		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Glaros-57559.html				pending
+granite-flowers	Granite flowers		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Granite-flowers-76534.html				pending
+illusive-rose	Illusive rose		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Illusive-rose-59849.html				pending
+immortelle-black	Immortelle black		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Immortelle-black-69185.html				pending
+lelia	Lelia		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Lelia-90208.html				pending
+lyu-blue	Lyu blue		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Lyu-blue-66013.html				pending
+mango-me	Mango me		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Mango-me-51891.html				pending
+molitva	Molitva		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Molitva-57556.html				pending
+nymph	Nymph		female	https://www.fragrantica.com/perfume/Incarna-parfums/Nymph-51890.html				pending
+overture	Overture		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Overture-51644.html				pending
+sacral-oud	Sacral oud		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Sacral-oud-57558.html				pending
+secret-gift	Secret gift		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Secret-gift-77934.html				pending
+september-23	September 23		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/September-23-86087.html				pending
+velvet-nights	Velvet nights		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Velvet-nights-73013.html				pending
+vert-insight	Vert insight		unisex	https://www.fragrantica.com/perfume/Incarna-parfums/Vert-insight-51640.html				pending

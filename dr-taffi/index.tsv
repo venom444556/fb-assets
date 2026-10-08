@@ -1,37 +1,37 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-di-bolgheri	Acqua di Bolgheri		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Acqua-di-Bolgheri-16837.html				pending
-amaranthine	Amaranthine		female		https://www.fragrantica.com/perfume/Dr-Taffi/Amaranthine-16841.html				pending
-bacche-di-vinum	Bacche di Vinum		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Bacche-di-Vinum-56525.html				pending
-batik-maracuja-flowers	Batik Maracuja Flowers		female		https://www.fragrantica.com/perfume/Dr-Taffi/Batik-Maracuja-Flowers-16832.html				pending
-camelia-chic	Camelia Chic		female		https://www.fragrantica.com/perfume/Dr-Taffi/Camelia-Chic-13842.html				pending
-cashmere-iris	Cashmere Iris		female		https://www.fragrantica.com/perfume/Dr-Taffi/Cashmere-Iris-16840.html				pending
-cipresso-nobile	Cipresso Nobile		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Cipresso-Nobile-56575.html				pending
-corallo	Corallo		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Corallo-56518.html				pending
-cotone-muschio-bianco	Cotone-muschio bianco		female		https://www.fragrantica.com/perfume/Dr-Taffi/Cotone-muschio-bianco-29966.html				pending
-dolce	Dolce		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Dolce-56568.html				pending
-fresco	Fresco		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Fresco-56569.html				pending
-hemp-black-pepper	Hemp Black Pepper		female		https://www.fragrantica.com/perfume/Dr-Taffi/Hemp-Black-Pepper-16835.html				pending
-il-giglio	Il Giglio		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Il-Giglio-56519.html				pending
-indaco	Indaco		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Indaco-56573.html				pending
-jazz-mulberry	Jazz Mulberry		female		https://www.fragrantica.com/perfume/Dr-Taffi/Jazz-Mulberry-16833.html				pending
-jeans-white-pepper	Jeans White Pepper		female		https://www.fragrantica.com/perfume/Dr-Taffi/Jeans-White-Pepper-16830.html				pending
-kenaf-karkade	Kenaf Karkade		female		https://www.fragrantica.com/perfume/Dr-Taffi/Kenaf-Karkade-16839.html				pending
-la-magnolia	La Magnolia		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/La-Magnolia-56574.html				pending
-la-rosa	La Rosa		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/La-Rosa-56522.html				pending
-lavanda-eterea	Lavanda Eterea		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Lavanda-Eterea-56536.html				pending
-libeccio	Libeccio		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Libeccio-56539.html				pending
-lino-te-bianco	Lino-tè bianco		female		https://www.fragrantica.com/perfume/Dr-Taffi/Lino-te-bianco-29967.html				pending
-maestrale	Maestrale		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Maestrale-56520.html				pending
-muschio-bianco	Muschio Bianco		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Muschio-Bianco-56517.html				pending
-oro	Oro		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Oro-56541.html				pending
-pashmina-patchouly	Pashmina Patchouly		female		https://www.fragrantica.com/perfume/Dr-Taffi/Pashmina-Patchouly-16838.html				pending
-peperoncino	Peperoncino		female		https://www.fragrantica.com/perfume/Dr-Taffi/Peperoncino-16834.html				pending
-satin-perla	Satin-perla		female		https://www.fragrantica.com/perfume/Dr-Taffi/Satin-perla-29968.html				pending
-sauvignon-and-tabacco	Sauvignon & Tabacco		male		https://www.fragrantica.com/perfume/Dr-Taffi/Sauvignon-Tabacco-16836.html				pending
-scirocco	Scirocco		female		https://www.fragrantica.com/perfume/Dr-Taffi/Scirocco-56545.html				pending
-seta-fior-di-loto	Seta Fior di Loto		female		https://www.fragrantica.com/perfume/Dr-Taffi/Seta-Fior-di-Loto-29964.html				pending
-speziato	Speziato		unisex		https://www.fragrantica.com/perfume/Dr-Taffi/Speziato-56570.html				pending
-taffeta-note-di-mandorla	Taffetà note di Mandorla		female		https://www.fragrantica.com/perfume/Dr-Taffi/Taffeta-note-di-Mandorla-29963.html				pending
-uomo	Uomo		male		https://www.fragrantica.com/perfume/Dr-Taffi/Uomo-56540.html				pending
-velluto-vanilla	Velluto Vanilla		female		https://www.fragrantica.com/perfume/Dr-Taffi/Velluto-Vanilla-29965.html				pending
-yuta-ginger	Yuta Ginger		female		https://www.fragrantica.com/perfume/Dr-Taffi/Yuta-Ginger-16831.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-di-bolgheri	Acqua di Bolgheri		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Acqua-di-Bolgheri-16837.html				pending
+amaranthine	Amaranthine		female	https://www.fragrantica.com/perfume/Dr-Taffi/Amaranthine-16841.html				pending
+bacche-di-vinum	Bacche di Vinum		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Bacche-di-Vinum-56525.html				pending
+batik-maracuja-flowers	Batik Maracuja Flowers		female	https://www.fragrantica.com/perfume/Dr-Taffi/Batik-Maracuja-Flowers-16832.html				pending
+camelia-chic	Camelia Chic		female	https://www.fragrantica.com/perfume/Dr-Taffi/Camelia-Chic-13842.html				pending
+cashmere-iris	Cashmere Iris		female	https://www.fragrantica.com/perfume/Dr-Taffi/Cashmere-Iris-16840.html				pending
+cipresso-nobile	Cipresso Nobile		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Cipresso-Nobile-56575.html				pending
+corallo	Corallo		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Corallo-56518.html				pending
+cotone-muschio-bianco	Cotone-muschio bianco		female	https://www.fragrantica.com/perfume/Dr-Taffi/Cotone-muschio-bianco-29966.html				pending
+dolce	Dolce		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Dolce-56568.html				pending
+fresco	Fresco		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Fresco-56569.html				pending
+hemp-black-pepper	Hemp Black Pepper		female	https://www.fragrantica.com/perfume/Dr-Taffi/Hemp-Black-Pepper-16835.html				pending
+il-giglio	Il Giglio		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Il-Giglio-56519.html				pending
+indaco	Indaco		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Indaco-56573.html				pending
+jazz-mulberry	Jazz Mulberry		female	https://www.fragrantica.com/perfume/Dr-Taffi/Jazz-Mulberry-16833.html				pending
+jeans-white-pepper	Jeans White Pepper		female	https://www.fragrantica.com/perfume/Dr-Taffi/Jeans-White-Pepper-16830.html				pending
+kenaf-karkade	Kenaf Karkade		female	https://www.fragrantica.com/perfume/Dr-Taffi/Kenaf-Karkade-16839.html				pending
+la-magnolia	La Magnolia		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/La-Magnolia-56574.html				pending
+la-rosa	La Rosa		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/La-Rosa-56522.html				pending
+lavanda-eterea	Lavanda Eterea		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Lavanda-Eterea-56536.html				pending
+libeccio	Libeccio		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Libeccio-56539.html				pending
+lino-te-bianco	Lino-tè bianco		female	https://www.fragrantica.com/perfume/Dr-Taffi/Lino-te-bianco-29967.html				pending
+maestrale	Maestrale		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Maestrale-56520.html				pending
+muschio-bianco	Muschio Bianco		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Muschio-Bianco-56517.html				pending
+oro	Oro		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Oro-56541.html				pending
+pashmina-patchouly	Pashmina Patchouly		female	https://www.fragrantica.com/perfume/Dr-Taffi/Pashmina-Patchouly-16838.html				pending
+peperoncino	Peperoncino		female	https://www.fragrantica.com/perfume/Dr-Taffi/Peperoncino-16834.html				pending
+satin-perla	Satin-perla		female	https://www.fragrantica.com/perfume/Dr-Taffi/Satin-perla-29968.html				pending
+sauvignon-and-tabacco	Sauvignon & Tabacco		male	https://www.fragrantica.com/perfume/Dr-Taffi/Sauvignon-Tabacco-16836.html				pending
+scirocco	Scirocco		female	https://www.fragrantica.com/perfume/Dr-Taffi/Scirocco-56545.html				pending
+seta-fior-di-loto	Seta Fior di Loto		female	https://www.fragrantica.com/perfume/Dr-Taffi/Seta-Fior-di-Loto-29964.html				pending
+speziato	Speziato		unisex	https://www.fragrantica.com/perfume/Dr-Taffi/Speziato-56570.html				pending
+taffeta-note-di-mandorla	Taffetà note di Mandorla		female	https://www.fragrantica.com/perfume/Dr-Taffi/Taffeta-note-di-Mandorla-29963.html				pending
+uomo	Uomo		male	https://www.fragrantica.com/perfume/Dr-Taffi/Uomo-56540.html				pending
+velluto-vanilla	Velluto Vanilla		female	https://www.fragrantica.com/perfume/Dr-Taffi/Velluto-Vanilla-29965.html				pending
+yuta-ginger	Yuta Ginger		female	https://www.fragrantica.com/perfume/Dr-Taffi/Yuta-Ginger-16831.html				pending

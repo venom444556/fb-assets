@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-platinium	Black Platinium		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Black-Platinium-20651.html				pending
-cachotterie	Cachotterie		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Cachotterie-20675.html				pending
-coral-light	Coral Light		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Coral-Light-20676.html				pending
-dagger	Dagger		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Dagger-20652.html				pending
-dagger-for-her	Dagger for Her		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Dagger-for-Her-20662.html				pending
-dagger-metal	Dagger Metal		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Dagger-Metal-20653.html				pending
-dagger-night	Dagger Night		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Dagger-Night-20654.html				pending
-efory	Efory		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Efory-20677.html				pending
-empire-50-chic	Empire 50 Chic		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Empire-50-Chic-20656.html				pending
-empire-50-elegant	Empire 50 Elegant		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Empire-50-Elegant-20655.html				pending
-empire-50-precious	Empire 50 Precious		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Empire-50-Precious-20660.html				pending
-empire-50-sweet	Empire 50 Sweet		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Empire-50-Sweet-20661.html				pending
-french-style	French Style		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/French-Style-20658.html				pending
-french-style-blue-dream	French Style Blue Dream		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/French-Style-Blue-Dream-20659.html				pending
-french-style-so-men	French Style So Men		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/French-Style-So-Men-20657.html				pending
-imperial-silver-black	Imperial Silver Black		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Imperial-Silver-Black-20663.html				pending
-imperial-silver-brown	Imperial Silver Brown		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Imperial-Silver-Brown-20664.html				pending
-imperial-silver-pink	Imperial Silver Pink		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Imperial-Silver-Pink-20665.html				pending
-imperial-silver-purple	Imperial Silver Purple		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Imperial-Silver-Purple-20666.html				pending
-lovely-me	Lovely Me		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Lovely-Me-20678.html				pending
-momento	Momento		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Momento-20667.html				pending
-once-again	Once Again		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Once-Again-20679.html				pending
-posh-femme	Posh Femme		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Posh-Femme-20669.html				pending
-posh-homme	Posh Homme		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Posh-Homme-20668.html				pending
-pretty-lovely-me	Pretty Lovely Me		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Pretty-Lovely-Me-20680.html				pending
-pure-and-sensual	Pure And Sensual		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Pure-And-Sensual-20670.html				pending
-rue-du-prince	Rue Du Prince		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Rue-Du-Prince-20673.html				pending
-rue-princesse	Rue Princesse		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Rue-Princesse-20671.html				pending
-runaway	Runaway		male		https://www.fragrantica.com/perfume/Dina-Cosmetics/Runaway-20674.html				pending
-unfair	Unfair		female		https://www.fragrantica.com/perfume/Dina-Cosmetics/Unfair-20672.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-platinium	Black Platinium		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Black-Platinium-20651.html				pending
+cachotterie	Cachotterie		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Cachotterie-20675.html				pending
+coral-light	Coral Light		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Coral-Light-20676.html				pending
+dagger	Dagger		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Dagger-20652.html				pending
+dagger-for-her	Dagger for Her		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Dagger-for-Her-20662.html				pending
+dagger-metal	Dagger Metal		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Dagger-Metal-20653.html				pending
+dagger-night	Dagger Night		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Dagger-Night-20654.html				pending
+efory	Efory		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Efory-20677.html				pending
+empire-50-chic	Empire 50 Chic		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Empire-50-Chic-20656.html				pending
+empire-50-elegant	Empire 50 Elegant		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Empire-50-Elegant-20655.html				pending
+empire-50-precious	Empire 50 Precious		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Empire-50-Precious-20660.html				pending
+empire-50-sweet	Empire 50 Sweet		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Empire-50-Sweet-20661.html				pending
+french-style	French Style		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/French-Style-20658.html				pending
+french-style-blue-dream	French Style Blue Dream		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/French-Style-Blue-Dream-20659.html				pending
+french-style-so-men	French Style So Men		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/French-Style-So-Men-20657.html				pending
+imperial-silver-black	Imperial Silver Black		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Imperial-Silver-Black-20663.html				pending
+imperial-silver-brown	Imperial Silver Brown		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Imperial-Silver-Brown-20664.html				pending
+imperial-silver-pink	Imperial Silver Pink		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Imperial-Silver-Pink-20665.html				pending
+imperial-silver-purple	Imperial Silver Purple		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Imperial-Silver-Purple-20666.html				pending
+lovely-me	Lovely Me		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Lovely-Me-20678.html				pending
+momento	Momento		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Momento-20667.html				pending
+once-again	Once Again		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Once-Again-20679.html				pending
+posh-femme	Posh Femme		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Posh-Femme-20669.html				pending
+posh-homme	Posh Homme		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Posh-Homme-20668.html				pending
+pretty-lovely-me	Pretty Lovely Me		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Pretty-Lovely-Me-20680.html				pending
+pure-and-sensual	Pure And Sensual		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Pure-And-Sensual-20670.html				pending
+rue-du-prince	Rue Du Prince		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Rue-Du-Prince-20673.html				pending
+rue-princesse	Rue Princesse		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Rue-Princesse-20671.html				pending
+runaway	Runaway		male	https://www.fragrantica.com/perfume/Dina-Cosmetics/Runaway-20674.html				pending
+unfair	Unfair		female	https://www.fragrantica.com/perfume/Dina-Cosmetics/Unfair-20672.html				pending

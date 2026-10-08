@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bloom	Bloom		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Bloom-63718.html				pending
-dancing-leaves	Dancing Leaves		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Dancing-Leaves-40590.html				pending
-dark-forest	Dark Forest		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Dark-Forest-40592.html				pending
-dusk	Dusk		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Dusk-63711.html				pending
-eden	Eden		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Eden-82334.html				pending
-essence	Essence		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Essence-87877.html				pending
-glow	Glow		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Glow-63715.html				pending
-green-walk	Green Walk		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Green-Walk-40596.html				pending
-moonlight	Moonlight		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Moonlight-57464.html				pending
-natural-flame	Natural Flame		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Natural-Flame-82577.html				pending
-north-star	North Star		male		https://www.fragrantica.com/perfume/The-Woods-Collection/North-Star-76486.html				pending
-panorama	Panorama		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Panorama-63719.html				pending
-pure-shine	Pure Shine		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Pure-Shine-40593.html				pending
-royal-night	Royal Night		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Royal-Night-63714.html				pending
-secret	Secret		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Secret-63712.html				pending
-secret-source	Secret Source		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Secret-Source-40595.html				pending
-sunrise	Sunrise		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Sunrise-82552.html				pending
-timeless-sands	Timeless Sands		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Timeless-Sands-44458.html				pending
-twilight	Twilight		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Twilight-44459.html				pending
-wild-roses	Wild Roses		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Wild-Roses-40594.html				pending
-dawn	Dawn		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Dawn-63716.html				pending
-eclipse	Eclipse		unisex		https://www.fragrantica.com/perfume/The-Woods-Collection/Eclipse-82576.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bloom	Bloom		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Bloom-63718.html				pending
+dancing-leaves	Dancing Leaves		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Dancing-Leaves-40590.html				pending
+dark-forest	Dark Forest		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Dark-Forest-40592.html				pending
+dawn	Dawn		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Dawn-63716.html				pending
+dusk	Dusk		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Dusk-63711.html				pending
+eclipse	Eclipse		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Eclipse-82576.html				pending
+eden	Eden		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Eden-82334.html				pending
+essence	Essence		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Essence-87877.html				pending
+glow	Glow		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Glow-63715.html				pending
+green-walk	Green Walk		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Green-Walk-40596.html				pending
+moonlight	Moonlight		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Moonlight-57464.html				pending
+natural-flame	Natural Flame		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Natural-Flame-82577.html				pending
+north-star	North Star		male	https://www.fragrantica.com/perfume/The-Woods-Collection/North-Star-76486.html				pending
+panorama	Panorama		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Panorama-63719.html				pending
+pure-shine	Pure Shine		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Pure-Shine-40593.html				pending
+royal-night	Royal Night		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Royal-Night-63714.html				pending
+secret	Secret		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Secret-63712.html				pending
+secret-source	Secret Source		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Secret-Source-40595.html				pending
+sunrise	Sunrise		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Sunrise-82552.html				pending
+timeless-sands	Timeless Sands		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Timeless-Sands-44458.html				pending
+twilight	Twilight		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Twilight-44459.html				pending
+wild-roses	Wild Roses		unisex	https://www.fragrantica.com/perfume/The-Woods-Collection/Wild-Roses-40594.html				pending

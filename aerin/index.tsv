@@ -1,38 +1,38 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aegea-blossom	Aegea Blossom		female		https://www.fragrantica.com/perfume/Aerin/Aegea-Blossom-53171.html				pending
-amber-musk	Amber Musk		female		https://www.fragrantica.com/perfume/Aerin/Amber-Musk-19056.html				pending
-amber-musk-dor	Amber Musk d'Or		female		https://www.fragrantica.com/perfume/Aerin/Amber-Musk-d-Or-43516.html				pending
-amber-musk-santal	Amber Musk Santal		female		https://www.fragrantica.com/perfume/Aerin/Amber-Musk-Santal-95120.html				pending
-amber-musk-vanille	Amber Musk Vanille		unisex		https://www.fragrantica.com/perfume/Aerin/Amber-Musk-Vanille-112438.html				pending
-ambrette-de-noir	Ambrette de Noir		female		https://www.fragrantica.com/perfume/Aerin/Ambrette-de-Noir-62819.html				pending
-bamboo-rose-eau-de-cologne	Bamboo Rose Eau de Cologne		female		https://www.fragrantica.com/perfume/Aerin/Bamboo-Rose-Eau-de-Cologne-43328.html				pending
-cedar-violet	Cedar Violet		female		https://www.fragrantica.com/perfume/Aerin/Cedar-Violet-68959.html				pending
-evening-rose	Evening Rose		female		https://www.fragrantica.com/perfume/Aerin/Evening-Rose-19059.html				pending
-evening-rose-dor	Evening Rose D'Or		female		https://www.fragrantica.com/perfume/Aerin/Evening-Rose-D-Or-43767.html				pending
-fleur-de-peony	Fleur de Peony		female		https://www.fragrantica.com/perfume/Aerin/Fleur-de-Peony-62676.html				pending
-gardenia-rattan	Gardenia Rattan		female		https://www.fragrantica.com/perfume/Aerin/Gardenia-Rattan-19055.html				pending
-hibiscus-palm	Hibiscus Palm		female		https://www.fragrantica.com/perfume/Aerin/Hibiscus-Palm-48009.html				pending
-ikat-jasmine	Ikat Jasmine		female		https://www.fragrantica.com/perfume/Aerin/Ikat-Jasmine-19058.html				pending
-iris-meadow	Iris Meadow		female		https://www.fragrantica.com/perfume/Aerin/Iris-Meadow-28362.html				pending
-lilac-path	Lilac Path		female		https://www.fragrantica.com/perfume/Aerin/Lilac-Path-19057.html				pending
-limone-di-sicilia	Limone di Sicilia		unisex		https://www.fragrantica.com/perfume/Aerin/Limone-di-Sicilia-56030.html				pending
-linen-rose-eau-de-cologne	Linen Rose Eau de Cologne		female		https://www.fragrantica.com/perfume/Aerin/Linen-Rose-Eau-de-Cologne-43329.html				pending
-mediterranean-honeysuckle	Mediterranean Honeysuckle		female		https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-34585.html				pending
-mediterranean-honeysuckle-clementina	Mediterranean Honeysuckle Clementina		female		https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-Clementina-78780.html				pending
-mediterranean-honeysuckle-in-bloom	Mediterranean Honeysuckle In Bloom		female		https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-In-Bloom-66675.html				pending
-mediterranean-honeysuckle-mimosa	Mediterranean Honeysuckle Mimosa		female		https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-Mimosa-72159.html				pending
-mediterranean-honeysuckle-tiare	Mediterranean Honeysuckle Tiare		female		https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-Tiare-89346.html				pending
-rose-cocoa	Rose Cocoa		unisex		https://www.fragrantica.com/perfume/Aerin/Rose-Cocoa-56979.html				pending
-rose-de-grasse	Rose de Grasse		female		https://www.fragrantica.com/perfume/Aerin/Rose-de-Grasse-29803.html				pending
-rose-de-grasse-joyful-bloom	Rose de Grasse Joyful Bloom		female		https://www.fragrantica.com/perfume/Aerin/Rose-de-Grasse-Joyful-Bloom-74928.html				pending
-rose-de-grasse-pour-filles	Rose de Grasse Pour Filles		female		https://www.fragrantica.com/perfume/Aerin/Rose-de-Grasse-Pour-Filles-66124.html				pending
-rose-de-grasse-rouge	Rose de Grasse Rouge		female		https://www.fragrantica.com/perfume/Aerin/Rose-de-Grasse-Rouge-83474.html				pending
-tangier-vanille	Tangier Vanille		female		https://www.fragrantica.com/perfume/Aerin/Tangier-Vanille-39441.html				pending
-tangier-vanille-dor	Tangier Vanille D'Or		female		https://www.fragrantica.com/perfume/Aerin/Tangier-Vanille-D-Or-43766.html				pending
-tuberose-gardenia	Tuberose Gardenia		female		https://www.fragrantica.com/perfume/Aerin/Tuberose-Gardenia-101277.html				pending
-tuberose-le-jour	Tuberose Le Jour		female		https://www.fragrantica.com/perfume/Aerin/Tuberose-Le-Jour-46108.html				pending
-tuberose-le-soir	Tuberose Le Soir		female		https://www.fragrantica.com/perfume/Aerin/Tuberose-Le-Soir-46107.html				pending
-waterlily-sun	Waterlily Sun		female		https://www.fragrantica.com/perfume/Aerin/Waterlily-Sun-28361.html				pending
-wild-geranium	Wild Geranium		female		https://www.fragrantica.com/perfume/Aerin/Wild-Geranium-58751.html				pending
-wisteria	Wisteria		unisex		https://www.fragrantica.com/perfume/Aerin/Wisteria-110376.html				pending
-eclat-de-vert	Éclat de Vert		female		https://www.fragrantica.com/perfume/Aerin/Eclat-de-Vert-50847.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aegea-blossom	Aegea Blossom		female	https://www.fragrantica.com/perfume/Aerin/Aegea-Blossom-53171.html				pending
+amber-musk	Amber Musk		female	https://www.fragrantica.com/perfume/Aerin/Amber-Musk-19056.html				pending
+amber-musk-dor	Amber Musk d'Or		female	https://www.fragrantica.com/perfume/Aerin/Amber-Musk-d-Or-43516.html				pending
+amber-musk-santal	Amber Musk Santal		female	https://www.fragrantica.com/perfume/Aerin/Amber-Musk-Santal-95120.html				pending
+amber-musk-vanille	Amber Musk Vanille		unisex	https://www.fragrantica.com/perfume/Aerin/Amber-Musk-Vanille-112438.html				pending
+ambrette-de-noir	Ambrette de Noir		female	https://www.fragrantica.com/perfume/Aerin/Ambrette-de-Noir-62819.html				pending
+bamboo-rose-eau-de-cologne	Bamboo Rose Eau de Cologne	Eau de Cologne	female	https://www.fragrantica.com/perfume/Aerin/Bamboo-Rose-Eau-de-Cologne-43328.html				pending
+cedar-violet	Cedar Violet		female	https://www.fragrantica.com/perfume/Aerin/Cedar-Violet-68959.html				pending
+evening-rose	Evening Rose		female	https://www.fragrantica.com/perfume/Aerin/Evening-Rose-19059.html				pending
+evening-rose-dor	Evening Rose D'Or		female	https://www.fragrantica.com/perfume/Aerin/Evening-Rose-D-Or-43767.html				pending
+fleur-de-peony	Fleur de Peony		female	https://www.fragrantica.com/perfume/Aerin/Fleur-de-Peony-62676.html				pending
+gardenia-rattan	Gardenia Rattan		female	https://www.fragrantica.com/perfume/Aerin/Gardenia-Rattan-19055.html				pending
+hibiscus-palm	Hibiscus Palm		female	https://www.fragrantica.com/perfume/Aerin/Hibiscus-Palm-48009.html				pending
+ikat-jasmine	Ikat Jasmine		female	https://www.fragrantica.com/perfume/Aerin/Ikat-Jasmine-19058.html				pending
+iris-meadow	Iris Meadow		female	https://www.fragrantica.com/perfume/Aerin/Iris-Meadow-28362.html				pending
+lilac-path	Lilac Path		female	https://www.fragrantica.com/perfume/Aerin/Lilac-Path-19057.html				pending
+limone-di-sicilia	Limone di Sicilia		unisex	https://www.fragrantica.com/perfume/Aerin/Limone-di-Sicilia-56030.html				pending
+linen-rose-eau-de-cologne	Linen Rose Eau de Cologne	Eau de Cologne	female	https://www.fragrantica.com/perfume/Aerin/Linen-Rose-Eau-de-Cologne-43329.html				pending
+mediterranean-honeysuckle	Mediterranean Honeysuckle		female	https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-34585.html				pending
+mediterranean-honeysuckle-clementina	Mediterranean Honeysuckle Clementina		female	https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-Clementina-78780.html				pending
+mediterranean-honeysuckle-in-bloom	Mediterranean Honeysuckle In Bloom		female	https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-In-Bloom-66675.html				pending
+mediterranean-honeysuckle-mimosa	Mediterranean Honeysuckle Mimosa		female	https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-Mimosa-72159.html				pending
+mediterranean-honeysuckle-tiare	Mediterranean Honeysuckle Tiare		female	https://www.fragrantica.com/perfume/Aerin/Mediterranean-Honeysuckle-Tiare-89346.html				pending
+rose-cocoa	Rose Cocoa		unisex	https://www.fragrantica.com/perfume/Aerin/Rose-Cocoa-56979.html				pending
+rose-de-grasse	Rose de Grasse		female	https://www.fragrantica.com/perfume/Aerin/Rose-de-Grasse-29803.html				pending
+rose-de-grasse-joyful-bloom	Rose de Grasse Joyful Bloom		female	https://www.fragrantica.com/perfume/Aerin/Rose-de-Grasse-Joyful-Bloom-74928.html				pending
+rose-de-grasse-pour-filles	Rose de Grasse Pour Filles		female	https://www.fragrantica.com/perfume/Aerin/Rose-de-Grasse-Pour-Filles-66124.html				pending
+rose-de-grasse-rouge	Rose de Grasse Rouge		female	https://www.fragrantica.com/perfume/Aerin/Rose-de-Grasse-Rouge-83474.html				pending
+tangier-vanille	Tangier Vanille		female	https://www.fragrantica.com/perfume/Aerin/Tangier-Vanille-39441.html				pending
+tangier-vanille-dor	Tangier Vanille D'Or		female	https://www.fragrantica.com/perfume/Aerin/Tangier-Vanille-D-Or-43766.html				pending
+tuberose-gardenia	Tuberose Gardenia		female	https://www.fragrantica.com/perfume/Aerin/Tuberose-Gardenia-101277.html				pending
+tuberose-le-jour	Tuberose Le Jour		female	https://www.fragrantica.com/perfume/Aerin/Tuberose-Le-Jour-46108.html				pending
+tuberose-le-soir	Tuberose Le Soir		female	https://www.fragrantica.com/perfume/Aerin/Tuberose-Le-Soir-46107.html				pending
+waterlily-sun	Waterlily Sun		female	https://www.fragrantica.com/perfume/Aerin/Waterlily-Sun-28361.html				pending
+wild-geranium	Wild Geranium		female	https://www.fragrantica.com/perfume/Aerin/Wild-Geranium-58751.html				pending
+wisteria	Wisteria		unisex	https://www.fragrantica.com/perfume/Aerin/Wisteria-110376.html				pending
+eclat-de-vert	Éclat de Vert		female	https://www.fragrantica.com/perfume/Aerin/Eclat-de-Vert-50847.html				pending

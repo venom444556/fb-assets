@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-basilica	Basilica		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Basilica-68245.html				pending
-brera	Brera		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Brera-68248.html				pending
-cortile	Cortile		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Cortile-68249.html				pending
-derby	Derby		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Derby-68251.html				pending
-diurno	Diurno		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Diurno-68247.html				pending
-galleria	Galleria		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Galleria-68246.html				pending
-la-prima	La Prima		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/La-Prima-68250.html				pending
-naviglio	Naviglio		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Naviglio-68240.html				pending
-neon-lights	Neon Lights		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Neon-Lights-103150.html				pending
-panettone	Panettone		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Panettone-71006.html				pending
-piazza-affari	Piazza Affari		unisex		https://www.fragrantica.com/perfume/Milano-Fragranze/Piazza-Affari-74873.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+basilica	Basilica		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Basilica-68245.html				pending
+brera	Brera		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Brera-68248.html				pending
+cortile	Cortile		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Cortile-68249.html				pending
+derby	Derby		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Derby-68251.html				pending
+diurno	Diurno		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Diurno-68247.html				pending
+galleria	Galleria		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Galleria-68246.html				pending
+la-prima	La Prima		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/La-Prima-68250.html				pending
+naviglio	Naviglio		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Naviglio-68240.html				pending
+neon-lights	Neon Lights		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Neon-Lights-103150.html				pending
+panettone	Panettone		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Panettone-71006.html				pending
+piazza-affari	Piazza Affari		unisex	https://www.fragrantica.com/perfume/Milano-Fragranze/Piazza-Affari-74873.html				pending

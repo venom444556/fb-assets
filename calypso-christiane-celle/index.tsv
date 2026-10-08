@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-calypso-ambre	Calypso Ambre		unisex		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Ambre-6710.html				pending
-bellini	Bellini		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Bellini-8243.html				pending
-calypso-chevrefeuille	Calypso Chevrefeuille		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Chevrefeuille-6705.html				pending
-calypso-figue	Calypso Figue		unisex		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Figue-6711.html				pending
-calypso-gardenia	Calypso Gardenia		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Gardenia-6712.html				pending
-calypso-marine	Calypso Marine		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Marine-6706.html				pending
-calypso-mimosa	Calypso Mimosa		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Mimosa-6703.html				pending
-calypso-rose	Calypso Rose		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Rose-6708.html				pending
-calypso-tangerine	Calypso Tangerine		unisex		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Tangerine-6709.html				pending
-calypso-the	Calypso The		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-The-6704.html				pending
-calypso-vanille	Calypso Vanille		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Vanille-6713.html				pending
-calypso-violette	Calypso Violette		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Violette-6707.html				pending
-homme	Homme		male		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Homme-9024.html				pending
-jasmin	Jasmin		female		https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Jasmin-9023.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bellini	Bellini		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Bellini-8243.html				pending
+calypso-ambre	Calypso Ambre		unisex	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Ambre-6710.html				pending
+calypso-chevrefeuille	Calypso Chevrefeuille		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Chevrefeuille-6705.html				pending
+calypso-figue	Calypso Figue		unisex	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Figue-6711.html				pending
+calypso-gardenia	Calypso Gardenia		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Gardenia-6712.html				pending
+calypso-marine	Calypso Marine		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Marine-6706.html				pending
+calypso-mimosa	Calypso Mimosa		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Mimosa-6703.html				pending
+calypso-rose	Calypso Rose		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Rose-6708.html				pending
+calypso-tangerine	Calypso Tangerine		unisex	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Tangerine-6709.html				pending
+calypso-the	Calypso The		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-The-6704.html				pending
+calypso-vanille	Calypso Vanille		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Vanille-6713.html				pending
+calypso-violette	Calypso Violette		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Calypso-Violette-6707.html				pending
+homme	Homme		male	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Homme-9024.html				pending
+jasmin	Jasmin		female	https://www.fragrantica.com/perfume/Calypso-Christiane-Celle/Jasmin-9023.html				pending

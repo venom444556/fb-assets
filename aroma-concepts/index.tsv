@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-batikh-watermelon	BATIKH Watermelon		unisex		https://www.fragrantica.com/perfume/Aroma-Concepts/BATIKH-Watermelon-101956.html				pending
-ginger-babe	Ginger Babe		unisex		https://www.fragrantica.com/perfume/Aroma-Concepts/Ginger-Babe-102434.html				pending
-jawhari-daniel-rene	Jawhari Daniel Rene		unisex		https://www.fragrantica.com/perfume/Aroma-Concepts/Jawhari-Daniel-Rene-103428.html				pending
-jewel-avri	Jewel Avri		female		https://www.fragrantica.com/perfume/Aroma-Concepts/Jewel-Avri-101244.html				pending
-sapphire-avri	Sapphire Avri		unisex		https://www.fragrantica.com/perfume/Aroma-Concepts/Sapphire-Avri-101243.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+batikh-watermelon	BATIKH Watermelon		unisex	https://www.fragrantica.com/perfume/Aroma-Concepts/BATIKH-Watermelon-101956.html				pending
+ginger-babe	Ginger Babe		unisex	https://www.fragrantica.com/perfume/Aroma-Concepts/Ginger-Babe-102434.html				pending
+jawhari-daniel-rene	Jawhari Daniel Rene		unisex	https://www.fragrantica.com/perfume/Aroma-Concepts/Jawhari-Daniel-Rene-103428.html				pending
+jewel-avri	Jewel Avri		female	https://www.fragrantica.com/perfume/Aroma-Concepts/Jewel-Avri-101244.html				pending
+sapphire-avri	Sapphire Avri		unisex	https://www.fragrantica.com/perfume/Aroma-Concepts/Sapphire-Avri-101243.html				pending

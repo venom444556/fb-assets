@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-queen	Amber Queen		female		https://www.fragrantica.com/perfume/A-Dozen-Roses/Amber-Queen-15524.html				pending
-angel-face	Angel Face		female		https://www.fragrantica.com/perfume/A-Dozen-Roses/Angel-Face-18588.html				pending
-electron	Electron		female		https://www.fragrantica.com/perfume/A-Dozen-Roses/Electron-14300.html				pending
-gold-rush	Gold Rush		female		https://www.fragrantica.com/perfume/A-Dozen-Roses/Gold-Rush-12963.html				pending
-iced-white	Iced White		female		https://www.fragrantica.com/perfume/A-Dozen-Roses/Iced-White-12961.html				pending
-shakespeare-in-love	Shakespeare in Love		female		https://www.fragrantica.com/perfume/A-Dozen-Roses/Shakespeare-in-Love-12960.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-queen	Amber Queen		female	https://www.fragrantica.com/perfume/A-Dozen-Roses/Amber-Queen-15524.html				pending
+angel-face	Angel Face		female	https://www.fragrantica.com/perfume/A-Dozen-Roses/Angel-Face-18588.html				pending
+electron	Electron		female	https://www.fragrantica.com/perfume/A-Dozen-Roses/Electron-14300.html				pending
+gold-rush	Gold Rush		female	https://www.fragrantica.com/perfume/A-Dozen-Roses/Gold-Rush-12963.html				pending
+iced-white	Iced White		female	https://www.fragrantica.com/perfume/A-Dozen-Roses/Iced-White-12961.html				pending
+shakespeare-in-love	Shakespeare in Love		female	https://www.fragrantica.com/perfume/A-Dozen-Roses/Shakespeare-in-Love-12960.html				pending

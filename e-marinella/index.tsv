@@ -1,19 +1,19 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-100	100		male		https://www.fragrantica.com/perfume/E-Marinella/100-33313.html				pending
-287	287		male		https://www.fragrantica.com/perfume/E-Marinella/287-33314.html				pending
-ambra-royale	Ambra Royale		female		https://www.fragrantica.com/perfume/E-Marinella/Ambra-Royale-33331.html				pending
-capodimonte	Capodimonte		unisex		https://www.fragrantica.com/perfume/E-Marinella/Capodimonte-33330.html				pending
-chiaja	Chiaja		female		https://www.fragrantica.com/perfume/E-Marinella/Chiaja-33342.html				pending
-costa-nera	Costa Nera		unisex		https://www.fragrantica.com/perfume/E-Marinella/Costa-Nera-33328.html				pending
-cyber-cuir	Cyber Cuir		unisex		https://www.fragrantica.com/perfume/E-Marinella/Cyber-Cuir-46602.html				pending
-e-marinella	E. Marinella		male		https://www.fragrantica.com/perfume/E-Marinella/E-Marinella-33326.html				pending
-e-marinella-the-original	E. Marinella The Original		male		https://www.fragrantica.com/perfume/E-Marinella/E-Marinella-The-Original-33340.html				pending
-frenesia	Frenesia		female		https://www.fragrantica.com/perfume/E-Marinella/Frenesia-33333.html				pending
-hyper-wood	Hyper Wood		unisex		https://www.fragrantica.com/perfume/E-Marinella/Hyper-Wood-46604.html				pending
-malia	Malia		female		https://www.fragrantica.com/perfume/E-Marinella/Malia-46521.html				pending
-muscade	Muscade		male		https://www.fragrantica.com/perfume/E-Marinella/Muscade-33336.html				pending
-posillipo	Posillipo		unisex		https://www.fragrantica.com/perfume/E-Marinella/Posillipo-33329.html				pending
-seta	Seta		female		https://www.fragrantica.com/perfume/E-Marinella/Seta-33338.html				pending
-spicy-lab	Spicy Lab		unisex		https://www.fragrantica.com/perfume/E-Marinella/Spicy-Lab-46603.html				pending
-suite	Suite		unisex		https://www.fragrantica.com/perfume/E-Marinella/Suite-57162.html				pending
-tabacco-imperiale	Tabacco Imperiale		male		https://www.fragrantica.com/perfume/E-Marinella/Tabacco-Imperiale-33334.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+100	100		male	https://www.fragrantica.com/perfume/E-Marinella/100-33313.html				pending
+287	287		male	https://www.fragrantica.com/perfume/E-Marinella/287-33314.html				pending
+ambra-royale	Ambra Royale		female	https://www.fragrantica.com/perfume/E-Marinella/Ambra-Royale-33331.html				pending
+capodimonte	Capodimonte		unisex	https://www.fragrantica.com/perfume/E-Marinella/Capodimonte-33330.html				pending
+chiaja	Chiaja		female	https://www.fragrantica.com/perfume/E-Marinella/Chiaja-33342.html				pending
+costa-nera	Costa Nera		unisex	https://www.fragrantica.com/perfume/E-Marinella/Costa-Nera-33328.html				pending
+cyber-cuir	Cyber Cuir		unisex	https://www.fragrantica.com/perfume/E-Marinella/Cyber-Cuir-46602.html				pending
+e-marinella	E. Marinella		male	https://www.fragrantica.com/perfume/E-Marinella/E-Marinella-33326.html				pending
+e-marinella-the-original	E. Marinella The Original		male	https://www.fragrantica.com/perfume/E-Marinella/E-Marinella-The-Original-33340.html				pending
+frenesia	Frenesia		female	https://www.fragrantica.com/perfume/E-Marinella/Frenesia-33333.html				pending
+hyper-wood	Hyper Wood		unisex	https://www.fragrantica.com/perfume/E-Marinella/Hyper-Wood-46604.html				pending
+malia	Malia		female	https://www.fragrantica.com/perfume/E-Marinella/Malia-46521.html				pending
+muscade	Muscade		male	https://www.fragrantica.com/perfume/E-Marinella/Muscade-33336.html				pending
+posillipo	Posillipo		unisex	https://www.fragrantica.com/perfume/E-Marinella/Posillipo-33329.html				pending
+seta	Seta		female	https://www.fragrantica.com/perfume/E-Marinella/Seta-33338.html				pending
+spicy-lab	Spicy Lab		unisex	https://www.fragrantica.com/perfume/E-Marinella/Spicy-Lab-46603.html				pending
+suite	Suite		unisex	https://www.fragrantica.com/perfume/E-Marinella/Suite-57162.html				pending
+tabacco-imperiale	Tabacco Imperiale		male	https://www.fragrantica.com/perfume/E-Marinella/Tabacco-Imperiale-33334.html				pending

@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amazing-shooting	Amazing Shooting		unisex		https://www.fragrantica.com/perfume/Making-of-Cannes/Amazing-Shooting-29281.html				pending
-lamour-la-mode	L'Amour, la Mode...		female		https://www.fragrantica.com/perfume/Making-of-Cannes/L-Amour-la-Mode-29280.html				pending
-premier-role	Premier Role		female		https://www.fragrantica.com/perfume/Making-of-Cannes/Premier-Role-29277.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amazing-shooting	Amazing Shooting		unisex	https://www.fragrantica.com/perfume/Making-of-Cannes/Amazing-Shooting-29281.html				pending
+lamour-la-mode	L'Amour, la Mode...		female	https://www.fragrantica.com/perfume/Making-of-Cannes/L-Amour-la-Mode-29280.html				pending
+premier-role	Premier Role		female	https://www.fragrantica.com/perfume/Making-of-Cannes/Premier-Role-29277.html				pending

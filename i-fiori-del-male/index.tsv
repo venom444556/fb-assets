@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-gourmand-1	Gourmand 1		unisex		https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Gourmand-1-54954.html				pending
-gourmand-2	Gourmand 2		unisex		https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Gourmand-2-54955.html				pending
-gourmand-3	Gourmand 3		unisex		https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Gourmand-3-54956.html				pending
-iris-obscur	Iris Obscur		unisex		https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Iris-Obscur-54953.html				pending
-rose-narcotique	Rose Narcotique		unisex		https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Rose-Narcotique-49418.html				pending
-tubereuse-malefique	Tubereuse Malefique		unisex		https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Tubereuse-Malefique-49419.html				pending
-violette-lysergique	Violette Lysergique		unisex		https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Violette-Lysergique-49417.html				pending
-ylang-additif	Ylang Additif		unisex		https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Ylang-Additif-54948.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+gourmand-1	Gourmand 1		unisex	https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Gourmand-1-54954.html				pending
+gourmand-2	Gourmand 2		unisex	https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Gourmand-2-54955.html				pending
+gourmand-3	Gourmand 3		unisex	https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Gourmand-3-54956.html				pending
+iris-obscur	Iris Obscur		unisex	https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Iris-Obscur-54953.html				pending
+rose-narcotique	Rose Narcotique		unisex	https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Rose-Narcotique-49418.html				pending
+tubereuse-malefique	Tubereuse Malefique		unisex	https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Tubereuse-Malefique-49419.html				pending
+violette-lysergique	Violette Lysergique		unisex	https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Violette-Lysergique-49417.html				pending
+ylang-additif	Ylang Additif		unisex	https://www.fragrantica.com/perfume/I-Fiori-Del-Male/Ylang-Additif-54948.html				pending

@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adolfo	Adolfo		female		https://www.fragrantica.com/perfume/Frances-Denney/Adolfo-39533.html				pending
-adolfo-classic-gentlemen	Adolfo Classic Gentlemen		male		https://www.fragrantica.com/perfume/Frances-Denney/Adolfo-Classic-Gentlemen-39532.html				pending
-adolfo-for-men	Adolfo for Men		male		https://www.fragrantica.com/perfume/Frances-Denney/Adolfo-for-Men-39534.html				pending
-adolfo-ii	Adolfo II		female		https://www.fragrantica.com/perfume/Frances-Denney/Adolfo-II-39535.html				pending
-chenango	Chenango		male		https://www.fragrantica.com/perfume/Frances-Denney/Chenango-39530.html				pending
-do-re-mi	Do-Re-Mi		female		https://www.fragrantica.com/perfume/Frances-Denney/Do-Re-Mi-39526.html				pending
-gay-mood	Gay Mood		female		https://www.fragrantica.com/perfume/Frances-Denney/Gay-Mood-39521.html				pending
-hope	Hope		female		https://www.fragrantica.com/perfume/Frances-Denney/Hope-10294.html				pending
-interlude	Interlude		female		https://www.fragrantica.com/perfume/Frances-Denney/Interlude-10293.html				pending
-lucarelli	Lucarelli		male		https://www.fragrantica.com/perfume/Frances-Denney/Lucarelli-39531.html				pending
-mrs-santa-claus-comes-to-town	Mrs Santa Claus Comes To Town		female		https://www.fragrantica.com/perfume/Frances-Denney/Mrs-Santa-Claus-Comes-To-Town-39528.html				pending
-night-life	Night Life		female		https://www.fragrantica.com/perfume/Frances-Denney/Night-Life-39519.html				pending
-sensai	Sensai		female		https://www.fragrantica.com/perfume/Frances-Denney/Sensai-39518.html				pending
-shining-star	Shining Star		female		https://www.fragrantica.com/perfume/Frances-Denney/Shining-Star-39524.html				pending
-snow-blossom	Snow Blossom		female		https://www.fragrantica.com/perfume/Frances-Denney/Snow-Blossom-39529.html				pending
-whirlwind	Whirlwind		female		https://www.fragrantica.com/perfume/Frances-Denney/Whirlwind-39527.html				pending
-wild-rose	Wild Rose		female		https://www.fragrantica.com/perfume/Frances-Denney/Wild-Rose-39522.html				pending
-yes-yes	Yes, Yes		female		https://www.fragrantica.com/perfume/Frances-Denney/Yes-Yes-39525.html				pending
-you-and-i	You and I		female		https://www.fragrantica.com/perfume/Frances-Denney/You-and-I-39523.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adolfo	Adolfo		female	https://www.fragrantica.com/perfume/Frances-Denney/Adolfo-39533.html				pending
+adolfo-classic-gentlemen	Adolfo Classic Gentlemen		male	https://www.fragrantica.com/perfume/Frances-Denney/Adolfo-Classic-Gentlemen-39532.html				pending
+adolfo-for-men	Adolfo for Men		male	https://www.fragrantica.com/perfume/Frances-Denney/Adolfo-for-Men-39534.html				pending
+adolfo-ii	Adolfo II		female	https://www.fragrantica.com/perfume/Frances-Denney/Adolfo-II-39535.html				pending
+chenango	Chenango		male	https://www.fragrantica.com/perfume/Frances-Denney/Chenango-39530.html				pending
+do-re-mi	Do-Re-Mi		female	https://www.fragrantica.com/perfume/Frances-Denney/Do-Re-Mi-39526.html				pending
+gay-mood	Gay Mood		female	https://www.fragrantica.com/perfume/Frances-Denney/Gay-Mood-39521.html				pending
+hope	Hope		female	https://www.fragrantica.com/perfume/Frances-Denney/Hope-10294.html				pending
+interlude	Interlude		female	https://www.fragrantica.com/perfume/Frances-Denney/Interlude-10293.html				pending
+lucarelli	Lucarelli		male	https://www.fragrantica.com/perfume/Frances-Denney/Lucarelli-39531.html				pending
+mrs-santa-claus-comes-to-town	Mrs Santa Claus Comes To Town		female	https://www.fragrantica.com/perfume/Frances-Denney/Mrs-Santa-Claus-Comes-To-Town-39528.html				pending
+night-life	Night Life		female	https://www.fragrantica.com/perfume/Frances-Denney/Night-Life-39519.html				pending
+sensai	Sensai		female	https://www.fragrantica.com/perfume/Frances-Denney/Sensai-39518.html				pending
+shining-star	Shining Star		female	https://www.fragrantica.com/perfume/Frances-Denney/Shining-Star-39524.html				pending
+snow-blossom	Snow Blossom		female	https://www.fragrantica.com/perfume/Frances-Denney/Snow-Blossom-39529.html				pending
+whirlwind	Whirlwind		female	https://www.fragrantica.com/perfume/Frances-Denney/Whirlwind-39527.html				pending
+wild-rose	Wild Rose		female	https://www.fragrantica.com/perfume/Frances-Denney/Wild-Rose-39522.html				pending
+yes-yes	Yes, Yes		female	https://www.fragrantica.com/perfume/Frances-Denney/Yes-Yes-39525.html				pending
+you-and-i	You and I		female	https://www.fragrantica.com/perfume/Frances-Denney/You-and-I-39523.html				pending

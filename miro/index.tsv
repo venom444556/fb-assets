@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-miro-femme	Miro Femme		female		https://www.fragrantica.com/perfume/Miro/Miro-Femme-13777.html				pending
-miro-magic	Miro Magic		female		https://www.fragrantica.com/perfume/Miro/Miro-Magic-13782.html				pending
-blue-star	Blue Star		female		https://www.fragrantica.com/perfume/Miro/Blue-Star-13780.html				pending
-miro-cabal-pour-homme	Miro Cabal pour Homme		male		https://www.fragrantica.com/perfume/Miro/Miro-Cabal-pour-Homme-13781.html				pending
-miro-darling	Miro Darling		female		https://www.fragrantica.com/perfume/Miro/Miro-Darling-18824.html				pending
-miro-hommage	Miro Hommage		female		https://www.fragrantica.com/perfume/Miro/Miro-Hommage-13778.html				pending
-miro-jubilee	Miro Jubilee		female		https://www.fragrantica.com/perfume/Miro/Miro-Jubilee-28427.html				pending
-miro-night-fever	Miro Night Fever		female		https://www.fragrantica.com/perfume/Miro/Miro-Night-Fever-13783.html				pending
-miro-salsa	Miro Salsa		female		https://www.fragrantica.com/perfume/Miro/Miro-Salsa-13784.html				pending
-miro-secrets	Miro Secrets		female		https://www.fragrantica.com/perfume/Miro/Miro-Secrets-58106.html				pending
-miro-soleil	Miro Soleil		female		https://www.fragrantica.com/perfume/Miro/Miro-Soleil-13779.html				pending
-mysteria	Mysteria		female		https://www.fragrantica.com/perfume/Miro/Mysteria-39542.html				pending
-red-diamonds	Red Diamonds		female		https://www.fragrantica.com/perfume/Miro/Red-Diamonds-35635.html				pending
-red-velvet	Red Velvet		female		https://www.fragrantica.com/perfume/Miro/Red-Velvet-64345.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blue-star	Blue Star		female	https://www.fragrantica.com/perfume/Miro/Blue-Star-13780.html				pending
+miro-cabal-pour-homme	Miro Cabal pour Homme		male	https://www.fragrantica.com/perfume/Miro/Miro-Cabal-pour-Homme-13781.html				pending
+miro-darling	Miro Darling		female	https://www.fragrantica.com/perfume/Miro/Miro-Darling-18824.html				pending
+miro-femme	Miro Femme		female	https://www.fragrantica.com/perfume/Miro/Miro-Femme-13777.html				pending
+miro-hommage	Miro Hommage		female	https://www.fragrantica.com/perfume/Miro/Miro-Hommage-13778.html				pending
+miro-jubilee	Miro Jubilee		female	https://www.fragrantica.com/perfume/Miro/Miro-Jubilee-28427.html				pending
+miro-magic	Miro Magic		female	https://www.fragrantica.com/perfume/Miro/Miro-Magic-13782.html				pending
+miro-night-fever	Miro Night Fever		female	https://www.fragrantica.com/perfume/Miro/Miro-Night-Fever-13783.html				pending
+miro-salsa	Miro Salsa		female	https://www.fragrantica.com/perfume/Miro/Miro-Salsa-13784.html				pending
+miro-secrets	Miro Secrets		female	https://www.fragrantica.com/perfume/Miro/Miro-Secrets-58106.html				pending
+miro-soleil	Miro Soleil		female	https://www.fragrantica.com/perfume/Miro/Miro-Soleil-13779.html				pending
+mysteria	Mysteria		female	https://www.fragrantica.com/perfume/Miro/Mysteria-39542.html				pending
+red-diamonds	Red Diamonds		female	https://www.fragrantica.com/perfume/Miro/Red-Diamonds-35635.html				pending
+red-velvet	Red Velvet		female	https://www.fragrantica.com/perfume/Miro/Red-Velvet-64345.html				pending

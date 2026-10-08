@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-santa	Acqua Santa		unisex		https://www.fragrantica.com/perfume/Linari/Acqua-Santa-9922.html				pending
-angelo-di-fiume	Angelo di Fiume		unisex		https://www.fragrantica.com/perfume/Linari/Angelo-di-Fiume-7126.html				pending
-capelli-doro	Capelli D'Oro		unisex		https://www.fragrantica.com/perfume/Linari/Capelli-D-Oro-44316.html				pending
-eleganza-luminosa	Eleganza Luminosa		unisex		https://www.fragrantica.com/perfume/Linari/Eleganza-Luminosa-7127.html				pending
-fuoco-infernale	Fuoco Infernale		unisex		https://www.fragrantica.com/perfume/Linari/Fuoco-Infernale-17929.html				pending
-mare-pacifico	Mare Pacifico		unisex		https://www.fragrantica.com/perfume/Linari/Mare-Pacifico-23618.html				pending
-notte-bianca	Notte Bianca		unisex		https://www.fragrantica.com/perfume/Linari/Notte-Bianca-7128.html				pending
-porta-del-cielo	Porta del Cielo		unisex		https://www.fragrantica.com/perfume/Linari/Porta-del-Cielo-16558.html				pending
-stella-cadente	Stella Cadente		unisex		https://www.fragrantica.com/perfume/Linari/Stella-Cadente-32399.html				pending
-vista-sul-mare	Vista sul Mare		unisex		https://www.fragrantica.com/perfume/Linari/Vista-sul-Mare-7129.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-santa	Acqua Santa		unisex	https://www.fragrantica.com/perfume/Linari/Acqua-Santa-9922.html				pending
+angelo-di-fiume	Angelo di Fiume		unisex	https://www.fragrantica.com/perfume/Linari/Angelo-di-Fiume-7126.html				pending
+capelli-doro	Capelli D'Oro		unisex	https://www.fragrantica.com/perfume/Linari/Capelli-D-Oro-44316.html				pending
+eleganza-luminosa	Eleganza Luminosa		unisex	https://www.fragrantica.com/perfume/Linari/Eleganza-Luminosa-7127.html				pending
+fuoco-infernale	Fuoco Infernale		unisex	https://www.fragrantica.com/perfume/Linari/Fuoco-Infernale-17929.html				pending
+mare-pacifico	Mare Pacifico		unisex	https://www.fragrantica.com/perfume/Linari/Mare-Pacifico-23618.html				pending
+notte-bianca	Notte Bianca		unisex	https://www.fragrantica.com/perfume/Linari/Notte-Bianca-7128.html				pending
+porta-del-cielo	Porta del Cielo		unisex	https://www.fragrantica.com/perfume/Linari/Porta-del-Cielo-16558.html				pending
+stella-cadente	Stella Cadente		unisex	https://www.fragrantica.com/perfume/Linari/Stella-Cadente-32399.html				pending
+vista-sul-mare	Vista sul Mare		unisex	https://www.fragrantica.com/perfume/Linari/Vista-sul-Mare-7129.html				pending

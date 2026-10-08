@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-clima	Clima		female		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Clima-91187.html				pending
-defile-gold	Defile Gold		female		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Defile-Gold-34240.html				pending
-defile-violet	Defile Violet		female		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Defile-Violet-34239.html				pending
-millionairess	Millionairess		female		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Millionairess-33295.html				pending
-nocturne-vert	Nocturne Vert		female		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Nocturne-Vert-91192.html				pending
-shansita-acqua-dolce	Shansita Acqua Dolce		female		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Shansita-Acqua-Dolce-51060.html				pending
-shansita-acqua-verde	Shansita Acqua Verde		female		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Shansita-Acqua-Verde-51061.html				pending
-kadetskiy-no-1	Кадетский (Kadetskiy) No. 1		male		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Kadetskij-Kadetskiy-No-1-31415.html				pending
-kadetskiy-no-3	Кадетский (Kadetskiy) No. 3		male		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Kadetskij-Kadetskiy-No-3-31416.html				pending
-red-moscow-light	Красная Москва Лайт (Red Moscow Light)		female		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Krasnaa-Moskva-Lajt-Red-Moscow-Light-51044.html				pending
-kuznetsky-most-eau-de-toilette	Кузнецкий мост (Kuznetsky Most) Eau de Toilette		male		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Kuzneckij-most-Kuznetsky-Most-Eau-de-Toilette-26766.html				pending
-f	Фиалка вдохновения		female		https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Fialka-vdokhnovenia-96033.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+clima	Clima		female	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Clima-91187.html				pending
+defile-gold	Defile Gold		female	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Defile-Gold-34240.html				pending
+defile-violet	Defile Violet		female	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Defile-Violet-34239.html				pending
+millionairess	Millionairess		female	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Millionairess-33295.html				pending
+nocturne-vert	Nocturne Vert		female	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Nocturne-Vert-91192.html				pending
+shansita-acqua-dolce	Shansita Acqua Dolce		female	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Shansita-Acqua-Dolce-51060.html				pending
+shansita-acqua-verde	Shansita Acqua Verde		female	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Shansita-Acqua-Verde-51061.html				pending
+kadetskiy-no-1	Кадетский (Kadetskiy) No. 1		male	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Kadetskij-Kadetskiy-No-1-31415.html				pending
+kadetskiy-no-3	Кадетский (Kadetskiy) No. 3		male	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Kadetskij-Kadetskiy-No-3-31416.html				pending
+red-moscow-light	Красная Москва Лайт (Red Moscow Light)		female	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Krasnaa-Moskva-Lajt-Red-Moscow-Light-51044.html				pending
+kuznetsky-most-eau-de-toilette	Кузнецкий мост (Kuznetsky Most) Eau de Toilette	Eau de Toilette	male	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Kuzneckij-most-Kuznetsky-Most-Eau-de-Toilette-26766.html				pending
+f	Фиалка вдохновения		female	https://www.fragrantica.com/perfume/Novaa-Zara-The-New-Dawn/Fialka-vdokhnovenia-96033.html				pending

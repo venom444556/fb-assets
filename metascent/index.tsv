@@ -1,37 +1,37 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adrenaline	Adrenaline		unisex		https://www.fragrantica.com/perfume/MetaScent/Adrenaline-88012.html				pending
-by-a-fireside	By a Fireside		unisex		https://www.fragrantica.com/perfume/MetaScent/By-a-Fireside-80683.html				pending
-camelia	Camelia		unisex		https://www.fragrantica.com/perfume/MetaScent/Camelia-80645.html				pending
-cay	Cay		unisex		https://www.fragrantica.com/perfume/MetaScent/Cay-56401.html				pending
-chandra	Chandra		unisex		https://www.fragrantica.com/perfume/MetaScent/Chandra-56313.html				pending
-daphne	Daphne		unisex		https://www.fragrantica.com/perfume/MetaScent/Daphne-80646.html				pending
-delonix	Delonix		unisex		https://www.fragrantica.com/perfume/MetaScent/Delonix-57927.html				pending
-desert-pea-mirage	Desert Pea Mirage		unisex		https://www.fragrantica.com/perfume/MetaScent/Desert-Pea-Mirage-92310.html				pending
-eunoia	Eunoia		unisex		https://www.fragrantica.com/perfume/MetaScent/Eunoia-81351.html				pending
-fairytale-garden	Fairytale Garden		unisex		https://www.fragrantica.com/perfume/MetaScent/Fairytale-Garden-81766.html				pending
-fall-in-love	Fall, In Love		unisex		https://www.fragrantica.com/perfume/MetaScent/Fall-In-Love-80684.html				pending
-fire-banksia	Fire Banksia		unisex		https://www.fragrantica.com/perfume/MetaScent/Fire-Banksia-92309.html				pending
-fleur-de-lune	Fleur de Lune		unisex		https://www.fragrantica.com/perfume/MetaScent/Fleur-de-Lune-80653.html				pending
-gaslight	Gaslight		unisex		https://www.fragrantica.com/perfume/MetaScent/Gaslight-88013.html				pending
-kaira	Kaira		unisex		https://www.fragrantica.com/perfume/MetaScent/Kaira-81349.html				pending
-knight-iv	Knight IV		male		https://www.fragrantica.com/perfume/MetaScent/Knight-IV-56323.html				pending
-leas	Leas		unisex		https://www.fragrantica.com/perfume/MetaScent/Leas-81350.html				pending
-light	Light		unisex		https://www.fragrantica.com/perfume/MetaScent/Light-56315.html				pending
-love-affair	Love Affair		unisex		https://www.fragrantica.com/perfume/MetaScent/Love-Affair-88016.html				pending
-magnolia	Magnolia		unisex		https://www.fragrantica.com/perfume/MetaScent/Magnolia-80654.html				pending
-miyabi	Miyabi		unisex		https://www.fragrantica.com/perfume/MetaScent/Miyabi-82001.html				pending
-moreton-bay-fig	Moreton Bay Fig		unisex		https://www.fragrantica.com/perfume/MetaScent/Moreton-Bay-Fig-92312.html				pending
-mura	Mura		unisex		https://www.fragrantica.com/perfume/MetaScent/Mura-56316.html				pending
-outlaw	Outlaw		male		https://www.fragrantica.com/perfume/MetaScent/Outlaw-56322.html				pending
-padme	Padme		unisex		https://www.fragrantica.com/perfume/MetaScent/Padme-56314.html				pending
-pink-cloud	Pink Cloud		female		https://www.fragrantica.com/perfume/MetaScent/Pink-Cloud-80682.html				pending
-sakihana	Sakihana		unisex		https://www.fragrantica.com/perfume/MetaScent/Sakihana-82000.html				pending
-seoritsu	Seoritsu		unisex		https://www.fragrantica.com/perfume/MetaScent/Seoritsu-81998.html				pending
-shrine	Shrine		male		https://www.fragrantica.com/perfume/MetaScent/Shrine-56318.html				pending
-snow-gum	Snow Gum		unisex		https://www.fragrantica.com/perfume/MetaScent/Snow-Gum-92308.html				pending
-starry-night	Starry Night		unisex		https://www.fragrantica.com/perfume/MetaScent/Starry-Night-80681.html				pending
-sunya	Sunya		unisex		https://www.fragrantica.com/perfume/MetaScent/Sunya-56299.html				pending
-tuberose	Tuberose		unisex		https://www.fragrantica.com/perfume/MetaScent/Tuberose-80655.html				pending
-wanderlust	Wanderlust		male		https://www.fragrantica.com/perfume/MetaScent/Wanderlust-56317.html				pending
-waratah-sunset	Waratah Sunset		unisex		https://www.fragrantica.com/perfume/MetaScent/Waratah-Sunset-92311.html				pending
-wildflower-and-acacia	Wildflower & Acacia		unisex		https://www.fragrantica.com/perfume/MetaScent/Wildflower-Acacia-92313.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adrenaline	Adrenaline		unisex	https://www.fragrantica.com/perfume/MetaScent/Adrenaline-88012.html				pending
+by-a-fireside	By a Fireside		unisex	https://www.fragrantica.com/perfume/MetaScent/By-a-Fireside-80683.html				pending
+camelia	Camelia		unisex	https://www.fragrantica.com/perfume/MetaScent/Camelia-80645.html				pending
+cay	Cay		unisex	https://www.fragrantica.com/perfume/MetaScent/Cay-56401.html				pending
+chandra	Chandra		unisex	https://www.fragrantica.com/perfume/MetaScent/Chandra-56313.html				pending
+daphne	Daphne		unisex	https://www.fragrantica.com/perfume/MetaScent/Daphne-80646.html				pending
+delonix	Delonix		unisex	https://www.fragrantica.com/perfume/MetaScent/Delonix-57927.html				pending
+desert-pea-mirage	Desert Pea Mirage		unisex	https://www.fragrantica.com/perfume/MetaScent/Desert-Pea-Mirage-92310.html				pending
+eunoia	Eunoia		unisex	https://www.fragrantica.com/perfume/MetaScent/Eunoia-81351.html				pending
+fairytale-garden	Fairytale Garden		unisex	https://www.fragrantica.com/perfume/MetaScent/Fairytale-Garden-81766.html				pending
+fall-in-love	Fall, In Love		unisex	https://www.fragrantica.com/perfume/MetaScent/Fall-In-Love-80684.html				pending
+fire-banksia	Fire Banksia		unisex	https://www.fragrantica.com/perfume/MetaScent/Fire-Banksia-92309.html				pending
+fleur-de-lune	Fleur de Lune		unisex	https://www.fragrantica.com/perfume/MetaScent/Fleur-de-Lune-80653.html				pending
+gaslight	Gaslight		unisex	https://www.fragrantica.com/perfume/MetaScent/Gaslight-88013.html				pending
+kaira	Kaira		unisex	https://www.fragrantica.com/perfume/MetaScent/Kaira-81349.html				pending
+knight-iv	Knight IV		male	https://www.fragrantica.com/perfume/MetaScent/Knight-IV-56323.html				pending
+leas	Leas		unisex	https://www.fragrantica.com/perfume/MetaScent/Leas-81350.html				pending
+light	Light		unisex	https://www.fragrantica.com/perfume/MetaScent/Light-56315.html				pending
+love-affair	Love Affair		unisex	https://www.fragrantica.com/perfume/MetaScent/Love-Affair-88016.html				pending
+magnolia	Magnolia		unisex	https://www.fragrantica.com/perfume/MetaScent/Magnolia-80654.html				pending
+miyabi	Miyabi		unisex	https://www.fragrantica.com/perfume/MetaScent/Miyabi-82001.html				pending
+moreton-bay-fig	Moreton Bay Fig		unisex	https://www.fragrantica.com/perfume/MetaScent/Moreton-Bay-Fig-92312.html				pending
+mura	Mura		unisex	https://www.fragrantica.com/perfume/MetaScent/Mura-56316.html				pending
+outlaw	Outlaw		male	https://www.fragrantica.com/perfume/MetaScent/Outlaw-56322.html				pending
+padme	Padme		unisex	https://www.fragrantica.com/perfume/MetaScent/Padme-56314.html				pending
+pink-cloud	Pink Cloud		female	https://www.fragrantica.com/perfume/MetaScent/Pink-Cloud-80682.html				pending
+sakihana	Sakihana		unisex	https://www.fragrantica.com/perfume/MetaScent/Sakihana-82000.html				pending
+seoritsu	Seoritsu		unisex	https://www.fragrantica.com/perfume/MetaScent/Seoritsu-81998.html				pending
+shrine	Shrine		male	https://www.fragrantica.com/perfume/MetaScent/Shrine-56318.html				pending
+snow-gum	Snow Gum		unisex	https://www.fragrantica.com/perfume/MetaScent/Snow-Gum-92308.html				pending
+starry-night	Starry Night		unisex	https://www.fragrantica.com/perfume/MetaScent/Starry-Night-80681.html				pending
+sunya	Sunya		unisex	https://www.fragrantica.com/perfume/MetaScent/Sunya-56299.html				pending
+tuberose	Tuberose		unisex	https://www.fragrantica.com/perfume/MetaScent/Tuberose-80655.html				pending
+wanderlust	Wanderlust		male	https://www.fragrantica.com/perfume/MetaScent/Wanderlust-56317.html				pending
+waratah-sunset	Waratah Sunset		unisex	https://www.fragrantica.com/perfume/MetaScent/Waratah-Sunset-92311.html				pending
+wildflower-and-acacia	Wildflower & Acacia		unisex	https://www.fragrantica.com/perfume/MetaScent/Wildflower-Acacia-92313.html				pending

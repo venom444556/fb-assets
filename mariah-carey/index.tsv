@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-dreams	Dreams		female		https://www.fragrantica.com/perfume/Mariah-Carey/Dreams-17820.html				pending
-forever	Forever		female		https://www.fragrantica.com/perfume/Mariah-Carey/Forever-6693.html				pending
-lollipop-bling-honey	Lollipop Bling Honey		female		https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Bling-Honey-9312.html				pending
-lollipop-bling-mine-again	Lollipop Bling Mine Again		female		https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Bling-Mine-Again-9313.html				pending
-lollipop-bling-ribbon	Lollipop Bling Ribbon		female		https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Bling-Ribbon-9314.html				pending
-lollipop-bling-that-chick	Lollipop Bling That Chick		female		https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Bling-That-Chick-14022.html				pending
-lollipop-splash-inseparable	Lollipop Splash Inseparable		female		https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Splash-Inseparable-12581.html				pending
-lollipop-splash-never-forget-you	Lollipop Splash Never Forget You		female		https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Splash-Never-Forget-You-12580.html				pending
-lollipop-splash-vision-of-love	Lollipop Splash Vision of Love		female		https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Splash-Vision-of-Love-12579.html				pending
-luscious-pink	Luscious Pink		female		https://www.fragrantica.com/perfume/Mariah-Carey/Luscious-Pink-3749.html				pending
-luscious-pink-deluxe-edition-parfum	Luscious Pink Deluxe Edition Parfum		female		https://www.fragrantica.com/perfume/Mariah-Carey/Luscious-Pink-Deluxe-Edition-Parfum-5455.html				pending
-m	M		female		https://www.fragrantica.com/perfume/Mariah-Carey/M-1151.html				pending
-m-by-mariah-carey-gold-deluxe-edition	M by Mariah Carey Gold Deluxe Edition		female		https://www.fragrantica.com/perfume/Mariah-Carey/M-by-Mariah-Carey-Gold-Deluxe-Edition-2858.html				pending
-m-ultra-pink	M Ultra Pink		female		https://www.fragrantica.com/perfume/Mariah-Carey/M-Ultra-Pink-6795.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+dreams	Dreams		female	https://www.fragrantica.com/perfume/Mariah-Carey/Dreams-17820.html				pending
+forever	Forever		female	https://www.fragrantica.com/perfume/Mariah-Carey/Forever-6693.html				pending
+lollipop-bling-honey	Lollipop Bling Honey		female	https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Bling-Honey-9312.html				pending
+lollipop-bling-mine-again	Lollipop Bling Mine Again		female	https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Bling-Mine-Again-9313.html				pending
+lollipop-bling-ribbon	Lollipop Bling Ribbon		female	https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Bling-Ribbon-9314.html				pending
+lollipop-bling-that-chick	Lollipop Bling That Chick		female	https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Bling-That-Chick-14022.html				pending
+lollipop-splash-inseparable	Lollipop Splash Inseparable		female	https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Splash-Inseparable-12581.html				pending
+lollipop-splash-never-forget-you	Lollipop Splash Never Forget You		female	https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Splash-Never-Forget-You-12580.html				pending
+lollipop-splash-vision-of-love	Lollipop Splash Vision of Love		female	https://www.fragrantica.com/perfume/Mariah-Carey/Lollipop-Splash-Vision-of-Love-12579.html				pending
+luscious-pink	Luscious Pink		female	https://www.fragrantica.com/perfume/Mariah-Carey/Luscious-Pink-3749.html				pending
+luscious-pink-deluxe-edition-parfum	Luscious Pink Deluxe Edition Parfum	Parfum	female	https://www.fragrantica.com/perfume/Mariah-Carey/Luscious-Pink-Deluxe-Edition-Parfum-5455.html				pending
+m	M		female	https://www.fragrantica.com/perfume/Mariah-Carey/M-1151.html				pending
+m-by-mariah-carey-gold-deluxe-edition	M by Mariah Carey Gold Deluxe Edition		female	https://www.fragrantica.com/perfume/Mariah-Carey/M-by-Mariah-Carey-Gold-Deluxe-Edition-2858.html				pending
+m-ultra-pink	M Ultra Pink		female	https://www.fragrantica.com/perfume/Mariah-Carey/M-Ultra-Pink-6795.html				pending

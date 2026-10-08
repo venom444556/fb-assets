@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-coco-fleur	Coco Fleur		unisex		https://www.fragrantica.com/perfume/Nette/Coco-Fleur-88780.html				pending
-la-foret	La Forêt		unisex		https://www.fragrantica.com/perfume/Nette/La-Foret-88783.html				pending
-lemon-puff	Lemon Puff		unisex		https://www.fragrantica.com/perfume/Nette/Lemon-Puff-107240.html				pending
-mochi-banane	Mochi Banane		unisex		https://www.fragrantica.com/perfume/Nette/Mochi-Banane-134519.html				pending
-opening-night	Opening Night		unisex		https://www.fragrantica.com/perfume/Nette/Opening-Night-88786.html				pending
-pear-jam	Pear Jam		unisex		https://www.fragrantica.com/perfume/Nette/Pear-Jam-92000.html				pending
-rose-parade	Rose Parade		unisex		https://www.fragrantica.com/perfume/Nette/Rose-Parade-88789.html				pending
-the-vanille	Thé Vanille		unisex		https://www.fragrantica.com/perfume/Nette/The-Vanille-88791.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+coco-fleur	Coco Fleur		unisex	https://www.fragrantica.com/perfume/Nette/Coco-Fleur-88780.html				pending
+la-foret	La Forêt		unisex	https://www.fragrantica.com/perfume/Nette/La-Foret-88783.html				pending
+lemon-puff	Lemon Puff		unisex	https://www.fragrantica.com/perfume/Nette/Lemon-Puff-107240.html				pending
+mochi-banane	Mochi Banane		unisex	https://www.fragrantica.com/perfume/Nette/Mochi-Banane-134519.html				pending
+opening-night	Opening Night		unisex	https://www.fragrantica.com/perfume/Nette/Opening-Night-88786.html				pending
+pear-jam	Pear Jam		unisex	https://www.fragrantica.com/perfume/Nette/Pear-Jam-92000.html				pending
+rose-parade	Rose Parade		unisex	https://www.fragrantica.com/perfume/Nette/Rose-Parade-88789.html				pending
+the-vanille	Thé Vanille		unisex	https://www.fragrantica.com/perfume/Nette/The-Vanille-88791.html				pending

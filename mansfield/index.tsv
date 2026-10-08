@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-lunare	Acqua Lunare		unisex		https://www.fragrantica.com/perfume/Mansfield/Acqua-Lunare-46519.html				pending
-ame-noire	Ame Noire		unisex		https://www.fragrantica.com/perfume/Mansfield/Ame-Noire-32890.html				pending
-antonio-de-curtis	Antonio De Curtis		male		https://www.fragrantica.com/perfume/Mansfield/Antonio-De-Curtis-10679.html				pending
-antonio-de-curtis-novecento	Antonio de Curtis Novecento		unisex		https://www.fragrantica.com/perfume/Mansfield/Antonio-de-Curtis-Novecento-91995.html				pending
-bois-extreme	Bois Extreme		male		https://www.fragrantica.com/perfume/Mansfield/Bois-Extreme-32891.html				pending
-femelle	Femelle		female		https://www.fragrantica.com/perfume/Mansfield/Femelle-57157.html				pending
-fusion-a-distance	Fusion A Distance		unisex		https://www.fragrantica.com/perfume/Mansfield/Fusion-A-Distance-57159.html				pending
-georges-feghali-monte-carlo	Georges Feghali Monte Carlo		male		https://www.fragrantica.com/perfume/Mansfield/Georges-Feghali-Monte-Carlo-10683.html				pending
-georges-feghali-monte-carlo-atomes-crochus	Georges Feghali Monte Carlo Atomes Crochus		male		https://www.fragrantica.com/perfume/Mansfield/Georges-Feghali-Monte-Carlo-Atomes-Crochus-10685.html				pending
-georges-feghali-monte-carlo-coup-de-foudre	Georges Feghali Monte Carlo Coup de Foudre		male		https://www.fragrantica.com/perfume/Mansfield/Georges-Feghali-Monte-Carlo-Coup-de-Foudre-10684.html				pending
-lamant	L'Amant		male		https://www.fragrantica.com/perfume/Mansfield/L-Amant-32892.html				pending
-malafemmena	Malafemmena		female		https://www.fragrantica.com/perfume/Mansfield/Malafemmena-10678.html				pending
-oudamar	Oudamar		unisex		https://www.fragrantica.com/perfume/Mansfield/Oudamar-57158.html				pending
-piazzetta-di-portofino	Piazzetta di Portofino		female		https://www.fragrantica.com/perfume/Mansfield/Piazzetta-di-Portofino-10680.html				pending
-piazzetta-di-portofino-acqua-da-toaletta	Piazzetta di Portofino Acqua Da Toaletta		male		https://www.fragrantica.com/perfume/Mansfield/Piazzetta-di-Portofino-Acqua-Da-Toaletta-10681.html				pending
-piazzetta-di-portofino-fragranza-classica	Piazzetta di Portofino Fragranza Classica		female		https://www.fragrantica.com/perfume/Mansfield/Piazzetta-di-Portofino-Fragranza-Classica-10682.html				pending
-principe-antonio-de-curtis	Principe Antonio de Curtis		male		https://www.fragrantica.com/perfume/Mansfield/Principe-Antonio-de-Curtis-33312.html				pending
-sortilege	Sortilege		male		https://www.fragrantica.com/perfume/Mansfield/Sortilege-32893.html				pending
-tam-tam	Tam Tam		male		https://www.fragrantica.com/perfume/Mansfield/Tam-Tam-32894.html				pending
-tattoo	Tattoo		unisex		https://www.fragrantica.com/perfume/Mansfield/Tattoo-57160.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-lunare	Acqua Lunare		unisex	https://www.fragrantica.com/perfume/Mansfield/Acqua-Lunare-46519.html				pending
+ame-noire	Ame Noire		unisex	https://www.fragrantica.com/perfume/Mansfield/Ame-Noire-32890.html				pending
+antonio-de-curtis	Antonio De Curtis		male	https://www.fragrantica.com/perfume/Mansfield/Antonio-De-Curtis-10679.html				pending
+antonio-de-curtis-novecento	Antonio de Curtis Novecento		unisex	https://www.fragrantica.com/perfume/Mansfield/Antonio-de-Curtis-Novecento-91995.html				pending
+bois-extreme	Bois Extreme		male	https://www.fragrantica.com/perfume/Mansfield/Bois-Extreme-32891.html				pending
+femelle	Femelle		female	https://www.fragrantica.com/perfume/Mansfield/Femelle-57157.html				pending
+fusion-a-distance	Fusion A Distance		unisex	https://www.fragrantica.com/perfume/Mansfield/Fusion-A-Distance-57159.html				pending
+georges-feghali-monte-carlo	Georges Feghali Monte Carlo		male	https://www.fragrantica.com/perfume/Mansfield/Georges-Feghali-Monte-Carlo-10683.html				pending
+georges-feghali-monte-carlo-atomes-crochus	Georges Feghali Monte Carlo Atomes Crochus		male	https://www.fragrantica.com/perfume/Mansfield/Georges-Feghali-Monte-Carlo-Atomes-Crochus-10685.html				pending
+georges-feghali-monte-carlo-coup-de-foudre	Georges Feghali Monte Carlo Coup de Foudre		male	https://www.fragrantica.com/perfume/Mansfield/Georges-Feghali-Monte-Carlo-Coup-de-Foudre-10684.html				pending
+lamant	L'Amant		male	https://www.fragrantica.com/perfume/Mansfield/L-Amant-32892.html				pending
+malafemmena	Malafemmena		female	https://www.fragrantica.com/perfume/Mansfield/Malafemmena-10678.html				pending
+oudamar	Oudamar		unisex	https://www.fragrantica.com/perfume/Mansfield/Oudamar-57158.html				pending
+piazzetta-di-portofino	Piazzetta di Portofino		female	https://www.fragrantica.com/perfume/Mansfield/Piazzetta-di-Portofino-10680.html				pending
+piazzetta-di-portofino-acqua-da-toaletta	Piazzetta di Portofino Acqua Da Toaletta		male	https://www.fragrantica.com/perfume/Mansfield/Piazzetta-di-Portofino-Acqua-Da-Toaletta-10681.html				pending
+piazzetta-di-portofino-fragranza-classica	Piazzetta di Portofino Fragranza Classica		female	https://www.fragrantica.com/perfume/Mansfield/Piazzetta-di-Portofino-Fragranza-Classica-10682.html				pending
+principe-antonio-de-curtis	Principe Antonio de Curtis		male	https://www.fragrantica.com/perfume/Mansfield/Principe-Antonio-de-Curtis-33312.html				pending
+sortilege	Sortilege		male	https://www.fragrantica.com/perfume/Mansfield/Sortilege-32893.html				pending
+tam-tam	Tam Tam		male	https://www.fragrantica.com/perfume/Mansfield/Tam-Tam-32894.html				pending
+tattoo	Tattoo		unisex	https://www.fragrantica.com/perfume/Mansfield/Tattoo-57160.html				pending

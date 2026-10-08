@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-and-fig	Amber & Fig		unisex		https://www.fragrantica.com/perfume/Maison-Label/Amber-Fig-61283.html				pending
-amber-and-rosewood	Amber & Rosewood		unisex		https://www.fragrantica.com/perfume/Maison-Label/Amber-Rosewood-61288.html				pending
-frangipani	Frangipani		female		https://www.fragrantica.com/perfume/Maison-Label/Frangipani-61278.html				pending
-juniper-wood	Juniper Wood		male		https://www.fragrantica.com/perfume/Maison-Label/Juniper-Wood-61286.html				pending
-lily-and-tangerine	Lily & Tangerine		unisex		https://www.fragrantica.com/perfume/Maison-Label/Lily-Tangerine-61282.html				pending
-maltol-and-cinnamon	Maltol & Cinnamon		unisex		https://www.fragrantica.com/perfume/Maison-Label/Maltol-Cinnamon-61287.html				pending
-olive-wood-and-leather	Olive Wood & Leather		unisex		https://www.fragrantica.com/perfume/Maison-Label/Olive-Wood-Leather-61290.html				pending
-oud-and-musk	Oud & Musk		unisex		https://www.fragrantica.com/perfume/Maison-Label/Oud-Musk-69513.html				pending
-salt-and-cyclamen	Salt & Cyclamen		unisex		https://www.fragrantica.com/perfume/Maison-Label/Salt-Cyclamen-61284.html				pending
-vanilla	Vanilla		unisex		https://www.fragrantica.com/perfume/Maison-Label/Vanilla-69514.html				pending
-ylang-ylang-and-musk	Ylang Ylang & Musk		female		https://www.fragrantica.com/perfume/Maison-Label/Ylang-Ylang-Musk-61280.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-and-fig	Amber & Fig		unisex	https://www.fragrantica.com/perfume/Maison-Label/Amber-Fig-61283.html				pending
+amber-and-rosewood	Amber & Rosewood		unisex	https://www.fragrantica.com/perfume/Maison-Label/Amber-Rosewood-61288.html				pending
+frangipani	Frangipani		female	https://www.fragrantica.com/perfume/Maison-Label/Frangipani-61278.html				pending
+juniper-wood	Juniper Wood		male	https://www.fragrantica.com/perfume/Maison-Label/Juniper-Wood-61286.html				pending
+lily-and-tangerine	Lily & Tangerine		unisex	https://www.fragrantica.com/perfume/Maison-Label/Lily-Tangerine-61282.html				pending
+maltol-and-cinnamon	Maltol & Cinnamon		unisex	https://www.fragrantica.com/perfume/Maison-Label/Maltol-Cinnamon-61287.html				pending
+olive-wood-and-leather	Olive Wood & Leather		unisex	https://www.fragrantica.com/perfume/Maison-Label/Olive-Wood-Leather-61290.html				pending
+oud-and-musk	Oud & Musk		unisex	https://www.fragrantica.com/perfume/Maison-Label/Oud-Musk-69513.html				pending
+salt-and-cyclamen	Salt & Cyclamen		unisex	https://www.fragrantica.com/perfume/Maison-Label/Salt-Cyclamen-61284.html				pending
+vanilla	Vanilla		unisex	https://www.fragrantica.com/perfume/Maison-Label/Vanilla-69514.html				pending
+ylang-ylang-and-musk	Ylang Ylang & Musk		female	https://www.fragrantica.com/perfume/Maison-Label/Ylang-Ylang-Musk-61280.html				pending

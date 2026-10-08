@@ -1,28 +1,28 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-agros	Agros		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Agros-88415.html				pending
-alula	AlULA		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/AlULA-86881.html				pending
-amber-and-more	Amber & More...		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Amber-More-91405.html				pending
-bordeaux	Bordeaux		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Bordeaux-86878.html				pending
-chocolate-and-incense	Chocolate & Incense		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Chocolate-Incense-91402.html				pending
-coffee-and-rose	Coffee & Rose		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Coffee-Rose-91406.html				pending
-como	COMO		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/COMO-91399.html				pending
-cuba	CUBA		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/CUBA-86877.html				pending
-islay	Islay		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Islay-91398.html				pending
-krabi	Krabi		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Krabi-88424.html				pending
-luxor	Luxor		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Luxor-88417.html				pending
-marrakesh	Marrakesh		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Marrakesh-87449.html				pending
-monaco	Monaco		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Monaco-86879.html				pending
-monastir	Monastir		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Monastir-87450.html				pending
-nairobi	Nairobi		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Nairobi-87165.html				pending
-patchuli-and-taif-rose	Patchuli & Taif Rose		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Patchuli-Taif-Rose-91410.html				pending
-peach-and-black-tea	Peach & Black Tea		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Peach-Black-Tea-91407.html				pending
-raspberry-and-oud	Raspberry & Oud		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Raspberry-Oud-91401.html				pending
-rose-and-musk	Rose & Musk		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Rose-Musk-91408.html				pending
-rum-and-vanilla	Rum & Vanilla		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Rum-Vanilla-91403.html				pending
-saffron-and-cocoa	Saffron & Cocoa		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Saffron-Cocoa-91409.html				pending
-samarkand	Samarkand		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Samarkand-88418.html				pending
-sofia	Sofia		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Sofia-86880.html				pending
-spice-and-luban	Spice & Luban		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Spice-Luban-91404.html				pending
-tokyo	Tokyo		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Tokyo-86882.html				pending
-vegas	Vegas		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Vegas-88420.html				pending
-vienna	Vienna		unisex		https://www.fragrantica.com/perfume/URBIS-PARFUMS/Vienna-91400.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+agros	Agros		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Agros-88415.html				pending
+alula	AlULA		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/AlULA-86881.html				pending
+amber-and-more	Amber & More...		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Amber-More-91405.html				pending
+bordeaux	Bordeaux		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Bordeaux-86878.html				pending
+chocolate-and-incense	Chocolate & Incense		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Chocolate-Incense-91402.html				pending
+coffee-and-rose	Coffee & Rose		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Coffee-Rose-91406.html				pending
+como	COMO		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/COMO-91399.html				pending
+cuba	CUBA		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/CUBA-86877.html				pending
+islay	Islay		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Islay-91398.html				pending
+krabi	Krabi		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Krabi-88424.html				pending
+luxor	Luxor		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Luxor-88417.html				pending
+marrakesh	Marrakesh		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Marrakesh-87449.html				pending
+monaco	Monaco		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Monaco-86879.html				pending
+monastir	Monastir		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Monastir-87450.html				pending
+nairobi	Nairobi		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Nairobi-87165.html				pending
+patchuli-and-taif-rose	Patchuli & Taif Rose		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Patchuli-Taif-Rose-91410.html				pending
+peach-and-black-tea	Peach & Black Tea		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Peach-Black-Tea-91407.html				pending
+raspberry-and-oud	Raspberry & Oud		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Raspberry-Oud-91401.html				pending
+rose-and-musk	Rose & Musk		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Rose-Musk-91408.html				pending
+rum-and-vanilla	Rum & Vanilla		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Rum-Vanilla-91403.html				pending
+saffron-and-cocoa	Saffron & Cocoa		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Saffron-Cocoa-91409.html				pending
+samarkand	Samarkand		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Samarkand-88418.html				pending
+sofia	Sofia		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Sofia-86880.html				pending
+spice-and-luban	Spice & Luban		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Spice-Luban-91404.html				pending
+tokyo	Tokyo		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Tokyo-86882.html				pending
+vegas	Vegas		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Vegas-88420.html				pending
+vienna	Vienna		unisex	https://www.fragrantica.com/perfume/URBIS-PARFUMS/Vienna-91400.html				pending

@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-night	Amber Night		unisex		https://www.fragrantica.com/perfume/Privezarah/Amber-Night-86905.html				pending
-aoud-desert	Aoud Desert		unisex		https://www.fragrantica.com/perfume/Privezarah/Aoud-Desert-86901.html				pending
-blend-afgano	Blend Afgano		male		https://www.fragrantica.com/perfume/Privezarah/Blend-Afgano-86900.html				pending
-bois-dores	Bois Dorès		unisex		https://www.fragrantica.com/perfume/Privezarah/Bois-Dores-86903.html				pending
-grey-mountain	Grey Mountain		unisex		https://www.fragrantica.com/perfume/Privezarah/Grey-Mountain-86902.html				pending
-noble-george	Noble George		male		https://www.fragrantica.com/perfume/Privezarah/Noble-George-86909.html				pending
-ombre-de-louis	Ombre de Louis		male		https://www.fragrantica.com/perfume/Privezarah/Ombre-de-Louis-86907.html				pending
-oud-highness	Oud Highness		unisex		https://www.fragrantica.com/perfume/Privezarah/Oud-Highness-86899.html				pending
-superior	Superior		male		https://www.fragrantica.com/perfume/Privezarah/Superior-86908.html				pending
-why	Why		male		https://www.fragrantica.com/perfume/Privezarah/Why-86906.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-night	Amber Night		unisex	https://www.fragrantica.com/perfume/Privezarah/Amber-Night-86905.html				pending
+aoud-desert	Aoud Desert		unisex	https://www.fragrantica.com/perfume/Privezarah/Aoud-Desert-86901.html				pending
+blend-afgano	Blend Afgano		male	https://www.fragrantica.com/perfume/Privezarah/Blend-Afgano-86900.html				pending
+bois-dores	Bois Dorès		unisex	https://www.fragrantica.com/perfume/Privezarah/Bois-Dores-86903.html				pending
+grey-mountain	Grey Mountain		unisex	https://www.fragrantica.com/perfume/Privezarah/Grey-Mountain-86902.html				pending
+noble-george	Noble George		male	https://www.fragrantica.com/perfume/Privezarah/Noble-George-86909.html				pending
+ombre-de-louis	Ombre de Louis		male	https://www.fragrantica.com/perfume/Privezarah/Ombre-de-Louis-86907.html				pending
+oud-highness	Oud Highness		unisex	https://www.fragrantica.com/perfume/Privezarah/Oud-Highness-86899.html				pending
+superior	Superior		male	https://www.fragrantica.com/perfume/Privezarah/Superior-86908.html				pending
+why	Why		male	https://www.fragrantica.com/perfume/Privezarah/Why-86906.html				pending

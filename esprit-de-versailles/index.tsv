@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-esprit-de-versailles-for-her	Esprit de Versailles for Her		female		https://www.fragrantica.com/perfume/Esprit-de-Versailles/Esprit-de-Versailles-for-Her-22462.html				pending
-esprit-de-versailles-for-him	Esprit de Versailles for Him		male		https://www.fragrantica.com/perfume/Esprit-de-Versailles/Esprit-de-Versailles-for-Him-22461.html				pending
-la-duchesse	La Duchesse		female		https://www.fragrantica.com/perfume/Esprit-de-Versailles/La-Duchesse-22464.html				pending
-la-marquise	La Marquise		female		https://www.fragrantica.com/perfume/Esprit-de-Versailles/La-Marquise-22466.html				pending
-le-duc	Le Duc		male		https://www.fragrantica.com/perfume/Esprit-de-Versailles/Le-Duc-22463.html				pending
-le-marquis	Le Marquis		male		https://www.fragrantica.com/perfume/Esprit-de-Versailles/Le-Marquis-22465.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+esprit-de-versailles-for-her	Esprit de Versailles for Her		female	https://www.fragrantica.com/perfume/Esprit-de-Versailles/Esprit-de-Versailles-for-Her-22462.html				pending
+esprit-de-versailles-for-him	Esprit de Versailles for Him		male	https://www.fragrantica.com/perfume/Esprit-de-Versailles/Esprit-de-Versailles-for-Him-22461.html				pending
+la-duchesse	La Duchesse		female	https://www.fragrantica.com/perfume/Esprit-de-Versailles/La-Duchesse-22464.html				pending
+la-marquise	La Marquise		female	https://www.fragrantica.com/perfume/Esprit-de-Versailles/La-Marquise-22466.html				pending
+le-duc	Le Duc		male	https://www.fragrantica.com/perfume/Esprit-de-Versailles/Le-Duc-22463.html				pending
+le-marquis	Le Marquis		male	https://www.fragrantica.com/perfume/Esprit-de-Versailles/Le-Marquis-22465.html				pending

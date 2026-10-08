@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-14-juillet	14 Juillet		unisex		https://www.fragrantica.com/perfume/Bastille-Parfums/14-Juillet-95457.html				pending
-bataille	Bataille		unisex		https://www.fragrantica.com/perfume/Bastille-Parfums/Bataille-63334.html				pending
-demain-promis	Demain Promis		unisex		https://www.fragrantica.com/perfume/Bastille-Parfums/Demain-Promis-63329.html				pending
-hors-piste	Hors-Piste		unisex		https://www.fragrantica.com/perfume/Bastille-Parfums/Hors-Piste-63326.html				pending
-paradis-nuit	Paradis Nuit		unisex		https://www.fragrantica.com/perfume/Bastille-Parfums/Paradis-Nuit-87724.html				pending
-pleine-lune	Pleine Lune		unisex		https://www.fragrantica.com/perfume/Bastille-Parfums/Pleine-Lune-63328.html				pending
-rayon-vert	Rayon Vert		unisex		https://www.fragrantica.com/perfume/Bastille-Parfums/Rayon-Vert-80624.html				pending
-un-deux-trois-soleil	Un Deux Trois Soleil		unisex		https://www.fragrantica.com/perfume/Bastille-Parfums/Un-Deux-Trois-Soleil-63327.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+14-juillet	14 Juillet		unisex	https://www.fragrantica.com/perfume/Bastille-Parfums/14-Juillet-95457.html				pending
+bataille	Bataille		unisex	https://www.fragrantica.com/perfume/Bastille-Parfums/Bataille-63334.html				pending
+demain-promis	Demain Promis		unisex	https://www.fragrantica.com/perfume/Bastille-Parfums/Demain-Promis-63329.html				pending
+hors-piste	Hors-Piste		unisex	https://www.fragrantica.com/perfume/Bastille-Parfums/Hors-Piste-63326.html				pending
+paradis-nuit	Paradis Nuit		unisex	https://www.fragrantica.com/perfume/Bastille-Parfums/Paradis-Nuit-87724.html				pending
+pleine-lune	Pleine Lune		unisex	https://www.fragrantica.com/perfume/Bastille-Parfums/Pleine-Lune-63328.html				pending
+rayon-vert	Rayon Vert		unisex	https://www.fragrantica.com/perfume/Bastille-Parfums/Rayon-Vert-80624.html				pending
+un-deux-trois-soleil	Un Deux Trois Soleil		unisex	https://www.fragrantica.com/perfume/Bastille-Parfums/Un-Deux-Trois-Soleil-63327.html				pending

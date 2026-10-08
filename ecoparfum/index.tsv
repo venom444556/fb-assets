@@ -1,30 +1,30 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-f	Страсти по Эллипсу		female		https://www.fragrantica.com/perfume/EcoParfum/Strasti-po-Ellipsu-29489.html				pending
-altai	Altai		unisex		https://www.fragrantica.com/perfume/EcoParfum/Altai-39509.html				pending
-amber-and-oud-ambra-i-ud	Amber and oud Ambra i ud		unisex		https://www.fragrantica.com/perfume/EcoParfum/Amber-and-oud-Ambra-i-ud-61825.html				pending
-antidepressant-antidepressant	Antidepressant Antidepressant		unisex		https://www.fragrantica.com/perfume/EcoParfum/Antidepressant-Antidepressant-61831.html				pending
-baikal	Baikal		unisex		https://www.fragrantica.com/perfume/EcoParfum/Baikal-39512.html				pending
-banditka	Banditka		female		https://www.fragrantica.com/perfume/EcoParfum/Banditka-29500.html				pending
-belye-notchi	Belye Notchi		unisex		https://www.fragrantica.com/perfume/EcoParfum/Belye-Notchi-39508.html				pending
-carica	Carica		female		https://www.fragrantica.com/perfume/EcoParfum/Carica-29498.html				pending
-chocolate-saffron	Chocolate saffron		female		https://www.fragrantica.com/perfume/EcoParfum/Chocolate-saffron-29505.html				pending
-eau-de-cologne-odekolon	Eau de Cologne Odekolon		male		https://www.fragrantica.com/perfume/EcoParfum/Eau-de-Cologne-Odekolon-61829.html				pending
-egolist	Egolist		unisex		https://www.fragrantica.com/perfume/EcoParfum/Egolist-61826.html				pending
-fire-spirit-duh-ogna	Fire spirit Duh ogna		unisex		https://www.fragrantica.com/perfume/EcoParfum/Fire-spirit-Duh-ogna-61827.html				pending
-fresh-mango	Fresh mango		unisex		https://www.fragrantica.com/perfume/EcoParfum/Fresh-mango-61830.html				pending
-fuzer	Fuzer		unisex		https://www.fragrantica.com/perfume/EcoParfum/Fuzer-29492.html				pending
-iskusenie	Iskusenie		female		https://www.fragrantica.com/perfume/EcoParfum/Iskusenie-29497.html				pending
-kozanyj-aromat	Kozanyj aromat		unisex		https://www.fragrantica.com/perfume/EcoParfum/Kozanyj-aromat-29490.html				pending
-kryl-a-angela	Kryl a angela		female		https://www.fragrantica.com/perfume/EcoParfum/Kryl-a-angela-29495.html				pending
-krym	Krym		unisex		https://www.fragrantica.com/perfume/EcoParfum/Krym-29496.html				pending
-la-scala	La scala		female		https://www.fragrantica.com/perfume/EcoParfum/La-scala-29503.html				pending
-paculi	Paculi		unisex		https://www.fragrantica.com/perfume/EcoParfum/Paculi-29494.html				pending
-roza	Roza		female		https://www.fragrantica.com/perfume/EcoParfum/Roza-29499.html				pending
-savanna	Savanna		unisex		https://www.fragrantica.com/perfume/EcoParfum/Savanna-29504.html				pending
-shambala-sambala	Shambala Sambala		unisex		https://www.fragrantica.com/perfume/EcoParfum/Shambala-Sambala-61832.html				pending
-strana-bogov	Strana bogov		unisex		https://www.fragrantica.com/perfume/EcoParfum/Strana-bogov-29501.html				pending
-taiga	Taiga		unisex		https://www.fragrantica.com/perfume/EcoParfum/Taiga-39511.html				pending
-vesennie-grezy	Vesennie grezy		female		https://www.fragrantica.com/perfume/EcoParfum/Vesennie-grezy-29502.html				pending
-vintage-vintaz	Vintage Vintaz		female		https://www.fragrantica.com/perfume/EcoParfum/Vintage-Vintaz-61828.html				pending
-zamsa	Zamsa		unisex		https://www.fragrantica.com/perfume/EcoParfum/Zamsa-29491.html				pending
-zolotoe-koltso	Zolotoe Koltso		unisex		https://www.fragrantica.com/perfume/EcoParfum/Zolotoe-Koltso-39510.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+altai	Altai		unisex	https://www.fragrantica.com/perfume/EcoParfum/Altai-39509.html				pending
+amber-and-oud-ambra-i-ud	Amber and oud Ambra i ud		unisex	https://www.fragrantica.com/perfume/EcoParfum/Amber-and-oud-Ambra-i-ud-61825.html				pending
+antidepressant-antidepressant	Antidepressant Antidepressant		unisex	https://www.fragrantica.com/perfume/EcoParfum/Antidepressant-Antidepressant-61831.html				pending
+baikal	Baikal		unisex	https://www.fragrantica.com/perfume/EcoParfum/Baikal-39512.html				pending
+banditka	Banditka		female	https://www.fragrantica.com/perfume/EcoParfum/Banditka-29500.html				pending
+belye-notchi	Belye Notchi		unisex	https://www.fragrantica.com/perfume/EcoParfum/Belye-Notchi-39508.html				pending
+carica	Carica		female	https://www.fragrantica.com/perfume/EcoParfum/Carica-29498.html				pending
+chocolate-saffron	Chocolate saffron		female	https://www.fragrantica.com/perfume/EcoParfum/Chocolate-saffron-29505.html				pending
+eau-de-cologne-odekolon	Eau de Cologne Odekolon	Eau de Cologne	male	https://www.fragrantica.com/perfume/EcoParfum/Eau-de-Cologne-Odekolon-61829.html				pending
+egolist	Egolist		unisex	https://www.fragrantica.com/perfume/EcoParfum/Egolist-61826.html				pending
+fire-spirit-duh-ogna	Fire spirit Duh ogna		unisex	https://www.fragrantica.com/perfume/EcoParfum/Fire-spirit-Duh-ogna-61827.html				pending
+fresh-mango	Fresh mango		unisex	https://www.fragrantica.com/perfume/EcoParfum/Fresh-mango-61830.html				pending
+fuzer	Fuzer		unisex	https://www.fragrantica.com/perfume/EcoParfum/Fuzer-29492.html				pending
+iskusenie	Iskusenie		female	https://www.fragrantica.com/perfume/EcoParfum/Iskusenie-29497.html				pending
+kozanyj-aromat	Kozanyj aromat		unisex	https://www.fragrantica.com/perfume/EcoParfum/Kozanyj-aromat-29490.html				pending
+kryl-a-angela	Kryl a angela		female	https://www.fragrantica.com/perfume/EcoParfum/Kryl-a-angela-29495.html				pending
+krym	Krym		unisex	https://www.fragrantica.com/perfume/EcoParfum/Krym-29496.html				pending
+la-scala	La scala		female	https://www.fragrantica.com/perfume/EcoParfum/La-scala-29503.html				pending
+paculi	Paculi		unisex	https://www.fragrantica.com/perfume/EcoParfum/Paculi-29494.html				pending
+roza	Roza		female	https://www.fragrantica.com/perfume/EcoParfum/Roza-29499.html				pending
+savanna	Savanna		unisex	https://www.fragrantica.com/perfume/EcoParfum/Savanna-29504.html				pending
+shambala-sambala	Shambala Sambala		unisex	https://www.fragrantica.com/perfume/EcoParfum/Shambala-Sambala-61832.html				pending
+strana-bogov	Strana bogov		unisex	https://www.fragrantica.com/perfume/EcoParfum/Strana-bogov-29501.html				pending
+taiga	Taiga		unisex	https://www.fragrantica.com/perfume/EcoParfum/Taiga-39511.html				pending
+vesennie-grezy	Vesennie grezy		female	https://www.fragrantica.com/perfume/EcoParfum/Vesennie-grezy-29502.html				pending
+vintage-vintaz	Vintage Vintaz		female	https://www.fragrantica.com/perfume/EcoParfum/Vintage-Vintaz-61828.html				pending
+zamsa	Zamsa		unisex	https://www.fragrantica.com/perfume/EcoParfum/Zamsa-29491.html				pending
+zolotoe-koltso	Zolotoe Koltso		unisex	https://www.fragrantica.com/perfume/EcoParfum/Zolotoe-Koltso-39510.html				pending
+f	Страсти по Эллипсу		female	https://www.fragrantica.com/perfume/EcoParfum/Strasti-po-Ellipsu-29489.html				pending

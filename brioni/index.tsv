@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-brioni-eau-de-parfum	Brioni Eau de Parfum		male		https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-66300.html				pending
-brioni-eau-de-parfum-eclat	Brioni Eau de Parfum Eclat		male		https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-Eclat-73427.html				pending
-brioni-eau-de-parfum-essentiel	Brioni Eau de Parfum Essentiel		male		https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-Essentiel-82015.html				pending
-brioni-eau-de-parfum-intense	Brioni Eau de Parfum Intense		male		https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-Intense-69857.html				pending
-brioni-eau-de-parfum-suave	Brioni Eau de Parfum Suave		male		https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-Suave-97159.html				pending
-brioni-eau-de-toilette	Brioni Eau de Toilette		male		https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Toilette-28368.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+brioni-eau-de-parfum	Brioni Eau de Parfum	Eau de Parfum	male	https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-66300.html				pending
+brioni-eau-de-parfum-eclat	Brioni Eau de Parfum Eclat	Eau de Parfum	male	https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-Eclat-73427.html				pending
+brioni-eau-de-parfum-essentiel	Brioni Eau de Parfum Essentiel	Eau de Parfum	male	https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-Essentiel-82015.html				pending
+brioni-eau-de-parfum-intense	Brioni Eau de Parfum Intense	Eau de Parfum	male	https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-Intense-69857.html				pending
+brioni-eau-de-parfum-suave	Brioni Eau de Parfum Suave	Eau de Parfum	male	https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Parfum-Suave-97159.html				pending
+brioni-eau-de-toilette	Brioni Eau de Toilette	Eau de Toilette	male	https://www.fragrantica.com/perfume/Brioni/Brioni-Eau-de-Toilette-28368.html				pending

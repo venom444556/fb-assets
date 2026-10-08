@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1961	1961		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/1961-79521.html				pending
-after-12	AFTER 12		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/AFTER-12-79514.html				pending
-amber-valley	AMBER VALLEY		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/AMBER-VALLEY-79512.html				pending
-black-venom	BLACK VENOM		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/BLACK-VENOM-79519.html				pending
-cappuccino	CAPPUCCINO		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/CAPPUCCINO-79720.html				pending
-cat-walk	CAT WALK		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/CAT-WALK-79510.html				pending
-mezzanotte	MEZZANOTTE		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/MEZZANOTTE-79513.html				pending
-no-caption	NO CAPTION		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/NO-CAPTION-79509.html				pending
-selvaggio	SELVAGGIO		male		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/SELVAGGIO-79721.html				pending
-spirito	SPIRITO		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/SPIRITO-79719.html				pending
-vero-amore	VERO AMORE		unisex		https://www.fragrantica.com/perfume/BRILLIANT-ITALY/VERO-AMORE-79518.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1961	1961		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/1961-79521.html				pending
+after-12	AFTER 12		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/AFTER-12-79514.html				pending
+amber-valley	AMBER VALLEY		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/AMBER-VALLEY-79512.html				pending
+black-venom	BLACK VENOM		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/BLACK-VENOM-79519.html				pending
+cappuccino	CAPPUCCINO		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/CAPPUCCINO-79720.html				pending
+cat-walk	CAT WALK		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/CAT-WALK-79510.html				pending
+mezzanotte	MEZZANOTTE		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/MEZZANOTTE-79513.html				pending
+no-caption	NO CAPTION		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/NO-CAPTION-79509.html				pending
+selvaggio	SELVAGGIO		male	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/SELVAGGIO-79721.html				pending
+spirito	SPIRITO		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/SPIRITO-79719.html				pending
+vero-amore	VERO AMORE		unisex	https://www.fragrantica.com/perfume/BRILLIANT-ITALY/VERO-AMORE-79518.html				pending

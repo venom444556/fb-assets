@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-candies	Candie's		female		https://www.fragrantica.com/perfume/Candie-s/Candie-s-4504.html				pending
-candies-luscious	Candie's Luscious		female		https://www.fragrantica.com/perfume/Candie-s/Candie-s-Luscious-16631.html				pending
-candies-luxe	Candie's Luxe		female		https://www.fragrantica.com/perfume/Candie-s/Candie-s-Luxe-4507.html				pending
-candies-men	Candie's Men		male		https://www.fragrantica.com/perfume/Candie-s/Candie-s-Men-4505.html				pending
-candies-signature	Candie's Signature		female		https://www.fragrantica.com/perfume/Candie-s/Candie-s-Signature-16632.html				pending
-cotton-candy	Cotton Candy		female		https://www.fragrantica.com/perfume/Candie-s/Cotton-Candy-16638.html				pending
-heartbreaker	Heartbreaker		female		https://www.fragrantica.com/perfume/Candie-s/Heartbreaker-4506.html				pending
-sparkling-pear	Sparkling Pear		female		https://www.fragrantica.com/perfume/Candie-s/Sparkling-Pear-16634.html				pending
-strawberry-creme	Strawberry Creme		female		https://www.fragrantica.com/perfume/Candie-s/Strawberry-Creme-16635.html				pending
-sugarplum-blossom	Sugarplum Blossom		unisex		https://www.fragrantica.com/perfume/Candie-s/Sugarplum-Blossom-16636.html				pending
-vanilla-bon-bon	Vanilla Bon-Bon		female		https://www.fragrantica.com/perfume/Candie-s/Vanilla-Bon-Bon-16637.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+candies	Candie's		female	https://www.fragrantica.com/perfume/Candie-s/Candie-s-4504.html				pending
+candies-luscious	Candie's Luscious		female	https://www.fragrantica.com/perfume/Candie-s/Candie-s-Luscious-16631.html				pending
+candies-luxe	Candie's Luxe		female	https://www.fragrantica.com/perfume/Candie-s/Candie-s-Luxe-4507.html				pending
+candies-men	Candie's Men		male	https://www.fragrantica.com/perfume/Candie-s/Candie-s-Men-4505.html				pending
+candies-signature	Candie's Signature		female	https://www.fragrantica.com/perfume/Candie-s/Candie-s-Signature-16632.html				pending
+cotton-candy	Cotton Candy		female	https://www.fragrantica.com/perfume/Candie-s/Cotton-Candy-16638.html				pending
+heartbreaker	Heartbreaker		female	https://www.fragrantica.com/perfume/Candie-s/Heartbreaker-4506.html				pending
+sparkling-pear	Sparkling Pear		female	https://www.fragrantica.com/perfume/Candie-s/Sparkling-Pear-16634.html				pending
+strawberry-creme	Strawberry Creme		female	https://www.fragrantica.com/perfume/Candie-s/Strawberry-Creme-16635.html				pending
+sugarplum-blossom	Sugarplum Blossom		unisex	https://www.fragrantica.com/perfume/Candie-s/Sugarplum-Blossom-16636.html				pending
+vanilla-bon-bon	Vanilla Bon-Bon		female	https://www.fragrantica.com/perfume/Candie-s/Vanilla-Bon-Bon-16637.html				pending

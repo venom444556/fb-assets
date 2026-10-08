@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-deviant	Deviant		female		https://www.fragrantica.com/perfume/Wesker/Deviant-64725.html				pending
-eau-de-mystique	Eau De Mystique		unisex		https://www.fragrantica.com/perfume/Wesker/Eau-De-Mystique-64715.html				pending
-histria	Histria		unisex		https://www.fragrantica.com/perfume/Wesker/Histria-70083.html				pending
-imperial	Imperial		unisex		https://www.fragrantica.com/perfume/Wesker/Imperial-64716.html				pending
-rubeus	Rubeus		unisex		https://www.fragrantica.com/perfume/Wesker/Rubeus-102977.html				pending
-the-scent-of-banat	The Scent of Banat		unisex		https://www.fragrantica.com/perfume/Wesker/The-Scent-of-Banat-69407.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+deviant	Deviant		female	https://www.fragrantica.com/perfume/Wesker/Deviant-64725.html				pending
+eau-de-mystique	Eau De Mystique		unisex	https://www.fragrantica.com/perfume/Wesker/Eau-De-Mystique-64715.html				pending
+histria	Histria		unisex	https://www.fragrantica.com/perfume/Wesker/Histria-70083.html				pending
+imperial	Imperial		unisex	https://www.fragrantica.com/perfume/Wesker/Imperial-64716.html				pending
+rubeus	Rubeus		unisex	https://www.fragrantica.com/perfume/Wesker/Rubeus-102977.html				pending
+the-scent-of-banat	The Scent of Banat		unisex	https://www.fragrantica.com/perfume/Wesker/The-Scent-of-Banat-69407.html				pending

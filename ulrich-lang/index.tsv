@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-17-nandan-road	17 Nandan Road		unisex		https://www.fragrantica.com/perfume/Ulrich-Lang/17-Nandan-Road-51470.html				pending
-anvers	Anvers		male		https://www.fragrantica.com/perfume/Ulrich-Lang/Anvers-7033.html				pending
-anvers2	Anvers2		male		https://www.fragrantica.com/perfume/Ulrich-Lang/Anvers2-7034.html				pending
-aperture	Aperture		unisex		https://www.fragrantica.com/perfume/Ulrich-Lang/Aperture-23327.html				pending
-apsu	APSU		unisex		https://www.fragrantica.com/perfume/Ulrich-Lang/APSU-38336.html				pending
-lethe	Lethe		unisex		https://www.fragrantica.com/perfume/Ulrich-Lang/Lethe-65991.html				pending
-lightscape	Lightscape		unisex		https://www.fragrantica.com/perfume/Ulrich-Lang/Lightscape-16164.html				pending
-nightscape	Nightscape		male		https://www.fragrantica.com/perfume/Ulrich-Lang/Nightscape-7032.html				pending
-suncrest	Suncrest		unisex		https://www.fragrantica.com/perfume/Ulrich-Lang/Suncrest-82243.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+17-nandan-road	17 Nandan Road		unisex	https://www.fragrantica.com/perfume/Ulrich-Lang/17-Nandan-Road-51470.html				pending
+anvers	Anvers		male	https://www.fragrantica.com/perfume/Ulrich-Lang/Anvers-7033.html				pending
+anvers2	Anvers2		male	https://www.fragrantica.com/perfume/Ulrich-Lang/Anvers2-7034.html				pending
+aperture	Aperture		unisex	https://www.fragrantica.com/perfume/Ulrich-Lang/Aperture-23327.html				pending
+apsu	APSU		unisex	https://www.fragrantica.com/perfume/Ulrich-Lang/APSU-38336.html				pending
+lethe	Lethe		unisex	https://www.fragrantica.com/perfume/Ulrich-Lang/Lethe-65991.html				pending
+lightscape	Lightscape		unisex	https://www.fragrantica.com/perfume/Ulrich-Lang/Lightscape-16164.html				pending
+nightscape	Nightscape		male	https://www.fragrantica.com/perfume/Ulrich-Lang/Nightscape-7032.html				pending
+suncrest	Suncrest		unisex	https://www.fragrantica.com/perfume/Ulrich-Lang/Suncrest-82243.html				pending

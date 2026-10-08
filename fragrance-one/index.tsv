@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-tie	Black Tie		male		https://www.fragrantica.com/perfume/Fragrance-One/Black-Tie-64101.html				pending
-club-for-men	Club for Men		male		https://www.fragrantica.com/perfume/Fragrance-One/Club-for-Men-103285.html				pending
-date-for-men	Date For Men		male		https://www.fragrantica.com/perfume/Fragrance-One/Date-For-Men-58376.html				pending
-day-for-women	Day For Women		female		https://www.fragrantica.com/perfume/Fragrance-One/Day-For-Women-59539.html				pending
-most-masculine	Most Masculine		male		https://www.fragrantica.com/perfume/Fragrance-One/Most-Masculine-102422.html				pending
-night-for-women	Night For Women		female		https://www.fragrantica.com/perfume/Fragrance-One/Night-For-Women-59540.html				pending
-office-for-men	Office For Men		male		https://www.fragrantica.com/perfume/Fragrance-One/Office-For-Men-55166.html				pending
-unisex-for-everybody	Unisex For Everybody		unisex		https://www.fragrantica.com/perfume/Fragrance-One/Unisex-For-Everybody-64102.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-tie	Black Tie		male	https://www.fragrantica.com/perfume/Fragrance-One/Black-Tie-64101.html				pending
+club-for-men	Club for Men		male	https://www.fragrantica.com/perfume/Fragrance-One/Club-for-Men-103285.html				pending
+date-for-men	Date For Men		male	https://www.fragrantica.com/perfume/Fragrance-One/Date-For-Men-58376.html				pending
+day-for-women	Day For Women		female	https://www.fragrantica.com/perfume/Fragrance-One/Day-For-Women-59539.html				pending
+most-masculine	Most Masculine		male	https://www.fragrantica.com/perfume/Fragrance-One/Most-Masculine-102422.html				pending
+night-for-women	Night For Women		female	https://www.fragrantica.com/perfume/Fragrance-One/Night-For-Women-59540.html				pending
+office-for-men	Office For Men		male	https://www.fragrantica.com/perfume/Fragrance-One/Office-For-Men-55166.html				pending
+unisex-for-everybody	Unisex For Everybody		unisex	https://www.fragrantica.com/perfume/Fragrance-One/Unisex-For-Everybody-64102.html				pending

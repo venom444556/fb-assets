@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-absolute-chill	Absolute Chill		unisex		https://www.fragrantica.com/perfume/Atralia/Absolute-Chill-118590.html				pending
-absolute-noir	Absolute Noir		unisex		https://www.fragrantica.com/perfume/Atralia/Absolute-Noir-100239.html				pending
-albert-einstein-quantum	Albert Einstein Quantum		unisex		https://www.fragrantica.com/perfume/Atralia/Albert-Einstein-Quantum-100243.html				pending
-amazonas-avalanche	Amazonas Avalanche		unisex		https://www.fragrantica.com/perfume/Atralia/Amazonas-Avalanche-100245.html				pending
-amazonas-drift	Amazonas Drift		unisex		https://www.fragrantica.com/perfume/Atralia/Amazonas-Drift-100248.html				pending
-amazonas-sierra	Amazonas Sierra		unisex		https://www.fragrantica.com/perfume/Atralia/Amazonas-Sierra-100247.html				pending
-elixir	Elixir		unisex		https://www.fragrantica.com/perfume/Atralia/Elixir-100252.html				pending
-matcha-latte	Matcha Latte		unisex		https://www.fragrantica.com/perfume/Atralia/Matcha-Latte-119802.html				pending
-sugar-mallow	Sugar Mallow		female		https://www.fragrantica.com/perfume/Atralia/Sugar-Mallow-116163.html				pending
-tonka-gold	Tonka Gold		unisex		https://www.fragrantica.com/perfume/Atralia/Tonka-Gold-100256.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+absolute-chill	Absolute Chill		unisex	https://www.fragrantica.com/perfume/Atralia/Absolute-Chill-118590.html				pending
+absolute-noir	Absolute Noir		unisex	https://www.fragrantica.com/perfume/Atralia/Absolute-Noir-100239.html				pending
+albert-einstein-quantum	Albert Einstein Quantum		unisex	https://www.fragrantica.com/perfume/Atralia/Albert-Einstein-Quantum-100243.html				pending
+amazonas-avalanche	Amazonas Avalanche		unisex	https://www.fragrantica.com/perfume/Atralia/Amazonas-Avalanche-100245.html				pending
+amazonas-drift	Amazonas Drift		unisex	https://www.fragrantica.com/perfume/Atralia/Amazonas-Drift-100248.html				pending
+amazonas-sierra	Amazonas Sierra		unisex	https://www.fragrantica.com/perfume/Atralia/Amazonas-Sierra-100247.html				pending
+elixir	Elixir		unisex	https://www.fragrantica.com/perfume/Atralia/Elixir-100252.html				pending
+matcha-latte	Matcha Latte		unisex	https://www.fragrantica.com/perfume/Atralia/Matcha-Latte-119802.html				pending
+sugar-mallow	Sugar Mallow		female	https://www.fragrantica.com/perfume/Atralia/Sugar-Mallow-116163.html				pending
+tonka-gold	Tonka Gold		unisex	https://www.fragrantica.com/perfume/Atralia/Tonka-Gold-100256.html				pending

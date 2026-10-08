@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bb-mix	BB Mix		female		https://www.fragrantica.com/perfume/Schlossparfumerie/BB-Mix-26288.html				pending
-bb-special	BB Special		female		https://www.fragrantica.com/perfume/Schlossparfumerie/BB-Special-26289.html				pending
-belle-du-sud	Belle du Sud		female		https://www.fragrantica.com/perfume/Schlossparfumerie/Belle-du-Sud-26291.html				pending
-bruyere	Bruyere		male		https://www.fragrantica.com/perfume/Schlossparfumerie/Bruyere-31974.html				pending
-c-100-jubilee	C - 100 Jubilee		female		https://www.fragrantica.com/perfume/Schlossparfumerie/C-100-Jubilee-26280.html				pending
-chateau-philipp	Chateau Philipp		male		https://www.fragrantica.com/perfume/Schlossparfumerie/Chateau-Philipp-31973.html				pending
-ebonite	Ebonite		male		https://www.fragrantica.com/perfume/Schlossparfumerie/Ebonite-31977.html				pending
-ete	Ete		female		https://www.fragrantica.com/perfume/Schlossparfumerie/Ete-26290.html				pending
-gardenia	Gardenia		female		https://www.fragrantica.com/perfume/Schlossparfumerie/Gardenia-26296.html				pending
-geoffrey	Geoffrey		male		https://www.fragrantica.com/perfume/Schlossparfumerie/Geoffrey-31975.html				pending
-h-100-jubilee	H - 100 Jubilee		unisex		https://www.fragrantica.com/perfume/Schlossparfumerie/H-100-Jubilee-26286.html				pending
-imperial-santal	Imperial Santal		male		https://www.fragrantica.com/perfume/Schlossparfumerie/Imperial-Santal-31976.html				pending
-kuvvet-mira	Kuvvet Mira		unisex		https://www.fragrantica.com/perfume/Schlossparfumerie/Kuvvet-Mira-26292.html				pending
-kuvvet-mira-wm-edition-germany	Kuvvet Mira WM Edition Germany		unisex		https://www.fragrantica.com/perfume/Schlossparfumerie/Kuvvet-Mira-WM-Edition-Germany-26285.html				pending
-lesprit-vert	L'Esprit Vert		unisex		https://www.fragrantica.com/perfume/Schlossparfumerie/L-Esprit-Vert-31978.html				pending
-la-vida-loca	La Vida Loca		female		https://www.fragrantica.com/perfume/Schlossparfumerie/La-Vida-Loca-26284.html				pending
-la-vida-loca-wm-edition-brasil	La Vida Loca WM Edition Brasil		female		https://www.fragrantica.com/perfume/Schlossparfumerie/La-Vida-Loca-WM-Edition-Brasil-26294.html				pending
-orient-express	Orient Express		female		https://www.fragrantica.com/perfume/Schlossparfumerie/Orient-Express-26287.html				pending
-p-100-jubilee	P - 100 Jubilee		male		https://www.fragrantica.com/perfume/Schlossparfumerie/P-100-Jubilee-26297.html				pending
-pour-la-belle	Pour la Belle		female		https://www.fragrantica.com/perfume/Schlossparfumerie/Pour-la-Belle-26293.html				pending
-purple-velvet	Purple Velvet		female		https://www.fragrantica.com/perfume/Schlossparfumerie/Purple-Velvet-26295.html				pending
-pyramid	Pyramid		female		https://www.fragrantica.com/perfume/Schlossparfumerie/Pyramid-26283.html				pending
-riviera-sport	Riviera Sport		male		https://www.fragrantica.com/perfume/Schlossparfumerie/Riviera-Sport-31972.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bb-mix	BB Mix		female	https://www.fragrantica.com/perfume/Schlossparfumerie/BB-Mix-26288.html				pending
+bb-special	BB Special		female	https://www.fragrantica.com/perfume/Schlossparfumerie/BB-Special-26289.html				pending
+belle-du-sud	Belle du Sud		female	https://www.fragrantica.com/perfume/Schlossparfumerie/Belle-du-Sud-26291.html				pending
+bruyere	Bruyere		male	https://www.fragrantica.com/perfume/Schlossparfumerie/Bruyere-31974.html				pending
+c-100-jubilee	C - 100 Jubilee		female	https://www.fragrantica.com/perfume/Schlossparfumerie/C-100-Jubilee-26280.html				pending
+chateau-philipp	Chateau Philipp		male	https://www.fragrantica.com/perfume/Schlossparfumerie/Chateau-Philipp-31973.html				pending
+ebonite	Ebonite		male	https://www.fragrantica.com/perfume/Schlossparfumerie/Ebonite-31977.html				pending
+ete	Ete		female	https://www.fragrantica.com/perfume/Schlossparfumerie/Ete-26290.html				pending
+gardenia	Gardenia		female	https://www.fragrantica.com/perfume/Schlossparfumerie/Gardenia-26296.html				pending
+geoffrey	Geoffrey		male	https://www.fragrantica.com/perfume/Schlossparfumerie/Geoffrey-31975.html				pending
+h-100-jubilee	H - 100 Jubilee		unisex	https://www.fragrantica.com/perfume/Schlossparfumerie/H-100-Jubilee-26286.html				pending
+imperial-santal	Imperial Santal		male	https://www.fragrantica.com/perfume/Schlossparfumerie/Imperial-Santal-31976.html				pending
+kuvvet-mira	Kuvvet Mira		unisex	https://www.fragrantica.com/perfume/Schlossparfumerie/Kuvvet-Mira-26292.html				pending
+kuvvet-mira-wm-edition-germany	Kuvvet Mira WM Edition Germany		unisex	https://www.fragrantica.com/perfume/Schlossparfumerie/Kuvvet-Mira-WM-Edition-Germany-26285.html				pending
+lesprit-vert	L'Esprit Vert		unisex	https://www.fragrantica.com/perfume/Schlossparfumerie/L-Esprit-Vert-31978.html				pending
+la-vida-loca	La Vida Loca		female	https://www.fragrantica.com/perfume/Schlossparfumerie/La-Vida-Loca-26284.html				pending
+la-vida-loca-wm-edition-brasil	La Vida Loca WM Edition Brasil		female	https://www.fragrantica.com/perfume/Schlossparfumerie/La-Vida-Loca-WM-Edition-Brasil-26294.html				pending
+orient-express	Orient Express		female	https://www.fragrantica.com/perfume/Schlossparfumerie/Orient-Express-26287.html				pending
+p-100-jubilee	P - 100 Jubilee		male	https://www.fragrantica.com/perfume/Schlossparfumerie/P-100-Jubilee-26297.html				pending
+pour-la-belle	Pour la Belle		female	https://www.fragrantica.com/perfume/Schlossparfumerie/Pour-la-Belle-26293.html				pending
+purple-velvet	Purple Velvet		female	https://www.fragrantica.com/perfume/Schlossparfumerie/Purple-Velvet-26295.html				pending
+pyramid	Pyramid		female	https://www.fragrantica.com/perfume/Schlossparfumerie/Pyramid-26283.html				pending
+riviera-sport	Riviera Sport		male	https://www.fragrantica.com/perfume/Schlossparfumerie/Riviera-Sport-31972.html				pending

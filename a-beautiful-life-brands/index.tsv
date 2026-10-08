@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-abl-no-6	ABL No. 6		unisex		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/ABL-No-6-47834.html				pending
-black-rose	Black Rose		female		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Black-Rose-47835.html				pending
-composition-by-abl	Composition by ABL		unisex		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Composition-by-ABL-47824.html				pending
-crushd	Crush'd		unisex		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Crush-d-47837.html				pending
-fawn	Fawn		unisex		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Fawn-47827.html				pending
-i-heart-unicorns	I Heart Unicorns		female		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/I-Heart-Unicorns-47823.html				pending
-mermaids-kiss	Mermaid's Kiss		female		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Mermaid-s-Kiss-47825.html				pending
-no-by-abl	NO by ABL		female		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/NO-by-ABL-47831.html				pending
-other-by-abl	Other by ABL		unisex		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Other-by-ABL-47826.html				pending
-pop-by-abl	PoP by ABL		unisex		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/PoP-by-ABL-47832.html				pending
-sucre-blanc	Sucre Blanc		unisex		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Sucre-Blanc-47833.html				pending
-vrai-vert	Vrai Vert		unisex		https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Vrai-Vert-47836.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+abl-no-6	ABL No. 6		unisex	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/ABL-No-6-47834.html				pending
+black-rose	Black Rose		female	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Black-Rose-47835.html				pending
+composition-by-abl	Composition by ABL		unisex	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Composition-by-ABL-47824.html				pending
+crushd	Crush'd		unisex	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Crush-d-47837.html				pending
+fawn	Fawn		unisex	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Fawn-47827.html				pending
+i-heart-unicorns	I Heart Unicorns		female	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/I-Heart-Unicorns-47823.html				pending
+mermaids-kiss	Mermaid's Kiss		female	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Mermaid-s-Kiss-47825.html				pending
+no-by-abl	NO by ABL		female	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/NO-by-ABL-47831.html				pending
+other-by-abl	Other by ABL		unisex	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Other-by-ABL-47826.html				pending
+pop-by-abl	PoP by ABL		unisex	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/PoP-by-ABL-47832.html				pending
+sucre-blanc	Sucre Blanc		unisex	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Sucre-Blanc-47833.html				pending
+vrai-vert	Vrai Vert		unisex	https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Vrai-Vert-47836.html				pending

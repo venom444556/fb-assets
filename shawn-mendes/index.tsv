@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-shawn-mendes-signature	Shawn Mendes Signature		unisex		https://www.fragrantica.com/perfume/Shawn-Mendes/Shawn-Mendes-Signature-46269.html				pending
-signature-ii	Signature II		unisex		https://www.fragrantica.com/perfume/Shawn-Mendes/Signature-II-51364.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+shawn-mendes-signature	Shawn Mendes Signature		unisex	https://www.fragrantica.com/perfume/Shawn-Mendes/Shawn-Mendes-Signature-46269.html				pending
+signature-ii	Signature II		unisex	https://www.fragrantica.com/perfume/Shawn-Mendes/Signature-II-51364.html				pending

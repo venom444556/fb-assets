@@ -1,34 +1,34 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-almond-musk	Almond Musk		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Almond-Musk-42331.html				pending
-amber	Amber		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Amber-15737.html				pending
-barber-cologne-elixir-black	Barber Cologne Elixir Black		male		https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-Black-15746.html				pending
-barber-cologne-elixir-blue	Barber Cologne Elixir Blue		male		https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-Blue-15745.html				pending
-barber-cologne-elixir-green	Barber Cologne Elixir Green		male		https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-Green-15744.html				pending
-barber-cologne-elixir-red	Barber Cologne Elixir Red		male		https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-Red-23345.html				pending
-barber-cologne-elixir-white	Barber Cologne Elixir White		male		https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-White-15743.html				pending
-bay-rum	Bay Rum		male		https://www.fragrantica.com/perfume/C-O-Bigelow/Bay-Rum-15742.html				pending
-bergamot-amber	Bergamot Amber		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Bergamot-Amber-42337.html				pending
-cashmere-fig	Cashmere Fig		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Cashmere-Fig-42330.html				pending
-cinnamon-orange	Cinnamon Orange		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Cinnamon-Orange-15736.html				pending
-citrus-vetiver	Citrus Vetiver		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Citrus-Vetiver-42332.html				pending
-elixir-black-pepper	Elixir Black Pepper		male		https://www.fragrantica.com/perfume/C-O-Bigelow/Elixir-Black-Pepper-15741.html				pending
-freesia	Freesia		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Freesia-15735.html				pending
-freshwater-lavender	Freshwater Lavender		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Freshwater-Lavender-42334.html				pending
-ginger-mentha-no-1319	Ginger Mentha No. 1319		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Ginger-Mentha-No-1319-45812.html				pending
-green-tea-no-1900	Green Tea No.1900		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Green-Tea-No-1900-15740.html				pending
-lemon-and-orange-blossom-no-1807	Lemon and Orange Blossom No. 1807		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Lemon-and-Orange-Blossom-No-1807-50174.html				pending
-lemon-leaf-no-1821	Lemon Leaf No.1821		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Lemon-Leaf-No-1821-15738.html				pending
-lemon-no-1999	Lemon No.1999		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Lemon-No-1999-15739.html				pending
-lily-of-the-valley	Lily Of The Valley		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Lily-Of-The-Valley-15734.html				pending
-lime-coriander	Lime Coriander		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Lime-Coriander-42338.html				pending
-magnolia	Magnolia		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Magnolia-15733.html				pending
-mandarin-oak	Mandarin Oak		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Mandarin-Oak-42333.html				pending
-musk	Musk		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Musk-15732.html				pending
-patchouli	Patchouli		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Patchouli-15731.html				pending
-rose	Rose		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Rose-15730.html				pending
-sea-salt-mimosa	Sea Salt Mimosa		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Sea-Salt-Mimosa-42335.html				pending
-vanilla	Vanilla		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Vanilla-15729.html				pending
-vanilla-birch	Vanilla Birch		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Vanilla-Birch-42336.html				pending
-verbena	Verbena		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Verbena-15728.html				pending
-winter-lemon-no-1821	Winter Lemon No. 1821		unisex		https://www.fragrantica.com/perfume/C-O-Bigelow/Winter-Lemon-No-1821-45736.html				pending
-winter-petal-no-1315	Winter Petal No. 1315		female		https://www.fragrantica.com/perfume/C-O-Bigelow/Winter-Petal-No-1315-45735.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+almond-musk	Almond Musk		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Almond-Musk-42331.html				pending
+amber	Amber		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Amber-15737.html				pending
+barber-cologne-elixir-black	Barber Cologne Elixir Black		male	https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-Black-15746.html				pending
+barber-cologne-elixir-blue	Barber Cologne Elixir Blue		male	https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-Blue-15745.html				pending
+barber-cologne-elixir-green	Barber Cologne Elixir Green		male	https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-Green-15744.html				pending
+barber-cologne-elixir-red	Barber Cologne Elixir Red		male	https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-Red-23345.html				pending
+barber-cologne-elixir-white	Barber Cologne Elixir White		male	https://www.fragrantica.com/perfume/C-O-Bigelow/Barber-Cologne-Elixir-White-15743.html				pending
+bay-rum	Bay Rum		male	https://www.fragrantica.com/perfume/C-O-Bigelow/Bay-Rum-15742.html				pending
+bergamot-amber	Bergamot Amber		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Bergamot-Amber-42337.html				pending
+cashmere-fig	Cashmere Fig		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Cashmere-Fig-42330.html				pending
+cinnamon-orange	Cinnamon Orange		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Cinnamon-Orange-15736.html				pending
+citrus-vetiver	Citrus Vetiver		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Citrus-Vetiver-42332.html				pending
+elixir-black-pepper	Elixir Black Pepper		male	https://www.fragrantica.com/perfume/C-O-Bigelow/Elixir-Black-Pepper-15741.html				pending
+freesia	Freesia		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Freesia-15735.html				pending
+freshwater-lavender	Freshwater Lavender		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Freshwater-Lavender-42334.html				pending
+ginger-mentha-no-1319	Ginger Mentha No. 1319		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Ginger-Mentha-No-1319-45812.html				pending
+green-tea-no-1900	Green Tea No.1900		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Green-Tea-No-1900-15740.html				pending
+lemon-and-orange-blossom-no-1807	Lemon and Orange Blossom No. 1807		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Lemon-and-Orange-Blossom-No-1807-50174.html				pending
+lemon-leaf-no-1821	Lemon Leaf No.1821		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Lemon-Leaf-No-1821-15738.html				pending
+lemon-no-1999	Lemon No.1999		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Lemon-No-1999-15739.html				pending
+lily-of-the-valley	Lily Of The Valley		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Lily-Of-The-Valley-15734.html				pending
+lime-coriander	Lime Coriander		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Lime-Coriander-42338.html				pending
+magnolia	Magnolia		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Magnolia-15733.html				pending
+mandarin-oak	Mandarin Oak		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Mandarin-Oak-42333.html				pending
+musk	Musk		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Musk-15732.html				pending
+patchouli	Patchouli		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Patchouli-15731.html				pending
+rose	Rose		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Rose-15730.html				pending
+sea-salt-mimosa	Sea Salt Mimosa		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Sea-Salt-Mimosa-42335.html				pending
+vanilla	Vanilla		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Vanilla-15729.html				pending
+vanilla-birch	Vanilla Birch		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Vanilla-Birch-42336.html				pending
+verbena	Verbena		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Verbena-15728.html				pending
+winter-lemon-no-1821	Winter Lemon No. 1821		unisex	https://www.fragrantica.com/perfume/C-O-Bigelow/Winter-Lemon-No-1821-45736.html				pending
+winter-petal-no-1315	Winter Petal No. 1315		female	https://www.fragrantica.com/perfume/C-O-Bigelow/Winter-Petal-No-1315-45735.html				pending

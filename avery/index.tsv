@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a	A		unisex		https://www.fragrantica.com/perfume/Avery/A-48874.html				pending
-amour-bakhoor	Amour Bakhoor		unisex		https://www.fragrantica.com/perfume/Avery/Amour-Bakhoor-48885.html				pending
-chypre-elixir	Chypre Elixir		unisex		https://www.fragrantica.com/perfume/Avery/Chypre-Elixir-48886.html				pending
-cuir-touch	Cuir Touch		unisex		https://www.fragrantica.com/perfume/Avery/Cuir-Touch-48884.html				pending
-e	E		unisex		https://www.fragrantica.com/perfume/Avery/E-48876.html				pending
-musk-melange	Musk Melange		unisex		https://www.fragrantica.com/perfume/Avery/Musk-Melange-48887.html				pending
-noisy-noisette	Noisy Noisette		unisex		https://www.fragrantica.com/perfume/Avery/Noisy-Noisette-48883.html				pending
-peep-pour-toi	Peep Pour Toi		unisex		https://www.fragrantica.com/perfume/Avery/Peep-Pour-Toi-57370.html				pending
-r	R		unisex		https://www.fragrantica.com/perfume/Avery/R-48877.html				pending
-sunday-sorbet	Sunday Sorbet		unisex		https://www.fragrantica.com/perfume/Avery/Sunday-Sorbet-57368.html				pending
-twist-de-bois	Twist De Bois		unisex		https://www.fragrantica.com/perfume/Avery/Twist-De-Bois-48888.html				pending
-v	V		unisex		https://www.fragrantica.com/perfume/Avery/V-48875.html				pending
-vanille-bakery	Vanille Bakery		unisex		https://www.fragrantica.com/perfume/Avery/Vanille-Bakery-57369.html				pending
-white-not	White Not		unisex		https://www.fragrantica.com/perfume/Avery/White-Not-48882.html				pending
-y	Y		unisex		https://www.fragrantica.com/perfume/Avery/Y-48881.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a	A		unisex	https://www.fragrantica.com/perfume/Avery/A-48874.html				pending
+amour-bakhoor	Amour Bakhoor		unisex	https://www.fragrantica.com/perfume/Avery/Amour-Bakhoor-48885.html				pending
+chypre-elixir	Chypre Elixir		unisex	https://www.fragrantica.com/perfume/Avery/Chypre-Elixir-48886.html				pending
+cuir-touch	Cuir Touch		unisex	https://www.fragrantica.com/perfume/Avery/Cuir-Touch-48884.html				pending
+e	E		unisex	https://www.fragrantica.com/perfume/Avery/E-48876.html				pending
+musk-melange	Musk Melange		unisex	https://www.fragrantica.com/perfume/Avery/Musk-Melange-48887.html				pending
+noisy-noisette	Noisy Noisette		unisex	https://www.fragrantica.com/perfume/Avery/Noisy-Noisette-48883.html				pending
+peep-pour-toi	Peep Pour Toi		unisex	https://www.fragrantica.com/perfume/Avery/Peep-Pour-Toi-57370.html				pending
+r	R		unisex	https://www.fragrantica.com/perfume/Avery/R-48877.html				pending
+sunday-sorbet	Sunday Sorbet		unisex	https://www.fragrantica.com/perfume/Avery/Sunday-Sorbet-57368.html				pending
+twist-de-bois	Twist De Bois		unisex	https://www.fragrantica.com/perfume/Avery/Twist-De-Bois-48888.html				pending
+v	V		unisex	https://www.fragrantica.com/perfume/Avery/V-48875.html				pending
+vanille-bakery	Vanille Bakery		unisex	https://www.fragrantica.com/perfume/Avery/Vanille-Bakery-57369.html				pending
+white-not	White Not		unisex	https://www.fragrantica.com/perfume/Avery/White-Not-48882.html				pending
+y	Y		unisex	https://www.fragrantica.com/perfume/Avery/Y-48881.html				pending

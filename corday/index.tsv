@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-fame	Fame		female		https://www.fragrantica.com/perfume/Corday/Fame-37872.html				pending
-femme-du-jour	Femme du Jour		female		https://www.fragrantica.com/perfume/Corday/Femme-du-Jour-88443.html				pending
-frenzy	Frenzy		female		https://www.fragrantica.com/perfume/Corday/Frenzy-88442.html				pending
-jet	Jet		unisex		https://www.fragrantica.com/perfume/Corday/Jet-82526.html				pending
-jet-for-jentlemen	Jet for Jentlemen		male		https://www.fragrantica.com/perfume/Corday/Jet-for-Jentlemen-88444.html				pending
-lardente-nuit	L'Ardente Nuit		female		https://www.fragrantica.com/perfume/Corday/L-Ardente-Nuit-88445.html				pending
-la-plus-belle	La Plus Belle		female		https://www.fragrantica.com/perfume/Corday/La-Plus-Belle-88446.html				pending
-orchidee-bleue	Orchidée Bleue		unisex		https://www.fragrantica.com/perfume/Corday/Orchidee-Bleue-37875.html				pending
-possession	Possession		female		https://www.fragrantica.com/perfume/Corday/Possession-37871.html				pending
-ruse	Rusé		female		https://www.fragrantica.com/perfume/Corday/Ruse-37876.html				pending
-toujours-moi	Toujours Moi		female		https://www.fragrantica.com/perfume/Corday/Toujours-Moi-3932.html				pending
-trapeze	Trapeze		female		https://www.fragrantica.com/perfume/Corday/Trapeze-37867.html				pending
-voyage-a-paris	Voyage A Paris		female		https://www.fragrantica.com/perfume/Corday/Voyage-A-Paris-88447.html				pending
-zigane-tzigane	Zigane (Tzigane)		female		https://www.fragrantica.com/perfume/Corday/Zigane-Tzigane-20396.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+fame	Fame		female	https://www.fragrantica.com/perfume/Corday/Fame-37872.html				pending
+femme-du-jour	Femme du Jour		female	https://www.fragrantica.com/perfume/Corday/Femme-du-Jour-88443.html				pending
+frenzy	Frenzy		female	https://www.fragrantica.com/perfume/Corday/Frenzy-88442.html				pending
+jet	Jet		unisex	https://www.fragrantica.com/perfume/Corday/Jet-82526.html				pending
+jet-for-jentlemen	Jet for Jentlemen		male	https://www.fragrantica.com/perfume/Corday/Jet-for-Jentlemen-88444.html				pending
+lardente-nuit	L'Ardente Nuit		female	https://www.fragrantica.com/perfume/Corday/L-Ardente-Nuit-88445.html				pending
+la-plus-belle	La Plus Belle		female	https://www.fragrantica.com/perfume/Corday/La-Plus-Belle-88446.html				pending
+orchidee-bleue	Orchidée Bleue		unisex	https://www.fragrantica.com/perfume/Corday/Orchidee-Bleue-37875.html				pending
+possession	Possession		female	https://www.fragrantica.com/perfume/Corday/Possession-37871.html				pending
+ruse	Rusé		female	https://www.fragrantica.com/perfume/Corday/Ruse-37876.html				pending
+toujours-moi	Toujours Moi		female	https://www.fragrantica.com/perfume/Corday/Toujours-Moi-3932.html				pending
+trapeze	Trapeze		female	https://www.fragrantica.com/perfume/Corday/Trapeze-37867.html				pending
+voyage-a-paris	Voyage A Paris		female	https://www.fragrantica.com/perfume/Corday/Voyage-A-Paris-88447.html				pending
+zigane-tzigane	Zigane (Tzigane)		female	https://www.fragrantica.com/perfume/Corday/Zigane-Tzigane-20396.html				pending

@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-almanera	Almanera		unisex		https://www.fragrantica.com/perfume/Epico/Almanera-74892.html				pending
-otello	Otello		unisex		https://www.fragrantica.com/perfume/Epico/Otello-74888.html				pending
-vani-noire	Vani Noire		unisex		https://www.fragrantica.com/perfume/Epico/Vani-Noire-81894.html				pending
-vani-charnel	Vanì Charnel		unisex		https://www.fragrantica.com/perfume/Epico/Vani-Charnel-74893.html				pending
-will-be-love	Will Be Love		unisex		https://www.fragrantica.com/perfume/Epico/Will-Be-Love-86154.html				pending
-eremo	Eremo		unisex		https://www.fragrantica.com/perfume/Epico/Eremo-74894.html				pending
-frida	Frida		unisex		https://www.fragrantica.com/perfume/Epico/Frida-74889.html				pending
-gitano	Gitano		unisex		https://www.fragrantica.com/perfume/Epico/Gitano-74890.html				pending
-midnight	Midnight		unisex		https://www.fragrantica.com/perfume/Epico/Midnight-81397.html				pending
-sultan	Sultan		unisex		https://www.fragrantica.com/perfume/Epico/Sultan-74895.html				pending
-vanesia	Vanesia		unisex		https://www.fragrantica.com/perfume/Epico/Vanesia-74891.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+almanera	Almanera		unisex	https://www.fragrantica.com/perfume/Epico/Almanera-74892.html				pending
+eremo	Eremo		unisex	https://www.fragrantica.com/perfume/Epico/Eremo-74894.html				pending
+frida	Frida		unisex	https://www.fragrantica.com/perfume/Epico/Frida-74889.html				pending
+gitano	Gitano		unisex	https://www.fragrantica.com/perfume/Epico/Gitano-74890.html				pending
+midnight	Midnight		unisex	https://www.fragrantica.com/perfume/Epico/Midnight-81397.html				pending
+otello	Otello		unisex	https://www.fragrantica.com/perfume/Epico/Otello-74888.html				pending
+sultan	Sultan		unisex	https://www.fragrantica.com/perfume/Epico/Sultan-74895.html				pending
+vanesia	Vanesia		unisex	https://www.fragrantica.com/perfume/Epico/Vanesia-74891.html				pending
+vani-noire	Vani Noire		unisex	https://www.fragrantica.com/perfume/Epico/Vani-Noire-81894.html				pending
+vani-charnel	Vanì Charnel		unisex	https://www.fragrantica.com/perfume/Epico/Vani-Charnel-74893.html				pending
+will-be-love	Will Be Love		unisex	https://www.fragrantica.com/perfume/Epico/Will-Be-Love-86154.html				pending

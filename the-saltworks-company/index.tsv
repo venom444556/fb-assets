@@ -1,39 +1,39 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alchemy	Alchemy		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Alchemy-85960.html				pending
-black-pepper	Black Pepper		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Black-Pepper-84792.html				pending
-brown-sugar	Brown Sugar		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Brown-Sugar-87188.html				pending
-calypso	Calypso		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Calypso-84961.html				pending
-de-la-mer	De La Mer		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/De-La-Mer-85048.html				pending
-dive	Dive		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Dive-85958.html				pending
-dreaming	Dreaming		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Dreaming-84955.html				pending
-eclipse	Eclipse		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Eclipse-84958.html				pending
-figaro	Figaro		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Figaro-85047.html				pending
-french-fig	French Fig		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/French-Fig-87189.html				pending
-green-envy	Green Envy		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Green-Envy-84804.html				pending
-gypsy-rose	Gypsy Rose		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Gypsy-Rose-84960.html				pending
-hanami-blossom	Hanami Blossom		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Hanami-Blossom-87184.html				pending
-ile-rouge	Ile Rouge		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Ile-Rouge-84956.html				pending
-infinity	Infinity		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Infinity-84963.html				pending
-kensington-gardens	Kensington Gardens		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Kensington-Gardens-84957.html				pending
-kensington-in-white	Kensington In White		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Kensington-In-White-87183.html				pending
-lorangerie	L'Orangerie		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/L-Orangerie-85049.html				pending
-limelight	Limelight		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Limelight-85962.html				pending
-lovestory	Lovestory		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Lovestory-87181.html				pending
-meridian	Meridian		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Meridian-85963.html				pending
-midnight-orchid	Midnight Orchid		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Midnight-Orchid-87180.html				pending
-neroliander	Neroliander		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Neroliander-85955.html				pending
-ocean-drive	Ocean Drive		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Ocean-Drive-85959.html				pending
-oud-bazaar	Oud Bazaar		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Oud-Bazaar-84807.html				pending
-oud-harmony	Oud Harmony		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Oud-Harmony-84964.html				pending
-oud-legacy	Oud Legacy		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Oud-Legacy-87186.html				pending
-pomegranate-amber	Pomegranate Amber		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Pomegranate-Amber-87182.html				pending
-purple-haze	Purple Haze		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Purple-Haze-87185.html				pending
-rainstorm	Rainstorm		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Rainstorm-85956.html				pending
-rock-rose	Rock Rose		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Rock-Rose-84962.html				pending
-rose-boheme	Rose Boheme		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Rose-Boheme-84809.html				pending
-seawater-suede	Seawater Suede		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Seawater-Suede-87187.html				pending
-sicilia	Sicilia		female		https://www.fragrantica.com/perfume/The-Saltworks-Company/Sicilia-85954.html				pending
-summer-daze	Summer Daze		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Summer-Daze-85957.html				pending
-sun-garden	Sun Garden		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Sun-Garden-84805.html				pending
-tabac-nuit	Tabac Nuit		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Tabac-Nuit-84959.html				pending
-tabac-soleil	Tabac Soleil		unisex		https://www.fragrantica.com/perfume/The-Saltworks-Company/Tabac-Soleil-84806.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alchemy	Alchemy		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Alchemy-85960.html				pending
+black-pepper	Black Pepper		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Black-Pepper-84792.html				pending
+brown-sugar	Brown Sugar		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Brown-Sugar-87188.html				pending
+calypso	Calypso		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Calypso-84961.html				pending
+de-la-mer	De La Mer		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/De-La-Mer-85048.html				pending
+dive	Dive		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Dive-85958.html				pending
+dreaming	Dreaming		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Dreaming-84955.html				pending
+eclipse	Eclipse		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Eclipse-84958.html				pending
+figaro	Figaro		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Figaro-85047.html				pending
+french-fig	French Fig		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/French-Fig-87189.html				pending
+green-envy	Green Envy		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Green-Envy-84804.html				pending
+gypsy-rose	Gypsy Rose		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Gypsy-Rose-84960.html				pending
+hanami-blossom	Hanami Blossom		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Hanami-Blossom-87184.html				pending
+ile-rouge	Ile Rouge		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Ile-Rouge-84956.html				pending
+infinity	Infinity		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Infinity-84963.html				pending
+kensington-gardens	Kensington Gardens		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Kensington-Gardens-84957.html				pending
+kensington-in-white	Kensington In White		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Kensington-In-White-87183.html				pending
+lorangerie	L'Orangerie		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/L-Orangerie-85049.html				pending
+limelight	Limelight		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Limelight-85962.html				pending
+lovestory	Lovestory		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Lovestory-87181.html				pending
+meridian	Meridian		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Meridian-85963.html				pending
+midnight-orchid	Midnight Orchid		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Midnight-Orchid-87180.html				pending
+neroliander	Neroliander		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Neroliander-85955.html				pending
+ocean-drive	Ocean Drive		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Ocean-Drive-85959.html				pending
+oud-bazaar	Oud Bazaar		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Oud-Bazaar-84807.html				pending
+oud-harmony	Oud Harmony		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Oud-Harmony-84964.html				pending
+oud-legacy	Oud Legacy		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Oud-Legacy-87186.html				pending
+pomegranate-amber	Pomegranate Amber		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Pomegranate-Amber-87182.html				pending
+purple-haze	Purple Haze		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Purple-Haze-87185.html				pending
+rainstorm	Rainstorm		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Rainstorm-85956.html				pending
+rock-rose	Rock Rose		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Rock-Rose-84962.html				pending
+rose-boheme	Rose Boheme		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Rose-Boheme-84809.html				pending
+seawater-suede	Seawater Suede		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Seawater-Suede-87187.html				pending
+sicilia	Sicilia		female	https://www.fragrantica.com/perfume/The-Saltworks-Company/Sicilia-85954.html				pending
+summer-daze	Summer Daze		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Summer-Daze-85957.html				pending
+sun-garden	Sun Garden		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Sun-Garden-84805.html				pending
+tabac-nuit	Tabac Nuit		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Tabac-Nuit-84959.html				pending
+tabac-soleil	Tabac Soleil		unisex	https://www.fragrantica.com/perfume/The-Saltworks-Company/Tabac-Soleil-84806.html				pending

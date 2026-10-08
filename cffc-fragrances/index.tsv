@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-indicible-desire	Indicible Desire		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Indicible-Desire-24244.html				pending
-indicible-emotion	Indicible Emotion		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Indicible-Emotion-24245.html				pending
-indicible-lust	Indicible Lust		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Indicible-Lust-24243.html				pending
-indicible-passion	Indicible Passion		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Indicible-Passion-24242.html				pending
-love-is-a-candy-thawing-in-my-heart	Love Is… a Candy Thawing in my Heart		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Love-Is-a-Candy-Thawing-in-my-Heart-24240.html				pending
-love-is-all-you-need	Love Is… All You Need		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Love-Is-All-You-Need-24238.html				pending
-love-is-lust	Love Is… Lust		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Love-Is-Lust-24239.html				pending
-love-is-u	Love Is… U		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Love-Is-U-24241.html				pending
-loverdose	Loverdose		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Loverdose-24235.html				pending
-loverdose-for-men	Loverdose For Men		male		https://www.fragrantica.com/perfume/CFFC-Fragrances/Loverdose-For-Men-24236.html				pending
-mystery-secret	Mystery Secret		female		https://www.fragrantica.com/perfume/CFFC-Fragrances/Mystery-Secret-24237.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+indicible-desire	Indicible Desire		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Indicible-Desire-24244.html				pending
+indicible-emotion	Indicible Emotion		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Indicible-Emotion-24245.html				pending
+indicible-lust	Indicible Lust		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Indicible-Lust-24243.html				pending
+indicible-passion	Indicible Passion		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Indicible-Passion-24242.html				pending
+love-is-a-candy-thawing-in-my-heart	Love Is… a Candy Thawing in my Heart		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Love-Is-a-Candy-Thawing-in-my-Heart-24240.html				pending
+love-is-all-you-need	Love Is… All You Need		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Love-Is-All-You-Need-24238.html				pending
+love-is-lust	Love Is… Lust		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Love-Is-Lust-24239.html				pending
+love-is-u	Love Is… U		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Love-Is-U-24241.html				pending
+loverdose	Loverdose		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Loverdose-24235.html				pending
+loverdose-for-men	Loverdose For Men		male	https://www.fragrantica.com/perfume/CFFC-Fragrances/Loverdose-For-Men-24236.html				pending
+mystery-secret	Mystery Secret		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Mystery-Secret-24237.html				pending

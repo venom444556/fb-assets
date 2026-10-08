@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-agaressence	Agaressence		female		https://www.fragrantica.com/perfume/Brecourt/Agaressence-12116.html				pending
-ambre-noir	Ambre Noir		female		https://www.fragrantica.com/perfume/Brecourt/Ambre-Noir-12118.html				pending
-avenue-montaigne	Avenue Montaigne		female		https://www.fragrantica.com/perfume/Brecourt/Avenue-Montaigne-12119.html				pending
-captive	Captive		unisex		https://www.fragrantica.com/perfume/Brecourt/Captive-49334.html				pending
-contre-pouvoir	Contre Pouvoir		male		https://www.fragrantica.com/perfume/Brecourt/Contre-Pouvoir-12122.html				pending
-eau-blanche	Eau Blanche		female		https://www.fragrantica.com/perfume/Brecourt/Eau-Blanche-12120.html				pending
-eau-libre	Eau Libre		male		https://www.fragrantica.com/perfume/Brecourt/Eau-Libre-12125.html				pending
-eau-trouble	Eau Trouble		female		https://www.fragrantica.com/perfume/Brecourt/Eau-Trouble-12121.html				pending
-esprit-mondain	Esprit Mondain		male		https://www.fragrantica.com/perfume/Brecourt/Esprit-Mondain-12123.html				pending
-farah	Farah		female		https://www.fragrantica.com/perfume/Brecourt/Farah-12115.html				pending
-lamoureuse	L’Amoureuse		female		https://www.fragrantica.com/perfume/Brecourt/L-Amoureuse-12117.html				pending
-mauvais-garcon	Mauvais Garcon		male		https://www.fragrantica.com/perfume/Brecourt/Mauvais-Garcon-12124.html				pending
-off-to-ibiza	Off to Ibiza		unisex		https://www.fragrantica.com/perfume/Brecourt/Off-to-Ibiza-31461.html				pending
-osmanthus-guilin	Osmanthus Guilin		female		https://www.fragrantica.com/perfume/Brecourt/Osmanthus-Guilin-45743.html				pending
-oud-santal	Oud Santal		unisex		https://www.fragrantica.com/perfume/Brecourt/Oud-Santal-33355.html				pending
-poivre-bengale	Poivre Bengale		unisex		https://www.fragrantica.com/perfume/Brecourt/Poivre-Bengale-27520.html				pending
-rosa-gallica	Rosa Gallica		unisex		https://www.fragrantica.com/perfume/Brecourt/Rosa-Gallica-16456.html				pending
-subtile	Subtile		unisex		https://www.fragrantica.com/perfume/Brecourt/Subtile-49333.html				pending
-subversif	Subversif		unisex		https://www.fragrantica.com/perfume/Brecourt/Subversif-43493.html				pending
-ibiza-addiction	Ibiza Addiction		unisex		https://www.fragrantica.com/perfume/Brecourt/Ibiza-Addiction-69521.html				pending
-noces-de-nerola	Noces de Nerola		unisex		https://www.fragrantica.com/perfume/Brecourt/Noces-de-Nerola-83922.html				pending
-solaire	Solaire		unisex		https://www.fragrantica.com/perfume/Brecourt/Solaire-69520.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+agaressence	Agaressence		female	https://www.fragrantica.com/perfume/Brecourt/Agaressence-12116.html				pending
+ambre-noir	Ambre Noir		female	https://www.fragrantica.com/perfume/Brecourt/Ambre-Noir-12118.html				pending
+avenue-montaigne	Avenue Montaigne		female	https://www.fragrantica.com/perfume/Brecourt/Avenue-Montaigne-12119.html				pending
+captive	Captive		unisex	https://www.fragrantica.com/perfume/Brecourt/Captive-49334.html				pending
+contre-pouvoir	Contre Pouvoir		male	https://www.fragrantica.com/perfume/Brecourt/Contre-Pouvoir-12122.html				pending
+eau-blanche	Eau Blanche		female	https://www.fragrantica.com/perfume/Brecourt/Eau-Blanche-12120.html				pending
+eau-libre	Eau Libre		male	https://www.fragrantica.com/perfume/Brecourt/Eau-Libre-12125.html				pending
+eau-trouble	Eau Trouble		female	https://www.fragrantica.com/perfume/Brecourt/Eau-Trouble-12121.html				pending
+esprit-mondain	Esprit Mondain		male	https://www.fragrantica.com/perfume/Brecourt/Esprit-Mondain-12123.html				pending
+farah	Farah		female	https://www.fragrantica.com/perfume/Brecourt/Farah-12115.html				pending
+ibiza-addiction	Ibiza Addiction		unisex	https://www.fragrantica.com/perfume/Brecourt/Ibiza-Addiction-69521.html				pending
+lamoureuse	L’Amoureuse		female	https://www.fragrantica.com/perfume/Brecourt/L-Amoureuse-12117.html				pending
+mauvais-garcon	Mauvais Garcon		male	https://www.fragrantica.com/perfume/Brecourt/Mauvais-Garcon-12124.html				pending
+noces-de-nerola	Noces de Nerola		unisex	https://www.fragrantica.com/perfume/Brecourt/Noces-de-Nerola-83922.html				pending
+off-to-ibiza	Off to Ibiza		unisex	https://www.fragrantica.com/perfume/Brecourt/Off-to-Ibiza-31461.html				pending
+osmanthus-guilin	Osmanthus Guilin		female	https://www.fragrantica.com/perfume/Brecourt/Osmanthus-Guilin-45743.html				pending
+oud-santal	Oud Santal		unisex	https://www.fragrantica.com/perfume/Brecourt/Oud-Santal-33355.html				pending
+poivre-bengale	Poivre Bengale		unisex	https://www.fragrantica.com/perfume/Brecourt/Poivre-Bengale-27520.html				pending
+rosa-gallica	Rosa Gallica		unisex	https://www.fragrantica.com/perfume/Brecourt/Rosa-Gallica-16456.html				pending
+solaire	Solaire		unisex	https://www.fragrantica.com/perfume/Brecourt/Solaire-69520.html				pending
+subtile	Subtile		unisex	https://www.fragrantica.com/perfume/Brecourt/Subtile-49333.html				pending
+subversif	Subversif		unisex	https://www.fragrantica.com/perfume/Brecourt/Subversif-43493.html				pending

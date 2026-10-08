@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amon-ra-amon-ra	Amon Ra Amon Ra		female		https://www.fragrantica.com/perfume/Alen-Mak/Amon-Ra-Amon-Ra-83791.html				pending
-bademovo-maslo	Bademovo Maslo		unisex		https://www.fragrantica.com/perfume/Alen-Mak/Bademovo-Maslo-83812.html				pending
-benzoin-benzoe	Benzoin Benzoe		unisex		https://www.fragrantica.com/perfume/Alen-Mak/Benzoin-Benzoe-82781.html				pending
-bolgarskaa-roza-bulgarian-rose	Bolgarskaa roza Bulgarian Rose		female		https://www.fragrantica.com/perfume/Alen-Mak/Bolgarskaa-roza-Bulgarian-Rose-93985.html				pending
-bon-sans-bon-chance	Bon Sans Bon Chance		female		https://www.fragrantica.com/perfume/Alen-Mak/Bon-Sans-Bon-Chance-84293.html				pending
-car-char	Car Char		female		https://www.fragrantica.com/perfume/Alen-Mak/Car-Char-84355.html				pending
-chat-noir	Chat Noir		female		https://www.fragrantica.com/perfume/Alen-Mak/Chat-Noir-35867.html				pending
-disko-klub-disco-club	Disko Klub Disco Club		unisex		https://www.fragrantica.com/perfume/Alen-Mak/Disko-Klub-Disco-Club-83811.html				pending
-disko-klub-odekolon-disco-club-cologne	Disko Klub Odekolon Disco Club Cologne		unisex		https://www.fragrantica.com/perfume/Alen-Mak/Disko-Klub-Odekolon-Disco-Club-Cologne-84409.html				pending
-erato	Erato		female		https://www.fragrantica.com/perfume/Alen-Mak/Erato-83810.html				pending
-kapri-capri	Kapri Capri		unisex		https://www.fragrantica.com/perfume/Alen-Mak/Kapri-Capri-83808.html				pending
-karo-karo	Karo Karo		female		https://www.fragrantica.com/perfume/Alen-Mak/Karo-Karo-83806.html				pending
-kentavr-centaure	Kentavr Centaure		male		https://www.fragrantica.com/perfume/Alen-Mak/Kentavr-Centaure-84408.html				pending
-korsar	Korsar		male		https://www.fragrantica.com/perfume/Alen-Mak/Korsar-83809.html				pending
-kurioz	Kurioz		male		https://www.fragrantica.com/perfume/Alen-Mak/Kurioz-85180.html				pending
-rondo	Rondo		unisex		https://www.fragrantica.com/perfume/Alen-Mak/Rondo-41418.html				pending
-rosa	Rosa		unisex		https://www.fragrantica.com/perfume/Alen-Mak/Rosa-82760.html				pending
-signature	Signature		female		https://www.fragrantica.com/perfume/Alen-Mak/Signature-35342.html				pending
-toskana	Toskana		female		https://www.fragrantica.com/perfume/Alen-Mak/Toskana-88521.html				pending
-venus-venus	Venus Venus		female		https://www.fragrantica.com/perfume/Alen-Mak/Venus-Venus-83792.html				pending
-zest-gesture	Zest Gesture		female		https://www.fragrantica.com/perfume/Alen-Mak/Zest-Gesture-84407.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amon-ra-amon-ra	Amon Ra Amon Ra		female	https://www.fragrantica.com/perfume/Alen-Mak/Amon-Ra-Amon-Ra-83791.html				pending
+bademovo-maslo	Bademovo Maslo		unisex	https://www.fragrantica.com/perfume/Alen-Mak/Bademovo-Maslo-83812.html				pending
+benzoin-benzoe	Benzoin Benzoe		unisex	https://www.fragrantica.com/perfume/Alen-Mak/Benzoin-Benzoe-82781.html				pending
+bolgarskaa-roza-bulgarian-rose	Bolgarskaa roza Bulgarian Rose		female	https://www.fragrantica.com/perfume/Alen-Mak/Bolgarskaa-roza-Bulgarian-Rose-93985.html				pending
+bon-sans-bon-chance	Bon Sans Bon Chance		female	https://www.fragrantica.com/perfume/Alen-Mak/Bon-Sans-Bon-Chance-84293.html				pending
+car-char	Car Char		female	https://www.fragrantica.com/perfume/Alen-Mak/Car-Char-84355.html				pending
+chat-noir	Chat Noir		female	https://www.fragrantica.com/perfume/Alen-Mak/Chat-Noir-35867.html				pending
+disko-klub-disco-club	Disko Klub Disco Club		unisex	https://www.fragrantica.com/perfume/Alen-Mak/Disko-Klub-Disco-Club-83811.html				pending
+disko-klub-odekolon-disco-club-cologne	Disko Klub Odekolon Disco Club Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Alen-Mak/Disko-Klub-Odekolon-Disco-Club-Cologne-84409.html				pending
+erato	Erato		female	https://www.fragrantica.com/perfume/Alen-Mak/Erato-83810.html				pending
+kapri-capri	Kapri Capri		unisex	https://www.fragrantica.com/perfume/Alen-Mak/Kapri-Capri-83808.html				pending
+karo-karo	Karo Karo		female	https://www.fragrantica.com/perfume/Alen-Mak/Karo-Karo-83806.html				pending
+kentavr-centaure	Kentavr Centaure		male	https://www.fragrantica.com/perfume/Alen-Mak/Kentavr-Centaure-84408.html				pending
+korsar	Korsar		male	https://www.fragrantica.com/perfume/Alen-Mak/Korsar-83809.html				pending
+kurioz	Kurioz		male	https://www.fragrantica.com/perfume/Alen-Mak/Kurioz-85180.html				pending
+rondo	Rondo		unisex	https://www.fragrantica.com/perfume/Alen-Mak/Rondo-41418.html				pending
+rosa	Rosa		unisex	https://www.fragrantica.com/perfume/Alen-Mak/Rosa-82760.html				pending
+signature	Signature		female	https://www.fragrantica.com/perfume/Alen-Mak/Signature-35342.html				pending
+toskana	Toskana		female	https://www.fragrantica.com/perfume/Alen-Mak/Toskana-88521.html				pending
+venus-venus	Venus Venus		female	https://www.fragrantica.com/perfume/Alen-Mak/Venus-Venus-83792.html				pending
+zest-gesture	Zest Gesture		female	https://www.fragrantica.com/perfume/Alen-Mak/Zest-Gesture-84407.html				pending

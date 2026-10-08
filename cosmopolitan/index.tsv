@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-100-chilled	100% Chilled		female		https://www.fragrantica.com/perfume/Cosmopolitan/100-Chilled-56261.html				pending
-beach-please	Beach Please		female		https://www.fragrantica.com/perfume/Cosmopolitan/Beach-Please-68732.html				pending
-cosmopolitan	Cosmopolitan		female		https://www.fragrantica.com/perfume/Cosmopolitan/Cosmopolitan-31939.html				pending
-extra-concentrated	Extra Concentrated		female		https://www.fragrantica.com/perfume/Cosmopolitan/Extra-Concentrated-56259.html				pending
-good-energy	Good Energy		female		https://www.fragrantica.com/perfume/Cosmopolitan/Good-Energy-64035.html				pending
-love-unfiltered	Love, Unfiltered		female		https://www.fragrantica.com/perfume/Cosmopolitan/Love-Unfiltered-56263.html				pending
-pure-sugar	Pure Sugar		female		https://www.fragrantica.com/perfume/Cosmopolitan/Pure-Sugar-56260.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+100-chilled	100% Chilled		female	https://www.fragrantica.com/perfume/Cosmopolitan/100-Chilled-56261.html				pending
+beach-please	Beach Please		female	https://www.fragrantica.com/perfume/Cosmopolitan/Beach-Please-68732.html				pending
+cosmopolitan	Cosmopolitan		female	https://www.fragrantica.com/perfume/Cosmopolitan/Cosmopolitan-31939.html				pending
+extra-concentrated	Extra Concentrated		female	https://www.fragrantica.com/perfume/Cosmopolitan/Extra-Concentrated-56259.html				pending
+good-energy	Good Energy		female	https://www.fragrantica.com/perfume/Cosmopolitan/Good-Energy-64035.html				pending
+love-unfiltered	Love, Unfiltered		female	https://www.fragrantica.com/perfume/Cosmopolitan/Love-Unfiltered-56263.html				pending
+pure-sugar	Pure Sugar		female	https://www.fragrantica.com/perfume/Cosmopolitan/Pure-Sugar-56260.html				pending

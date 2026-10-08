@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-badgley-mischka	Badgley Mischka		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Badgley-Mischka-2547.html				pending
-badgley-mischka-couture	Badgley Mischka Couture		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Badgley-Mischka-Couture-4809.html				pending
-badgley-mischka-eau-de-parfum	Badgley Mischka Eau de Parfum		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Badgley-Mischka-Eau-de-Parfum-51437.html				pending
-fleurs-de-nuit	Fleurs de Nuit		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Fleurs-de-Nuit-2548.html				pending
-forest-noir	Forest Noir		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Forest-Noir-57482.html				pending
-poppy	Poppy		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Poppy-77899.html				pending
-audrey	Audrey		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Audrey-78013.html				pending
-ava	Ava		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Ava-78012.html				pending
-badgley-mischka-couture-parfum-elixir	Badgley Mischka Couture Parfum Elixir		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Badgley-Mischka-Couture-Parfum-Elixir-35788.html				pending
-sweet-bloom	Sweet Bloom		female		https://www.fragrantica.com/perfume/Badgley-Mischka/Sweet-Bloom-67620.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+audrey	Audrey		female	https://www.fragrantica.com/perfume/Badgley-Mischka/Audrey-78013.html				pending
+ava	Ava		female	https://www.fragrantica.com/perfume/Badgley-Mischka/Ava-78012.html				pending
+badgley-mischka	Badgley Mischka		female	https://www.fragrantica.com/perfume/Badgley-Mischka/Badgley-Mischka-2547.html				pending
+badgley-mischka-couture	Badgley Mischka Couture		female	https://www.fragrantica.com/perfume/Badgley-Mischka/Badgley-Mischka-Couture-4809.html				pending
+badgley-mischka-couture-parfum-elixir	Badgley Mischka Couture Parfum Elixir		female	https://www.fragrantica.com/perfume/Badgley-Mischka/Badgley-Mischka-Couture-Parfum-Elixir-35788.html				pending
+badgley-mischka-eau-de-parfum	Badgley Mischka Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Badgley-Mischka/Badgley-Mischka-Eau-de-Parfum-51437.html				pending
+fleurs-de-nuit	Fleurs de Nuit		female	https://www.fragrantica.com/perfume/Badgley-Mischka/Fleurs-de-Nuit-2548.html				pending
+forest-noir	Forest Noir		female	https://www.fragrantica.com/perfume/Badgley-Mischka/Forest-Noir-57482.html				pending
+poppy	Poppy		female	https://www.fragrantica.com/perfume/Badgley-Mischka/Poppy-77899.html				pending
+sweet-bloom	Sweet Bloom		female	https://www.fragrantica.com/perfume/Badgley-Mischka/Sweet-Bloom-67620.html				pending

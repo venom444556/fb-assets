@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-50-the-anniversary-article	50 – The Anniversary article		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/50-The-Anniversary-article-92194.html				pending
-a-olhar-trancoso	A Olhar Trancoso		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/A-Olhar-Trancoso-60469.html				pending
-areia-salgada	Areia Salgada		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/Areia-Salgada-45699.html				pending
-bravo	Bravo		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/Bravo-69313.html				pending
-dona-bia	Dona Bia		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/Dona-Bia-45701.html				pending
-femme-fougere	Femme Fougere		female		https://www.fragrantica.com/perfume/Comporta-Perfumes/Femme-Fougere-69314.html				pending
-mosquito	Mosquito		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/Mosquito-45703.html				pending
-mosquito-intense	Mosquito Intense		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/Mosquito-Intense-51587.html				pending
-mosquito-man-extrait-de-parfum	Mosquito Man Extrait de Parfum		male		https://www.fragrantica.com/perfume/Comporta-Perfumes/Mosquito-Man-Extrait-de-Parfum-51588.html				pending
-muda	Muda		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/Muda-45700.html				pending
-ocaso	Ocaso		female		https://www.fragrantica.com/perfume/Comporta-Perfumes/Ocaso-50405.html				pending
-palafitico	Palafítico		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/Palafitico-45702.html				pending
-sela	Sela		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/Sela-45704.html				pending
-sela-parfum	Sela Parfum		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/Sela-Parfum-74912.html				pending
-will	WILL		unisex		https://www.fragrantica.com/perfume/Comporta-Perfumes/WILL-80725.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+50-the-anniversary-article	50 – The Anniversary article		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/50-The-Anniversary-article-92194.html				pending
+a-olhar-trancoso	A Olhar Trancoso		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/A-Olhar-Trancoso-60469.html				pending
+areia-salgada	Areia Salgada		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/Areia-Salgada-45699.html				pending
+bravo	Bravo		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/Bravo-69313.html				pending
+dona-bia	Dona Bia		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/Dona-Bia-45701.html				pending
+femme-fougere	Femme Fougere		female	https://www.fragrantica.com/perfume/Comporta-Perfumes/Femme-Fougere-69314.html				pending
+mosquito	Mosquito		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/Mosquito-45703.html				pending
+mosquito-intense	Mosquito Intense		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/Mosquito-Intense-51587.html				pending
+mosquito-man-extrait-de-parfum	Mosquito Man Extrait de Parfum	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Comporta-Perfumes/Mosquito-Man-Extrait-de-Parfum-51588.html				pending
+muda	Muda		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/Muda-45700.html				pending
+ocaso	Ocaso		female	https://www.fragrantica.com/perfume/Comporta-Perfumes/Ocaso-50405.html				pending
+palafitico	Palafítico		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/Palafitico-45702.html				pending
+sela	Sela		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/Sela-45704.html				pending
+sela-parfum	Sela Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/Sela-Parfum-74912.html				pending
+will	WILL		unisex	https://www.fragrantica.com/perfume/Comporta-Perfumes/WILL-80725.html				pending

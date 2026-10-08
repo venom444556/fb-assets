@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aqua	AQUA		unisex		https://www.fragrantica.com/perfume/Givago/AQUA-77114.html				pending
-blanche	BLANCHE		male		https://www.fragrantica.com/perfume/Givago/BLANCHE-77135.html				pending
-cairo	Cairo		unisex		https://www.fragrantica.com/perfume/Givago/Cairo-77124.html				pending
-la-vie-en-rose	LA VIE EN ROSE		female		https://www.fragrantica.com/perfume/Givago/LA-VIE-EN-ROSE-77138.html				pending
-moon-river	Moon River		unisex		https://www.fragrantica.com/perfume/Givago/Moon-River-77137.html				pending
-ocean	Ocean		unisex		https://www.fragrantica.com/perfume/Givago/Ocean-77122.html				pending
-oryx	Oryx		unisex		https://www.fragrantica.com/perfume/Givago/Oryx-77136.html				pending
-prince-of-oud	Prince Of Oud		unisex		https://www.fragrantica.com/perfume/Givago/Prince-Of-Oud-77126.html				pending
-revera	Revera		unisex		https://www.fragrantica.com/perfume/Givago/Revera-77121.html				pending
-rimaaj	Rimaaj		unisex		https://www.fragrantica.com/perfume/Givago/Rimaaj-77120.html				pending
-secret	Secret		unisex		https://www.fragrantica.com/perfume/Givago/Secret-77118.html				pending
-signature	Signature		unisex		https://www.fragrantica.com/perfume/Givago/Signature-77125.html				pending
-soul-of-oud	Soul Of Oud		unisex		https://www.fragrantica.com/perfume/Givago/Soul-Of-Oud-77119.html				pending
-the-one	The One		unisex		https://www.fragrantica.com/perfume/Givago/The-One-77127.html				pending
-trendi	Trendi		unisex		https://www.fragrantica.com/perfume/Givago/Trendi-77116.html				pending
-wave	Wave		unisex		https://www.fragrantica.com/perfume/Givago/Wave-77115.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aqua	AQUA		unisex	https://www.fragrantica.com/perfume/Givago/AQUA-77114.html				pending
+blanche	BLANCHE		male	https://www.fragrantica.com/perfume/Givago/BLANCHE-77135.html				pending
+cairo	Cairo		unisex	https://www.fragrantica.com/perfume/Givago/Cairo-77124.html				pending
+la-vie-en-rose	LA VIE EN ROSE		female	https://www.fragrantica.com/perfume/Givago/LA-VIE-EN-ROSE-77138.html				pending
+moon-river	Moon River		unisex	https://www.fragrantica.com/perfume/Givago/Moon-River-77137.html				pending
+ocean	Ocean		unisex	https://www.fragrantica.com/perfume/Givago/Ocean-77122.html				pending
+oryx	Oryx		unisex	https://www.fragrantica.com/perfume/Givago/Oryx-77136.html				pending
+prince-of-oud	Prince Of Oud		unisex	https://www.fragrantica.com/perfume/Givago/Prince-Of-Oud-77126.html				pending
+revera	Revera		unisex	https://www.fragrantica.com/perfume/Givago/Revera-77121.html				pending
+rimaaj	Rimaaj		unisex	https://www.fragrantica.com/perfume/Givago/Rimaaj-77120.html				pending
+secret	Secret		unisex	https://www.fragrantica.com/perfume/Givago/Secret-77118.html				pending
+signature	Signature		unisex	https://www.fragrantica.com/perfume/Givago/Signature-77125.html				pending
+soul-of-oud	Soul Of Oud		unisex	https://www.fragrantica.com/perfume/Givago/Soul-Of-Oud-77119.html				pending
+the-one	The One		unisex	https://www.fragrantica.com/perfume/Givago/The-One-77127.html				pending
+trendi	Trendi		unisex	https://www.fragrantica.com/perfume/Givago/Trendi-77116.html				pending
+wave	Wave		unisex	https://www.fragrantica.com/perfume/Givago/Wave-77115.html				pending

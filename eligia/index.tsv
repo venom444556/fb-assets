@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blu-man	Blu Man		male		https://www.fragrantica.com/perfume/Eligia/Blu-Man-52962.html				pending
-cassis	Cassis		female		https://www.fragrantica.com/perfume/Eligia/Cassis-52877.html				pending
-charlize-woman	Charlize Woman		female		https://www.fragrantica.com/perfume/Eligia/Charlize-Woman-52883.html				pending
-ela-woman	Ela Woman		female		https://www.fragrantica.com/perfume/Eligia/Ela-Woman-52945.html				pending
-gea-man	Gea Man		male		https://www.fragrantica.com/perfume/Eligia/Gea-Man-52963.html				pending
-julietta-woman	Julietta Woman		female		https://www.fragrantica.com/perfume/Eligia/Julietta-Woman-52959.html				pending
-osmantus-woman	Osmantus Woman		female		https://www.fragrantica.com/perfume/Eligia/Osmantus-Woman-52960.html				pending
-silver-man	Silver Man		male		https://www.fragrantica.com/perfume/Eligia/Silver-Man-52964.html				pending
-turchese-woman	Turchese Woman		female		https://www.fragrantica.com/perfume/Eligia/Turchese-Woman-52961.html				pending
-unico-man	Unico Man		male		https://www.fragrantica.com/perfume/Eligia/Unico-Man-52965.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blu-man	Blu Man		male	https://www.fragrantica.com/perfume/Eligia/Blu-Man-52962.html				pending
+cassis	Cassis		female	https://www.fragrantica.com/perfume/Eligia/Cassis-52877.html				pending
+charlize-woman	Charlize Woman		female	https://www.fragrantica.com/perfume/Eligia/Charlize-Woman-52883.html				pending
+ela-woman	Ela Woman		female	https://www.fragrantica.com/perfume/Eligia/Ela-Woman-52945.html				pending
+gea-man	Gea Man		male	https://www.fragrantica.com/perfume/Eligia/Gea-Man-52963.html				pending
+julietta-woman	Julietta Woman		female	https://www.fragrantica.com/perfume/Eligia/Julietta-Woman-52959.html				pending
+osmantus-woman	Osmantus Woman		female	https://www.fragrantica.com/perfume/Eligia/Osmantus-Woman-52960.html				pending
+silver-man	Silver Man		male	https://www.fragrantica.com/perfume/Eligia/Silver-Man-52964.html				pending
+turchese-woman	Turchese Woman		female	https://www.fragrantica.com/perfume/Eligia/Turchese-Woman-52961.html				pending
+unico-man	Unico Man		male	https://www.fragrantica.com/perfume/Eligia/Unico-Man-52965.html				pending

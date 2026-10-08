@@ -1,27 +1,27 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1001	1001		unisex		https://www.fragrantica.com/perfume/Vertus/1001-31883.html				pending
-amber-elixir	Amber Elixir		unisex		https://www.fragrantica.com/perfume/Vertus/Amber-Elixir-31880.html				pending
-anka	ANKA		unisex		https://www.fragrantica.com/perfume/Vertus/ANKA-90473.html				pending
-auramber	Auramber		unisex		https://www.fragrantica.com/perfume/Vertus/Auramber-69905.html				pending
-bengal	Bengal		unisex		https://www.fragrantica.com/perfume/Vertus/Bengal-80553.html				pending
-bois-et-cuir	Bois et Cuir		unisex		https://www.fragrantica.com/perfume/Vertus/Bois-et-Cuir-31879.html				pending
-chaos	Chaos		unisex		https://www.fragrantica.com/perfume/Vertus/Chaos-69904.html				pending
-eau-de-cyan	Eau de Cyan		unisex		https://www.fragrantica.com/perfume/Vertus/Eau-de-Cyan-40554.html				pending
-fresh-orient	Fresh Orient		unisex		https://www.fragrantica.com/perfume/Vertus/Fresh-Orient-31886.html				pending
-monarch	Monarch		unisex		https://www.fragrantica.com/perfume/Vertus/Monarch-47924.html				pending
-narcosis	Narcos'is		unisex		https://www.fragrantica.com/perfume/Vertus/Narcos-is-47923.html				pending
-night-dose	Night Dose		unisex		https://www.fragrantica.com/perfume/Vertus/Night-Dose-31878.html				pending
-ombre	Ombre		unisex		https://www.fragrantica.com/perfume/Vertus/Ombre-40555.html				pending
-oriental-rose	Oriental Rose		unisex		https://www.fragrantica.com/perfume/Vertus/Oriental-Rose-31877.html				pending
-oud-noir	Oud Noir		unisex		https://www.fragrantica.com/perfume/Vertus/Oud-Noir-31887.html				pending
-rose-morocco	Rose Morocco		unisex		https://www.fragrantica.com/perfume/Vertus/Rose-Morocco-31881.html				pending
-rose-prive	Rose Prive		unisex		https://www.fragrantica.com/perfume/Vertus/Rose-Prive-31884.html				pending
-rouge-rebel	Rouge Rebel		unisex		https://www.fragrantica.com/perfume/Vertus/Rouge-Rebel-115178.html				pending
-royal-orris	Royal Orris		unisex		https://www.fragrantica.com/perfume/Vertus/Royal-Orris-47928.html				pending
-sole-patchouli	Sole Patchouli		unisex		https://www.fragrantica.com/perfume/Vertus/Sole-Patchouli-47929.html				pending
-serenade	Sérénade		unisex		https://www.fragrantica.com/perfume/Vertus/Serenade-102526.html				pending
-vanilla-oud	Vanilla Oud		unisex		https://www.fragrantica.com/perfume/Vertus/Vanilla-Oud-31885.html				pending
-xxiv-carat-gold	XXIV Carat Gold		unisex		https://www.fragrantica.com/perfume/Vertus/XXIV-Carat-Gold-31882.html				pending
-majeste	Majeste		unisex		https://www.fragrantica.com/perfume/Vertus/Majeste-47925.html				pending
-paradox	Paradox		unisex		https://www.fragrantica.com/perfume/Vertus/Paradox-47926.html				pending
-silhouette	Silhouette		unisex		https://www.fragrantica.com/perfume/Vertus/Silhouette-47927.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1001	1001		unisex	https://www.fragrantica.com/perfume/Vertus/1001-31883.html				pending
+amber-elixir	Amber Elixir		unisex	https://www.fragrantica.com/perfume/Vertus/Amber-Elixir-31880.html				pending
+anka	ANKA		unisex	https://www.fragrantica.com/perfume/Vertus/ANKA-90473.html				pending
+auramber	Auramber		unisex	https://www.fragrantica.com/perfume/Vertus/Auramber-69905.html				pending
+bengal	Bengal		unisex	https://www.fragrantica.com/perfume/Vertus/Bengal-80553.html				pending
+bois-et-cuir	Bois et Cuir		unisex	https://www.fragrantica.com/perfume/Vertus/Bois-et-Cuir-31879.html				pending
+chaos	Chaos		unisex	https://www.fragrantica.com/perfume/Vertus/Chaos-69904.html				pending
+eau-de-cyan	Eau de Cyan		unisex	https://www.fragrantica.com/perfume/Vertus/Eau-de-Cyan-40554.html				pending
+fresh-orient	Fresh Orient		unisex	https://www.fragrantica.com/perfume/Vertus/Fresh-Orient-31886.html				pending
+majeste	Majeste		unisex	https://www.fragrantica.com/perfume/Vertus/Majeste-47925.html				pending
+monarch	Monarch		unisex	https://www.fragrantica.com/perfume/Vertus/Monarch-47924.html				pending
+narcosis	Narcos'is		unisex	https://www.fragrantica.com/perfume/Vertus/Narcos-is-47923.html				pending
+night-dose	Night Dose		unisex	https://www.fragrantica.com/perfume/Vertus/Night-Dose-31878.html				pending
+ombre	Ombre		unisex	https://www.fragrantica.com/perfume/Vertus/Ombre-40555.html				pending
+oriental-rose	Oriental Rose		unisex	https://www.fragrantica.com/perfume/Vertus/Oriental-Rose-31877.html				pending
+oud-noir	Oud Noir		unisex	https://www.fragrantica.com/perfume/Vertus/Oud-Noir-31887.html				pending
+paradox	Paradox		unisex	https://www.fragrantica.com/perfume/Vertus/Paradox-47926.html				pending
+rose-morocco	Rose Morocco		unisex	https://www.fragrantica.com/perfume/Vertus/Rose-Morocco-31881.html				pending
+rose-prive	Rose Prive		unisex	https://www.fragrantica.com/perfume/Vertus/Rose-Prive-31884.html				pending
+rouge-rebel	Rouge Rebel		unisex	https://www.fragrantica.com/perfume/Vertus/Rouge-Rebel-115178.html				pending
+royal-orris	Royal Orris		unisex	https://www.fragrantica.com/perfume/Vertus/Royal-Orris-47928.html				pending
+silhouette	Silhouette		unisex	https://www.fragrantica.com/perfume/Vertus/Silhouette-47927.html				pending
+sole-patchouli	Sole Patchouli		unisex	https://www.fragrantica.com/perfume/Vertus/Sole-Patchouli-47929.html				pending
+serenade	Sérénade		unisex	https://www.fragrantica.com/perfume/Vertus/Serenade-102526.html				pending
+vanilla-oud	Vanilla Oud		unisex	https://www.fragrantica.com/perfume/Vertus/Vanilla-Oud-31885.html				pending
+xxiv-carat-gold	XXIV Carat Gold		unisex	https://www.fragrantica.com/perfume/Vertus/XXIV-Carat-Gold-31882.html				pending

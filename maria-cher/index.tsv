@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-dieciocho	Dieciocho		female		https://www.fragrantica.com/perfume/MARIA-CHER/Dieciocho-87444.html				pending
-iris	Iris		female		https://www.fragrantica.com/perfume/MARIA-CHER/Iris-87441.html				pending
-onyx	Onyx		female		https://www.fragrantica.com/perfume/MARIA-CHER/Onyx-87439.html				pending
-onyx-elixir	Onyx Elixir		female		https://www.fragrantica.com/perfume/MARIA-CHER/Onyx-Elixir-87440.html				pending
-zarci	Zarci		female		https://www.fragrantica.com/perfume/MARIA-CHER/Zarci-87442.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+dieciocho	Dieciocho		female	https://www.fragrantica.com/perfume/MARIA-CHER/Dieciocho-87444.html				pending
+iris	Iris		female	https://www.fragrantica.com/perfume/MARIA-CHER/Iris-87441.html				pending
+onyx	Onyx		female	https://www.fragrantica.com/perfume/MARIA-CHER/Onyx-87439.html				pending
+onyx-elixir	Onyx Elixir		female	https://www.fragrantica.com/perfume/MARIA-CHER/Onyx-Elixir-87440.html				pending
+zarci	Zarci		female	https://www.fragrantica.com/perfume/MARIA-CHER/Zarci-87442.html				pending

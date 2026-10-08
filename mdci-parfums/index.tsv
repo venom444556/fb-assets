@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-topkapi	Ambre Topkapi		male		https://www.fragrantica.com/perfume/MDCI-Parfums/Ambre-Topkapi-5933.html				pending
-bleu-satin	Bleu Satin		male		https://www.fragrantica.com/perfume/MDCI-Parfums/Bleu-Satin-53665.html				pending
-chypre-palatin	Chypre Palatin		unisex		https://www.fragrantica.com/perfume/MDCI-Parfums/Chypre-Palatin-15130.html				pending
-cio-cio-san	Cio Cio San		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Cio-Cio-San-31016.html				pending
-cuir-cavalier	Cuir Cavalier		male		https://www.fragrantica.com/perfume/MDCI-Parfums/Cuir-Cavalier-53664.html				pending
-cuir-garamante	Cuir Garamante		male		https://www.fragrantica.com/perfume/MDCI-Parfums/Cuir-Garamante-21722.html				pending
-enlevement-au-serail	Enlevement au Serail		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Enlevement-au-Serail-5936.html				pending
-fetes-persanes	Fêtes Persanes		unisex		https://www.fragrantica.com/perfume/MDCI-Parfums/Fetes-Persanes-38085.html				pending
-invasion-barbare	Invasion Barbare		male		https://www.fragrantica.com/perfume/MDCI-Parfums/Invasion-Barbare-5937.html				pending
-lelegant	L'Elegant		male		https://www.fragrantica.com/perfume/MDCI-Parfums/L-Elegant-67518.html				pending
-la-belle-helene	La Belle Helene		female		https://www.fragrantica.com/perfume/MDCI-Parfums/La-Belle-Helene-11860.html				pending
-la-ravissante	La Ravissante		female		https://www.fragrantica.com/perfume/MDCI-Parfums/La-Ravissante-76996.html				pending
-la-surprise	La Surprise		female		https://www.fragrantica.com/perfume/MDCI-Parfums/La-Surprise-60467.html				pending
-le-barbier-de-tanger	Le Barbier de Tanger		male		https://www.fragrantica.com/perfume/MDCI-Parfums/Le-Barbier-de-Tanger-42413.html				pending
-le-rivage-des-syrtes	Le Rivage des Syrtes		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Le-Rivage-des-Syrtes-5929.html				pending
-les-indes-galantes	Les Indes Galantes		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Les-Indes-Galantes-33859.html				pending
-laimee	L’Aimée		female		https://www.fragrantica.com/perfume/MDCI-Parfums/L-Aimee-60468.html				pending
-lhomme-aux-gants	L’Homme Aux Gants		male		https://www.fragrantica.com/perfume/MDCI-Parfums/L-Homme-Aux-Gants-53663.html				pending
-nuit-andalouse	Nuit Andalouse		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Nuit-Andalouse-21723.html				pending
-peche-cardinal	Peche Cardinal		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Peche-Cardinal-5932.html				pending
-promesse-de-laube	Promesse de l'Aube		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Promesse-de-l-Aube-5934.html				pending
-rose-de-siwa	Rose de Siwa		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Rose-de-Siwa-5935.html				pending
-un-coeur-en-mai	Un Coeur en Mai		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Un-Coeur-en-Mai-5931.html				pending
-vepres-siciliennes	Vepres Siciliennes		female		https://www.fragrantica.com/perfume/MDCI-Parfums/Vepres-Siciliennes-5930.html				pending
-vetyver-messager	Vétyver Messager		male		https://www.fragrantica.com/perfume/MDCI-Parfums/Vetyver-Messager-129457.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-topkapi	Ambre Topkapi		male	https://www.fragrantica.com/perfume/MDCI-Parfums/Ambre-Topkapi-5933.html				pending
+bleu-satin	Bleu Satin		male	https://www.fragrantica.com/perfume/MDCI-Parfums/Bleu-Satin-53665.html				pending
+chypre-palatin	Chypre Palatin		unisex	https://www.fragrantica.com/perfume/MDCI-Parfums/Chypre-Palatin-15130.html				pending
+cio-cio-san	Cio Cio San		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Cio-Cio-San-31016.html				pending
+cuir-cavalier	Cuir Cavalier		male	https://www.fragrantica.com/perfume/MDCI-Parfums/Cuir-Cavalier-53664.html				pending
+cuir-garamante	Cuir Garamante		male	https://www.fragrantica.com/perfume/MDCI-Parfums/Cuir-Garamante-21722.html				pending
+enlevement-au-serail	Enlevement au Serail		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Enlevement-au-Serail-5936.html				pending
+fetes-persanes	Fêtes Persanes		unisex	https://www.fragrantica.com/perfume/MDCI-Parfums/Fetes-Persanes-38085.html				pending
+invasion-barbare	Invasion Barbare		male	https://www.fragrantica.com/perfume/MDCI-Parfums/Invasion-Barbare-5937.html				pending
+lelegant	L'Elegant		male	https://www.fragrantica.com/perfume/MDCI-Parfums/L-Elegant-67518.html				pending
+la-belle-helene	La Belle Helene		female	https://www.fragrantica.com/perfume/MDCI-Parfums/La-Belle-Helene-11860.html				pending
+la-ravissante	La Ravissante		female	https://www.fragrantica.com/perfume/MDCI-Parfums/La-Ravissante-76996.html				pending
+la-surprise	La Surprise		female	https://www.fragrantica.com/perfume/MDCI-Parfums/La-Surprise-60467.html				pending
+le-barbier-de-tanger	Le Barbier de Tanger		male	https://www.fragrantica.com/perfume/MDCI-Parfums/Le-Barbier-de-Tanger-42413.html				pending
+le-rivage-des-syrtes	Le Rivage des Syrtes		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Le-Rivage-des-Syrtes-5929.html				pending
+les-indes-galantes	Les Indes Galantes		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Les-Indes-Galantes-33859.html				pending
+laimee	L’Aimée		female	https://www.fragrantica.com/perfume/MDCI-Parfums/L-Aimee-60468.html				pending
+lhomme-aux-gants	L’Homme Aux Gants		male	https://www.fragrantica.com/perfume/MDCI-Parfums/L-Homme-Aux-Gants-53663.html				pending
+nuit-andalouse	Nuit Andalouse		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Nuit-Andalouse-21723.html				pending
+peche-cardinal	Peche Cardinal		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Peche-Cardinal-5932.html				pending
+promesse-de-laube	Promesse de l'Aube		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Promesse-de-l-Aube-5934.html				pending
+rose-de-siwa	Rose de Siwa		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Rose-de-Siwa-5935.html				pending
+un-coeur-en-mai	Un Coeur en Mai		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Un-Coeur-en-Mai-5931.html				pending
+vepres-siciliennes	Vepres Siciliennes		female	https://www.fragrantica.com/perfume/MDCI-Parfums/Vepres-Siciliennes-5930.html				pending
+vetyver-messager	Vétyver Messager		male	https://www.fragrantica.com/perfume/MDCI-Parfums/Vetyver-Messager-129457.html				pending

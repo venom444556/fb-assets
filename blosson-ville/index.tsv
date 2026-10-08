@@ -1,35 +1,35 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-agnes	Agnes		female		https://www.fragrantica.com/perfume/Blosson-Ville/Agnes-72201.html				pending
-blosson-baby	Blosson Baby		unisex		https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Baby-72206.html				pending
-blosson-kids	Blosson Kids		unisex		https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-72191.html				pending
-blosson-kids-adore	Blosson Kids Adorê		unisex		https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Adore-72195.html				pending
-blosson-kids-doce-mimo	Blosson Kids Doce Mimo		unisex		https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Doce-Mimo-72196.html				pending
-blosson-kids-fofucha	Blosson Kids Fofucha		unisex		https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Fofucha-72193.html				pending
-blosson-kids-fresh	Blosson Kids Fresh		unisex		https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Fresh-72192.html				pending
-blosson-kids-soft	Blosson Kids Soft		unisex		https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Soft-72194.html				pending
-blosson-linna	Blosson Linna		female		https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Linna-73850.html				pending
-blosson-tinny	Blosson Tinny		female		https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Tinny-72207.html				pending
-blue-crystal	Blue Crystal		female		https://www.fragrantica.com/perfume/Blosson-Ville/Blue-Crystal-72198.html				pending
-feminy	Feminy		female		https://www.fragrantica.com/perfume/Blosson-Ville/Feminy-72208.html				pending
-fetichy	Fetichy		female		https://www.fragrantica.com/perfume/Blosson-Ville/Fetichy-72210.html				pending
-florage	Florage		female		https://www.fragrantica.com/perfume/Blosson-Ville/Florage-72209.html				pending
-imperium	Imperium		male		https://www.fragrantica.com/perfume/Blosson-Ville/Imperium-73851.html				pending
-kian	Kian		male		https://www.fragrantica.com/perfume/Blosson-Ville/Kian-72199.html				pending
-korum	Kórum		male		https://www.fragrantica.com/perfume/Blosson-Ville/Korum-73848.html				pending
-lara	Lara		female		https://www.fragrantica.com/perfume/Blosson-Ville/Lara-72211.html				pending
-laville	Laville		female		https://www.fragrantica.com/perfume/Blosson-Ville/Laville-72205.html				pending
-lydian	Lydian		female		https://www.fragrantica.com/perfume/Blosson-Ville/Lydian-72212.html				pending
-mariny-summer	Mariny Summer		female		https://www.fragrantica.com/perfume/Blosson-Ville/Mariny-Summer-72202.html				pending
-mr-1	Mr. 1		male		https://www.fragrantica.com/perfume/Blosson-Ville/Mr-1-72204.html				pending
-nexxos	Nexxos		male		https://www.fragrantica.com/perfume/Blosson-Ville/Nexxos-73849.html				pending
-saurus	Saurus		male		https://www.fragrantica.com/perfume/Blosson-Ville/Saurus-72200.html				pending
-teens-star	Teens Star		female		https://www.fragrantica.com/perfume/Blosson-Ville/Teens-Star-72197.html				pending
-versos-de-alegria	Versos de Alegria		female		https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Alegria-72190.html				pending
-versos-de-amor	Versos de Amor		female		https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Amor-72188.html				pending
-versos-de-diversao	Versos de Diversão		female		https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Diversao-72189.html				pending
-versos-de-encanto	Versos de Encanto		female		https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Encanto-72185.html				pending
-versos-de-fantasia	Versos de Fantasia		female		https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Fantasia-72187.html				pending
-versos-de-magia	Versos de Magia		female		https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Magia-72186.html				pending
-versos-de-melodia	Versos de Melodia		female		https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Melodia-72184.html				pending
-versos-de-sonhos	Versos de Sonhos		female		https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Sonhos-72183.html				pending
-zora-blu-sport	Zora Blu Sport		male		https://www.fragrantica.com/perfume/Blosson-Ville/Zora-Blu-Sport-72203.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+agnes	Agnes		female	https://www.fragrantica.com/perfume/Blosson-Ville/Agnes-72201.html				pending
+blosson-baby	Blosson Baby		unisex	https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Baby-72206.html				pending
+blosson-kids	Blosson Kids		unisex	https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-72191.html				pending
+blosson-kids-adore	Blosson Kids Adorê		unisex	https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Adore-72195.html				pending
+blosson-kids-doce-mimo	Blosson Kids Doce Mimo		unisex	https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Doce-Mimo-72196.html				pending
+blosson-kids-fofucha	Blosson Kids Fofucha		unisex	https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Fofucha-72193.html				pending
+blosson-kids-fresh	Blosson Kids Fresh		unisex	https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Fresh-72192.html				pending
+blosson-kids-soft	Blosson Kids Soft		unisex	https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Kids-Soft-72194.html				pending
+blosson-linna	Blosson Linna		female	https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Linna-73850.html				pending
+blosson-tinny	Blosson Tinny		female	https://www.fragrantica.com/perfume/Blosson-Ville/Blosson-Tinny-72207.html				pending
+blue-crystal	Blue Crystal		female	https://www.fragrantica.com/perfume/Blosson-Ville/Blue-Crystal-72198.html				pending
+feminy	Feminy		female	https://www.fragrantica.com/perfume/Blosson-Ville/Feminy-72208.html				pending
+fetichy	Fetichy		female	https://www.fragrantica.com/perfume/Blosson-Ville/Fetichy-72210.html				pending
+florage	Florage		female	https://www.fragrantica.com/perfume/Blosson-Ville/Florage-72209.html				pending
+imperium	Imperium		male	https://www.fragrantica.com/perfume/Blosson-Ville/Imperium-73851.html				pending
+kian	Kian		male	https://www.fragrantica.com/perfume/Blosson-Ville/Kian-72199.html				pending
+korum	Kórum		male	https://www.fragrantica.com/perfume/Blosson-Ville/Korum-73848.html				pending
+lara	Lara		female	https://www.fragrantica.com/perfume/Blosson-Ville/Lara-72211.html				pending
+laville	Laville		female	https://www.fragrantica.com/perfume/Blosson-Ville/Laville-72205.html				pending
+lydian	Lydian		female	https://www.fragrantica.com/perfume/Blosson-Ville/Lydian-72212.html				pending
+mariny-summer	Mariny Summer		female	https://www.fragrantica.com/perfume/Blosson-Ville/Mariny-Summer-72202.html				pending
+mr-1	Mr. 1		male	https://www.fragrantica.com/perfume/Blosson-Ville/Mr-1-72204.html				pending
+nexxos	Nexxos		male	https://www.fragrantica.com/perfume/Blosson-Ville/Nexxos-73849.html				pending
+saurus	Saurus		male	https://www.fragrantica.com/perfume/Blosson-Ville/Saurus-72200.html				pending
+teens-star	Teens Star		female	https://www.fragrantica.com/perfume/Blosson-Ville/Teens-Star-72197.html				pending
+versos-de-alegria	Versos de Alegria		female	https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Alegria-72190.html				pending
+versos-de-amor	Versos de Amor		female	https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Amor-72188.html				pending
+versos-de-diversao	Versos de Diversão		female	https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Diversao-72189.html				pending
+versos-de-encanto	Versos de Encanto		female	https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Encanto-72185.html				pending
+versos-de-fantasia	Versos de Fantasia		female	https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Fantasia-72187.html				pending
+versos-de-magia	Versos de Magia		female	https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Magia-72186.html				pending
+versos-de-melodia	Versos de Melodia		female	https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Melodia-72184.html				pending
+versos-de-sonhos	Versos de Sonhos		female	https://www.fragrantica.com/perfume/Blosson-Ville/Versos-de-Sonhos-72183.html				pending
+zora-blu-sport	Zora Blu Sport		male	https://www.fragrantica.com/perfume/Blosson-Ville/Zora-Blu-Sport-72203.html				pending

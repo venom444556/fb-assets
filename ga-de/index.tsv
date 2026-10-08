@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-icon-black	Icon Black		male		https://www.fragrantica.com/perfume/Ga-De/Icon-Black-38632.html				pending
-icon-candice	Icon Candice		female		https://www.fragrantica.com/perfume/Ga-De/Icon-Candice-46555.html				pending
-icon-explorer	Icon Explorer		male		https://www.fragrantica.com/perfume/Ga-De/Icon-Explorer-38624.html				pending
-icon-instinct	Icon Instinct		female		https://www.fragrantica.com/perfume/Ga-De/Icon-Instinct-38630.html				pending
-icon-jewel	Icon Jewel		female		https://www.fragrantica.com/perfume/Ga-De/Icon-Jewel-38628.html				pending
-icon-man	Icon Man		male		https://www.fragrantica.com/perfume/Ga-De/Icon-Man-38633.html				pending
-icon-musk-oil	Icon Musk Oil		female		https://www.fragrantica.com/perfume/Ga-De/Icon-Musk-Oil-38631.html				pending
-icon-musk-oil-gold	Icon Musk Oil Gold		female		https://www.fragrantica.com/perfume/Ga-De/Icon-Musk-Oil-Gold-38626.html				pending
-icon-pearl	Icon Pearl		female		https://www.fragrantica.com/perfume/Ga-De/Icon-Pearl-38627.html				pending
-icon-roses	Icon Roses		female		https://www.fragrantica.com/perfume/Ga-De/Icon-Roses-38629.html				pending
-icon-vanilla-black	Icon Vanilla Black		female		https://www.fragrantica.com/perfume/Ga-De/Icon-Vanilla-Black-38625.html				pending
-vertigo-milano	Vertigo Milano		male		https://www.fragrantica.com/perfume/Ga-De/Vertigo-Milano-38634.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+icon-black	Icon Black		male	https://www.fragrantica.com/perfume/Ga-De/Icon-Black-38632.html				pending
+icon-candice	Icon Candice		female	https://www.fragrantica.com/perfume/Ga-De/Icon-Candice-46555.html				pending
+icon-explorer	Icon Explorer		male	https://www.fragrantica.com/perfume/Ga-De/Icon-Explorer-38624.html				pending
+icon-instinct	Icon Instinct		female	https://www.fragrantica.com/perfume/Ga-De/Icon-Instinct-38630.html				pending
+icon-jewel	Icon Jewel		female	https://www.fragrantica.com/perfume/Ga-De/Icon-Jewel-38628.html				pending
+icon-man	Icon Man		male	https://www.fragrantica.com/perfume/Ga-De/Icon-Man-38633.html				pending
+icon-musk-oil	Icon Musk Oil		female	https://www.fragrantica.com/perfume/Ga-De/Icon-Musk-Oil-38631.html				pending
+icon-musk-oil-gold	Icon Musk Oil Gold		female	https://www.fragrantica.com/perfume/Ga-De/Icon-Musk-Oil-Gold-38626.html				pending
+icon-pearl	Icon Pearl		female	https://www.fragrantica.com/perfume/Ga-De/Icon-Pearl-38627.html				pending
+icon-roses	Icon Roses		female	https://www.fragrantica.com/perfume/Ga-De/Icon-Roses-38629.html				pending
+icon-vanilla-black	Icon Vanilla Black		female	https://www.fragrantica.com/perfume/Ga-De/Icon-Vanilla-Black-38625.html				pending
+vertigo-milano	Vertigo Milano		male	https://www.fragrantica.com/perfume/Ga-De/Vertigo-Milano-38634.html				pending

@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-angelique-santal	Angelique Santal		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Angelique-Santal-35991.html				pending
-aoud-black-iv	Aoud Black IV		unisex		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Black-IV-35928.html				pending
-aoud-bronze	Aoud Bronze		unisex		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Bronze-36231.html				pending
-aoud-de-nuit	Aoud de Nuit		unisex		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-de-Nuit-35940.html				pending
-aoud-gold	Aoud Gold		unisex		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Gold-36232.html				pending
-aoud-no-1	Aoud No 1		unisex		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-No-1-36012.html				pending
-aoud-no-2	Aoud No 2		male		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-No-2-36008.html				pending
-aoud-no-3	Aoud No 3		male		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-No-3-36007.html				pending
-aoud-no-4	Aoud No 4		unisex		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-No-4-35993.html				pending
-aoud-red-i	Aoud Red I		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Red-I-35929.html				pending
-aoud-rose	Aoud Rose		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Rose-35992.html				pending
-clair-de-lune	Clair de Lune		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Clair-de-Lune-35989.html				pending
-donna	Donna		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Donna-36259.html				pending
-fleur-de-cassis	Fleur de Cassis		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Fleur-de-Cassis-36002.html				pending
-gentleman	Gentleman		male		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Gentleman-36229.html				pending
-gravier	Gravier		male		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Gravier-36230.html				pending
-hawaii-pour-femme	Hawaii Pour Femme		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Hawaii-Pour-Femme-36257.html				pending
-hawaii-pour-homme	Hawaii Pour Homme		male		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Hawaii-Pour-Homme-36258.html				pending
-konig-ludwig	Konig Ludwig		male		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Konig-Ludwig-36227.html				pending
-korall-sommer-edition	Korall Sommer Edition		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Korall-Sommer-Edition-36003.html				pending
-lor-de-vanille	L'Or de Vanille		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/L-Or-de-Vanille-36005.html				pending
-muscade-argent	Muscade Argent		male		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Muscade-Argent-36226.html				pending
-pour-homme	Pour Homme		male		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Pour-Homme-36228.html				pending
-prune-dor	Prune d'Or		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Prune-d-Or-36006.html				pending
-royal-collection-aqaba	Royal Collection Aqaba		unisex		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Royal-Collection-Aqaba-35939.html				pending
-royal-collection-taif	Royal Collection Taif		male		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Royal-Collection-Taif-35930.html				pending
-santal-feminin	Santal Feminin		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Santal-Feminin-35990.html				pending
-voile-de-peau	Voile de Peau		female		https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Voile-de-Peau-36256.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+angelique-santal	Angelique Santal		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Angelique-Santal-35991.html				pending
+aoud-black-iv	Aoud Black IV		unisex	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Black-IV-35928.html				pending
+aoud-bronze	Aoud Bronze		unisex	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Bronze-36231.html				pending
+aoud-de-nuit	Aoud de Nuit		unisex	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-de-Nuit-35940.html				pending
+aoud-gold	Aoud Gold		unisex	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Gold-36232.html				pending
+aoud-no-1	Aoud No 1		unisex	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-No-1-36012.html				pending
+aoud-no-2	Aoud No 2		male	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-No-2-36008.html				pending
+aoud-no-3	Aoud No 3		male	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-No-3-36007.html				pending
+aoud-no-4	Aoud No 4		unisex	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-No-4-35993.html				pending
+aoud-red-i	Aoud Red I		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Red-I-35929.html				pending
+aoud-rose	Aoud Rose		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Aoud-Rose-35992.html				pending
+clair-de-lune	Clair de Lune		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Clair-de-Lune-35989.html				pending
+donna	Donna		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Donna-36259.html				pending
+fleur-de-cassis	Fleur de Cassis		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Fleur-de-Cassis-36002.html				pending
+gentleman	Gentleman		male	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Gentleman-36229.html				pending
+gravier	Gravier		male	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Gravier-36230.html				pending
+hawaii-pour-femme	Hawaii Pour Femme		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Hawaii-Pour-Femme-36257.html				pending
+hawaii-pour-homme	Hawaii Pour Homme		male	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Hawaii-Pour-Homme-36258.html				pending
+konig-ludwig	Konig Ludwig		male	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Konig-Ludwig-36227.html				pending
+korall-sommer-edition	Korall Sommer Edition		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Korall-Sommer-Edition-36003.html				pending
+lor-de-vanille	L'Or de Vanille		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/L-Or-de-Vanille-36005.html				pending
+muscade-argent	Muscade Argent		male	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Muscade-Argent-36226.html				pending
+pour-homme	Pour Homme		male	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Pour-Homme-36228.html				pending
+prune-dor	Prune d'Or		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Prune-d-Or-36006.html				pending
+royal-collection-aqaba	Royal Collection Aqaba		unisex	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Royal-Collection-Aqaba-35939.html				pending
+royal-collection-taif	Royal Collection Taif		male	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Royal-Collection-Taif-35930.html				pending
+santal-feminin	Santal Feminin		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Santal-Feminin-35990.html				pending
+voile-de-peau	Voile de Peau		female	https://www.fragrantica.com/perfume/Parfumerie-Bruckner/Voile-de-Peau-36256.html				pending

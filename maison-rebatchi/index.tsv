@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-blanc	Ambre Blanc		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Ambre-Blanc-69498.html				pending
-bois-denfant	Bois d'Enfant		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Bois-d-Enfant-51513.html				pending
-cuir-tassili	Cuir Tassili		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Cuir-Tassili-54754.html				pending
-feu-patchouli	Feu Patchouli		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Feu-Patchouli-51512.html				pending
-jasmin-satin	Jasmin Satin		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Jasmin-Satin-57015.html				pending
-joyeux-osmanthe	Joyeux Osmanthe		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Joyeux-Osmanthe-51510.html				pending
-musc-panache	Musc Panache		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Musc-Panache-54864.html				pending
-rose-rebatchi	Rose Rebatchi		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Rose-Rebatchi-51511.html				pending
-rougewood	Rougewood		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Rougewood-79851.html				pending
-vanille-riviera	Vanille Riviera		unisex		https://www.fragrantica.com/perfume/Maison-Rebatchi/Vanille-Riviera-79850.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-blanc	Ambre Blanc		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Ambre-Blanc-69498.html				pending
+bois-denfant	Bois d'Enfant		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Bois-d-Enfant-51513.html				pending
+cuir-tassili	Cuir Tassili		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Cuir-Tassili-54754.html				pending
+feu-patchouli	Feu Patchouli		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Feu-Patchouli-51512.html				pending
+jasmin-satin	Jasmin Satin		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Jasmin-Satin-57015.html				pending
+joyeux-osmanthe	Joyeux Osmanthe		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Joyeux-Osmanthe-51510.html				pending
+musc-panache	Musc Panache		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Musc-Panache-54864.html				pending
+rose-rebatchi	Rose Rebatchi		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Rose-Rebatchi-51511.html				pending
+rougewood	Rougewood		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Rougewood-79851.html				pending
+vanille-riviera	Vanille Riviera		unisex	https://www.fragrantica.com/perfume/Maison-Rebatchi/Vanille-Riviera-79850.html				pending

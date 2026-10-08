@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-baptisma	Baptisma		unisex		https://www.fragrantica.com/perfume/Chapel-Factory/Baptisma-63966.html				pending
-heresy	Heresy		unisex		https://www.fragrantica.com/perfume/Chapel-Factory/Heresy-63967.html				pending
-hermit-coat	Hermit Coat		unisex		https://www.fragrantica.com/perfume/Chapel-Factory/Hermit-Coat-71947.html				pending
-holy-stick	Holy Stick		unisex		https://www.fragrantica.com/perfume/Chapel-Factory/Holy-Stick-63968.html				pending
-idolatry	Idolatry		unisex		https://www.fragrantica.com/perfume/Chapel-Factory/Idolatry-111816.html				pending
-leau-depine	L'eau d'Epine		unisex		https://www.fragrantica.com/perfume/Chapel-Factory/L-eau-d-Epine-87593.html				pending
-oud-pagode	Oud Pagode		unisex		https://www.fragrantica.com/perfume/Chapel-Factory/Oud-Pagode-87594.html				pending
-pilgrim	Pilgrim		unisex		https://www.fragrantica.com/perfume/Chapel-Factory/Pilgrim-116937.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+baptisma	Baptisma		unisex	https://www.fragrantica.com/perfume/Chapel-Factory/Baptisma-63966.html				pending
+heresy	Heresy		unisex	https://www.fragrantica.com/perfume/Chapel-Factory/Heresy-63967.html				pending
+hermit-coat	Hermit Coat		unisex	https://www.fragrantica.com/perfume/Chapel-Factory/Hermit-Coat-71947.html				pending
+holy-stick	Holy Stick		unisex	https://www.fragrantica.com/perfume/Chapel-Factory/Holy-Stick-63968.html				pending
+idolatry	Idolatry		unisex	https://www.fragrantica.com/perfume/Chapel-Factory/Idolatry-111816.html				pending
+leau-depine	L'eau d'Epine		unisex	https://www.fragrantica.com/perfume/Chapel-Factory/L-eau-d-Epine-87593.html				pending
+oud-pagode	Oud Pagode		unisex	https://www.fragrantica.com/perfume/Chapel-Factory/Oud-Pagode-87594.html				pending
+pilgrim	Pilgrim		unisex	https://www.fragrantica.com/perfume/Chapel-Factory/Pilgrim-116937.html				pending

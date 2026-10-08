@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-confidence	Confidence		female		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Confidence-11174.html				pending
-confidence-edt	Confidence EDT		male		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Confidence-EDT-11183.html				pending
-courage	Courage		female		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Courage-11173.html				pending
-courage-edt	Courage EDT		male		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Courage-EDT-11180.html				pending
-energy	Energy		female		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Energy-11175.html				pending
-energy-edt	Energy EDT		male		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Energy-EDT-11181.html				pending
-freedom	Freedom		female		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Freedom-11176.html				pending
-freedom-edt	Freedom EDT		male		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Freedom-EDT-11169.html				pending
-happiness	Happiness		female		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Happiness-11172.html				pending
-happiness-edt	Happiness EDT		male		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Happiness-EDT-11178.html				pending
-its-all-about-spa	It’s all about SPA		unisex		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/It-s-all-about-SPA-50598.html				pending
-love	Love		female		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Love-11168.html				pending
-love-edt	Love EDT		male		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Love-EDT-11179.html				pending
-serenity	Serenity		female		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Serenity-11171.html				pending
-serenity-edt	Serenity EDT		male		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Serenity-EDT-11182.html				pending
-surprise	Surprise		female		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Surprise-11177.html				pending
-surprise-edt	Surprise EDT		male		https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Surprise-EDT-11170.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+confidence	Confidence		female	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Confidence-11174.html				pending
+confidence-edt	Confidence EDT	Eau de Toilette	male	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Confidence-EDT-11183.html				pending
+courage	Courage		female	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Courage-11173.html				pending
+courage-edt	Courage EDT	Eau de Toilette	male	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Courage-EDT-11180.html				pending
+energy	Energy		female	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Energy-11175.html				pending
+energy-edt	Energy EDT	Eau de Toilette	male	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Energy-EDT-11181.html				pending
+freedom	Freedom		female	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Freedom-11176.html				pending
+freedom-edt	Freedom EDT	Eau de Toilette	male	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Freedom-EDT-11169.html				pending
+happiness	Happiness		female	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Happiness-11172.html				pending
+happiness-edt	Happiness EDT	Eau de Toilette	male	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Happiness-EDT-11178.html				pending
+its-all-about-spa	It’s all about SPA		unisex	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/It-s-all-about-SPA-50598.html				pending
+love	Love		female	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Love-11168.html				pending
+love-edt	Love EDT	Eau de Toilette	male	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Love-EDT-11179.html				pending
+serenity	Serenity		female	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Serenity-11171.html				pending
+serenity-edt	Serenity EDT	Eau de Toilette	male	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Serenity-EDT-11182.html				pending
+surprise	Surprise		female	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Surprise-11177.html				pending
+surprise-edt	Surprise EDT	Eau de Toilette	male	https://www.fragrantica.com/perfume/Foerster-and-Johnsen/Surprise-EDT-11170.html				pending

@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-baldinini-man	Baldinini Man		male		https://www.fragrantica.com/perfume/Baldinini/Baldinini-Man-4665.html				pending
-baldinini-parfum-glace	Baldinini Parfum Glace		female		https://www.fragrantica.com/perfume/Baldinini/Baldinini-Parfum-Glace-6716.html				pending
-or-noir	Or Noir		female		https://www.fragrantica.com/perfume/Baldinini/Or-Noir-10399.html				pending
-amber-straps	Amber Straps		unisex		https://www.fragrantica.com/perfume/Baldinini/Amber-Straps-41553.html				pending
-baldinini	Baldinini		female		https://www.fragrantica.com/perfume/Baldinini/Baldinini-3445.html				pending
-baldinini-de-nuit	Baldinini de Nuit		female		https://www.fragrantica.com/perfume/Baldinini/Baldinini-de-Nuit-3444.html				pending
-baldinini-for-man	Baldinini For Man		male		https://www.fragrantica.com/perfume/Baldinini/Baldinini-For-Man-28727.html				pending
-baldinini-for-woman	Baldinini For Woman		female		https://www.fragrantica.com/perfume/Baldinini/Baldinini-For-Woman-28726.html				pending
-blue-straps	Blue Straps		unisex		https://www.fragrantica.com/perfume/Baldinini/Blue-Straps-41554.html				pending
-emerald-straps	Emerald Straps		unisex		https://www.fragrantica.com/perfume/Baldinini/Emerald-Straps-41555.html				pending
-gimmy	Gimmy		male		https://www.fragrantica.com/perfume/Baldinini/Gimmy-38135.html				pending
-or-pur	Or Pur		female		https://www.fragrantica.com/perfume/Baldinini/Or-Pur-31108.html				pending
-pink-straps	Pink Straps		unisex		https://www.fragrantica.com/perfume/Baldinini/Pink-Straps-41556.html				pending
-yellow-straps	Yellow Straps		unisex		https://www.fragrantica.com/perfume/Baldinini/Yellow-Straps-41557.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-straps	Amber Straps		unisex	https://www.fragrantica.com/perfume/Baldinini/Amber-Straps-41553.html				pending
+baldinini	Baldinini		female	https://www.fragrantica.com/perfume/Baldinini/Baldinini-3445.html				pending
+baldinini-de-nuit	Baldinini de Nuit		female	https://www.fragrantica.com/perfume/Baldinini/Baldinini-de-Nuit-3444.html				pending
+baldinini-for-man	Baldinini For Man		male	https://www.fragrantica.com/perfume/Baldinini/Baldinini-For-Man-28727.html				pending
+baldinini-for-woman	Baldinini For Woman		female	https://www.fragrantica.com/perfume/Baldinini/Baldinini-For-Woman-28726.html				pending
+baldinini-man	Baldinini Man		male	https://www.fragrantica.com/perfume/Baldinini/Baldinini-Man-4665.html				pending
+baldinini-parfum-glace	Baldinini Parfum Glace		female	https://www.fragrantica.com/perfume/Baldinini/Baldinini-Parfum-Glace-6716.html				pending
+blue-straps	Blue Straps		unisex	https://www.fragrantica.com/perfume/Baldinini/Blue-Straps-41554.html				pending
+emerald-straps	Emerald Straps		unisex	https://www.fragrantica.com/perfume/Baldinini/Emerald-Straps-41555.html				pending
+gimmy	Gimmy		male	https://www.fragrantica.com/perfume/Baldinini/Gimmy-38135.html				pending
+or-noir	Or Noir		female	https://www.fragrantica.com/perfume/Baldinini/Or-Noir-10399.html				pending
+or-pur	Or Pur		female	https://www.fragrantica.com/perfume/Baldinini/Or-Pur-31108.html				pending
+pink-straps	Pink Straps		unisex	https://www.fragrantica.com/perfume/Baldinini/Pink-Straps-41556.html				pending
+yellow-straps	Yellow Straps		unisex	https://www.fragrantica.com/perfume/Baldinini/Yellow-Straps-41557.html				pending

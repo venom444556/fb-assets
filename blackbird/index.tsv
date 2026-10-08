@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-anemone	Anemone		unisex		https://www.fragrantica.com/perfume/Blackbird/Anemone-40349.html				pending
-broken-glass	Broken Glass		unisex		https://www.fragrantica.com/perfume/Blackbird/Broken-Glass-31398.html				pending
-death-by-cold-cave-and-blackbird	Death by Cold Cave & Blackbird		unisex		https://www.fragrantica.com/perfume/Blackbird/Death-by-Cold-Cave-Blackbird-56049.html				pending
-ophir	Ophir		unisex		https://www.fragrantica.com/perfume/Blackbird/Ophir-35821.html				pending
-pipe-bomb	Pipe Bomb		unisex		https://www.fragrantica.com/perfume/Blackbird/Pipe-Bomb-30935.html				pending
-pipe-bomb-intense	Pipe Bomb Intense		unisex		https://www.fragrantica.com/perfume/Blackbird/Pipe-Bomb-Intense-33057.html				pending
-pipe-bomb-pink	Pipe Bomb Pink		unisex		https://www.fragrantica.com/perfume/Blackbird/Pipe-Bomb-Pink-54716.html				pending
-targa	Targa		unisex		https://www.fragrantica.com/perfume/Blackbird/Targa-30895.html				pending
-triton	Triton		unisex		https://www.fragrantica.com/perfume/Blackbird/Triton-30897.html				pending
-universal-supreme	Universal Supreme		unisex		https://www.fragrantica.com/perfume/Blackbird/Universal-Supreme-55030.html				pending
-y06-s	Y06-S		unisex		https://www.fragrantica.com/perfume/Blackbird/Y06-S-47283.html				pending
-hallow	Hallow		unisex		https://www.fragrantica.com/perfume/Blackbird/Hallow-64554.html				pending
-hallow-30937	Hallow		unisex		https://www.fragrantica.com/perfume/Blackbird/Hallow-30937.html				pending
-hallow-v-2	Hallow V.2		unisex		https://www.fragrantica.com/perfume/Blackbird/Hallow-V-2-64308.html				pending
-iroko	Iroko		male		https://www.fragrantica.com/perfume/Blackbird/Iroko-30939.html				pending
-mizuchi	Mizuchi		unisex		https://www.fragrantica.com/perfume/Blackbird/Mizuchi-30940.html				pending
-moto-oud	Moto Oud		male		https://www.fragrantica.com/perfume/Blackbird/Moto-Oud-30938.html				pending
-pipe-bomb-blue	Pipe Bomb Blue		unisex		https://www.fragrantica.com/perfume/Blackbird/Pipe-Bomb-Blue-60963.html				pending
-the-wendol	The Wendol		male		https://www.fragrantica.com/perfume/Blackbird/The-Wendol-30936.html				pending
-tinderbox	Tinderbox		male		https://www.fragrantica.com/perfume/Blackbird/Tinderbox-30941.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+anemone	Anemone		unisex	https://www.fragrantica.com/perfume/Blackbird/Anemone-40349.html				pending
+broken-glass	Broken Glass		unisex	https://www.fragrantica.com/perfume/Blackbird/Broken-Glass-31398.html				pending
+death-by-cold-cave-and-blackbird	Death by Cold Cave & Blackbird		unisex	https://www.fragrantica.com/perfume/Blackbird/Death-by-Cold-Cave-Blackbird-56049.html				pending
+hallow	Hallow		unisex	https://www.fragrantica.com/perfume/Blackbird/Hallow-64554.html				pending
+hallow-30937	Hallow		unisex	https://www.fragrantica.com/perfume/Blackbird/Hallow-30937.html				pending
+hallow-v-2	Hallow V.2		unisex	https://www.fragrantica.com/perfume/Blackbird/Hallow-V-2-64308.html				pending
+iroko	Iroko		male	https://www.fragrantica.com/perfume/Blackbird/Iroko-30939.html				pending
+mizuchi	Mizuchi		unisex	https://www.fragrantica.com/perfume/Blackbird/Mizuchi-30940.html				pending
+moto-oud	Moto Oud		male	https://www.fragrantica.com/perfume/Blackbird/Moto-Oud-30938.html				pending
+ophir	Ophir		unisex	https://www.fragrantica.com/perfume/Blackbird/Ophir-35821.html				pending
+pipe-bomb	Pipe Bomb		unisex	https://www.fragrantica.com/perfume/Blackbird/Pipe-Bomb-30935.html				pending
+pipe-bomb-blue	Pipe Bomb Blue		unisex	https://www.fragrantica.com/perfume/Blackbird/Pipe-Bomb-Blue-60963.html				pending
+pipe-bomb-intense	Pipe Bomb Intense		unisex	https://www.fragrantica.com/perfume/Blackbird/Pipe-Bomb-Intense-33057.html				pending
+pipe-bomb-pink	Pipe Bomb Pink		unisex	https://www.fragrantica.com/perfume/Blackbird/Pipe-Bomb-Pink-54716.html				pending
+targa	Targa		unisex	https://www.fragrantica.com/perfume/Blackbird/Targa-30895.html				pending
+the-wendol	The Wendol		male	https://www.fragrantica.com/perfume/Blackbird/The-Wendol-30936.html				pending
+tinderbox	Tinderbox		male	https://www.fragrantica.com/perfume/Blackbird/Tinderbox-30941.html				pending
+triton	Triton		unisex	https://www.fragrantica.com/perfume/Blackbird/Triton-30897.html				pending
+universal-supreme	Universal Supreme		unisex	https://www.fragrantica.com/perfume/Blackbird/Universal-Supreme-55030.html				pending
+y06-s	Y06-S		unisex	https://www.fragrantica.com/perfume/Blackbird/Y06-S-47283.html				pending

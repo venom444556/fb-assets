@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-chill-af	Chill AF		female		https://www.fragrantica.com/perfume/Addison-Rae/Chill-AF-81921.html				pending
-happy-af	Happy AF		female		https://www.fragrantica.com/perfume/Addison-Rae/Happy-AF-81922.html				pending
-hyped-af	Hyped AF		female		https://www.fragrantica.com/perfume/Addison-Rae/Hyped-AF-81920.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+chill-af	Chill AF		female	https://www.fragrantica.com/perfume/Addison-Rae/Chill-AF-81921.html				pending
+happy-af	Happy AF		female	https://www.fragrantica.com/perfume/Addison-Rae/Happy-AF-81922.html				pending
+hyped-af	Hyped AF		female	https://www.fragrantica.com/perfume/Addison-Rae/Hyped-AF-81920.html				pending

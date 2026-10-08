@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-du-reve	Ambre Du Reve		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Ambre-Du-Reve-59416.html				pending
-caprice-de-jeanne	Caprice de Jeanne		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-de-Jeanne-90135.html				pending
-caprice-de-julie	Caprice de Julie		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-de-Julie-77328.html				pending
-caprice-de-marie	Caprice De Marie		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-De-Marie-70499.html				pending
-caprice-de-sophie	Caprice De Sophie		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-De-Sophie-49428.html				pending
-cedre-noble	Cedre Noble		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Cedre-Noble-59413.html				pending
-ile-mythique	Ile Mythique		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Ile-Mythique-52396.html				pending
-la-nuit-danse	La Nuit Danse		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/La-Nuit-Danse-59415.html				pending
-lait-concentre	Lait Concentré		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lait-Concentre-30551.html				pending
-lait-et-chocolat	Lait et Chocolat		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lait-et-Chocolat-44231.html				pending
-lumiere-de-venise	Lumière de Venise		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lumiere-de-Venise-37899.html				pending
-mon-tiramisu	Mon Tiramisù		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Mon-Tiramisu-98504.html				pending
-nectar-de-fleurs	Nectar de Fleurs		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Nectar-de-Fleurs-37386.html				pending
-orangerie-musicale	Orangerie Musicale		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Orangerie-Musicale-52395.html				pending
-patchouli-1973	Patchouli 1973		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Patchouli-1973-59414.html				pending
-rose-orage	Rose Orage		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Rose-Orage-52394.html				pending
-chic-et-boheme	Chic et Bohème		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Chic-et-Boheme-23548.html				pending
-eau-ambree	Eau Ambrée		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Eau-Ambree-23545.html				pending
-eau-de-source	Eau de Source		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Eau-de-Source-37898.html				pending
-etoile-de-lune	Etoile de Lune		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Etoile-de-Lune-23547.html				pending
-fleur-de-figuier	Fleur de Figuier		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Fleur-de-Figuier-23550.html				pending
-innocente-fragilite	Innocente Fragilité		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Innocente-Fragilite-23543.html				pending
-lait-de-biscuit	Lait de Biscuit		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lait-de-Biscuit-23552.html				pending
-lait-de-vanille	Lait de Vanille		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lait-de-Vanille-33556.html				pending
-mysterious-oud	Mysterious Oud		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Mysterious-Oud-23544.html				pending
-patchouli-1973-73091	Patchouli 1973		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Patchouli-1973-73091.html				pending
-vert-deau	Vert d'Eau		unisex		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Vert-d-Eau-23549.html				pending
-vintage	Vintage		female		https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Vintage-23546.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-du-reve	Ambre Du Reve		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Ambre-Du-Reve-59416.html				pending
+caprice-de-jeanne	Caprice de Jeanne		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-de-Jeanne-90135.html				pending
+caprice-de-julie	Caprice de Julie		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-de-Julie-77328.html				pending
+caprice-de-marie	Caprice De Marie		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-De-Marie-70499.html				pending
+caprice-de-sophie	Caprice De Sophie		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-De-Sophie-49428.html				pending
+cedre-noble	Cedre Noble		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Cedre-Noble-59413.html				pending
+chic-et-boheme	Chic et Bohème		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Chic-et-Boheme-23548.html				pending
+eau-ambree	Eau Ambrée		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Eau-Ambree-23545.html				pending
+eau-de-source	Eau de Source		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Eau-de-Source-37898.html				pending
+etoile-de-lune	Etoile de Lune		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Etoile-de-Lune-23547.html				pending
+fleur-de-figuier	Fleur de Figuier		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Fleur-de-Figuier-23550.html				pending
+ile-mythique	Ile Mythique		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Ile-Mythique-52396.html				pending
+innocente-fragilite	Innocente Fragilité		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Innocente-Fragilite-23543.html				pending
+la-nuit-danse	La Nuit Danse		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/La-Nuit-Danse-59415.html				pending
+lait-concentre	Lait Concentré		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lait-Concentre-30551.html				pending
+lait-de-biscuit	Lait de Biscuit		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lait-de-Biscuit-23552.html				pending
+lait-de-vanille	Lait de Vanille		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lait-de-Vanille-33556.html				pending
+lait-et-chocolat	Lait et Chocolat		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lait-et-Chocolat-44231.html				pending
+lumiere-de-venise	Lumière de Venise		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Lumiere-de-Venise-37899.html				pending
+mon-tiramisu	Mon Tiramisù		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Mon-Tiramisu-98504.html				pending
+mysterious-oud	Mysterious Oud		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Mysterious-Oud-23544.html				pending
+nectar-de-fleurs	Nectar de Fleurs		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Nectar-de-Fleurs-37386.html				pending
+orangerie-musicale	Orangerie Musicale		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Orangerie-Musicale-52395.html				pending
+patchouli-1973	Patchouli 1973		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Patchouli-1973-59414.html				pending
+patchouli-1973-73091	Patchouli 1973		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Patchouli-1973-73091.html				pending
+rose-orage	Rose Orage		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Rose-Orage-52394.html				pending
+vert-deau	Vert d'Eau		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Vert-d-Eau-23549.html				pending
+vintage	Vintage		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Vintage-23546.html				pending

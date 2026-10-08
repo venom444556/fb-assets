@@ -1,36 +1,36 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-atlantis-homme	Atlantis Homme		unisex		https://www.fragrantica.com/perfume/Laverne/Atlantis-Homme-96069.html				pending
-blue-laverne	Blue Laverne		unisex		https://www.fragrantica.com/perfume/Laverne/Blue-Laverne-70363.html				pending
-blue-laverne-bakhur	Blue Laverne Bakhur		unisex		https://www.fragrantica.com/perfume/Laverne/Blue-Laverne-Bakhur-80315.html				pending
-blue-laverne-sport	Blue Laverne Sport		unisex		https://www.fragrantica.com/perfume/Laverne/Blue-Laverne-Sport-96071.html				pending
-champion	Champion		unisex		https://www.fragrantica.com/perfume/Laverne/Champion-96074.html				pending
-cuban-tobacco	Cuban Tobacco		unisex		https://www.fragrantica.com/perfume/Laverne/Cuban-Tobacco-70226.html				pending
-dare-7-00-am	Dare 7:00 AM		unisex		https://www.fragrantica.com/perfume/Laverne/Dare-7-00-AM-96075.html				pending
-fearless	Fearless		unisex		https://www.fragrantica.com/perfume/Laverne/Fearless-114181.html				pending
-i-was-here	I Was Here		unisex		https://www.fragrantica.com/perfume/Laverne/I-Was-Here-67350.html				pending
-king-tobacco	King Tobacco		unisex		https://www.fragrantica.com/perfume/Laverne/King-Tobacco-96078.html				pending
-lador-bakhur-classic	La'dor Bakhur Classic		unisex		https://www.fragrantica.com/perfume/Laverne/La-dor-Bakhur-Classic-96079.html				pending
-miss-laverne	Miss Laverne		female		https://www.fragrantica.com/perfume/Laverne/Miss-Laverne-80468.html				pending
-musk-garden	Musk Garden		unisex		https://www.fragrantica.com/perfume/Laverne/Musk-Garden-96061.html				pending
-phantom	Phantom		unisex		https://www.fragrantica.com/perfume/Laverne/Phantom-70107.html				pending
-sense	Sense		female		https://www.fragrantica.com/perfume/Laverne/Sense-102340.html				pending
-soir	Soir		unisex		https://www.fragrantica.com/perfume/Laverne/Soir-120107.html				pending
-tobacco	Tobacco		unisex		https://www.fragrantica.com/perfume/Laverne/Tobacco-67349.html				pending
-tyrant	Tyrant		unisex		https://www.fragrantica.com/perfume/Laverne/Tyrant-96068.html				pending
-92	92		unisex		https://www.fragrantica.com/perfume/Laverne/92-76340.html				pending
-allure	Allure		female		https://www.fragrantica.com/perfume/Laverne/Allure-80450.html				pending
-arabian-oud	Arabian Oud		unisex		https://www.fragrantica.com/perfume/Laverne/Arabian-Oud-70360.html				pending
-bianco	Bianco		unisex		https://www.fragrantica.com/perfume/Laverne/Bianco-67352.html				pending
-blanca	Blanca		female		https://www.fragrantica.com/perfume/Laverne/Blanca-80456.html				pending
-dark-amber	Dark Amber		unisex		https://www.fragrantica.com/perfume/Laverne/Dark-Amber-70362.html				pending
-forbidden	Forbidden		female		https://www.fragrantica.com/perfume/Laverne/Forbidden-80459.html				pending
-jah	Jah		unisex		https://www.fragrantica.com/perfume/Laverne/Jah-80453.html				pending
-lady-rose	Lady Rose		female		https://www.fragrantica.com/perfume/Laverne/Lady-Rose-70361.html				pending
-luminous	Luminous		unisex		https://www.fragrantica.com/perfume/Laverne/Luminous-67351.html				pending
-lysen	Lysen		unisex		https://www.fragrantica.com/perfume/Laverne/Lysen-80460.html				pending
-memory	Memory		unisex		https://www.fragrantica.com/perfume/Laverne/Memory-80451.html				pending
-musk-patchouli	Musk Patchouli		unisex		https://www.fragrantica.com/perfume/Laverne/Musk-Patchouli-70106.html				pending
-over-rose	Over Rose		female		https://www.fragrantica.com/perfume/Laverne/Over-Rose-72172.html				pending
-sahara	Sahara		unisex		https://www.fragrantica.com/perfume/Laverne/Sahara-80452.html				pending
-sapphire	Sapphire		female		https://www.fragrantica.com/perfume/Laverne/Sapphire-80457.html				pending
-tishreen	Tishreen		unisex		https://www.fragrantica.com/perfume/Laverne/Tishreen-67353.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+92	92		unisex	https://www.fragrantica.com/perfume/Laverne/92-76340.html				pending
+allure	Allure		female	https://www.fragrantica.com/perfume/Laverne/Allure-80450.html				pending
+arabian-oud	Arabian Oud		unisex	https://www.fragrantica.com/perfume/Laverne/Arabian-Oud-70360.html				pending
+atlantis-homme	Atlantis Homme		unisex	https://www.fragrantica.com/perfume/Laverne/Atlantis-Homme-96069.html				pending
+bianco	Bianco		unisex	https://www.fragrantica.com/perfume/Laverne/Bianco-67352.html				pending
+blanca	Blanca		female	https://www.fragrantica.com/perfume/Laverne/Blanca-80456.html				pending
+blue-laverne	Blue Laverne		unisex	https://www.fragrantica.com/perfume/Laverne/Blue-Laverne-70363.html				pending
+blue-laverne-bakhur	Blue Laverne Bakhur		unisex	https://www.fragrantica.com/perfume/Laverne/Blue-Laverne-Bakhur-80315.html				pending
+blue-laverne-sport	Blue Laverne Sport		unisex	https://www.fragrantica.com/perfume/Laverne/Blue-Laverne-Sport-96071.html				pending
+champion	Champion		unisex	https://www.fragrantica.com/perfume/Laverne/Champion-96074.html				pending
+cuban-tobacco	Cuban Tobacco		unisex	https://www.fragrantica.com/perfume/Laverne/Cuban-Tobacco-70226.html				pending
+dare-7-00-am	Dare 7:00 AM		unisex	https://www.fragrantica.com/perfume/Laverne/Dare-7-00-AM-96075.html				pending
+dark-amber	Dark Amber		unisex	https://www.fragrantica.com/perfume/Laverne/Dark-Amber-70362.html				pending
+fearless	Fearless		unisex	https://www.fragrantica.com/perfume/Laverne/Fearless-114181.html				pending
+forbidden	Forbidden		female	https://www.fragrantica.com/perfume/Laverne/Forbidden-80459.html				pending
+i-was-here	I Was Here		unisex	https://www.fragrantica.com/perfume/Laverne/I-Was-Here-67350.html				pending
+jah	Jah		unisex	https://www.fragrantica.com/perfume/Laverne/Jah-80453.html				pending
+king-tobacco	King Tobacco		unisex	https://www.fragrantica.com/perfume/Laverne/King-Tobacco-96078.html				pending
+lador-bakhur-classic	La'dor Bakhur Classic		unisex	https://www.fragrantica.com/perfume/Laverne/La-dor-Bakhur-Classic-96079.html				pending
+lady-rose	Lady Rose		female	https://www.fragrantica.com/perfume/Laverne/Lady-Rose-70361.html				pending
+luminous	Luminous		unisex	https://www.fragrantica.com/perfume/Laverne/Luminous-67351.html				pending
+lysen	Lysen		unisex	https://www.fragrantica.com/perfume/Laverne/Lysen-80460.html				pending
+memory	Memory		unisex	https://www.fragrantica.com/perfume/Laverne/Memory-80451.html				pending
+miss-laverne	Miss Laverne		female	https://www.fragrantica.com/perfume/Laverne/Miss-Laverne-80468.html				pending
+musk-garden	Musk Garden		unisex	https://www.fragrantica.com/perfume/Laverne/Musk-Garden-96061.html				pending
+musk-patchouli	Musk Patchouli		unisex	https://www.fragrantica.com/perfume/Laverne/Musk-Patchouli-70106.html				pending
+over-rose	Over Rose		female	https://www.fragrantica.com/perfume/Laverne/Over-Rose-72172.html				pending
+phantom	Phantom		unisex	https://www.fragrantica.com/perfume/Laverne/Phantom-70107.html				pending
+sahara	Sahara		unisex	https://www.fragrantica.com/perfume/Laverne/Sahara-80452.html				pending
+sapphire	Sapphire		female	https://www.fragrantica.com/perfume/Laverne/Sapphire-80457.html				pending
+sense	Sense		female	https://www.fragrantica.com/perfume/Laverne/Sense-102340.html				pending
+soir	Soir		unisex	https://www.fragrantica.com/perfume/Laverne/Soir-120107.html				pending
+tishreen	Tishreen		unisex	https://www.fragrantica.com/perfume/Laverne/Tishreen-67353.html				pending
+tobacco	Tobacco		unisex	https://www.fragrantica.com/perfume/Laverne/Tobacco-67349.html				pending
+tyrant	Tyrant		unisex	https://www.fragrantica.com/perfume/Laverne/Tyrant-96068.html				pending

@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-berry-passionfruit	Berry Passionfruit		female		https://www.fragrantica.com/perfume/Chi-Chi/Berry-Passionfruit-76612.html				pending
-blueberry	Blueberry		female		https://www.fragrantica.com/perfume/Chi-Chi/Blueberry-76617.html				pending
-coconut-and-lime	Coconut & Lime		female		https://www.fragrantica.com/perfume/Chi-Chi/Coconut-Lime-76613.html				pending
-coconut-and-vanilla	Coconut & Vanilla		female		https://www.fragrantica.com/perfume/Chi-Chi/Coconut-Vanilla-76610.html				pending
-floral-cashmere	Floral Cashmere		female		https://www.fragrantica.com/perfume/Chi-Chi/Floral-Cashmere-76620.html				pending
-floral-musk	Floral Musk		female		https://www.fragrantica.com/perfume/Chi-Chi/Floral-Musk-76621.html				pending
-flower-power	Flower Power		female		https://www.fragrantica.com/perfume/Chi-Chi/Flower-Power-76615.html				pending
-marshmallow	Marshmallow		female		https://www.fragrantica.com/perfume/Chi-Chi/Marshmallow-75483.html				pending
-musk-rose-and-vanilla	Musk Rose & Vanilla		female		https://www.fragrantica.com/perfume/Chi-Chi/Musk-Rose-Vanilla-76619.html				pending
-peach-and-mango	Peach & Mango		female		https://www.fragrantica.com/perfume/Chi-Chi/Peach-Mango-76609.html				pending
-persimmon	Persimmon		female		https://www.fragrantica.com/perfume/Chi-Chi/Persimmon-76614.html				pending
-strawberry-and-violet	Strawberry & Violet		female		https://www.fragrantica.com/perfume/Chi-Chi/Strawberry-Violet-76616.html				pending
-vanilla-and-cassis	Vanilla & Cassis		female		https://www.fragrantica.com/perfume/Chi-Chi/Vanilla-Cassis-76442.html				pending
-vanilla-orchid	Vanilla Orchid		female		https://www.fragrantica.com/perfume/Chi-Chi/Vanilla-Orchid-76618.html				pending
-warm-vanilla-sugar	Warm Vanilla Sugar		female		https://www.fragrantica.com/perfume/Chi-Chi/Warm-Vanilla-Sugar-76611.html				pending
-watermelon	Watermelon		female		https://www.fragrantica.com/perfume/Chi-Chi/Watermelon-75485.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+berry-passionfruit	Berry Passionfruit		female	https://www.fragrantica.com/perfume/Chi-Chi/Berry-Passionfruit-76612.html				pending
+blueberry	Blueberry		female	https://www.fragrantica.com/perfume/Chi-Chi/Blueberry-76617.html				pending
+coconut-and-lime	Coconut & Lime		female	https://www.fragrantica.com/perfume/Chi-Chi/Coconut-Lime-76613.html				pending
+coconut-and-vanilla	Coconut & Vanilla		female	https://www.fragrantica.com/perfume/Chi-Chi/Coconut-Vanilla-76610.html				pending
+floral-cashmere	Floral Cashmere		female	https://www.fragrantica.com/perfume/Chi-Chi/Floral-Cashmere-76620.html				pending
+floral-musk	Floral Musk		female	https://www.fragrantica.com/perfume/Chi-Chi/Floral-Musk-76621.html				pending
+flower-power	Flower Power		female	https://www.fragrantica.com/perfume/Chi-Chi/Flower-Power-76615.html				pending
+marshmallow	Marshmallow		female	https://www.fragrantica.com/perfume/Chi-Chi/Marshmallow-75483.html				pending
+musk-rose-and-vanilla	Musk Rose & Vanilla		female	https://www.fragrantica.com/perfume/Chi-Chi/Musk-Rose-Vanilla-76619.html				pending
+peach-and-mango	Peach & Mango		female	https://www.fragrantica.com/perfume/Chi-Chi/Peach-Mango-76609.html				pending
+persimmon	Persimmon		female	https://www.fragrantica.com/perfume/Chi-Chi/Persimmon-76614.html				pending
+strawberry-and-violet	Strawberry & Violet		female	https://www.fragrantica.com/perfume/Chi-Chi/Strawberry-Violet-76616.html				pending
+vanilla-and-cassis	Vanilla & Cassis		female	https://www.fragrantica.com/perfume/Chi-Chi/Vanilla-Cassis-76442.html				pending
+vanilla-orchid	Vanilla Orchid		female	https://www.fragrantica.com/perfume/Chi-Chi/Vanilla-Orchid-76618.html				pending
+warm-vanilla-sugar	Warm Vanilla Sugar		female	https://www.fragrantica.com/perfume/Chi-Chi/Warm-Vanilla-Sugar-76611.html				pending
+watermelon	Watermelon		female	https://www.fragrantica.com/perfume/Chi-Chi/Watermelon-75485.html				pending

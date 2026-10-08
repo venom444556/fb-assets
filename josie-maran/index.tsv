@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-golden-hour	Golden Hour		unisex		https://www.fragrantica.com/perfume/Josie-Maran/Golden-Hour-106638.html				pending
-topless-tangerine	Topless Tangerine		unisex		https://www.fragrantica.com/perfume/Josie-Maran/Topless-Tangerine-106640.html				pending
-vanilla-vibezzz	Vanilla Vibezzz		unisex		https://www.fragrantica.com/perfume/Josie-Maran/Vanilla-Vibezzz-106639.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+golden-hour	Golden Hour		unisex	https://www.fragrantica.com/perfume/Josie-Maran/Golden-Hour-106638.html				pending
+topless-tangerine	Topless Tangerine		unisex	https://www.fragrantica.com/perfume/Josie-Maran/Topless-Tangerine-106640.html				pending
+vanilla-vibezzz	Vanilla Vibezzz		unisex	https://www.fragrantica.com/perfume/Josie-Maran/Vanilla-Vibezzz-106639.html				pending

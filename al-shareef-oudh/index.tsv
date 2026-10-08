@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-al-ghaliyah	Al Ghaliyah		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Al-Ghaliyah-58446.html				pending
-elevation-parfum	Elevation Parfum		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Elevation-Parfum-82630.html				pending
-hekayat	Hekayat		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Hekayat-58445.html				pending
-ishraaq	Ishraaq		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Ishraaq-67190.html				pending
-itr-al-ward	Itr Al Ward		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Itr-Al-Ward-58438.html				pending
-jasmine	Jasmine		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Jasmine-67192.html				pending
-kaashef	Kaashef		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Kaashef-58444.html				pending
-mukhmal	Mukhmal		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Mukhmal-58449.html				pending
-qubrus	Qubrus		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Qubrus-72415.html				pending
-saqr	Saqr		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Saqr-58447.html				pending
-saqr-ii	Saqr II		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Saqr-II-58448.html				pending
-turath-i	Turath I		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Turath-I-58440.html				pending
-turath-ii	Turath II		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Turath-II-58441.html				pending
-ward	Ward		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Ward-58443.html				pending
-ward-67191	Ward		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Ward-67191.html				pending
-yaqoot	Yaqoot		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Yaqoot-58439.html				pending
-yasameen	Yasameen		unisex		https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Yasameen-58442.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+al-ghaliyah	Al Ghaliyah		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Al-Ghaliyah-58446.html				pending
+elevation-parfum	Elevation Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Elevation-Parfum-82630.html				pending
+hekayat	Hekayat		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Hekayat-58445.html				pending
+ishraaq	Ishraaq		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Ishraaq-67190.html				pending
+itr-al-ward	Itr Al Ward		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Itr-Al-Ward-58438.html				pending
+jasmine	Jasmine		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Jasmine-67192.html				pending
+kaashef	Kaashef		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Kaashef-58444.html				pending
+mukhmal	Mukhmal		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Mukhmal-58449.html				pending
+qubrus	Qubrus		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Qubrus-72415.html				pending
+saqr	Saqr		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Saqr-58447.html				pending
+saqr-ii	Saqr II		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Saqr-II-58448.html				pending
+turath-i	Turath I		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Turath-I-58440.html				pending
+turath-ii	Turath II		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Turath-II-58441.html				pending
+ward	Ward		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Ward-58443.html				pending
+ward-67191	Ward		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Ward-67191.html				pending
+yaqoot	Yaqoot		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Yaqoot-58439.html				pending
+yasameen	Yasameen		unisex	https://www.fragrantica.com/perfume/Al-Shareef-Oudh/Yasameen-58442.html				pending

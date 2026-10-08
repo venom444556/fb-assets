@@ -1,32 +1,32 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-amber	Black Amber		male		https://www.fragrantica.com/perfume/Womo/Black-Amber-43269.html				pending
-black-cologne	Black Cologne		male		https://www.fragrantica.com/perfume/Womo/Black-Cologne-43268.html				pending
-black-oud	Black Oud		male		https://www.fragrantica.com/perfume/Womo/Black-Oud-43270.html				pending
-black-powder	Black Powder		male		https://www.fragrantica.com/perfume/Womo/Black-Powder-43266.html				pending
-black-spice	Black Spice		male		https://www.fragrantica.com/perfume/Womo/Black-Spice-43267.html				pending
-black-tobacco	Black Tobacco		male		https://www.fragrantica.com/perfume/Womo/Black-Tobacco-43265.html				pending
-blow-in	Blow In		male		https://www.fragrantica.com/perfume/Womo/Blow-In-43275.html				pending
-blue-linen	Blue Linen		unisex		https://www.fragrantica.com/perfume/Womo/Blue-Linen-29425.html				pending
-coiba	Coiba		male		https://www.fragrantica.com/perfume/Womo/Coiba-43308.html				pending
-cool-down	Cool Down		male		https://www.fragrantica.com/perfume/Womo/Cool-Down-43272.html				pending
-figue-neroli	Figue + Neroli		unisex		https://www.fragrantica.com/perfume/Womo/Figue-Neroli-68270.html				pending
-green-tweed	Green Tweed		unisex		https://www.fragrantica.com/perfume/Womo/Green-Tweed-30244.html				pending
-incense-cardamom	Incense + Cardamom		unisex		https://www.fragrantica.com/perfume/Womo/Incense-Cardamom-55154.html				pending
-juniper-salt	Juniper + Salt		unisex		https://www.fragrantica.com/perfume/Womo/Juniper-Salt-55155.html				pending
-koh-tao	Koh Tao		male		https://www.fragrantica.com/perfume/Womo/Koh-Tao-43309.html				pending
-leather-benzoin	Leather + Benzoin		unisex		https://www.fragrantica.com/perfume/Womo/Leather-Benzoin-55152.html				pending
-red-velvet	Red Velvet		unisex		https://www.fragrantica.com/perfume/Womo/Red-Velvet-29426.html				pending
-samoa	Samoa		male		https://www.fragrantica.com/perfume/Womo/Samoa-43307.html				pending
-santal-coffee	Santal + Coffee		unisex		https://www.fragrantica.com/perfume/Womo/Santal-Coffee-68269.html				pending
-sifnos	Sifnos		male		https://www.fragrantica.com/perfume/Womo/Sifnos-43310.html				pending
-splash-out	Splash Out		male		https://www.fragrantica.com/perfume/Womo/Splash-Out-43305.html				pending
-stand-up	Stand Up		male		https://www.fragrantica.com/perfume/Womo/Stand-Up-43274.html				pending
-unxpected	UnXpected		male		https://www.fragrantica.com/perfume/Womo/UnXpected-43259.html				pending
-vetiver-chestnut	Vetiver + Chestnut		unisex		https://www.fragrantica.com/perfume/Womo/Vetiver-Chestnut-55153.html				pending
-warm-up	Warm Up		male		https://www.fragrantica.com/perfume/Womo/Warm-Up-43306.html				pending
-work-out	Work Out		male		https://www.fragrantica.com/perfume/Womo/Work-Out-43273.html				pending
-xcel	Xcel		male		https://www.fragrantica.com/perfume/Womo/Xcel-43261.html				pending
-xcentric	Xcentric		male		https://www.fragrantica.com/perfume/Womo/Xcentric-43258.html				pending
-xcite	Xcite		male		https://www.fragrantica.com/perfume/Womo/Xcite-43260.html				pending
-xplore	Xplore		male		https://www.fragrantica.com/perfume/Womo/Xplore-43262.html				pending
-xpressive	Xpressive		male		https://www.fragrantica.com/perfume/Womo/Xpressive-43257.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-amber	Black Amber		male	https://www.fragrantica.com/perfume/Womo/Black-Amber-43269.html				pending
+black-cologne	Black Cologne	Cologne	male	https://www.fragrantica.com/perfume/Womo/Black-Cologne-43268.html				pending
+black-oud	Black Oud		male	https://www.fragrantica.com/perfume/Womo/Black-Oud-43270.html				pending
+black-powder	Black Powder		male	https://www.fragrantica.com/perfume/Womo/Black-Powder-43266.html				pending
+black-spice	Black Spice		male	https://www.fragrantica.com/perfume/Womo/Black-Spice-43267.html				pending
+black-tobacco	Black Tobacco		male	https://www.fragrantica.com/perfume/Womo/Black-Tobacco-43265.html				pending
+blow-in	Blow In		male	https://www.fragrantica.com/perfume/Womo/Blow-In-43275.html				pending
+blue-linen	Blue Linen		unisex	https://www.fragrantica.com/perfume/Womo/Blue-Linen-29425.html				pending
+coiba	Coiba		male	https://www.fragrantica.com/perfume/Womo/Coiba-43308.html				pending
+cool-down	Cool Down		male	https://www.fragrantica.com/perfume/Womo/Cool-Down-43272.html				pending
+figue-neroli	Figue + Neroli		unisex	https://www.fragrantica.com/perfume/Womo/Figue-Neroli-68270.html				pending
+green-tweed	Green Tweed		unisex	https://www.fragrantica.com/perfume/Womo/Green-Tweed-30244.html				pending
+incense-cardamom	Incense + Cardamom		unisex	https://www.fragrantica.com/perfume/Womo/Incense-Cardamom-55154.html				pending
+juniper-salt	Juniper + Salt		unisex	https://www.fragrantica.com/perfume/Womo/Juniper-Salt-55155.html				pending
+koh-tao	Koh Tao		male	https://www.fragrantica.com/perfume/Womo/Koh-Tao-43309.html				pending
+leather-benzoin	Leather + Benzoin		unisex	https://www.fragrantica.com/perfume/Womo/Leather-Benzoin-55152.html				pending
+red-velvet	Red Velvet		unisex	https://www.fragrantica.com/perfume/Womo/Red-Velvet-29426.html				pending
+samoa	Samoa		male	https://www.fragrantica.com/perfume/Womo/Samoa-43307.html				pending
+santal-coffee	Santal + Coffee		unisex	https://www.fragrantica.com/perfume/Womo/Santal-Coffee-68269.html				pending
+sifnos	Sifnos		male	https://www.fragrantica.com/perfume/Womo/Sifnos-43310.html				pending
+splash-out	Splash Out		male	https://www.fragrantica.com/perfume/Womo/Splash-Out-43305.html				pending
+stand-up	Stand Up		male	https://www.fragrantica.com/perfume/Womo/Stand-Up-43274.html				pending
+unxpected	UnXpected		male	https://www.fragrantica.com/perfume/Womo/UnXpected-43259.html				pending
+vetiver-chestnut	Vetiver + Chestnut		unisex	https://www.fragrantica.com/perfume/Womo/Vetiver-Chestnut-55153.html				pending
+warm-up	Warm Up		male	https://www.fragrantica.com/perfume/Womo/Warm-Up-43306.html				pending
+work-out	Work Out		male	https://www.fragrantica.com/perfume/Womo/Work-Out-43273.html				pending
+xcel	Xcel		male	https://www.fragrantica.com/perfume/Womo/Xcel-43261.html				pending
+xcentric	Xcentric		male	https://www.fragrantica.com/perfume/Womo/Xcentric-43258.html				pending
+xcite	Xcite		male	https://www.fragrantica.com/perfume/Womo/Xcite-43260.html				pending
+xplore	Xplore		male	https://www.fragrantica.com/perfume/Womo/Xplore-43262.html				pending
+xpressive	Xpressive		male	https://www.fragrantica.com/perfume/Womo/Xpressive-43257.html				pending

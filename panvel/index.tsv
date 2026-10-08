@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-baby-clube	Baby Clube		unisex		https://www.fragrantica.com/perfume/PanVel/Baby-Clube-58887.html				pending
-baunilha-sensual	Baunilha Sensual		female		https://www.fragrantica.com/perfume/PanVel/Baunilha-Sensual-38594.html				pending
-chic	Chic		female		https://www.fragrantica.com/perfume/PanVel/Chic-38600.html				pending
-chic-classic	Chic Classic		female		https://www.fragrantica.com/perfume/PanVel/Chic-Classic-81710.html				pending
-chic-gold	Chic Gold		female		https://www.fragrantica.com/perfume/PanVel/Chic-Gold-81709.html				pending
-chic-in-black	Chic In Black		female		https://www.fragrantica.com/perfume/PanVel/Chic-In-Black-38599.html				pending
-chic-in-red	Chic In Red		female		https://www.fragrantica.com/perfume/PanVel/Chic-In-Red-38601.html				pending
-chic-rose	Chic Rosé		female		https://www.fragrantica.com/perfume/PanVel/Chic-Rose-81708.html				pending
-lavanda-irresistivel	Lavanda Irresistível		female		https://www.fragrantica.com/perfume/PanVel/Lavanda-Irresistivel-38596.html				pending
-mandarina-ousada	Mandarina Ousada		female		https://www.fragrantica.com/perfume/PanVel/Mandarina-Ousada-38593.html				pending
-morango-com-champagne	Morango com Champagne		female		https://www.fragrantica.com/perfume/PanVel/Morango-com-Champagne-90662.html				pending
-musk-inspirador	Musk Inspirador		female		https://www.fragrantica.com/perfume/PanVel/Musk-Inspirador-38597.html				pending
-na-brisa	Na Brisa		unisex		https://www.fragrantica.com/perfume/PanVel/Na-Brisa-64454.html				pending
-na-noite	Na Noite		female		https://www.fragrantica.com/perfume/PanVel/Na-Noite-68017.html				pending
-na-praia	Na Praia		female		https://www.fragrantica.com/perfume/PanVel/Na-Praia-61157.html				pending
-peonia-atrevida	Peônia Atrevida		female		https://www.fragrantica.com/perfume/PanVel/Peonia-Atrevida-38595.html				pending
-secret-sweet-kisses	Secret Sweet Kisses		female		https://www.fragrantica.com/perfume/PanVel/Secret-Sweet-Kisses-38590.html				pending
-sexy-moments	Sexy Moments		female		https://www.fragrantica.com/perfume/PanVel/Sexy-Moments-38591.html				pending
-vert-bambu	Vert Bambu		unisex		https://www.fragrantica.com/perfume/PanVel/Vert-Bambu-64779.html				pending
-vert-lichia	Vert Lichia		female		https://www.fragrantica.com/perfume/PanVel/Vert-Lichia-38598.html				pending
-vert-maracuja	Vert Maracujá		female		https://www.fragrantica.com/perfume/PanVel/Vert-Maracuja-58886.html				pending
-vert-mirtilo	Vert Mirtilo		female		https://www.fragrantica.com/perfume/PanVel/Vert-Mirtilo-64433.html				pending
-vert-pitanga	Vert Pitanga		female		https://www.fragrantica.com/perfume/PanVel/Vert-Pitanga-38592.html				pending
-vert-pitaya	Vert Pitaya		female		https://www.fragrantica.com/perfume/PanVel/Vert-Pitaya-64432.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+baby-clube	Baby Clube		unisex	https://www.fragrantica.com/perfume/PanVel/Baby-Clube-58887.html				pending
+baunilha-sensual	Baunilha Sensual		female	https://www.fragrantica.com/perfume/PanVel/Baunilha-Sensual-38594.html				pending
+chic	Chic		female	https://www.fragrantica.com/perfume/PanVel/Chic-38600.html				pending
+chic-classic	Chic Classic		female	https://www.fragrantica.com/perfume/PanVel/Chic-Classic-81710.html				pending
+chic-gold	Chic Gold		female	https://www.fragrantica.com/perfume/PanVel/Chic-Gold-81709.html				pending
+chic-in-black	Chic In Black		female	https://www.fragrantica.com/perfume/PanVel/Chic-In-Black-38599.html				pending
+chic-in-red	Chic In Red		female	https://www.fragrantica.com/perfume/PanVel/Chic-In-Red-38601.html				pending
+chic-rose	Chic Rosé		female	https://www.fragrantica.com/perfume/PanVel/Chic-Rose-81708.html				pending
+lavanda-irresistivel	Lavanda Irresistível		female	https://www.fragrantica.com/perfume/PanVel/Lavanda-Irresistivel-38596.html				pending
+mandarina-ousada	Mandarina Ousada		female	https://www.fragrantica.com/perfume/PanVel/Mandarina-Ousada-38593.html				pending
+morango-com-champagne	Morango com Champagne		female	https://www.fragrantica.com/perfume/PanVel/Morango-com-Champagne-90662.html				pending
+musk-inspirador	Musk Inspirador		female	https://www.fragrantica.com/perfume/PanVel/Musk-Inspirador-38597.html				pending
+na-brisa	Na Brisa		unisex	https://www.fragrantica.com/perfume/PanVel/Na-Brisa-64454.html				pending
+na-noite	Na Noite		female	https://www.fragrantica.com/perfume/PanVel/Na-Noite-68017.html				pending
+na-praia	Na Praia		female	https://www.fragrantica.com/perfume/PanVel/Na-Praia-61157.html				pending
+peonia-atrevida	Peônia Atrevida		female	https://www.fragrantica.com/perfume/PanVel/Peonia-Atrevida-38595.html				pending
+secret-sweet-kisses	Secret Sweet Kisses		female	https://www.fragrantica.com/perfume/PanVel/Secret-Sweet-Kisses-38590.html				pending
+sexy-moments	Sexy Moments		female	https://www.fragrantica.com/perfume/PanVel/Sexy-Moments-38591.html				pending
+vert-bambu	Vert Bambu		unisex	https://www.fragrantica.com/perfume/PanVel/Vert-Bambu-64779.html				pending
+vert-lichia	Vert Lichia		female	https://www.fragrantica.com/perfume/PanVel/Vert-Lichia-38598.html				pending
+vert-maracuja	Vert Maracujá		female	https://www.fragrantica.com/perfume/PanVel/Vert-Maracuja-58886.html				pending
+vert-mirtilo	Vert Mirtilo		female	https://www.fragrantica.com/perfume/PanVel/Vert-Mirtilo-64433.html				pending
+vert-pitanga	Vert Pitanga		female	https://www.fragrantica.com/perfume/PanVel/Vert-Pitanga-38592.html				pending
+vert-pitaya	Vert Pitaya		female	https://www.fragrantica.com/perfume/PanVel/Vert-Pitaya-64432.html				pending

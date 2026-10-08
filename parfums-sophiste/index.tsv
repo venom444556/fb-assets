@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-nulle-autre-pareille	A Nulle Autre Pareille		female		https://www.fragrantica.com/perfume/Parfums-Sophiste/A-Nulle-Autre-Pareille-23504.html				pending
-amour-de-sculpteur	Amour de Sculpteur		unisex		https://www.fragrantica.com/perfume/Parfums-Sophiste/Amour-de-Sculpteur-23505.html				pending
-chasseur-de-beotie	Chasseur de Béotie		unisex		https://www.fragrantica.com/perfume/Parfums-Sophiste/Chasseur-de-Beotie-23506.html				pending
-guillotine	Guillotine		unisex		https://www.fragrantica.com/perfume/Parfums-Sophiste/Guillotine-23507.html				pending
-magicienne	Magicienne		female		https://www.fragrantica.com/perfume/Parfums-Sophiste/Magicienne-23511.html				pending
-perseus	Perseus		male		https://www.fragrantica.com/perfume/Parfums-Sophiste/Perseus-23512.html				pending
-petit-bonheur	Petit Bonheur		female		https://www.fragrantica.com/perfume/Parfums-Sophiste/Petit-Bonheur-23508.html				pending
-preludium	Preludium		female		https://www.fragrantica.com/perfume/Parfums-Sophiste/Preludium-23513.html				pending
-sans-egal	Sans Égal		male		https://www.fragrantica.com/perfume/Parfums-Sophiste/Sans-Egal-23509.html				pending
-sophisma	Sophisma		unisex		https://www.fragrantica.com/perfume/Parfums-Sophiste/Sophisma-23510.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-nulle-autre-pareille	A Nulle Autre Pareille		female	https://www.fragrantica.com/perfume/Parfums-Sophiste/A-Nulle-Autre-Pareille-23504.html				pending
+amour-de-sculpteur	Amour de Sculpteur		unisex	https://www.fragrantica.com/perfume/Parfums-Sophiste/Amour-de-Sculpteur-23505.html				pending
+chasseur-de-beotie	Chasseur de Béotie		unisex	https://www.fragrantica.com/perfume/Parfums-Sophiste/Chasseur-de-Beotie-23506.html				pending
+guillotine	Guillotine		unisex	https://www.fragrantica.com/perfume/Parfums-Sophiste/Guillotine-23507.html				pending
+magicienne	Magicienne		female	https://www.fragrantica.com/perfume/Parfums-Sophiste/Magicienne-23511.html				pending
+perseus	Perseus		male	https://www.fragrantica.com/perfume/Parfums-Sophiste/Perseus-23512.html				pending
+petit-bonheur	Petit Bonheur		female	https://www.fragrantica.com/perfume/Parfums-Sophiste/Petit-Bonheur-23508.html				pending
+preludium	Preludium		female	https://www.fragrantica.com/perfume/Parfums-Sophiste/Preludium-23513.html				pending
+sans-egal	Sans Égal		male	https://www.fragrantica.com/perfume/Parfums-Sophiste/Sans-Egal-23509.html				pending
+sophisma	Sophisma		unisex	https://www.fragrantica.com/perfume/Parfums-Sophiste/Sophisma-23510.html				pending

@@ -1,30 +1,30 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-apricot-and-almond	Apricot & Almond		female		https://www.fragrantica.com/perfume/Bronnley/Apricot-Almond-8819.html				pending
-azure-bliss	Azure Bliss		female		https://www.fragrantica.com/perfume/Bronnley/Azure-Bliss-31429.html				pending
-body-care	Body Care		male		https://www.fragrantica.com/perfume/Bronnley/Body-Care-8845.html				pending
-camelia	Camelia		female		https://www.fragrantica.com/perfume/Bronnley/Camelia-38536.html				pending
-cosmic-bloom	Cosmic Bloom		female		https://www.fragrantica.com/perfume/Bronnley/Cosmic-Bloom-31432.html				pending
-crimson-cloud	Crimson Cloud		female		https://www.fragrantica.com/perfume/Bronnley/Crimson-Cloud-31430.html				pending
-english-fern	English Fern		male		https://www.fragrantica.com/perfume/Bronnley/English-Fern-8818.html				pending
-exotic-embers	Exotic Embers		female		https://www.fragrantica.com/perfume/Bronnley/Exotic-Embers-31431.html				pending
-freesia	Freesia		female		https://www.fragrantica.com/perfume/Bronnley/Freesia-14907.html				pending
-hibiscus-eau-fraiche	Hibiscus Eau Fraiche		female		https://www.fragrantica.com/perfume/Bronnley/Hibiscus-Eau-Fraiche-8846.html				pending
-james-bronnley	James Bronnley		male		https://www.fragrantica.com/perfume/Bronnley/James-Bronnley-8844.html				pending
-lavender	Lavender		female		https://www.fragrantica.com/perfume/Bronnley/Lavender-8820.html				pending
-lemon-and-neroli	Lemon & Neroli		unisex		https://www.fragrantica.com/perfume/Bronnley/Lemon-Neroli-8842.html				pending
-lily-of-the-valley	Lily of the Valley		female		https://www.fragrantica.com/perfume/Bronnley/Lily-of-the-Valley-8847.html				pending
-lime-and-bergamot	Lime & Bergamot		unisex		https://www.fragrantica.com/perfume/Bronnley/Lime-Bergamot-8843.html				pending
-orange-and-jasmin	Orange & Jasmin		female		https://www.fragrantica.com/perfume/Bronnley/Orange-Jasmin-14908.html				pending
-orchid	Orchid		female		https://www.fragrantica.com/perfume/Bronnley/Orchid-8821.html				pending
-original	Original		male		https://www.fragrantica.com/perfume/Bronnley/Original-13291.html				pending
-passion-flower-eau-fraiche	Passion Flower Eau Fraiche		female		https://www.fragrantica.com/perfume/Bronnley/Passion-Flower-Eau-Fraiche-8833.html				pending
-peony-eau-fraiche	Peony Eau Fraiche		female		https://www.fragrantica.com/perfume/Bronnley/Peony-Eau-Fraiche-8834.html				pending
-pink-bouquet	Pink Bouquet		female		https://www.fragrantica.com/perfume/Bronnley/Pink-Bouquet-8822.html				pending
-pink-peony-and-rhubarb	Pink Peony & Rhubarb		female		https://www.fragrantica.com/perfume/Bronnley/Pink-Peony-Rhubarb-41097.html				pending
-rose-eau-fraiche	Rose Eau Fraiche		female		https://www.fragrantica.com/perfume/Bronnley/Rose-Eau-Fraiche-8831.html				pending
-savage-flower-zealous-flower	Savage Flower (Zealous Flower)		female		https://www.fragrantica.com/perfume/Bronnley/Savage-Flower-Zealous-Flower-31427.html				pending
-sweet-pea	Sweet Pea		female		https://www.fragrantica.com/perfume/Bronnley/Sweet-Pea-24753.html				pending
-velvet-rose-eau-de-parfum	Velvet Rose Eau De Parfum		female		https://www.fragrantica.com/perfume/Bronnley/Velvet-Rose-Eau-De-Parfum-17691.html				pending
-white-dahlia	White Dahlia		female		https://www.fragrantica.com/perfume/Bronnley/White-Dahlia-10903.html				pending
-white-iris	White Iris		female		https://www.fragrantica.com/perfume/Bronnley/White-Iris-8823.html				pending
-wild-green	Wild Green		female		https://www.fragrantica.com/perfume/Bronnley/Wild-Green-31428.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+apricot-and-almond	Apricot & Almond		female	https://www.fragrantica.com/perfume/Bronnley/Apricot-Almond-8819.html				pending
+azure-bliss	Azure Bliss		female	https://www.fragrantica.com/perfume/Bronnley/Azure-Bliss-31429.html				pending
+body-care	Body Care		male	https://www.fragrantica.com/perfume/Bronnley/Body-Care-8845.html				pending
+camelia	Camelia		female	https://www.fragrantica.com/perfume/Bronnley/Camelia-38536.html				pending
+cosmic-bloom	Cosmic Bloom		female	https://www.fragrantica.com/perfume/Bronnley/Cosmic-Bloom-31432.html				pending
+crimson-cloud	Crimson Cloud		female	https://www.fragrantica.com/perfume/Bronnley/Crimson-Cloud-31430.html				pending
+english-fern	English Fern		male	https://www.fragrantica.com/perfume/Bronnley/English-Fern-8818.html				pending
+exotic-embers	Exotic Embers		female	https://www.fragrantica.com/perfume/Bronnley/Exotic-Embers-31431.html				pending
+freesia	Freesia		female	https://www.fragrantica.com/perfume/Bronnley/Freesia-14907.html				pending
+hibiscus-eau-fraiche	Hibiscus Eau Fraiche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Bronnley/Hibiscus-Eau-Fraiche-8846.html				pending
+james-bronnley	James Bronnley		male	https://www.fragrantica.com/perfume/Bronnley/James-Bronnley-8844.html				pending
+lavender	Lavender		female	https://www.fragrantica.com/perfume/Bronnley/Lavender-8820.html				pending
+lemon-and-neroli	Lemon & Neroli		unisex	https://www.fragrantica.com/perfume/Bronnley/Lemon-Neroli-8842.html				pending
+lily-of-the-valley	Lily of the Valley		female	https://www.fragrantica.com/perfume/Bronnley/Lily-of-the-Valley-8847.html				pending
+lime-and-bergamot	Lime & Bergamot		unisex	https://www.fragrantica.com/perfume/Bronnley/Lime-Bergamot-8843.html				pending
+orange-and-jasmin	Orange & Jasmin		female	https://www.fragrantica.com/perfume/Bronnley/Orange-Jasmin-14908.html				pending
+orchid	Orchid		female	https://www.fragrantica.com/perfume/Bronnley/Orchid-8821.html				pending
+original	Original		male	https://www.fragrantica.com/perfume/Bronnley/Original-13291.html				pending
+passion-flower-eau-fraiche	Passion Flower Eau Fraiche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Bronnley/Passion-Flower-Eau-Fraiche-8833.html				pending
+peony-eau-fraiche	Peony Eau Fraiche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Bronnley/Peony-Eau-Fraiche-8834.html				pending
+pink-bouquet	Pink Bouquet		female	https://www.fragrantica.com/perfume/Bronnley/Pink-Bouquet-8822.html				pending
+pink-peony-and-rhubarb	Pink Peony & Rhubarb		female	https://www.fragrantica.com/perfume/Bronnley/Pink-Peony-Rhubarb-41097.html				pending
+rose-eau-fraiche	Rose Eau Fraiche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Bronnley/Rose-Eau-Fraiche-8831.html				pending
+savage-flower-zealous-flower	Savage Flower (Zealous Flower)		female	https://www.fragrantica.com/perfume/Bronnley/Savage-Flower-Zealous-Flower-31427.html				pending
+sweet-pea	Sweet Pea		female	https://www.fragrantica.com/perfume/Bronnley/Sweet-Pea-24753.html				pending
+velvet-rose-eau-de-parfum	Velvet Rose Eau De Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Bronnley/Velvet-Rose-Eau-De-Parfum-17691.html				pending
+white-dahlia	White Dahlia		female	https://www.fragrantica.com/perfume/Bronnley/White-Dahlia-10903.html				pending
+white-iris	White Iris		female	https://www.fragrantica.com/perfume/Bronnley/White-Iris-8823.html				pending
+wild-green	Wild Green		female	https://www.fragrantica.com/perfume/Bronnley/Wild-Green-31428.html				pending

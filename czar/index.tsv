@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-impala-x-aslan-gulcicek	Impala X Aslan Gülçiçek		unisex		https://www.fragrantica.com/perfume/CZAR/Impala-X-Aslan-Guelcicek-77639.html				pending
-alexandra	Alexandra		unisex		https://www.fragrantica.com/perfume/CZAR/Alexandra-77635.html				pending
-alexandre	Alexandre		unisex		https://www.fragrantica.com/perfume/CZAR/Alexandre-77645.html				pending
-alexis	Alexis		unisex		https://www.fragrantica.com/perfume/CZAR/Alexis-77646.html				pending
-anstasia	Anstasia		unisex		https://www.fragrantica.com/perfume/CZAR/Anstasia-77636.html				pending
-antelope	Antelope		unisex		https://www.fragrantica.com/perfume/CZAR/Antelope-87484.html				pending
-aqua-luna	Aqua Luna		unisex		https://www.fragrantica.com/perfume/CZAR/Aqua-Luna-90543.html				pending
-butterfly	Butterfly		unisex		https://www.fragrantica.com/perfume/CZAR/Butterfly-77637.html				pending
-falcon	Falcon		unisex		https://www.fragrantica.com/perfume/CZAR/Falcon-77638.html				pending
-gardenia	Gardenia		female		https://www.fragrantica.com/perfume/CZAR/Gardenia-87485.html				pending
-gentle-fusion	Gentle Fusion		unisex		https://www.fragrantica.com/perfume/CZAR/Gentle-Fusion-90537.html				pending
-lora	Lora		unisex		https://www.fragrantica.com/perfume/CZAR/Lora-77652.html				pending
-maria	Maria		unisex		https://www.fragrantica.com/perfume/CZAR/Maria-77640.html				pending
-nero	Nero		unisex		https://www.fragrantica.com/perfume/CZAR/Nero-77647.html				pending
-nicholas	Nicholas		unisex		https://www.fragrantica.com/perfume/CZAR/Nicholas-77648.html				pending
-ocean-gravity	Ocean Gravity		unisex		https://www.fragrantica.com/perfume/CZAR/Ocean-Gravity-90542.html				pending
-olga	Olga		unisex		https://www.fragrantica.com/perfume/CZAR/Olga-77641.html				pending
-potivar	Potivar		unisex		https://www.fragrantica.com/perfume/CZAR/Potivar-77649.html				pending
-romanova	Romanova		unisex		https://www.fragrantica.com/perfume/CZAR/Romanova-77650.html				pending
-rose	Rose		unisex		https://www.fragrantica.com/perfume/CZAR/Rose-87486.html				pending
-stallion	Stallion		unisex		https://www.fragrantica.com/perfume/CZAR/Stallion-77642.html				pending
-tatiana	Tatiana		unisex		https://www.fragrantica.com/perfume/CZAR/Tatiana-77643.html				pending
-tiger	Tiger		unisex		https://www.fragrantica.com/perfume/CZAR/Tiger-77644.html				pending
-titus	Titus		unisex		https://www.fragrantica.com/perfume/CZAR/Titus-77651.html				pending
-venom	Venom		unisex		https://www.fragrantica.com/perfume/CZAR/Venom-90538.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alexandra	Alexandra		unisex	https://www.fragrantica.com/perfume/CZAR/Alexandra-77635.html				pending
+alexandre	Alexandre		unisex	https://www.fragrantica.com/perfume/CZAR/Alexandre-77645.html				pending
+alexis	Alexis		unisex	https://www.fragrantica.com/perfume/CZAR/Alexis-77646.html				pending
+anstasia	Anstasia		unisex	https://www.fragrantica.com/perfume/CZAR/Anstasia-77636.html				pending
+antelope	Antelope		unisex	https://www.fragrantica.com/perfume/CZAR/Antelope-87484.html				pending
+aqua-luna	Aqua Luna		unisex	https://www.fragrantica.com/perfume/CZAR/Aqua-Luna-90543.html				pending
+butterfly	Butterfly		unisex	https://www.fragrantica.com/perfume/CZAR/Butterfly-77637.html				pending
+falcon	Falcon		unisex	https://www.fragrantica.com/perfume/CZAR/Falcon-77638.html				pending
+gardenia	Gardenia		female	https://www.fragrantica.com/perfume/CZAR/Gardenia-87485.html				pending
+gentle-fusion	Gentle Fusion		unisex	https://www.fragrantica.com/perfume/CZAR/Gentle-Fusion-90537.html				pending
+impala-x-aslan-gulcicek	Impala X Aslan Gülçiçek		unisex	https://www.fragrantica.com/perfume/CZAR/Impala-X-Aslan-Guelcicek-77639.html				pending
+lora	Lora		unisex	https://www.fragrantica.com/perfume/CZAR/Lora-77652.html				pending
+maria	Maria		unisex	https://www.fragrantica.com/perfume/CZAR/Maria-77640.html				pending
+nero	Nero		unisex	https://www.fragrantica.com/perfume/CZAR/Nero-77647.html				pending
+nicholas	Nicholas		unisex	https://www.fragrantica.com/perfume/CZAR/Nicholas-77648.html				pending
+ocean-gravity	Ocean Gravity		unisex	https://www.fragrantica.com/perfume/CZAR/Ocean-Gravity-90542.html				pending
+olga	Olga		unisex	https://www.fragrantica.com/perfume/CZAR/Olga-77641.html				pending
+potivar	Potivar		unisex	https://www.fragrantica.com/perfume/CZAR/Potivar-77649.html				pending
+romanova	Romanova		unisex	https://www.fragrantica.com/perfume/CZAR/Romanova-77650.html				pending
+rose	Rose		unisex	https://www.fragrantica.com/perfume/CZAR/Rose-87486.html				pending
+stallion	Stallion		unisex	https://www.fragrantica.com/perfume/CZAR/Stallion-77642.html				pending
+tatiana	Tatiana		unisex	https://www.fragrantica.com/perfume/CZAR/Tatiana-77643.html				pending
+tiger	Tiger		unisex	https://www.fragrantica.com/perfume/CZAR/Tiger-77644.html				pending
+titus	Titus		unisex	https://www.fragrantica.com/perfume/CZAR/Titus-77651.html				pending
+venom	Venom		unisex	https://www.fragrantica.com/perfume/CZAR/Venom-90538.html				pending

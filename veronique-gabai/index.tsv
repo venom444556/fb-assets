@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-delices-des-bois	Délices des Bois		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Delices-des-Bois-95149.html				pending
-eau-de-la-nuit-booster	Eau De La Nuit Booster		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Eau-De-La-Nuit-Booster-60678.html				pending
-eau-du-jour-booster	Eau du Jour Booster		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Eau-du-Jour-Booster-60677.html				pending
-le-point-g	Le Point G		female		https://www.fragrantica.com/perfume/Veronique-Gabai/Le-Point-G-72679.html				pending
-lumiere-diris	Lumière d’Iris		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Lumiere-d-Iris-60668.html				pending
-mimosa-in-the-air	Mimosa In The Air		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Mimosa-In-The-Air-60669.html				pending
-noire-de-mai	Noire De Mai		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Noire-De-Mai-60673.html				pending
-sexy-garrigue	Sexy Garrigue		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Sexy-Garrigue-60676.html				pending
-souvenirs-de-tunisie	Souvenirs De Tunisie		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Souvenirs-De-Tunisie-60675.html				pending
-sur-la-plage	Sur La Plage		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Sur-La-Plage-60674.html				pending
-vert-desir	Vert Désir		unisex		https://www.fragrantica.com/perfume/Veronique-Gabai/Vert-Desir-60670.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+delices-des-bois	Délices des Bois		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Delices-des-Bois-95149.html				pending
+eau-de-la-nuit-booster	Eau De La Nuit Booster		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Eau-De-La-Nuit-Booster-60678.html				pending
+eau-du-jour-booster	Eau du Jour Booster		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Eau-du-Jour-Booster-60677.html				pending
+le-point-g	Le Point G		female	https://www.fragrantica.com/perfume/Veronique-Gabai/Le-Point-G-72679.html				pending
+lumiere-diris	Lumière d’Iris		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Lumiere-d-Iris-60668.html				pending
+mimosa-in-the-air	Mimosa In The Air		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Mimosa-In-The-Air-60669.html				pending
+noire-de-mai	Noire De Mai		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Noire-De-Mai-60673.html				pending
+sexy-garrigue	Sexy Garrigue		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Sexy-Garrigue-60676.html				pending
+souvenirs-de-tunisie	Souvenirs De Tunisie		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Souvenirs-De-Tunisie-60675.html				pending
+sur-la-plage	Sur La Plage		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Sur-La-Plage-60674.html				pending
+vert-desir	Vert Désir		unisex	https://www.fragrantica.com/perfume/Veronique-Gabai/Vert-Desir-60670.html				pending

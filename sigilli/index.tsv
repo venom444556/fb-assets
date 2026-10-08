@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-asprosa	Asprosa		female		https://www.fragrantica.com/perfume/Sigilli/Asprosa-13374.html				pending
-athunis	Athunis		male		https://www.fragrantica.com/perfume/Sigilli/Athunis-13367.html				pending
-bayan-mulak	Bayan Mulak		unisex		https://www.fragrantica.com/perfume/Sigilli/Bayan-Mulak-14940.html				pending
-claudiae	Claudiae		female		https://www.fragrantica.com/perfume/Sigilli/Claudiae-13371.html				pending
-ea	Ea		female		https://www.fragrantica.com/perfume/Sigilli/Ea-13377.html				pending
-electra	Electra		unisex		https://www.fragrantica.com/perfume/Sigilli/Electra-13378.html				pending
-ferfaen	Ferfaen		unisex		https://www.fragrantica.com/perfume/Sigilli/Ferfaen-13376.html				pending
-hesperia	Hesperia		unisex		https://www.fragrantica.com/perfume/Sigilli/Hesperia-13375.html				pending
-hymba	Hymba		unisex		https://www.fragrantica.com/perfume/Sigilli/Hymba-14939.html				pending
-khanbaliq	Khanbaliq		unisex		https://www.fragrantica.com/perfume/Sigilli/Khanbaliq-24269.html				pending
-pyrgos	Pyrgos		male		https://www.fragrantica.com/perfume/Sigilli/Pyrgos-13370.html				pending
-thu	Thu		male		https://www.fragrantica.com/perfume/Sigilli/Thu-13369.html				pending
-tuscia	Tuscia		female		https://www.fragrantica.com/perfume/Sigilli/Tuscia-13373.html				pending
-tyrsenoi	Tyrsenoi		male		https://www.fragrantica.com/perfume/Sigilli/Tyrsenoi-13372.html				pending
-volumna	Volumna		female		https://www.fragrantica.com/perfume/Sigilli/Volumna-13368.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+asprosa	Asprosa		female	https://www.fragrantica.com/perfume/Sigilli/Asprosa-13374.html				pending
+athunis	Athunis		male	https://www.fragrantica.com/perfume/Sigilli/Athunis-13367.html				pending
+bayan-mulak	Bayan Mulak		unisex	https://www.fragrantica.com/perfume/Sigilli/Bayan-Mulak-14940.html				pending
+claudiae	Claudiae		female	https://www.fragrantica.com/perfume/Sigilli/Claudiae-13371.html				pending
+ea	Ea		female	https://www.fragrantica.com/perfume/Sigilli/Ea-13377.html				pending
+electra	Electra		unisex	https://www.fragrantica.com/perfume/Sigilli/Electra-13378.html				pending
+ferfaen	Ferfaen		unisex	https://www.fragrantica.com/perfume/Sigilli/Ferfaen-13376.html				pending
+hesperia	Hesperia		unisex	https://www.fragrantica.com/perfume/Sigilli/Hesperia-13375.html				pending
+hymba	Hymba		unisex	https://www.fragrantica.com/perfume/Sigilli/Hymba-14939.html				pending
+khanbaliq	Khanbaliq		unisex	https://www.fragrantica.com/perfume/Sigilli/Khanbaliq-24269.html				pending
+pyrgos	Pyrgos		male	https://www.fragrantica.com/perfume/Sigilli/Pyrgos-13370.html				pending
+thu	Thu		male	https://www.fragrantica.com/perfume/Sigilli/Thu-13369.html				pending
+tuscia	Tuscia		female	https://www.fragrantica.com/perfume/Sigilli/Tuscia-13373.html				pending
+tyrsenoi	Tyrsenoi		male	https://www.fragrantica.com/perfume/Sigilli/Tyrsenoi-13372.html				pending
+volumna	Volumna		female	https://www.fragrantica.com/perfume/Sigilli/Volumna-13368.html				pending

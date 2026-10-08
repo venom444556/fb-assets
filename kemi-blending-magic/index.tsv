@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ilm	'ilm		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/ilm-27454.html				pending
-aqua-regia	Aqua Regia		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Aqua-Regia-37136.html				pending
-aurum	Aurum		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Aurum-37137.html				pending
-elixir	Elixir		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Elixir-27455.html				pending
-hayat	Hayat		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Hayat-27452.html				pending
-hermetic	Hermetic		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Hermetic-37139.html				pending
-jabir	Jabir		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Jabir-27453.html				pending
-kemi	Kemi		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Kemi-27449.html				pending
-layla	Layla		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Layla-27450.html				pending
-luna	Luna		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Luna-27451.html				pending
-solis	Solis		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Solis-44451.html				pending
-tempest	Tempest		unisex		https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Tempest-27456.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ilm	'ilm		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/ilm-27454.html				pending
+aqua-regia	Aqua Regia		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Aqua-Regia-37136.html				pending
+aurum	Aurum		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Aurum-37137.html				pending
+elixir	Elixir		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Elixir-27455.html				pending
+hayat	Hayat		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Hayat-27452.html				pending
+hermetic	Hermetic		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Hermetic-37139.html				pending
+jabir	Jabir		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Jabir-27453.html				pending
+kemi	Kemi		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Kemi-27449.html				pending
+layla	Layla		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Layla-27450.html				pending
+luna	Luna		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Luna-27451.html				pending
+solis	Solis		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Solis-44451.html				pending
+tempest	Tempest		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Tempest-27456.html				pending

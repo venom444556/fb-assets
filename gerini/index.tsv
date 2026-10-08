@@ -1,30 +1,30 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-fresh-bergamout	Fresh Bergamout		unisex		https://www.fragrantica.com/perfume/Gerini/Fresh-Bergamout-82351.html				pending
-imperial-patchouli	Imperial Patchouli		unisex		https://www.fragrantica.com/perfume/Gerini/Imperial-Patchouli-82347.html				pending
-seductive-cinnamon	Seductive Cinnamon		unisex		https://www.fragrantica.com/perfume/Gerini/Seductive-Cinnamon-87796.html				pending
-coumarin	Coumarin		unisex		https://www.fragrantica.com/perfume/Gerini/Coumarin-87800.html				pending
-doro	D'Oro		unisex		https://www.fragrantica.com/perfume/Gerini/D-Oro-87792.html				pending
-floral-overdose	Floral Overdose		unisex		https://www.fragrantica.com/perfume/Gerini/Floral-Overdose-87803.html				pending
-gardenia	Gardenia		unisex		https://www.fragrantica.com/perfume/Gerini/Gardenia-87805.html				pending
-gourmand	Gourmand		unisex		https://www.fragrantica.com/perfume/Gerini/Gourmand-87808.html				pending
-guaiac	Guaiac		unisex		https://www.fragrantica.com/perfume/Gerini/Guaiac-87806.html				pending
-heavenly-wood	Heavenly Wood		unisex		https://www.fragrantica.com/perfume/Gerini/Heavenly-Wood-87797.html				pending
-labdanum	Labdanum		unisex		https://www.fragrantica.com/perfume/Gerini/Labdanum-87810.html				pending
-luxurious-iris	Luxurious Iris		unisex		https://www.fragrantica.com/perfume/Gerini/Luxurious-Iris-87801.html				pending
-mineral	Mineral		unisex		https://www.fragrantica.com/perfume/Gerini/Mineral-87804.html				pending
-murano	Murano		unisex		https://www.fragrantica.com/perfume/Gerini/Murano-87790.html				pending
-oriental-oud	Oriental Oud		unisex		https://www.fragrantica.com/perfume/Gerini/Oriental-Oud-82349.html				pending
-private-label-i	Private Label I		unisex		https://www.fragrantica.com/perfume/Gerini/Private-Label-I-87812.html				pending
-private-label-ii	Private Label II		unisex		https://www.fragrantica.com/perfume/Gerini/Private-Label-II-87813.html				pending
-private-label-iii	Private Label III		unisex		https://www.fragrantica.com/perfume/Gerini/Private-Label-III-87815.html				pending
-private-label-iv	Private Label IV		unisex		https://www.fragrantica.com/perfume/Gerini/Private-Label-IV-87816.html				pending
-private-label-v	Private Label V		unisex		https://www.fragrantica.com/perfume/Gerini/Private-Label-V-87817.html				pending
-regina	Regina		unisex		https://www.fragrantica.com/perfume/Gerini/Regina-87793.html				pending
-romance-rubus	Romance Rubus		unisex		https://www.fragrantica.com/perfume/Gerini/Romance-Rubus-82352.html				pending
-sovrano	Sovrano		unisex		https://www.fragrantica.com/perfume/Gerini/Sovrano-87789.html				pending
-spice	Spice		unisex		https://www.fragrantica.com/perfume/Gerini/Spice-87799.html				pending
-suede	Suede		unisex		https://www.fragrantica.com/perfume/Gerini/Suede-87807.html				pending
-sweet-vanilla	Sweet Vanilla		unisex		https://www.fragrantica.com/perfume/Gerini/Sweet-Vanilla-82348.html				pending
-velvet-rose	Velvet Rose		unisex		https://www.fragrantica.com/perfume/Gerini/Velvet-Rose-82350.html				pending
-verdo	Verdo		unisex		https://www.fragrantica.com/perfume/Gerini/Verdo-87788.html				pending
-vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/Gerini/Vetiver-87786.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+coumarin	Coumarin		unisex	https://www.fragrantica.com/perfume/Gerini/Coumarin-87800.html				pending
+doro	D'Oro		unisex	https://www.fragrantica.com/perfume/Gerini/D-Oro-87792.html				pending
+floral-overdose	Floral Overdose		unisex	https://www.fragrantica.com/perfume/Gerini/Floral-Overdose-87803.html				pending
+fresh-bergamout	Fresh Bergamout		unisex	https://www.fragrantica.com/perfume/Gerini/Fresh-Bergamout-82351.html				pending
+gardenia	Gardenia		unisex	https://www.fragrantica.com/perfume/Gerini/Gardenia-87805.html				pending
+gourmand	Gourmand		unisex	https://www.fragrantica.com/perfume/Gerini/Gourmand-87808.html				pending
+guaiac	Guaiac		unisex	https://www.fragrantica.com/perfume/Gerini/Guaiac-87806.html				pending
+heavenly-wood	Heavenly Wood		unisex	https://www.fragrantica.com/perfume/Gerini/Heavenly-Wood-87797.html				pending
+imperial-patchouli	Imperial Patchouli		unisex	https://www.fragrantica.com/perfume/Gerini/Imperial-Patchouli-82347.html				pending
+labdanum	Labdanum		unisex	https://www.fragrantica.com/perfume/Gerini/Labdanum-87810.html				pending
+luxurious-iris	Luxurious Iris		unisex	https://www.fragrantica.com/perfume/Gerini/Luxurious-Iris-87801.html				pending
+mineral	Mineral		unisex	https://www.fragrantica.com/perfume/Gerini/Mineral-87804.html				pending
+murano	Murano		unisex	https://www.fragrantica.com/perfume/Gerini/Murano-87790.html				pending
+oriental-oud	Oriental Oud		unisex	https://www.fragrantica.com/perfume/Gerini/Oriental-Oud-82349.html				pending
+private-label-i	Private Label I		unisex	https://www.fragrantica.com/perfume/Gerini/Private-Label-I-87812.html				pending
+private-label-ii	Private Label II		unisex	https://www.fragrantica.com/perfume/Gerini/Private-Label-II-87813.html				pending
+private-label-iii	Private Label III		unisex	https://www.fragrantica.com/perfume/Gerini/Private-Label-III-87815.html				pending
+private-label-iv	Private Label IV		unisex	https://www.fragrantica.com/perfume/Gerini/Private-Label-IV-87816.html				pending
+private-label-v	Private Label V		unisex	https://www.fragrantica.com/perfume/Gerini/Private-Label-V-87817.html				pending
+regina	Regina		unisex	https://www.fragrantica.com/perfume/Gerini/Regina-87793.html				pending
+romance-rubus	Romance Rubus		unisex	https://www.fragrantica.com/perfume/Gerini/Romance-Rubus-82352.html				pending
+seductive-cinnamon	Seductive Cinnamon		unisex	https://www.fragrantica.com/perfume/Gerini/Seductive-Cinnamon-87796.html				pending
+sovrano	Sovrano		unisex	https://www.fragrantica.com/perfume/Gerini/Sovrano-87789.html				pending
+spice	Spice		unisex	https://www.fragrantica.com/perfume/Gerini/Spice-87799.html				pending
+suede	Suede		unisex	https://www.fragrantica.com/perfume/Gerini/Suede-87807.html				pending
+sweet-vanilla	Sweet Vanilla		unisex	https://www.fragrantica.com/perfume/Gerini/Sweet-Vanilla-82348.html				pending
+velvet-rose	Velvet Rose		unisex	https://www.fragrantica.com/perfume/Gerini/Velvet-Rose-82350.html				pending
+verdo	Verdo		unisex	https://www.fragrantica.com/perfume/Gerini/Verdo-87788.html				pending
+vetiver	Vetiver		unisex	https://www.fragrantica.com/perfume/Gerini/Vetiver-87786.html				pending

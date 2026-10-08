@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-absolute	Absolute		male		https://www.fragrantica.com/perfume/Hackett-London/Absolute-87460.html				pending
-bespoke	Bespoke		male		https://www.fragrantica.com/perfume/Hackett-London/Bespoke-76702.html				pending
-essential	Essential		male		https://www.fragrantica.com/perfume/Hackett-London/Essential-76701.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+absolute	Absolute		male	https://www.fragrantica.com/perfume/Hackett-London/Absolute-87460.html				pending
+bespoke	Bespoke		male	https://www.fragrantica.com/perfume/Hackett-London/Bespoke-76702.html				pending
+essential	Essential		male	https://www.fragrantica.com/perfume/Hackett-London/Essential-76701.html				pending

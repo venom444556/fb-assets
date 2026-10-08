@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-just-fly	Just Fly		unisex		https://www.fragrantica.com/perfume/Who-Am-I/Just-Fly-77147.html				pending
-just-right	Just Right		male		https://www.fragrantica.com/perfume/Who-Am-I/Just-Right-79597.html				pending
-just-wow	Just Wow		unisex		https://www.fragrantica.com/perfume/Who-Am-I/Just-Wow-79598.html				pending
-just-yes	Just Yes		unisex		https://www.fragrantica.com/perfume/Who-Am-I/Just-Yes-79599.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+just-fly	Just Fly		unisex	https://www.fragrantica.com/perfume/Who-Am-I/Just-Fly-77147.html				pending
+just-right	Just Right		male	https://www.fragrantica.com/perfume/Who-Am-I/Just-Right-79597.html				pending
+just-wow	Just Wow		unisex	https://www.fragrantica.com/perfume/Who-Am-I/Just-Wow-79598.html				pending
+just-yes	Just Yes		unisex	https://www.fragrantica.com/perfume/Who-Am-I/Just-Yes-79599.html				pending

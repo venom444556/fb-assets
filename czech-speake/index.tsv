@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-citrus-paradisi-cologne	Citrus Paradisi Cologne		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Citrus-Paradisi-Cologne-6424.html				pending
-cuba-cologne	Cuba Cologne		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Cuba-Cologne-6428.html				pending
-dark-rose-cologne	Dark Rose Cologne		female		https://www.fragrantica.com/perfume/Czech-Speake/Dark-Rose-Cologne-6423.html				pending
-no-88-eau-de-parfum	No.88 Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Czech-Speake/No-88-Eau-de-Parfum-72252.html				pending
-spanish-cedar-eau-de-parfum	Spanish Cedar Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Spanish-Cedar-Eau-de-Parfum-25296.html				pending
-vetiver-vert-cologne	Vetiver Vert Cologne		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Vetiver-Vert-Cologne-14381.html				pending
-amber-7	Amber 7		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Amber-7-95152.html				pending
-cuba-eau-de-parfum	Cuba Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Cuba-Eau-de-Parfum-72253.html				pending
-frankincense-and-myrrh-eau-de-parfum	Frankincense & Myrrh Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Frankincense-Myrrh-Eau-de-Parfum-72255.html				pending
-frankincense-and-myrrh-cologne	Frankincense and Myrrh Cologne		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Frankincense-and-Myrrh-Cologne-6425.html				pending
-mimosa-cologne	Mimosa Cologne		female		https://www.fragrantica.com/perfume/Czech-Speake/Mimosa-Cologne-6422.html				pending
-neroli-cologne	Neroli Cologne		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Neroli-Cologne-6426.html				pending
-neroli-eau-de-parfum	Neroli Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Neroli-Eau-de-Parfum-72256.html				pending
-no-88-cologne	No 88 Cologne		male		https://www.fragrantica.com/perfume/Czech-Speake/No-88-Cologne-6429.html				pending
-oxford-and-cambridge-cologne	Oxford & Cambridge Cologne		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Oxford-Cambridge-Cologne-6427.html				pending
-oxford-and-cambridge-eau-de-parfum	Oxford & Cambridge Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Oxford-Cambridge-Eau-de-Parfum-72254.html				pending
-perfecto-fino-cologne	Perfecto Fino Cologne		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Perfecto-Fino-Cologne-63281.html				pending
-perfecto-fino-eau-de-parfum	Perfecto Fino Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Perfecto-Fino-Eau-de-Parfum-72257.html				pending
-rose-cologne	Rose Cologne		female		https://www.fragrantica.com/perfume/Czech-Speake/Rose-Cologne-6418.html				pending
-vetiver-vert-eau-de-parfum	Vetiver Vert Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Vetiver-Vert-Eau-de-Parfum-72258.html				pending
-villa-ausonia-cologne	Villa Ausonia Cologne		unisex		https://www.fragrantica.com/perfume/Czech-Speake/Villa-Ausonia-Cologne-57042.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-7	Amber 7		unisex	https://www.fragrantica.com/perfume/Czech-Speake/Amber-7-95152.html				pending
+citrus-paradisi-cologne	Citrus Paradisi Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Citrus-Paradisi-Cologne-6424.html				pending
+cuba-cologne	Cuba Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Cuba-Cologne-6428.html				pending
+cuba-eau-de-parfum	Cuba Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Cuba-Eau-de-Parfum-72253.html				pending
+dark-rose-cologne	Dark Rose Cologne	Cologne	female	https://www.fragrantica.com/perfume/Czech-Speake/Dark-Rose-Cologne-6423.html				pending
+frankincense-and-myrrh-eau-de-parfum	Frankincense & Myrrh Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Frankincense-Myrrh-Eau-de-Parfum-72255.html				pending
+frankincense-and-myrrh-cologne	Frankincense and Myrrh Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Frankincense-and-Myrrh-Cologne-6425.html				pending
+mimosa-cologne	Mimosa Cologne	Cologne	female	https://www.fragrantica.com/perfume/Czech-Speake/Mimosa-Cologne-6422.html				pending
+neroli-cologne	Neroli Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Neroli-Cologne-6426.html				pending
+neroli-eau-de-parfum	Neroli Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Neroli-Eau-de-Parfum-72256.html				pending
+no-88-cologne	No 88 Cologne	Cologne	male	https://www.fragrantica.com/perfume/Czech-Speake/No-88-Cologne-6429.html				pending
+no-88-eau-de-parfum	No.88 Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Czech-Speake/No-88-Eau-de-Parfum-72252.html				pending
+oxford-and-cambridge-cologne	Oxford & Cambridge Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Oxford-Cambridge-Cologne-6427.html				pending
+oxford-and-cambridge-eau-de-parfum	Oxford & Cambridge Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Oxford-Cambridge-Eau-de-Parfum-72254.html				pending
+perfecto-fino-cologne	Perfecto Fino Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Perfecto-Fino-Cologne-63281.html				pending
+perfecto-fino-eau-de-parfum	Perfecto Fino Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Perfecto-Fino-Eau-de-Parfum-72257.html				pending
+rose-cologne	Rose Cologne	Cologne	female	https://www.fragrantica.com/perfume/Czech-Speake/Rose-Cologne-6418.html				pending
+spanish-cedar-eau-de-parfum	Spanish Cedar Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Spanish-Cedar-Eau-de-Parfum-25296.html				pending
+vetiver-vert-cologne	Vetiver Vert Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Vetiver-Vert-Cologne-14381.html				pending
+vetiver-vert-eau-de-parfum	Vetiver Vert Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Vetiver-Vert-Eau-de-Parfum-72258.html				pending
+villa-ausonia-cologne	Villa Ausonia Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Czech-Speake/Villa-Ausonia-Cologne-57042.html				pending

@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-01-divina	01 Divina		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/01-Divina-57634.html				pending
-02-fioraie	02 Fioraie		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/02-Fioraie-57635.html				pending
-03-fortuna	03 Fortuna		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/03-Fortuna-57636.html				pending
-04-in-amore	04 In Amore		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/04-In-Amore-57637.html				pending
-05-terra	05 Terra		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/05-Terra-57633.html				pending
-06-vita	06 Vita		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/06-Vita-57638.html				pending
-07-intesa	07 Intesa		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/07-Intesa-57639.html				pending
-08-per-sempre	08 Per Sempre		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/08-Per-Sempre-65332.html				pending
-09-tesoro-mio	09 Tesoro Mio		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/09-Tesoro-Mio-65333.html				pending
-10-bellezza	10 Bellezza		unisex		https://www.fragrantica.com/perfume/DiVina-Terra/10-Bellezza-65334.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+01-divina	01 Divina		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/01-Divina-57634.html				pending
+02-fioraie	02 Fioraie		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/02-Fioraie-57635.html				pending
+03-fortuna	03 Fortuna		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/03-Fortuna-57636.html				pending
+04-in-amore	04 In Amore		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/04-In-Amore-57637.html				pending
+05-terra	05 Terra		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/05-Terra-57633.html				pending
+06-vita	06 Vita		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/06-Vita-57638.html				pending
+07-intesa	07 Intesa		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/07-Intesa-57639.html				pending
+08-per-sempre	08 Per Sempre		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/08-Per-Sempre-65332.html				pending
+09-tesoro-mio	09 Tesoro Mio		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/09-Tesoro-Mio-65333.html				pending
+10-bellezza	10 Bellezza		unisex	https://www.fragrantica.com/perfume/DiVina-Terra/10-Bellezza-65334.html				pending

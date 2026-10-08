@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-active-man	Active Man		male		https://www.fragrantica.com/perfume/Yodeyma/Active-Man-76601.html				pending
-boreal	Boreal		female		https://www.fragrantica.com/perfume/Yodeyma/Boreal-94186.html				pending
-linet	Linet		female		https://www.fragrantica.com/perfume/Yodeyma/Linet-94188.html				pending
-acqua-per-uomo	Acqua Per Uomo		male		https://www.fragrantica.com/perfume/Yodeyma/Acqua-Per-Uomo-76600.html				pending
-acqua-woman	Acqua Woman		female		https://www.fragrantica.com/perfume/Yodeyma/Acqua-Woman-76593.html				pending
-adriana	Adriana		female		https://www.fragrantica.com/perfume/Yodeyma/Adriana-76594.html				pending
-adriana-rose	Adriana Rose		female		https://www.fragrantica.com/perfume/Yodeyma/Adriana-Rose-76595.html				pending
-agua-de-yodeyma	Agua de Yodeyma		female		https://www.fragrantica.com/perfume/Yodeyma/Agua-de-Yodeyma-76596.html				pending
-agua-fresca	Agua Fresca		male		https://www.fragrantica.com/perfume/Yodeyma/Agua-Fresca-76603.html				pending
-aroma	Aroma		female		https://www.fragrantica.com/perfume/Yodeyma/Aroma-76597.html				pending
-atrapame	Atrápame		female		https://www.fragrantica.com/perfume/Yodeyma/Atrapame-76598.html				pending
-beach	Beach		male		https://www.fragrantica.com/perfume/Yodeyma/Beach-76604.html				pending
-blue	Blue		male		https://www.fragrantica.com/perfume/Yodeyma/Blue-76605.html				pending
-capri	Capri		male		https://www.fragrantica.com/perfume/Yodeyma/Capri-76606.html				pending
-dinara	Dinara		female		https://www.fragrantica.com/perfume/Yodeyma/Dinara-94187.html				pending
-iris	Iris		female		https://www.fragrantica.com/perfume/Yodeyma/Iris-84063.html				pending
-kids	Kids		unisex		https://www.fragrantica.com/perfume/Yodeyma/Kids-76607.html				pending
-nicolas-for-her	Nicolas for Her		female		https://www.fragrantica.com/perfume/Yodeyma/Nicolas-for-Her-84064.html				pending
-nicolas-white	Nicolas White		female		https://www.fragrantica.com/perfume/Yodeyma/Nicolas-White-84065.html				pending
-nota	Nota		female		https://www.fragrantica.com/perfume/Yodeyma/Nota-84066.html				pending
-oude	Oude		female		https://www.fragrantica.com/perfume/Yodeyma/Oude-94189.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-per-uomo	Acqua Per Uomo		male	https://www.fragrantica.com/perfume/Yodeyma/Acqua-Per-Uomo-76600.html				pending
+acqua-woman	Acqua Woman		female	https://www.fragrantica.com/perfume/Yodeyma/Acqua-Woman-76593.html				pending
+active-man	Active Man		male	https://www.fragrantica.com/perfume/Yodeyma/Active-Man-76601.html				pending
+adriana	Adriana		female	https://www.fragrantica.com/perfume/Yodeyma/Adriana-76594.html				pending
+adriana-rose	Adriana Rose		female	https://www.fragrantica.com/perfume/Yodeyma/Adriana-Rose-76595.html				pending
+agua-de-yodeyma	Agua de Yodeyma		female	https://www.fragrantica.com/perfume/Yodeyma/Agua-de-Yodeyma-76596.html				pending
+agua-fresca	Agua Fresca		male	https://www.fragrantica.com/perfume/Yodeyma/Agua-Fresca-76603.html				pending
+aroma	Aroma		female	https://www.fragrantica.com/perfume/Yodeyma/Aroma-76597.html				pending
+atrapame	Atrápame		female	https://www.fragrantica.com/perfume/Yodeyma/Atrapame-76598.html				pending
+beach	Beach		male	https://www.fragrantica.com/perfume/Yodeyma/Beach-76604.html				pending
+blue	Blue		male	https://www.fragrantica.com/perfume/Yodeyma/Blue-76605.html				pending
+boreal	Boreal		female	https://www.fragrantica.com/perfume/Yodeyma/Boreal-94186.html				pending
+capri	Capri		male	https://www.fragrantica.com/perfume/Yodeyma/Capri-76606.html				pending
+dinara	Dinara		female	https://www.fragrantica.com/perfume/Yodeyma/Dinara-94187.html				pending
+iris	Iris		female	https://www.fragrantica.com/perfume/Yodeyma/Iris-84063.html				pending
+kids	Kids		unisex	https://www.fragrantica.com/perfume/Yodeyma/Kids-76607.html				pending
+linet	Linet		female	https://www.fragrantica.com/perfume/Yodeyma/Linet-94188.html				pending
+nicolas-for-her	Nicolas for Her		female	https://www.fragrantica.com/perfume/Yodeyma/Nicolas-for-Her-84064.html				pending
+nicolas-white	Nicolas White		female	https://www.fragrantica.com/perfume/Yodeyma/Nicolas-White-84065.html				pending
+nota	Nota		female	https://www.fragrantica.com/perfume/Yodeyma/Nota-84066.html				pending
+oude	Oude		female	https://www.fragrantica.com/perfume/Yodeyma/Oude-94189.html				pending

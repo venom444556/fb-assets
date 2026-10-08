@@ -1,33 +1,33 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambar	Ambar		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Ambar-9315.html				pending
-arabian-nights	Arabian Nights		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-13428.html				pending
-arabian-nights-eau-de-parfum	Arabian Nights Eau de Parfum		male		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-Eau-de-Parfum-11085.html				pending
-desert-flowers-dahlia	Desert Flowers Dahlia		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Desert-Flowers-Dahlia-20593.html				pending
-desert-flowers-peony	Desert Flowers Peony		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Desert-Flowers-Peony-20591.html				pending
-exquisite-lily	Exquisite Lily		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Exquisite-Lily-70608.html				pending
-gold-cedar-nights	Gold Cedar Nights		male		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Gold-Cedar-Nights-64227.html				pending
-in-black	In Black		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/In-Black-719.html				pending
-intimate-elixir	Intimate Elixir		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Intimate-Elixir-70606.html				pending
-jesus-del-pozo-in-white	Jesus Del Pozo In White		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Jesus-Del-Pozo-In-White-1449.html				pending
-mystic-leather-nights	Mystic Leather Nights		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Mystic-Leather-Nights-43685.html				pending
-noble-musk-nights	Noble Musk Nights		male		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Noble-Musk-Nights-32643.html				pending
-on-el	On El		male		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/On-El-6873.html				pending
-on-ella	On Ella		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/On-Ella-6874.html				pending
-suede-breeze	Suede Breeze		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Suede-Breeze-70605.html				pending
-tobacco-wood-nights	Tobacco Wood Nights		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Tobacco-Wood-Nights-53634.html				pending
-vivid-velvet	Vivid Velvet		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Vivid-Velvet-70604.html				pending
-wild-temptation	Wild Temptation		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Wild-Temptation-70607.html				pending
-adventure-quasar	Adventure Quasar		male		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Adventure-Quasar-1442.html				pending
-amber-patchouli-nights	Amber Patchouli Nights		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Amber-Patchouli-Nights-64547.html				pending
-arabian-nights-eau-de-toilette	Arabian Nights Eau de Toilette		male		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-Eau-de-Toilette-50157.html				pending
-arabian-nights-private-collection	Arabian Nights Private Collection		male		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-Private-Collection-29739.html				pending
-arabian-nights-private-collection-woman	Arabian Nights Private Collection Woman		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-Private-Collection-Woman-29740.html				pending
-cashmere-bouquet-nights	Cashmere Bouquet Nights		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Cashmere-Bouquet-Nights-64549.html				pending
-dark-saffron-nights	Dark Saffron Nights		male		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Dark-Saffron-Nights-64550.html				pending
-desert-flowers-lily	Desert Flowers Lily		unisex		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Desert-Flowers-Lily-20592.html				pending
-duende	Duende		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Duende-4165.html				pending
-esencia-de-duende	Esencia de Duende		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Esencia-de-Duende-4166.html				pending
-gold-tuberose-nights	Gold Tuberose Nights		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Gold-Tuberose-Nights-64548.html				pending
-quasar	Quasar		male		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Quasar-1443.html				pending
-rose-oud-nights	Rose Oud Nights		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Rose-Oud-Nights-32644.html				pending
-vanilla-musk-nights	Vanilla Musk Nights		female		https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Vanilla-Musk-Nights-64546.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adventure-quasar	Adventure Quasar		male	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Adventure-Quasar-1442.html				pending
+ambar	Ambar		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Ambar-9315.html				pending
+amber-patchouli-nights	Amber Patchouli Nights		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Amber-Patchouli-Nights-64547.html				pending
+arabian-nights	Arabian Nights		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-13428.html				pending
+arabian-nights-eau-de-parfum	Arabian Nights Eau de Parfum	Eau de Parfum	male	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-Eau-de-Parfum-11085.html				pending
+arabian-nights-eau-de-toilette	Arabian Nights Eau de Toilette	Eau de Toilette	male	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-Eau-de-Toilette-50157.html				pending
+arabian-nights-private-collection	Arabian Nights Private Collection		male	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-Private-Collection-29739.html				pending
+arabian-nights-private-collection-woman	Arabian Nights Private Collection Woman		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Arabian-Nights-Private-Collection-Woman-29740.html				pending
+cashmere-bouquet-nights	Cashmere Bouquet Nights		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Cashmere-Bouquet-Nights-64549.html				pending
+dark-saffron-nights	Dark Saffron Nights		male	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Dark-Saffron-Nights-64550.html				pending
+desert-flowers-dahlia	Desert Flowers Dahlia		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Desert-Flowers-Dahlia-20593.html				pending
+desert-flowers-lily	Desert Flowers Lily		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Desert-Flowers-Lily-20592.html				pending
+desert-flowers-peony	Desert Flowers Peony		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Desert-Flowers-Peony-20591.html				pending
+duende	Duende		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Duende-4165.html				pending
+esencia-de-duende	Esencia de Duende		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Esencia-de-Duende-4166.html				pending
+exquisite-lily	Exquisite Lily		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Exquisite-Lily-70608.html				pending
+gold-cedar-nights	Gold Cedar Nights		male	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Gold-Cedar-Nights-64227.html				pending
+gold-tuberose-nights	Gold Tuberose Nights		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Gold-Tuberose-Nights-64548.html				pending
+in-black	In Black		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/In-Black-719.html				pending
+intimate-elixir	Intimate Elixir		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Intimate-Elixir-70606.html				pending
+jesus-del-pozo-in-white	Jesus Del Pozo In White		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Jesus-Del-Pozo-In-White-1449.html				pending
+mystic-leather-nights	Mystic Leather Nights		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Mystic-Leather-Nights-43685.html				pending
+noble-musk-nights	Noble Musk Nights		male	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Noble-Musk-Nights-32643.html				pending
+on-el	On El		male	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/On-El-6873.html				pending
+on-ella	On Ella		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/On-Ella-6874.html				pending
+quasar	Quasar		male	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Quasar-1443.html				pending
+rose-oud-nights	Rose Oud Nights		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Rose-Oud-Nights-32644.html				pending
+suede-breeze	Suede Breeze		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Suede-Breeze-70605.html				pending
+tobacco-wood-nights	Tobacco Wood Nights		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Tobacco-Wood-Nights-53634.html				pending
+vanilla-musk-nights	Vanilla Musk Nights		female	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Vanilla-Musk-Nights-64546.html				pending
+vivid-velvet	Vivid Velvet		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Vivid-Velvet-70604.html				pending
+wild-temptation	Wild Temptation		unisex	https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Wild-Temptation-70607.html				pending

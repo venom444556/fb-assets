@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-day-in-grasse	A Day in Grasse		unisex		https://www.fragrantica.com/perfume/Arts-Scents/A-Day-in-Grasse-23606.html				pending
-cuero-de-mexico	Cuero de Mexico		unisex		https://www.fragrantica.com/perfume/Arts-Scents/Cuero-de-Mexico-23607.html				pending
-cupidos-kiss	Cupidos Kiss		unisex		https://www.fragrantica.com/perfume/Arts-Scents/Cupidos-Kiss-23611.html				pending
-dream-of-india	Dream of India		unisex		https://www.fragrantica.com/perfume/Arts-Scents/Dream-of-India-23612.html				pending
-fantastic-green-bird	Fantastic Green Bird		unisex		https://www.fragrantica.com/perfume/Arts-Scents/Fantastic-Green-Bird-23613.html				pending
-forever-heart-bound	Forever Heart Bound		female		https://www.fragrantica.com/perfume/Arts-Scents/Forever-Heart-Bound-30960.html				pending
-light-of-ormuz	Light of Ormuz		unisex		https://www.fragrantica.com/perfume/Arts-Scents/Light-of-Ormuz-23608.html				pending
-night-and-dawn-a-vampires-love	Night and Dawn A Vampire's Love		unisex		https://www.fragrantica.com/perfume/Arts-Scents/Night-and-Dawn-A-Vampire-s-Love-23610.html				pending
-pan-tierra	Pan Tierra		unisex		https://www.fragrantica.com/perfume/Arts-Scents/Pan-Tierra-23609.html				pending
-wild-cat-musk	Wild Cat Musk		unisex		https://www.fragrantica.com/perfume/Arts-Scents/Wild-Cat-Musk-23605.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-day-in-grasse	A Day in Grasse		unisex	https://www.fragrantica.com/perfume/Arts-Scents/A-Day-in-Grasse-23606.html				pending
+cuero-de-mexico	Cuero de Mexico		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Cuero-de-Mexico-23607.html				pending
+cupidos-kiss	Cupidos Kiss		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Cupidos-Kiss-23611.html				pending
+dream-of-india	Dream of India		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Dream-of-India-23612.html				pending
+fantastic-green-bird	Fantastic Green Bird		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Fantastic-Green-Bird-23613.html				pending
+forever-heart-bound	Forever Heart Bound		female	https://www.fragrantica.com/perfume/Arts-Scents/Forever-Heart-Bound-30960.html				pending
+light-of-ormuz	Light of Ormuz		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Light-of-Ormuz-23608.html				pending
+night-and-dawn-a-vampires-love	Night and Dawn A Vampire's Love		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Night-and-Dawn-A-Vampire-s-Love-23610.html				pending
+pan-tierra	Pan Tierra		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Pan-Tierra-23609.html				pending
+wild-cat-musk	Wild Cat Musk		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Wild-Cat-Musk-23605.html				pending

@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alaska-leather	Alaska Leather		unisex		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Alaska-Leather-52113.html				pending
-asian-amber	Asian Amber		female		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Asian-Amber-52122.html				pending
-eskimo-musk	Eskimo Musk		unisex		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Eskimo-Musk-52111.html				pending
-exquisite-oud	Exquisite Oud		male		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Exquisite-Oud-52114.html				pending
-fruity-cherry	Fruity Cherry		female		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Fruity-Cherry-52118.html				pending
-ice-blue	Ice Blue		unisex		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Ice-Blue-52116.html				pending
-istanbul-rose	Istanbul Rose		female		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Istanbul-Rose-52120.html				pending
-red-apple	Red Apple		female		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Red-Apple-52115.html				pending
-royal-gold	Royal Gold		unisex		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Royal-Gold-52119.html				pending
-siberian-wood	Siberian Wood		unisex		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Siberian-Wood-52112.html				pending
-ultra-violet	Ultra Violet		female		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Ultra-Violet-52121.html				pending
-zamurd	Zamurd		unisex		https://www.fragrantica.com/perfume/Be-Style-Perfumes/Zamurd-52117.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alaska-leather	Alaska Leather		unisex	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Alaska-Leather-52113.html				pending
+asian-amber	Asian Amber		female	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Asian-Amber-52122.html				pending
+eskimo-musk	Eskimo Musk		unisex	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Eskimo-Musk-52111.html				pending
+exquisite-oud	Exquisite Oud		male	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Exquisite-Oud-52114.html				pending
+fruity-cherry	Fruity Cherry		female	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Fruity-Cherry-52118.html				pending
+ice-blue	Ice Blue		unisex	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Ice-Blue-52116.html				pending
+istanbul-rose	Istanbul Rose		female	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Istanbul-Rose-52120.html				pending
+red-apple	Red Apple		female	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Red-Apple-52115.html				pending
+royal-gold	Royal Gold		unisex	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Royal-Gold-52119.html				pending
+siberian-wood	Siberian Wood		unisex	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Siberian-Wood-52112.html				pending
+ultra-violet	Ultra Violet		female	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Ultra-Violet-52121.html				pending
+zamurd	Zamurd		unisex	https://www.fragrantica.com/perfume/Be-Style-Perfumes/Zamurd-52117.html				pending

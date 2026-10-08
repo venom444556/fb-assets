@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-akaba	Akaba		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Akaba-11209.html				pending
-alhambra	Alhambra		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Alhambra-34561.html				pending
-bal-masque	Bal Masqué		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Bal-Masque-34554.html				pending
-black-tear	Black Tear		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Black-Tear-34553.html				pending
-bois-de-gayac	Bois de Gayac		male		https://www.fragrantica.com/perfume/Antonio-Visconti/Bois-de-Gayac-11210.html				pending
-clair-de-lune	Clair de Lune		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Clair-de-Lune-20177.html				pending
-coeur-de-vanille	Coeur de Vanille		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Coeur-de-Vanille-11211.html				pending
-esprit-libre	Esprit Libre		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Esprit-Libre-11212.html				pending
-extrait-de-cedrat	Extrait de Cedrat		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Extrait-de-Cedrat-11213.html				pending
-fleur-de-lys	Fleur de Lys		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Fleur-de-Lys-11221.html				pending
-fleur-de-nuit	Fleur de Nuit		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Fleur-de-Nuit-11223.html				pending
-fleur-et-feuille-de-jasmin	Fleur et Feuille de Jasmin		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Fleur-et-Feuille-de-Jasmin-11222.html				pending
-foliage	Foliage		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Foliage-34550.html				pending
-glam-flower	Glam Flower		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Glam-Flower-34552.html				pending
-juicy-flower	Juicy Flower		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Juicy-Flower-34555.html				pending
-la-divina-tubereuse	La Divina Tubereuse		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/La-Divina-Tubereuse-34556.html				pending
-le-sens-du-plaisir	Le Sens du Plaisir		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Le-Sens-du-Plaisir-35052.html				pending
-musk-de-roy	Musk de Roy		male		https://www.fragrantica.com/perfume/Antonio-Visconti/Musk-de-Roy-11224.html				pending
-oud-maharaji	Oud Maharaji		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Oud-Maharaji-34557.html				pending
-oud-mohave	Oud Mohave		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Oud-Mohave-34559.html				pending
-oud-nomade	Oud Nomade		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Oud-Nomade-34558.html				pending
-rebel	Rebel		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Rebel-34549.html				pending
-rose-sauvage	Rose Sauvage		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Rose-Sauvage-11225.html				pending
-rose-supreme	Rose Supreme		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Rose-Supreme-11226.html				pending
-sea-island	Sea Island		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Sea-Island-34560.html				pending
-silver-wood	Silver Wood		unisex		https://www.fragrantica.com/perfume/Antonio-Visconti/Silver-Wood-34551.html				pending
-soir-de-mer	Soir de Mer		male		https://www.fragrantica.com/perfume/Antonio-Visconti/Soir-de-Mer-11227.html				pending
-tabarom	Tabarom		male		https://www.fragrantica.com/perfume/Antonio-Visconti/Tabarom-11228.html				pending
-temps-dhiver	Temps d'hiver		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Temps-d-hiver-11229.html				pending
-terre-de-feu	Terre de Feu		female		https://www.fragrantica.com/perfume/Antonio-Visconti/Terre-de-Feu-11230.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+akaba	Akaba		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Akaba-11209.html				pending
+alhambra	Alhambra		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Alhambra-34561.html				pending
+bal-masque	Bal Masqué		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Bal-Masque-34554.html				pending
+black-tear	Black Tear		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Black-Tear-34553.html				pending
+bois-de-gayac	Bois de Gayac		male	https://www.fragrantica.com/perfume/Antonio-Visconti/Bois-de-Gayac-11210.html				pending
+clair-de-lune	Clair de Lune		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Clair-de-Lune-20177.html				pending
+coeur-de-vanille	Coeur de Vanille		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Coeur-de-Vanille-11211.html				pending
+esprit-libre	Esprit Libre		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Esprit-Libre-11212.html				pending
+extrait-de-cedrat	Extrait de Cedrat	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Extrait-de-Cedrat-11213.html				pending
+fleur-de-lys	Fleur de Lys		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Fleur-de-Lys-11221.html				pending
+fleur-de-nuit	Fleur de Nuit		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Fleur-de-Nuit-11223.html				pending
+fleur-et-feuille-de-jasmin	Fleur et Feuille de Jasmin		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Fleur-et-Feuille-de-Jasmin-11222.html				pending
+foliage	Foliage		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Foliage-34550.html				pending
+glam-flower	Glam Flower		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Glam-Flower-34552.html				pending
+juicy-flower	Juicy Flower		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Juicy-Flower-34555.html				pending
+la-divina-tubereuse	La Divina Tubereuse		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/La-Divina-Tubereuse-34556.html				pending
+le-sens-du-plaisir	Le Sens du Plaisir		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Le-Sens-du-Plaisir-35052.html				pending
+musk-de-roy	Musk de Roy		male	https://www.fragrantica.com/perfume/Antonio-Visconti/Musk-de-Roy-11224.html				pending
+oud-maharaji	Oud Maharaji		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Oud-Maharaji-34557.html				pending
+oud-mohave	Oud Mohave		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Oud-Mohave-34559.html				pending
+oud-nomade	Oud Nomade		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Oud-Nomade-34558.html				pending
+rebel	Rebel		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Rebel-34549.html				pending
+rose-sauvage	Rose Sauvage		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Rose-Sauvage-11225.html				pending
+rose-supreme	Rose Supreme		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Rose-Supreme-11226.html				pending
+sea-island	Sea Island		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Sea-Island-34560.html				pending
+silver-wood	Silver Wood		unisex	https://www.fragrantica.com/perfume/Antonio-Visconti/Silver-Wood-34551.html				pending
+soir-de-mer	Soir de Mer		male	https://www.fragrantica.com/perfume/Antonio-Visconti/Soir-de-Mer-11227.html				pending
+tabarom	Tabarom		male	https://www.fragrantica.com/perfume/Antonio-Visconti/Tabarom-11228.html				pending
+temps-dhiver	Temps d'hiver		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Temps-d-hiver-11229.html				pending
+terre-de-feu	Terre de Feu		female	https://www.fragrantica.com/perfume/Antonio-Visconti/Terre-de-Feu-11230.html				pending

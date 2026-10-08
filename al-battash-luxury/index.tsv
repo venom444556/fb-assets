@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-al-jalila	Al Jalila		female		https://www.fragrantica.com/perfume/Al-Battash-Luxury/Al-Jalila-39840.html				pending
-amaryllis	Amaryllis		female		https://www.fragrantica.com/perfume/Al-Battash-Luxury/Amaryllis-39839.html				pending
-hamdan	Hamdan		male		https://www.fragrantica.com/perfume/Al-Battash-Luxury/Hamdan-39843.html				pending
-la-vie-en-rose	La Vie En Rose		female		https://www.fragrantica.com/perfume/Al-Battash-Luxury/La-Vie-En-Rose-39841.html				pending
-le-sage	Le Sage		male		https://www.fragrantica.com/perfume/Al-Battash-Luxury/Le-Sage-39842.html				pending
-sapphire	Sapphire		male		https://www.fragrantica.com/perfume/Al-Battash-Luxury/Sapphire-39844.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+al-jalila	Al Jalila		female	https://www.fragrantica.com/perfume/Al-Battash-Luxury/Al-Jalila-39840.html				pending
+amaryllis	Amaryllis		female	https://www.fragrantica.com/perfume/Al-Battash-Luxury/Amaryllis-39839.html				pending
+hamdan	Hamdan		male	https://www.fragrantica.com/perfume/Al-Battash-Luxury/Hamdan-39843.html				pending
+la-vie-en-rose	La Vie En Rose		female	https://www.fragrantica.com/perfume/Al-Battash-Luxury/La-Vie-En-Rose-39841.html				pending
+le-sage	Le Sage		male	https://www.fragrantica.com/perfume/Al-Battash-Luxury/Le-Sage-39842.html				pending
+sapphire	Sapphire		male	https://www.fragrantica.com/perfume/Al-Battash-Luxury/Sapphire-39844.html				pending

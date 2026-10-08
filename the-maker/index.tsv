@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alias	Alias		unisex		https://www.fragrantica.com/perfume/The-Maker/Alias-119455.html				pending
-dream	Dream		unisex		https://www.fragrantica.com/perfume/The-Maker/Dream-100854.html				pending
-fire	Fire		unisex		https://www.fragrantica.com/perfume/The-Maker/Fire-72544.html				pending
-libertine	Libertine		unisex		https://www.fragrantica.com/perfume/The-Maker/Libertine-72536.html				pending
-lover	Lover		unisex		https://www.fragrantica.com/perfume/The-Maker/Lover-93432.html				pending
-naked	Naked		unisex		https://www.fragrantica.com/perfume/The-Maker/Naked-72539.html				pending
-paradiso	Paradiso		unisex		https://www.fragrantica.com/perfume/The-Maker/Paradiso-72546.html				pending
-revel	Revel		unisex		https://www.fragrantica.com/perfume/The-Maker/Revel-109794.html				pending
-stag	Stag		unisex		https://www.fragrantica.com/perfume/The-Maker/Stag-72541.html				pending
-wild	Wild		unisex		https://www.fragrantica.com/perfume/The-Maker/Wild-72548.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alias	Alias		unisex	https://www.fragrantica.com/perfume/The-Maker/Alias-119455.html				pending
+dream	Dream		unisex	https://www.fragrantica.com/perfume/The-Maker/Dream-100854.html				pending
+fire	Fire		unisex	https://www.fragrantica.com/perfume/The-Maker/Fire-72544.html				pending
+libertine	Libertine		unisex	https://www.fragrantica.com/perfume/The-Maker/Libertine-72536.html				pending
+lover	Lover		unisex	https://www.fragrantica.com/perfume/The-Maker/Lover-93432.html				pending
+naked	Naked		unisex	https://www.fragrantica.com/perfume/The-Maker/Naked-72539.html				pending
+paradiso	Paradiso		unisex	https://www.fragrantica.com/perfume/The-Maker/Paradiso-72546.html				pending
+revel	Revel		unisex	https://www.fragrantica.com/perfume/The-Maker/Revel-109794.html				pending
+stag	Stag		unisex	https://www.fragrantica.com/perfume/The-Maker/Stag-72541.html				pending
+wild	Wild		unisex	https://www.fragrantica.com/perfume/The-Maker/Wild-72548.html				pending

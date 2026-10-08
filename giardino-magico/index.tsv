@@ -1,19 +1,19 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-dream	Amber Dream		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Amber-Dream-83341.html				pending
-bouquet-di-gelsomino	Bouquet di Gelsomino		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Bouquet-di-Gelsomino-85374.html				pending
-cherry-and-oud	Cherry & Oud		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Cherry-Oud-83351.html				pending
-ciliegia-intenso	Ciliegia Intenso		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Ciliegia-Intenso-85375.html				pending
-cilligia	Cilligia		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Cilligia-83345.html				pending
-dolce-mattina	Dolce Mattina		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Dolce-Mattina-83343.html				pending
-figue-and-vanilla	Figue & Vanilla		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Figue-Vanilla-83350.html				pending
-grapefruit-and-santal	Grapefruit & Santal		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Grapefruit-Santal-83340.html				pending
-jasmine-and-cassis	Jasmine & Cassis		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Jasmine-Cassis-83346.html				pending
-musk-mandarin-santal	Musk, mandarin, santal		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Musk-mandarin-santal-85377.html				pending
-oud-and-black-pepper	Oud & Black Pepper		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Oud-Black-Pepper-83342.html				pending
-peach-and-bergamote	Peach & Bergamote		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Peach-Bergamote-83352.html				pending
-pear-and-bergamote	Pear & Bergamote		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Pear-Bergamote-83347.html				pending
-pelle-rossa	Pelle Rossa		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Pelle-Rossa-83348.html				pending
-rose-and-almond	Rose & Almond		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Rose-Almond-83349.html				pending
-rose-and-tonka	Rose & Tonka		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Rose-Tonka-83344.html				pending
-tonka-vanilla-white-musk	Tonka, Vanilla, White Musk		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Tonka-Vanilla-White-Musk-85373.html				pending
-vanilla-patchouli-figue	Vanilla, Patchouli, Figue		unisex		https://www.fragrantica.com/perfume/Giardino-Magico/Vanilla-Patchouli-Figue-85376.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-dream	Amber Dream		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Amber-Dream-83341.html				pending
+bouquet-di-gelsomino	Bouquet di Gelsomino		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Bouquet-di-Gelsomino-85374.html				pending
+cherry-and-oud	Cherry & Oud		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Cherry-Oud-83351.html				pending
+ciliegia-intenso	Ciliegia Intenso		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Ciliegia-Intenso-85375.html				pending
+cilligia	Cilligia		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Cilligia-83345.html				pending
+dolce-mattina	Dolce Mattina		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Dolce-Mattina-83343.html				pending
+figue-and-vanilla	Figue & Vanilla		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Figue-Vanilla-83350.html				pending
+grapefruit-and-santal	Grapefruit & Santal		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Grapefruit-Santal-83340.html				pending
+jasmine-and-cassis	Jasmine & Cassis		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Jasmine-Cassis-83346.html				pending
+musk-mandarin-santal	Musk, mandarin, santal		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Musk-mandarin-santal-85377.html				pending
+oud-and-black-pepper	Oud & Black Pepper		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Oud-Black-Pepper-83342.html				pending
+peach-and-bergamote	Peach & Bergamote		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Peach-Bergamote-83352.html				pending
+pear-and-bergamote	Pear & Bergamote		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Pear-Bergamote-83347.html				pending
+pelle-rossa	Pelle Rossa		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Pelle-Rossa-83348.html				pending
+rose-and-almond	Rose & Almond		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Rose-Almond-83349.html				pending
+rose-and-tonka	Rose & Tonka		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Rose-Tonka-83344.html				pending
+tonka-vanilla-white-musk	Tonka, Vanilla, White Musk		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Tonka-Vanilla-White-Musk-85373.html				pending
+vanilla-patchouli-figue	Vanilla, Patchouli, Figue		unisex	https://www.fragrantica.com/perfume/Giardino-Magico/Vanilla-Patchouli-Figue-85376.html				pending

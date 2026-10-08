@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-baicha-eau-de-parfum	Baicha Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Baicha-Eau-de-Parfum-54945.html				pending
-bel-iris-eau-de-toilette	Bel Iris Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Welton-London/Bel-Iris-Eau-de-Toilette-27408.html				pending
-iconic-amber-oud-eau-de-parfum	Iconic Amber Oud Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Iconic-Amber-Oud-Eau-de-Parfum-44310.html				pending
-imperial-leather	Imperial Leather		unisex		https://www.fragrantica.com/perfume/Welton-London/Imperial-Leather-90898.html				pending
-keemun-eau-de-parfum	Keemun Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Keemun-Eau-de-Parfum-54946.html				pending
-lamour-absolu-extrait-de-parfum	L'Amour Absolu Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/L-Amour-Absolu-Extrait-de-Parfum-79072.html				pending
-lucky-charm-extrait-de-parfum	Lucky Charm Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Lucky-Charm-Extrait-de-Parfum-79073.html				pending
-mystique-myrrhe	Mystique Myrrhe		unisex		https://www.fragrantica.com/perfume/Welton-London/Mystique-Myrrhe-90899.html				pending
-rose-empire-eau-de-parfum	Rose Empire Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Rose-Empire-Eau-de-Parfum-44311.html				pending
-ryokucha-eau-de-parfum	Ryokucha Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Ryokucha-Eau-de-Parfum-54944.html				pending
-secret-amber-eau-de-parfum	Secret Amber Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Secret-Amber-Eau-de-Parfum-79582.html				pending
-secret-amber-eau-de-toilette	Secret Amber Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Welton-London/Secret-Amber-Eau-de-Toilette-27411.html				pending
-sencha-eau-de-parfum	Sencha Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Sencha-Eau-de-Parfum-54943.html				pending
-bois-de-babylone-eau-de-parfum	Bois de Babylone Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Bois-de-Babylone-Eau-de-Parfum-44305.html				pending
-cuir-insolite-eau-de-toilette	Cuir Insolite Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Welton-London/Cuir-Insolite-Eau-de-Toilette-27409.html				pending
-essence-de-bois-precieux-eau-de-parfum	Essence de Bois Précieux Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Essence-de-Bois-Precieux-Eau-de-Parfum-44307.html				pending
-jasmin-sacre-eau-de-parfum	Jasmin Sacre Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Jasmin-Sacre-Eau-de-Parfum-44308.html				pending
-narcotic-elixir-extrait-de-parfum	Narcotic Elixir Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Narcotic-Elixir-Extrait-de-Parfum-79074.html				pending
-oud-inspiration-eau-de-parfum	Oud Inspiration Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Welton-London/Oud-Inspiration-Eau-de-Parfum-79583.html				pending
-oud-inspiration-eau-de-toilette	Oud Inspiration Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Welton-London/Oud-Inspiration-Eau-de-Toilette-27407.html				pending
-saffron-euphoria	Saffron Euphoria		unisex		https://www.fragrantica.com/perfume/Welton-London/Saffron-Euphoria-90897.html				pending
-singuliere-rose-chypree-eau-de-toilette	Singuliere Rose Chypree Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Welton-London/Singuliere-Rose-Chypree-Eau-de-Toilette-27410.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+baicha-eau-de-parfum	Baicha Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Baicha-Eau-de-Parfum-54945.html				pending
+bel-iris-eau-de-toilette	Bel Iris Eau de Toilette	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Welton-London/Bel-Iris-Eau-de-Toilette-27408.html				pending
+bois-de-babylone-eau-de-parfum	Bois de Babylone Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Bois-de-Babylone-Eau-de-Parfum-44305.html				pending
+cuir-insolite-eau-de-toilette	Cuir Insolite Eau de Toilette	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Welton-London/Cuir-Insolite-Eau-de-Toilette-27409.html				pending
+essence-de-bois-precieux-eau-de-parfum	Essence de Bois Précieux Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Essence-de-Bois-Precieux-Eau-de-Parfum-44307.html				pending
+iconic-amber-oud-eau-de-parfum	Iconic Amber Oud Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Iconic-Amber-Oud-Eau-de-Parfum-44310.html				pending
+imperial-leather	Imperial Leather		unisex	https://www.fragrantica.com/perfume/Welton-London/Imperial-Leather-90898.html				pending
+jasmin-sacre-eau-de-parfum	Jasmin Sacre Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Jasmin-Sacre-Eau-de-Parfum-44308.html				pending
+keemun-eau-de-parfum	Keemun Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Keemun-Eau-de-Parfum-54946.html				pending
+lamour-absolu-extrait-de-parfum	L'Amour Absolu Extrait de Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/L-Amour-Absolu-Extrait-de-Parfum-79072.html				pending
+lucky-charm-extrait-de-parfum	Lucky Charm Extrait de Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Lucky-Charm-Extrait-de-Parfum-79073.html				pending
+mystique-myrrhe	Mystique Myrrhe		unisex	https://www.fragrantica.com/perfume/Welton-London/Mystique-Myrrhe-90899.html				pending
+narcotic-elixir-extrait-de-parfum	Narcotic Elixir Extrait de Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Narcotic-Elixir-Extrait-de-Parfum-79074.html				pending
+oud-inspiration-eau-de-parfum	Oud Inspiration Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Oud-Inspiration-Eau-de-Parfum-79583.html				pending
+oud-inspiration-eau-de-toilette	Oud Inspiration Eau de Toilette	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Welton-London/Oud-Inspiration-Eau-de-Toilette-27407.html				pending
+rose-empire-eau-de-parfum	Rose Empire Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Rose-Empire-Eau-de-Parfum-44311.html				pending
+ryokucha-eau-de-parfum	Ryokucha Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Ryokucha-Eau-de-Parfum-54944.html				pending
+saffron-euphoria	Saffron Euphoria		unisex	https://www.fragrantica.com/perfume/Welton-London/Saffron-Euphoria-90897.html				pending
+secret-amber-eau-de-parfum	Secret Amber Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Secret-Amber-Eau-de-Parfum-79582.html				pending
+secret-amber-eau-de-toilette	Secret Amber Eau de Toilette	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Welton-London/Secret-Amber-Eau-de-Toilette-27411.html				pending
+sencha-eau-de-parfum	Sencha Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Welton-London/Sencha-Eau-de-Parfum-54943.html				pending
+singuliere-rose-chypree-eau-de-toilette	Singuliere Rose Chypree Eau de Toilette	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Welton-London/Singuliere-Rose-Chypree-Eau-de-Toilette-27410.html				pending

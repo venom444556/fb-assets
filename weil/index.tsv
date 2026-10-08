@@ -1,36 +1,36 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-emotion-essence	Emotion Essence		female		https://www.fragrantica.com/perfume/Weil/Emotion-Essence-18659.html				pending
-greedy-essence	Greedy Essence		female		https://www.fragrantica.com/perfume/Weil/Greedy-Essence-29321.html				pending
-passion-essence	Passion Essence		female		https://www.fragrantica.com/perfume/Weil/Passion-Essence-64226.html				pending
-suki-essence	Suki Essence		female		https://www.fragrantica.com/perfume/Weil/Suki-Essence-47449.html				pending
-zibeline-de-weil	Zibeline de Weil		female		https://www.fragrantica.com/perfume/Weil/Zibeline-de-Weil-14914.html				pending
-antilope	Antilope		female		https://www.fragrantica.com/perfume/Weil/Antilope-5315.html				pending
-bambou	Bambou		female		https://www.fragrantica.com/perfume/Weil/Bambou-5316.html				pending
-belle-en-weil	Belle en Weil		female		https://www.fragrantica.com/perfume/Weil/Belle-en-Weil-64224.html				pending
-cassandra	Cassandra		female		https://www.fragrantica.com/perfume/Weil/Cassandra-45682.html				pending
-chinchilla	Chinchilla		female		https://www.fragrantica.com/perfume/Weil/Chinchilla-45683.html				pending
-chunga	Chunga		female		https://www.fragrantica.com/perfume/Weil/Chunga-9207.html				pending
-deep-blue-essence	Deep Blue Essence		unisex		https://www.fragrantica.com/perfume/Weil/Deep-Blue-Essence-47450.html				pending
-eau-de-fraicheur	Eau de Fraicheur		unisex		https://www.fragrantica.com/perfume/Weil/Eau-de-Fraicheur-11845.html				pending
-eau-de-weil	Eau de Weil		female		https://www.fragrantica.com/perfume/Weil/Eau-de-Weil-5320.html				pending
-fleur-de-weil	Fleur De Weil		female		https://www.fragrantica.com/perfume/Weil/Fleur-De-Weil-9208.html				pending
-gentilhomme	Gentilhomme		male		https://www.fragrantica.com/perfume/Weil/Gentilhomme-20363.html				pending
-hermine	Hermine		unisex		https://www.fragrantica.com/perfume/Weil/Hermine-45685.html				pending
-kipling	Kipling		male		https://www.fragrantica.com/perfume/Weil/Kipling-29322.html				pending
-l-o-v-e	L.O.V.E		female		https://www.fragrantica.com/perfume/Weil/L-O-V-E-64225.html				pending
-merveilles-and-fleurs	Merveilles & Fleurs		female		https://www.fragrantica.com/perfume/Weil/Merveilles-Fleurs-64222.html				pending
-merveilles-and-fruits	Merveilles & Fruits		female		https://www.fragrantica.com/perfume/Weil/Merveilles-Fruits-64223.html				pending
-merveilles-and-nuit	Merveilles & Nuit		female		https://www.fragrantica.com/perfume/Weil/Merveilles-Nuit-64221.html				pending
-padisha	Padisha		female		https://www.fragrantica.com/perfume/Weil/Padisha-45684.html				pending
-reve-de-weil	Reve de Weil		female		https://www.fragrantica.com/perfume/Weil/Reve-de-Weil-14912.html				pending
-secret-de-venus	Secret De Venus		female		https://www.fragrantica.com/perfume/Weil/Secret-De-Venus-8043.html				pending
-secret-de-venus-eau-de-parfum	Secret De Venus Eau de Parfum		female		https://www.fragrantica.com/perfume/Weil/Secret-De-Venus-Eau-de-Parfum-36429.html				pending
-secret-de-weil	Secret de Weil		female		https://www.fragrantica.com/perfume/Weil/Secret-de-Weil-14913.html				pending
-so-weil	So Weil		male		https://www.fragrantica.com/perfume/Weil/So-Weil-5319.html				pending
-sweet-bambou	Sweet Bambou		female		https://www.fragrantica.com/perfume/Weil/Sweet-Bambou-5318.html				pending
-weil-de-weil	Weil De Weil		female		https://www.fragrantica.com/perfume/Weil/Weil-De-Weil-9206.html				pending
-weil-le-parfum	Weil Le Parfum		female		https://www.fragrantica.com/perfume/Weil/Weil-Le-Parfum-60375.html				pending
-weil-pour-homme	Weil Pour Homme		male		https://www.fragrantica.com/perfume/Weil/Weil-Pour-Homme-5317.html				pending
-wild-essence	Wild Essence		male		https://www.fragrantica.com/perfume/Weil/Wild-Essence-14910.html				pending
-wise-essence	Wise Essence		male		https://www.fragrantica.com/perfume/Weil/Wise-Essence-14911.html				pending
-zibeline	Zibeline		female		https://www.fragrantica.com/perfume/Weil/Zibeline-6318.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+antilope	Antilope		female	https://www.fragrantica.com/perfume/Weil/Antilope-5315.html				pending
+bambou	Bambou		female	https://www.fragrantica.com/perfume/Weil/Bambou-5316.html				pending
+belle-en-weil	Belle en Weil		female	https://www.fragrantica.com/perfume/Weil/Belle-en-Weil-64224.html				pending
+cassandra	Cassandra		female	https://www.fragrantica.com/perfume/Weil/Cassandra-45682.html				pending
+chinchilla	Chinchilla		female	https://www.fragrantica.com/perfume/Weil/Chinchilla-45683.html				pending
+chunga	Chunga		female	https://www.fragrantica.com/perfume/Weil/Chunga-9207.html				pending
+deep-blue-essence	Deep Blue Essence		unisex	https://www.fragrantica.com/perfume/Weil/Deep-Blue-Essence-47450.html				pending
+eau-de-fraicheur	Eau de Fraicheur		unisex	https://www.fragrantica.com/perfume/Weil/Eau-de-Fraicheur-11845.html				pending
+eau-de-weil	Eau de Weil		female	https://www.fragrantica.com/perfume/Weil/Eau-de-Weil-5320.html				pending
+emotion-essence	Emotion Essence		female	https://www.fragrantica.com/perfume/Weil/Emotion-Essence-18659.html				pending
+fleur-de-weil	Fleur De Weil		female	https://www.fragrantica.com/perfume/Weil/Fleur-De-Weil-9208.html				pending
+gentilhomme	Gentilhomme		male	https://www.fragrantica.com/perfume/Weil/Gentilhomme-20363.html				pending
+greedy-essence	Greedy Essence		female	https://www.fragrantica.com/perfume/Weil/Greedy-Essence-29321.html				pending
+hermine	Hermine		unisex	https://www.fragrantica.com/perfume/Weil/Hermine-45685.html				pending
+kipling	Kipling		male	https://www.fragrantica.com/perfume/Weil/Kipling-29322.html				pending
+l-o-v-e	L.O.V.E		female	https://www.fragrantica.com/perfume/Weil/L-O-V-E-64225.html				pending
+merveilles-and-fleurs	Merveilles & Fleurs		female	https://www.fragrantica.com/perfume/Weil/Merveilles-Fleurs-64222.html				pending
+merveilles-and-fruits	Merveilles & Fruits		female	https://www.fragrantica.com/perfume/Weil/Merveilles-Fruits-64223.html				pending
+merveilles-and-nuit	Merveilles & Nuit		female	https://www.fragrantica.com/perfume/Weil/Merveilles-Nuit-64221.html				pending
+padisha	Padisha		female	https://www.fragrantica.com/perfume/Weil/Padisha-45684.html				pending
+passion-essence	Passion Essence		female	https://www.fragrantica.com/perfume/Weil/Passion-Essence-64226.html				pending
+reve-de-weil	Reve de Weil		female	https://www.fragrantica.com/perfume/Weil/Reve-de-Weil-14912.html				pending
+secret-de-venus	Secret De Venus		female	https://www.fragrantica.com/perfume/Weil/Secret-De-Venus-8043.html				pending
+secret-de-venus-eau-de-parfum	Secret De Venus Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Weil/Secret-De-Venus-Eau-de-Parfum-36429.html				pending
+secret-de-weil	Secret de Weil		female	https://www.fragrantica.com/perfume/Weil/Secret-de-Weil-14913.html				pending
+so-weil	So Weil		male	https://www.fragrantica.com/perfume/Weil/So-Weil-5319.html				pending
+suki-essence	Suki Essence		female	https://www.fragrantica.com/perfume/Weil/Suki-Essence-47449.html				pending
+sweet-bambou	Sweet Bambou		female	https://www.fragrantica.com/perfume/Weil/Sweet-Bambou-5318.html				pending
+weil-de-weil	Weil De Weil		female	https://www.fragrantica.com/perfume/Weil/Weil-De-Weil-9206.html				pending
+weil-le-parfum	Weil Le Parfum		female	https://www.fragrantica.com/perfume/Weil/Weil-Le-Parfum-60375.html				pending
+weil-pour-homme	Weil Pour Homme		male	https://www.fragrantica.com/perfume/Weil/Weil-Pour-Homme-5317.html				pending
+wild-essence	Wild Essence		male	https://www.fragrantica.com/perfume/Weil/Wild-Essence-14910.html				pending
+wise-essence	Wise Essence		male	https://www.fragrantica.com/perfume/Weil/Wise-Essence-14911.html				pending
+zibeline	Zibeline		female	https://www.fragrantica.com/perfume/Weil/Zibeline-6318.html				pending
+zibeline-de-weil	Zibeline de Weil		female	https://www.fragrantica.com/perfume/Weil/Zibeline-de-Weil-14914.html				pending

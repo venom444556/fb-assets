@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-femme-i	Femme I		female		https://www.fragrantica.com/perfume/Alexandre-Marc/Femme-I-44062.html				pending
-femme-ii	Femme II		female		https://www.fragrantica.com/perfume/Alexandre-Marc/Femme-II-44064.html				pending
-femme-iii	Femme III		female		https://www.fragrantica.com/perfume/Alexandre-Marc/Femme-III-44066.html				pending
-femme-iv	Femme IV		female		https://www.fragrantica.com/perfume/Alexandre-Marc/Femme-IV-44069.html				pending
-homme-i	Homme I		male		https://www.fragrantica.com/perfume/Alexandre-Marc/Homme-I-44070.html				pending
-homme-ii	Homme II		male		https://www.fragrantica.com/perfume/Alexandre-Marc/Homme-II-44071.html				pending
-homme-iii	Homme III		male		https://www.fragrantica.com/perfume/Alexandre-Marc/Homme-III-44074.html				pending
-homme-iv	Homme IV		male		https://www.fragrantica.com/perfume/Alexandre-Marc/Homme-IV-44077.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+femme-i	Femme I		female	https://www.fragrantica.com/perfume/Alexandre-Marc/Femme-I-44062.html				pending
+femme-ii	Femme II		female	https://www.fragrantica.com/perfume/Alexandre-Marc/Femme-II-44064.html				pending
+femme-iii	Femme III		female	https://www.fragrantica.com/perfume/Alexandre-Marc/Femme-III-44066.html				pending
+femme-iv	Femme IV		female	https://www.fragrantica.com/perfume/Alexandre-Marc/Femme-IV-44069.html				pending
+homme-i	Homme I		male	https://www.fragrantica.com/perfume/Alexandre-Marc/Homme-I-44070.html				pending
+homme-ii	Homme II		male	https://www.fragrantica.com/perfume/Alexandre-Marc/Homme-II-44071.html				pending
+homme-iii	Homme III		male	https://www.fragrantica.com/perfume/Alexandre-Marc/Homme-III-44074.html				pending
+homme-iv	Homme IV		male	https://www.fragrantica.com/perfume/Alexandre-Marc/Homme-IV-44077.html				pending

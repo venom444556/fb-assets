@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cocktail-de-minuit	Cocktail de Minuit		unisex		https://www.fragrantica.com/perfume/Voskanian-Parfums/Cocktail-de-Minuit-97208.html				pending
-histoire-dune-rose	Histoire d'une Rose		unisex		https://www.fragrantica.com/perfume/Voskanian-Parfums/Histoire-d-une-Rose-85364.html				pending
-iris-boise	Iris Boisé		unisex		https://www.fragrantica.com/perfume/Voskanian-Parfums/Iris-Boise-69389.html				pending
-lonicera-de-nuit	Lonicera de Nuit		unisex		https://www.fragrantica.com/perfume/Voskanian-Parfums/Lonicera-de-Nuit-69391.html				pending
-monstre-noir	Monstre Noir		unisex		https://www.fragrantica.com/perfume/Voskanian-Parfums/Monstre-Noir-115300.html				pending
-patchouli-et-memories	Patchouli et Memories		unisex		https://www.fragrantica.com/perfume/Voskanian-Parfums/Patchouli-et-Memories-69392.html				pending
-peche-chypree	Pêche Chyprée		unisex		https://www.fragrantica.com/perfume/Voskanian-Parfums/Peche-Chypree-69393.html				pending
-soir-vert	Soir Vert		unisex		https://www.fragrantica.com/perfume/Voskanian-Parfums/Soir-Vert-77663.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cocktail-de-minuit	Cocktail de Minuit		unisex	https://www.fragrantica.com/perfume/Voskanian-Parfums/Cocktail-de-Minuit-97208.html				pending
+histoire-dune-rose	Histoire d'une Rose		unisex	https://www.fragrantica.com/perfume/Voskanian-Parfums/Histoire-d-une-Rose-85364.html				pending
+iris-boise	Iris Boisé		unisex	https://www.fragrantica.com/perfume/Voskanian-Parfums/Iris-Boise-69389.html				pending
+lonicera-de-nuit	Lonicera de Nuit		unisex	https://www.fragrantica.com/perfume/Voskanian-Parfums/Lonicera-de-Nuit-69391.html				pending
+monstre-noir	Monstre Noir		unisex	https://www.fragrantica.com/perfume/Voskanian-Parfums/Monstre-Noir-115300.html				pending
+patchouli-et-memories	Patchouli et Memories		unisex	https://www.fragrantica.com/perfume/Voskanian-Parfums/Patchouli-et-Memories-69392.html				pending
+peche-chypree	Pêche Chyprée		unisex	https://www.fragrantica.com/perfume/Voskanian-Parfums/Peche-Chypree-69393.html				pending
+soir-vert	Soir Vert		unisex	https://www.fragrantica.com/perfume/Voskanian-Parfums/Soir-Vert-77663.html				pending

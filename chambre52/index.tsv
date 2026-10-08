@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bois-flotte	Bois Flotte		unisex		https://www.fragrantica.com/perfume/Chambre52/Bois-Flotte-105972.html				pending
-contre-ta-peau	Contre Ta Peau		unisex		https://www.fragrantica.com/perfume/Chambre52/Contre-Ta-Peau-105971.html				pending
-cuir-a-corps	Cuir A Corps		unisex		https://www.fragrantica.com/perfume/Chambre52/Cuir-A-Corps-105973.html				pending
-orencie	Orencie		unisex		https://www.fragrantica.com/perfume/Chambre52/Orencie-105970.html				pending
-soleil-tonka	Soleil Tonka		unisex		https://www.fragrantica.com/perfume/Chambre52/Soleil-Tonka-102849.html				pending
-tobacco-memories	Tobacco Memories		unisex		https://www.fragrantica.com/perfume/Chambre52/Tobacco-Memories-105974.html				pending
-tobacco-memories-extrait	Tobacco Memories Extrait		unisex		https://www.fragrantica.com/perfume/Chambre52/Tobacco-Memories-Extrait-125330.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bois-flotte	Bois Flotte		unisex	https://www.fragrantica.com/perfume/Chambre52/Bois-Flotte-105972.html				pending
+contre-ta-peau	Contre Ta Peau		unisex	https://www.fragrantica.com/perfume/Chambre52/Contre-Ta-Peau-105971.html				pending
+cuir-a-corps	Cuir A Corps		unisex	https://www.fragrantica.com/perfume/Chambre52/Cuir-A-Corps-105973.html				pending
+orencie	Orencie		unisex	https://www.fragrantica.com/perfume/Chambre52/Orencie-105970.html				pending
+soleil-tonka	Soleil Tonka		unisex	https://www.fragrantica.com/perfume/Chambre52/Soleil-Tonka-102849.html				pending
+tobacco-memories	Tobacco Memories		unisex	https://www.fragrantica.com/perfume/Chambre52/Tobacco-Memories-105974.html				pending
+tobacco-memories-extrait	Tobacco Memories Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Chambre52/Tobacco-Memories-Extrait-125330.html				pending

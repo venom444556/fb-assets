@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-jair-bolsonaro	Jair Bolsonaro		male		https://www.fragrantica.com/perfume/Agustin-Fernandez/Jair-Bolsonaro-91203.html				pending
-jair-bolsonaro-black-signature	Jair Bolsonaro Black Signature		unisex		https://www.fragrantica.com/perfume/Agustin-Fernandez/Jair-Bolsonaro-Black-Signature-101754.html				pending
-michelle-bolsonaro	Michelle Bolsonaro		female		https://www.fragrantica.com/perfume/Agustin-Fernandez/Michelle-Bolsonaro-93689.html				pending
-mito-jair-bolsonaro	Mito Jair Bolsonaro		male		https://www.fragrantica.com/perfume/Agustin-Fernandez/Mito-Jair-Bolsonaro-93632.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+jair-bolsonaro	Jair Bolsonaro		male	https://www.fragrantica.com/perfume/Agustin-Fernandez/Jair-Bolsonaro-91203.html				pending
+jair-bolsonaro-black-signature	Jair Bolsonaro Black Signature		unisex	https://www.fragrantica.com/perfume/Agustin-Fernandez/Jair-Bolsonaro-Black-Signature-101754.html				pending
+michelle-bolsonaro	Michelle Bolsonaro		female	https://www.fragrantica.com/perfume/Agustin-Fernandez/Michelle-Bolsonaro-93689.html				pending
+mito-jair-bolsonaro	Mito Jair Bolsonaro		male	https://www.fragrantica.com/perfume/Agustin-Fernandez/Mito-Jair-Bolsonaro-93632.html				pending

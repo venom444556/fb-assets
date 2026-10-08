@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-inferno-e-paradiso	Inferno e Paradiso		unisex		https://www.fragrantica.com/perfume/Neotantric/Inferno-e-Paradiso-21480.html				pending
-killer-honey	Killer Honey		female		https://www.fragrantica.com/perfume/Neotantric/Killer-Honey-21479.html				pending
-manic-love-for-her	Manic Love for Her		female		https://www.fragrantica.com/perfume/Neotantric/Manic-Love-for-Her-6898.html				pending
-manic-love-for-him	Manic Love for Him		male		https://www.fragrantica.com/perfume/Neotantric/Manic-Love-for-Him-6899.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+inferno-e-paradiso	Inferno e Paradiso		unisex	https://www.fragrantica.com/perfume/Neotantric/Inferno-e-Paradiso-21480.html				pending
+killer-honey	Killer Honey		female	https://www.fragrantica.com/perfume/Neotantric/Killer-Honey-21479.html				pending
+manic-love-for-her	Manic Love for Her		female	https://www.fragrantica.com/perfume/Neotantric/Manic-Love-for-Her-6898.html				pending
+manic-love-for-him	Manic Love for Him		male	https://www.fragrantica.com/perfume/Neotantric/Manic-Love-for-Him-6899.html				pending

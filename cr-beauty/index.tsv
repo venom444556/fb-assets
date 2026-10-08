@@ -1,19 +1,19 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-musk	Acqua Musk		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Acqua-Musk-69779.html				pending
-carvalho-intenso	Carvalho Intenso		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Carvalho-Intenso-69764.html				pending
-cool-mandarine	Cool Mandarine		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Cool-Mandarine-69762.html				pending
-couro-ambar	Couro Âmbar		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Couro-Ambar-69777.html				pending
-frescor-da-floresta	Frescor da Floresta		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Frescor-da-Floresta-69768.html				pending
-jasmin-damour	Jasmin D'Amour		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Jasmin-D-Amour-69769.html				pending
-lavanda-fougere	Lavanda Fougère		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Lavanda-Fougere-69770.html				pending
-marine-breeze	Marine Breeze		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Marine-Breeze-69767.html				pending
-mystic-flower	Mystic Flower		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Mystic-Flower-69775.html				pending
-pink-lillies	Pink Lillies		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Pink-Lillies-69765.html				pending
-petalas-de-gardenia	Pétalas de Gardênia		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Petalas-de-Gardenia-69774.html				pending
-rose-berries	Rose Berries		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Rose-Berries-69763.html				pending
-sandal-fresh	Sandal Fresh		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Sandal-Fresh-69778.html				pending
-sensual-magnolia	Sensual Magnólia		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Sensual-Magnolia-69771.html				pending
-spicy-bouquet	Spicy Bouquet		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Spicy-Bouquet-69773.html				pending
-vanilla-sucree	Vanilla Sucrée		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Vanilla-Sucree-69772.html				pending
-vetiver-moderno	Vetiver Moderno		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Vetiver-Moderno-69766.html				pending
-wood-incense	Wood Incense		unisex		https://www.fragrantica.com/perfume/CR-Beauty/Wood-Incense-69776.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-musk	Acqua Musk		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Acqua-Musk-69779.html				pending
+carvalho-intenso	Carvalho Intenso		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Carvalho-Intenso-69764.html				pending
+cool-mandarine	Cool Mandarine		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Cool-Mandarine-69762.html				pending
+couro-ambar	Couro Âmbar		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Couro-Ambar-69777.html				pending
+frescor-da-floresta	Frescor da Floresta		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Frescor-da-Floresta-69768.html				pending
+jasmin-damour	Jasmin D'Amour		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Jasmin-D-Amour-69769.html				pending
+lavanda-fougere	Lavanda Fougère		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Lavanda-Fougere-69770.html				pending
+marine-breeze	Marine Breeze		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Marine-Breeze-69767.html				pending
+mystic-flower	Mystic Flower		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Mystic-Flower-69775.html				pending
+pink-lillies	Pink Lillies		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Pink-Lillies-69765.html				pending
+petalas-de-gardenia	Pétalas de Gardênia		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Petalas-de-Gardenia-69774.html				pending
+rose-berries	Rose Berries		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Rose-Berries-69763.html				pending
+sandal-fresh	Sandal Fresh		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Sandal-Fresh-69778.html				pending
+sensual-magnolia	Sensual Magnólia		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Sensual-Magnolia-69771.html				pending
+spicy-bouquet	Spicy Bouquet		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Spicy-Bouquet-69773.html				pending
+vanilla-sucree	Vanilla Sucrée		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Vanilla-Sucree-69772.html				pending
+vetiver-moderno	Vetiver Moderno		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Vetiver-Moderno-69766.html				pending
+wood-incense	Wood Incense		unisex	https://www.fragrantica.com/perfume/CR-Beauty/Wood-Incense-69776.html				pending

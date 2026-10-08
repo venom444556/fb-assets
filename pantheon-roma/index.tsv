@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a	A		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/A-80573.html				pending
-anniversario	Anniversario		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Anniversario-61609.html				pending
-annone	Annone		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Annone-52288.html				pending
-annone-supremo	Annone Supremo		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Annone-Supremo-118817.html				pending
-auris	Auris		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Auris-74682.html				pending
-cosi-blu	Così Blu		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Cosi-Blu-44731.html				pending
-dolce-passione	Dolce Passione		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Dolce-Passione-37468.html				pending
-donna-margherita	Donna Margherita		female		https://www.fragrantica.com/perfume/Pantheon-Roma/Donna-Margherita-24197.html				pending
-il-giardino	Il Giardino		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Il-Giardino-24198.html				pending
-nerone	Nerone		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Nerone-90690.html				pending
-notte-damore	Notte d'amore		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Notte-d-amore-24199.html				pending
-o	O		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/O-103085.html				pending
-pantheon-m	Pantheon M		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Pantheon-M-66469.html				pending
-pantheon-r	Pantheon R		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Pantheon-R-66468.html				pending
-raffaello	Raffaello		male		https://www.fragrantica.com/perfume/Pantheon-Roma/Raffaello-24196.html				pending
-trastevere	Trastevere		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Trastevere-33511.html				pending
-z	Z		unisex		https://www.fragrantica.com/perfume/Pantheon-Roma/Z-78508.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a	A		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/A-80573.html				pending
+anniversario	Anniversario		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Anniversario-61609.html				pending
+annone	Annone		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Annone-52288.html				pending
+annone-supremo	Annone Supremo		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Annone-Supremo-118817.html				pending
+auris	Auris		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Auris-74682.html				pending
+cosi-blu	Così Blu		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Cosi-Blu-44731.html				pending
+dolce-passione	Dolce Passione		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Dolce-Passione-37468.html				pending
+donna-margherita	Donna Margherita		female	https://www.fragrantica.com/perfume/Pantheon-Roma/Donna-Margherita-24197.html				pending
+il-giardino	Il Giardino		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Il-Giardino-24198.html				pending
+nerone	Nerone		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Nerone-90690.html				pending
+notte-damore	Notte d'amore		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Notte-d-amore-24199.html				pending
+o	O		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/O-103085.html				pending
+pantheon-m	Pantheon M		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Pantheon-M-66469.html				pending
+pantheon-r	Pantheon R		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Pantheon-R-66468.html				pending
+raffaello	Raffaello		male	https://www.fragrantica.com/perfume/Pantheon-Roma/Raffaello-24196.html				pending
+trastevere	Trastevere		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Trastevere-33511.html				pending
+z	Z		unisex	https://www.fragrantica.com/perfume/Pantheon-Roma/Z-78508.html				pending

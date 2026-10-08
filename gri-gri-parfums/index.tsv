@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-moko-maori	Moko Maori		male		https://www.fragrantica.com/perfume/Gri-Gri-Parfums/Moko-Maori-35551.html				pending
-sideshow	Sideshow		unisex		https://www.fragrantica.com/perfume/Gri-Gri-Parfums/Sideshow-40880.html				pending
-tara-mantra	Tara Mantra		male		https://www.fragrantica.com/perfume/Gri-Gri-Parfums/Tara-Mantra-35552.html				pending
-ukiyo-e	Ukiyo-E		male		https://www.fragrantica.com/perfume/Gri-Gri-Parfums/Ukiyo-E-35555.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+moko-maori	Moko Maori		male	https://www.fragrantica.com/perfume/Gri-Gri-Parfums/Moko-Maori-35551.html				pending
+sideshow	Sideshow		unisex	https://www.fragrantica.com/perfume/Gri-Gri-Parfums/Sideshow-40880.html				pending
+tara-mantra	Tara Mantra		male	https://www.fragrantica.com/perfume/Gri-Gri-Parfums/Tara-Mantra-35552.html				pending
+ukiyo-e	Ukiyo-E		male	https://www.fragrantica.com/perfume/Gri-Gri-Parfums/Ukiyo-E-35555.html				pending

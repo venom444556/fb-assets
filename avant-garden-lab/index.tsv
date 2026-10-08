@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambergreen	Ambergreen		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/Ambergreen-63770.html				pending
-c4ss1e-x-amb3rnyl	C4SS1E x AMB3RNYL		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/C4SS1E-x-AMB3RNYL-70000.html				pending
-carina	Carina		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/Carina-63769.html				pending
-ir1s-x-trop1c4l	IR1S x TROP1C4L		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/IR1S-x-TROP1C4L-69997.html				pending
-j4sm1ne-x-cal4mus	J4SM1NE x CAL4MUS		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/J4SM1NE-x-CAL4MUS-69999.html				pending
-la-colonia	La Colonia		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/La-Colonia-63753.html				pending
-m-o-u-s-s-e	M.O.U.S.S.E		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/M-O-U-S-S-E-63768.html				pending
-m-o-u-s-s-e-ii	M.O.U.S.S.E II		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/M-O-U-S-S-E-II-63767.html				pending
-resina	Resina		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/Resina-63765.html				pending
-tub3rose-x-f1g	TUB3ROSE x F1G		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/TUB3ROSE-x-F1G-69996.html				pending
-vaninger	Vaninger		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/Vaninger-63764.html				pending
-veil	Veil		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/Veil-63755.html				pending
-vetiverus	Vetiverus		unisex		https://www.fragrantica.com/perfume/Avant-Garden-Lab/Vetiverus-63754.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambergreen	Ambergreen		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/Ambergreen-63770.html				pending
+c4ss1e-x-amb3rnyl	C4SS1E x AMB3RNYL		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/C4SS1E-x-AMB3RNYL-70000.html				pending
+carina	Carina		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/Carina-63769.html				pending
+ir1s-x-trop1c4l	IR1S x TROP1C4L		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/IR1S-x-TROP1C4L-69997.html				pending
+j4sm1ne-x-cal4mus	J4SM1NE x CAL4MUS		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/J4SM1NE-x-CAL4MUS-69999.html				pending
+la-colonia	La Colonia		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/La-Colonia-63753.html				pending
+m-o-u-s-s-e	M.O.U.S.S.E		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/M-O-U-S-S-E-63768.html				pending
+m-o-u-s-s-e-ii	M.O.U.S.S.E II		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/M-O-U-S-S-E-II-63767.html				pending
+resina	Resina		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/Resina-63765.html				pending
+tub3rose-x-f1g	TUB3ROSE x F1G		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/TUB3ROSE-x-F1G-69996.html				pending
+vaninger	Vaninger		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/Vaninger-63764.html				pending
+veil	Veil		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/Veil-63755.html				pending
+vetiverus	Vetiverus		unisex	https://www.fragrantica.com/perfume/Avant-Garden-Lab/Vetiverus-63754.html				pending

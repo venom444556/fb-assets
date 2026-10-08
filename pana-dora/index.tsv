@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aqua-de-dora	Aqua de Dora		male		https://www.fragrantica.com/perfume/Pana-Dora/Aqua-de-Dora-68462.html				pending
-dorasima	Dorasima		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Dorasima-69686.html				pending
-dux-orientis	Dux Orientis		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Dux-Orientis-91202.html				pending
-emanuele	Emanuele		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Emanuele-89479.html				pending
-forever-love	Forever Love		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Forever-Love-81506.html				pending
-grand-musk	Grand Musk		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Grand-Musk-68463.html				pending
-imperial-wood	Imperial Wood		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Imperial-Wood-68464.html				pending
-kropp-och-sjal	Kropp Och Själ		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Kropp-Och-Sjael-58728.html				pending
-majestic-amber	Majestic Amber		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Majestic-Amber-97562.html				pending
-moonlight	Moonlight		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Moonlight-81507.html				pending
-onyx-black	Onyx Black		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Onyx-Black-103091.html				pending
-opuluxe	Opuluxe		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Opuluxe-97563.html				pending
-orchestra	Orchestra		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Orchestra-97566.html				pending
-oud-republic	Oud Republic		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Oud-Republic-79049.html				pending
-patchouli-dust	Patchouli Dust		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Patchouli-Dust-79050.html				pending
-scandic	Scandic		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Scandic-97564.html				pending
-skadi	Skadi		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Skadi-109077.html				pending
-swedish-leather	Swedish Leather		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Swedish-Leather-89480.html				pending
-swedish-wood	Swedish Wood		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Swedish-Wood-58730.html				pending
-swedish-wood-extrait	Swedish Wood Extrait		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Swedish-Wood-Extrait-68465.html				pending
-velvet-iris	Velvet Iris		unisex		https://www.fragrantica.com/perfume/Pana-Dora/Velvet-Iris-68466.html				pending
-xvi	XVI		unisex		https://www.fragrantica.com/perfume/Pana-Dora/XVI-58729.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aqua-de-dora	Aqua de Dora		male	https://www.fragrantica.com/perfume/Pana-Dora/Aqua-de-Dora-68462.html				pending
+dorasima	Dorasima		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Dorasima-69686.html				pending
+dux-orientis	Dux Orientis		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Dux-Orientis-91202.html				pending
+emanuele	Emanuele		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Emanuele-89479.html				pending
+forever-love	Forever Love		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Forever-Love-81506.html				pending
+grand-musk	Grand Musk		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Grand-Musk-68463.html				pending
+imperial-wood	Imperial Wood		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Imperial-Wood-68464.html				pending
+kropp-och-sjal	Kropp Och Själ		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Kropp-Och-Sjael-58728.html				pending
+majestic-amber	Majestic Amber		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Majestic-Amber-97562.html				pending
+moonlight	Moonlight		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Moonlight-81507.html				pending
+onyx-black	Onyx Black		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Onyx-Black-103091.html				pending
+opuluxe	Opuluxe		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Opuluxe-97563.html				pending
+orchestra	Orchestra		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Orchestra-97566.html				pending
+oud-republic	Oud Republic		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Oud-Republic-79049.html				pending
+patchouli-dust	Patchouli Dust		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Patchouli-Dust-79050.html				pending
+scandic	Scandic		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Scandic-97564.html				pending
+skadi	Skadi		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Skadi-109077.html				pending
+swedish-leather	Swedish Leather		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Swedish-Leather-89480.html				pending
+swedish-wood	Swedish Wood		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Swedish-Wood-58730.html				pending
+swedish-wood-extrait	Swedish Wood Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Pana-Dora/Swedish-Wood-Extrait-68465.html				pending
+velvet-iris	Velvet Iris		unisex	https://www.fragrantica.com/perfume/Pana-Dora/Velvet-Iris-68466.html				pending
+xvi	XVI		unisex	https://www.fragrantica.com/perfume/Pana-Dora/XVI-58729.html				pending

@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-delicious-chocolate	Delicious Chocolate		female		https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Chocolate-8078.html				pending
-delicious-cotton-candy	Delicious Cotton Candy		female		https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Cotton-Candy-7843.html				pending
-delicious-hot-pink	Delicious Hot Pink		female		https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Hot-Pink-20310.html				pending
-delicious-vanilla	Delicious Vanilla		female		https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Vanilla-20311.html				pending
-beverly-hills	Beverly Hills		female		https://www.fragrantica.com/perfume/Gale-Hayman/Beverly-Hills-40452.html				pending
-delicious	Delicious		female		https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-6823.html				pending
-delicious-amber	Delicious Amber		female		https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Amber-8772.html				pending
-delicious-feelings	Delicious Feelings		female		https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Feelings-6824.html				pending
-delicious-feelings-eau-de-toilette	Delicious Feelings Eau de Toilette		female		https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Feelings-Eau-de-Toilette-63801.html				pending
-delicious-temptation	Delicious Temptation		female		https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Temptation-7841.html				pending
-glamour	Glamour		female		https://www.fragrantica.com/perfume/Gale-Hayman/Glamour-6828.html				pending
-golden-delicious	Golden Delicious		female		https://www.fragrantica.com/perfume/Gale-Hayman/Golden-Delicious-7842.html				pending
-so-delicious-women	So Delicious Women		female		https://www.fragrantica.com/perfume/Gale-Hayman/So-Delicious-Women-6825.html				pending
-style	Style		female		https://www.fragrantica.com/perfume/Gale-Hayman/Style-6827.html				pending
-sunset-boulevard	Sunset Boulevard		unisex		https://www.fragrantica.com/perfume/Gale-Hayman/Sunset-Boulevard-6826.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+beverly-hills	Beverly Hills		female	https://www.fragrantica.com/perfume/Gale-Hayman/Beverly-Hills-40452.html				pending
+delicious	Delicious		female	https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-6823.html				pending
+delicious-amber	Delicious Amber		female	https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Amber-8772.html				pending
+delicious-chocolate	Delicious Chocolate		female	https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Chocolate-8078.html				pending
+delicious-cotton-candy	Delicious Cotton Candy		female	https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Cotton-Candy-7843.html				pending
+delicious-feelings	Delicious Feelings		female	https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Feelings-6824.html				pending
+delicious-feelings-eau-de-toilette	Delicious Feelings Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Feelings-Eau-de-Toilette-63801.html				pending
+delicious-hot-pink	Delicious Hot Pink		female	https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Hot-Pink-20310.html				pending
+delicious-temptation	Delicious Temptation		female	https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Temptation-7841.html				pending
+delicious-vanilla	Delicious Vanilla		female	https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Vanilla-20311.html				pending
+glamour	Glamour		female	https://www.fragrantica.com/perfume/Gale-Hayman/Glamour-6828.html				pending
+golden-delicious	Golden Delicious		female	https://www.fragrantica.com/perfume/Gale-Hayman/Golden-Delicious-7842.html				pending
+so-delicious-women	So Delicious Women		female	https://www.fragrantica.com/perfume/Gale-Hayman/So-Delicious-Women-6825.html				pending
+style	Style		female	https://www.fragrantica.com/perfume/Gale-Hayman/Style-6827.html				pending
+sunset-boulevard	Sunset Boulevard		unisex	https://www.fragrantica.com/perfume/Gale-Hayman/Sunset-Boulevard-6826.html				pending

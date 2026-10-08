@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-coat-check	Coat Check		unisex		https://www.fragrantica.com/perfume/Abel/Coat-Check-81517.html				pending
-cobalt-amber	Cobalt Amber		unisex		https://www.fragrantica.com/perfume/Abel/Cobalt-Amber-42980.html				pending
-cyan-nori	Cyan Nori		unisex		https://www.fragrantica.com/perfume/Abel/Cyan-Nori-63919.html				pending
-double-scoop	Double Scoop		unisex		https://www.fragrantica.com/perfume/Abel/Double-Scoop-136239.html				pending
-golden-neroli	Golden Neroli		unisex		https://www.fragrantica.com/perfume/Abel/Golden-Neroli-42976.html				pending
-green-cedar	Green Cedar		unisex		https://www.fragrantica.com/perfume/Abel/Green-Cedar-50577.html				pending
-grey-labdanum	Grey Labdanum		unisex		https://www.fragrantica.com/perfume/Abel/Grey-Labdanum-42981.html				pending
-laundry-day	Laundry Day		unisex		https://www.fragrantica.com/perfume/Abel/Laundry-Day-94333.html				pending
-miami-split	Miami Split		unisex		https://www.fragrantica.com/perfume/Abel/Miami-Split-130554.html				pending
-nurture	Nurture		unisex		https://www.fragrantica.com/perfume/Abel/Nurture-49903.html				pending
-pause	Pause		female		https://www.fragrantica.com/perfume/Abel/Pause-77090.html				pending
-pink-iris	Pink Iris		unisex		https://www.fragrantica.com/perfume/Abel/Pink-Iris-55326.html				pending
-red-santal	Red Santal		unisex		https://www.fragrantica.com/perfume/Abel/Red-Santal-42979.html				pending
-the-apartment	The Apartment		unisex		https://www.fragrantica.com/perfume/Abel/The-Apartment-99659.html				pending
-white-vetiver	White Vetiver		unisex		https://www.fragrantica.com/perfume/Abel/White-Vetiver-42975.html				pending
-tonic	Tonic		unisex		https://www.fragrantica.com/perfume/Abel/Tonic-42978.html				pending
-vintage13	Vintage'13		unisex		https://www.fragrantica.com/perfume/Abel/Vintage-13-42977.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+coat-check	Coat Check		unisex	https://www.fragrantica.com/perfume/Abel/Coat-Check-81517.html				pending
+cobalt-amber	Cobalt Amber		unisex	https://www.fragrantica.com/perfume/Abel/Cobalt-Amber-42980.html				pending
+cyan-nori	Cyan Nori		unisex	https://www.fragrantica.com/perfume/Abel/Cyan-Nori-63919.html				pending
+double-scoop	Double Scoop		unisex	https://www.fragrantica.com/perfume/Abel/Double-Scoop-136239.html				pending
+golden-neroli	Golden Neroli		unisex	https://www.fragrantica.com/perfume/Abel/Golden-Neroli-42976.html				pending
+green-cedar	Green Cedar		unisex	https://www.fragrantica.com/perfume/Abel/Green-Cedar-50577.html				pending
+grey-labdanum	Grey Labdanum		unisex	https://www.fragrantica.com/perfume/Abel/Grey-Labdanum-42981.html				pending
+laundry-day	Laundry Day		unisex	https://www.fragrantica.com/perfume/Abel/Laundry-Day-94333.html				pending
+miami-split	Miami Split		unisex	https://www.fragrantica.com/perfume/Abel/Miami-Split-130554.html				pending
+nurture	Nurture		unisex	https://www.fragrantica.com/perfume/Abel/Nurture-49903.html				pending
+pause	Pause		female	https://www.fragrantica.com/perfume/Abel/Pause-77090.html				pending
+pink-iris	Pink Iris		unisex	https://www.fragrantica.com/perfume/Abel/Pink-Iris-55326.html				pending
+red-santal	Red Santal		unisex	https://www.fragrantica.com/perfume/Abel/Red-Santal-42979.html				pending
+the-apartment	The Apartment		unisex	https://www.fragrantica.com/perfume/Abel/The-Apartment-99659.html				pending
+tonic	Tonic		unisex	https://www.fragrantica.com/perfume/Abel/Tonic-42978.html				pending
+vintage13	Vintage'13		unisex	https://www.fragrantica.com/perfume/Abel/Vintage-13-42977.html				pending
+white-vetiver	White Vetiver		unisex	https://www.fragrantica.com/perfume/Abel/White-Vetiver-42975.html				pending

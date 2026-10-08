@@ -1,30 +1,30 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-hana-matsuri	Hana Matsuri		unisex		https://www.fragrantica.com/perfume/DI-SER/Hana-Matsuri-68760.html				pending
-kagiroi	Kagiroi		unisex		https://www.fragrantica.com/perfume/DI-SER/Kagiroi-62539.html				pending
-keman	Keman		unisex		https://www.fragrantica.com/perfume/DI-SER/Keman-57806.html				pending
-kyara	Kyara		unisex		https://www.fragrantica.com/perfume/DI-SER/Kyara-14508.html				pending
-mizu	Mizu		unisex		https://www.fragrantica.com/perfume/DI-SER/Mizu-14506.html				pending
-tsuki	Tsuki		unisex		https://www.fragrantica.com/perfume/DI-SER/Tsuki-14504.html				pending
-adameku	Adameku		unisex		https://www.fragrantica.com/perfume/DI-SER/Adameku-41042.html				pending
-akanesasu	Akanesasu		unisex		https://www.fragrantica.com/perfume/DI-SER/Akanesasu-41043.html				pending
-diana	Diana		female		https://www.fragrantica.com/perfume/DI-SER/Diana-14510.html				pending
-hana-no-oto	Hana No Oto		unisex		https://www.fragrantica.com/perfume/DI-SER/Hana-No-Oto-78327.html				pending
-hasunoito	Hasunoito		unisex		https://www.fragrantica.com/perfume/DI-SER/Hasunoito-41024.html				pending
-hikaru-daichi	Hikaru Daichi		unisex		https://www.fragrantica.com/perfume/DI-SER/Hikaru-Daichi-73230.html				pending
-hoshi-tsukiyo	Hoshi Tsukiyo		unisex		https://www.fragrantica.com/perfume/DI-SER/Hoshi-Tsukiyo-73239.html				pending
-iris	Iris		unisex		https://www.fragrantica.com/perfume/DI-SER/Iris-14511.html				pending
-izayoi	Izayoi		unisex		https://www.fragrantica.com/perfume/DI-SER/Izayoi-79913.html				pending
-jinko	Jinko		unisex		https://www.fragrantica.com/perfume/DI-SER/Jinko-49582.html				pending
-kamikura	Kamikura		male		https://www.fragrantica.com/perfume/DI-SER/Kamikura-92365.html				pending
-kanami	Kanami		unisex		https://www.fragrantica.com/perfume/DI-SER/Kanami-70229.html				pending
-kaze	Kaze		unisex		https://www.fragrantica.com/perfume/DI-SER/Kaze-14505.html				pending
-kazehikaru	Kazehikaru		unisex		https://www.fragrantica.com/perfume/DI-SER/Kazehikaru-41044.html				pending
-kurokami	Kurokami		unisex		https://www.fragrantica.com/perfume/DI-SER/Kurokami-41041.html				pending
-lucia	Lucia		unisex		https://www.fragrantica.com/perfume/DI-SER/Lucia-14512.html				pending
-manaka	Manaka		unisex		https://www.fragrantica.com/perfume/DI-SER/Manaka-46643.html				pending
-muse	Muse		unisex		https://www.fragrantica.com/perfume/DI-SER/Muse-14513.html				pending
-sasora	Sasora		unisex		https://www.fragrantica.com/perfume/DI-SER/Sasora-14509.html				pending
-shiragoromo	Shiragoromo		unisex		https://www.fragrantica.com/perfume/DI-SER/Shiragoromo-41025.html				pending
-sola	Sola		unisex		https://www.fragrantica.com/perfume/DI-SER/Sola-62538.html				pending
-taiyo	Taiyo		unisex		https://www.fragrantica.com/perfume/DI-SER/Taiyo-14507.html				pending
-tsuzumi-boshi	Tsuzumi Boshi		unisex		https://www.fragrantica.com/perfume/DI-SER/Tsuzumi-Boshi-70230.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adameku	Adameku		unisex	https://www.fragrantica.com/perfume/DI-SER/Adameku-41042.html				pending
+akanesasu	Akanesasu		unisex	https://www.fragrantica.com/perfume/DI-SER/Akanesasu-41043.html				pending
+diana	Diana		female	https://www.fragrantica.com/perfume/DI-SER/Diana-14510.html				pending
+hana-matsuri	Hana Matsuri		unisex	https://www.fragrantica.com/perfume/DI-SER/Hana-Matsuri-68760.html				pending
+hana-no-oto	Hana No Oto		unisex	https://www.fragrantica.com/perfume/DI-SER/Hana-No-Oto-78327.html				pending
+hasunoito	Hasunoito		unisex	https://www.fragrantica.com/perfume/DI-SER/Hasunoito-41024.html				pending
+hikaru-daichi	Hikaru Daichi		unisex	https://www.fragrantica.com/perfume/DI-SER/Hikaru-Daichi-73230.html				pending
+hoshi-tsukiyo	Hoshi Tsukiyo		unisex	https://www.fragrantica.com/perfume/DI-SER/Hoshi-Tsukiyo-73239.html				pending
+iris	Iris		unisex	https://www.fragrantica.com/perfume/DI-SER/Iris-14511.html				pending
+izayoi	Izayoi		unisex	https://www.fragrantica.com/perfume/DI-SER/Izayoi-79913.html				pending
+jinko	Jinko		unisex	https://www.fragrantica.com/perfume/DI-SER/Jinko-49582.html				pending
+kagiroi	Kagiroi		unisex	https://www.fragrantica.com/perfume/DI-SER/Kagiroi-62539.html				pending
+kamikura	Kamikura		male	https://www.fragrantica.com/perfume/DI-SER/Kamikura-92365.html				pending
+kanami	Kanami		unisex	https://www.fragrantica.com/perfume/DI-SER/Kanami-70229.html				pending
+kaze	Kaze		unisex	https://www.fragrantica.com/perfume/DI-SER/Kaze-14505.html				pending
+kazehikaru	Kazehikaru		unisex	https://www.fragrantica.com/perfume/DI-SER/Kazehikaru-41044.html				pending
+keman	Keman		unisex	https://www.fragrantica.com/perfume/DI-SER/Keman-57806.html				pending
+kurokami	Kurokami		unisex	https://www.fragrantica.com/perfume/DI-SER/Kurokami-41041.html				pending
+kyara	Kyara		unisex	https://www.fragrantica.com/perfume/DI-SER/Kyara-14508.html				pending
+lucia	Lucia		unisex	https://www.fragrantica.com/perfume/DI-SER/Lucia-14512.html				pending
+manaka	Manaka		unisex	https://www.fragrantica.com/perfume/DI-SER/Manaka-46643.html				pending
+mizu	Mizu		unisex	https://www.fragrantica.com/perfume/DI-SER/Mizu-14506.html				pending
+muse	Muse		unisex	https://www.fragrantica.com/perfume/DI-SER/Muse-14513.html				pending
+sasora	Sasora		unisex	https://www.fragrantica.com/perfume/DI-SER/Sasora-14509.html				pending
+shiragoromo	Shiragoromo		unisex	https://www.fragrantica.com/perfume/DI-SER/Shiragoromo-41025.html				pending
+sola	Sola		unisex	https://www.fragrantica.com/perfume/DI-SER/Sola-62538.html				pending
+taiyo	Taiyo		unisex	https://www.fragrantica.com/perfume/DI-SER/Taiyo-14507.html				pending
+tsuki	Tsuki		unisex	https://www.fragrantica.com/perfume/DI-SER/Tsuki-14504.html				pending
+tsuzumi-boshi	Tsuzumi Boshi		unisex	https://www.fragrantica.com/perfume/DI-SER/Tsuzumi-Boshi-70230.html				pending

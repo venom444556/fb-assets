@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-3	3		female		https://www.fragrantica.com/perfume/French-Connection-UK/3-12386.html				pending
-3-him	3 Him		male		https://www.fragrantica.com/perfume/French-Connection-UK/3-Him-15475.html				pending
-friction-for-her	Friction for Her		female		https://www.fragrantica.com/perfume/French-Connection-UK/Friction-for-Her-15015.html				pending
-friction-for-him	Friction for Him		male		https://www.fragrantica.com/perfume/French-Connection-UK/Friction-for-Him-15016.html				pending
-her	Her		female		https://www.fragrantica.com/perfume/French-Connection-UK/Her-694.html				pending
-him	Him		male		https://www.fragrantica.com/perfume/French-Connection-UK/Him-695.html				pending
-late-night-her	Late Night Her		female		https://www.fragrantica.com/perfume/French-Connection-UK/Late-Night-Her-15476.html				pending
-late-night-him	Late Night Him		male		https://www.fragrantica.com/perfume/French-Connection-UK/Late-Night-Him-15477.html				pending
-summer-her	Summer Her		female		https://www.fragrantica.com/perfume/French-Connection-UK/Summer-Her-12760.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+3	3		female	https://www.fragrantica.com/perfume/French-Connection-UK/3-12386.html				pending
+3-him	3 Him		male	https://www.fragrantica.com/perfume/French-Connection-UK/3-Him-15475.html				pending
+friction-for-her	Friction for Her		female	https://www.fragrantica.com/perfume/French-Connection-UK/Friction-for-Her-15015.html				pending
+friction-for-him	Friction for Him		male	https://www.fragrantica.com/perfume/French-Connection-UK/Friction-for-Him-15016.html				pending
+her	Her		female	https://www.fragrantica.com/perfume/French-Connection-UK/Her-694.html				pending
+him	Him		male	https://www.fragrantica.com/perfume/French-Connection-UK/Him-695.html				pending
+late-night-her	Late Night Her		female	https://www.fragrantica.com/perfume/French-Connection-UK/Late-Night-Her-15476.html				pending
+late-night-him	Late Night Him		male	https://www.fragrantica.com/perfume/French-Connection-UK/Late-Night-Him-15477.html				pending
+summer-her	Summer Her		female	https://www.fragrantica.com/perfume/French-Connection-UK/Summer-Her-12760.html				pending

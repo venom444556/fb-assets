@@ -1,30 +1,30 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-christmas-scent-cassis	Christmas Scent Cassis		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Christmas-Scent-Cassis-40664.html				pending
-christmas-scent-nardus	Christmas Scent Nardus		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Christmas-Scent-Nardus-40665.html				pending
-christmas-scent-palo-santo	Christmas Scent Palo Santo		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Christmas-Scent-Palo-Santo-40667.html				pending
-civette-intense	Civette Intense		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Civette-Intense-38111.html				pending
-dark-rose	Dark Rose		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Dark-Rose-38109.html				pending
-delirious-iris	Delirious Iris		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Delirious-Iris-53169.html				pending
-funfair	Funfair		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Funfair-43303.html				pending
-green-tea	Green Tea		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Green-Tea-38115.html				pending
-incense-wood-spirit	Incense Wood Spirit		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Incense-Wood-Spirit-38108.html				pending
-lemon-sorbet-and-orange	Lemon Sorbet & Orange		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Lemon-Sorbet-Orange-44036.html				pending
-lignum-vitae-forte	Lignum Vitae Forte		male		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Lignum-Vitae-Forte-38110.html				pending
-liquorice-vetiver	Liquorice Vetiver		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Liquorice-Vetiver-38116.html				pending
-lisbon-blues	Lisbon Blues		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Lisbon-Blues-43302.html				pending
-magnolia	Magnolia		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Magnolia-54232.html				pending
-musk-2	MUSK 2		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/MUSK-2-59483.html				pending
-nowhere-fast	Nowhere Fast		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Nowhere-Fast-49771.html				pending
-pink-patchouli	Pink Patchouli		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Pink-Patchouli-38112.html				pending
-poudre-de-riz	POUDRE DE RIZ		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/POUDRE-DE-RIZ-59484.html				pending
-powder-and-dust	Powder & Dust		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Powder-Dust-49096.html				pending
-rose-polaroid	Rose Polaroid		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Rose-Polaroid-52078.html				pending
-sandal-and-peony	Sandal & Peony		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Sandal-Peony-61647.html				pending
-sea-salt-amber	SEA SALT AMBER		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/SEA-SALT-AMBER-56100.html				pending
-sea-salt-tar	SEA SALT TAR		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/SEA-SALT-TAR-58568.html				pending
-sp-cologne	SP Cologne		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/SP-Cologne-50827.html				pending
-sp-musk	SP MUSK		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/SP-MUSK-55433.html				pending
-sunmilkflowers	Sunmilkflowers		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Sunmilkflowers-38113.html				pending
-suntanglam	Suntanglam		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Suntanglam-43301.html				pending
-violet-moss	Violet Moss		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Violet-Moss-38107.html				pending
-white-blossom-powder	White Blossom Powder		unisex		https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/White-Blossom-Powder-38114.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+christmas-scent-cassis	Christmas Scent Cassis		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Christmas-Scent-Cassis-40664.html				pending
+christmas-scent-nardus	Christmas Scent Nardus		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Christmas-Scent-Nardus-40665.html				pending
+christmas-scent-palo-santo	Christmas Scent Palo Santo		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Christmas-Scent-Palo-Santo-40667.html				pending
+civette-intense	Civette Intense		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Civette-Intense-38111.html				pending
+dark-rose	Dark Rose		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Dark-Rose-38109.html				pending
+delirious-iris	Delirious Iris		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Delirious-Iris-53169.html				pending
+funfair	Funfair		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Funfair-43303.html				pending
+green-tea	Green Tea		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Green-Tea-38115.html				pending
+incense-wood-spirit	Incense Wood Spirit		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Incense-Wood-Spirit-38108.html				pending
+lemon-sorbet-and-orange	Lemon Sorbet & Orange		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Lemon-Sorbet-Orange-44036.html				pending
+lignum-vitae-forte	Lignum Vitae Forte		male	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Lignum-Vitae-Forte-38110.html				pending
+liquorice-vetiver	Liquorice Vetiver		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Liquorice-Vetiver-38116.html				pending
+lisbon-blues	Lisbon Blues		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Lisbon-Blues-43302.html				pending
+magnolia	Magnolia		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Magnolia-54232.html				pending
+musk-2	MUSK 2		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/MUSK-2-59483.html				pending
+nowhere-fast	Nowhere Fast		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Nowhere-Fast-49771.html				pending
+pink-patchouli	Pink Patchouli		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Pink-Patchouli-38112.html				pending
+poudre-de-riz	POUDRE DE RIZ		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/POUDRE-DE-RIZ-59484.html				pending
+powder-and-dust	Powder & Dust		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Powder-Dust-49096.html				pending
+rose-polaroid	Rose Polaroid		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Rose-Polaroid-52078.html				pending
+sandal-and-peony	Sandal & Peony		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Sandal-Peony-61647.html				pending
+sea-salt-amber	SEA SALT AMBER		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/SEA-SALT-AMBER-56100.html				pending
+sea-salt-tar	SEA SALT TAR		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/SEA-SALT-TAR-58568.html				pending
+sp-cologne	SP Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/SP-Cologne-50827.html				pending
+sp-musk	SP MUSK		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/SP-MUSK-55433.html				pending
+sunmilkflowers	Sunmilkflowers		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Sunmilkflowers-38113.html				pending
+suntanglam	Suntanglam		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Suntanglam-43301.html				pending
+violet-moss	Violet Moss		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/Violet-Moss-38107.html				pending
+white-blossom-powder	White Blossom Powder		unisex	https://www.fragrantica.com/perfume/SP-Parfums-Sven-Pritzkoleit/White-Blossom-Powder-38114.html				pending

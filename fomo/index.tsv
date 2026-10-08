@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-fragheads-asylum	A Fraghead's Asylum		male		https://www.fragrantica.com/perfume/FOMO/A-Fraghead-s-Asylum-82665.html				pending
-fraglovers-tea	Fraglover's Tea		unisex		https://www.fragrantica.com/perfume/FOMO/Fraglover-s-Tea-104607.html				pending
-garys-den	Gary's Den		male		https://www.fragrantica.com/perfume/FOMO/Gary-s-Den-82664.html				pending
-illusion-dun-soir	Illusion D'un Soir		male		https://www.fragrantica.com/perfume/FOMO/Illusion-D-un-Soir-82666.html				pending
-the-envy-of-fomo	The Envy of FOMO		unisex		https://www.fragrantica.com/perfume/FOMO/The-Envy-of-FOMO-95200.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-fragheads-asylum	A Fraghead's Asylum		male	https://www.fragrantica.com/perfume/FOMO/A-Fraghead-s-Asylum-82665.html				pending
+fraglovers-tea	Fraglover's Tea		unisex	https://www.fragrantica.com/perfume/FOMO/Fraglover-s-Tea-104607.html				pending
+garys-den	Gary's Den		male	https://www.fragrantica.com/perfume/FOMO/Gary-s-Den-82664.html				pending
+illusion-dun-soir	Illusion D'un Soir		male	https://www.fragrantica.com/perfume/FOMO/Illusion-D-un-Soir-82666.html				pending
+the-envy-of-fomo	The Envy of FOMO		unisex	https://www.fragrantica.com/perfume/FOMO/The-Envy-of-FOMO-95200.html				pending

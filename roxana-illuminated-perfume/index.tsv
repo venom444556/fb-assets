@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aurora	Aurora		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Aurora-7962.html				pending
-botanical-perfume-devoted-to-peace-1st-edition	Botanical Perfume devoted to Peace, 1st edition		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Botanical-Perfume-devoted-to-Peace-1st-edition-7965.html				pending
-chaparral	Chaparral®		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chaparral-7959.html				pending
-chiaroscuro	Chiaroscuro		female		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chiaroscuro-16590.html				pending
-chocolate-figure-1-noir	Chocolate: Figure 1: Noir		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-1-Noir-7833.html				pending
-chocolate-figure-2-cerise	Chocolate: Figure 2: Cerise		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-2-Cerise-7834.html				pending
-chocolate-figure-3-la-foret	Chocolate: Figure 3: La Foret		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-3-La-Foret-7835.html				pending
-chocolate-figure-4-lorangerie	Chocolate: Figure 4: L'Orangerie		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-4-L-Orangerie-7836.html				pending
-chocolate-figure-5-bois-de-chocolat	Chocolate: Figure 5: Bois de Chocolat		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-5-Bois-de-Chocolat-7837.html				pending
-chocolate-figure-6-epices	Chocolate: Figure 6: Epices		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-6-Epices-7838.html				pending
-figure-1-noir	Figure 1: Noir		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Figure-1-Noir-18273.html				pending
-gracing-the-dawn	Gracing the Dawn		female		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Gracing-the-Dawn-9739.html				pending
-greenwitch	GreenWitch		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/GreenWitch-8358.html				pending
-hedera-helix	Hedera helix		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Hedera-helix-13659.html				pending
-impromptu	Impromptu		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Impromptu-16515.html				pending
-lyra	Lyra		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Lyra-7964.html				pending
-q	Q		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Q-7958.html				pending
-rosa	Rosa		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Rosa-7966.html				pending
-sierra	Sierra		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Sierra-7961.html				pending
-the-green-knight	The Green Knight		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/The-Green-Knight-73277.html				pending
-to-bee	To Bee		female		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/To-Bee-13005.html				pending
-vera	Vera		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Vera-7960.html				pending
-vespertina	Vespertina		unisex		https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Vespertina-7963.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aurora	Aurora		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Aurora-7962.html				pending
+botanical-perfume-devoted-to-peace-1st-edition	Botanical Perfume devoted to Peace, 1st edition		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Botanical-Perfume-devoted-to-Peace-1st-edition-7965.html				pending
+chaparral	Chaparral®		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chaparral-7959.html				pending
+chiaroscuro	Chiaroscuro		female	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chiaroscuro-16590.html				pending
+chocolate-figure-1-noir	Chocolate: Figure 1: Noir		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-1-Noir-7833.html				pending
+chocolate-figure-2-cerise	Chocolate: Figure 2: Cerise		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-2-Cerise-7834.html				pending
+chocolate-figure-3-la-foret	Chocolate: Figure 3: La Foret		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-3-La-Foret-7835.html				pending
+chocolate-figure-4-lorangerie	Chocolate: Figure 4: L'Orangerie		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-4-L-Orangerie-7836.html				pending
+chocolate-figure-5-bois-de-chocolat	Chocolate: Figure 5: Bois de Chocolat		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-5-Bois-de-Chocolat-7837.html				pending
+chocolate-figure-6-epices	Chocolate: Figure 6: Epices		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Chocolate-Figure-6-Epices-7838.html				pending
+figure-1-noir	Figure 1: Noir		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Figure-1-Noir-18273.html				pending
+gracing-the-dawn	Gracing the Dawn		female	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Gracing-the-Dawn-9739.html				pending
+greenwitch	GreenWitch		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/GreenWitch-8358.html				pending
+hedera-helix	Hedera helix		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Hedera-helix-13659.html				pending
+impromptu	Impromptu		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Impromptu-16515.html				pending
+lyra	Lyra		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Lyra-7964.html				pending
+q	Q		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Q-7958.html				pending
+rosa	Rosa		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Rosa-7966.html				pending
+sierra	Sierra		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Sierra-7961.html				pending
+the-green-knight	The Green Knight		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/The-Green-Knight-73277.html				pending
+to-bee	To Bee		female	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/To-Bee-13005.html				pending
+vera	Vera		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Vera-7960.html				pending
+vespertina	Vespertina		unisex	https://www.fragrantica.com/perfume/Roxana-Illuminated-Perfume/Vespertina-7963.html				pending

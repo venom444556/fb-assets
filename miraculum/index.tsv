@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-chopin	Chopin		male		https://www.fragrantica.com/perfume/Miraculum/Chopin-18636.html				pending
-pani-walewska-noir	Pani Walewska Noir		female		https://www.fragrantica.com/perfume/Miraculum/Pani-Walewska-Noir-28606.html				pending
-pani-walewska-sweet-romance	Pani Walewska Sweet Romance		female		https://www.fragrantica.com/perfume/Miraculum/Pani-Walewska-Sweet-Romance-32796.html				pending
-pani-walewska-white	Pani Walewska White		female		https://www.fragrantica.com/perfume/Miraculum/Pani-Walewska-White-28605.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+chopin	Chopin		male	https://www.fragrantica.com/perfume/Miraculum/Chopin-18636.html				pending
+pani-walewska-noir	Pani Walewska Noir		female	https://www.fragrantica.com/perfume/Miraculum/Pani-Walewska-Noir-28606.html				pending
+pani-walewska-sweet-romance	Pani Walewska Sweet Romance		female	https://www.fragrantica.com/perfume/Miraculum/Pani-Walewska-Sweet-Romance-32796.html				pending
+pani-walewska-white	Pani Walewska White		female	https://www.fragrantica.com/perfume/Miraculum/Pani-Walewska-White-28605.html				pending

@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-beachy	Beachy		female		https://www.fragrantica.com/perfume/Lilly-Pulitzer/Beachy-4444.html				pending
-squeeze	Squeeze		female		https://www.fragrantica.com/perfume/Lilly-Pulitzer/Squeeze-4443.html				pending
-wink	Wink		female		https://www.fragrantica.com/perfume/Lilly-Pulitzer/Wink-4442.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+beachy	Beachy		female	https://www.fragrantica.com/perfume/Lilly-Pulitzer/Beachy-4444.html				pending
+squeeze	Squeeze		female	https://www.fragrantica.com/perfume/Lilly-Pulitzer/Squeeze-4443.html				pending
+wink	Wink		female	https://www.fragrantica.com/perfume/Lilly-Pulitzer/Wink-4442.html				pending

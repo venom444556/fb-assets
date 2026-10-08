@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bois-de-santal	Bois de Santal		unisex		https://www.fragrantica.com/perfume/House-of-Brandt/Bois-de-Santal-89216.html				pending
-everveil	Everveil		unisex		https://www.fragrantica.com/perfume/House-of-Brandt/Everveil-119211.html				pending
-genesis	Genesis		unisex		https://www.fragrantica.com/perfume/House-of-Brandt/Genesis-89210.html				pending
-guava-sorbet	Guava Sorbet		unisex		https://www.fragrantica.com/perfume/House-of-Brandt/Guava-Sorbet-96282.html				pending
-guava-sorbet-elixir	Guava Sorbet Elixir		unisex		https://www.fragrantica.com/perfume/House-of-Brandt/Guava-Sorbet-Elixir-135990.html				pending
-klea	KLĒA		unisex		https://www.fragrantica.com/perfume/House-of-Brandt/KLEA-89214.html				pending
-london-fog	London Fog		unisex		https://www.fragrantica.com/perfume/House-of-Brandt/London-Fog-101100.html				pending
-summer-street	Summer Street		unisex		https://www.fragrantica.com/perfume/House-of-Brandt/Summer-Street-108786.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bois-de-santal	Bois de Santal		unisex	https://www.fragrantica.com/perfume/House-of-Brandt/Bois-de-Santal-89216.html				pending
+everveil	Everveil		unisex	https://www.fragrantica.com/perfume/House-of-Brandt/Everveil-119211.html				pending
+genesis	Genesis		unisex	https://www.fragrantica.com/perfume/House-of-Brandt/Genesis-89210.html				pending
+guava-sorbet	Guava Sorbet		unisex	https://www.fragrantica.com/perfume/House-of-Brandt/Guava-Sorbet-96282.html				pending
+guava-sorbet-elixir	Guava Sorbet Elixir		unisex	https://www.fragrantica.com/perfume/House-of-Brandt/Guava-Sorbet-Elixir-135990.html				pending
+klea	KLĒA		unisex	https://www.fragrantica.com/perfume/House-of-Brandt/KLEA-89214.html				pending
+london-fog	London Fog		unisex	https://www.fragrantica.com/perfume/House-of-Brandt/London-Fog-101100.html				pending
+summer-street	Summer Street		unisex	https://www.fragrantica.com/perfume/House-of-Brandt/Summer-Street-108786.html				pending

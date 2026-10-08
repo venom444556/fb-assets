@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-citiver	Citiver		unisex		https://www.fragrantica.com/perfume/Dueto-Parfums/Citiver-18599.html				pending
-city-love	City Love		unisex		https://www.fragrantica.com/perfume/Dueto-Parfums/City-Love-14734.html				pending
-city-oud	City Oud		unisex		https://www.fragrantica.com/perfume/Dueto-Parfums/City-Oud-14733.html				pending
-golden-boy	Golden Boy		unisex		https://www.fragrantica.com/perfume/Dueto-Parfums/Golden-Boy-14732.html				pending
-lady-cool	Lady Cool		female		https://www.fragrantica.com/perfume/Dueto-Parfums/Lady-Cool-15159.html				pending
-uber	Uber		unisex		https://www.fragrantica.com/perfume/Dueto-Parfums/Uber-27592.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+citiver	Citiver		unisex	https://www.fragrantica.com/perfume/Dueto-Parfums/Citiver-18599.html				pending
+city-love	City Love		unisex	https://www.fragrantica.com/perfume/Dueto-Parfums/City-Love-14734.html				pending
+city-oud	City Oud		unisex	https://www.fragrantica.com/perfume/Dueto-Parfums/City-Oud-14733.html				pending
+golden-boy	Golden Boy		unisex	https://www.fragrantica.com/perfume/Dueto-Parfums/Golden-Boy-14732.html				pending
+lady-cool	Lady Cool		female	https://www.fragrantica.com/perfume/Dueto-Parfums/Lady-Cool-15159.html				pending
+uber	Uber		unisex	https://www.fragrantica.com/perfume/Dueto-Parfums/Uber-27592.html				pending

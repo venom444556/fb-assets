@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aigner-black	Aigner Black		female		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-Black-3307.html				pending
-aigner-black-for-men	Aigner Black for Men		male		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-Black-for-Men-3308.html				pending
-aigner-no-1	Aigner No 1		male		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-No-1-14785.html				pending
-aigner-no-1-intense	Aigner No 1 Intense		male		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-No-1-Intense-21382.html				pending
-aigner-n1-oud	Aigner N°1 Oud		unisex		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-N01-Oud-27595.html				pending
-aigner-pour-homme	Aigner pour Homme		male		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-pour-Homme-3311.html				pending
-aigner-pour-homme-blue-emotion	Aigner pour Homme Blue Emotion		male		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-pour-Homme-Blue-Emotion-3312.html				pending
-aigner-too-feminine	Aigner Too Feminine		female		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-Too-Feminine-3313.html				pending
-aigner-too-feminine-spring	Aigner Too Feminine Spring		female		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-Too-Feminine-Spring-3314.html				pending
-aigner-white-man	Aigner White Man		male		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-White-Man-3300.html				pending
-aigner-man-2	Aigner |man|2		male		https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-man-2-2668.html				pending
-cara-mia	Cara Mia		female		https://www.fragrantica.com/perfume/Etienne-Aigner/Cara-Mia-32043.html				pending
-debut	Debut		female		https://www.fragrantica.com/perfume/Etienne-Aigner/Debut-18586.html				pending
-debut-by-night	Debut by Night		female		https://www.fragrantica.com/perfume/Etienne-Aigner/Debut-by-Night-27446.html				pending
-etienne-aigner-pour-femme	Etienne Aigner Pour Femme		female		https://www.fragrantica.com/perfume/Etienne-Aigner/Etienne-Aigner-Pour-Femme-10167.html				pending
-evolution	Evolution		male		https://www.fragrantica.com/perfume/Etienne-Aigner/Evolution-5983.html				pending
-first-class	First Class		male		https://www.fragrantica.com/perfume/Etienne-Aigner/First-Class-40663.html				pending
-first-class-executive	First Class Executive		male		https://www.fragrantica.com/perfume/Etienne-Aigner/First-Class-Executive-48565.html				pending
-in-leather	In Leather		female		https://www.fragrantica.com/perfume/Etienne-Aigner/In-Leather-3315.html				pending
-in-leather-man	In Leather Man		male		https://www.fragrantica.com/perfume/Etienne-Aigner/In-Leather-Man-3316.html				pending
-starlight	Starlight		female		https://www.fragrantica.com/perfume/Etienne-Aigner/Starlight-4719.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aigner-black	Aigner Black		female	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-Black-3307.html				pending
+aigner-black-for-men	Aigner Black for Men		male	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-Black-for-Men-3308.html				pending
+aigner-no-1	Aigner No 1		male	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-No-1-14785.html				pending
+aigner-no-1-intense	Aigner No 1 Intense		male	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-No-1-Intense-21382.html				pending
+aigner-n1-oud	Aigner N°1 Oud		unisex	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-N01-Oud-27595.html				pending
+aigner-pour-homme	Aigner pour Homme		male	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-pour-Homme-3311.html				pending
+aigner-pour-homme-blue-emotion	Aigner pour Homme Blue Emotion		male	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-pour-Homme-Blue-Emotion-3312.html				pending
+aigner-too-feminine	Aigner Too Feminine		female	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-Too-Feminine-3313.html				pending
+aigner-too-feminine-spring	Aigner Too Feminine Spring		female	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-Too-Feminine-Spring-3314.html				pending
+aigner-white-man	Aigner White Man		male	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-White-Man-3300.html				pending
+aigner-man-2	Aigner |man|2		male	https://www.fragrantica.com/perfume/Etienne-Aigner/Aigner-man-2-2668.html				pending
+cara-mia	Cara Mia		female	https://www.fragrantica.com/perfume/Etienne-Aigner/Cara-Mia-32043.html				pending
+debut	Debut		female	https://www.fragrantica.com/perfume/Etienne-Aigner/Debut-18586.html				pending
+debut-by-night	Debut by Night		female	https://www.fragrantica.com/perfume/Etienne-Aigner/Debut-by-Night-27446.html				pending
+etienne-aigner-pour-femme	Etienne Aigner Pour Femme		female	https://www.fragrantica.com/perfume/Etienne-Aigner/Etienne-Aigner-Pour-Femme-10167.html				pending
+evolution	Evolution		male	https://www.fragrantica.com/perfume/Etienne-Aigner/Evolution-5983.html				pending
+first-class	First Class		male	https://www.fragrantica.com/perfume/Etienne-Aigner/First-Class-40663.html				pending
+first-class-executive	First Class Executive		male	https://www.fragrantica.com/perfume/Etienne-Aigner/First-Class-Executive-48565.html				pending
+in-leather	In Leather		female	https://www.fragrantica.com/perfume/Etienne-Aigner/In-Leather-3315.html				pending
+in-leather-man	In Leather Man		male	https://www.fragrantica.com/perfume/Etienne-Aigner/In-Leather-Man-3316.html				pending
+starlight	Starlight		female	https://www.fragrantica.com/perfume/Etienne-Aigner/Starlight-4719.html				pending

@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-agarwood-noir	Agarwood Noir		unisex		https://www.fragrantica.com/perfume/Amouroud/Agarwood-Noir-37886.html				pending
-bois-dorient	Bois D'Orient		unisex		https://www.fragrantica.com/perfume/Amouroud/Bois-D-Orient-37887.html				pending
-dark-orchid	Dark Orchid		unisex		https://www.fragrantica.com/perfume/Amouroud/Dark-Orchid-32584.html				pending
-golden-oud	Golden Oud		unisex		https://www.fragrantica.com/perfume/Amouroud/Golden-Oud-57946.html				pending
-licorice-woods	Licorice Woods		unisex		https://www.fragrantica.com/perfume/Amouroud/Licorice-Woods-77892.html				pending
-lunar-vetiver	Lunar Vetiver		unisex		https://www.fragrantica.com/perfume/Amouroud/Lunar-Vetiver-49492.html				pending
-midnight-rose	Midnight Rose		unisex		https://www.fragrantica.com/perfume/Amouroud/Midnight-Rose-32588.html				pending
-miel-sauvage	Miel Sauvage		unisex		https://www.fragrantica.com/perfume/Amouroud/Miel-Sauvage-32589.html				pending
-mysterious-rose	Mysterious Rose		unisex		https://www.fragrantica.com/perfume/Amouroud/Mysterious-Rose-57947.html				pending
-oud-after-dark	Oud After Dark		unisex		https://www.fragrantica.com/perfume/Amouroud/Oud-After-Dark-37888.html				pending
-oud-du-jour	Oud du Jour		unisex		https://www.fragrantica.com/perfume/Amouroud/Oud-du-Jour-32586.html				pending
-oud-tabac	Oud Tabac		unisex		https://www.fragrantica.com/perfume/Amouroud/Oud-Tabac-49494.html				pending
-safran-rare	Safran Rare		unisex		https://www.fragrantica.com/perfume/Amouroud/Safran-Rare-32585.html				pending
-santal-des-indes	Santal des Indes		unisex		https://www.fragrantica.com/perfume/Amouroud/Santal-des-Indes-32587.html				pending
-silk-route	Silk Route		unisex		https://www.fragrantica.com/perfume/Amouroud/Silk-Route-37885.html				pending
-silver-birch	Silver Birch		unisex		https://www.fragrantica.com/perfume/Amouroud/Silver-Birch-54983.html				pending
-smoky-citrus	Smoky Citrus		unisex		https://www.fragrantica.com/perfume/Amouroud/Smoky-Citrus-81415.html				pending
-sumptuous-flower	Sumptuous Flower		unisex		https://www.fragrantica.com/perfume/Amouroud/Sumptuous-Flower-81416.html				pending
-sunset-oud	Sunset Oud		unisex		https://www.fragrantica.com/perfume/Amouroud/Sunset-Oud-76975.html				pending
-wet-stone	Wet Stone		unisex		https://www.fragrantica.com/perfume/Amouroud/Wet-Stone-54986.html				pending
-white-hinoki	White Hinoki		unisex		https://www.fragrantica.com/perfume/Amouroud/White-Hinoki-49490.html				pending
-white-sands	White Sands		unisex		https://www.fragrantica.com/perfume/Amouroud/White-Sands-81414.html				pending
-la-rose-noire	La Rose Noire		unisex		https://www.fragrantica.com/perfume/Amouroud/La-Rose-Noire-81417.html				pending
-noir-illumine	Noir Illuminé		unisex		https://www.fragrantica.com/perfume/Amouroud/Noir-Illumine-57948.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+agarwood-noir	Agarwood Noir		unisex	https://www.fragrantica.com/perfume/Amouroud/Agarwood-Noir-37886.html				pending
+bois-dorient	Bois D'Orient		unisex	https://www.fragrantica.com/perfume/Amouroud/Bois-D-Orient-37887.html				pending
+dark-orchid	Dark Orchid		unisex	https://www.fragrantica.com/perfume/Amouroud/Dark-Orchid-32584.html				pending
+golden-oud	Golden Oud		unisex	https://www.fragrantica.com/perfume/Amouroud/Golden-Oud-57946.html				pending
+la-rose-noire	La Rose Noire		unisex	https://www.fragrantica.com/perfume/Amouroud/La-Rose-Noire-81417.html				pending
+licorice-woods	Licorice Woods		unisex	https://www.fragrantica.com/perfume/Amouroud/Licorice-Woods-77892.html				pending
+lunar-vetiver	Lunar Vetiver		unisex	https://www.fragrantica.com/perfume/Amouroud/Lunar-Vetiver-49492.html				pending
+midnight-rose	Midnight Rose		unisex	https://www.fragrantica.com/perfume/Amouroud/Midnight-Rose-32588.html				pending
+miel-sauvage	Miel Sauvage		unisex	https://www.fragrantica.com/perfume/Amouroud/Miel-Sauvage-32589.html				pending
+mysterious-rose	Mysterious Rose		unisex	https://www.fragrantica.com/perfume/Amouroud/Mysterious-Rose-57947.html				pending
+noir-illumine	Noir Illuminé		unisex	https://www.fragrantica.com/perfume/Amouroud/Noir-Illumine-57948.html				pending
+oud-after-dark	Oud After Dark		unisex	https://www.fragrantica.com/perfume/Amouroud/Oud-After-Dark-37888.html				pending
+oud-du-jour	Oud du Jour		unisex	https://www.fragrantica.com/perfume/Amouroud/Oud-du-Jour-32586.html				pending
+oud-tabac	Oud Tabac		unisex	https://www.fragrantica.com/perfume/Amouroud/Oud-Tabac-49494.html				pending
+safran-rare	Safran Rare		unisex	https://www.fragrantica.com/perfume/Amouroud/Safran-Rare-32585.html				pending
+santal-des-indes	Santal des Indes		unisex	https://www.fragrantica.com/perfume/Amouroud/Santal-des-Indes-32587.html				pending
+silk-route	Silk Route		unisex	https://www.fragrantica.com/perfume/Amouroud/Silk-Route-37885.html				pending
+silver-birch	Silver Birch		unisex	https://www.fragrantica.com/perfume/Amouroud/Silver-Birch-54983.html				pending
+smoky-citrus	Smoky Citrus		unisex	https://www.fragrantica.com/perfume/Amouroud/Smoky-Citrus-81415.html				pending
+sumptuous-flower	Sumptuous Flower		unisex	https://www.fragrantica.com/perfume/Amouroud/Sumptuous-Flower-81416.html				pending
+sunset-oud	Sunset Oud		unisex	https://www.fragrantica.com/perfume/Amouroud/Sunset-Oud-76975.html				pending
+wet-stone	Wet Stone		unisex	https://www.fragrantica.com/perfume/Amouroud/Wet-Stone-54986.html				pending
+white-hinoki	White Hinoki		unisex	https://www.fragrantica.com/perfume/Amouroud/White-Hinoki-49490.html				pending
+white-sands	White Sands		unisex	https://www.fragrantica.com/perfume/Amouroud/White-Sands-81414.html				pending

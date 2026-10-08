@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-metal	Black Metal		female		https://www.fragrantica.com/perfume/John-Richmond/Black-Metal-70112.html				pending
-black-metal-man	Black Metal Man		male		https://www.fragrantica.com/perfume/John-Richmond/Black-Metal-Man-78290.html				pending
-john-richmond-eau-de-parfum	John Richmond Eau de Parfum		female		https://www.fragrantica.com/perfume/John-Richmond/John-Richmond-Eau-de-Parfum-6279.html				pending
-john-richmond-for-men	John Richmond for Men		male		https://www.fragrantica.com/perfume/John-Richmond/John-Richmond-for-Men-9117.html				pending
-never-forever	Never Forever		female		https://www.fragrantica.com/perfume/John-Richmond/Never-Forever-87967.html				pending
-richmond-x-man	Richmond X Man		male		https://www.fragrantica.com/perfume/John-Richmond/Richmond-X-Man-24701.html				pending
-richmond-x-woman	Richmond X Woman		female		https://www.fragrantica.com/perfume/John-Richmond/Richmond-X-Woman-24700.html				pending
-viva-rock	Viva Rock		female		https://www.fragrantica.com/perfume/John-Richmond/Viva-Rock-13095.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-metal	Black Metal		female	https://www.fragrantica.com/perfume/John-Richmond/Black-Metal-70112.html				pending
+black-metal-man	Black Metal Man		male	https://www.fragrantica.com/perfume/John-Richmond/Black-Metal-Man-78290.html				pending
+john-richmond-eau-de-parfum	John Richmond Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/John-Richmond/John-Richmond-Eau-de-Parfum-6279.html				pending
+john-richmond-for-men	John Richmond for Men		male	https://www.fragrantica.com/perfume/John-Richmond/John-Richmond-for-Men-9117.html				pending
+never-forever	Never Forever		female	https://www.fragrantica.com/perfume/John-Richmond/Never-Forever-87967.html				pending
+richmond-x-man	Richmond X Man		male	https://www.fragrantica.com/perfume/John-Richmond/Richmond-X-Man-24701.html				pending
+richmond-x-woman	Richmond X Woman		female	https://www.fragrantica.com/perfume/John-Richmond/Richmond-X-Woman-24700.html				pending
+viva-rock	Viva Rock		female	https://www.fragrantica.com/perfume/John-Richmond/Viva-Rock-13095.html				pending

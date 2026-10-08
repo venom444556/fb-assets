@@ -1,35 +1,35 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-noir	Amber Noir		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Amber-Noir-87190.html				pending
-amber-rouge	Amber Rouge		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Amber-Rouge-69364.html				pending
-arte-bellisimo-exotic	Arte Bellisimo Exotic		female		https://www.fragrantica.com/perfume/Orientica-Premium/Arte-Bellisimo-Exotic-78006.html				pending
-arte-bellisimo-romantic	Arte Bellisimo Romantic		female		https://www.fragrantica.com/perfume/Orientica-Premium/Arte-Bellisimo-Romantic-78007.html				pending
-dania	Dania		female		https://www.fragrantica.com/perfume/Orientica-Premium/Dania-97986.html				pending
-desert-dusk	Desert Dusk		female		https://www.fragrantica.com/perfume/Orientica-Premium/Desert-Dusk-117923.html				pending
-exclusive-azure-fantasy	Exclusive Azure Fantasy		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Exclusive-Azure-Fantasy-92252.html				pending
-fleur-de-orientica	Fleur de Orientica		female		https://www.fragrantica.com/perfume/Orientica-Premium/Fleur-de-Orientica-76887.html				pending
-melodie-de-orientica	Melodie de Orientica		female		https://www.fragrantica.com/perfume/Orientica-Premium/Melodie-de-Orientica-78008.html				pending
-monarch	Monarch		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Monarch-124215.html				pending
-nardo-oud	Nardo Oud		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Nardo-Oud-113968.html				pending
-noble	Noble		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Noble-104042.html				pending
-oud-saffron	Oud Saffron		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Oud-Saffron-69363.html				pending
-royal-amber	Royal Amber		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Royal-Amber-69362.html				pending
-royal-bleu	Royal Bleu		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Royal-Bleu-78001.html				pending
-velvet-gold	Velvet Gold		female		https://www.fragrantica.com/perfume/Orientica-Premium/Velvet-Gold-75641.html				pending
-victory	Victory		male		https://www.fragrantica.com/perfume/Orientica-Premium/Victory-111702.html				pending
-xclusif-oud-bleu	Xclusif Oud Bleu		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Bleu-78036.html				pending
-xclusif-oud-classic	Xclusif Oud Classic		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Classic-78039.html				pending
-xclusif-oud-emerald	Xclusif Oud Emerald		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Emerald-78037.html				pending
-amber-rouge-parfum-concentre	Amber Rouge Parfum Concentré		female		https://www.fragrantica.com/perfume/Orientica-Premium/Amber-Rouge-Parfum-Concentre-91819.html				pending
-areej-hanaan	Areej Hanaan		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Areej-Hanaan-78003.html				pending
-areej-oud-anaqa	Areej Oud Anaqa		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Areej-Oud-Anaqa-78004.html				pending
-areej-shaza	Areej Shaza		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Areej-Shaza-78005.html				pending
-cuir-de-orientica	Cuir de Orientica		male		https://www.fragrantica.com/perfume/Orientica-Premium/Cuir-de-Orientica-78010.html				pending
-cuir-de-orientica-edition-noir	Cuir de Orientica Édition Noir		male		https://www.fragrantica.com/perfume/Orientica-Premium/Cuir-de-Orientica-Edition-Noir-88204.html				pending
-exclusive-royal-amber	Exclusive Royal Amber		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Exclusive-Royal-Amber-92251.html				pending
-imperial-gold	Imperial Gold		male		https://www.fragrantica.com/perfume/Orientica-Premium/Imperial-Gold-69360.html				pending
-rose-de-orientica	Rosé de Orientica		female		https://www.fragrantica.com/perfume/Orientica-Premium/Rose-de-Orientica-78009.html				pending
-royal-amber-parfum-concentre	Royal Amber Parfum Concentré		female		https://www.fragrantica.com/perfume/Orientica-Premium/Royal-Amber-Parfum-Concentre-91820.html				pending
-wild-neroli	Wild Neroli		male		https://www.fragrantica.com/perfume/Orientica-Premium/Wild-Neroli-69359.html				pending
-xclusif-oud-rouge	Xclusif Oud Rouge		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Rouge-85265.html				pending
-xclusif-oud-sport	Xclusif Oud Sport		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Sport-78038.html				pending
-xo-exclusif-oud-noir	XO Exclusif Oud Noir		unisex		https://www.fragrantica.com/perfume/Orientica-Premium/XO-Exclusif-Oud-Noir-92250.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-noir	Amber Noir		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Amber-Noir-87190.html				pending
+amber-rouge	Amber Rouge		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Amber-Rouge-69364.html				pending
+amber-rouge-parfum-concentre	Amber Rouge Parfum Concentré		female	https://www.fragrantica.com/perfume/Orientica-Premium/Amber-Rouge-Parfum-Concentre-91819.html				pending
+areej-hanaan	Areej Hanaan		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Areej-Hanaan-78003.html				pending
+areej-oud-anaqa	Areej Oud Anaqa		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Areej-Oud-Anaqa-78004.html				pending
+areej-shaza	Areej Shaza		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Areej-Shaza-78005.html				pending
+arte-bellisimo-exotic	Arte Bellisimo Exotic		female	https://www.fragrantica.com/perfume/Orientica-Premium/Arte-Bellisimo-Exotic-78006.html				pending
+arte-bellisimo-romantic	Arte Bellisimo Romantic		female	https://www.fragrantica.com/perfume/Orientica-Premium/Arte-Bellisimo-Romantic-78007.html				pending
+cuir-de-orientica	Cuir de Orientica		male	https://www.fragrantica.com/perfume/Orientica-Premium/Cuir-de-Orientica-78010.html				pending
+cuir-de-orientica-edition-noir	Cuir de Orientica Édition Noir		male	https://www.fragrantica.com/perfume/Orientica-Premium/Cuir-de-Orientica-Edition-Noir-88204.html				pending
+dania	Dania		female	https://www.fragrantica.com/perfume/Orientica-Premium/Dania-97986.html				pending
+desert-dusk	Desert Dusk		female	https://www.fragrantica.com/perfume/Orientica-Premium/Desert-Dusk-117923.html				pending
+exclusive-azure-fantasy	Exclusive Azure Fantasy		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Exclusive-Azure-Fantasy-92252.html				pending
+exclusive-royal-amber	Exclusive Royal Amber		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Exclusive-Royal-Amber-92251.html				pending
+fleur-de-orientica	Fleur de Orientica		female	https://www.fragrantica.com/perfume/Orientica-Premium/Fleur-de-Orientica-76887.html				pending
+imperial-gold	Imperial Gold		male	https://www.fragrantica.com/perfume/Orientica-Premium/Imperial-Gold-69360.html				pending
+melodie-de-orientica	Melodie de Orientica		female	https://www.fragrantica.com/perfume/Orientica-Premium/Melodie-de-Orientica-78008.html				pending
+monarch	Monarch		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Monarch-124215.html				pending
+nardo-oud	Nardo Oud		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Nardo-Oud-113968.html				pending
+noble	Noble		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Noble-104042.html				pending
+oud-saffron	Oud Saffron		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Oud-Saffron-69363.html				pending
+rose-de-orientica	Rosé de Orientica		female	https://www.fragrantica.com/perfume/Orientica-Premium/Rose-de-Orientica-78009.html				pending
+royal-amber	Royal Amber		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Royal-Amber-69362.html				pending
+royal-amber-parfum-concentre	Royal Amber Parfum Concentré		female	https://www.fragrantica.com/perfume/Orientica-Premium/Royal-Amber-Parfum-Concentre-91820.html				pending
+royal-bleu	Royal Bleu		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Royal-Bleu-78001.html				pending
+velvet-gold	Velvet Gold		female	https://www.fragrantica.com/perfume/Orientica-Premium/Velvet-Gold-75641.html				pending
+victory	Victory		male	https://www.fragrantica.com/perfume/Orientica-Premium/Victory-111702.html				pending
+wild-neroli	Wild Neroli		male	https://www.fragrantica.com/perfume/Orientica-Premium/Wild-Neroli-69359.html				pending
+xclusif-oud-bleu	Xclusif Oud Bleu		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Bleu-78036.html				pending
+xclusif-oud-classic	Xclusif Oud Classic		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Classic-78039.html				pending
+xclusif-oud-emerald	Xclusif Oud Emerald		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Emerald-78037.html				pending
+xclusif-oud-rouge	Xclusif Oud Rouge		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Rouge-85265.html				pending
+xclusif-oud-sport	Xclusif Oud Sport		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/Xclusif-Oud-Sport-78038.html				pending
+xo-exclusif-oud-noir	XO Exclusif Oud Noir		unisex	https://www.fragrantica.com/perfume/Orientica-Premium/XO-Exclusif-Oud-Noir-92250.html				pending

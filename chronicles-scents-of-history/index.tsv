@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-boston-tea-party-1773	Boston Tea Party, 1773		unisex		https://www.fragrantica.com/perfume/Chronicles-scents-of-history/Boston-Tea-Party-1773-89888.html				pending
-cleopatras-power-play-47-bc	Cleopatra’s Power Play, 47 BC		unisex		https://www.fragrantica.com/perfume/Chronicles-scents-of-history/Cleopatra-s-Power-Play-47-BC-89889.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+boston-tea-party-1773	Boston Tea Party, 1773		unisex	https://www.fragrantica.com/perfume/Chronicles-scents-of-history/Boston-Tea-Party-1773-89888.html				pending
+cleopatras-power-play-47-bc	Cleopatra’s Power Play, 47 BC		unisex	https://www.fragrantica.com/perfume/Chronicles-scents-of-history/Cleopatra-s-Power-Play-47-BC-89889.html				pending

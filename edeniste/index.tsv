@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-vanille-irresistible	Vanille Irresistible		unisex		https://www.fragrantica.com/perfume/Edeniste/Vanille-Irresistible-75438.html				pending
-cuir-sauvage	Cuir Sauvage		unisex		https://www.fragrantica.com/perfume/Edeniste/Cuir-Sauvage-87621.html				pending
-dream	Dream		unisex		https://www.fragrantica.com/perfume/Edeniste/Dream-75439.html				pending
-energy	Energy		unisex		https://www.fragrantica.com/perfume/Edeniste/Energy-75440.html				pending
-happiness	Happiness		unisex		https://www.fragrantica.com/perfume/Edeniste/Happiness-75441.html				pending
-jasmin-cruel	Jasmin Cruel		unisex		https://www.fragrantica.com/perfume/Edeniste/Jasmin-Cruel-75430.html				pending
-love	Love		unisex		https://www.fragrantica.com/perfume/Edeniste/Love-87620.html				pending
-neroli-sensuel	Néroli Sensuel		unisex		https://www.fragrantica.com/perfume/Edeniste/Neroli-Sensuel-75434.html				pending
-oud-mystique	Oud Mystique		unisex		https://www.fragrantica.com/perfume/Edeniste/Oud-Mystique-88176.html				pending
-relax	Relax		unisex		https://www.fragrantica.com/perfume/Edeniste/Relax-75442.html				pending
-rose-delice	Rose Délice		unisex		https://www.fragrantica.com/perfume/Edeniste/Rose-Delice-75436.html				pending
-rose-fatale	Rose Fatale		unisex		https://www.fragrantica.com/perfume/Edeniste/Rose-Fatale-75437.html				pending
-seduction	Seduction		unisex		https://www.fragrantica.com/perfume/Edeniste/Seduction-75443.html				pending
-vetiver-imaginaire	Vétiver Imaginaire		unisex		https://www.fragrantica.com/perfume/Edeniste/Vetiver-Imaginaire-75429.html				pending
-wellbeing	Wellbeing		unisex		https://www.fragrantica.com/perfume/Edeniste/Wellbeing-75444.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cuir-sauvage	Cuir Sauvage		unisex	https://www.fragrantica.com/perfume/Edeniste/Cuir-Sauvage-87621.html				pending
+dream	Dream		unisex	https://www.fragrantica.com/perfume/Edeniste/Dream-75439.html				pending
+energy	Energy		unisex	https://www.fragrantica.com/perfume/Edeniste/Energy-75440.html				pending
+happiness	Happiness		unisex	https://www.fragrantica.com/perfume/Edeniste/Happiness-75441.html				pending
+jasmin-cruel	Jasmin Cruel		unisex	https://www.fragrantica.com/perfume/Edeniste/Jasmin-Cruel-75430.html				pending
+love	Love		unisex	https://www.fragrantica.com/perfume/Edeniste/Love-87620.html				pending
+neroli-sensuel	Néroli Sensuel		unisex	https://www.fragrantica.com/perfume/Edeniste/Neroli-Sensuel-75434.html				pending
+oud-mystique	Oud Mystique		unisex	https://www.fragrantica.com/perfume/Edeniste/Oud-Mystique-88176.html				pending
+relax	Relax		unisex	https://www.fragrantica.com/perfume/Edeniste/Relax-75442.html				pending
+rose-delice	Rose Délice		unisex	https://www.fragrantica.com/perfume/Edeniste/Rose-Delice-75436.html				pending
+rose-fatale	Rose Fatale		unisex	https://www.fragrantica.com/perfume/Edeniste/Rose-Fatale-75437.html				pending
+seduction	Seduction		unisex	https://www.fragrantica.com/perfume/Edeniste/Seduction-75443.html				pending
+vanille-irresistible	Vanille Irresistible		unisex	https://www.fragrantica.com/perfume/Edeniste/Vanille-Irresistible-75438.html				pending
+vetiver-imaginaire	Vétiver Imaginaire		unisex	https://www.fragrantica.com/perfume/Edeniste/Vetiver-Imaginaire-75429.html				pending
+wellbeing	Wellbeing		unisex	https://www.fragrantica.com/perfume/Edeniste/Wellbeing-75444.html				pending

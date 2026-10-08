@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aamal	Aamal		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Aamal-44152.html				pending
-abjar	Abjar		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Abjar-44153.html				pending
-abraj	Abraj		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Abraj-30523.html				pending
-ajyal	Ajyal		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Ajyal-85152.html				pending
-bahar	Bahar		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Bahar-30527.html				pending
-baz	Baz		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Baz-44157.html				pending
-diwan	Diwan		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Diwan-44154.html				pending
-durra	Durra		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Durra-44158.html				pending
-fakhama	Fakhama		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Fakhama-37767.html				pending
-haibah	Haibah		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Haibah-44156.html				pending
-majalis	Majalis		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Majalis-37766.html				pending
-meydan	Meydan		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Meydan-30526.html				pending
-narjesi	Narjesi		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Narjesi-44155.html				pending
-narjesi-fleur	Narjesi Fleur		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Narjesi-Fleur-93455.html				pending
-oud	Oud		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Oud-30525.html				pending
-rimal	Rimal		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Rimal-30524.html				pending
-roeya	Roeya		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Roeya-74762.html				pending
-shumukh	Shumukh		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Shumukh-54998.html				pending
-turath	Turath		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Turath-55003.html				pending
-abjar-bois	Abjar Bois		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Abjar-Bois-93450.html				pending
-baz-cuir	Baz Cuir		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Baz-Cuir-93453.html				pending
-durra-ambre	Durra Ambre		unisex		https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Durra-Ambre-93454.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aamal	Aamal		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Aamal-44152.html				pending
+abjar	Abjar		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Abjar-44153.html				pending
+abjar-bois	Abjar Bois		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Abjar-Bois-93450.html				pending
+abraj	Abraj		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Abraj-30523.html				pending
+ajyal	Ajyal		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Ajyal-85152.html				pending
+bahar	Bahar		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Bahar-30527.html				pending
+baz	Baz		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Baz-44157.html				pending
+baz-cuir	Baz Cuir		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Baz-Cuir-93453.html				pending
+diwan	Diwan		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Diwan-44154.html				pending
+durra	Durra		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Durra-44158.html				pending
+durra-ambre	Durra Ambre		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Durra-Ambre-93454.html				pending
+fakhama	Fakhama		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Fakhama-37767.html				pending
+haibah	Haibah		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Haibah-44156.html				pending
+majalis	Majalis		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Majalis-37766.html				pending
+meydan	Meydan		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Meydan-30526.html				pending
+narjesi	Narjesi		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Narjesi-44155.html				pending
+narjesi-fleur	Narjesi Fleur		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Narjesi-Fleur-93455.html				pending
+oud	Oud		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Oud-30525.html				pending
+rimal	Rimal		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Rimal-30524.html				pending
+roeya	Roeya		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Roeya-74762.html				pending
+shumukh	Shumukh		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Shumukh-54998.html				pending
+turath	Turath		unisex	https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Turath-55003.html				pending

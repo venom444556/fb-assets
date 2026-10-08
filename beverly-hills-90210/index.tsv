@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-beverly-hills-90210	Beverly Hills 90210		male		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-28090.html				pending
-beverly-hills-90210-2746	Beverly Hills 90210		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-2746.html				pending
-beverly-hills-90210-black	Beverly Hills 90210 Black		male		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Black-28104.html				pending
-beverly-hills-90210-gold-jeans	Beverly Hills 90210 Gold Jeans		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Gold-Jeans-28105.html				pending
-beverly-hills-90210-magic	Beverly Hills 90210 Magic		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Magic-28091.html				pending
-beverly-hills-90210-metal-jeans-man	Beverly Hills 90210 Metal Jeans Man		male		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Metal-Jeans-Man-28107.html				pending
-beverly-hills-90210-metal-jeans-woman	Beverly Hills 90210 Metal Jeans Woman		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Metal-Jeans-Woman-28108.html				pending
-beverly-hills-90210-moment	Beverly Hills 90210 Moment		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Moment-28092.html				pending
-beverly-hills-90210-silver-jeans	Beverly Hills 90210 Silver Jeans		male		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Silver-Jeans-28103.html				pending
-beverly-hills-90210-tickled-pink	Beverly Hills 90210 Tickled Pink		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Tickled-Pink-28093.html				pending
-beverly-hills-90210-white	Beverly Hills 90210 White		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-White-28106.html				pending
-feel-2-sexy	Feel 2 Sexy		male		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Feel-2-Sexy-28099.html				pending
-just-2-sexy	Just 2 Sexy		male		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Just-2-Sexy-28100.html				pending
-pure-2-sexy	Pure 2 Sexy		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Pure-2-Sexy-28101.html				pending
-touch-of-cool-play	Touch Of Cool Play		male		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Cool-Play-28098.html				pending
-touch-of-gold	Touch Of Gold		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Gold-28096.html				pending
-touch-of-paradise	Touch Of Paradise		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Paradise-28097.html				pending
-touch-of-pink	Touch Of Pink		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Pink-28094.html				pending
-touch-of-red	Touch Of Red		male		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Red-28095.html				pending
-very-2-sexy	Very 2 Sexy		female		https://www.fragrantica.com/perfume/Beverly-Hills-90210/Very-2-Sexy-28102.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+beverly-hills-90210	Beverly Hills 90210		male	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-28090.html				pending
+beverly-hills-90210-2746	Beverly Hills 90210		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-2746.html				pending
+beverly-hills-90210-black	Beverly Hills 90210 Black		male	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Black-28104.html				pending
+beverly-hills-90210-gold-jeans	Beverly Hills 90210 Gold Jeans		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Gold-Jeans-28105.html				pending
+beverly-hills-90210-magic	Beverly Hills 90210 Magic		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Magic-28091.html				pending
+beverly-hills-90210-metal-jeans-man	Beverly Hills 90210 Metal Jeans Man		male	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Metal-Jeans-Man-28107.html				pending
+beverly-hills-90210-metal-jeans-woman	Beverly Hills 90210 Metal Jeans Woman		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Metal-Jeans-Woman-28108.html				pending
+beverly-hills-90210-moment	Beverly Hills 90210 Moment		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Moment-28092.html				pending
+beverly-hills-90210-silver-jeans	Beverly Hills 90210 Silver Jeans		male	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Silver-Jeans-28103.html				pending
+beverly-hills-90210-tickled-pink	Beverly Hills 90210 Tickled Pink		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-Tickled-Pink-28093.html				pending
+beverly-hills-90210-white	Beverly Hills 90210 White		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Beverly-Hills-90210-White-28106.html				pending
+feel-2-sexy	Feel 2 Sexy		male	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Feel-2-Sexy-28099.html				pending
+just-2-sexy	Just 2 Sexy		male	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Just-2-Sexy-28100.html				pending
+pure-2-sexy	Pure 2 Sexy		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Pure-2-Sexy-28101.html				pending
+touch-of-cool-play	Touch Of Cool Play		male	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Cool-Play-28098.html				pending
+touch-of-gold	Touch Of Gold		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Gold-28096.html				pending
+touch-of-paradise	Touch Of Paradise		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Paradise-28097.html				pending
+touch-of-pink	Touch Of Pink		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Pink-28094.html				pending
+touch-of-red	Touch Of Red		male	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Touch-Of-Red-28095.html				pending
+very-2-sexy	Very 2 Sexy		female	https://www.fragrantica.com/perfume/Beverly-Hills-90210/Very-2-Sexy-28102.html				pending

@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-v-de-vakko	V de Vakko		male		https://www.fragrantica.com/perfume/Vakko/V-de-Vakko-12535.html				pending
-katia	Katia		female		https://www.fragrantica.com/perfume/Vakko/Katia-12536.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+katia	Katia		female	https://www.fragrantica.com/perfume/Vakko/Katia-12536.html				pending
+v-de-vakko	V de Vakko		male	https://www.fragrantica.com/perfume/Vakko/V-de-Vakko-12535.html				pending

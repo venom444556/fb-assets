@@ -1,2 +1,2 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-perfume-de-la-tierra	Perfume de la Tierra		unisex		https://www.fragrantica.com/perfume/Ceremonia/Perfume-de-la-Tierra-81968.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+perfume-de-la-tierra	Perfume de la Tierra		unisex	https://www.fragrantica.com/perfume/Ceremonia/Perfume-de-la-Tierra-81968.html				pending

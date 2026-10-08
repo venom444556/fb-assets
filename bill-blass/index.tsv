@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-couture-3	Couture 3		female		https://www.fragrantica.com/perfume/Bill-Blass/Couture-3-4628.html				pending
-couture-6	Couture 6		female		https://www.fragrantica.com/perfume/Bill-Blass/Couture-6-4629.html				pending
-mr-blass	Mr. Blass		male		https://www.fragrantica.com/perfume/Bill-Blass/Mr-Blass-18672.html				pending
-red	Red		female		https://www.fragrantica.com/perfume/Bill-Blass/Red-9835.html				pending
-the-fragrance-from-bill-blass	The Fragrance from Bill Blass		female		https://www.fragrantica.com/perfume/Bill-Blass/The-Fragrance-from-Bill-Blass-1672.html				pending
-amazing	Amazing		female		https://www.fragrantica.com/perfume/Bill-Blass/Amazing-1668.html				pending
-amazing-for-men	Amazing for Men		male		https://www.fragrantica.com/perfume/Bill-Blass/Amazing-for-Men-1669.html				pending
-basic-black	Basic Black		female		https://www.fragrantica.com/perfume/Bill-Blass/Basic-Black-1670.html				pending
-bill-blass-for-women	Bill Blass for Women		female		https://www.fragrantica.com/perfume/Bill-Blass/Bill-Blass-for-Women-1671.html				pending
-couture-1	Couture 1		female		https://www.fragrantica.com/perfume/Bill-Blass/Couture-1-4627.html				pending
-couture-7	Couture 7		female		https://www.fragrantica.com/perfume/Bill-Blass/Couture-7-4630.html				pending
-couture-8	Couture 8		female		https://www.fragrantica.com/perfume/Bill-Blass/Couture-8-5360.html				pending
-hot	Hot		female		https://www.fragrantica.com/perfume/Bill-Blass/Hot-13441.html				pending
-nude	Nude		female		https://www.fragrantica.com/perfume/Bill-Blass/Nude-130.html				pending
-wood	Wood		male		https://www.fragrantica.com/perfume/Bill-Blass/Wood-13417.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amazing	Amazing		female	https://www.fragrantica.com/perfume/Bill-Blass/Amazing-1668.html				pending
+amazing-for-men	Amazing for Men		male	https://www.fragrantica.com/perfume/Bill-Blass/Amazing-for-Men-1669.html				pending
+basic-black	Basic Black		female	https://www.fragrantica.com/perfume/Bill-Blass/Basic-Black-1670.html				pending
+bill-blass-for-women	Bill Blass for Women		female	https://www.fragrantica.com/perfume/Bill-Blass/Bill-Blass-for-Women-1671.html				pending
+couture-1	Couture 1		female	https://www.fragrantica.com/perfume/Bill-Blass/Couture-1-4627.html				pending
+couture-3	Couture 3		female	https://www.fragrantica.com/perfume/Bill-Blass/Couture-3-4628.html				pending
+couture-6	Couture 6		female	https://www.fragrantica.com/perfume/Bill-Blass/Couture-6-4629.html				pending
+couture-7	Couture 7		female	https://www.fragrantica.com/perfume/Bill-Blass/Couture-7-4630.html				pending
+couture-8	Couture 8		female	https://www.fragrantica.com/perfume/Bill-Blass/Couture-8-5360.html				pending
+hot	Hot		female	https://www.fragrantica.com/perfume/Bill-Blass/Hot-13441.html				pending
+mr-blass	Mr. Blass		male	https://www.fragrantica.com/perfume/Bill-Blass/Mr-Blass-18672.html				pending
+nude	Nude		female	https://www.fragrantica.com/perfume/Bill-Blass/Nude-130.html				pending
+red	Red		female	https://www.fragrantica.com/perfume/Bill-Blass/Red-9835.html				pending
+the-fragrance-from-bill-blass	The Fragrance from Bill Blass		female	https://www.fragrantica.com/perfume/Bill-Blass/The-Fragrance-from-Bill-Blass-1672.html				pending
+wood	Wood		male	https://www.fragrantica.com/perfume/Bill-Blass/Wood-13417.html				pending

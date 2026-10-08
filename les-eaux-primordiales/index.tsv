@@ -1,32 +1,32 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-abstraction-raisonnee	Abstraction Raisonnee		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Abstraction-Raisonnee-32946.html				pending
-ambre-superfluide	Ambre Superfluide		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Ambre-Superfluide-62853.html				pending
-ambre-supermassive	Ambre Supermassive		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Ambre-Supermassive-95535.html				pending
-champaca-supercritique	Champaca Supercritique		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Champaca-Supercritique-49555.html				pending
-couleur-primaire	Couleur Primaire		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Couleur-Primaire-49557.html				pending
-cedre-superfluide	Cèdre Superfluide		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Cedre-Superfluide-88450.html				pending
-elevation	Elevation		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Elevation-125827.html				pending
-encens-superfluide	Encens Superfluide		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Encens-Superfluide-59053.html				pending
-iris-palladium	Iris Palladium		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Iris-Palladium-90012.html				pending
-iris-palladium-2015	Iris Palladium 2015		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Iris-Palladium-2015-32943.html				pending
-memoire-du-futur	Memoire du Futur		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Memoire-du-Futur-32944.html				pending
-mimosa-supercritique	Mimosa Supercritique		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Mimosa-Supercritique-62852.html				pending
-moment-perpetuel	Moment Perpetuel		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Moment-Perpetuel-32948.html				pending
-musk-superfluide	Musk Superfluide		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Musk-Superfluide-62287.html				pending
-mecanique-intuitive	Mécanique Intuitive		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Mecanique-Intuitive-37883.html				pending
-neroli-supercritique	Néroli Supercritique		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Neroli-Supercritique-83181.html				pending
-oud-superfluide	Oud Superfluide		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Oud-Superfluide-55303.html				pending
-plumeria-supercritique	Plumeria Supercritique		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Plumeria-Supercritique-80606.html				pending
-rose-supercritique	Rose Supercritique		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Rose-Supercritique-49556.html				pending
-rosewood-superfluide	Rosewood Superfluide		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Rosewood-Superfluide-62854.html				pending
-saffron-superfluide	Saffron Superfluide		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Saffron-Superfluide-59052.html				pending
-santal-superfluide	Santal Superfluide		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Santal-Superfluide-73919.html				pending
-superose	Superose		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Superose-105775.html				pending
-tubereuse-supercritique	Tubéreuse Supercritique		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Tubereuse-Supercritique-83180.html				pending
-vanille-supermassive	Vanille Supermassive		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Vanille-Supermassive-83824.html				pending
-champ-dinfluence	Champ d'Influence		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Champ-d-Influence-32947.html				pending
-crocus-supercritique	Crocus Supercritique		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Crocus-Supercritique-83179.html				pending
-gardenia-supercritique	Gardenia Supercritique		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Gardenia-Supercritique-49669.html				pending
-lets-murder-the-moonshine	Let's Murder The Moonshine		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Let-s-Murder-The-Moonshine-49554.html				pending
-magnolia-supercritique	Magnolia Supercritique		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Magnolia-Supercritique-59054.html				pending
-particules-imprevisibles	Particules Imprevisibles		unisex		https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Particules-Imprevisibles-32945.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+abstraction-raisonnee	Abstraction Raisonnee		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Abstraction-Raisonnee-32946.html				pending
+ambre-superfluide	Ambre Superfluide		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Ambre-Superfluide-62853.html				pending
+ambre-supermassive	Ambre Supermassive		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Ambre-Supermassive-95535.html				pending
+champ-dinfluence	Champ d'Influence		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Champ-d-Influence-32947.html				pending
+champaca-supercritique	Champaca Supercritique		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Champaca-Supercritique-49555.html				pending
+couleur-primaire	Couleur Primaire		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Couleur-Primaire-49557.html				pending
+crocus-supercritique	Crocus Supercritique		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Crocus-Supercritique-83179.html				pending
+cedre-superfluide	Cèdre Superfluide		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Cedre-Superfluide-88450.html				pending
+elevation	Elevation		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Elevation-125827.html				pending
+encens-superfluide	Encens Superfluide		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Encens-Superfluide-59053.html				pending
+gardenia-supercritique	Gardenia Supercritique		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Gardenia-Supercritique-49669.html				pending
+iris-palladium	Iris Palladium		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Iris-Palladium-90012.html				pending
+iris-palladium-2015	Iris Palladium 2015		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Iris-Palladium-2015-32943.html				pending
+lets-murder-the-moonshine	Let's Murder The Moonshine		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Let-s-Murder-The-Moonshine-49554.html				pending
+magnolia-supercritique	Magnolia Supercritique		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Magnolia-Supercritique-59054.html				pending
+memoire-du-futur	Memoire du Futur		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Memoire-du-Futur-32944.html				pending
+mimosa-supercritique	Mimosa Supercritique		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Mimosa-Supercritique-62852.html				pending
+moment-perpetuel	Moment Perpetuel		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Moment-Perpetuel-32948.html				pending
+musk-superfluide	Musk Superfluide		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Musk-Superfluide-62287.html				pending
+mecanique-intuitive	Mécanique Intuitive		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Mecanique-Intuitive-37883.html				pending
+neroli-supercritique	Néroli Supercritique		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Neroli-Supercritique-83181.html				pending
+oud-superfluide	Oud Superfluide		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Oud-Superfluide-55303.html				pending
+particules-imprevisibles	Particules Imprevisibles		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Particules-Imprevisibles-32945.html				pending
+plumeria-supercritique	Plumeria Supercritique		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Plumeria-Supercritique-80606.html				pending
+rose-supercritique	Rose Supercritique		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Rose-Supercritique-49556.html				pending
+rosewood-superfluide	Rosewood Superfluide		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Rosewood-Superfluide-62854.html				pending
+saffron-superfluide	Saffron Superfluide		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Saffron-Superfluide-59052.html				pending
+santal-superfluide	Santal Superfluide		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Santal-Superfluide-73919.html				pending
+superose	Superose		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Superose-105775.html				pending
+tubereuse-supercritique	Tubéreuse Supercritique		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Tubereuse-Supercritique-83180.html				pending
+vanille-supermassive	Vanille Supermassive		unisex	https://www.fragrantica.com/perfume/Les-EAUX-Primordiales/Vanille-Supermassive-83824.html				pending

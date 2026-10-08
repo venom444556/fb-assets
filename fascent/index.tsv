@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-corn-star	Corn Star		unisex		https://www.fragrantica.com/perfume/Fascent/Corn-Star-133753.html				pending
-creme-brulante	Crème Brûlante		unisex		https://www.fragrantica.com/perfume/Fascent/Creme-Brulante-120105.html				pending
-i-fig-you	I Fig You		unisex		https://www.fragrantica.com/perfume/Fascent/I-Fig-You-90048.html				pending
-leau-dor-dort	L’Eau D’or Dort		unisex		https://www.fragrantica.com/perfume/Fascent/L-Eau-D-or-Dort-90046.html				pending
-milky-no-way	Milky No Way		unisex		https://www.fragrantica.com/perfume/Fascent/Milky-No-Way-90047.html				pending
-radical-softness	Radical Softness		unisex		https://www.fragrantica.com/perfume/Fascent/Radical-Softness-90050.html				pending
-red-flag	Red Flag		unisex		https://www.fragrantica.com/perfume/Fascent/Red-Flag-122772.html				pending
-sel-a-vie	Sel A Vie		unisex		https://www.fragrantica.com/perfume/Fascent/Sel-A-Vie-90049.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+corn-star	Corn Star		unisex	https://www.fragrantica.com/perfume/Fascent/Corn-Star-133753.html				pending
+creme-brulante	Crème Brûlante		unisex	https://www.fragrantica.com/perfume/Fascent/Creme-Brulante-120105.html				pending
+i-fig-you	I Fig You		unisex	https://www.fragrantica.com/perfume/Fascent/I-Fig-You-90048.html				pending
+leau-dor-dort	L’Eau D’or Dort		unisex	https://www.fragrantica.com/perfume/Fascent/L-Eau-D-or-Dort-90046.html				pending
+milky-no-way	Milky No Way		unisex	https://www.fragrantica.com/perfume/Fascent/Milky-No-Way-90047.html				pending
+radical-softness	Radical Softness		unisex	https://www.fragrantica.com/perfume/Fascent/Radical-Softness-90050.html				pending
+red-flag	Red Flag		unisex	https://www.fragrantica.com/perfume/Fascent/Red-Flag-122772.html				pending
+sel-a-vie	Sel A Vie		unisex	https://www.fragrantica.com/perfume/Fascent/Sel-A-Vie-90049.html				pending

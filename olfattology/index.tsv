@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-lofoten	Lofoten		unisex		https://www.fragrantica.com/perfume/Olfattology/Lofoten-76173.html				pending
-magnetic-mango	Magnetic Mango		unisex		https://www.fragrantica.com/perfume/Olfattology/Magnetic-Mango-97205.html				pending
-maharloo	Maharloo		unisex		https://www.fragrantica.com/perfume/Olfattology/Maharloo-85100.html				pending
-olifant	Olifant		unisex		https://www.fragrantica.com/perfume/Olfattology/Olifant-76172.html				pending
-zambesi	Zambesi		unisex		https://www.fragrantica.com/perfume/Olfattology/Zambesi-66454.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+lofoten	Lofoten		unisex	https://www.fragrantica.com/perfume/Olfattology/Lofoten-76173.html				pending
+magnetic-mango	Magnetic Mango		unisex	https://www.fragrantica.com/perfume/Olfattology/Magnetic-Mango-97205.html				pending
+maharloo	Maharloo		unisex	https://www.fragrantica.com/perfume/Olfattology/Maharloo-85100.html				pending
+olifant	Olifant		unisex	https://www.fragrantica.com/perfume/Olfattology/Olifant-76172.html				pending
+zambesi	Zambesi		unisex	https://www.fragrantica.com/perfume/Olfattology/Zambesi-66454.html				pending

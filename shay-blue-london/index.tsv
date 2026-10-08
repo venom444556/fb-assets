@@ -1,36 +1,36 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-almond-cucumber	Almond Cucumber		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Almond-Cucumber-17784.html				pending
-amber-rose	Amber Rose		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Amber-Rose-17780.html				pending
-atropa-belladonna	Atropa Belladonna		female		https://www.fragrantica.com/perfume/Shay-Blue-London/Atropa-Belladonna-17777.html				pending
-black-tulip	Black Tulip		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Black-Tulip-48454.html				pending
-blackberry-woods	Blackberry Woods		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Blackberry-Woods-60103.html				pending
-blacks-club-leather	Blacks Club Leather		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Blacks-Club-Leather-24462.html				pending
-blood-oranges	Blood Oranges		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Blood-Oranges-17778.html				pending
-blueberry-musk	Blueberry Musk		female		https://www.fragrantica.com/perfume/Shay-Blue-London/Blueberry-Musk-40221.html				pending
-dandelion-fig	Dandelion Fig		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Dandelion-Fig-42396.html				pending
-english-cherry-blossom	English Cherry Blossom		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/English-Cherry-Blossom-32747.html				pending
-framboise-noire	Framboise Noire		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Framboise-Noire-31941.html				pending
-kings-wood	Kings Wood		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Kings-Wood-50508.html				pending
-lilacs-and-gooseberries	Lilacs & Gooseberries		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Lilacs-Gooseberries-70456.html				pending
-nashwa-extract-of-parfum	Nashwa Extract of Parfum		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Nashwa-Extract-of-Parfum-48455.html				pending
-oud-alif	Oud Alif		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Oud-Alif-20525.html				pending
-salt-caramel	Salt Caramel		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Salt-Caramel-25501.html				pending
-scarlet-lily	Scarlet Lily		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Scarlet-Lily-44911.html				pending
-sicilian-limes	Sicilian Limes		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Sicilian-Limes-17782.html				pending
-tallulahs-camellia	Tallulahs Camellia		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Tallulahs-Camellia-67454.html				pending
-watermelons	Watermelons		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Watermelons-29961.html				pending
-white-peaches	White Peaches		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/White-Peaches-53505.html				pending
-88-pineapples	88 Pineapples		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/88-Pineapples-63565.html				pending
-amber-oud-ahad	Amber Oud Ahad		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Amber-Oud-Ahad-38269.html				pending
-clementine	Clementine		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Clementine-75090.html				pending
-cotton-flower	Cotton Flower		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Cotton-Flower-75602.html				pending
-lily-la-luxe	Lily La Luxe		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Lily-La-Luxe-63567.html				pending
-mandarine	Mandarine		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Mandarine-63568.html				pending
-melrose-apple-blossom	Melrose Apple Blossom		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Melrose-Apple-Blossom-84353.html				pending
-mermaid-kisses	Mermaid Kisses		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Mermaid-Kisses-63563.html				pending
-mood-for-oud	Mood for Oud		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Mood-for-Oud-63569.html				pending
-rain-shower-leaf	Rain Shower Leaf		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Rain-Shower-Leaf-84354.html				pending
-suffolk-lavender	Suffolk Lavender		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Suffolk-Lavender-17783.html				pending
-tonka-angelica	Tonka Angelica		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Tonka-Angelica-84352.html				pending
-unicorn-tears	Unicorn Tears		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Unicorn-Tears-63564.html				pending
-voulez-vous	Voulez Vous		unisex		https://www.fragrantica.com/perfume/Shay-Blue-London/Voulez-Vous-63562.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+88-pineapples	88 Pineapples		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/88-Pineapples-63565.html				pending
+almond-cucumber	Almond Cucumber		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Almond-Cucumber-17784.html				pending
+amber-oud-ahad	Amber Oud Ahad		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Amber-Oud-Ahad-38269.html				pending
+amber-rose	Amber Rose		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Amber-Rose-17780.html				pending
+atropa-belladonna	Atropa Belladonna		female	https://www.fragrantica.com/perfume/Shay-Blue-London/Atropa-Belladonna-17777.html				pending
+black-tulip	Black Tulip		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Black-Tulip-48454.html				pending
+blackberry-woods	Blackberry Woods		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Blackberry-Woods-60103.html				pending
+blacks-club-leather	Blacks Club Leather		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Blacks-Club-Leather-24462.html				pending
+blood-oranges	Blood Oranges		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Blood-Oranges-17778.html				pending
+blueberry-musk	Blueberry Musk		female	https://www.fragrantica.com/perfume/Shay-Blue-London/Blueberry-Musk-40221.html				pending
+clementine	Clementine		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Clementine-75090.html				pending
+cotton-flower	Cotton Flower		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Cotton-Flower-75602.html				pending
+dandelion-fig	Dandelion Fig		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Dandelion-Fig-42396.html				pending
+english-cherry-blossom	English Cherry Blossom		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/English-Cherry-Blossom-32747.html				pending
+framboise-noire	Framboise Noire		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Framboise-Noire-31941.html				pending
+kings-wood	Kings Wood		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Kings-Wood-50508.html				pending
+lilacs-and-gooseberries	Lilacs & Gooseberries		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Lilacs-Gooseberries-70456.html				pending
+lily-la-luxe	Lily La Luxe		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Lily-La-Luxe-63567.html				pending
+mandarine	Mandarine		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Mandarine-63568.html				pending
+melrose-apple-blossom	Melrose Apple Blossom		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Melrose-Apple-Blossom-84353.html				pending
+mermaid-kisses	Mermaid Kisses		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Mermaid-Kisses-63563.html				pending
+mood-for-oud	Mood for Oud		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Mood-for-Oud-63569.html				pending
+nashwa-extract-of-parfum	Nashwa Extract of Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Nashwa-Extract-of-Parfum-48455.html				pending
+oud-alif	Oud Alif		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Oud-Alif-20525.html				pending
+rain-shower-leaf	Rain Shower Leaf		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Rain-Shower-Leaf-84354.html				pending
+salt-caramel	Salt Caramel		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Salt-Caramel-25501.html				pending
+scarlet-lily	Scarlet Lily		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Scarlet-Lily-44911.html				pending
+sicilian-limes	Sicilian Limes		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Sicilian-Limes-17782.html				pending
+suffolk-lavender	Suffolk Lavender		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Suffolk-Lavender-17783.html				pending
+tallulahs-camellia	Tallulahs Camellia		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Tallulahs-Camellia-67454.html				pending
+tonka-angelica	Tonka Angelica		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Tonka-Angelica-84352.html				pending
+unicorn-tears	Unicorn Tears		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Unicorn-Tears-63564.html				pending
+voulez-vous	Voulez Vous		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Voulez-Vous-63562.html				pending
+watermelons	Watermelons		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/Watermelons-29961.html				pending
+white-peaches	White Peaches		unisex	https://www.fragrantica.com/perfume/Shay-Blue-London/White-Peaches-53505.html				pending

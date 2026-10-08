@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-anguilla-sun	Anguilla Sun		female		https://www.fragrantica.com/perfume/Reserved/Anguilla-Sun-64647.html				pending
-ao	AO		female		https://www.fragrantica.com/perfume/Reserved/AO-64648.html				pending
-black-intense	Black Intense		male		https://www.fragrantica.com/perfume/Reserved/Black-Intense-64649.html				pending
-blue-curacao	Blue Curaçao		female		https://www.fragrantica.com/perfume/Reserved/Blue-Curacao-64650.html				pending
-classic-black	Classic Black		male		https://www.fragrantica.com/perfume/Reserved/Classic-Black-64670.html				pending
-cobalt-division	Cobalt Division		male		https://www.fragrantica.com/perfume/Reserved/Cobalt-Division-64671.html				pending
-confident	Confident		unisex		https://www.fragrantica.com/perfume/Reserved/Confident-64651.html				pending
-dark-wood	Dark Wood		male		https://www.fragrantica.com/perfume/Reserved/Dark-Wood-64652.html				pending
-deep-blue	Deep Blue		male		https://www.fragrantica.com/perfume/Reserved/Deep-Blue-64672.html				pending
-earth	Earth		male		https://www.fragrantica.com/perfume/Reserved/Earth-64673.html				pending
-eastern-wind	Eastern Wind		female		https://www.fragrantica.com/perfume/Reserved/Eastern-Wind-64674.html				pending
-elodie	Elodie		female		https://www.fragrantica.com/perfume/Reserved/Elodie-64675.html				pending
-exquisite	Exquisite		female		https://www.fragrantica.com/perfume/Reserved/Exquisite-64680.html				pending
-fire	Fire		male		https://www.fragrantica.com/perfume/Reserved/Fire-64681.html				pending
-gold-code	Gold Code		male		https://www.fragrantica.com/perfume/Reserved/Gold-Code-64682.html				pending
-harmony	Harmony		female		https://www.fragrantica.com/perfume/Reserved/Harmony-64683.html				pending
-hello-lovely	Hello Lovely		female		https://www.fragrantica.com/perfume/Reserved/Hello-Lovely-64694.html				pending
-lunar-eclipse	Lunar Eclipse		female		https://www.fragrantica.com/perfume/Reserved/Lunar-Eclipse-64695.html				pending
-malachite	Malachite		male		https://www.fragrantica.com/perfume/Reserved/Malachite-64696.html				pending
-martinique-mist	Martinique Mist		female		https://www.fragrantica.com/perfume/Reserved/Martinique-Mist-64697.html				pending
-regular-eau-de-parfum	Regular Eau de Parfum		female		https://www.fragrantica.com/perfume/Reserved/Regular-Eau-de-Parfum-65411.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+anguilla-sun	Anguilla Sun		female	https://www.fragrantica.com/perfume/Reserved/Anguilla-Sun-64647.html				pending
+ao	AO		female	https://www.fragrantica.com/perfume/Reserved/AO-64648.html				pending
+black-intense	Black Intense		male	https://www.fragrantica.com/perfume/Reserved/Black-Intense-64649.html				pending
+blue-curacao	Blue Curaçao		female	https://www.fragrantica.com/perfume/Reserved/Blue-Curacao-64650.html				pending
+classic-black	Classic Black		male	https://www.fragrantica.com/perfume/Reserved/Classic-Black-64670.html				pending
+cobalt-division	Cobalt Division		male	https://www.fragrantica.com/perfume/Reserved/Cobalt-Division-64671.html				pending
+confident	Confident		unisex	https://www.fragrantica.com/perfume/Reserved/Confident-64651.html				pending
+dark-wood	Dark Wood		male	https://www.fragrantica.com/perfume/Reserved/Dark-Wood-64652.html				pending
+deep-blue	Deep Blue		male	https://www.fragrantica.com/perfume/Reserved/Deep-Blue-64672.html				pending
+earth	Earth		male	https://www.fragrantica.com/perfume/Reserved/Earth-64673.html				pending
+eastern-wind	Eastern Wind		female	https://www.fragrantica.com/perfume/Reserved/Eastern-Wind-64674.html				pending
+elodie	Elodie		female	https://www.fragrantica.com/perfume/Reserved/Elodie-64675.html				pending
+exquisite	Exquisite		female	https://www.fragrantica.com/perfume/Reserved/Exquisite-64680.html				pending
+fire	Fire		male	https://www.fragrantica.com/perfume/Reserved/Fire-64681.html				pending
+gold-code	Gold Code		male	https://www.fragrantica.com/perfume/Reserved/Gold-Code-64682.html				pending
+harmony	Harmony		female	https://www.fragrantica.com/perfume/Reserved/Harmony-64683.html				pending
+hello-lovely	Hello Lovely		female	https://www.fragrantica.com/perfume/Reserved/Hello-Lovely-64694.html				pending
+lunar-eclipse	Lunar Eclipse		female	https://www.fragrantica.com/perfume/Reserved/Lunar-Eclipse-64695.html				pending
+malachite	Malachite		male	https://www.fragrantica.com/perfume/Reserved/Malachite-64696.html				pending
+martinique-mist	Martinique Mist		female	https://www.fragrantica.com/perfume/Reserved/Martinique-Mist-64697.html				pending
+regular-eau-de-parfum	Regular Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Reserved/Regular-Eau-de-Parfum-65411.html				pending

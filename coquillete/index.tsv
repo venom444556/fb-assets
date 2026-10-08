@@ -1,27 +1,27 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambrosia	Ambrosia		unisex		https://www.fragrantica.com/perfume/Coquillete/Ambrosia-43326.html				pending
-cookiecrunch	Cookiecrunch		unisex		https://www.fragrantica.com/perfume/Coquillete/Cookiecrunch-42790.html				pending
-herat	Herat		unisex		https://www.fragrantica.com/perfume/Coquillete/Herat-17611.html				pending
-joal	Joal		unisex		https://www.fragrantica.com/perfume/Coquillete/Joal-74337.html				pending
-mirabilis	Mirabilis		unisex		https://www.fragrantica.com/perfume/Coquillete/Mirabilis-42792.html				pending
-moramanga	Moramanga		unisex		https://www.fragrantica.com/perfume/Coquillete/Moramanga-17613.html				pending
-reginette	Reginette		female		https://www.fragrantica.com/perfume/Coquillete/Reginette-71595.html				pending
-sulmona	Sulmona		unisex		https://www.fragrantica.com/perfume/Coquillete/Sulmona-17612.html				pending
-sumatera	Sumatera		unisex		https://www.fragrantica.com/perfume/Coquillete/Sumatera-17614.html				pending
-tan-tan	Tan-Tan		unisex		https://www.fragrantica.com/perfume/Coquillete/Tan-Tan-20390.html				pending
-tourbiere	Tourbière		unisex		https://www.fragrantica.com/perfume/Coquillete/Tourbiere-42791.html				pending
-tudor	Tudor		unisex		https://www.fragrantica.com/perfume/Coquillete/Tudor-28202.html				pending
-artemisia-g	Artemisia G		unisex		https://www.fragrantica.com/perfume/Coquillete/Artemisia-G-60286.html				pending
-camellia-3-2	Camellia 3.2		unisex		https://www.fragrantica.com/perfume/Coquillete/Camellia-3-2-43371.html				pending
-close-to-you	Close To You		unisex		https://www.fragrantica.com/perfume/Coquillete/Close-To-You-82353.html				pending
-cuiris	Cuiris		unisex		https://www.fragrantica.com/perfume/Coquillete/Cuiris-80664.html				pending
-joal-no-7	Joal No. 7		unisex		https://www.fragrantica.com/perfume/Coquillete/Joal-No-7-38054.html				pending
-mirranda	Mirranda		unisex		https://www.fragrantica.com/perfume/Coquillete/Mirranda-93234.html				pending
-navy-rum	Navy Rum		unisex		https://www.fragrantica.com/perfume/Coquillete/Navy-Rum-42793.html				pending
-olauna	OlaUna		unisex		https://www.fragrantica.com/perfume/Coquillete/OlaUna-54705.html				pending
-rosa-muscosa	Rosa Muscosa		unisex		https://www.fragrantica.com/perfume/Coquillete/Rosa-Muscosa-43372.html				pending
-solo-musc	Solo Musc		unisex		https://www.fragrantica.com/perfume/Coquillete/Solo-Musc-93235.html				pending
-supergreen	Supergreen		unisex		https://www.fragrantica.com/perfume/Coquillete/Supergreen-43325.html				pending
-tubexotic	Tubexotic		female		https://www.fragrantica.com/perfume/Coquillete/Tubexotic-80663.html				pending
-vesevius	Vesevius		unisex		https://www.fragrantica.com/perfume/Coquillete/Vesevius-46641.html				pending
-vivir	Vivir		unisex		https://www.fragrantica.com/perfume/Coquillete/Vivir-81764.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambrosia	Ambrosia		unisex	https://www.fragrantica.com/perfume/Coquillete/Ambrosia-43326.html				pending
+artemisia-g	Artemisia G		unisex	https://www.fragrantica.com/perfume/Coquillete/Artemisia-G-60286.html				pending
+camellia-3-2	Camellia 3.2		unisex	https://www.fragrantica.com/perfume/Coquillete/Camellia-3-2-43371.html				pending
+close-to-you	Close To You		unisex	https://www.fragrantica.com/perfume/Coquillete/Close-To-You-82353.html				pending
+cookiecrunch	Cookiecrunch		unisex	https://www.fragrantica.com/perfume/Coquillete/Cookiecrunch-42790.html				pending
+cuiris	Cuiris		unisex	https://www.fragrantica.com/perfume/Coquillete/Cuiris-80664.html				pending
+herat	Herat		unisex	https://www.fragrantica.com/perfume/Coquillete/Herat-17611.html				pending
+joal	Joal		unisex	https://www.fragrantica.com/perfume/Coquillete/Joal-74337.html				pending
+joal-no-7	Joal No. 7		unisex	https://www.fragrantica.com/perfume/Coquillete/Joal-No-7-38054.html				pending
+mirabilis	Mirabilis		unisex	https://www.fragrantica.com/perfume/Coquillete/Mirabilis-42792.html				pending
+mirranda	Mirranda		unisex	https://www.fragrantica.com/perfume/Coquillete/Mirranda-93234.html				pending
+moramanga	Moramanga		unisex	https://www.fragrantica.com/perfume/Coquillete/Moramanga-17613.html				pending
+navy-rum	Navy Rum		unisex	https://www.fragrantica.com/perfume/Coquillete/Navy-Rum-42793.html				pending
+olauna	OlaUna		unisex	https://www.fragrantica.com/perfume/Coquillete/OlaUna-54705.html				pending
+reginette	Reginette		female	https://www.fragrantica.com/perfume/Coquillete/Reginette-71595.html				pending
+rosa-muscosa	Rosa Muscosa		unisex	https://www.fragrantica.com/perfume/Coquillete/Rosa-Muscosa-43372.html				pending
+solo-musc	Solo Musc		unisex	https://www.fragrantica.com/perfume/Coquillete/Solo-Musc-93235.html				pending
+sulmona	Sulmona		unisex	https://www.fragrantica.com/perfume/Coquillete/Sulmona-17612.html				pending
+sumatera	Sumatera		unisex	https://www.fragrantica.com/perfume/Coquillete/Sumatera-17614.html				pending
+supergreen	Supergreen		unisex	https://www.fragrantica.com/perfume/Coquillete/Supergreen-43325.html				pending
+tan-tan	Tan-Tan		unisex	https://www.fragrantica.com/perfume/Coquillete/Tan-Tan-20390.html				pending
+tourbiere	Tourbière		unisex	https://www.fragrantica.com/perfume/Coquillete/Tourbiere-42791.html				pending
+tubexotic	Tubexotic		female	https://www.fragrantica.com/perfume/Coquillete/Tubexotic-80663.html				pending
+tudor	Tudor		unisex	https://www.fragrantica.com/perfume/Coquillete/Tudor-28202.html				pending
+vesevius	Vesevius		unisex	https://www.fragrantica.com/perfume/Coquillete/Vesevius-46641.html				pending
+vivir	Vivir		unisex	https://www.fragrantica.com/perfume/Coquillete/Vivir-81764.html				pending

@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-iron-man	Iron Man		male		https://www.fragrantica.com/perfume/Marvel/Iron-Man-45627.html				pending
-avengers	Avengers		male		https://www.fragrantica.com/perfume/Marvel/Avengers-45632.html				pending
-captain-america	Captain America		male		https://www.fragrantica.com/perfume/Marvel/Captain-America-45633.html				pending
-deadpool	Deadpool		male		https://www.fragrantica.com/perfume/Marvel/Deadpool-45634.html				pending
-heroes	Heroes		unisex		https://www.fragrantica.com/perfume/Marvel/Heroes-45635.html				pending
-hulk	Hulk		male		https://www.fragrantica.com/perfume/Marvel/Hulk-45636.html				pending
-the-invincible-iron-man	The Invincible Iron Man		male		https://www.fragrantica.com/perfume/Marvel/The-Invincible-Iron-Man-45628.html				pending
-x-men	X-men		male		https://www.fragrantica.com/perfume/Marvel/X-men-45629.html				pending
-x-men-double-white	X-men Double White		male		https://www.fragrantica.com/perfume/Marvel/X-men-Double-White-45630.html				pending
-x-men-storm	X-men Storm		female		https://www.fragrantica.com/perfume/Marvel/X-men-Storm-45626.html				pending
-x-men-wolverine	X-men Wolverine		unisex		https://www.fragrantica.com/perfume/Marvel/X-men-Wolverine-45631.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+avengers	Avengers		male	https://www.fragrantica.com/perfume/Marvel/Avengers-45632.html				pending
+captain-america	Captain America		male	https://www.fragrantica.com/perfume/Marvel/Captain-America-45633.html				pending
+deadpool	Deadpool		male	https://www.fragrantica.com/perfume/Marvel/Deadpool-45634.html				pending
+heroes	Heroes		unisex	https://www.fragrantica.com/perfume/Marvel/Heroes-45635.html				pending
+hulk	Hulk		male	https://www.fragrantica.com/perfume/Marvel/Hulk-45636.html				pending
+iron-man	Iron Man		male	https://www.fragrantica.com/perfume/Marvel/Iron-Man-45627.html				pending
+the-invincible-iron-man	The Invincible Iron Man		male	https://www.fragrantica.com/perfume/Marvel/The-Invincible-Iron-Man-45628.html				pending
+x-men	X-men		male	https://www.fragrantica.com/perfume/Marvel/X-men-45629.html				pending
+x-men-double-white	X-men Double White		male	https://www.fragrantica.com/perfume/Marvel/X-men-Double-White-45630.html				pending
+x-men-storm	X-men Storm		female	https://www.fragrantica.com/perfume/Marvel/X-men-Storm-45626.html				pending
+x-men-wolverine	X-men Wolverine		unisex	https://www.fragrantica.com/perfume/Marvel/X-men-Wolverine-45631.html				pending

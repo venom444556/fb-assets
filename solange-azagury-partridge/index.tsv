@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cosmic	Cosmic		female		https://www.fragrantica.com/perfume/Solange-Azagury-Partridge/Cosmic-2173.html				pending
-stoned	Stoned		female		https://www.fragrantica.com/perfume/Solange-Azagury-Partridge/Stoned-2172.html				pending
-kiss-my-lips	Kiss My Lips		female		https://www.fragrantica.com/perfume/Solange-Azagury-Partridge/Kiss-My-Lips-87588.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cosmic	Cosmic		female	https://www.fragrantica.com/perfume/Solange-Azagury-Partridge/Cosmic-2173.html				pending
+kiss-my-lips	Kiss My Lips		female	https://www.fragrantica.com/perfume/Solange-Azagury-Partridge/Kiss-My-Lips-87588.html				pending
+stoned	Stoned		female	https://www.fragrantica.com/perfume/Solange-Azagury-Partridge/Stoned-2172.html				pending

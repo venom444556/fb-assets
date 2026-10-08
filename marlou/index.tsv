@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambilux	Ambilux		unisex		https://www.fragrantica.com/perfume/Marlou/Ambilux-46997.html				pending
-carnicure	Carnicure		unisex		https://www.fragrantica.com/perfume/Marlou/Carnicure-42721.html				pending
-corpalium	Corpalium		unisex		https://www.fragrantica.com/perfume/Marlou/Corpalium-78387.html				pending
-doliphor	Doliphor		unisex		https://www.fragrantica.com/perfume/Marlou/Doliphor-103083.html				pending
-heliodose	Heliodose		unisex		https://www.fragrantica.com/perfume/Marlou/Heliodose-104486.html				pending
-poudrextase	Poudrextase		unisex		https://www.fragrantica.com/perfume/Marlou/Poudrextase-54586.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambilux	Ambilux		unisex	https://www.fragrantica.com/perfume/Marlou/Ambilux-46997.html				pending
+carnicure	Carnicure		unisex	https://www.fragrantica.com/perfume/Marlou/Carnicure-42721.html				pending
+corpalium	Corpalium		unisex	https://www.fragrantica.com/perfume/Marlou/Corpalium-78387.html				pending
+doliphor	Doliphor		unisex	https://www.fragrantica.com/perfume/Marlou/Doliphor-103083.html				pending
+heliodose	Heliodose		unisex	https://www.fragrantica.com/perfume/Marlou/Heliodose-104486.html				pending
+poudrextase	Poudrextase		unisex	https://www.fragrantica.com/perfume/Marlou/Poudrextase-54586.html				pending

@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-gold	Gold		female		https://www.fragrantica.com/perfume/Roberto-Verino/Gold-6965.html				pending
-gold-bouquet	Gold Bouquet		female		https://www.fragrantica.com/perfume/Roberto-Verino/Gold-Bouquet-8826.html				pending
-gold-diva	Gold Diva		female		https://www.fragrantica.com/perfume/Roberto-Verino/Gold-Diva-16301.html				pending
-mellow	Mellow		female		https://www.fragrantica.com/perfume/Roberto-Verino/Mellow-1466.html				pending
-rv-pure	RV Pure		male		https://www.fragrantica.com/perfume/Roberto-Verino/RV-Pure-12750.html				pending
-rv-pure-for-her	RV Pure for Her		female		https://www.fragrantica.com/perfume/Roberto-Verino/RV-Pure-for-Her-18246.html				pending
-verino-pour-homme	Verino Pour Homme		male		https://www.fragrantica.com/perfume/Roberto-Verino/Verino-Pour-Homme-1468.html				pending
-vv	VV		female		https://www.fragrantica.com/perfume/Roberto-Verino/VV-1470.html				pending
-vv-aqua-women	VV Aqua Women		female		https://www.fragrantica.com/perfume/Roberto-Verino/VV-Aqua-Women-1471.html				pending
-vv-man	VV Man		male		https://www.fragrantica.com/perfume/Roberto-Verino/VV-Man-1472.html				pending
-vv-platinum	VV Platinum		female		https://www.fragrantica.com/perfume/Roberto-Verino/VV-Platinum-4107.html				pending
-vv-rose	VV Rose		female		https://www.fragrantica.com/perfume/Roberto-Verino/VV-Rose-1474.html				pending
-eau-de-verino	Eau de Verino		female		https://www.fragrantica.com/perfume/Roberto-Verino/Eau-de-Verino-1473.html				pending
-gold-diamond	Gold Diamond		female		https://www.fragrantica.com/perfume/Roberto-Verino/Gold-Diamond-38329.html				pending
-rv-pure-man-intenso	RV Pure Man Intenso		male		https://www.fragrantica.com/perfume/Roberto-Verino/RV-Pure-Man-Intenso-48097.html				pending
-rv-pure-woman-intenso	RV Pure Woman Intenso		female		https://www.fragrantica.com/perfume/Roberto-Verino/RV-Pure-Woman-Intenso-48096.html				pending
-verino	Verino		female		https://www.fragrantica.com/perfume/Roberto-Verino/Verino-1467.html				pending
-very-verino	Very Verino		female		https://www.fragrantica.com/perfume/Roberto-Verino/Very-Verino-35572.html				pending
-vv-tropic	VV Tropic		female		https://www.fragrantica.com/perfume/Roberto-Verino/VV-Tropic-4106.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+eau-de-verino	Eau de Verino		female	https://www.fragrantica.com/perfume/Roberto-Verino/Eau-de-Verino-1473.html				pending
+gold	Gold		female	https://www.fragrantica.com/perfume/Roberto-Verino/Gold-6965.html				pending
+gold-bouquet	Gold Bouquet		female	https://www.fragrantica.com/perfume/Roberto-Verino/Gold-Bouquet-8826.html				pending
+gold-diamond	Gold Diamond		female	https://www.fragrantica.com/perfume/Roberto-Verino/Gold-Diamond-38329.html				pending
+gold-diva	Gold Diva		female	https://www.fragrantica.com/perfume/Roberto-Verino/Gold-Diva-16301.html				pending
+mellow	Mellow		female	https://www.fragrantica.com/perfume/Roberto-Verino/Mellow-1466.html				pending
+rv-pure	RV Pure		male	https://www.fragrantica.com/perfume/Roberto-Verino/RV-Pure-12750.html				pending
+rv-pure-for-her	RV Pure for Her		female	https://www.fragrantica.com/perfume/Roberto-Verino/RV-Pure-for-Her-18246.html				pending
+rv-pure-man-intenso	RV Pure Man Intenso		male	https://www.fragrantica.com/perfume/Roberto-Verino/RV-Pure-Man-Intenso-48097.html				pending
+rv-pure-woman-intenso	RV Pure Woman Intenso		female	https://www.fragrantica.com/perfume/Roberto-Verino/RV-Pure-Woman-Intenso-48096.html				pending
+verino	Verino		female	https://www.fragrantica.com/perfume/Roberto-Verino/Verino-1467.html				pending
+verino-pour-homme	Verino Pour Homme		male	https://www.fragrantica.com/perfume/Roberto-Verino/Verino-Pour-Homme-1468.html				pending
+very-verino	Very Verino		female	https://www.fragrantica.com/perfume/Roberto-Verino/Very-Verino-35572.html				pending
+vv	VV		female	https://www.fragrantica.com/perfume/Roberto-Verino/VV-1470.html				pending
+vv-aqua-women	VV Aqua Women		female	https://www.fragrantica.com/perfume/Roberto-Verino/VV-Aqua-Women-1471.html				pending
+vv-man	VV Man		male	https://www.fragrantica.com/perfume/Roberto-Verino/VV-Man-1472.html				pending
+vv-platinum	VV Platinum		female	https://www.fragrantica.com/perfume/Roberto-Verino/VV-Platinum-4107.html				pending
+vv-rose	VV Rose		female	https://www.fragrantica.com/perfume/Roberto-Verino/VV-Rose-1474.html				pending
+vv-tropic	VV Tropic		female	https://www.fragrantica.com/perfume/Roberto-Verino/VV-Tropic-4106.html				pending

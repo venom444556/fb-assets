@@ -1,19 +1,19 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-royal	Ambre Royal		unisex		https://www.fragrantica.com/perfume/Jardin-Boheme/Ambre-Royal-76118.html				pending
-cerise-hypnotique	Cerise Hypnotique		unisex		https://www.fragrantica.com/perfume/Jardin-Boheme/Cerise-Hypnotique-105156.html				pending
-episode-romantique-eau-de-parfum	Episode Romantique Eau de Parfum		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Episode-Romantique-Eau-de-Parfum-60713.html				pending
-escapade-solaire	Escapade Solaire		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Escapade-Solaire-75461.html				pending
-memoires-damour-eau-de-parfum	Mémoires D'Amour Eau de Parfum		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Memoires-D-Amour-Eau-de-Parfum-60716.html				pending
-oud-mystique	Oud Mystique		unisex		https://www.fragrantica.com/perfume/Jardin-Boheme/Oud-Mystique-76119.html				pending
-rende-vous-nocturne-eau-de-parfum	Rende-Vous Nocturne Eau de Parfum		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Rende-Vous-Nocturne-Eau-de-Parfum-60714.html				pending
-rose-interdite	Rose Interdite		unisex		https://www.fragrantica.com/perfume/Jardin-Boheme/Rose-Interdite-76121.html				pending
-aventure-mystique-eau-de-parfum	Aventure Mystique Eau de Parfum		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Aventure-Mystique-Eau-de-Parfum-60715.html				pending
-brise-verte	Brise Verte		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Brise-Verte-75458.html				pending
-escapade-exotique	Escapade Exotique		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Escapade-Exotique-75460.html				pending
-fleurs-dinnocence	Fleurs d'Innocence		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Fleurs-d-Innocence-75457.html				pending
-iris-sublime	Iris Sublime		unisex		https://www.fragrantica.com/perfume/Jardin-Boheme/Iris-Sublime-76120.html				pending
-jasmin-imperial	Jasmin Imperial		unisex		https://www.fragrantica.com/perfume/Jardin-Boheme/Jasmin-Imperial-76122.html				pending
-lessence-de-la-terre	L'Essence de la Terre		unisex		https://www.fragrantica.com/perfume/Jardin-Boheme/L-Essence-de-la-Terre-73566.html				pending
-nuages-de-coton	Nuages de Coton		unisex		https://www.fragrantica.com/perfume/Jardin-Boheme/Nuages-de-Coton-77939.html				pending
-promesse-eternelle	Promesse Éternelle		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Promesse-Eternelle-75459.html				pending
-tendre-desir-eau-de-parfum	Tendre Désir Eau de Parfum		female		https://www.fragrantica.com/perfume/Jardin-Boheme/Tendre-Desir-Eau-de-Parfum-60717.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-royal	Ambre Royal		unisex	https://www.fragrantica.com/perfume/Jardin-Boheme/Ambre-Royal-76118.html				pending
+aventure-mystique-eau-de-parfum	Aventure Mystique Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Jardin-Boheme/Aventure-Mystique-Eau-de-Parfum-60715.html				pending
+brise-verte	Brise Verte		female	https://www.fragrantica.com/perfume/Jardin-Boheme/Brise-Verte-75458.html				pending
+cerise-hypnotique	Cerise Hypnotique		unisex	https://www.fragrantica.com/perfume/Jardin-Boheme/Cerise-Hypnotique-105156.html				pending
+episode-romantique-eau-de-parfum	Episode Romantique Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Jardin-Boheme/Episode-Romantique-Eau-de-Parfum-60713.html				pending
+escapade-exotique	Escapade Exotique		female	https://www.fragrantica.com/perfume/Jardin-Boheme/Escapade-Exotique-75460.html				pending
+escapade-solaire	Escapade Solaire		female	https://www.fragrantica.com/perfume/Jardin-Boheme/Escapade-Solaire-75461.html				pending
+fleurs-dinnocence	Fleurs d'Innocence		female	https://www.fragrantica.com/perfume/Jardin-Boheme/Fleurs-d-Innocence-75457.html				pending
+iris-sublime	Iris Sublime		unisex	https://www.fragrantica.com/perfume/Jardin-Boheme/Iris-Sublime-76120.html				pending
+jasmin-imperial	Jasmin Imperial		unisex	https://www.fragrantica.com/perfume/Jardin-Boheme/Jasmin-Imperial-76122.html				pending
+lessence-de-la-terre	L'Essence de la Terre		unisex	https://www.fragrantica.com/perfume/Jardin-Boheme/L-Essence-de-la-Terre-73566.html				pending
+memoires-damour-eau-de-parfum	Mémoires D'Amour Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Jardin-Boheme/Memoires-D-Amour-Eau-de-Parfum-60716.html				pending
+nuages-de-coton	Nuages de Coton		unisex	https://www.fragrantica.com/perfume/Jardin-Boheme/Nuages-de-Coton-77939.html				pending
+oud-mystique	Oud Mystique		unisex	https://www.fragrantica.com/perfume/Jardin-Boheme/Oud-Mystique-76119.html				pending
+promesse-eternelle	Promesse Éternelle		female	https://www.fragrantica.com/perfume/Jardin-Boheme/Promesse-Eternelle-75459.html				pending
+rende-vous-nocturne-eau-de-parfum	Rende-Vous Nocturne Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Jardin-Boheme/Rende-Vous-Nocturne-Eau-de-Parfum-60714.html				pending
+rose-interdite	Rose Interdite		unisex	https://www.fragrantica.com/perfume/Jardin-Boheme/Rose-Interdite-76121.html				pending
+tendre-desir-eau-de-parfum	Tendre Désir Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Jardin-Boheme/Tendre-Desir-Eau-de-Parfum-60717.html				pending

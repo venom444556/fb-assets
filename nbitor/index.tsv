@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-akelarre	Akelarre		unisex		https://www.fragrantica.com/perfume/nBitor/Akelarre-87704.html				pending
-ocana	Ocaña		unisex		https://www.fragrantica.com/perfume/nBitor/Ocana-79842.html				pending
-taraq	Taraq		unisex		https://www.fragrantica.com/perfume/nBitor/Taraq-79849.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+akelarre	Akelarre		unisex	https://www.fragrantica.com/perfume/nBitor/Akelarre-87704.html				pending
+ocana	Ocaña		unisex	https://www.fragrantica.com/perfume/nBitor/Ocana-79842.html				pending
+taraq	Taraq		unisex	https://www.fragrantica.com/perfume/nBitor/Taraq-79849.html				pending

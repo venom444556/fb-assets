@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-le-matin-des-possibles	Le Matin des Possibles		female		https://www.fragrantica.com/perfume/Nuxe/Le-Matin-des-Possibles-49945.html				pending
-le-soir-des-possibles	Le Soir des Possibles		female		https://www.fragrantica.com/perfume/Nuxe/Le-Soir-des-Possibles-49946.html				pending
-nuxe-body-relaxing-fragrance-water	Nuxe Body Relaxing Fragrance Water		female		https://www.fragrantica.com/perfume/Nuxe/Nuxe-Body-Relaxing-Fragrance-Water-47746.html				pending
-prodigieux-absolu-de-parfum	Prodigieux Absolu de Parfum		female		https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Absolu-de-Parfum-53564.html				pending
-prodigieux-floral-le-parfum	Prodigieux Floral Le Parfum		female		https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Floral-Le-Parfum-67838.html				pending
-prodigieux-le-parfum	Prodigieux Le Parfum		female		https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Le-Parfum-22992.html				pending
-prodigieux-neroli-le-parfum	Prodigieux Néroli Le Parfum		female		https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Neroli-Le-Parfum-82499.html				pending
-reve-de-miel	Rêve de Miel		unisex		https://www.fragrantica.com/perfume/Nuxe/Reve-de-Miel-69732.html				pending
-reve-de-the	Rêve de Thé		unisex		https://www.fragrantica.com/perfume/Nuxe/Reve-de-The-67813.html				pending
-sun-eau-delicieuse-parfumante	Sun Eau Delicieuse Parfumante		female		https://www.fragrantica.com/perfume/Nuxe/Sun-Eau-Delicieuse-Parfumante-37913.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+le-matin-des-possibles	Le Matin des Possibles		female	https://www.fragrantica.com/perfume/Nuxe/Le-Matin-des-Possibles-49945.html				pending
+le-soir-des-possibles	Le Soir des Possibles		female	https://www.fragrantica.com/perfume/Nuxe/Le-Soir-des-Possibles-49946.html				pending
+nuxe-body-relaxing-fragrance-water	Nuxe Body Relaxing Fragrance Water		female	https://www.fragrantica.com/perfume/Nuxe/Nuxe-Body-Relaxing-Fragrance-Water-47746.html				pending
+prodigieux-absolu-de-parfum	Prodigieux Absolu de Parfum	Parfum	female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Absolu-de-Parfum-53564.html				pending
+prodigieux-floral-le-parfum	Prodigieux Floral Le Parfum		female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Floral-Le-Parfum-67838.html				pending
+prodigieux-le-parfum	Prodigieux Le Parfum		female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Le-Parfum-22992.html				pending
+prodigieux-neroli-le-parfum	Prodigieux Néroli Le Parfum		female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Neroli-Le-Parfum-82499.html				pending
+reve-de-miel	Rêve de Miel		unisex	https://www.fragrantica.com/perfume/Nuxe/Reve-de-Miel-69732.html				pending
+reve-de-the	Rêve de Thé		unisex	https://www.fragrantica.com/perfume/Nuxe/Reve-de-The-67813.html				pending
+sun-eau-delicieuse-parfumante	Sun Eau Delicieuse Parfumante		female	https://www.fragrantica.com/perfume/Nuxe/Sun-Eau-Delicieuse-Parfumante-37913.html				pending

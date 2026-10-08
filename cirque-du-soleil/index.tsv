@@ -1,2 +1,2 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-leau-de-parfum	L'eau de Parfum		unisex		https://www.fragrantica.com/perfume/Cirque-du-Soleil/L-eau-de-Parfum-92656.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+leau-de-parfum	L'eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Cirque-du-Soleil/L-eau-de-Parfum-92656.html				pending

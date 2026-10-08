@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-and-the-pea	...& The Pea		unisex		https://www.fragrantica.com/perfume/Bel-Rebel/The-Pea-80656.html				pending
-bubble-gum	Bubble Gum		unisex		https://www.fragrantica.com/perfume/Bel-Rebel/Bubble-Gum-63634.html				pending
-peach-me	Peach Me		unisex		https://www.fragrantica.com/perfume/Bel-Rebel/Peach-Me-68419.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+and-the-pea	...& The Pea		unisex	https://www.fragrantica.com/perfume/Bel-Rebel/The-Pea-80656.html				pending
+bubble-gum	Bubble Gum		unisex	https://www.fragrantica.com/perfume/Bel-Rebel/Bubble-Gum-63634.html				pending
+peach-me	Peach Me		unisex	https://www.fragrantica.com/perfume/Bel-Rebel/Peach-Me-68419.html				pending

@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-green-clary-sage-and-basil	Green Clary Sage & Basil		unisex		https://www.fragrantica.com/perfume/COLABO/Green-Clary-Sage-Basil-84851.html				pending
-oriental-ylang-ylang-and-amyris	Oriental Ylang Ylang & Amyris		unisex		https://www.fragrantica.com/perfume/COLABO/Oriental-Ylang-Ylang-Amyris-84852.html				pending
-woody-cedarwood-and-patchouli	Woody Cedarwood & Patchouli		unisex		https://www.fragrantica.com/perfume/COLABO/Woody-Cedarwood-Patchouli-84853.html				pending
-chypre-bergamot-and-coriander	Chypre Bergamot & Coriander		unisex		https://www.fragrantica.com/perfume/COLABO/Chypre-Bergamot-Coriander-84848.html				pending
-citrus-lemon-and-petitgrain	Citrus Lemon & Petitgrain		unisex		https://www.fragrantica.com/perfume/COLABO/Citrus-Lemon-Petitgrain-84849.html				pending
-floral-rose-and-blackcurrant	Floral Rose & Blackcurrant		unisex		https://www.fragrantica.com/perfume/COLABO/Floral-Rose-Blackcurrant-84850.html				pending
-flower-hour	Flower Hour		unisex		https://www.fragrantica.com/perfume/COLABO/Flower-Hour-84854.html				pending
-morning-breeze	Morning Breeze		unisex		https://www.fragrantica.com/perfume/COLABO/Morning-Breeze-84857.html				pending
-tropical-nectar	Tropical Nectar		unisex		https://www.fragrantica.com/perfume/COLABO/Tropical-Nectar-84855.html				pending
-warm-meadow	Warm Meadow		unisex		https://www.fragrantica.com/perfume/COLABO/Warm-Meadow-84856.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+chypre-bergamot-and-coriander	Chypre Bergamot & Coriander		unisex	https://www.fragrantica.com/perfume/COLABO/Chypre-Bergamot-Coriander-84848.html				pending
+citrus-lemon-and-petitgrain	Citrus Lemon & Petitgrain		unisex	https://www.fragrantica.com/perfume/COLABO/Citrus-Lemon-Petitgrain-84849.html				pending
+floral-rose-and-blackcurrant	Floral Rose & Blackcurrant		unisex	https://www.fragrantica.com/perfume/COLABO/Floral-Rose-Blackcurrant-84850.html				pending
+flower-hour	Flower Hour		unisex	https://www.fragrantica.com/perfume/COLABO/Flower-Hour-84854.html				pending
+green-clary-sage-and-basil	Green Clary Sage & Basil		unisex	https://www.fragrantica.com/perfume/COLABO/Green-Clary-Sage-Basil-84851.html				pending
+morning-breeze	Morning Breeze		unisex	https://www.fragrantica.com/perfume/COLABO/Morning-Breeze-84857.html				pending
+oriental-ylang-ylang-and-amyris	Oriental Ylang Ylang & Amyris		unisex	https://www.fragrantica.com/perfume/COLABO/Oriental-Ylang-Ylang-Amyris-84852.html				pending
+tropical-nectar	Tropical Nectar		unisex	https://www.fragrantica.com/perfume/COLABO/Tropical-Nectar-84855.html				pending
+warm-meadow	Warm Meadow		unisex	https://www.fragrantica.com/perfume/COLABO/Warm-Meadow-84856.html				pending
+woody-cedarwood-and-patchouli	Woody Cedarwood & Patchouli		unisex	https://www.fragrantica.com/perfume/COLABO/Woody-Cedarwood-Patchouli-84853.html				pending

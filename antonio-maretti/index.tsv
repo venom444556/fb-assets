@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-almost-a-virgin	Almost A Virgin		female		https://www.fragrantica.com/perfume/Antonio-Maretti/Almost-A-Virgin-75954.html				pending
-dominant	Dominant		male		https://www.fragrantica.com/perfume/Antonio-Maretti/Dominant-75963.html				pending
-ego	Ego		male		https://www.fragrantica.com/perfume/Antonio-Maretti/Ego-75965.html				pending
-lucifero	Lucifero		male		https://www.fragrantica.com/perfume/Antonio-Maretti/Lucifero-75959.html				pending
-madonna	Madonna!		female		https://www.fragrantica.com/perfume/Antonio-Maretti/Madonna-75957.html				pending
-mi-scusi	Mi Scusi		female		https://www.fragrantica.com/perfume/Antonio-Maretti/Mi-Scusi-75955.html				pending
-rich-peach	Rich Peach		female		https://www.fragrantica.com/perfume/Antonio-Maretti/Rich-Peach-102905.html				pending
-safe-word	Safe Word		female		https://www.fragrantica.com/perfume/Antonio-Maretti/Safe-Word-75953.html				pending
-slumber-party	Slumber Party		female		https://www.fragrantica.com/perfume/Antonio-Maretti/Slumber-Party-75958.html				pending
-vicious-mind	Vicious Mind		male		https://www.fragrantica.com/perfume/Antonio-Maretti/Vicious-Mind-75960.html				pending
-walk-of-shame	Walk Of Shame		female		https://www.fragrantica.com/perfume/Antonio-Maretti/Walk-Of-Shame-75956.html				pending
-leather-couch	Leather Couch		male		https://www.fragrantica.com/perfume/Antonio-Maretti/Leather-Couch-75964.html				pending
-seduttore	Seduttore		male		https://www.fragrantica.com/perfume/Antonio-Maretti/Seduttore-75962.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+almost-a-virgin	Almost A Virgin		female	https://www.fragrantica.com/perfume/Antonio-Maretti/Almost-A-Virgin-75954.html				pending
+dominant	Dominant		male	https://www.fragrantica.com/perfume/Antonio-Maretti/Dominant-75963.html				pending
+ego	Ego		male	https://www.fragrantica.com/perfume/Antonio-Maretti/Ego-75965.html				pending
+leather-couch	Leather Couch		male	https://www.fragrantica.com/perfume/Antonio-Maretti/Leather-Couch-75964.html				pending
+lucifero	Lucifero		male	https://www.fragrantica.com/perfume/Antonio-Maretti/Lucifero-75959.html				pending
+madonna	Madonna!		female	https://www.fragrantica.com/perfume/Antonio-Maretti/Madonna-75957.html				pending
+mi-scusi	Mi Scusi		female	https://www.fragrantica.com/perfume/Antonio-Maretti/Mi-Scusi-75955.html				pending
+rich-peach	Rich Peach		female	https://www.fragrantica.com/perfume/Antonio-Maretti/Rich-Peach-102905.html				pending
+safe-word	Safe Word		female	https://www.fragrantica.com/perfume/Antonio-Maretti/Safe-Word-75953.html				pending
+seduttore	Seduttore		male	https://www.fragrantica.com/perfume/Antonio-Maretti/Seduttore-75962.html				pending
+slumber-party	Slumber Party		female	https://www.fragrantica.com/perfume/Antonio-Maretti/Slumber-Party-75958.html				pending
+vicious-mind	Vicious Mind		male	https://www.fragrantica.com/perfume/Antonio-Maretti/Vicious-Mind-75960.html				pending
+walk-of-shame	Walk Of Shame		female	https://www.fragrantica.com/perfume/Antonio-Maretti/Walk-Of-Shame-75956.html				pending

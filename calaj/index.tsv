@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-beard	Black Beard		male		https://www.fragrantica.com/perfume/Calaj/Black-Beard-61150.html				pending
-carmen	Carmen		unisex		https://www.fragrantica.com/perfume/Calaj/Carmen-68884.html				pending
-delizia-fruttata	Delizia Fruttata		unisex		https://www.fragrantica.com/perfume/Calaj/Delizia-Fruttata-92650.html				pending
-delizia-oscura	Delizia Oscura		unisex		https://www.fragrantica.com/perfume/Calaj/Delizia-Oscura-84478.html				pending
-delizia-oscura-gold	Delizia Oscura Gold		unisex		https://www.fragrantica.com/perfume/Calaj/Delizia-Oscura-Gold-101944.html				pending
-gym-rat	Gym Rat		unisex		https://www.fragrantica.com/perfume/Calaj/Gym-Rat-92649.html				pending
-innocent-and-delicious	Innocent and Delicious		unisex		https://www.fragrantica.com/perfume/Calaj/Innocent-and-Delicious-106634.html				pending
-lilyn	Lilyn		unisex		https://www.fragrantica.com/perfume/Calaj/Lilyn-63763.html				pending
-love-toxin	Love Toxin		unisex		https://www.fragrantica.com/perfume/Calaj/Love-Toxin-61156.html				pending
-metaphore-wj	Metaphore WJ		unisex		https://www.fragrantica.com/perfume/Calaj/Metaphore-WJ-63478.html				pending
-panther-fangs	Panther Fangs		unisex		https://www.fragrantica.com/perfume/Calaj/Panther-Fangs-73295.html				pending
-t-shelby	T. Shelby		unisex		https://www.fragrantica.com/perfume/Calaj/T-Shelby-77653.html				pending
-the-last-ph-85-the-last-pure-heart-85	The Last PH 85 (The Last Pure Heart 85)		unisex		https://www.fragrantica.com/perfume/Calaj/The-Last-PH-85-The-Last-Pure-Heart-85-68885.html				pending
-transilvania	Transilvania		unisex		https://www.fragrantica.com/perfume/Calaj/Transilvania-61151.html				pending
-aliz	Aliz		unisex		https://www.fragrantica.com/perfume/Calaj/Aliz-64028.html				pending
-delizia-esotica	Delizia Esotica		unisex		https://www.fragrantica.com/perfume/Calaj/Delizia-Esotica-92651.html				pending
-evy	EVY		unisex		https://www.fragrantica.com/perfume/Calaj/EVY-79840.html				pending
-oshun	Oshun		female		https://www.fragrantica.com/perfume/Calaj/Oshun-61152.html				pending
-show-stopper	Show Stopper		unisex		https://www.fragrantica.com/perfume/Calaj/Show-Stopper-62928.html				pending
-urushi	Urushi		unisex		https://www.fragrantica.com/perfume/Calaj/Urushi-75082.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aliz	Aliz		unisex	https://www.fragrantica.com/perfume/Calaj/Aliz-64028.html				pending
+black-beard	Black Beard		male	https://www.fragrantica.com/perfume/Calaj/Black-Beard-61150.html				pending
+carmen	Carmen		unisex	https://www.fragrantica.com/perfume/Calaj/Carmen-68884.html				pending
+delizia-esotica	Delizia Esotica		unisex	https://www.fragrantica.com/perfume/Calaj/Delizia-Esotica-92651.html				pending
+delizia-fruttata	Delizia Fruttata		unisex	https://www.fragrantica.com/perfume/Calaj/Delizia-Fruttata-92650.html				pending
+delizia-oscura	Delizia Oscura		unisex	https://www.fragrantica.com/perfume/Calaj/Delizia-Oscura-84478.html				pending
+delizia-oscura-gold	Delizia Oscura Gold		unisex	https://www.fragrantica.com/perfume/Calaj/Delizia-Oscura-Gold-101944.html				pending
+evy	EVY		unisex	https://www.fragrantica.com/perfume/Calaj/EVY-79840.html				pending
+gym-rat	Gym Rat		unisex	https://www.fragrantica.com/perfume/Calaj/Gym-Rat-92649.html				pending
+innocent-and-delicious	Innocent and Delicious		unisex	https://www.fragrantica.com/perfume/Calaj/Innocent-and-Delicious-106634.html				pending
+lilyn	Lilyn		unisex	https://www.fragrantica.com/perfume/Calaj/Lilyn-63763.html				pending
+love-toxin	Love Toxin		unisex	https://www.fragrantica.com/perfume/Calaj/Love-Toxin-61156.html				pending
+metaphore-wj	Metaphore WJ		unisex	https://www.fragrantica.com/perfume/Calaj/Metaphore-WJ-63478.html				pending
+oshun	Oshun		female	https://www.fragrantica.com/perfume/Calaj/Oshun-61152.html				pending
+panther-fangs	Panther Fangs		unisex	https://www.fragrantica.com/perfume/Calaj/Panther-Fangs-73295.html				pending
+show-stopper	Show Stopper		unisex	https://www.fragrantica.com/perfume/Calaj/Show-Stopper-62928.html				pending
+t-shelby	T. Shelby		unisex	https://www.fragrantica.com/perfume/Calaj/T-Shelby-77653.html				pending
+the-last-ph-85-the-last-pure-heart-85	The Last PH 85 (The Last Pure Heart 85)		unisex	https://www.fragrantica.com/perfume/Calaj/The-Last-PH-85-The-Last-Pure-Heart-85-68885.html				pending
+transilvania	Transilvania		unisex	https://www.fragrantica.com/perfume/Calaj/Transilvania-61151.html				pending
+urushi	Urushi		unisex	https://www.fragrantica.com/perfume/Calaj/Urushi-75082.html				pending

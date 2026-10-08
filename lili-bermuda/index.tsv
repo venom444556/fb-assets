@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-south-water	South Water		unisex		https://www.fragrantica.com/perfume/Lili-Bermuda/South-Water-7062.html				pending
-32-north	32 North		male		https://www.fragrantica.com/perfume/Lili-Bermuda/32-North-7079.html				pending
-64-west	64 West		male		https://www.fragrantica.com/perfume/Lili-Bermuda/64-West-7078.html				pending
-alegria	Alegria		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Alegria-40064.html				pending
-bermudiana	Bermudiana		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Bermudiana-40063.html				pending
-calypso	Calypso		unisex		https://www.fragrantica.com/perfume/Lili-Bermuda/Calypso-18921.html				pending
-cedar	Cedar		male		https://www.fragrantica.com/perfume/Lili-Bermuda/Cedar-7077.html				pending
-coral	Coral		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Coral-7064.html				pending
-easter-lily	Easter Lily		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Easter-Lily-40062.html				pending
-frangipani	Frangipani		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Frangipani-40065.html				pending
-fresh-water	Fresh Water		unisex		https://www.fragrantica.com/perfume/Lili-Bermuda/Fresh-Water-7080.html				pending
-island-rose	Island Rose		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Island-Rose-83200.html				pending
-jasmine	Jasmine		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Jasmine-40061.html				pending
-lily	Lily		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Lily-7066.html				pending
-mary-celestia	Mary Celestia		unisex		https://www.fragrantica.com/perfume/Lili-Bermuda/Mary-Celestia-28151.html				pending
-nautilus	Nautilus		male		https://www.fragrantica.com/perfume/Lili-Bermuda/Nautilus-55738.html				pending
-navy	Navy		male		https://www.fragrantica.com/perfume/Lili-Bermuda/Navy-7074.html				pending
-oleander	Oleander		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Oleander-7072.html				pending
-paradise	Paradise		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Paradise-7067.html				pending
-passion-flower	Passion Flower		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Passion-Flower-7125.html				pending
-petals	Petals		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Petals-7060.html				pending
-pink	Pink		female		https://www.fragrantica.com/perfume/Lili-Bermuda/Pink-7068.html				pending
-somers	Somers		male		https://www.fragrantica.com/perfume/Lili-Bermuda/Somers-7061.html				pending
-sunkiss	SunKiss		female		https://www.fragrantica.com/perfume/Lili-Bermuda/SunKiss-45256.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+32-north	32 North		male	https://www.fragrantica.com/perfume/Lili-Bermuda/32-North-7079.html				pending
+64-west	64 West		male	https://www.fragrantica.com/perfume/Lili-Bermuda/64-West-7078.html				pending
+alegria	Alegria		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Alegria-40064.html				pending
+bermudiana	Bermudiana		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Bermudiana-40063.html				pending
+calypso	Calypso		unisex	https://www.fragrantica.com/perfume/Lili-Bermuda/Calypso-18921.html				pending
+cedar	Cedar		male	https://www.fragrantica.com/perfume/Lili-Bermuda/Cedar-7077.html				pending
+coral	Coral		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Coral-7064.html				pending
+easter-lily	Easter Lily		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Easter-Lily-40062.html				pending
+frangipani	Frangipani		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Frangipani-40065.html				pending
+fresh-water	Fresh Water		unisex	https://www.fragrantica.com/perfume/Lili-Bermuda/Fresh-Water-7080.html				pending
+island-rose	Island Rose		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Island-Rose-83200.html				pending
+jasmine	Jasmine		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Jasmine-40061.html				pending
+lily	Lily		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Lily-7066.html				pending
+mary-celestia	Mary Celestia		unisex	https://www.fragrantica.com/perfume/Lili-Bermuda/Mary-Celestia-28151.html				pending
+nautilus	Nautilus		male	https://www.fragrantica.com/perfume/Lili-Bermuda/Nautilus-55738.html				pending
+navy	Navy		male	https://www.fragrantica.com/perfume/Lili-Bermuda/Navy-7074.html				pending
+oleander	Oleander		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Oleander-7072.html				pending
+paradise	Paradise		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Paradise-7067.html				pending
+passion-flower	Passion Flower		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Passion-Flower-7125.html				pending
+petals	Petals		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Petals-7060.html				pending
+pink	Pink		female	https://www.fragrantica.com/perfume/Lili-Bermuda/Pink-7068.html				pending
+somers	Somers		male	https://www.fragrantica.com/perfume/Lili-Bermuda/Somers-7061.html				pending
+south-water	South Water		unisex	https://www.fragrantica.com/perfume/Lili-Bermuda/South-Water-7062.html				pending
+sunkiss	SunKiss		female	https://www.fragrantica.com/perfume/Lili-Bermuda/SunKiss-45256.html				pending

@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-fuego-lento	A Fuego Lento		unisex		https://www.fragrantica.com/perfume/Frassai/A-Fuego-Lento-51426.html				pending
-ajedrez	Ajedrez		unisex		https://www.fragrantica.com/perfume/Frassai/Ajedrez-99939.html				pending
-blondine	Blondine		unisex		https://www.fragrantica.com/perfume/Frassai/Blondine-47692.html				pending
-cuir-pampas	Cuir Pampas		unisex		https://www.fragrantica.com/perfume/Frassai/Cuir-Pampas-64005.html				pending
-dormir-al-sol	Dormir Al Sol		unisex		https://www.fragrantica.com/perfume/Frassai/Dormir-Al-Sol-90856.html				pending
-el-descanso	El Descanso		unisex		https://www.fragrantica.com/perfume/Frassai/El-Descanso-64007.html				pending
-rosa-sacra	Rosa Sacra		unisex		https://www.fragrantica.com/perfume/Frassai/Rosa-Sacra-64006.html				pending
-teisenddu	Teisenddu		unisex		https://www.fragrantica.com/perfume/Frassai/Teisenddu-51425.html				pending
-tian-di	Tian Di		unisex		https://www.fragrantica.com/perfume/Frassai/Tian-Di-47693.html				pending
-verano-porteno	Verano Porteño		unisex		https://www.fragrantica.com/perfume/Frassai/Verano-Porteno-47691.html				pending
-victoria	Victoria		female		https://www.fragrantica.com/perfume/Frassai/Victoria-70044.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-fuego-lento	A Fuego Lento		unisex	https://www.fragrantica.com/perfume/Frassai/A-Fuego-Lento-51426.html				pending
+ajedrez	Ajedrez		unisex	https://www.fragrantica.com/perfume/Frassai/Ajedrez-99939.html				pending
+blondine	Blondine		unisex	https://www.fragrantica.com/perfume/Frassai/Blondine-47692.html				pending
+cuir-pampas	Cuir Pampas		unisex	https://www.fragrantica.com/perfume/Frassai/Cuir-Pampas-64005.html				pending
+dormir-al-sol	Dormir Al Sol		unisex	https://www.fragrantica.com/perfume/Frassai/Dormir-Al-Sol-90856.html				pending
+el-descanso	El Descanso		unisex	https://www.fragrantica.com/perfume/Frassai/El-Descanso-64007.html				pending
+rosa-sacra	Rosa Sacra		unisex	https://www.fragrantica.com/perfume/Frassai/Rosa-Sacra-64006.html				pending
+teisenddu	Teisenddu		unisex	https://www.fragrantica.com/perfume/Frassai/Teisenddu-51425.html				pending
+tian-di	Tian Di		unisex	https://www.fragrantica.com/perfume/Frassai/Tian-Di-47693.html				pending
+verano-porteno	Verano Porteño		unisex	https://www.fragrantica.com/perfume/Frassai/Verano-Porteno-47691.html				pending
+victoria	Victoria		female	https://www.fragrantica.com/perfume/Frassai/Victoria-70044.html				pending

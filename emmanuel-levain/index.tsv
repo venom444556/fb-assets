@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1971	1971		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/1971-40878.html				pending
-blanc	Blanc		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Blanc-24179.html				pending
-bleu	Bleu		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Bleu-24180.html				pending
-just-oud	Just Oud		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Just-Oud-42794.html				pending
-leau-demmanuel	L'Eau d'Emmanuel		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/L-Eau-d-Emmanuel-69692.html				pending
-lake	Lake		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Lake-46646.html				pending
-le-oud-royal	Le Oud Royal		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Le-Oud-Royal-46645.html				pending
-marron	Marron		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Marron-24177.html				pending
-mystic-datura	Mystic Datura		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Mystic-Datura-33988.html				pending
-noir	Noir		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Noir-24176.html				pending
-pure-plum	Pure Plum		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Pure-Plum-24181.html				pending
-red-life	Red Life		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Red-Life-46644.html				pending
-rouge	Rouge		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Rouge-24178.html				pending
-sweet-tonka	Sweet Tonka		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Sweet-Tonka-40879.html				pending
-tendre-pallida	Tendre Pallida		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Tendre-Pallida-42795.html				pending
-vetiver-forever	Vetiver Forever		unisex		https://www.fragrantica.com/perfume/Emmanuel-Levain/Vetiver-Forever-51591.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1971	1971		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/1971-40878.html				pending
+blanc	Blanc		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Blanc-24179.html				pending
+bleu	Bleu		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Bleu-24180.html				pending
+just-oud	Just Oud		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Just-Oud-42794.html				pending
+leau-demmanuel	L'Eau d'Emmanuel		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/L-Eau-d-Emmanuel-69692.html				pending
+lake	Lake		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Lake-46646.html				pending
+le-oud-royal	Le Oud Royal		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Le-Oud-Royal-46645.html				pending
+marron	Marron		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Marron-24177.html				pending
+mystic-datura	Mystic Datura		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Mystic-Datura-33988.html				pending
+noir	Noir		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Noir-24176.html				pending
+pure-plum	Pure Plum		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Pure-Plum-24181.html				pending
+red-life	Red Life		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Red-Life-46644.html				pending
+rouge	Rouge		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Rouge-24178.html				pending
+sweet-tonka	Sweet Tonka		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Sweet-Tonka-40879.html				pending
+tendre-pallida	Tendre Pallida		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Tendre-Pallida-42795.html				pending
+vetiver-forever	Vetiver Forever		unisex	https://www.fragrantica.com/perfume/Emmanuel-Levain/Vetiver-Forever-51591.html				pending

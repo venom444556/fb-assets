@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aurelien	Aurelien		unisex		https://www.fragrantica.com/perfume/Carine-Roitfeld/Aurelien-55145.html				pending
-carine	Carine		unisex		https://www.fragrantica.com/perfume/Carine-Roitfeld/Carine-72837.html				pending
-forgive-me	Forgive Me		female		https://www.fragrantica.com/perfume/Carine-Roitfeld/Forgive-Me-84777.html				pending
-george	George		unisex		https://www.fragrantica.com/perfume/Carine-Roitfeld/George-55143.html				pending
-kar-wai	Kar-Wai		unisex		https://www.fragrantica.com/perfume/Carine-Roitfeld/Kar-Wai-55142.html				pending
-lawrence	Lawrence		unisex		https://www.fragrantica.com/perfume/Carine-Roitfeld/Lawrence-55144.html				pending
-orson	Orson		unisex		https://www.fragrantica.com/perfume/Carine-Roitfeld/Orson-55140.html				pending
-sebastian	Sebastian		unisex		https://www.fragrantica.com/perfume/Carine-Roitfeld/Sebastian-55139.html				pending
-vladimir	Vladimir		unisex		https://www.fragrantica.com/perfume/Carine-Roitfeld/Vladimir-55141.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aurelien	Aurelien		unisex	https://www.fragrantica.com/perfume/Carine-Roitfeld/Aurelien-55145.html				pending
+carine	Carine		unisex	https://www.fragrantica.com/perfume/Carine-Roitfeld/Carine-72837.html				pending
+forgive-me	Forgive Me		female	https://www.fragrantica.com/perfume/Carine-Roitfeld/Forgive-Me-84777.html				pending
+george	George		unisex	https://www.fragrantica.com/perfume/Carine-Roitfeld/George-55143.html				pending
+kar-wai	Kar-Wai		unisex	https://www.fragrantica.com/perfume/Carine-Roitfeld/Kar-Wai-55142.html				pending
+lawrence	Lawrence		unisex	https://www.fragrantica.com/perfume/Carine-Roitfeld/Lawrence-55144.html				pending
+orson	Orson		unisex	https://www.fragrantica.com/perfume/Carine-Roitfeld/Orson-55140.html				pending
+sebastian	Sebastian		unisex	https://www.fragrantica.com/perfume/Carine-Roitfeld/Sebastian-55139.html				pending
+vladimir	Vladimir		unisex	https://www.fragrantica.com/perfume/Carine-Roitfeld/Vladimir-55141.html				pending

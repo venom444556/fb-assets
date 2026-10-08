@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-antalya	Antalya		female		https://www.fragrantica.com/perfume/L-Amande/Antalya-56048.html				pending
-armonie	Armonie		female		https://www.fragrantica.com/perfume/L-Amande/Armonie-56065.html				pending
-assoluta-suprema	Assoluta Suprema		female		https://www.fragrantica.com/perfume/L-Amande/Assoluta-Suprema-83074.html				pending
-calla	Calla		female		https://www.fragrantica.com/perfume/L-Amande/Calla-56066.html				pending
-coriandolo	Coriandolo		male		https://www.fragrantica.com/perfume/L-Amande/Coriandolo-56069.html				pending
-fior-darancio-supremo	Fior d'Arancio Supremo		female		https://www.fragrantica.com/perfume/L-Amande/Fior-d-Arancio-Supremo-56067.html				pending
-fiori-di-ciliegio	Fiori di Ciliegio		female		https://www.fragrantica.com/perfume/L-Amande/Fiori-di-Ciliegio-56068.html				pending
-fiori-di-zaffiro	Fiori di Zaffiro		female		https://www.fragrantica.com/perfume/L-Amande/Fiori-di-Zaffiro-83076.html				pending
-fleur-de-sel-and-vanille	Fleur de Sel & Vanille		female		https://www.fragrantica.com/perfume/L-Amande/Fleur-de-Sel-Vanille-56070.html				pending
-gelsomino-supremo	Gelsomino Supremo		female		https://www.fragrantica.com/perfume/L-Amande/Gelsomino-Supremo-56071.html				pending
-gemme-rosse	Gemme Rosse		female		https://www.fragrantica.com/perfume/L-Amande/Gemme-Rosse-83075.html				pending
-glicine	Glicine		female		https://www.fragrantica.com/perfume/L-Amande/Glicine-56072.html				pending
-iris-supremo	Iris Supremo		female		https://www.fragrantica.com/perfume/L-Amande/Iris-Supremo-56073.html				pending
-lanterne	Lanterne		female		https://www.fragrantica.com/perfume/L-Amande/Lanterne-56074.html				pending
-legni-and-spezie	Legni & Spezie		female		https://www.fragrantica.com/perfume/L-Amande/Legni-Spezie-88787.html				pending
-lili	Lili		female		https://www.fragrantica.com/perfume/L-Amande/Lili-56102.html				pending
-neroli	Neroli		female		https://www.fragrantica.com/perfume/L-Amande/Neroli-56107.html				pending
-papavero	Papavero		female		https://www.fragrantica.com/perfume/L-Amande/Papavero-56103.html				pending
-pepe-nero	Pepe Nero		male		https://www.fragrantica.com/perfume/L-Amande/Pepe-Nero-88788.html				pending
-petali-di-sambuco-polvere-dambra	Petali di Sambuco Polvere d'Ambra		female		https://www.fragrantica.com/perfume/L-Amande/Petali-di-Sambuco-Polvere-d-Ambra-56106.html				pending
-petali-di-spezie	Petali di Spezie		female		https://www.fragrantica.com/perfume/L-Amande/Petali-di-Spezie-56104.html				pending
-rosa-suprema	Rosa Suprema		female		https://www.fragrantica.com/perfume/L-Amande/Rosa-Suprema-56105.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+antalya	Antalya		female	https://www.fragrantica.com/perfume/L-Amande/Antalya-56048.html				pending
+armonie	Armonie		female	https://www.fragrantica.com/perfume/L-Amande/Armonie-56065.html				pending
+assoluta-suprema	Assoluta Suprema		female	https://www.fragrantica.com/perfume/L-Amande/Assoluta-Suprema-83074.html				pending
+calla	Calla		female	https://www.fragrantica.com/perfume/L-Amande/Calla-56066.html				pending
+coriandolo	Coriandolo		male	https://www.fragrantica.com/perfume/L-Amande/Coriandolo-56069.html				pending
+fior-darancio-supremo	Fior d'Arancio Supremo		female	https://www.fragrantica.com/perfume/L-Amande/Fior-d-Arancio-Supremo-56067.html				pending
+fiori-di-ciliegio	Fiori di Ciliegio		female	https://www.fragrantica.com/perfume/L-Amande/Fiori-di-Ciliegio-56068.html				pending
+fiori-di-zaffiro	Fiori di Zaffiro		female	https://www.fragrantica.com/perfume/L-Amande/Fiori-di-Zaffiro-83076.html				pending
+fleur-de-sel-and-vanille	Fleur de Sel & Vanille		female	https://www.fragrantica.com/perfume/L-Amande/Fleur-de-Sel-Vanille-56070.html				pending
+gelsomino-supremo	Gelsomino Supremo		female	https://www.fragrantica.com/perfume/L-Amande/Gelsomino-Supremo-56071.html				pending
+gemme-rosse	Gemme Rosse		female	https://www.fragrantica.com/perfume/L-Amande/Gemme-Rosse-83075.html				pending
+glicine	Glicine		female	https://www.fragrantica.com/perfume/L-Amande/Glicine-56072.html				pending
+iris-supremo	Iris Supremo		female	https://www.fragrantica.com/perfume/L-Amande/Iris-Supremo-56073.html				pending
+lanterne	Lanterne		female	https://www.fragrantica.com/perfume/L-Amande/Lanterne-56074.html				pending
+legni-and-spezie	Legni & Spezie		female	https://www.fragrantica.com/perfume/L-Amande/Legni-Spezie-88787.html				pending
+lili	Lili		female	https://www.fragrantica.com/perfume/L-Amande/Lili-56102.html				pending
+neroli	Neroli		female	https://www.fragrantica.com/perfume/L-Amande/Neroli-56107.html				pending
+papavero	Papavero		female	https://www.fragrantica.com/perfume/L-Amande/Papavero-56103.html				pending
+pepe-nero	Pepe Nero		male	https://www.fragrantica.com/perfume/L-Amande/Pepe-Nero-88788.html				pending
+petali-di-sambuco-polvere-dambra	Petali di Sambuco Polvere d'Ambra		female	https://www.fragrantica.com/perfume/L-Amande/Petali-di-Sambuco-Polvere-d-Ambra-56106.html				pending
+petali-di-spezie	Petali di Spezie		female	https://www.fragrantica.com/perfume/L-Amande/Petali-di-Spezie-56104.html				pending
+rosa-suprema	Rosa Suprema		female	https://www.fragrantica.com/perfume/L-Amande/Rosa-Suprema-56105.html				pending

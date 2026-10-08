@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-fresh-vanilla-lemon	Fresh Vanilla Lemon		unisex		https://www.fragrantica.com/perfume/Lavanila-Laboratories/Fresh-Vanilla-Lemon-18415.html				pending
-pure-vanilla	Pure Vanilla		female		https://www.fragrantica.com/perfume/Lavanila-Laboratories/Pure-Vanilla-4711.html				pending
-vanilla-blackberry	Vanilla Blackberry		female		https://www.fragrantica.com/perfume/Lavanila-Laboratories/Vanilla-Blackberry-15644.html				pending
-vanilla-coconut	Vanilla Coconut		female		https://www.fragrantica.com/perfume/Lavanila-Laboratories/Vanilla-Coconut-4709.html				pending
-vanilla-grapefruit	Vanilla Grapefruit		female		https://www.fragrantica.com/perfume/Lavanila-Laboratories/Vanilla-Grapefruit-4708.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+fresh-vanilla-lemon	Fresh Vanilla Lemon		unisex	https://www.fragrantica.com/perfume/Lavanila-Laboratories/Fresh-Vanilla-Lemon-18415.html				pending
+pure-vanilla	Pure Vanilla		female	https://www.fragrantica.com/perfume/Lavanila-Laboratories/Pure-Vanilla-4711.html				pending
+vanilla-blackberry	Vanilla Blackberry		female	https://www.fragrantica.com/perfume/Lavanila-Laboratories/Vanilla-Blackberry-15644.html				pending
+vanilla-coconut	Vanilla Coconut		female	https://www.fragrantica.com/perfume/Lavanila-Laboratories/Vanilla-Coconut-4709.html				pending
+vanilla-grapefruit	Vanilla Grapefruit		female	https://www.fragrantica.com/perfume/Lavanila-Laboratories/Vanilla-Grapefruit-4708.html				pending

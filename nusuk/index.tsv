@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-al-mukhtalif-signature	Al Mukhtalif Signature		male		https://www.fragrantica.com/perfume/Nusuk/Al-Mukhtalif-Signature-100736.html				pending
-al-mukhtalif-women	Al Mukhtalif Women		female		https://www.fragrantica.com/perfume/Nusuk/Al-Mukhtalif-Women-100737.html				pending
-ana-al-awwal-golden	Ana Al Awwal Golden		female		https://www.fragrantica.com/perfume/Nusuk/Ana-Al-Awwal-Golden-94021.html				pending
-ateeq	Ateeq		male		https://www.fragrantica.com/perfume/Nusuk/Ateeq-115754.html				pending
-fawah-midnight-edition	Fawah Midnight Edition		male		https://www.fragrantica.com/perfume/Nusuk/Fawah-Midnight-Edition-105186.html				pending
-gladius	Gladius		unisex		https://www.fragrantica.com/perfume/Nusuk/Gladius-131299.html				pending
-johra	Johra		female		https://www.fragrantica.com/perfume/Nusuk/Johra-115756.html				pending
-mahab	Mahab		unisex		https://www.fragrantica.com/perfume/Nusuk/Mahab-111856.html				pending
-raheeq	Raheeq		unisex		https://www.fragrantica.com/perfume/Nusuk/Raheeq-111854.html				pending
-safa	Safa		unisex		https://www.fragrantica.com/perfume/Nusuk/Safa-111190.html				pending
-saher	Saher		female		https://www.fragrantica.com/perfume/Nusuk/Saher-111855.html				pending
-sama	Sama		unisex		https://www.fragrantica.com/perfume/Nusuk/Sama-111186.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+al-mukhtalif-signature	Al Mukhtalif Signature		male	https://www.fragrantica.com/perfume/Nusuk/Al-Mukhtalif-Signature-100736.html				pending
+al-mukhtalif-women	Al Mukhtalif Women		female	https://www.fragrantica.com/perfume/Nusuk/Al-Mukhtalif-Women-100737.html				pending
+ana-al-awwal-golden	Ana Al Awwal Golden		female	https://www.fragrantica.com/perfume/Nusuk/Ana-Al-Awwal-Golden-94021.html				pending
+ateeq	Ateeq		male	https://www.fragrantica.com/perfume/Nusuk/Ateeq-115754.html				pending
+fawah-midnight-edition	Fawah Midnight Edition		male	https://www.fragrantica.com/perfume/Nusuk/Fawah-Midnight-Edition-105186.html				pending
+gladius	Gladius		unisex	https://www.fragrantica.com/perfume/Nusuk/Gladius-131299.html				pending
+johra	Johra		female	https://www.fragrantica.com/perfume/Nusuk/Johra-115756.html				pending
+mahab	Mahab		unisex	https://www.fragrantica.com/perfume/Nusuk/Mahab-111856.html				pending
+raheeq	Raheeq		unisex	https://www.fragrantica.com/perfume/Nusuk/Raheeq-111854.html				pending
+safa	Safa		unisex	https://www.fragrantica.com/perfume/Nusuk/Safa-111190.html				pending
+saher	Saher		female	https://www.fragrantica.com/perfume/Nusuk/Saher-111855.html				pending
+sama	Sama		unisex	https://www.fragrantica.com/perfume/Nusuk/Sama-111186.html				pending

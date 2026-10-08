@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-00-auriel	00 Auriel		unisex		https://www.fragrantica.com/perfume/Odin/00-Auriel-34581.html				pending
-01-sunda	01 Sunda		unisex		https://www.fragrantica.com/perfume/Odin/01-Sunda-9670.html				pending
-02-owari	02 Owari		unisex		https://www.fragrantica.com/perfume/Odin/02-Owari-9671.html				pending
-03-century	03 Century		unisex		https://www.fragrantica.com/perfume/Odin/03-Century-9672.html				pending
-04-petrana	04 Petrana		unisex		https://www.fragrantica.com/perfume/Odin/04-Petrana-9673.html				pending
-06-amanu	06 Amanu		unisex		https://www.fragrantica.com/perfume/Odin/06-Amanu-12720.html				pending
-07-tanoke	07 Tanoke		unisex		https://www.fragrantica.com/perfume/Odin/07-Tanoke-14127.html				pending
-08-seylon	08 Seylon		unisex		https://www.fragrantica.com/perfume/Odin/08-Seylon-16511.html				pending
-11-semma	11 Semma		unisex		https://www.fragrantica.com/perfume/Odin/11-Semma-21772.html				pending
-12-lacha	12 Lacha		unisex		https://www.fragrantica.com/perfume/Odin/12-Lacha-31895.html				pending
-milieu-rosa	Milieu Rosa		female		https://www.fragrantica.com/perfume/Odin/Milieu-Rosa-28348.html				pending
-no-10-roam	No 10 Roam		unisex		https://www.fragrantica.com/perfume/Odin/No-10-Roam-18359.html				pending
-no-9-posala-odin	No 9 Posala Odin		unisex		https://www.fragrantica.com/perfume/Odin/No-9-Posala-Odin-17090.html				pending
-vert-reseda	Vert Reseda		female		https://www.fragrantica.com/perfume/Odin/Vert-Reseda-28349.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+00-auriel	00 Auriel		unisex	https://www.fragrantica.com/perfume/Odin/00-Auriel-34581.html				pending
+01-sunda	01 Sunda		unisex	https://www.fragrantica.com/perfume/Odin/01-Sunda-9670.html				pending
+02-owari	02 Owari		unisex	https://www.fragrantica.com/perfume/Odin/02-Owari-9671.html				pending
+03-century	03 Century		unisex	https://www.fragrantica.com/perfume/Odin/03-Century-9672.html				pending
+04-petrana	04 Petrana		unisex	https://www.fragrantica.com/perfume/Odin/04-Petrana-9673.html				pending
+06-amanu	06 Amanu		unisex	https://www.fragrantica.com/perfume/Odin/06-Amanu-12720.html				pending
+07-tanoke	07 Tanoke		unisex	https://www.fragrantica.com/perfume/Odin/07-Tanoke-14127.html				pending
+08-seylon	08 Seylon		unisex	https://www.fragrantica.com/perfume/Odin/08-Seylon-16511.html				pending
+11-semma	11 Semma		unisex	https://www.fragrantica.com/perfume/Odin/11-Semma-21772.html				pending
+12-lacha	12 Lacha		unisex	https://www.fragrantica.com/perfume/Odin/12-Lacha-31895.html				pending
+milieu-rosa	Milieu Rosa		female	https://www.fragrantica.com/perfume/Odin/Milieu-Rosa-28348.html				pending
+no-10-roam	No 10 Roam		unisex	https://www.fragrantica.com/perfume/Odin/No-10-Roam-18359.html				pending
+no-9-posala-odin	No 9 Posala Odin		unisex	https://www.fragrantica.com/perfume/Odin/No-9-Posala-Odin-17090.html				pending
+vert-reseda	Vert Reseda		female	https://www.fragrantica.com/perfume/Odin/Vert-Reseda-28349.html				pending

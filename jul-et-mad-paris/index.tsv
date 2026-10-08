@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amour-de-palazzo	Amour de Palazzo		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Amour-de-Palazzo-16251.html				pending
-aqua-sextius	Aqua Sextius		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Aqua-Sextius-24626.html				pending
-bella-donna	Bella Donna		female		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Bella-Donna-43978.html				pending
-callisto	Callisto		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Callisto-93612.html				pending
-fugit-amor	Fugit Amor		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Fugit-Amor-43979.html				pending
-garuda	Garuda		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Garuda-30239.html				pending
-histoire-damour-2-0	Histoire d’Amour 2.0		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Histoire-d-Amour-2-0-98512.html				pending
-lys-nobilis	Lys Nobilis		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Lys-Nobilis-72313.html				pending
-mon-seul-desir	Mon Seul Desir		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Mon-Seul-Desir-43980.html				pending
-nin-shar	Nin-Shar		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Nin-Shar-30238.html				pending
-noisette-iris	Noisette Iris		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Noisette-Iris-72314.html				pending
-nea	Néa		female		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Nea-30237.html				pending
-revelo	Revelo		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Revelo-72310.html				pending
-secrets-du-paradis-rouge	Secrets du Paradis Rouge		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Secrets-du-Paradis-Rouge-40701.html				pending
-stairway-to-heaven	Stairway To Heaven		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Stairway-To-Heaven-56947.html				pending
-stilettos-on-lex	Stilettos on Lex		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Stilettos-on-Lex-16249.html				pending
-terrasse-a-st-germain	Terrasse à St-Germain		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Terrasse-a-St-Germain-16250.html				pending
-bergamote-twist	Bergamote Twist		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Bergamote-Twist-72312.html				pending
-cedrat-gingembre	Cedrat Gingembre		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Cedrat-Gingembre-72311.html				pending
-ganja-oud	Ganja Oud		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Ganja-Oud-72315.html				pending
-vetiver-cuir	Vetiver Cuir		unisex		https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Vetiver-Cuir-72316.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amour-de-palazzo	Amour de Palazzo		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Amour-de-Palazzo-16251.html				pending
+aqua-sextius	Aqua Sextius		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Aqua-Sextius-24626.html				pending
+bella-donna	Bella Donna		female	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Bella-Donna-43978.html				pending
+bergamote-twist	Bergamote Twist		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Bergamote-Twist-72312.html				pending
+callisto	Callisto		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Callisto-93612.html				pending
+cedrat-gingembre	Cedrat Gingembre		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Cedrat-Gingembre-72311.html				pending
+fugit-amor	Fugit Amor		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Fugit-Amor-43979.html				pending
+ganja-oud	Ganja Oud		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Ganja-Oud-72315.html				pending
+garuda	Garuda		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Garuda-30239.html				pending
+histoire-damour-2-0	Histoire d’Amour 2.0		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Histoire-d-Amour-2-0-98512.html				pending
+lys-nobilis	Lys Nobilis		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Lys-Nobilis-72313.html				pending
+mon-seul-desir	Mon Seul Desir		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Mon-Seul-Desir-43980.html				pending
+nin-shar	Nin-Shar		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Nin-Shar-30238.html				pending
+noisette-iris	Noisette Iris		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Noisette-Iris-72314.html				pending
+nea	Néa		female	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Nea-30237.html				pending
+revelo	Revelo		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Revelo-72310.html				pending
+secrets-du-paradis-rouge	Secrets du Paradis Rouge		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Secrets-du-Paradis-Rouge-40701.html				pending
+stairway-to-heaven	Stairway To Heaven		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Stairway-To-Heaven-56947.html				pending
+stilettos-on-lex	Stilettos on Lex		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Stilettos-on-Lex-16249.html				pending
+terrasse-a-st-germain	Terrasse à St-Germain		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Terrasse-a-St-Germain-16250.html				pending
+vetiver-cuir	Vetiver Cuir		unisex	https://www.fragrantica.com/perfume/Jul-et-Mad-Paris/Vetiver-Cuir-72316.html				pending

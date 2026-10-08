@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-diamond	Black Diamond		male		https://www.fragrantica.com/perfume/Canali/Black-Diamond-1723.html				pending
-canali-men	Canali Men		male		https://www.fragrantica.com/perfume/Canali/Canali-Men-282.html				pending
-canali-style	Canali Style		male		https://www.fragrantica.com/perfume/Canali/Canali-Style-3737.html				pending
-summer-night	Summer Night		male		https://www.fragrantica.com/perfume/Canali/Summer-Night-1390.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-diamond	Black Diamond		male	https://www.fragrantica.com/perfume/Canali/Black-Diamond-1723.html				pending
+canali-men	Canali Men		male	https://www.fragrantica.com/perfume/Canali/Canali-Men-282.html				pending
+canali-style	Canali Style		male	https://www.fragrantica.com/perfume/Canali/Canali-Style-3737.html				pending
+summer-night	Summer Night		male	https://www.fragrantica.com/perfume/Canali/Summer-Night-1390.html				pending

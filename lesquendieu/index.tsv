@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bonne-fortune	Bonne Fortune		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Bonne-Fortune-39701.html				pending
-cuir-vetyver	Cuir Vetyver		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Cuir-Vetyver-73875.html				pending
-feu-de-bengale	Feu De Bengale		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Feu-De-Bengale-39702.html				pending
-glorilis	Glorilis		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Glorilis-39703.html				pending
-lesquendieu-le-parfum	Lesquendieu Le Parfum		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Lesquendieu-Le-Parfum-39704.html				pending
-lilice	Lilice		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Lilice-39705.html				pending
-orris-amber	Orris Amber		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Orris-Amber-73872.html				pending
-bonne-fortune-vintage	Bonne Fortune Vintage		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Bonne-Fortune-Vintage-40129.html				pending
-farjoli	Farjoli		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Farjoli-40130.html				pending
-flo	Flo		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Flo-40121.html				pending
-glorilis-vintage	Glorilis Vintage		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Glorilis-Vintage-40122.html				pending
-kamir	Kamir		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Kamir-40123.html				pending
-lesquendieu	Lesquendieu		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Lesquendieu-40119.html				pending
-mountain-laurel	Mountain Laurel		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Mountain-Laurel-40127.html				pending
-nikita	Nikita		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Nikita-40120.html				pending
-optimist	Optimist		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Optimist-40125.html				pending
-oud-and-woods	Oud & Woods		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Oud-Woods-73874.html				pending
-oud-saffron	Oud Saffron		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Oud-Saffron-73873.html				pending
-pinoflor	Pinoflor		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Pinoflor-40124.html				pending
-prince-de-paris	Prince de Paris		male		https://www.fragrantica.com/perfume/Lesquendieu/Prince-de-Paris-40128.html				pending
-remember-me	Remember Me		unisex		https://www.fragrantica.com/perfume/Lesquendieu/Remember-Me-40126.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bonne-fortune	Bonne Fortune		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Bonne-Fortune-39701.html				pending
+bonne-fortune-vintage	Bonne Fortune Vintage		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Bonne-Fortune-Vintage-40129.html				pending
+cuir-vetyver	Cuir Vetyver		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Cuir-Vetyver-73875.html				pending
+farjoli	Farjoli		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Farjoli-40130.html				pending
+feu-de-bengale	Feu De Bengale		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Feu-De-Bengale-39702.html				pending
+flo	Flo		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Flo-40121.html				pending
+glorilis	Glorilis		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Glorilis-39703.html				pending
+glorilis-vintage	Glorilis Vintage		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Glorilis-Vintage-40122.html				pending
+kamir	Kamir		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Kamir-40123.html				pending
+lesquendieu	Lesquendieu		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Lesquendieu-40119.html				pending
+lesquendieu-le-parfum	Lesquendieu Le Parfum		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Lesquendieu-Le-Parfum-39704.html				pending
+lilice	Lilice		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Lilice-39705.html				pending
+mountain-laurel	Mountain Laurel		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Mountain-Laurel-40127.html				pending
+nikita	Nikita		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Nikita-40120.html				pending
+optimist	Optimist		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Optimist-40125.html				pending
+orris-amber	Orris Amber		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Orris-Amber-73872.html				pending
+oud-and-woods	Oud & Woods		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Oud-Woods-73874.html				pending
+oud-saffron	Oud Saffron		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Oud-Saffron-73873.html				pending
+pinoflor	Pinoflor		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Pinoflor-40124.html				pending
+prince-de-paris	Prince de Paris		male	https://www.fragrantica.com/perfume/Lesquendieu/Prince-de-Paris-40128.html				pending
+remember-me	Remember Me		unisex	https://www.fragrantica.com/perfume/Lesquendieu/Remember-Me-40126.html				pending

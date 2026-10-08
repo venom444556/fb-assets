@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-oros-pour-femme	Oros Pour Femme		female		https://www.fragrantica.com/perfume/Oros/Oros-Pour-Femme-24615.html				pending
-oros-black	Oros Black		male		https://www.fragrantica.com/perfume/Oros/Oros-Black-94331.html				pending
-oros-donna	Oros Donna		female		https://www.fragrantica.com/perfume/Oros/Oros-Donna-94300.html				pending
-oros-fleur	Oros Fleur		female		https://www.fragrantica.com/perfume/Oros/Oros-Fleur-32530.html				pending
-oros-gold	Oros Gold		female		https://www.fragrantica.com/perfume/Oros/Oros-Gold-94304.html				pending
-oros-holiday-edition	Oros Holiday Edition		female		https://www.fragrantica.com/perfume/Oros/Oros-Holiday-Edition-40718.html				pending
-oros-limited-edition	Oros Limited Edition		male		https://www.fragrantica.com/perfume/Oros/Oros-Limited-Edition-32531.html				pending
-oros-limited-edition-woman	Oros Limited Edition Woman		female		https://www.fragrantica.com/perfume/Oros/Oros-Limited-Edition-Woman-94316.html				pending
-oros-oud	Oros Oud		unisex		https://www.fragrantica.com/perfume/Oros/Oros-Oud-40717.html				pending
-oros-pour-homme	Oros Pour Homme		male		https://www.fragrantica.com/perfume/Oros/Oros-Pour-Homme-24616.html				pending
-oros-pure-affecte	Oros Pure Affecte		unisex		https://www.fragrantica.com/perfume/Oros/Oros-Pure-Affecte-77879.html				pending
-oros-pure-blooming-maguey	Oros Pure Blooming Maguey		unisex		https://www.fragrantica.com/perfume/Oros/Oros-Pure-Blooming-Maguey-77880.html				pending
-oros-pure-cloisonne	Oros Pure Cloisonne		unisex		https://www.fragrantica.com/perfume/Oros/Oros-Pure-Cloisonne-77881.html				pending
-oros-pure-evening-rose	Oros Pure Evening Rose		unisex		https://www.fragrantica.com/perfume/Oros/Oros-Pure-Evening-Rose-77882.html				pending
-oros-pure-leather-gold	Oros Pure Leather Gold		unisex		https://www.fragrantica.com/perfume/Oros/Oros-Pure-Leather-Gold-77883.html				pending
-oros-pure-twist-debois	Oros Pure Twist Debois		unisex		https://www.fragrantica.com/perfume/Oros/Oros-Pure-Twist-Debois-77884.html				pending
-oros-sacre-blue	Oros Sacre Blue		male		https://www.fragrantica.com/perfume/Oros/Oros-Sacre-Blue-94305.html				pending
-oros-uomo	Oros Uomo		male		https://www.fragrantica.com/perfume/Oros/Oros-Uomo-94236.html				pending
-the-inventor-black	The Inventor Black		unisex		https://www.fragrantica.com/perfume/Oros/The-Inventor-Black-77885.html				pending
-the-inventor-brown	The Inventor Brown		unisex		https://www.fragrantica.com/perfume/Oros/The-Inventor-Brown-77886.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+oros-black	Oros Black		male	https://www.fragrantica.com/perfume/Oros/Oros-Black-94331.html				pending
+oros-donna	Oros Donna		female	https://www.fragrantica.com/perfume/Oros/Oros-Donna-94300.html				pending
+oros-fleur	Oros Fleur		female	https://www.fragrantica.com/perfume/Oros/Oros-Fleur-32530.html				pending
+oros-gold	Oros Gold		female	https://www.fragrantica.com/perfume/Oros/Oros-Gold-94304.html				pending
+oros-holiday-edition	Oros Holiday Edition		female	https://www.fragrantica.com/perfume/Oros/Oros-Holiday-Edition-40718.html				pending
+oros-limited-edition	Oros Limited Edition		male	https://www.fragrantica.com/perfume/Oros/Oros-Limited-Edition-32531.html				pending
+oros-limited-edition-woman	Oros Limited Edition Woman		female	https://www.fragrantica.com/perfume/Oros/Oros-Limited-Edition-Woman-94316.html				pending
+oros-oud	Oros Oud		unisex	https://www.fragrantica.com/perfume/Oros/Oros-Oud-40717.html				pending
+oros-pour-femme	Oros Pour Femme		female	https://www.fragrantica.com/perfume/Oros/Oros-Pour-Femme-24615.html				pending
+oros-pour-homme	Oros Pour Homme		male	https://www.fragrantica.com/perfume/Oros/Oros-Pour-Homme-24616.html				pending
+oros-pure-affecte	Oros Pure Affecte		unisex	https://www.fragrantica.com/perfume/Oros/Oros-Pure-Affecte-77879.html				pending
+oros-pure-blooming-maguey	Oros Pure Blooming Maguey		unisex	https://www.fragrantica.com/perfume/Oros/Oros-Pure-Blooming-Maguey-77880.html				pending
+oros-pure-cloisonne	Oros Pure Cloisonne		unisex	https://www.fragrantica.com/perfume/Oros/Oros-Pure-Cloisonne-77881.html				pending
+oros-pure-evening-rose	Oros Pure Evening Rose		unisex	https://www.fragrantica.com/perfume/Oros/Oros-Pure-Evening-Rose-77882.html				pending
+oros-pure-leather-gold	Oros Pure Leather Gold		unisex	https://www.fragrantica.com/perfume/Oros/Oros-Pure-Leather-Gold-77883.html				pending
+oros-pure-twist-debois	Oros Pure Twist Debois		unisex	https://www.fragrantica.com/perfume/Oros/Oros-Pure-Twist-Debois-77884.html				pending
+oros-sacre-blue	Oros Sacre Blue		male	https://www.fragrantica.com/perfume/Oros/Oros-Sacre-Blue-94305.html				pending
+oros-uomo	Oros Uomo		male	https://www.fragrantica.com/perfume/Oros/Oros-Uomo-94236.html				pending
+the-inventor-black	The Inventor Black		unisex	https://www.fragrantica.com/perfume/Oros/The-Inventor-Black-77885.html				pending
+the-inventor-brown	The Inventor Brown		unisex	https://www.fragrantica.com/perfume/Oros/The-Inventor-Brown-77886.html				pending

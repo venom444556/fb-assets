@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-no-1	No. 1		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-1-40630.html				pending
-no-10	No. 10		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-10-40635.html				pending
-no-11	No. 11		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-11-40669.html				pending
-no-12	No. 12		male		https://www.fragrantica.com/perfume/Aromatologic/No-12-40636.html				pending
-no-13	No. 13		male		https://www.fragrantica.com/perfume/Aromatologic/No-13-40642.html				pending
-no-14	No. 14		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-14-40631.html				pending
-no-15	No. 15		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-15-40634.html				pending
-no-2	No. 2		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-2-40637.html				pending
-no-3	No. 3		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-3-40644.html				pending
-no-4	No. 4		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-4-40670.html				pending
-no-5	No. 5		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-5-40671.html				pending
-no-6	No. 6		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-6-40645.html				pending
-no-7	No. 7		male		https://www.fragrantica.com/perfume/Aromatologic/No-7-40646.html				pending
-no-8	No. 8		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-8-40641.html				pending
-no-9	No. 9		unisex		https://www.fragrantica.com/perfume/Aromatologic/No-9-40672.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+no-1	No. 1		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-1-40630.html				pending
+no-10	No. 10		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-10-40635.html				pending
+no-11	No. 11		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-11-40669.html				pending
+no-12	No. 12		male	https://www.fragrantica.com/perfume/Aromatologic/No-12-40636.html				pending
+no-13	No. 13		male	https://www.fragrantica.com/perfume/Aromatologic/No-13-40642.html				pending
+no-14	No. 14		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-14-40631.html				pending
+no-15	No. 15		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-15-40634.html				pending
+no-2	No. 2		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-2-40637.html				pending
+no-3	No. 3		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-3-40644.html				pending
+no-4	No. 4		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-4-40670.html				pending
+no-5	No. 5		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-5-40671.html				pending
+no-6	No. 6		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-6-40645.html				pending
+no-7	No. 7		male	https://www.fragrantica.com/perfume/Aromatologic/No-7-40646.html				pending
+no-8	No. 8		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-8-40641.html				pending
+no-9	No. 9		unisex	https://www.fragrantica.com/perfume/Aromatologic/No-9-40672.html				pending

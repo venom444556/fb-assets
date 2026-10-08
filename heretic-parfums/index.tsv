@@ -1,19 +1,19 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amulet	Amulet		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Amulet-37220.html				pending
-black-currant-rose	Black Currant Rose		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Black-Currant-Rose-70467.html				pending
-bourbon-patchouli	Bourbon Patchouli		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Bourbon-Patchouli-67944.html				pending
-dirty-amber	Dirty Amber		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Amber-81799.html				pending
-dirty-fig	Dirty Fig		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Fig-52581.html				pending
-dirty-gardenia	Dirty Gardenia		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Gardenia-67942.html				pending
-dirty-grapefruit	Dirty Grapefruit		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Grapefruit-63945.html				pending
-dirty-jasmine	Dirty Jasmine		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Jasmine-52579.html				pending
-dirty-lavender	Dirty Lavender		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Lavender-63944.html				pending
-dirty-lemon	Dirty Lemon		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Lemon-52580.html				pending
-dirty-neroli	Dirty Neroli		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Neroli-52577.html				pending
-dirty-rose-2022	Dirty Rose 2022		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Rose-2022-76338.html				pending
-holi-water	Holi Water		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Holi-Water-37213.html				pending
-india-ink	India Ink		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/India-Ink-37217.html				pending
-melrose-place	Melrose Place		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Melrose-Place-67203.html				pending
-naked-rose	Naked Rose		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Naked-Rose-63947.html				pending
-slightly-bitter	Slightly Bitter		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/Slightly-Bitter-63946.html				pending
-the-herbalist	The Herbalist		unisex		https://www.fragrantica.com/perfume/Heretic-Parfums/The-Herbalist-66903.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amulet	Amulet		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Amulet-37220.html				pending
+black-currant-rose	Black Currant Rose		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Black-Currant-Rose-70467.html				pending
+bourbon-patchouli	Bourbon Patchouli		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Bourbon-Patchouli-67944.html				pending
+dirty-amber	Dirty Amber		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Amber-81799.html				pending
+dirty-fig	Dirty Fig		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Fig-52581.html				pending
+dirty-gardenia	Dirty Gardenia		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Gardenia-67942.html				pending
+dirty-grapefruit	Dirty Grapefruit		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Grapefruit-63945.html				pending
+dirty-jasmine	Dirty Jasmine		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Jasmine-52579.html				pending
+dirty-lavender	Dirty Lavender		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Lavender-63944.html				pending
+dirty-lemon	Dirty Lemon		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Lemon-52580.html				pending
+dirty-neroli	Dirty Neroli		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Neroli-52577.html				pending
+dirty-rose-2022	Dirty Rose 2022		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Dirty-Rose-2022-76338.html				pending
+holi-water	Holi Water		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Holi-Water-37213.html				pending
+india-ink	India Ink		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/India-Ink-37217.html				pending
+melrose-place	Melrose Place		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Melrose-Place-67203.html				pending
+naked-rose	Naked Rose		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Naked-Rose-63947.html				pending
+slightly-bitter	Slightly Bitter		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/Slightly-Bitter-63946.html				pending
+the-herbalist	The Herbalist		unisex	https://www.fragrantica.com/perfume/Heretic-Parfums/The-Herbalist-66903.html				pending

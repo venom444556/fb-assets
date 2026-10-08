@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-balsam	Amber Balsam		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/Amber-Balsam-92173.html				pending
-ambre-de-noir	Ambre de Noir		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/Ambre-de-Noir-102582.html				pending
-bestia-sacra	Bestia Sacra		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/Bestia-Sacra-109603.html				pending
-cafe-mystique	Café Mystique		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/Cafe-Mystique-92174.html				pending
-chypre-de-grand	Chypre de Grand		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/Chypre-de-Grand-102589.html				pending
-cologne-dagar	Cologne d'Agar		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/Cologne-d-Agar-118525.html				pending
-loud-marin	L’Oud Marin		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/L-Oud-Marin-109601.html				pending
-musk-couture	Musk Couture		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/Musk-Couture-92175.html				pending
-oud-indochine	Oud Indochine		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/Oud-Indochine-96998.html				pending
-vanilla-oud	Vanilla Oud		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/Vanilla-Oud-102591.html				pending
-yeti	YETI		unisex		https://www.fragrantica.com/perfume/Maksim-Perfume/YETI-127647.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-balsam	Amber Balsam		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/Amber-Balsam-92173.html				pending
+ambre-de-noir	Ambre de Noir		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/Ambre-de-Noir-102582.html				pending
+bestia-sacra	Bestia Sacra		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/Bestia-Sacra-109603.html				pending
+cafe-mystique	Café Mystique		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/Cafe-Mystique-92174.html				pending
+chypre-de-grand	Chypre de Grand		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/Chypre-de-Grand-102589.html				pending
+cologne-dagar	Cologne d'Agar		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/Cologne-d-Agar-118525.html				pending
+loud-marin	L’Oud Marin		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/L-Oud-Marin-109601.html				pending
+musk-couture	Musk Couture		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/Musk-Couture-92175.html				pending
+oud-indochine	Oud Indochine		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/Oud-Indochine-96998.html				pending
+vanilla-oud	Vanilla Oud		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/Vanilla-Oud-102591.html				pending
+yeti	YETI		unisex	https://www.fragrantica.com/perfume/Maksim-Perfume/YETI-127647.html				pending

@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-man-aubusson	man.aubusson		male		https://www.fragrantica.com/perfume/Aubusson/man-aubusson-4552.html				pending
-aubusson-couleurs	Aubusson Couleurs		female		https://www.fragrantica.com/perfume/Aubusson/Aubusson-Couleurs-4556.html				pending
-aubusson-flore	Aubusson Flore		female		https://www.fragrantica.com/perfume/Aubusson/Aubusson-Flore-4558.html				pending
-aubusson-homme	Aubusson Homme		male		https://www.fragrantica.com/perfume/Aubusson/Aubusson-Homme-4559.html				pending
-aubusson-man-in-blue	Aubusson Man in Blue		male		https://www.fragrantica.com/perfume/Aubusson/Aubusson-Man-in-Blue-4560.html				pending
-desirade	Desirade		female		https://www.fragrantica.com/perfume/Aubusson/Desirade-4561.html				pending
-desirade-my-desire	Desirade My Desire		female		https://www.fragrantica.com/perfume/Aubusson/Desirade-My-Desire-28072.html				pending
-fleur-de-desirade	Fleur de Desirade		female		https://www.fragrantica.com/perfume/Aubusson/Fleur-de-Desirade-39412.html				pending
-futuros	Futuros		male		https://www.fragrantica.com/perfume/Aubusson/Futuros-38368.html				pending
-histoire-damour	Histoire D'Amour		female		https://www.fragrantica.com/perfume/Aubusson/Histoire-D-Amour-4549.html				pending
-histoire-damour-2	Histoire D'Amour 2		female		https://www.fragrantica.com/perfume/Aubusson/Histoire-D-Amour-2-4551.html				pending
-histoire-damour-cherie	Histoire D'Amour Cherie		female		https://www.fragrantica.com/perfume/Aubusson/Histoire-D-Amour-Cherie-28071.html				pending
-liquid-amber	Liquid Amber		female		https://www.fragrantica.com/perfume/Aubusson/Liquid-Amber-63488.html				pending
-lush-neroli	Lush Neroli		female		https://www.fragrantica.com/perfume/Aubusson/Lush-Neroli-63489.html				pending
-man-aubusson-intense	man.aubusson Intense		male		https://www.fragrantica.com/perfume/Aubusson/man-aubusson-Intense-28073.html				pending
-perle-daubusson	Perle d'Aubusson		female		https://www.fragrantica.com/perfume/Aubusson/Perle-d-Aubusson-4553.html				pending
-perlissima-daubusson	Perlissima d'Aubusson		female		https://www.fragrantica.com/perfume/Aubusson/Perlissima-d-Aubusson-4555.html				pending
-plush-leather	Plush Leather		male		https://www.fragrantica.com/perfume/Aubusson/Plush-Leather-63490.html				pending
-radiant-iris	Radiant Iris		female		https://www.fragrantica.com/perfume/Aubusson/Radiant-Iris-63487.html				pending
-salted-vetiver	Salted Vetiver		male		https://www.fragrantica.com/perfume/Aubusson/Salted-Vetiver-63492.html				pending
-velvet-rose	Velvet Rose		female		https://www.fragrantica.com/perfume/Aubusson/Velvet-Rose-63493.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aubusson-couleurs	Aubusson Couleurs		female	https://www.fragrantica.com/perfume/Aubusson/Aubusson-Couleurs-4556.html				pending
+aubusson-flore	Aubusson Flore		female	https://www.fragrantica.com/perfume/Aubusson/Aubusson-Flore-4558.html				pending
+aubusson-homme	Aubusson Homme		male	https://www.fragrantica.com/perfume/Aubusson/Aubusson-Homme-4559.html				pending
+aubusson-man-in-blue	Aubusson Man in Blue		male	https://www.fragrantica.com/perfume/Aubusson/Aubusson-Man-in-Blue-4560.html				pending
+desirade	Desirade		female	https://www.fragrantica.com/perfume/Aubusson/Desirade-4561.html				pending
+desirade-my-desire	Desirade My Desire		female	https://www.fragrantica.com/perfume/Aubusson/Desirade-My-Desire-28072.html				pending
+fleur-de-desirade	Fleur de Desirade		female	https://www.fragrantica.com/perfume/Aubusson/Fleur-de-Desirade-39412.html				pending
+futuros	Futuros		male	https://www.fragrantica.com/perfume/Aubusson/Futuros-38368.html				pending
+histoire-damour	Histoire D'Amour		female	https://www.fragrantica.com/perfume/Aubusson/Histoire-D-Amour-4549.html				pending
+histoire-damour-2	Histoire D'Amour 2		female	https://www.fragrantica.com/perfume/Aubusson/Histoire-D-Amour-2-4551.html				pending
+histoire-damour-cherie	Histoire D'Amour Cherie		female	https://www.fragrantica.com/perfume/Aubusson/Histoire-D-Amour-Cherie-28071.html				pending
+liquid-amber	Liquid Amber		female	https://www.fragrantica.com/perfume/Aubusson/Liquid-Amber-63488.html				pending
+lush-neroli	Lush Neroli		female	https://www.fragrantica.com/perfume/Aubusson/Lush-Neroli-63489.html				pending
+man-aubusson	man.aubusson		male	https://www.fragrantica.com/perfume/Aubusson/man-aubusson-4552.html				pending
+man-aubusson-intense	man.aubusson Intense		male	https://www.fragrantica.com/perfume/Aubusson/man-aubusson-Intense-28073.html				pending
+perle-daubusson	Perle d'Aubusson		female	https://www.fragrantica.com/perfume/Aubusson/Perle-d-Aubusson-4553.html				pending
+perlissima-daubusson	Perlissima d'Aubusson		female	https://www.fragrantica.com/perfume/Aubusson/Perlissima-d-Aubusson-4555.html				pending
+plush-leather	Plush Leather		male	https://www.fragrantica.com/perfume/Aubusson/Plush-Leather-63490.html				pending
+radiant-iris	Radiant Iris		female	https://www.fragrantica.com/perfume/Aubusson/Radiant-Iris-63487.html				pending
+salted-vetiver	Salted Vetiver		male	https://www.fragrantica.com/perfume/Aubusson/Salted-Vetiver-63492.html				pending
+velvet-rose	Velvet Rose		female	https://www.fragrantica.com/perfume/Aubusson/Velvet-Rose-63493.html				pending

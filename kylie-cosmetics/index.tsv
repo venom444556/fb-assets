@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blush-wood	Blush Wood		female		https://www.fragrantica.com/perfume/Kylie-Cosmetics/Blush-Wood-138317.html				pending
-caramel-cloud	Caramel Cloud		female		https://www.fragrantica.com/perfume/Kylie-Cosmetics/Caramel-Cloud-117346.html				pending
-cashmere-muse	Cashmere Muse		female		https://www.fragrantica.com/perfume/Kylie-Cosmetics/Cashmere-Muse-138316.html				pending
-cosmic-2-0	Cosmic 2.0		female		https://www.fragrantica.com/perfume/Kylie-Cosmetics/Cosmic-2-0-103467.html				pending
-cosmic-kylie-jenner	Cosmic Kylie Jenner		female		https://www.fragrantica.com/perfume/Kylie-Cosmetics/Cosmic-Kylie-Jenner-90957.html				pending
-cosmic-kylie-jenner-intense	Cosmic Kylie Jenner Intense		female		https://www.fragrantica.com/perfume/Kylie-Cosmetics/Cosmic-Kylie-Jenner-Intense-122462.html				pending
-sweet-eclair	Sweet Éclair		female		https://www.fragrantica.com/perfume/Kylie-Cosmetics/Sweet-Eclair-117347.html				pending
-vanilla-dew	Vanilla Dew		female		https://www.fragrantica.com/perfume/Kylie-Cosmetics/Vanilla-Dew-117345.html				pending
-velvet-brew	Velvet Brew		female		https://www.fragrantica.com/perfume/Kylie-Cosmetics/Velvet-Brew-138315.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blush-wood	Blush Wood		female	https://www.fragrantica.com/perfume/Kylie-Cosmetics/Blush-Wood-138317.html				pending
+caramel-cloud	Caramel Cloud		female	https://www.fragrantica.com/perfume/Kylie-Cosmetics/Caramel-Cloud-117346.html				pending
+cashmere-muse	Cashmere Muse		female	https://www.fragrantica.com/perfume/Kylie-Cosmetics/Cashmere-Muse-138316.html				pending
+cosmic-2-0	Cosmic 2.0		female	https://www.fragrantica.com/perfume/Kylie-Cosmetics/Cosmic-2-0-103467.html				pending
+cosmic-kylie-jenner	Cosmic Kylie Jenner		female	https://www.fragrantica.com/perfume/Kylie-Cosmetics/Cosmic-Kylie-Jenner-90957.html				pending
+cosmic-kylie-jenner-intense	Cosmic Kylie Jenner Intense		female	https://www.fragrantica.com/perfume/Kylie-Cosmetics/Cosmic-Kylie-Jenner-Intense-122462.html				pending
+sweet-eclair	Sweet Éclair		female	https://www.fragrantica.com/perfume/Kylie-Cosmetics/Sweet-Eclair-117347.html				pending
+vanilla-dew	Vanilla Dew		female	https://www.fragrantica.com/perfume/Kylie-Cosmetics/Vanilla-Dew-117345.html				pending
+velvet-brew	Velvet Brew		female	https://www.fragrantica.com/perfume/Kylie-Cosmetics/Velvet-Brew-138315.html				pending

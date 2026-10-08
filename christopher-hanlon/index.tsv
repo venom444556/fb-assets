@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-cockatoo	Black Cockatoo		male		https://www.fragrantica.com/perfume/Christopher-Hanlon/Black-Cockatoo-68377.html				pending
-black-jasmine-rose	Black Jasmine Rose		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/Black-Jasmine-Rose-68391.html				pending
-colonial-gold	Colonial Gold		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/Colonial-Gold-68379.html				pending
-convict-diamond	Convict Diamond		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/Convict-Diamond-68396.html				pending
-gold-rush	Gold Rush		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/Gold-Rush-68389.html				pending
-melbourne-amber-musk	Melbourne Amber Musk		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/Melbourne-Amber-Musk-68395.html				pending
-ned-kelly-titanium	Ned Kelly Titanium		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/Ned-Kelly-Titanium-68394.html				pending
-new-bluegum-amber	New Bluegum Amber		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/New-Bluegum-Amber-68399.html				pending
-new-grand-crown	New Grand Crown		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/New-Grand-Crown-68397.html				pending
-new-ormeau-oud	New Ormeau Oud		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/New-Ormeau-Oud-68398.html				pending
-outback-sapphire	Outback Sapphire		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/Outback-Sapphire-68378.html				pending
-rocks-gold	Rocks Gold		male		https://www.fragrantica.com/perfume/Christopher-Hanlon/Rocks-Gold-68390.html				pending
-royal-banksia	Royal Banksia		female		https://www.fragrantica.com/perfume/Christopher-Hanlon/Royal-Banksia-68376.html				pending
-royal-sovereign	Royal Sovereign		unisex		https://www.fragrantica.com/perfume/Christopher-Hanlon/Royal-Sovereign-68392.html				pending
-silver-penny	Silver Penny		male		https://www.fragrantica.com/perfume/Christopher-Hanlon/Silver-Penny-68375.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-cockatoo	Black Cockatoo		male	https://www.fragrantica.com/perfume/Christopher-Hanlon/Black-Cockatoo-68377.html				pending
+black-jasmine-rose	Black Jasmine Rose		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Black-Jasmine-Rose-68391.html				pending
+colonial-gold	Colonial Gold		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Colonial-Gold-68379.html				pending
+convict-diamond	Convict Diamond		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Convict-Diamond-68396.html				pending
+gold-rush	Gold Rush		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Gold-Rush-68389.html				pending
+melbourne-amber-musk	Melbourne Amber Musk		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Melbourne-Amber-Musk-68395.html				pending
+ned-kelly-titanium	Ned Kelly Titanium		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Ned-Kelly-Titanium-68394.html				pending
+new-bluegum-amber	New Bluegum Amber		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/New-Bluegum-Amber-68399.html				pending
+new-grand-crown	New Grand Crown		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/New-Grand-Crown-68397.html				pending
+new-ormeau-oud	New Ormeau Oud		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/New-Ormeau-Oud-68398.html				pending
+outback-sapphire	Outback Sapphire		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Outback-Sapphire-68378.html				pending
+rocks-gold	Rocks Gold		male	https://www.fragrantica.com/perfume/Christopher-Hanlon/Rocks-Gold-68390.html				pending
+royal-banksia	Royal Banksia		female	https://www.fragrantica.com/perfume/Christopher-Hanlon/Royal-Banksia-68376.html				pending
+royal-sovereign	Royal Sovereign		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Royal-Sovereign-68392.html				pending
+silver-penny	Silver Penny		male	https://www.fragrantica.com/perfume/Christopher-Hanlon/Silver-Penny-68375.html				pending

@@ -1,34 +1,34 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-angel-dust	Angel Dust		unisex		https://www.fragrantica.com/perfume/Fugazzi/Angel-Dust-73921.html				pending
-angel-dust-108493	Angel Dust		unisex		https://www.fragrantica.com/perfume/Fugazzi/Angel-Dust-108493.html				pending
-borntostandout-by-fugazzi	BORNTOSTANDOUT® by FUGAZZI		unisex		https://www.fragrantica.com/perfume/Fugazzi/BORNTOSTANDOUT-by-FUGAZZI-99256.html				pending
-cash-flower	Cash Flower		unisex		https://www.fragrantica.com/perfume/Fugazzi/Cash-Flower-81519.html				pending
-cloudh-nine	Cloudh Nine		unisex		https://www.fragrantica.com/perfume/Fugazzi/Cloudh-Nine-126873.html				pending
-fugazzi-parfum-1	Fugazzi Parfum 1		unisex		https://www.fragrantica.com/perfume/Fugazzi/Fugazzi-Parfum-1-59675.html				pending
-fugazzi-parfum-4-workaholic	Fugazzi Parfum 4 Workaholic		unisex		https://www.fragrantica.com/perfume/Fugazzi/Fugazzi-Parfum-4-Workaholic-59678.html				pending
-goudh	Goudh		unisex		https://www.fragrantica.com/perfume/Fugazzi/Goudh-66537.html				pending
-hema	Hema		unisex		https://www.fragrantica.com/perfume/Fugazzi/Hema-132406.html				pending
-in-love-with-the-cocos	In Love With The Cocos		unisex		https://www.fragrantica.com/perfume/Fugazzi/In-Love-With-The-Cocos-66538.html				pending
-magic-mango	Magic Mango		unisex		https://www.fragrantica.com/perfume/Fugazzi/Magic-Mango-105830.html				pending
-matchabuya	Matchabuya		unisex		https://www.fragrantica.com/perfume/Fugazzi/Matchabuya-123333.html				pending
-miauw-miauw	Miauw Miauw		unisex		https://www.fragrantica.com/perfume/Fugazzi/Miauw-Miauw-139518.html				pending
-mood-swings	Mood Swings		unisex		https://www.fragrantica.com/perfume/Fugazzi/Mood-Swings-90485.html				pending
-nicocello	Nicocello		unisex		https://www.fragrantica.com/perfume/Fugazzi/Nicocello-130507.html				pending
-nocologne	NoCologne		unisex		https://www.fragrantica.com/perfume/Fugazzi/NoCologne-81518.html				pending
-orange-crush	Orange Crush		unisex		https://www.fragrantica.com/perfume/Fugazzi/Orange-Crush-73920.html				pending
-orange-crush-extrait-de-parfum	Orange Crush Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Fugazzi/Orange-Crush-Extrait-de-Parfum-107684.html				pending
-parfum-5-thirsty	Parfum 5 Thirsty		unisex		https://www.fragrantica.com/perfume/Fugazzi/Parfum-5-Thirsty-60692.html				pending
-passionfroudh	Passionfroudh		unisex		https://www.fragrantica.com/perfume/Fugazzi/Passionfroudh-102896.html				pending
-pomegranoudh	Pomegranoudh		unisex		https://www.fragrantica.com/perfume/Fugazzi/Pomegranoudh-127883.html				pending
-purple	Purple		unisex		https://www.fragrantica.com/perfume/Fugazzi/Purple-108328.html				pending
-saint-remy	Saint Rémy		unisex		https://www.fragrantica.com/perfume/Fugazzi/Saint-Remy-66535.html				pending
-sugardaddy	Sugardaddy		unisex		https://www.fragrantica.com/perfume/Fugazzi/Sugardaddy-66510.html				pending
-vanilla-haze	Vanilla Haze		unisex		https://www.fragrantica.com/perfume/Fugazzi/Vanilla-Haze-95955.html				pending
-vanilla-haze-extrait-de-parfum	Vanilla Haze Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Fugazzi/Vanilla-Haze-Extrait-de-Parfum-113631.html				pending
-four-cashmere-comfort	FOUR Cashmere Comfort		unisex		https://www.fragrantica.com/perfume/Fugazzi/FOUR-Cashmere-Comfort-80378.html				pending
-four-lush-linen	FOUR Lush Linen		unisex		https://www.fragrantica.com/perfume/Fugazzi/FOUR-Lush-Linen-80381.html				pending
-four-smooth-suede	FOUR Smooth Suede		unisex		https://www.fragrantica.com/perfume/Fugazzi/FOUR-Smooth-Suede-80380.html				pending
-four-vibrant-velvet	FOUR Vibrant Velvet		unisex		https://www.fragrantica.com/perfume/Fugazzi/FOUR-Vibrant-Velvet-80379.html				pending
-fugazzi-parfum-2-oud-of-office	Fugazzi Parfum 2 OUD Of Office		unisex		https://www.fragrantica.com/perfume/Fugazzi/Fugazzi-Parfum-2-OUD-Of-Office-59676.html				pending
-fugazzi-parfum-3-restathome	Fugazzi Parfum 3 RestatHome		unisex		https://www.fragrantica.com/perfume/Fugazzi/Fugazzi-Parfum-3-RestatHome-59677.html				pending
-santa-monica	Santa Monica		unisex		https://www.fragrantica.com/perfume/Fugazzi/Santa-Monica-80382.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+angel-dust	Angel Dust		unisex	https://www.fragrantica.com/perfume/Fugazzi/Angel-Dust-73921.html				pending
+angel-dust-108493	Angel Dust		unisex	https://www.fragrantica.com/perfume/Fugazzi/Angel-Dust-108493.html				pending
+borntostandout-by-fugazzi	BORNTOSTANDOUT® by FUGAZZI		unisex	https://www.fragrantica.com/perfume/Fugazzi/BORNTOSTANDOUT-by-FUGAZZI-99256.html				pending
+cash-flower	Cash Flower		unisex	https://www.fragrantica.com/perfume/Fugazzi/Cash-Flower-81519.html				pending
+cloudh-nine	Cloudh Nine		unisex	https://www.fragrantica.com/perfume/Fugazzi/Cloudh-Nine-126873.html				pending
+four-cashmere-comfort	FOUR Cashmere Comfort		unisex	https://www.fragrantica.com/perfume/Fugazzi/FOUR-Cashmere-Comfort-80378.html				pending
+four-lush-linen	FOUR Lush Linen		unisex	https://www.fragrantica.com/perfume/Fugazzi/FOUR-Lush-Linen-80381.html				pending
+four-smooth-suede	FOUR Smooth Suede		unisex	https://www.fragrantica.com/perfume/Fugazzi/FOUR-Smooth-Suede-80380.html				pending
+four-vibrant-velvet	FOUR Vibrant Velvet		unisex	https://www.fragrantica.com/perfume/Fugazzi/FOUR-Vibrant-Velvet-80379.html				pending
+fugazzi-parfum-1	Fugazzi Parfum 1		unisex	https://www.fragrantica.com/perfume/Fugazzi/Fugazzi-Parfum-1-59675.html				pending
+fugazzi-parfum-2-oud-of-office	Fugazzi Parfum 2 OUD Of Office		unisex	https://www.fragrantica.com/perfume/Fugazzi/Fugazzi-Parfum-2-OUD-Of-Office-59676.html				pending
+fugazzi-parfum-3-restathome	Fugazzi Parfum 3 RestatHome		unisex	https://www.fragrantica.com/perfume/Fugazzi/Fugazzi-Parfum-3-RestatHome-59677.html				pending
+fugazzi-parfum-4-workaholic	Fugazzi Parfum 4 Workaholic		unisex	https://www.fragrantica.com/perfume/Fugazzi/Fugazzi-Parfum-4-Workaholic-59678.html				pending
+goudh	Goudh		unisex	https://www.fragrantica.com/perfume/Fugazzi/Goudh-66537.html				pending
+hema	Hema		unisex	https://www.fragrantica.com/perfume/Fugazzi/Hema-132406.html				pending
+in-love-with-the-cocos	In Love With The Cocos		unisex	https://www.fragrantica.com/perfume/Fugazzi/In-Love-With-The-Cocos-66538.html				pending
+magic-mango	Magic Mango		unisex	https://www.fragrantica.com/perfume/Fugazzi/Magic-Mango-105830.html				pending
+matchabuya	Matchabuya		unisex	https://www.fragrantica.com/perfume/Fugazzi/Matchabuya-123333.html				pending
+miauw-miauw	Miauw Miauw		unisex	https://www.fragrantica.com/perfume/Fugazzi/Miauw-Miauw-139518.html				pending
+mood-swings	Mood Swings		unisex	https://www.fragrantica.com/perfume/Fugazzi/Mood-Swings-90485.html				pending
+nicocello	Nicocello		unisex	https://www.fragrantica.com/perfume/Fugazzi/Nicocello-130507.html				pending
+nocologne	NoCologne		unisex	https://www.fragrantica.com/perfume/Fugazzi/NoCologne-81518.html				pending
+orange-crush	Orange Crush		unisex	https://www.fragrantica.com/perfume/Fugazzi/Orange-Crush-73920.html				pending
+orange-crush-extrait-de-parfum	Orange Crush Extrait de Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Fugazzi/Orange-Crush-Extrait-de-Parfum-107684.html				pending
+parfum-5-thirsty	Parfum 5 Thirsty		unisex	https://www.fragrantica.com/perfume/Fugazzi/Parfum-5-Thirsty-60692.html				pending
+passionfroudh	Passionfroudh		unisex	https://www.fragrantica.com/perfume/Fugazzi/Passionfroudh-102896.html				pending
+pomegranoudh	Pomegranoudh		unisex	https://www.fragrantica.com/perfume/Fugazzi/Pomegranoudh-127883.html				pending
+purple	Purple		unisex	https://www.fragrantica.com/perfume/Fugazzi/Purple-108328.html				pending
+saint-remy	Saint Rémy		unisex	https://www.fragrantica.com/perfume/Fugazzi/Saint-Remy-66535.html				pending
+santa-monica	Santa Monica		unisex	https://www.fragrantica.com/perfume/Fugazzi/Santa-Monica-80382.html				pending
+sugardaddy	Sugardaddy		unisex	https://www.fragrantica.com/perfume/Fugazzi/Sugardaddy-66510.html				pending
+vanilla-haze	Vanilla Haze		unisex	https://www.fragrantica.com/perfume/Fugazzi/Vanilla-Haze-95955.html				pending
+vanilla-haze-extrait-de-parfum	Vanilla Haze Extrait de Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Fugazzi/Vanilla-Haze-Extrait-de-Parfum-113631.html				pending

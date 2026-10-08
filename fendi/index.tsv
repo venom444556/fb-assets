@@ -1,38 +1,38 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-casa-grande	Casa Grande		unisex		https://www.fragrantica.com/perfume/Fendi/Casa-Grande-93158.html				pending
-celebration	Celebration		female		https://www.fragrantica.com/perfume/Fendi/Celebration-199.html				pending
-dolce-bacio	Dolce Bacio		unisex		https://www.fragrantica.com/perfume/Fendi/Dolce-Bacio-93159.html				pending
-eaux-dartifice	Eaux d'Artifice		unisex		https://www.fragrantica.com/perfume/Fendi/Eaux-d-Artifice-111346.html				pending
-fan-di-fendi	Fan di Fendi		female		https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-9290.html				pending
-fan-di-fendi-blossom	Fan di Fendi Blossom		female		https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Blossom-23253.html				pending
-fan-di-fendi-eau-de-toilette	Fan di Fendi Eau de Toilette		female		https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Eau-de-Toilette-12570.html				pending
-fan-di-fendi-eau-fraiche	Fan di Fendi Eau Fraiche		female		https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Eau-Fraiche-17332.html				pending
-fan-di-fendi-extreme	Fan di Fendi Extreme		female		https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Extreme-15726.html				pending
-fan-di-fendi-leather-essence	Fan di Fendi Leather Essence		female		https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Leather-Essence-23617.html				pending
-fan-di-fendi-pour-homme	Fan di Fendi pour Homme		male		https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-pour-Homme-15725.html				pending
-fan-di-fendi-pour-homme-acqua	Fan di Fendi pour Homme Acqua		male		https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-pour-Homme-Acqua-18154.html				pending
-fan-di-fendi-pour-homme-assoluto	Fan di Fendi Pour Homme Assoluto		male		https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Pour-Homme-Assoluto-23136.html				pending
-fendi-2004	Fendi 2004		female		https://www.fragrantica.com/perfume/Fendi/Fendi-2004-4265.html				pending
-fendi-theorema-leggero	Fendi Theorema Leggero		female		https://www.fragrantica.com/perfume/Fendi/Fendi-Theorema-Leggero-197.html				pending
-furiosa	Furiosa		female		https://www.fragrantica.com/perfume/Fendi/Furiosa-25838.html				pending
-lacquarossa	L'Acquarossa		female		https://www.fragrantica.com/perfume/Fendi/L-Acquarossa-18706.html				pending
-lacquarossa-eau-de-toilette	L'Acquarossa Eau de Toilette		female		https://www.fragrantica.com/perfume/Fendi/L-Acquarossa-Eau-de-Toilette-26071.html				pending
-lacquarossa-elixir	L'Acquarossa Elixir		female		https://www.fragrantica.com/perfume/Fendi/L-Acquarossa-Elixir-30459.html				pending
-la-baguette	La Baguette		unisex		https://www.fragrantica.com/perfume/Fendi/La-Baguette-93162.html				pending
-palazzo	Palazzo		female		https://www.fragrantica.com/perfume/Fendi/Palazzo-1594.html				pending
-palazzo-fendi-eau-de-toilette	Palazzo Fendi Eau de Toilette		female		https://www.fragrantica.com/perfume/Fendi/Palazzo-Fendi-Eau-de-Toilette-4266.html				pending
-perche-no	Perche No		unisex		https://www.fragrantica.com/perfume/Fendi/Perche-No-93160.html				pending
-sempre-mio	Sempre Mio		unisex		https://www.fragrantica.com/perfume/Fendi/Sempre-Mio-93164.html				pending
-theorema-uomo	Theorema Uomo		male		https://www.fragrantica.com/perfume/Fendi/Theorema-Uomo-198.html				pending
-ambre-romain	Ambre Romain		unisex		https://www.fragrantica.com/perfume/Fendi/Ambre-Romain-68659.html				pending
-asja-fendi	Asja Fendi		female		https://www.fragrantica.com/perfume/Fendi/Asja-Fendi-1305.html				pending
-ciao-amore	Ciao Amore		unisex		https://www.fragrantica.com/perfume/Fendi/Ciao-Amore-93161.html				pending
-fantasia-fendi	Fantasia Fendi		female		https://www.fragrantica.com/perfume/Fendi/Fantasia-Fendi-1306.html				pending
-fendi	Fendi		female		https://www.fragrantica.com/perfume/Fendi/Fendi-200.html				pending
-fendi-for-men	Fendi for Men		male		https://www.fragrantica.com/perfume/Fendi/Fendi-for-Men-202.html				pending
-fendi-theorema	Fendi Theorema		female		https://www.fragrantica.com/perfume/Fendi/Fendi-Theorema-196.html				pending
-fendi-uomo	Fendi Uomo		male		https://www.fragrantica.com/perfume/Fendi/Fendi-Uomo-2876.html				pending
-life-essence	Life Essence		male		https://www.fragrantica.com/perfume/Fendi/Life-Essence-203.html				pending
-prima-terra	Prima Terra		unisex		https://www.fragrantica.com/perfume/Fendi/Prima-Terra-93163.html				pending
-theorema-esprit-dete	Theorema Esprit d'Ete		female		https://www.fragrantica.com/perfume/Fendi/Theorema-Esprit-d-Ete-7014.html				pending
-theorema-leggero-for-summer	Theorema Leggero for Summer		female		https://www.fragrantica.com/perfume/Fendi/Theorema-Leggero-for-Summer-25299.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-romain	Ambre Romain		unisex	https://www.fragrantica.com/perfume/Fendi/Ambre-Romain-68659.html				pending
+asja-fendi	Asja Fendi		female	https://www.fragrantica.com/perfume/Fendi/Asja-Fendi-1305.html				pending
+casa-grande	Casa Grande		unisex	https://www.fragrantica.com/perfume/Fendi/Casa-Grande-93158.html				pending
+celebration	Celebration		female	https://www.fragrantica.com/perfume/Fendi/Celebration-199.html				pending
+ciao-amore	Ciao Amore		unisex	https://www.fragrantica.com/perfume/Fendi/Ciao-Amore-93161.html				pending
+dolce-bacio	Dolce Bacio		unisex	https://www.fragrantica.com/perfume/Fendi/Dolce-Bacio-93159.html				pending
+eaux-dartifice	Eaux d'Artifice		unisex	https://www.fragrantica.com/perfume/Fendi/Eaux-d-Artifice-111346.html				pending
+fan-di-fendi	Fan di Fendi		female	https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-9290.html				pending
+fan-di-fendi-blossom	Fan di Fendi Blossom		female	https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Blossom-23253.html				pending
+fan-di-fendi-eau-de-toilette	Fan di Fendi Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Eau-de-Toilette-12570.html				pending
+fan-di-fendi-eau-fraiche	Fan di Fendi Eau Fraiche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Eau-Fraiche-17332.html				pending
+fan-di-fendi-extreme	Fan di Fendi Extreme		female	https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Extreme-15726.html				pending
+fan-di-fendi-leather-essence	Fan di Fendi Leather Essence		female	https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Leather-Essence-23617.html				pending
+fan-di-fendi-pour-homme	Fan di Fendi pour Homme		male	https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-pour-Homme-15725.html				pending
+fan-di-fendi-pour-homme-acqua	Fan di Fendi pour Homme Acqua		male	https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-pour-Homme-Acqua-18154.html				pending
+fan-di-fendi-pour-homme-assoluto	Fan di Fendi Pour Homme Assoluto		male	https://www.fragrantica.com/perfume/Fendi/Fan-di-Fendi-Pour-Homme-Assoluto-23136.html				pending
+fantasia-fendi	Fantasia Fendi		female	https://www.fragrantica.com/perfume/Fendi/Fantasia-Fendi-1306.html				pending
+fendi	Fendi		female	https://www.fragrantica.com/perfume/Fendi/Fendi-200.html				pending
+fendi-2004	Fendi 2004		female	https://www.fragrantica.com/perfume/Fendi/Fendi-2004-4265.html				pending
+fendi-for-men	Fendi for Men		male	https://www.fragrantica.com/perfume/Fendi/Fendi-for-Men-202.html				pending
+fendi-theorema	Fendi Theorema		female	https://www.fragrantica.com/perfume/Fendi/Fendi-Theorema-196.html				pending
+fendi-theorema-leggero	Fendi Theorema Leggero		female	https://www.fragrantica.com/perfume/Fendi/Fendi-Theorema-Leggero-197.html				pending
+fendi-uomo	Fendi Uomo		male	https://www.fragrantica.com/perfume/Fendi/Fendi-Uomo-2876.html				pending
+furiosa	Furiosa		female	https://www.fragrantica.com/perfume/Fendi/Furiosa-25838.html				pending
+lacquarossa	L'Acquarossa		female	https://www.fragrantica.com/perfume/Fendi/L-Acquarossa-18706.html				pending
+lacquarossa-eau-de-toilette	L'Acquarossa Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Fendi/L-Acquarossa-Eau-de-Toilette-26071.html				pending
+lacquarossa-elixir	L'Acquarossa Elixir		female	https://www.fragrantica.com/perfume/Fendi/L-Acquarossa-Elixir-30459.html				pending
+la-baguette	La Baguette		unisex	https://www.fragrantica.com/perfume/Fendi/La-Baguette-93162.html				pending
+life-essence	Life Essence		male	https://www.fragrantica.com/perfume/Fendi/Life-Essence-203.html				pending
+palazzo	Palazzo		female	https://www.fragrantica.com/perfume/Fendi/Palazzo-1594.html				pending
+palazzo-fendi-eau-de-toilette	Palazzo Fendi Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Fendi/Palazzo-Fendi-Eau-de-Toilette-4266.html				pending
+perche-no	Perche No		unisex	https://www.fragrantica.com/perfume/Fendi/Perche-No-93160.html				pending
+prima-terra	Prima Terra		unisex	https://www.fragrantica.com/perfume/Fendi/Prima-Terra-93163.html				pending
+sempre-mio	Sempre Mio		unisex	https://www.fragrantica.com/perfume/Fendi/Sempre-Mio-93164.html				pending
+theorema-esprit-dete	Theorema Esprit d'Ete		female	https://www.fragrantica.com/perfume/Fendi/Theorema-Esprit-d-Ete-7014.html				pending
+theorema-leggero-for-summer	Theorema Leggero for Summer		female	https://www.fragrantica.com/perfume/Fendi/Theorema-Leggero-for-Summer-25299.html				pending
+theorema-uomo	Theorema Uomo		male	https://www.fragrantica.com/perfume/Fendi/Theorema-Uomo-198.html				pending

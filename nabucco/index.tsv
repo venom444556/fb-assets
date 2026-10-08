@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amatys-parfum-fin	Amatys Parfum Fin		female		https://www.fragrantica.com/perfume/Nabucco/Amatys-Parfum-Fin-11715.html				pending
-gphl-parfum-fin	GPHL Parfum Fin		unisex		https://www.fragrantica.com/perfume/Nabucco/GPHL-Parfum-Fin-26646.html				pending
-nabucco-parfum-fin	Nabucco Parfum Fin		male		https://www.fragrantica.com/perfume/Nabucco/Nabucco-Parfum-Fin-11714.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amatys-parfum-fin	Amatys Parfum Fin		female	https://www.fragrantica.com/perfume/Nabucco/Amatys-Parfum-Fin-11715.html				pending
+gphl-parfum-fin	GPHL Parfum Fin		unisex	https://www.fragrantica.com/perfume/Nabucco/GPHL-Parfum-Fin-26646.html				pending
+nabucco-parfum-fin	Nabucco Parfum Fin		male	https://www.fragrantica.com/perfume/Nabucco/Nabucco-Parfum-Fin-11714.html				pending

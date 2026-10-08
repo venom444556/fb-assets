@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-atmosfere-toscane	Atmosfere Toscane		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Atmosfere-Toscane-74218.html				pending
-berganote	BergaNote		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/BergaNote-74223.html				pending
-blu-tirreno	Blu Tirreno		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Blu-Tirreno-74220.html				pending
-dimmenso	D'Immenso		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/D-Immenso-74221.html				pending
-deep-sea	Deep SeA		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Deep-SeA-94192.html				pending
-elicriso	Elicriso		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Elicriso-74219.html				pending
-oniricum	Oniricum		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Oniricum-89779.html				pending
-speziale	SpeZiale		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/SpeZiale-74222.html				pending
-stra-figo	Stra-fiGo		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Stra-fiGo-81823.html				pending
-the-spectacular-quiet	The Spectacular Quiet		unisex		https://www.fragrantica.com/perfume/Ermetiche-Fragranze/The-Spectacular-Quiet-74224.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+atmosfere-toscane	Atmosfere Toscane		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Atmosfere-Toscane-74218.html				pending
+berganote	BergaNote		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/BergaNote-74223.html				pending
+blu-tirreno	Blu Tirreno		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Blu-Tirreno-74220.html				pending
+dimmenso	D'Immenso		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/D-Immenso-74221.html				pending
+deep-sea	Deep SeA		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Deep-SeA-94192.html				pending
+elicriso	Elicriso		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Elicriso-74219.html				pending
+oniricum	Oniricum		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Oniricum-89779.html				pending
+speziale	SpeZiale		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/SpeZiale-74222.html				pending
+stra-figo	Stra-fiGo		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/Stra-fiGo-81823.html				pending
+the-spectacular-quiet	The Spectacular Quiet		unisex	https://www.fragrantica.com/perfume/Ermetiche-Fragranze/The-Spectacular-Quiet-74224.html				pending

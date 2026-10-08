@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-exaltant-de-chocolat	Exaltant de Chocolat		female		https://www.fragrantica.com/perfume/Serge-Dumonten/Exaltant-de-Chocolat-47171.html				pending
-kristin	Kristin		female		https://www.fragrantica.com/perfume/Serge-Dumonten/Kristin-47173.html				pending
-miss-dumonten	Miss Dumonten		female		https://www.fragrantica.com/perfume/Serge-Dumonten/Miss-Dumonten-47177.html				pending
-black-narcotique	Black Narcotique		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Black-Narcotique-65110.html				pending
-daniel	Daniel		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Daniel-47175.html				pending
-elixir-narcotique	Elixir Narcotique		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Elixir-Narcotique-65111.html				pending
-isabelle	Isabelle		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Isabelle-91637.html				pending
-jean-marais	Jean Marais		male		https://www.fragrantica.com/perfume/Serge-Dumonten/Jean-Marais-47174.html				pending
-kill-me-softly	Kill me softly		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Kill-me-softly-65112.html				pending
-la-baiser-de-la-pluie	La Baiser De La Pluie		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/La-Baiser-De-La-Pluie-47179.html				pending
-le-baiser-de-lange	Le Baiser De L'Ange		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Le-Baiser-De-L-Ange-65114.html				pending
-le-chocolat-de-vanille	Le Chocolat de Vanille		female		https://www.fragrantica.com/perfume/Serge-Dumonten/Le-Chocolat-de-Vanille-47172.html				pending
-le-code-de-seduction	Le code de seduction		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Le-code-de-seduction-91638.html				pending
-lotus	Lotus		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Lotus-47176.html				pending
-mademoiselle-dumonten	Mademoiselle Dumonten		female		https://www.fragrantica.com/perfume/Serge-Dumonten/Mademoiselle-Dumonten-65116.html				pending
-marc-antoine	Marc Antoine		male		https://www.fragrantica.com/perfume/Serge-Dumonten/Marc-Antoine-65117.html				pending
-mystic-rose	Mystic Rose		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Mystic-Rose-65115.html				pending
-otium	Otium		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Otium-91749.html				pending
-prince-of-darkness	Prince of Darkness		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Prince-of-Darkness-65113.html				pending
-psyche	Psyché		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Psyche-91751.html				pending
-sanctum	Sanctum		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Sanctum-91750.html				pending
-summer-rain	Summer Rain		unisex		https://www.fragrantica.com/perfume/Serge-Dumonten/Summer-Rain-91639.html				pending
-ton-sommeil	Ton Sommeil		female		https://www.fragrantica.com/perfume/Serge-Dumonten/Ton-Sommeil-47178.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-narcotique	Black Narcotique		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Black-Narcotique-65110.html				pending
+daniel	Daniel		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Daniel-47175.html				pending
+elixir-narcotique	Elixir Narcotique		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Elixir-Narcotique-65111.html				pending
+exaltant-de-chocolat	Exaltant de Chocolat		female	https://www.fragrantica.com/perfume/Serge-Dumonten/Exaltant-de-Chocolat-47171.html				pending
+isabelle	Isabelle		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Isabelle-91637.html				pending
+jean-marais	Jean Marais		male	https://www.fragrantica.com/perfume/Serge-Dumonten/Jean-Marais-47174.html				pending
+kill-me-softly	Kill me softly		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Kill-me-softly-65112.html				pending
+kristin	Kristin		female	https://www.fragrantica.com/perfume/Serge-Dumonten/Kristin-47173.html				pending
+la-baiser-de-la-pluie	La Baiser De La Pluie		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/La-Baiser-De-La-Pluie-47179.html				pending
+le-baiser-de-lange	Le Baiser De L'Ange		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Le-Baiser-De-L-Ange-65114.html				pending
+le-chocolat-de-vanille	Le Chocolat de Vanille		female	https://www.fragrantica.com/perfume/Serge-Dumonten/Le-Chocolat-de-Vanille-47172.html				pending
+le-code-de-seduction	Le code de seduction		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Le-code-de-seduction-91638.html				pending
+lotus	Lotus		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Lotus-47176.html				pending
+mademoiselle-dumonten	Mademoiselle Dumonten		female	https://www.fragrantica.com/perfume/Serge-Dumonten/Mademoiselle-Dumonten-65116.html				pending
+marc-antoine	Marc Antoine		male	https://www.fragrantica.com/perfume/Serge-Dumonten/Marc-Antoine-65117.html				pending
+miss-dumonten	Miss Dumonten		female	https://www.fragrantica.com/perfume/Serge-Dumonten/Miss-Dumonten-47177.html				pending
+mystic-rose	Mystic Rose		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Mystic-Rose-65115.html				pending
+otium	Otium		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Otium-91749.html				pending
+prince-of-darkness	Prince of Darkness		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Prince-of-Darkness-65113.html				pending
+psyche	Psyché		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Psyche-91751.html				pending
+sanctum	Sanctum		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Sanctum-91750.html				pending
+summer-rain	Summer Rain		unisex	https://www.fragrantica.com/perfume/Serge-Dumonten/Summer-Rain-91639.html				pending
+ton-sommeil	Ton Sommeil		female	https://www.fragrantica.com/perfume/Serge-Dumonten/Ton-Sommeil-47178.html				pending

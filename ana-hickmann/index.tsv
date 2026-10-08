@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ana	Ana		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Ana-7828.html				pending
-black-orchid	Black Orchid		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Black-Orchid-27959.html				pending
-donna	Donna		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Donna-56838.html				pending
-donna-bouquet	Donna Bouquet		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Donna-Bouquet-56839.html				pending
-dream	Dream		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Dream-27610.html				pending
-elegance	Elegance		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Elegance-38390.html				pending
-elegance-noir	Elegance Noir		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Elegance-Noir-46872.html				pending
-elegance-rouge	Elegance Rouge		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Elegance-Rouge-62043.html				pending
-gold	Gold		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Gold-27612.html				pending
-gold-in-love	Gold in Love		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Gold-in-Love-27613.html				pending
-gold-in-shadow	Gold in Shadow		male		https://www.fragrantica.com/perfume/Ana-Hickmann/Gold-in-Shadow-27962.html				pending
-jelly	Jelly		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Jelly-27961.html				pending
-lollipop	Lollipop		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Lollipop-27960.html				pending
-midnight-dream	Midnight Dream		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Midnight-Dream-27611.html				pending
-summer-paradise	Summer Paradise		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Summer-Paradise-27609.html				pending
-summer-party	Summer Party		female		https://www.fragrantica.com/perfume/Ana-Hickmann/Summer-Party-27608.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ana	Ana		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Ana-7828.html				pending
+black-orchid	Black Orchid		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Black-Orchid-27959.html				pending
+donna	Donna		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Donna-56838.html				pending
+donna-bouquet	Donna Bouquet		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Donna-Bouquet-56839.html				pending
+dream	Dream		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Dream-27610.html				pending
+elegance	Elegance		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Elegance-38390.html				pending
+elegance-noir	Elegance Noir		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Elegance-Noir-46872.html				pending
+elegance-rouge	Elegance Rouge		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Elegance-Rouge-62043.html				pending
+gold	Gold		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Gold-27612.html				pending
+gold-in-love	Gold in Love		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Gold-in-Love-27613.html				pending
+gold-in-shadow	Gold in Shadow		male	https://www.fragrantica.com/perfume/Ana-Hickmann/Gold-in-Shadow-27962.html				pending
+jelly	Jelly		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Jelly-27961.html				pending
+lollipop	Lollipop		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Lollipop-27960.html				pending
+midnight-dream	Midnight Dream		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Midnight-Dream-27611.html				pending
+summer-paradise	Summer Paradise		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Summer-Paradise-27609.html				pending
+summer-party	Summer Party		female	https://www.fragrantica.com/perfume/Ana-Hickmann/Summer-Party-27608.html				pending

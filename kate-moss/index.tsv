@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-kate	Kate		female		https://www.fragrantica.com/perfume/Kate-Moss/Kate-1485.html				pending
-kate-by-kate-moss-luxury-edition	Kate by Kate Moss Luxury Edition		female		https://www.fragrantica.com/perfume/Kate-Moss/Kate-by-Kate-Moss-Luxury-Edition-2274.html				pending
-kate-summer-time	Kate Summer Time		female		https://www.fragrantica.com/perfume/Kate-Moss/Kate-Summer-Time-5638.html				pending
-lilabelle	Lilabelle		female		https://www.fragrantica.com/perfume/Kate-Moss/Lilabelle-13513.html				pending
-lilabelle-truly-adorable	Lilabelle Truly Adorable		female		https://www.fragrantica.com/perfume/Kate-Moss/Lilabelle-Truly-Adorable-15378.html				pending
-velvet-hour	Velvet Hour		female		https://www.fragrantica.com/perfume/Kate-Moss/Velvet-Hour-3787.html				pending
-vintage	Vintage		female		https://www.fragrantica.com/perfume/Kate-Moss/Vintage-6539.html				pending
-wild-meadow	Wild Meadow		female		https://www.fragrantica.com/perfume/Kate-Moss/Wild-Meadow-8071.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+kate	Kate		female	https://www.fragrantica.com/perfume/Kate-Moss/Kate-1485.html				pending
+kate-by-kate-moss-luxury-edition	Kate by Kate Moss Luxury Edition		female	https://www.fragrantica.com/perfume/Kate-Moss/Kate-by-Kate-Moss-Luxury-Edition-2274.html				pending
+kate-summer-time	Kate Summer Time		female	https://www.fragrantica.com/perfume/Kate-Moss/Kate-Summer-Time-5638.html				pending
+lilabelle	Lilabelle		female	https://www.fragrantica.com/perfume/Kate-Moss/Lilabelle-13513.html				pending
+lilabelle-truly-adorable	Lilabelle Truly Adorable		female	https://www.fragrantica.com/perfume/Kate-Moss/Lilabelle-Truly-Adorable-15378.html				pending
+velvet-hour	Velvet Hour		female	https://www.fragrantica.com/perfume/Kate-Moss/Velvet-Hour-3787.html				pending
+vintage	Vintage		female	https://www.fragrantica.com/perfume/Kate-Moss/Vintage-6539.html				pending
+wild-meadow	Wild Meadow		female	https://www.fragrantica.com/perfume/Kate-Moss/Wild-Meadow-8071.html				pending

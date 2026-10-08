@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bezopasnost	Bezopasnost		unisex		https://www.fragrantica.com/perfume/Theme/Bezopasnost-72762.html				pending
-dominant	Dominant		unisex		https://www.fragrantica.com/perfume/Theme/Dominant-72764.html				pending
-doverie	Doverie		unisex		https://www.fragrantica.com/perfume/Theme/Doverie-72750.html				pending
-iniciacia	Iniciacia		unisex		https://www.fragrantica.com/perfume/Theme/Iniciacia-72751.html				pending
-kontrol	Kontrol		unisex		https://www.fragrantica.com/perfume/Theme/Kontrol-72766.html				pending
-lider	Lider		unisex		https://www.fragrantica.com/perfume/Theme/Lider-73507.html				pending
-nagrada	Nagrada		unisex		https://www.fragrantica.com/perfume/Theme/Nagrada-73508.html				pending
-otmetka	Otmetka		unisex		https://www.fragrantica.com/perfume/Theme/Otmetka-72753.html				pending
-pokornost	Pokornost		unisex		https://www.fragrantica.com/perfume/Theme/Pokornost-72754.html				pending
-pravo	Pravo		unisex		https://www.fragrantica.com/perfume/Theme/Pravo-72768.html				pending
-sabmissiv	Sabmissiv		unisex		https://www.fragrantica.com/perfume/Theme/Sabmissiv-72755.html				pending
-sila	Sila		unisex		https://www.fragrantica.com/perfume/Theme/Sila-72769.html				pending
-svoboda	Svoboda		unisex		https://www.fragrantica.com/perfume/Theme/Svoboda-72756.html				pending
-vlast	Vlast		unisex		https://www.fragrantica.com/perfume/Theme/Vlast-72763.html				pending
-x-mas-niznij-aromat	X MAS Niznij aromat		unisex		https://www.fragrantica.com/perfume/Theme/X-MAS-Niznij-aromat-73511.html				pending
-x-mas-verhnij-aromat	X MAS Verhnij aromat		unisex		https://www.fragrantica.com/perfume/Theme/X-MAS-Verhnij-aromat-73509.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bezopasnost	Bezopasnost		unisex	https://www.fragrantica.com/perfume/Theme/Bezopasnost-72762.html				pending
+dominant	Dominant		unisex	https://www.fragrantica.com/perfume/Theme/Dominant-72764.html				pending
+doverie	Doverie		unisex	https://www.fragrantica.com/perfume/Theme/Doverie-72750.html				pending
+iniciacia	Iniciacia		unisex	https://www.fragrantica.com/perfume/Theme/Iniciacia-72751.html				pending
+kontrol	Kontrol		unisex	https://www.fragrantica.com/perfume/Theme/Kontrol-72766.html				pending
+lider	Lider		unisex	https://www.fragrantica.com/perfume/Theme/Lider-73507.html				pending
+nagrada	Nagrada		unisex	https://www.fragrantica.com/perfume/Theme/Nagrada-73508.html				pending
+otmetka	Otmetka		unisex	https://www.fragrantica.com/perfume/Theme/Otmetka-72753.html				pending
+pokornost	Pokornost		unisex	https://www.fragrantica.com/perfume/Theme/Pokornost-72754.html				pending
+pravo	Pravo		unisex	https://www.fragrantica.com/perfume/Theme/Pravo-72768.html				pending
+sabmissiv	Sabmissiv		unisex	https://www.fragrantica.com/perfume/Theme/Sabmissiv-72755.html				pending
+sila	Sila		unisex	https://www.fragrantica.com/perfume/Theme/Sila-72769.html				pending
+svoboda	Svoboda		unisex	https://www.fragrantica.com/perfume/Theme/Svoboda-72756.html				pending
+vlast	Vlast		unisex	https://www.fragrantica.com/perfume/Theme/Vlast-72763.html				pending
+x-mas-niznij-aromat	X MAS Niznij aromat		unisex	https://www.fragrantica.com/perfume/Theme/X-MAS-Niznij-aromat-73511.html				pending
+x-mas-verhnij-aromat	X MAS Verhnij aromat		unisex	https://www.fragrantica.com/perfume/Theme/X-MAS-Verhnij-aromat-73509.html				pending

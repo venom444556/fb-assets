@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-76	76%		unisex		https://www.fragrantica.com/perfume/Buvard-Parfums/76-66158.html				pending
-8	8		unisex		https://www.fragrantica.com/perfume/Buvard-Parfums/8-66148.html				pending
-border-with-austria-granica-s-avstriej	Border with Austria Granica s Avstriej		unisex		https://www.fragrantica.com/perfume/Buvard-Parfums/Border-with-Austria-Granica-s-Avstriej-66151.html				pending
-bossa-nova	Bossa Nova		unisex		https://www.fragrantica.com/perfume/Buvard-Parfums/Bossa-Nova-66149.html				pending
-boutonniere	Boutonnière		female		https://www.fragrantica.com/perfume/Buvard-Parfums/Boutonniere-66157.html				pending
-fusion	Fusion		unisex		https://www.fragrantica.com/perfume/Buvard-Parfums/Fusion-66159.html				pending
-la-poudre-de-ma-maman	La poudre de ma maman		female		https://www.fragrantica.com/perfume/Buvard-Parfums/La-poudre-de-ma-maman-66152.html				pending
-les-dessous	Les dessous		female		https://www.fragrantica.com/perfume/Buvard-Parfums/Les-dessous-66153.html				pending
-lettre-de-cologne	Lettre de Cologne		unisex		https://www.fragrantica.com/perfume/Buvard-Parfums/Lettre-de-Cologne-66155.html				pending
-nu	Nu		female		https://www.fragrantica.com/perfume/Buvard-Parfums/Nu-66154.html				pending
-semi-sweet-rose	Semi-Sweet Rose		female		https://www.fragrantica.com/perfume/Buvard-Parfums/Semi-Sweet-Rose-66150.html				pending
-the-smell-of-the-sky-zapah-neba	The smell of the sky Zapah neba		unisex		https://www.fragrantica.com/perfume/Buvard-Parfums/The-smell-of-the-sky-Zapah-neba-66156.html				pending
-tobacco-framboise	Tobacco Framboise		unisex		https://www.fragrantica.com/perfume/Buvard-Parfums/Tobacco-Framboise-66147.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+76	76%		unisex	https://www.fragrantica.com/perfume/Buvard-Parfums/76-66158.html				pending
+8	8		unisex	https://www.fragrantica.com/perfume/Buvard-Parfums/8-66148.html				pending
+border-with-austria-granica-s-avstriej	Border with Austria Granica s Avstriej		unisex	https://www.fragrantica.com/perfume/Buvard-Parfums/Border-with-Austria-Granica-s-Avstriej-66151.html				pending
+bossa-nova	Bossa Nova		unisex	https://www.fragrantica.com/perfume/Buvard-Parfums/Bossa-Nova-66149.html				pending
+boutonniere	Boutonnière		female	https://www.fragrantica.com/perfume/Buvard-Parfums/Boutonniere-66157.html				pending
+fusion	Fusion		unisex	https://www.fragrantica.com/perfume/Buvard-Parfums/Fusion-66159.html				pending
+la-poudre-de-ma-maman	La poudre de ma maman		female	https://www.fragrantica.com/perfume/Buvard-Parfums/La-poudre-de-ma-maman-66152.html				pending
+les-dessous	Les dessous		female	https://www.fragrantica.com/perfume/Buvard-Parfums/Les-dessous-66153.html				pending
+lettre-de-cologne	Lettre de Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Buvard-Parfums/Lettre-de-Cologne-66155.html				pending
+nu	Nu		female	https://www.fragrantica.com/perfume/Buvard-Parfums/Nu-66154.html				pending
+semi-sweet-rose	Semi-Sweet Rose		female	https://www.fragrantica.com/perfume/Buvard-Parfums/Semi-Sweet-Rose-66150.html				pending
+the-smell-of-the-sky-zapah-neba	The smell of the sky Zapah neba		unisex	https://www.fragrantica.com/perfume/Buvard-Parfums/The-smell-of-the-sky-Zapah-neba-66156.html				pending
+tobacco-framboise	Tobacco Framboise		unisex	https://www.fragrantica.com/perfume/Buvard-Parfums/Tobacco-Framboise-66147.html				pending

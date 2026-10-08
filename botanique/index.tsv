@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aqua	Aqua		male		https://www.fragrantica.com/perfume/Botanique/Aqua-25028.html				pending
-blanc	Blanc		male		https://www.fragrantica.com/perfume/Botanique/Blanc-25030.html				pending
-bleu	Bleu		male		https://www.fragrantica.com/perfume/Botanique/Bleu-25031.html				pending
-blossom	Blossom		female		https://www.fragrantica.com/perfume/Botanique/Blossom-25032.html				pending
-blush	Blush		female		https://www.fragrantica.com/perfume/Botanique/Blush-22371.html				pending
-citrus	Citrus		male		https://www.fragrantica.com/perfume/Botanique/Citrus-22372.html				pending
-daydream	Daydream		female		https://www.fragrantica.com/perfume/Botanique/Daydream-25033.html				pending
-in-bloom	In Bloom		female		https://www.fragrantica.com/perfume/Botanique/In-Bloom-22373.html				pending
-orchard	Orchard		female		https://www.fragrantica.com/perfume/Botanique/Orchard-22374.html				pending
-rouge	Rouge		male		https://www.fragrantica.com/perfume/Botanique/Rouge-25029.html				pending
-secret-garden	Secret Garden		female		https://www.fragrantica.com/perfume/Botanique/Secret-Garden-22375.html				pending
-spice	Spice		male		https://www.fragrantica.com/perfume/Botanique/Spice-22376.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aqua	Aqua		male	https://www.fragrantica.com/perfume/Botanique/Aqua-25028.html				pending
+blanc	Blanc		male	https://www.fragrantica.com/perfume/Botanique/Blanc-25030.html				pending
+bleu	Bleu		male	https://www.fragrantica.com/perfume/Botanique/Bleu-25031.html				pending
+blossom	Blossom		female	https://www.fragrantica.com/perfume/Botanique/Blossom-25032.html				pending
+blush	Blush		female	https://www.fragrantica.com/perfume/Botanique/Blush-22371.html				pending
+citrus	Citrus		male	https://www.fragrantica.com/perfume/Botanique/Citrus-22372.html				pending
+daydream	Daydream		female	https://www.fragrantica.com/perfume/Botanique/Daydream-25033.html				pending
+in-bloom	In Bloom		female	https://www.fragrantica.com/perfume/Botanique/In-Bloom-22373.html				pending
+orchard	Orchard		female	https://www.fragrantica.com/perfume/Botanique/Orchard-22374.html				pending
+rouge	Rouge		male	https://www.fragrantica.com/perfume/Botanique/Rouge-25029.html				pending
+secret-garden	Secret Garden		female	https://www.fragrantica.com/perfume/Botanique/Secret-Garden-22375.html				pending
+spice	Spice		male	https://www.fragrantica.com/perfume/Botanique/Spice-22376.html				pending

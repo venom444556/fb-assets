@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-balance	Balance		female		https://www.fragrantica.com/perfume/Symetrie/Balance-47549.html				pending
-bliss	Bliss		female		https://www.fragrantica.com/perfume/Symetrie/Bliss-47544.html				pending
-dream	Dream		female		https://www.fragrantica.com/perfume/Symetrie/Dream-47557.html				pending
-embrace	Embrace		female		https://www.fragrantica.com/perfume/Symetrie/Embrace-47556.html				pending
-harmony	Harmony		female		https://www.fragrantica.com/perfume/Symetrie/Harmony-47555.html				pending
-inspire	Inspire		male		https://www.fragrantica.com/perfume/Symetrie/Inspire-47560.html				pending
-journey	Journey		male		https://www.fragrantica.com/perfume/Symetrie/Journey-47562.html				pending
-love	Love		female		https://www.fragrantica.com/perfume/Symetrie/Love-47548.html				pending
-quest	Quest		male		https://www.fragrantica.com/perfume/Symetrie/Quest-47561.html				pending
-vision	Vision		male		https://www.fragrantica.com/perfume/Symetrie/Vision-47559.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+balance	Balance		female	https://www.fragrantica.com/perfume/Symetrie/Balance-47549.html				pending
+bliss	Bliss		female	https://www.fragrantica.com/perfume/Symetrie/Bliss-47544.html				pending
+dream	Dream		female	https://www.fragrantica.com/perfume/Symetrie/Dream-47557.html				pending
+embrace	Embrace		female	https://www.fragrantica.com/perfume/Symetrie/Embrace-47556.html				pending
+harmony	Harmony		female	https://www.fragrantica.com/perfume/Symetrie/Harmony-47555.html				pending
+inspire	Inspire		male	https://www.fragrantica.com/perfume/Symetrie/Inspire-47560.html				pending
+journey	Journey		male	https://www.fragrantica.com/perfume/Symetrie/Journey-47562.html				pending
+love	Love		female	https://www.fragrantica.com/perfume/Symetrie/Love-47548.html				pending
+quest	Quest		male	https://www.fragrantica.com/perfume/Symetrie/Quest-47561.html				pending
+vision	Vision		male	https://www.fragrantica.com/perfume/Symetrie/Vision-47559.html				pending

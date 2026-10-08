@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-brazilian-lily	Brazilian Lily		unisex		https://www.fragrantica.com/perfume/Blocki/Brazilian-Lily-89667.html				pending
-for-walks	For Walks		unisex		https://www.fragrantica.com/perfume/Blocki/For-Walks-34688.html				pending
-kosciuszko	Kosciuszko		male		https://www.fragrantica.com/perfume/Blocki/Kosciuszko-59448.html				pending
-sanrovia	Sanrovia		unisex		https://www.fragrantica.com/perfume/Blocki/Sanrovia-59440.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+brazilian-lily	Brazilian Lily		unisex	https://www.fragrantica.com/perfume/Blocki/Brazilian-Lily-89667.html				pending
+for-walks	For Walks		unisex	https://www.fragrantica.com/perfume/Blocki/For-Walks-34688.html				pending
+kosciuszko	Kosciuszko		male	https://www.fragrantica.com/perfume/Blocki/Kosciuszko-59448.html				pending
+sanrovia	Sanrovia		unisex	https://www.fragrantica.com/perfume/Blocki/Sanrovia-59440.html				pending

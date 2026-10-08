@@ -1,34 +1,34 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cigar-black-oud	Cigar Black Oud		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Black-Oud-37096.html				pending
-cigar-black-wood	Cigar Black Wood		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Black-Wood-37097.html				pending
-exotica	Exotica		female		https://www.fragrantica.com/perfume/Remy-Latour/Exotica-9349.html				pending
-attractive	Attractive		female		https://www.fragrantica.com/perfume/Remy-Latour/Attractive-5677.html				pending
-cigar	Cigar		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-9351.html				pending
-cigar-aromatic-amber	Cigar Aromatic Amber		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Aromatic-Amber-33111.html				pending
-cigar-blue-label	Cigar Blue Label		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Blue-Label-67721.html				pending
-cigar-bois-de-cachemire	Cigar Bois De Cachemire		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Bois-De-Cachemire-33110.html				pending
-cigar-commander	Cigar Commander		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Commander-9352.html				pending
-cigar-essence-de-bois-precieux	Cigar Essence De Bois Precieux		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Essence-De-Bois-Precieux-33107.html				pending
-cigar-iris-de-florence	Cigar Iris De Florence		female		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Iris-De-Florence-33114.html				pending
-cigar-jasmin-de-grasse	Cigar Jasmin De Grasse		female		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Jasmin-De-Grasse-33115.html				pending
-cigar-mystic-scent	Cigar Mystic Scent		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Mystic-Scent-33108.html				pending
-cigar-rose-noire	Cigar Rose Noire		female		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Rose-Noire-33113.html				pending
-cigar-silver-essence	Cigar Silver Essence		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Silver-Essence-33109.html				pending
-cigar-vanille-tonka	Cigar Vanille Tonka		male		https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Vanille-Tonka-33112.html				pending
-diamond-rain	Diamond Rain		female		https://www.fragrantica.com/perfume/Remy-Latour/Diamond-Rain-9348.html				pending
-exception	Exception		female		https://www.fragrantica.com/perfume/Remy-Latour/Exception-22934.html				pending
-france-2000	France 2000		unisex		https://www.fragrantica.com/perfume/Remy-Latour/France-2000-21795.html				pending
-kyriaz	Kyriaz		male		https://www.fragrantica.com/perfume/Remy-Latour/Kyriaz-45108.html				pending
-lelue	L'elue		female		https://www.fragrantica.com/perfume/Remy-Latour/L-elue-5678.html				pending
-lelue-premiere	L'Elue Premiere		female		https://www.fragrantica.com/perfume/Remy-Latour/L-Elue-Premiere-9350.html				pending
-le-spectale	Le Spectale		female		https://www.fragrantica.com/perfume/Remy-Latour/Le-Spectale-93904.html				pending
-lune-dete	Lune d'Ete		female		https://www.fragrantica.com/perfume/Remy-Latour/Lune-d-Ete-5676.html				pending
-manes	Manès		male		https://www.fragrantica.com/perfume/Remy-Latour/Manes-45107.html				pending
-nuit-d-ete-a-paris	Nuit d-Été à Paris		female		https://www.fragrantica.com/perfume/Remy-Latour/Nuit-d-Ete-a-Paris-93905.html				pending
-offshore	Offshore		unisex		https://www.fragrantica.com/perfume/Remy-Latour/Offshore-45109.html				pending
-remy	Remy		female		https://www.fragrantica.com/perfume/Remy-Latour/Remy-21796.html				pending
-remy-latour-intense	Rémy Latour Intense		female		https://www.fragrantica.com/perfume/Remy-Latour/Remy-Latour-Intense-93909.html				pending
-remy-latour-pour-femme	Rémy Latour Pour Femme		female		https://www.fragrantica.com/perfume/Remy-Latour/Remy-Latour-Pour-Femme-93907.html				pending
-remy-latour-pour-homme	Rémy Latour Pour Homme		male		https://www.fragrantica.com/perfume/Remy-Latour/Remy-Latour-Pour-Homme-93908.html				pending
-si-tendre	Si Tendre		female		https://www.fragrantica.com/perfume/Remy-Latour/Si-Tendre-14849.html				pending
-une-ete-a-paris	Une Été à Paris		female		https://www.fragrantica.com/perfume/Remy-Latour/Une-Ete-a-Paris-93906.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+attractive	Attractive		female	https://www.fragrantica.com/perfume/Remy-Latour/Attractive-5677.html				pending
+cigar	Cigar		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-9351.html				pending
+cigar-aromatic-amber	Cigar Aromatic Amber		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Aromatic-Amber-33111.html				pending
+cigar-black-oud	Cigar Black Oud		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Black-Oud-37096.html				pending
+cigar-black-wood	Cigar Black Wood		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Black-Wood-37097.html				pending
+cigar-blue-label	Cigar Blue Label		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Blue-Label-67721.html				pending
+cigar-bois-de-cachemire	Cigar Bois De Cachemire		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Bois-De-Cachemire-33110.html				pending
+cigar-commander	Cigar Commander		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Commander-9352.html				pending
+cigar-essence-de-bois-precieux	Cigar Essence De Bois Precieux		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Essence-De-Bois-Precieux-33107.html				pending
+cigar-iris-de-florence	Cigar Iris De Florence		female	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Iris-De-Florence-33114.html				pending
+cigar-jasmin-de-grasse	Cigar Jasmin De Grasse		female	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Jasmin-De-Grasse-33115.html				pending
+cigar-mystic-scent	Cigar Mystic Scent		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Mystic-Scent-33108.html				pending
+cigar-rose-noire	Cigar Rose Noire		female	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Rose-Noire-33113.html				pending
+cigar-silver-essence	Cigar Silver Essence		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Silver-Essence-33109.html				pending
+cigar-vanille-tonka	Cigar Vanille Tonka		male	https://www.fragrantica.com/perfume/Remy-Latour/Cigar-Vanille-Tonka-33112.html				pending
+diamond-rain	Diamond Rain		female	https://www.fragrantica.com/perfume/Remy-Latour/Diamond-Rain-9348.html				pending
+exception	Exception		female	https://www.fragrantica.com/perfume/Remy-Latour/Exception-22934.html				pending
+exotica	Exotica		female	https://www.fragrantica.com/perfume/Remy-Latour/Exotica-9349.html				pending
+france-2000	France 2000		unisex	https://www.fragrantica.com/perfume/Remy-Latour/France-2000-21795.html				pending
+kyriaz	Kyriaz		male	https://www.fragrantica.com/perfume/Remy-Latour/Kyriaz-45108.html				pending
+lelue	L'elue		female	https://www.fragrantica.com/perfume/Remy-Latour/L-elue-5678.html				pending
+lelue-premiere	L'Elue Premiere		female	https://www.fragrantica.com/perfume/Remy-Latour/L-Elue-Premiere-9350.html				pending
+le-spectale	Le Spectale		female	https://www.fragrantica.com/perfume/Remy-Latour/Le-Spectale-93904.html				pending
+lune-dete	Lune d'Ete		female	https://www.fragrantica.com/perfume/Remy-Latour/Lune-d-Ete-5676.html				pending
+manes	Manès		male	https://www.fragrantica.com/perfume/Remy-Latour/Manes-45107.html				pending
+nuit-d-ete-a-paris	Nuit d-Été à Paris		female	https://www.fragrantica.com/perfume/Remy-Latour/Nuit-d-Ete-a-Paris-93905.html				pending
+offshore	Offshore		unisex	https://www.fragrantica.com/perfume/Remy-Latour/Offshore-45109.html				pending
+remy	Remy		female	https://www.fragrantica.com/perfume/Remy-Latour/Remy-21796.html				pending
+remy-latour-intense	Rémy Latour Intense		female	https://www.fragrantica.com/perfume/Remy-Latour/Remy-Latour-Intense-93909.html				pending
+remy-latour-pour-femme	Rémy Latour Pour Femme		female	https://www.fragrantica.com/perfume/Remy-Latour/Remy-Latour-Pour-Femme-93907.html				pending
+remy-latour-pour-homme	Rémy Latour Pour Homme		male	https://www.fragrantica.com/perfume/Remy-Latour/Remy-Latour-Pour-Homme-93908.html				pending
+si-tendre	Si Tendre		female	https://www.fragrantica.com/perfume/Remy-Latour/Si-Tendre-14849.html				pending
+une-ete-a-paris	Une Été à Paris		female	https://www.fragrantica.com/perfume/Remy-Latour/Une-Ete-a-Paris-93906.html				pending

@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bonbon-cola	Bonbon Cola		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Bonbon-Cola-56128.html				pending
-bubble-gum	Bubble Gum		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Bubble-Gum-30494.html				pending
-caramel	Caramel		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Caramel-30493.html				pending
-chevrefeuille	Chevrefeuille		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Chevrefeuille-30485.html				pending
-fraise-acidulee	Fraise Acidulee		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Fraise-Acidulee-30488.html				pending
-fraise-des-bois	Fraise des Bois		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Fraise-des-Bois-30487.html				pending
-fraise-litchi	Fraise Litchi		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Fraise-Litchi-14340.html				pending
-marshmallow	Marshmallow		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Marshmallow-30489.html				pending
-muguet	Muguet		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Muguet-30483.html				pending
-mure-mystique	Mure Mystique		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Mure-Mystique-8155.html				pending
-patchouli	Patchouli		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Patchouli-30486.html				pending
-patchouli-envoutant	Patchouli Envoutant		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Patchouli-Envoutant-8154.html				pending
-vanille-and-ambre	Vanille & Ambre		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Ambre-56130.html				pending
-vanille-and-santal	Vanille & Santal		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Santal-56132.html				pending
-vanille-and-ylang	Vanille & Ylang		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Ylang-56131.html				pending
-vanille-cassis	Vanille Cassis		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Cassis-14341.html				pending
-vanille-framboise	Vanille Framboise		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Framboise-30492.html				pending
-vanille-gourmande	Vanille Gourmande		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Gourmande-30490.html				pending
-vanille-monoi	Vanille Monoi		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Monoi-30491.html				pending
-vanille-mure	Vanille Mure		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Mure-30495.html				pending
-vanille-troublante	Vanille Troublante		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Troublante-8156.html				pending
-violette-macaron	Violette Macaron		female		https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Violette-Macaron-30484.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bonbon-cola	Bonbon Cola		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Bonbon-Cola-56128.html				pending
+bubble-gum	Bubble Gum		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Bubble-Gum-30494.html				pending
+caramel	Caramel		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Caramel-30493.html				pending
+chevrefeuille	Chevrefeuille		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Chevrefeuille-30485.html				pending
+fraise-acidulee	Fraise Acidulee		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Fraise-Acidulee-30488.html				pending
+fraise-des-bois	Fraise des Bois		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Fraise-des-Bois-30487.html				pending
+fraise-litchi	Fraise Litchi		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Fraise-Litchi-14340.html				pending
+marshmallow	Marshmallow		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Marshmallow-30489.html				pending
+muguet	Muguet		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Muguet-30483.html				pending
+mure-mystique	Mure Mystique		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Mure-Mystique-8155.html				pending
+patchouli	Patchouli		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Patchouli-30486.html				pending
+patchouli-envoutant	Patchouli Envoutant		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Patchouli-Envoutant-8154.html				pending
+vanille-and-ambre	Vanille & Ambre		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Ambre-56130.html				pending
+vanille-and-santal	Vanille & Santal		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Santal-56132.html				pending
+vanille-and-ylang	Vanille & Ylang		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Ylang-56131.html				pending
+vanille-cassis	Vanille Cassis		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Cassis-14341.html				pending
+vanille-framboise	Vanille Framboise		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Framboise-30492.html				pending
+vanille-gourmande	Vanille Gourmande		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Gourmande-30490.html				pending
+vanille-monoi	Vanille Monoi		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Monoi-30491.html				pending
+vanille-mure	Vanille Mure		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Mure-30495.html				pending
+vanille-troublante	Vanille Troublante		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Vanille-Troublante-8156.html				pending
+violette-macaron	Violette Macaron		female	https://www.fragrantica.com/perfume/Les-Petits-Plaisirs/Violette-Macaron-30484.html				pending
