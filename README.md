@@ -13,3 +13,10 @@ Fragrantica check; no Fragrantica images are used. `qc_status`: `pending` (no im
 corners, no solid pixels on a canvas edge, centering, 80-95% height, lost-cap "top-gap") and rebuilds
 `contact_sheet.png`. FAIL exits non-zero. WARN means look at the sheet; top-gap also fires on natural shapes
 (antlers, bevelled caps). Rerun after every image change and eyeball the sheet.
+
+## Fragrantica lookup table (2026-10-08)
+Every house in Fragrantica's catalog that we have seen gets a `<house-slug>/index.tsv`; new rows are `qc_status=pending`
+with empty image columns. `lookup.tsv` is the same data as one flat file (house, house_slug, fragrance, gender,
+fragrantica_id, fragrantica_url, slug). Sources, merged by Fragrantica ID: a Fragrantica export dated 2026-09-26
+(github.com/aStyxxx/dataset_Fragrantica_perfumes), the Kaggle "Fragrantica.com Fragrance Dataset" (2024), and live
+Fragrantica designer listings, which are logged per house in `crawl/progress.tsv` so a crawl can resume.
