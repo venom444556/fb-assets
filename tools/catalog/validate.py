@@ -9,7 +9,9 @@ G = {'for women':'female','for men':'male','for women and men':'unisex','female'
 try: from unidecode import unidecode   # transliterates Cyrillic/CJK names the way Fragrantica's slugs do
 except ImportError: unidecode = lambda s: s
 def norm(s): return re.sub(r'[^a-z0-9]','',unicodedata.normalize('NFKD',s).encode('ascii','ignore').decode().lower())
-def like(name, slug): return max(difflib.SequenceMatcher(None, norm(n), norm(slug)).ratio() for n in (name, unidecode(name))) >= 0.6
+def like(name, slug):   # names often carry the house as a prefix the slug drops
+    return any(difflib.SequenceMatcher(None, norm(n), norm(slug)).ratio() >= 0.6 or (len(norm(slug)) >= 3 and norm(n).endswith(norm(slug)))
+               for n in (name, unidecode(name)))
 known = {}; house = None
 for r in csv.DictReader(open(seed, encoding='utf-8'), delimiter='\t'):
     m = URL.match(r['fragrantica_url'])
@@ -22,6 +24,7 @@ for line in open(raw, encoding='utf-8'):
     name, g, u = p[0], G.get(p[1].lower()), p[2]
     m = URL.match(u)
     if m and m.group(1).lower() != seg.lower(): continue   # listed under another URL segment of the house; that segment is its own listing
+    if m and name and not p[1]: continue   # gender left blank by the listing: skip the row, it is not a bad transcription
     if not (m and g and name): bad += 1; continue
     # name must resemble the url slug (guards against invented urls)
     if not like(name, m.group(2)): bad += 1; continue
