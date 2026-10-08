@@ -1,9 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-avocado-toast	Avocado Toast		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Avocado-Toast-55695.html				pending
-become-the-shaman	Become the Shaman		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Become-the-Shaman-44402.html				pending
-foxy	Foxy		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Foxy-44401.html				pending
-rendezvous	Rendezvous		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Rendezvous-35870.html				pending
-vanille-botanique	Vanille Botanique		female		https://www.fragrantica.com/perfume/DSH-Perfumes/Vanille-Botanique-15329.html				pending
 1-000-lilies	1,000 Lilies		female		https://www.fragrantica.com/perfume/DSH-Perfumes/1-000-Lilies-18616.html				pending
 acqua-di-venezia-italian-journey-no-1	Acqua di Venezia (Italian Journey No. 1)		female		https://www.fragrantica.com/perfume/DSH-Perfumes/Acqua-di-Venezia-Italian-Journey-No-1-6550.html				pending
 adoration-milan	Adoration (Milan)		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Adoration-Milan-21061.html				pending
@@ -24,11 +19,13 @@ arome-degypte-a-spikenard-perfume-natural	Arome d'Egypte (a Spikenard perfume; N
 ashram	Ashram		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Ashram-21039.html				pending
 au-lait	Au Lait		female		https://www.fragrantica.com/perfume/DSH-Perfumes/Au-Lait-21019.html				pending
 august-picnic-1976	August Picnic, 1976		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/August-Picnic-1976-73670.html				pending
+avocado-toast	Avocado Toast		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Avocado-Toast-55695.html				pending
 axis-mundi	Axis Mundi		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Axis-Mundi-41349.html				pending
 bakul-medjool	Bakul Medjool		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Bakul-Medjool-55692.html				pending
 bancha	Bancha		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Bancha-8319.html				pending
 beach-blanket	Beach Blanket		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Beach-Blanket-39090.html				pending
 beach-roses-rose-no-3	Beach Roses (Rose No. 3)		female		https://www.fragrantica.com/perfume/DSH-Perfumes/Beach-Roses-Rose-No-3-6571.html				pending
+become-the-shaman	Become the Shaman		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Become-the-Shaman-44402.html				pending
 bermuda-lyme	Bermuda Lyme		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Bermuda-Lyme-21015.html				pending
 biwa	Biwa		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Biwa-69929.html				pending
 bleu-ambree	Bleu Ambrée		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Bleu-Ambree-71627.html				pending
@@ -91,6 +88,7 @@ fleurs-doranger	Fleurs d'Oranger		unisex		https://www.fragrantica.com/perfume/DS
 flores-bonitas-y-corazones-rotos	Flores Bonitas y Corazones Rotos		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Flores-Bonitas-y-Corazones-Rotos-64048.html				pending
 for-the-groom	For the Groom		male		https://www.fragrantica.com/perfume/DSH-Perfumes/For-the-Groom-8409.html				pending
 fou-dopium	Fou d’Opium		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Fou-d-Opium-44540.html				pending
+foxy	Foxy		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Foxy-44401.html				pending
 french-lily	French Lily		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/French-Lily-45780.html				pending
 french-linden-blossom-lime-blossom	French Linden Blossom (Lime Blossom)		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/French-Linden-Blossom-Lime-Blossom-21005.html				pending
 fumee-dor	Fumee d'Or		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Fumee-d-Or-29130.html				pending
@@ -221,6 +219,7 @@ rattlesnake-musk	Rattlesnake Musk		unisex		https://www.fragrantica.com/perfume/D
 re-assess	Re-Assess		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Re-Assess-71616.html				pending
 redstone-mesa	Redstone Mesa		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Redstone-Mesa-76130.html				pending
 refresh	Refresh		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Refresh-21049.html				pending
+rendezvous	Rendezvous		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Rendezvous-35870.html				pending
 reveries-de-paris	Reveries de Paris		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Reveries-de-Paris-32529.html				pending
 rocky-mountain-high	Rocky Mountain High		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Rocky-Mountain-High-29309.html				pending
 rose-vert	Rose Vert		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Rose-Vert-8422.html				pending
@@ -278,6 +277,7 @@ vanilla-bourbon	Vanilla Bourbon		unisex		https://www.fragrantica.com/perfume/DSH
 vanilla-bourbon-intense	Vanilla Bourbon Intense		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Vanilla-Bourbon-Intense-29030.html				pending
 vanilla-chantilly	Vanilla Chantilly		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Vanilla-Chantilly-42656.html				pending
 vanille	Vanille		female		https://www.fragrantica.com/perfume/DSH-Perfumes/Vanille-8403.html				pending
+vanille-botanique	Vanille Botanique		female		https://www.fragrantica.com/perfume/DSH-Perfumes/Vanille-Botanique-15329.html				pending
 venus-and-cupid-siena	Venus & Cupid (Siena)		female		https://www.fragrantica.com/perfume/DSH-Perfumes/Venus-Cupid-Siena-21059.html				pending
 vers-la-violette	Vers la Violette		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Vers-la-Violette-22539.html				pending
 vert-et-noir	Vert et Noir		unisex		https://www.fragrantica.com/perfume/DSH-Perfumes/Vert-et-Noir-41348.html				pending

@@ -1,11 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-obsidian	Black Obsidian		male		https://www.fragrantica.com/perfume/Aurora-Scents/Black-Obsidian-107708.html				pending
-cafe-citadel	Cafe Citadel		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Cafe-Citadel-107707.html				pending
-cherry-in-the-woods	Cherry in The Woods		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Cherry-in-The-Woods-105690.html				pending
-cleopatra	Cleopatra		female		https://www.fragrantica.com/perfume/Aurora-Scents/Cleopatra-89523.html				pending
-habanera-black	Habanera Black		male		https://www.fragrantica.com/perfume/Aurora-Scents/Habanera-Black-93473.html				pending
-pharaoh	Pharaoh		male		https://www.fragrantica.com/perfume/Aurora-Scents/Pharaoh-89524.html				pending
-vanilla-espresso	Vanilla Espresso		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Vanilla-Espresso-113912.html				pending
 adore	Adore		female		https://www.fragrantica.com/perfume/Aurora-Scents/Adore-61520.html				pending
 adore-61529	Adore		male		https://www.fragrantica.com/perfume/Aurora-Scents/Adore-61529.html				pending
 amour	Amour		female		https://www.fragrantica.com/perfume/Aurora-Scents/Amour-93701.html				pending
@@ -23,13 +16,17 @@ aroma-vii	Aroma VII		male		https://www.fragrantica.com/perfume/Aurora-Scents/Aro
 azure-intense	Azure Intense		male		https://www.fragrantica.com/perfume/Aurora-Scents/Azure-Intense-61915.html				pending
 black-elixir	Black Elixir		male		https://www.fragrantica.com/perfume/Aurora-Scents/Black-Elixir-93476.html				pending
 black-marquina	Black Marquina		male		https://www.fragrantica.com/perfume/Aurora-Scents/Black-Marquina-93250.html				pending
+black-obsidian	Black Obsidian		male		https://www.fragrantica.com/perfume/Aurora-Scents/Black-Obsidian-107708.html				pending
 black-potion	Black Potion		male		https://www.fragrantica.com/perfume/Aurora-Scents/Black-Potion-93469.html				pending
 black-python	Black Python		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Black-Python-88613.html				pending
 black-rouge	Black Rouge		female		https://www.fragrantica.com/perfume/Aurora-Scents/Black-Rouge-61521.html				pending
+cafe-citadel	Cafe Citadel		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Cafe-Citadel-107707.html				pending
 call-of-the-wild	Call Of The Wild		female		https://www.fragrantica.com/perfume/Aurora-Scents/Call-Of-The-Wild-93699.html				pending
+cherry-in-the-woods	Cherry in The Woods		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Cherry-in-The-Woods-105690.html				pending
 chevalier	Chevalier		male		https://www.fragrantica.com/perfume/Aurora-Scents/Chevalier-93167.html				pending
 chrome	Chrome		male		https://www.fragrantica.com/perfume/Aurora-Scents/Chrome-89539.html				pending
 chrome-sport	Chrome Sport		male		https://www.fragrantica.com/perfume/Aurora-Scents/Chrome-Sport-89538.html				pending
+cleopatra	Cleopatra		female		https://www.fragrantica.com/perfume/Aurora-Scents/Cleopatra-89523.html				pending
 cuban-incense	Cuban Incense		male		https://www.fragrantica.com/perfume/Aurora-Scents/Cuban-Incense-89522.html				pending
 cuban-wood	Cuban Wood		male		https://www.fragrantica.com/perfume/Aurora-Scents/Cuban-Wood-89521.html				pending
 deciduous-autumn	Deciduous Autumn		female		https://www.fragrantica.com/perfume/Aurora-Scents/Deciduous-Autumn-88355.html				pending
@@ -47,6 +44,7 @@ forbidden-love	Forbidden Love		female		https://www.fragrantica.com/perfume/Auror
 gemini-noir	Gemini Noir		male		https://www.fragrantica.com/perfume/Aurora-Scents/Gemini-Noir-94044.html				pending
 gold-calacatta	Gold Calacatta		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Gold-Calacatta-93249.html				pending
 grey-ash	Grey Ash		male		https://www.fragrantica.com/perfume/Aurora-Scents/Grey-Ash-93468.html				pending
+habanera-black	Habanera Black		male		https://www.fragrantica.com/perfume/Aurora-Scents/Habanera-Black-93473.html				pending
 habanera-pink	Habanera Pink		female		https://www.fragrantica.com/perfume/Aurora-Scents/Habanera-Pink-93474.html				pending
 habanera-red	Habanera Red		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Habanera-Red-93472.html				pending
 harmony	Harmony		female		https://www.fragrantica.com/perfume/Aurora-Scents/Harmony-89531.html				pending
@@ -73,6 +71,7 @@ moon-dust	Moon Dust		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/M
 omega	Omega		male		https://www.fragrantica.com/perfume/Aurora-Scents/Omega-61968.html				pending
 one-night-in-arabia	One Night in Arabia		female		https://www.fragrantica.com/perfume/Aurora-Scents/One-Night-in-Arabia-93700.html				pending
 overrun	Overrun		male		https://www.fragrantica.com/perfume/Aurora-Scents/Overrun-93166.html				pending
+pharaoh	Pharaoh		male		https://www.fragrantica.com/perfume/Aurora-Scents/Pharaoh-89524.html				pending
 porturo	Porturo		male		https://www.fragrantica.com/perfume/Aurora-Scents/Porturo-93248.html				pending
 rage-of-the-ocean	Rage Of The Ocean		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Rage-Of-The-Ocean-88616.html				pending
 roadster	Roadster		male		https://www.fragrantica.com/perfume/Aurora-Scents/Roadster-89525.html				pending
@@ -92,6 +91,7 @@ sailor-silver	Sailor Silver		male		https://www.fragrantica.com/perfume/Aurora-Sc
 symphony	Symphony		female		https://www.fragrantica.com/perfume/Aurora-Scents/Symphony-89532.html				pending
 the-guardian-of-heaven	The Guardian Of Heaven		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/The-Guardian-Of-Heaven-88620.html				pending
 tobacco-oud	Tobacco Oud		male		https://www.fragrantica.com/perfume/Aurora-Scents/Tobacco-Oud-61919.html				pending
+vanilla-espresso	Vanilla Espresso		unisex		https://www.fragrantica.com/perfume/Aurora-Scents/Vanilla-Espresso-113912.html				pending
 volakas	Volakas		male		https://www.fragrantica.com/perfume/Aurora-Scents/Volakas-93247.html				pending
 voyager-black	Voyager Black		male		https://www.fragrantica.com/perfume/Aurora-Scents/Voyager-Black-93706.html				pending
 voyager-gold	Voyager Gold		female		https://www.fragrantica.com/perfume/Aurora-Scents/Voyager-Gold-93704.html				pending

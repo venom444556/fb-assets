@@ -1,15 +1,19 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 amber-room	Amber Room		unisex		https://www.fragrantica.com/perfume/Thameen/Amber-Room-20508.html				pending
+amber-room-49690	Amber Room		unisex		https://www.fragrantica.com/perfume/Thameen/Amber-Room-49690.html				pending
 blue-heart	Blue Heart		unisex		https://www.fragrantica.com/perfume/Thameen/Blue-Heart-75055.html				pending
+blue-heart-94835	Blue Heart		unisex		https://www.fragrantica.com/perfume/Thameen/Blue-Heart-94835.html				pending
 bohemian-infusion	Bohemian Infusion		unisex		https://www.fragrantica.com/perfume/Thameen/Bohemian-Infusion-81870.html				pending
 bold-as-love	Bold As Love		unisex		https://www.fragrantica.com/perfume/Thameen/Bold-As-Love-93490.html				pending
 bravi	Bravi		unisex		https://www.fragrantica.com/perfume/Thameen/Bravi-85182.html				pending
 carved-oud	Carved Oud		unisex		https://www.fragrantica.com/perfume/Thameen/Carved-Oud-20509.html				pending
+carved-oud-49688	Carved Oud		unisex		https://www.fragrantica.com/perfume/Thameen/Carved-Oud-49688.html				pending
 centre-stage	Centre Stage		unisex		https://www.fragrantica.com/perfume/Thameen/Centre-Stage-97102.html				pending
 chords	Chords		unisex		https://www.fragrantica.com/perfume/Thameen/Chords-91003.html				pending
 coronet	Coronet		unisex		https://www.fragrantica.com/perfume/Thameen/Coronet-117623.html				pending
 cullinan-diamond	Cullinan Diamond		unisex		https://www.fragrantica.com/perfume/Thameen/Cullinan-Diamond-66846.html				pending
 diadem	Diadem		unisex		https://www.fragrantica.com/perfume/Thameen/Diadem-55048.html				pending
+emerald	Emerald		female		https://www.fragrantica.com/perfume/Thameen/Emerald-43208.html				pending
 fanfare	Fanfare		unisex		https://www.fragrantica.com/perfume/Thameen/Fanfare-79558.html				pending
 florentine-diamond	Florentine Diamond		unisex		https://www.fragrantica.com/perfume/Thameen/Florentine-Diamond-107373.html				pending
 green-pearl	Green Pearl		unisex		https://www.fragrantica.com/perfume/Thameen/Green-Pearl-43203.html				pending
@@ -20,30 +24,26 @@ moon-of-baroda	Moon of Baroda		unisex		https://www.fragrantica.com/perfume/Thame
 nassak	Nassak		unisex		https://www.fragrantica.com/perfume/Thameen/Nassak-31789.html				pending
 noorolain-taif	Noorolain Taif		female		https://www.fragrantica.com/perfume/Thameen/Noorolain-Taif-20507.html				pending
 not-telling	Not Telling		unisex		https://www.fragrantica.com/perfume/Thameen/Not-Telling-91521.html				pending
+palace-amber	Palace Amber		unisex		https://www.fragrantica.com/perfume/Thameen/Palace-Amber-70678.html				pending
 palace-oud	Palace Oud		unisex		https://www.fragrantica.com/perfume/Thameen/Palace-Oud-43206.html				pending
 patiala	Patiala		unisex		https://www.fragrantica.com/perfume/Thameen/Patiala-55050.html				pending
 peacock-throne	Peacock Throne		female		https://www.fragrantica.com/perfume/Thameen/Peacock-Throne-20511.html				pending
-peregrina	Peregrina		unisex		https://www.fragrantica.com/perfume/Thameen/Peregrina-59756.html				pending
-regent-leather	Regent Leather		unisex		https://www.fragrantica.com/perfume/Thameen/Regent-Leather-43204.html				pending
-riviere	Rivière		unisex		https://www.fragrantica.com/perfume/Thameen/Riviere-43202.html				pending
-royal-sapphire	Royal Sapphire		unisex		https://www.fragrantica.com/perfume/Thameen/Royal-Sapphire-55049.html				pending
-sceptre	Sceptre		unisex		https://www.fragrantica.com/perfume/Thameen/Sceptre-55046.html				pending
-sparkling-opal	Sparkling Opal		female		https://www.fragrantica.com/perfume/Thameen/Sparkling-Opal-60434.html				pending
-the-cora	The Cora		unisex		https://www.fragrantica.com/perfume/Thameen/The-Cora-47282.html				pending
-the-hope	The Hope		unisex		https://www.fragrantica.com/perfume/Thameen/The-Hope-31788.html				pending
-the-rose	The Rose		unisex		https://www.fragrantica.com/perfume/Thameen/The-Rose-75189.html				pending
-amber-room-49690	Amber Room		unisex		https://www.fragrantica.com/perfume/Thameen/Amber-Room-49690.html				pending
-blue-heart-94835	Blue Heart		unisex		https://www.fragrantica.com/perfume/Thameen/Blue-Heart-94835.html				pending
-carved-oud-49688	Carved Oud		unisex		https://www.fragrantica.com/perfume/Thameen/Carved-Oud-49688.html				pending
-emerald	Emerald		female		https://www.fragrantica.com/perfume/Thameen/Emerald-43208.html				pending
-palace-amber	Palace Amber		unisex		https://www.fragrantica.com/perfume/Thameen/Palace-Amber-70678.html				pending
 peacock-throne-49691	Peacock Throne		unisex		https://www.fragrantica.com/perfume/Thameen/Peacock-Throne-49691.html				pending
+peregrina	Peregrina		unisex		https://www.fragrantica.com/perfume/Thameen/Peregrina-59756.html				pending
 peregrina-limited-edition	Peregrina Limited Edition		unisex		https://www.fragrantica.com/perfume/Thameen/Peregrina-Limited-Edition-71612.html				pending
 regal-musk	Regal Musk		unisex		https://www.fragrantica.com/perfume/Thameen/Regal-Musk-94786.html				pending
 regal-oud	Regal Oud		unisex		https://www.fragrantica.com/perfume/Thameen/Regal-Oud-94785.html				pending
 regal-rose	Regal Rose		unisex		https://www.fragrantica.com/perfume/Thameen/Regal-Rose-94833.html				pending
+regent-leather	Regent Leather		unisex		https://www.fragrantica.com/perfume/Thameen/Regent-Leather-43204.html				pending
+riviere	Rivière		unisex		https://www.fragrantica.com/perfume/Thameen/Riviere-43202.html				pending
 riviere-49689	Rivière		unisex		https://www.fragrantica.com/perfume/Thameen/Riviere-49689.html				pending
+royal-sapphire	Royal Sapphire		unisex		https://www.fragrantica.com/perfume/Thameen/Royal-Sapphire-55049.html				pending
 ruby	Ruby		female		https://www.fragrantica.com/perfume/Thameen/Ruby-43207.html				pending
 sapphire	Sapphire		female		https://www.fragrantica.com/perfume/Thameen/Sapphire-43209.html				pending
+sceptre	Sceptre		unisex		https://www.fragrantica.com/perfume/Thameen/Sceptre-55046.html				pending
+sparkling-opal	Sparkling Opal		female		https://www.fragrantica.com/perfume/Thameen/Sparkling-Opal-60434.html				pending
 the-black-carnation	The Black Carnation		unisex		https://www.fragrantica.com/perfume/Thameen/The-Black-Carnation-95183.html				pending
+the-cora	The Cora		unisex		https://www.fragrantica.com/perfume/Thameen/The-Cora-47282.html				pending
 the-cora-55051	The Cora		unisex		https://www.fragrantica.com/perfume/Thameen/The-Cora-55051.html				pending
+the-hope	The Hope		unisex		https://www.fragrantica.com/perfume/Thameen/The-Hope-31788.html				pending
+the-rose	The Rose		unisex		https://www.fragrantica.com/perfume/Thameen/The-Rose-75189.html				pending

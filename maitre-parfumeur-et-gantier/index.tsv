@@ -1,19 +1,15 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 ambre-dore	Ambre Dore		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Dore-14958.html				pending
 ambre-mythique	Ambre Mythique		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Mythique-38161.html				pending
+ambre-precieux	Ambre Precieux		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Precieux-5259.html				pending
 ambre-precieux-ultime	Ambre Precieux Ultime		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Precieux-Ultime-27977.html				pending
 ambre-tibet	Ambre Tibet		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Tibet-74673.html				pending
 bahiana	Bahiana		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Bahiana-5598.html				pending
-bois-de-turquie	Bois de Turquie		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Bois-de-Turquie-3798.html				pending
-cuir-fetiche	Cuir Fetiche		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Cuir-Fetiche-13287.html				pending
-magnolia-pourpre	Magnolia Pourpre		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Magnolia-Pourpre-7637.html				pending
-oud-extravagant	Oud Extravagant		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Oud-Extravagant-50509.html				pending
-patchouli-1969	Patchouli 1969		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Patchouli-1969-54947.html				pending
-santal-noble-2017	Santal Noble 2017		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Santal-Noble-2017-44141.html				pending
-ambre-precieux	Ambre Precieux		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Precieux-5259.html				pending
 baime	Baime		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Baime-5599.html				pending
+bois-de-turquie	Bois de Turquie		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Bois-de-Turquie-3798.html				pending
 camelia-chinois	Camelia Chinois		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Camelia-Chinois-3799.html				pending
 centaure	Centaure		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Centaure-5600.html				pending
+cuir-fetiche	Cuir Fetiche		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Cuir-Fetiche-13287.html				pending
 eau-de-mure	Eau de Mure		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Eau-de-Mure-7631.html				pending
 eau-de-parfum-de-george-sand	Eau de Parfum de George Sand		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Eau-de-Parfum-de-George-Sand-3800.html				pending
 eau-des-iles	Eau des Iles		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Eau-des-Iles-5601.html				pending
@@ -35,14 +31,18 @@ jardin-du-neroli	Jardin du Néroli		female		https://www.fragrantica.com/perfume/
 jasmin	Jasmin		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Jasmin-7620.html				pending
 jeune-homme-extravagante	Jeune Homme Extravagante		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Jeune-Homme-Extravagante-13306.html				pending
 la-reine-margot	La Reine Margot		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/La-Reine-Margot-13294.html				pending
+magnolia-pourpre	Magnolia Pourpre		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Magnolia-Pourpre-7637.html				pending
 or-des-indes	Or des Indes		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Or-des-Indes-7642.html				pending
+oud-extravagant	Oud Extravagant		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Oud-Extravagant-50509.html				pending
 parfum-dhabit	Parfum d’Habit		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Parfum-d-Habit-7648.html				pending
+patchouli-1969	Patchouli 1969		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Patchouli-1969-54947.html				pending
 racine	Racine		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Racine-7646.html				pending
 rose-muskissime	Rose Muskissime		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Rose-Muskissime-7633.html				pending
 rose-opulente	Rose Opulente		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Rose-Opulente-7617.html				pending
 route-du-vetiver	Route du Vetiver		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Route-du-Vetiver-7643.html				pending
 sanguine-muskissime	Sanguine Muskissime		unisex		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Sanguine-Muskissime-5597.html				pending
 santal-noble	Santal Noble		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Santal-Noble-5252.html				pending
+santal-noble-2017	Santal Noble 2017		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Santal-Noble-2017-44141.html				pending
 secret-melange	Secret Melange		male		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Secret-Melange-7649.html				pending
 secrete-datura	Secrete Datura		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Secrete-Datura-3801.html				pending
 soie-rouge	Soie Rouge		female		https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Soie-Rouge-7635.html				pending

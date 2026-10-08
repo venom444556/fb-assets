@@ -1,8 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-chichi	Chichi		female		https://www.fragrantica.com/perfume/Sapil/Chichi-25560.html				pending
-disclosure	Disclosure		male		https://www.fragrantica.com/perfume/Sapil/Disclosure-25540.html				pending
-intense-for-men	Intense For Men		male		https://www.fragrantica.com/perfume/Sapil/Intense-For-Men-67084.html				pending
-solid	Solid		male		https://www.fragrantica.com/perfume/Sapil/Solid-25538.html				pending
 arizona	Arizona		male		https://www.fragrantica.com/perfume/Sapil/Arizona-25552.html				pending
 bound-for-men	Bound For Men		male		https://www.fragrantica.com/perfume/Sapil/Bound-For-Men-67130.html				pending
 bound-for-women	Bound For Women		female		https://www.fragrantica.com/perfume/Sapil/Bound-For-Women-67131.html				pending
@@ -10,14 +6,17 @@ caresse	Caresse		female		https://www.fragrantica.com/perfume/Sapil/Caresse-84298
 challenge-for-men	Challenge For Men		male		https://www.fragrantica.com/perfume/Sapil/Challenge-For-Men-67132.html				pending
 challenge-for-women	Challenge For Women		female		https://www.fragrantica.com/perfume/Sapil/Challenge-For-Women-67134.html				pending
 charm	Charm		female		https://www.fragrantica.com/perfume/Sapil/Charm-25561.html				pending
+chichi	Chichi		female		https://www.fragrantica.com/perfume/Sapil/Chichi-25560.html				pending
 chichi-25559	Chichi		male		https://www.fragrantica.com/perfume/Sapil/Chichi-25559.html				pending
 chichi-crazy-girl	Chichi Crazy Girl		female		https://www.fragrantica.com/perfume/Sapil/Chichi-Crazy-Girl-25565.html				pending
 dapper	Dapper		male		https://www.fragrantica.com/perfume/Sapil/Dapper-83164.html				pending
 desire	Desire		female		https://www.fragrantica.com/perfume/Sapil/Desire-84299.html				pending
+disclosure	Disclosure		male		https://www.fragrantica.com/perfume/Sapil/Disclosure-25540.html				pending
 disclosure-adventure	Disclosure Adventure		male		https://www.fragrantica.com/perfume/Sapil/Disclosure-Adventure-25541.html				pending
 disclosure-white-for-men	Disclosure White For Men		male		https://www.fragrantica.com/perfume/Sapil/Disclosure-White-For-Men-67137.html				pending
 dynamo	Dynamo		male		https://www.fragrantica.com/perfume/Sapil/Dynamo-25558.html				pending
 ecstasy	Ecstasy		female		https://www.fragrantica.com/perfume/Sapil/Ecstasy-25566.html				pending
+intense-for-men	Intense For Men		male		https://www.fragrantica.com/perfume/Sapil/Intense-For-Men-67084.html				pending
 intense-for-women	Intense For Women		female		https://www.fragrantica.com/perfume/Sapil/Intense-For-Women-67085.html				pending
 jewel	Jewel		female		https://www.fragrantica.com/perfume/Sapil/Jewel-25564.html				pending
 joy	Joy		female		https://www.fragrantica.com/perfume/Sapil/Joy-84300.html				pending
@@ -38,6 +37,7 @@ promise	Promise		female		https://www.fragrantica.com/perfume/Sapil/Promise-25567
 rapido	Rapido		male		https://www.fragrantica.com/perfume/Sapil/Rapido-25568.html				pending
 rave-for-men	Rave For Men		male		https://www.fragrantica.com/perfume/Sapil/Rave-For-Men-67110.html				pending
 rave-for-women	Rave For Women		female		https://www.fragrantica.com/perfume/Sapil/Rave-For-Women-67109.html				pending
+solid	Solid		male		https://www.fragrantica.com/perfume/Sapil/Solid-25538.html				pending
 solid-black-for-men	Solid Black For Men		male		https://www.fragrantica.com/perfume/Sapil/Solid-Black-For-Men-67136.html				pending
 solid-oud	Solid Oud		unisex		https://www.fragrantica.com/perfume/Sapil/Solid-Oud-67138.html				pending
 sport-italia	Sport Italia		male		https://www.fragrantica.com/perfume/Sapil/Sport-Italia-25553.html				pending

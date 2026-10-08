@@ -1,14 +1,12 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 abha	ABHA		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/ABHA-80592.html				pending
 adonis	ADONIS		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/ADONIS-88831.html				pending
-athena	Athena		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/Athena-70774.html				pending
-smokey-plum	Smokey Plum		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/Smokey-Plum-73216.html				pending
-zeno	ZENO		male		https://www.fragrantica.com/perfume/Athena-Fragrances/ZENO-75310.html				pending
 alexander	Alexander		male		https://www.fragrantica.com/perfume/Athena-Fragrances/Alexander-75311.html				pending
 ambre-du-ciel	Ambre Du Ciel		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/Ambre-Du-Ciel-70769.html				pending
 ame-libre	AME LIBRE		female		https://www.fragrantica.com/perfume/Athena-Fragrances/AME-LIBRE-85128.html				pending
 art-quatro	Art Quatro		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/Art-Quatro-68047.html				pending
 art-tre	Art Tre		male		https://www.fragrantica.com/perfume/Athena-Fragrances/Art-Tre-68048.html				pending
+athena	Athena		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/Athena-70774.html				pending
 aura	AURA		female		https://www.fragrantica.com/perfume/Athena-Fragrances/AURA-85129.html				pending
 barbar	BarBar		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/BarBar-68049.html				pending
 bihar	Bihar		male		https://www.fragrantica.com/perfume/Athena-Fragrances/Bihar-70768.html				pending
@@ -40,9 +38,11 @@ saffran-al-baha	SAFFRAN AL BAHA		unisex		https://www.fragrantica.com/perfume/Ath
 salalah	SALALAH		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/SALALAH-79729.html				pending
 san-francisco	San Francisco		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/San-Francisco-73218.html				pending
 shams-dubai	SHAMS DUBAI		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/SHAMS-DUBAI-77904.html				pending
+smokey-plum	Smokey Plum		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/Smokey-Plum-73216.html				pending
 solon	Solon		male		https://www.fragrantica.com/perfume/Athena-Fragrances/Solon-70773.html				pending
 suave	SUAVE		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/SUAVE-86690.html				pending
 taj	Taj		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/Taj-70771.html				pending
 trevi	TREVI		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/TREVI-85132.html				pending
 vetiver	Vetiver		male		https://www.fragrantica.com/perfume/Athena-Fragrances/Vetiver-68052.html				pending
+zeno	ZENO		male		https://www.fragrantica.com/perfume/Athena-Fragrances/ZENO-75310.html				pending
 zorba	Zorba		unisex		https://www.fragrantica.com/perfume/Athena-Fragrances/Zorba-92172.html				pending

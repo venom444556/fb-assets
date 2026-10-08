@@ -1,5 +1,6 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 amber-breeze	Amber Breeze		male		https://www.fragrantica.com/perfume/David-Beckham/Amber-Breeze-89330.html				pending
+aqua-classic	Aqua Classic		male		https://www.fragrantica.com/perfume/David-Beckham/Aqua-Classic-35019.html				pending
 aromatic-greens	Aromatic Greens		unisex		https://www.fragrantica.com/perfume/David-Beckham/Aromatic-Greens-69826.html				pending
 beyond	Beyond		male		https://www.fragrantica.com/perfume/David-Beckham/Beyond-31171.html				pending
 beyond-forever	Beyond Forever		male		https://www.fragrantica.com/perfume/David-Beckham/Beyond-Forever-39299.html				pending
@@ -8,12 +9,17 @@ botanical-resin	Botanical Resin		male		https://www.fragrantica.com/perfume/David
 classic	Classic		male		https://www.fragrantica.com/perfume/David-Beckham/Classic-18548.html				pending
 classic-blue	Classic Blue		male		https://www.fragrantica.com/perfume/David-Beckham/Classic-Blue-25966.html				pending
 classic-homme	Classic Homme		male		https://www.fragrantica.com/perfume/David-Beckham/Classic-Homme-104554.html				pending
+classic-summer	Classic Summer		male		https://www.fragrantica.com/perfume/David-Beckham/Classic-Summer-23518.html				pending
+classic-touch	Classic Touch		male		https://www.fragrantica.com/perfume/David-Beckham/Classic-Touch-52202.html				pending
 exquisite-leather	Exquisite Leather		male		https://www.fragrantica.com/perfume/David-Beckham/Exquisite-Leather-104677.html				pending
 follow-your-instinct	Follow Your Instinct		male		https://www.fragrantica.com/perfume/David-Beckham/Follow-Your-Instinct-53350.html				pending
 homme	Homme		male		https://www.fragrantica.com/perfume/David-Beckham/Homme-12427.html				pending
 infinite-aqua	Infinite Aqua		unisex		https://www.fragrantica.com/perfume/David-Beckham/Infinite-Aqua-69825.html				pending
 inspired-by-respect	Inspired by Respect		male		https://www.fragrantica.com/perfume/David-Beckham/Inspired-by-Respect-51211.html				pending
 instinct	Instinct		male		https://www.fragrantica.com/perfume/David-Beckham/Instinct-2772.html				pending
+instinct-after-dark	Instinct After Dark		male		https://www.fragrantica.com/perfume/David-Beckham/Instinct-After-Dark-2771.html				pending
+instinct-gold-edition	Instinct Gold Edition		male		https://www.fragrantica.com/perfume/David-Beckham/Instinct-Gold-Edition-29638.html				pending
+instinct-ice	Instinct Ice		male		https://www.fragrantica.com/perfume/David-Beckham/Instinct-Ice-8107.html				pending
 instinct-sport	Instinct Sport		male		https://www.fragrantica.com/perfume/David-Beckham/Instinct-Sport-14337.html				pending
 intense-instinct	Intense Instinct		male		https://www.fragrantica.com/perfume/David-Beckham/Intense-Instinct-2773.html				pending
 intimately-beckham	Intimately Beckham		female		https://www.fragrantica.com/perfume/David-Beckham/Intimately-Beckham-1948.html				pending
@@ -22,6 +28,7 @@ intimately-beckham-night	Intimately Beckham Night		female		https://www.fragranti
 intimately-beckham-night-for-men	Intimately Beckham Night for Men		male		https://www.fragrantica.com/perfume/David-Beckham/Intimately-Beckham-Night-for-Men-1951.html				pending
 intimately-yours-men	Intimately Yours Men		male		https://www.fragrantica.com/perfume/David-Beckham/Intimately-Yours-Men-9896.html				pending
 intimately-yours-women	Intimately Yours Women		female		https://www.fragrantica.com/perfume/David-Beckham/Intimately-Yours-Women-9897.html				pending
+made-of-instinct	Made of Instinct		male		https://www.fragrantica.com/perfume/David-Beckham/Made-of-Instinct-42411.html				pending
 pure-instinct	Pure Instinct		male		https://www.fragrantica.com/perfume/David-Beckham/Pure-Instinct-5637.html				pending
 refined-woods	Refined Woods		unisex		https://www.fragrantica.com/perfume/David-Beckham/Refined-Woods-69827.html				pending
 respect	Respect		male		https://www.fragrantica.com/perfume/David-Beckham/Respect-46144.html				pending
@@ -30,13 +37,6 @@ signature-for-him	Signature for Him		male		https://www.fragrantica.com/perfume/D
 signature-story-for-her	Signature Story for Her		female		https://www.fragrantica.com/perfume/David-Beckham/Signature-Story-for-Her-6545.html				pending
 signature-story-for-him	Signature Story for Him		male		https://www.fragrantica.com/perfume/David-Beckham/Signature-Story-for-Him-6544.html				pending
 signature-summer-for-her	Signature Summer for Her		female		https://www.fragrantica.com/perfume/David-Beckham/Signature-Summer-for-Her-11499.html				pending
-the-essence	The Essence		male		https://www.fragrantica.com/perfume/David-Beckham/The-Essence-15956.html				pending
-aqua-classic	Aqua Classic		male		https://www.fragrantica.com/perfume/David-Beckham/Aqua-Classic-35019.html				pending
-classic-summer	Classic Summer		male		https://www.fragrantica.com/perfume/David-Beckham/Classic-Summer-23518.html				pending
-classic-touch	Classic Touch		male		https://www.fragrantica.com/perfume/David-Beckham/Classic-Touch-52202.html				pending
-instinct-after-dark	Instinct After Dark		male		https://www.fragrantica.com/perfume/David-Beckham/Instinct-After-Dark-2771.html				pending
-instinct-gold-edition	Instinct Gold Edition		male		https://www.fragrantica.com/perfume/David-Beckham/Instinct-Gold-Edition-29638.html				pending
-instinct-ice	Instinct Ice		male		https://www.fragrantica.com/perfume/David-Beckham/Instinct-Ice-8107.html				pending
-made-of-instinct	Made of Instinct		male		https://www.fragrantica.com/perfume/David-Beckham/Made-of-Instinct-42411.html				pending
 signature-summer-for-him	Signature Summer for Him		male		https://www.fragrantica.com/perfume/David-Beckham/Signature-Summer-for-Him-11500.html				pending
+the-essence	The Essence		male		https://www.fragrantica.com/perfume/David-Beckham/The-Essence-15956.html				pending
 urban-homme	Urban Homme		male		https://www.fragrantica.com/perfume/David-Beckham/Urban-Homme-17357.html				pending

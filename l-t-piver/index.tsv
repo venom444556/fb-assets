@@ -1,5 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-musc	Musc		male		https://www.fragrantica.com/perfume/L-T-Piver/Musc-13404.html				pending
 a-la-reine-des-fleurs	A la Reine des Fleurs		female		https://www.fragrantica.com/perfume/L-T-Piver/A-la-Reine-des-Fleurs-11564.html				pending
 astris	Astris		unisex		https://www.fragrantica.com/perfume/L-T-Piver/Astris-40511.html				pending
 aubade	Aubade		male		https://www.fragrantica.com/perfume/L-T-Piver/Aubade-40526.html				pending
@@ -31,6 +30,7 @@ mascarade	Mascarade		female		https://www.fragrantica.com/perfume/L-T-Piver/Masca
 mascotte	Mascotte		unisex		https://www.fragrantica.com/perfume/L-T-Piver/Mascotte-40503.html				pending
 mismelis	Mismelis		female		https://www.fragrantica.com/perfume/L-T-Piver/Mismelis-40516.html				pending
 misti	Misti		female		https://www.fragrantica.com/perfume/L-T-Piver/Misti-40521.html				pending
+musc	Musc		male		https://www.fragrantica.com/perfume/L-T-Piver/Musc-13404.html				pending
 pompeia	Pompeia		female		https://www.fragrantica.com/perfume/L-T-Piver/Pompeia-11559.html				pending
 reve-dor	Reve d'Or		female		https://www.fragrantica.com/perfume/L-T-Piver/Reve-d-Or-11558.html				pending
 safranor	Safranor		unisex		https://www.fragrantica.com/perfume/L-T-Piver/Safranor-40518.html				pending

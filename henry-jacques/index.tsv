@@ -1,9 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blue-vanille	Blue Vanille		male		https://www.fragrantica.com/perfume/Henry-Jacques/Blue-Vanille-49777.html				pending
-merveilleuse-de-hj	Merveilleuse De HJ		female		https://www.fragrantica.com/perfume/Henry-Jacques/Merveilleuse-De-HJ-43757.html				pending
-monsieur-bouquet	Monsieur Bouquet		male		https://www.fragrantica.com/perfume/Henry-Jacques/Monsieur-Bouquet-43876.html				pending
-roi-sans-equipage	Roi Sans Equipage		male		https://www.fragrantica.com/perfume/Henry-Jacques/Roi-Sans-Equipage-43872.html				pending
-soudain-lhiver	Soudain L'Hiver		male		https://www.fragrantica.com/perfume/Henry-Jacques/Soudain-L-Hiver-43873.html				pending
 1995	1995		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/1995-93896.html				pending
 al-dar	Al Dar		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Al-Dar-56705.html				pending
 ambre-cuir-de-hj	Ambre Cuir De HJ		female		https://www.fragrantica.com/perfume/Henry-Jacques/Ambre-Cuir-De-HJ-43828.html				pending
@@ -15,6 +10,7 @@ aude	Aude		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Aude-69554.
 aitana	Aïtana		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Aitana-53214.html				pending
 belle-isabelle	Belle Isabelle		female		https://www.fragrantica.com/perfume/Henry-Jacques/Belle-Isabelle-43829.html				pending
 berceau-de-ma-joie	Berceau de Ma Joie		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Berceau-de-Ma-Joie-69555.html				pending
+blue-vanille	Blue Vanille		male		https://www.fragrantica.com/perfume/Henry-Jacques/Blue-Vanille-49777.html				pending
 bonjour	Bonjour		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Bonjour-62496.html				pending
 bonjour-for-men	Bonjour For Men		male		https://www.fragrantica.com/perfume/Henry-Jacques/Bonjour-For-Men-62497.html				pending
 cascador	Cascador		female		https://www.fragrantica.com/perfume/Henry-Jacques/Cascador-62082.html				pending
@@ -54,7 +50,9 @@ lilanka	Lilanka		female		https://www.fragrantica.com/perfume/Henry-Jacques/Lilan
 lorenzo	Lorenzo		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Lorenzo-69560.html				pending
 madeleine	Madeleine		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Madeleine-93898.html				pending
 maria-perello	Maria Perello		female		https://www.fragrantica.com/perfume/Henry-Jacques/Maria-Perello-82393.html				pending
+merveilleuse-de-hj	Merveilleuse De HJ		female		https://www.fragrantica.com/perfume/Henry-Jacques/Merveilleuse-De-HJ-43757.html				pending
 miss-de-hj	Miss De HJ		female		https://www.fragrantica.com/perfume/Henry-Jacques/Miss-De-HJ-43772.html				pending
+monsieur-bouquet	Monsieur Bouquet		male		https://www.fragrantica.com/perfume/Henry-Jacques/Monsieur-Bouquet-43876.html				pending
 monsieur-seduction	Monsieur Seduction		male		https://www.fragrantica.com/perfume/Henry-Jacques/Monsieur-Seduction-56706.html				pending
 mr-h	Mr. H		male		https://www.fragrantica.com/perfume/Henry-Jacques/Mr-H-53212.html				pending
 mrs-y	Mrs. Y		female		https://www.fragrantica.com/perfume/Henry-Jacques/Mrs-Y-53213.html				pending
@@ -82,6 +80,7 @@ quintelline	Quintelline		female		https://www.fragrantica.com/perfume/Henry-Jacqu
 rafael-nadal-no0-2	Rafael Nadal No0 2		male		https://www.fragrantica.com/perfume/Henry-Jacques/Rafael-Nadal-No0-2-82392.html				pending
 rafael-nadal-no01	Rafael Nadal No01		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Rafael-Nadal-No01-82391.html				pending
 rain-lady	Rain Lady		female		https://www.fragrantica.com/perfume/Henry-Jacques/Rain-Lady-62498.html				pending
+roi-sans-equipage	Roi Sans Equipage		male		https://www.fragrantica.com/perfume/Henry-Jacques/Roi-Sans-Equipage-43872.html				pending
 rose-bulgare-composee	Rose Bulgare Composee		female		https://www.fragrantica.com/perfume/Henry-Jacques/Rose-Bulgare-Composee-43824.html				pending
 rose-galata	Rose Galata		female		https://www.fragrantica.com/perfume/Henry-Jacques/Rose-Galata-43778.html				pending
 rose-oudh	Rose Oudh		female		https://www.fragrantica.com/perfume/Henry-Jacques/Rose-Oudh-43779.html				pending
@@ -92,6 +91,7 @@ royal-dream	Royal Dream		female		https://www.fragrantica.com/perfume/Henry-Jacqu
 reves-dor	Rêves D’or		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Reves-D-or-93696.html				pending
 shama	Shama		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Shama-56038.html				pending
 siskor-de-hj	Siskor de HJ		male		https://www.fragrantica.com/perfume/Henry-Jacques/Siskor-de-HJ-69562.html				pending
+soudain-lhiver	Soudain L'Hiver		male		https://www.fragrantica.com/perfume/Henry-Jacques/Soudain-L-Hiver-43873.html				pending
 still	Still		male		https://www.fragrantica.com/perfume/Henry-Jacques/Still-49708.html				pending
 swan	Swan		unisex		https://www.fragrantica.com/perfume/Henry-Jacques/Swan-56043.html				pending
 temporaline	Temporaline		female		https://www.fragrantica.com/perfume/Henry-Jacques/Temporaline-43775.html				pending

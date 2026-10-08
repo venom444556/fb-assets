@@ -1,5 +1,7 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amore-mio	Amore Mio		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-10814.html				pending
 amore-mio-dolce-paloma	Amore Mio Dolce Paloma		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-Dolce-Paloma-25271.html				pending
+amore-mio-eau-de-parfum	Amore Mio Eau de Parfum		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-Eau-de-Parfum-10215.html				pending
 amore-mio-forbidden-fruit	Amore Mio Forbidden Fruit		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-Forbidden-Fruit-91886.html				pending
 amore-mio-forever	Amore Mio Forever		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-Forever-13133.html				pending
 amore-mio-garden-of-delight	Amore Mio Garden of Delight		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-Garden-of-Delight-57539.html				pending
@@ -8,94 +10,55 @@ amore-mio-i-love-you	Amore Mio I Love You		female		https://www.fragrantica.com/p
 amore-mio-passion	Amore Mio Passion		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-Passion-28456.html				pending
 amore-mio-tropical-crush	Amore Mio Tropical Crush		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-Tropical-Crush-69168.html				pending
 amore-mio-white-pearl	Amore Mio White Pearl		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-White-Pearl-56129.html				pending
+angie	Angie		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Angie-16998.html				pending
+arome-absolu	Arome Absolu		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arome-Absolu-20380.html				pending
+arome-arthes	Arome Arthes		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arome-Arthes-10345.html				pending
 arome-arthes-secret	Arome Arthes Secret		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arome-Arthes-Secret-11062.html				pending
 arome-arthes-seduction	Arome Arthes Seduction		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arome-Arthes-Seduction-11061.html				pending
+art-s	Art S		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Art-S-7148.html				pending
 arthes-essential-jasmin-du-nil	Arthes Essential Jasmin Du Nil		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arthes-Essential-Jasmin-Du-Nil-10485.html				pending
 arthes-essential-patchouli-sumatra	Arthes Essential Patchouli Sumatra		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arthes-Essential-Patchouli-Sumatra-10484.html				pending
 arthes-essential-rose-damascus	Arthes Essential Rose Damascus		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arthes-Essential-Rose-Damascus-10483.html				pending
 arthes-love-never-dies-gold	Arthes Love Never Dies Gold		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arthes-Love-Never-Dies-Gold-9287.html				pending
-balade-a-paris-soiree-rooftop	Balade à Paris Soirée Rooftop		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Balade-a-Paris-Soiree-Rooftop-72999.html				pending
-boum-candy-land	Boum Candy Land		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Candy-Land-44515.html				pending
-boum-do-brazil	Boum Do Brazil		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Do-Brazil-80648.html				pending
-boum-green-tea-cherry-blossom	Boum Green Tea Cherry Blossom		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Green-Tea-Cherry-Blossom-14766.html				pending
-boum-rainbow	Boum Rainbow		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Rainbow-99104.html				pending
-boum-sweet-lollipop	Boum Sweet Lollipop		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Sweet-Lollipop-44739.html				pending
-boum-vanille-sa-pomme-damour	Boum Vanille Sa Pomme d'Amour		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Vanille-Sa-Pomme-d-Amour-14768.html				pending
-capricieuse	Capricieuse		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Capricieuse-17864.html				pending
-cassandra-blanc	Cassandra Blanc		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Blanc-10347.html				pending
-cassandra-bleu	Cassandra Bleu		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Bleu-10348.html				pending
-cassandra-dark-blossom	Cassandra Dark Blossom		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Dark-Blossom-75604.html				pending
-cassandra-rose-intense	Cassandra Rose Intense		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Rose-Intense-38475.html				pending
-cassandra-rose-jasmin	Cassandra Rose Jasmin		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Rose-Jasmin-51937.html				pending
-cassandra-rose-rouge	Cassandra Rose Rouge		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Rose-Rouge-57538.html				pending
-cassandra-roses-blanches	Cassandra Roses Blanches		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Roses-Blanches-44728.html				pending
-cobra-for-him-version-inedite	Cobra for Him Version Inedite		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cobra-for-Him-Version-Inedite-4736.html				pending
-collection-azur-balcon-mediterraneen	Collection Azur Balcon Méditerranéen		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Collection-Azur-Balcon-Mediterraneen-75575.html				pending
-collection-azur-viree-en-mer	Collection Azur Virée en Mer		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Collection-Azur-Viree-en-Mer-80959.html				pending
-colonial-club-legend	Colonial Club Legend		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Colonial-Club-Legend-32556.html				pending
-colonial-club-signature	Colonial Club Signature		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Colonial-Club-Signature-52033.html				pending
-deep-sea	Deep Sea		unisex		https://www.fragrantica.com/perfume/Jeanne-Arthes/Deep-Sea-104917.html				pending
-guipure-and-silk-havana-moon	Guipure & Silk Havana Moon		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Guipure-Silk-Havana-Moon-67657.html				pending
-guipure-and-silk-rose	Guipure & Silk Rose		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Guipure-Silk-Rose-10216.html				pending
-guipure-and-silk-ylang-vanille	Guipure & Silk Ylang Vanille		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Guipure-Silk-Ylang-Vanille-38452.html				pending
-havana-moon	Havana Moon		unisex		https://www.fragrantica.com/perfume/Jeanne-Arthes/Havana-Moon-104919.html				pending
-js-navy-blue	JS Navy Blue		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/JS-Navy-Blue-32557.html				pending
-les-lions-darthes-2001	Les Lions D'Arthes 2001		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Les-Lions-D-Arthes-2001-10829.html				pending
-love-generation-arts	Love Generation Art's		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Art-s-13530.html				pending
-love-generation-do-brasil	Love Generation Do Brasil		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Do-Brasil-13531.html				pending
-love-generation-fashion-victim	Love Generation Fashion Victim		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Fashion-Victim-14769.html				pending
-love-generation-pink	Love Generation Pink		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Pink-5667.html				pending
-love-generation-rock	Love Generation Rock		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Rock-10833.html				pending
-love-generation-sexy	Love Generation Sexy		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Sexy-5588.html				pending
-love-never-dies	Love Never Dies		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Never-Dies-6280.html				pending
-love-never-dies-black-jewel	Love Never Dies Black Jewel		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Never-Dies-Black-Jewel-14770.html				pending
-lover	Lover		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Lover-10813.html				pending
-lover-in-dark	Lover in Dark		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Lover-in-Dark-75605.html				pending
-musc-ambre	Musc Ambre		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Musc-Ambre-29268.html				pending
-romantic	Romantic		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Romantic-31199.html				pending
-romantic-blossom	Romantic Blossom		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Romantic-Blossom-57540.html				pending
-rose-de-grasse	Rose de Grasse		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Rose-de-Grasse-29269.html				pending
-sexy-chamallow	Sexy Chamallow		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Chamallow-71458.html				pending
-sexy-me-no1	Sexy Me No1		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Me-No1-10576.html				pending
-sultane	Sultane		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-5660.html				pending
-sultane-leau-fatale	Sultane L'Eau Fatale		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-L-Eau-Fatale-32555.html				pending
-sultane-noir-velours	Sultane Noir Velours		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Noir-Velours-14249.html				pending
-tea-time-a-paris-chou-a-la-creme	Tea Time à Paris Chou à la crème		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Tea-Time-a-Paris-Chou-a-la-creme-117809.html				pending
-tea-time-a-paris-macaron-amande	Tea Time à Paris Macaron Amande		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Tea-Time-a-Paris-Macaron-Amande-73000.html				pending
-tea-time-a-paris-pavlova	Tea Time à Paris Pavlova		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Tea-Time-a-Paris-Pavlova-82584.html				pending
-tea-time-a-paris-tartelette-citron	Tea Time à Paris Tartelette Citron		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Tea-Time-a-Paris-Tartelette-Citron-91889.html				pending
-vanilla-ice-cream	Vanilla Ice Cream		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Vanilla-Ice-Cream-71459.html				pending
-vanille-tropicale	Vanille Tropicale		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Vanille-Tropicale-29270.html				pending
-amore-mio	Amore Mio		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-10814.html				pending
-amore-mio-eau-de-parfum	Amore Mio Eau de Parfum		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Amore-Mio-Eau-de-Parfum-10215.html				pending
-angie	Angie		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Angie-16998.html				pending
-arome-absolu	Arome Absolu		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arome-Absolu-20380.html				pending
-arome-arthes	Arome Arthes		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arome-Arthes-10345.html				pending
-art-s	Art S		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Art-S-7148.html				pending
 arthes-you-and-me	Arthes You & Me		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Arthes-You-Me-9091.html				pending
 astronomy	Astronomy		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Astronomy-43368.html				pending
 balade-a-paris-cafe-a-saint-germain	Balade à Paris Café à Saint-Germain		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Balade-a-Paris-Cafe-a-Saint-Germain-91887.html				pending
+balade-a-paris-soiree-rooftop	Balade à Paris Soirée Rooftop		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Balade-a-Paris-Soiree-Rooftop-72999.html				pending
 barba-panda	Barba Panda		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Barba-Panda-71460.html				pending
 best-friends-forever	Best Friends Forever		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Best-Friends-Forever-51972.html				pending
 boum	Boum		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-10815.html				pending
 boum-be-different	Boum Be Different		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Be-Different-10652.html				pending
+boum-candy-land	Boum Candy Land		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Candy-Land-44515.html				pending
 boum-catch-me	Boum Catch Me		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Catch-Me-10651.html				pending
 boum-cherry	Boum Cherry		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Cherry-10816.html				pending
+boum-do-brazil	Boum Do Brazil		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Do-Brazil-80648.html				pending
+boum-green-tea-cherry-blossom	Boum Green Tea Cherry Blossom		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Green-Tea-Cherry-Blossom-14766.html				pending
 boum-honey	Boum Honey		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Honey-10817.html				pending
 boum-mango	Boum Mango		unisex		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Mango-10818.html				pending
 boum-muscat	Boum Muscat		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Muscat-10819.html				pending
 boum-pour-homme	Boum Pour Homme		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Pour-Homme-10820.html				pending
 boum-que-calor	Boum Que Calor		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Que-Calor-10648.html				pending
+boum-rainbow	Boum Rainbow		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Rainbow-99104.html				pending
 boum-savon	Boum Savon		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Savon-10821.html				pending
 boum-sport	Boum Sport		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Sport-32645.html				pending
+boum-sweet-lollipop	Boum Sweet Lollipop		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Sweet-Lollipop-44739.html				pending
+boum-vanille-sa-pomme-damour	Boum Vanille Sa Pomme d'Amour		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Boum-Vanille-Sa-Pomme-d-Amour-14768.html				pending
 bruce-benson	Bruce Benson		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Bruce-Benson-43691.html				pending
 cest-la-fete	C'est la Fete!		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/C-est-la-Fete-43607.html				pending
 caliber-12	Caliber 12		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Caliber-12-61185.html				pending
 candy-drops-honey-lemon	Candy Drops Honey Lemon		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Candy-Drops-Honey-Lemon-35727.html				pending
 candy-drops-peach-sugar	Candy Drops Peach Sugar		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Candy-Drops-Peach-Sugar-35728.html				pending
+capricieuse	Capricieuse		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Capricieuse-17864.html				pending
 cassandra	Cassandra		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-10346.html				pending
+cassandra-blanc	Cassandra Blanc		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Blanc-10347.html				pending
+cassandra-bleu	Cassandra Bleu		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Bleu-10348.html				pending
 cassandra-bouquet-de-pivoines	Cassandra Bouquet de Pivoines		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Bouquet-de-Pivoines-43010.html				pending
+cassandra-dark-blossom	Cassandra Dark Blossom		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Dark-Blossom-75604.html				pending
 cassandra-pour-homme	Cassandra Pour Homme		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Pour-Homme-10822.html				pending
+cassandra-rose-intense	Cassandra Rose Intense		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Rose-Intense-38475.html				pending
+cassandra-rose-jasmin	Cassandra Rose Jasmin		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Rose-Jasmin-51937.html				pending
+cassandra-rose-rouge	Cassandra Rose Rouge		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Rose-Rouge-57538.html				pending
+cassandra-roses-blanches	Cassandra Roses Blanches		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Roses-Blanches-44728.html				pending
 cassandra-violette-intense	Cassandra Violette Intense		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cassandra-Violette-Intense-36102.html				pending
 club-aficionado-for-men	Club Aficionado for Men		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Club-Aficionado-for-Men-10823.html				pending
 co2	CO2		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/CO2-10562.html				pending
@@ -105,14 +68,20 @@ co2-pour-femme	CO2 Pour Femme		female		https://www.fragrantica.com/perfume/Jeann
 cobra	Cobra		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cobra-5134.html				pending
 cobra-amarillo	Cobra Amarillo		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cobra-Amarillo-20381.html				pending
 cobra-for-her-version-inedite	Cobra for Her Version Inedite		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cobra-for-Her-Version-Inedite-4737.html				pending
+cobra-for-him-version-inedite	Cobra for Him Version Inedite		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cobra-for-Him-Version-Inedite-4736.html				pending
 cobra-hot-game	Cobra Hot Game		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cobra-Hot-Game-16995.html				pending
 cobra-ice-breaker	Cobra Ice Breaker		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cobra-Ice-Breaker-16996.html				pending
+collection-azur-balcon-mediterraneen	Collection Azur Balcon Méditerranéen		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Collection-Azur-Balcon-Mediterraneen-75575.html				pending
 collection-azur-riviera-sunset	Collection Azur Riviera Sunset		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Collection-Azur-Riviera-Sunset-91888.html				pending
+collection-azur-viree-en-mer	Collection Azur Virée en Mer		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Collection-Azur-Viree-en-Mer-80959.html				pending
 colonial-club	Colonial Club		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Colonial-Club-20431.html				pending
+colonial-club-legend	Colonial Club Legend		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Colonial-Club-Legend-32556.html				pending
+colonial-club-signature	Colonial Club Signature		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Colonial-Club-Signature-52033.html				pending
 colonial-club-ypsos	Colonial Club Ypsos		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Colonial-Club-Ypsos-51910.html				pending
 cotton-club	Cotton Club		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cotton-Club-10826.html				pending
 cotton-club-women	Cotton Club Women		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Cotton-Club-Women-10827.html				pending
 crush-potion	Crush Potion		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Crush-Potion-71456.html				pending
+deep-sea	Deep Sea		unisex		https://www.fragrantica.com/perfume/Jeanne-Arthes/Deep-Sea-104917.html				pending
 eva	Eva		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Eva-16999.html				pending
 extreme-limit-rock	Extreme Limit Rock		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Extreme-Limit-Rock-10217.html				pending
 extreme-limite-energy	Extreme Limite Energy		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Extreme-Limite-Energy-20430.html				pending
@@ -125,6 +94,10 @@ guipure-and-sheer-silk	Guipure & Sheer Silk		female		https://www.fragrantica.com
 guipure-and-silk	Guipure & Silk		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Guipure-Silk-7146.html				pending
 guipure-and-silk-aqua-heaven	Guipure & Silk Aqua Heaven		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Guipure-Silk-Aqua-Heaven-14248.html				pending
 guipure-and-silk-crystal	Guipure & Silk Crystal		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Guipure-Silk-Crystal-14246.html				pending
+guipure-and-silk-havana-moon	Guipure & Silk Havana Moon		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Guipure-Silk-Havana-Moon-67657.html				pending
+guipure-and-silk-rose	Guipure & Silk Rose		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Guipure-Silk-Rose-10216.html				pending
+guipure-and-silk-ylang-vanille	Guipure & Silk Ylang Vanille		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Guipure-Silk-Ylang-Vanille-38452.html				pending
+havana-moon	Havana Moon		unisex		https://www.fragrantica.com/perfume/Jeanne-Arthes/Havana-Moon-104919.html				pending
 ice-breaker	Ice Breaker		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Ice-Breaker-10828.html				pending
 is-this-love	Is This Love?		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Is-This-Love-51973.html				pending
 jasmin-de-provence	Jasmin de Provence		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Jasmin-de-Provence-29267.html				pending
@@ -135,25 +108,37 @@ joe-sorrento-the-flasher	Joe Sorrento The Flasher		male		https://www.fragrantica
 js-magnetic-power	JS Magnetic Power		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/JS-Magnetic-Power-53068.html				pending
 js-magnetic-power-night	JS Magnetic Power Night		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/JS-Magnetic-Power-Night-57534.html				pending
 js-magnetic-power-sport	JS Magnetic Power Sport		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/JS-Magnetic-Power-Sport-53069.html				pending
+js-navy-blue	JS Navy Blue		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/JS-Navy-Blue-32557.html				pending
 js-women	JS Women		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/JS-Women-43610.html				pending
 kate	Kate		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Kate-16997.html				pending
 la-voile-rouge	La Voile Rouge		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/La-Voile-Rouge-54643.html				pending
+les-lions-darthes-2001	Les Lions D'Arthes 2001		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Les-Lions-D-Arthes-2001-10829.html				pending
 les-lions-darthes-2012	Les Lions D'Arthes 2012		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Les-Lions-D-Arthes-2012-14772.html				pending
 les-lions-darthes-homme	Les Lions d'Arthes Homme		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Les-Lions-d-Arthes-Homme-14773.html				pending
 les-lions-darthes-men	Les Lions D'Arthes Men		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Les-Lions-D-Arthes-Men-10830.html				pending
 liquid-love	Liquid Love		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Liquid-Love-71455.html				pending
 lolli-unicorn	Lolli Unicorn		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Lolli-Unicorn-71454.html				pending
+love-generation-arts	Love Generation Art's		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Art-s-13530.html				pending
 love-generation-blue	Love Generation Blue		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Blue-5893.html				pending
+love-generation-do-brasil	Love Generation Do Brasil		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Do-Brasil-13531.html				pending
 love-generation-dream	Love Generation Dream		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Dream-15614.html				pending
+love-generation-fashion-victim	Love Generation Fashion Victim		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Fashion-Victim-14769.html				pending
 love-generation-freedom	Love Generation Freedom		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Freedom-5666.html				pending
 love-generation-leopard	Love Generation Leopard		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Leopard-22313.html				pending
 love-generation-mystic	Love Generation Mystic		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Mystic-45751.html				pending
 love-generation-pin-up	Love Generation Pin Up		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Pin-Up-57536.html				pending
+love-generation-pink	Love Generation Pink		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Pink-5667.html				pending
+love-generation-rock	Love Generation Rock		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Rock-10833.html				pending
+love-generation-sexy	Love Generation Sexy		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Generation-Sexy-5588.html				pending
+love-never-dies	Love Never Dies		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Never-Dies-6280.html				pending
+love-never-dies-black-jewel	Love Never Dies Black Jewel		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Never-Dies-Black-Jewel-14770.html				pending
 love-never-dies-diva	Love Never Dies Diva		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Never-Dies-Diva-14247.html				pending
 love-never-dies-night-dream	Love Never Dies Night Dream		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-Never-Dies-Night-Dream-67658.html				pending
 loven-blue	Love'n Blue		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Love-n-Blue-34698.html				pending
 lovely-sweet-sixteen	Lovely Sweet Sixteen		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Lovely-Sweet-Sixteen-5668.html				pending
+lover	Lover		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Lover-10813.html				pending
 lover-blackberry	Lover Blackberry		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Lover-Blackberry-20364.html				pending
+lover-in-dark	Lover in Dark		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Lover-in-Dark-75605.html				pending
 lover-sweet-juice	Lover Sweet Juice		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Lover-Sweet-Juice-13529.html				pending
 lucky-star	Lucky Star		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Lucky-Star-15615.html				pending
 luxure	Luxure		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Luxure-5669.html				pending
@@ -163,6 +148,7 @@ mascarade	Mascarade		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/M
 mezza-luna	Mezza Luna		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Mezza-Luna-10832.html				pending
 mixte-femme	Mixte Femme		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Mixte-Femme-20382.html				pending
 mixte-homme	Mixte Homme		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Mixte-Homme-20385.html				pending
+musc-ambre	Musc Ambre		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Musc-Ambre-29268.html				pending
 never-stop-smiling	Never Stop Smiling		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Never-Stop-Smiling-51971.html				pending
 nickie	Nickie		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Nickie-17000.html				pending
 over-the-rainbow	Over The Rainbow		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Over-The-Rainbow-51975.html				pending
@@ -177,14 +163,19 @@ rocky-man	Rocky Man		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Roc
 rocky-man-irridium	Rocky Man Irridium		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Rocky-Man-Irridium-14775.html				pending
 rocky-man-redlight	Rocky Man Redlight		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Rocky-Man-Redlight-30809.html				pending
 rocky-man-white	Rocky Man White		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Rocky-Man-White-10220.html				pending
+romantic	Romantic		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Romantic-31199.html				pending
+romantic-blossom	Romantic Blossom		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Romantic-Blossom-57540.html				pending
 romantic-by-jeanne-arthes	Romantic by Jeanne Arthes		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Romantic-by-Jeanne-Arthes-5133.html				pending
 romantic-lady	Romantic Lady		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Romantic-Lady-32553.html				pending
 romantic-story	Romantic Story		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Romantic-Story-10222.html				pending
 rose-bonbon	Rose Bonbon		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Rose-Bonbon-5135.html				pending
+rose-de-grasse	Rose de Grasse		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Rose-de-Grasse-29269.html				pending
 sexy-boy-sport	Sexy Boy Sport		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Boy-Sport-13532.html				pending
+sexy-chamallow	Sexy Chamallow		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Chamallow-71458.html				pending
 sexy-coconut	Sexy Coconut		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Coconut-14260.html				pending
 sexy-girl	Sexy Girl		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Girl-14261.html				pending
 sexy-girl-cant-stop	Sexy Girl Can't Stop		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Girl-Can-t-Stop-14258.html				pending
+sexy-me-no1	Sexy Me No1		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Me-No1-10576.html				pending
 sexy-me-no2	Sexy Me No2		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Me-No2-10577.html				pending
 sexy-me-no3	Sexy Me No3		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Me-No3-10578.html				pending
 sexy-me-no4	Sexy Me No4		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sexy-Me-No4-16994.html				pending
@@ -196,11 +187,14 @@ smiley	Smiley		unisex		https://www.fragrantica.com/perfume/Jeanne-Arthes/Smiley-
 sorbet-berries	Sorbet Berries		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sorbet-Berries-71457.html				pending
 sultan-blue	Sultan Blue		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultan-Blue-82591.html				pending
 sultan-men	Sultan Men		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultan-Men-10221.html				pending
+sultane	Sultane		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-5660.html				pending
 sultane-1001-nights	Sultane 1001 Nights		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-1001-Nights-10219.html				pending
 sultane-black-men	Sultane Black Men		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Black-Men-20387.html				pending
 sultane-fairy-rose	Sultane Fairy Rose		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Fairy-Rose-5661.html				pending
 sultane-gold	Sultane Gold		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Gold-5662.html				pending
 sultane-gold-men	Sultane Gold Men		male		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Gold-Men-20386.html				pending
+sultane-leau-fatale	Sultane L'Eau Fatale		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-L-Eau-Fatale-32555.html				pending
+sultane-noir-velours	Sultane Noir Velours		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Noir-Velours-14249.html				pending
 sultane-nuit-fatale	Sultane Nuit Fatale		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Nuit-Fatale-47217.html				pending
 sultane-parfum-fatal	Sultane Parfum Fatal		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Parfum-Fatal-32554.html				pending
 sultane-pink	Sultane Pink		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Pink-20383.html				pending
@@ -211,5 +205,11 @@ supercharged	Supercharged		male		https://www.fragrantica.com/perfume/Jeanne-Arth
 sur-un-nuage	Sur Un Nuage		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sur-Un-Nuage-5664.html				pending
 sur-un-nuage-daylight	Sur Un Nuage Daylight		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sur-Un-Nuage-Daylight-82585.html				pending
 sweet-sixteen	Sweet Sixteen		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Sweet-Sixteen-5665.html				pending
+tea-time-a-paris-chou-a-la-creme	Tea Time à Paris Chou à la crème		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Tea-Time-a-Paris-Chou-a-la-creme-117809.html				pending
+tea-time-a-paris-macaron-amande	Tea Time à Paris Macaron Amande		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Tea-Time-a-Paris-Macaron-Amande-73000.html				pending
+tea-time-a-paris-pavlova	Tea Time à Paris Pavlova		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Tea-Time-a-Paris-Pavlova-82584.html				pending
+tea-time-a-paris-tartelette-citron	Tea Time à Paris Tartelette Citron		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Tea-Time-a-Paris-Tartelette-Citron-91889.html				pending
+vanilla-ice-cream	Vanilla Ice Cream		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Vanilla-Ice-Cream-71459.html				pending
 vanille-framboise	Vanille Framboise		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Vanille-Framboise-84992.html				pending
+vanille-tropicale	Vanille Tropicale		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Vanille-Tropicale-29270.html				pending
 zingarella	Zingarella		female		https://www.fragrantica.com/perfume/Jeanne-Arthes/Zingarella-33157.html				pending

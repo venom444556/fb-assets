@@ -1,5 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-lucifer-collectors-edition	Lucifer Collector's Edition		unisex		https://www.fragrantica.com/perfume/G-Parfums/Lucifer-Collector-s-Edition-112439.html				pending
 alpha	Alpha		unisex		https://www.fragrantica.com/perfume/G-Parfums/Alpha-47582.html				pending
 amberose	Amberose		female		https://www.fragrantica.com/perfume/G-Parfums/Amberose-37452.html				pending
 aura	Aura		female		https://www.fragrantica.com/perfume/G-Parfums/Aura-37457.html				pending
@@ -15,6 +14,7 @@ from-past-to-future	From Past to Future		male		https://www.fragrantica.com/perfu
 invisible	Invisible		unisex		https://www.fragrantica.com/perfume/G-Parfums/Invisible-47584.html				pending
 iris-soul	Iris Soul		unisex		https://www.fragrantica.com/perfume/G-Parfums/Iris-Soul-47581.html				pending
 kirza	Kirza		unisex		https://www.fragrantica.com/perfume/G-Parfums/Kirza-38358.html				pending
+lucifer-collectors-edition	Lucifer Collector's Edition		unisex		https://www.fragrantica.com/perfume/G-Parfums/Lucifer-Collector-s-Edition-112439.html				pending
 mine	Mine		unisex		https://www.fragrantica.com/perfume/G-Parfums/Mine-45036.html				pending
 narcotic-amber	Narcotic Amber		unisex		https://www.fragrantica.com/perfume/G-Parfums/Narcotic-Amber-37450.html				pending
 nymphomaniac	Nymphomaniac		unisex		https://www.fragrantica.com/perfume/G-Parfums/Nymphomaniac-50552.html				pending

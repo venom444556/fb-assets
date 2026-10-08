@@ -1,10 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-chanson-deau-jasmine	Chanson d'Eau Jasmine		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Eau-Jasmine-92032.html				pending
-chanson-deau-lemon	Chanson d'Eau Lemon		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Eau-Lemon-92030.html				pending
-chanson-deau-rose	Chanson d'Eau Rose		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Eau-Rose-92031.html				pending
-chanson-deau-vanilla	Chanson d'Eau Vanilla		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Eau-Vanilla-92033.html				pending
-desperate-housewives-forbidden-fruit	Desperate Housewives Forbidden Fruit		female		https://www.fragrantica.com/perfume/Coty/Desperate-Housewives-Forbidden-Fruit-2970.html				pending
-stetson-black	Stetson Black		male		https://www.fragrantica.com/perfume/Coty/Stetson-Black-5507.html				pending
 asuma	A'Suma		female		https://www.fragrantica.com/perfume/Coty/A-Suma-38291.html				pending
 aspen	Aspen		female		https://www.fragrantica.com/perfume/Coty/Aspen-17325.html				pending
 aspen-discovery	Aspen Discovery		male		https://www.fragrantica.com/perfume/Coty/Aspen-Discovery-17327.html				pending
@@ -13,7 +7,11 @@ avatar	Avatar		male		https://www.fragrantica.com/perfume/Coty/Avatar-8894.html		
 celebrate	Celebrate		female		https://www.fragrantica.com/perfume/Coty/Celebrate-25460.html				pending
 chanson-dair	Chanson d'Air		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Air-22174.html				pending
 chanson-deau	Chanson d'Eau		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Eau-22173.html				pending
+chanson-deau-jasmine	Chanson d'Eau Jasmine		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Eau-Jasmine-92032.html				pending
+chanson-deau-lemon	Chanson d'Eau Lemon		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Eau-Lemon-92030.html				pending
 chanson-deau-mar-azul	Chanson D'eau Mar Azul		unisex		https://www.fragrantica.com/perfume/Coty/Chanson-D-eau-Mar-Azul-93978.html				pending
+chanson-deau-rose	Chanson d'Eau Rose		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Eau-Rose-92031.html				pending
+chanson-deau-vanilla	Chanson d'Eau Vanilla		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Eau-Vanilla-92033.html				pending
 chanson-demotions-pure-innocence	Chanson d'Emotions Pure Innocence		female		https://www.fragrantica.com/perfume/Coty/Chanson-d-Emotions-Pure-Innocence-9463.html				pending
 chanson-de-nuit	Chanson de Nuit		female		https://www.fragrantica.com/perfume/Coty/Chanson-de-Nuit-9462.html				pending
 chanson-de-vie	Chanson de Vie		female		https://www.fragrantica.com/perfume/Coty/Chanson-de-Vie-22175.html				pending
@@ -26,6 +24,7 @@ crossmen-ascot	Crossmen Ascot		male		https://www.fragrantica.com/perfume/Coty/Cr
 crossmen-original	Crossmen Original		male		https://www.fragrantica.com/perfume/Coty/Crossmen-Original-36503.html				pending
 crossmen-st-andrews	Crossmen St.Andrews		male		https://www.fragrantica.com/perfume/Coty/Crossmen-St-Andrews-42829.html				pending
 dark-vanilla	Dark Vanilla		female		https://www.fragrantica.com/perfume/Coty/Dark-Vanilla-6028.html				pending
+desperate-housewives-forbidden-fruit	Desperate Housewives Forbidden Fruit		female		https://www.fragrantica.com/perfume/Coty/Desperate-Housewives-Forbidden-Fruit-2970.html				pending
 dulce-vanilla	Dulce Vanilla		female		https://www.fragrantica.com/perfume/Coty/Dulce-Vanilla-4352.html				pending
 eau-masumi	Eau Masumi		female		https://www.fragrantica.com/perfume/Coty/Eau-Masumi-22892.html				pending
 elan	Elan		female		https://www.fragrantica.com/perfume/Coty/Elan-47952.html				pending
@@ -98,6 +97,7 @@ smitty	Smitty		female		https://www.fragrantica.com/perfume/Coty/Smitty-16974.htm
 sophia	Sophia		female		https://www.fragrantica.com/perfume/Coty/Sophia-9621.html				pending
 stetson	Stetson		male		https://www.fragrantica.com/perfume/Coty/Stetson-5506.html				pending
 stetson-all-american	Stetson All American		male		https://www.fragrantica.com/perfume/Coty/Stetson-All-American-9159.html				pending
+stetson-black	Stetson Black		male		https://www.fragrantica.com/perfume/Coty/Stetson-Black-5507.html				pending
 stetson-caliber	Stetson Caliber		male		https://www.fragrantica.com/perfume/Coty/Stetson-Caliber-41058.html				pending
 stetson-country	Stetson Country		male		https://www.fragrantica.com/perfume/Coty/Stetson-Country-5508.html				pending
 stetson-fresh	Stetson Fresh		male		https://www.fragrantica.com/perfume/Coty/Stetson-Fresh-2971.html				pending

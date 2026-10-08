@@ -1,4 +1,6 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+2000	2000		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/2000-9923.html				pending
+booster	Booster		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Booster-676.html				pending
 challenge	Challenge		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Challenge-5912.html				pending
 challenge-re-fresh	Challenge Re/Fresh		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Challenge-Re-Fresh-13229.html				pending
 cool-play	Cool Play		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Cool-Play-675.html				pending
@@ -26,6 +28,7 @@ eau-de-lacoste-l-12-12-rouge	Eau de Lacoste L.12.12. Rouge		male		https://www.fr
 eau-de-lacoste-l-12-12-white	Eau de Lacoste L.12.12. White		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Eau-de-Lacoste-L-12-12-White-11043.html				pending
 eau-de-lacoste-pour-homme-l-12-12-magnetic	Eau de Lacoste Pour Homme L.12.12. Magnetic		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Eau-de-Lacoste-Pour-Homme-L-12-12-Magnetic-41265.html				pending
 eau-de-lacoste-sensuelle	Eau De Lacoste Sensuelle		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Eau-De-Lacoste-Sensuelle-22335.html				pending
+eau-de-sport	Eau de Sport		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Eau-de-Sport-784.html				pending
 essential	Essential		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Essential-787.html				pending
 femme-de-lacoste	Femme de Lacoste		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Femme-de-Lacoste-5169.html				pending
 hot-play	Hot Play		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Hot-Play-1132.html				pending
@@ -43,10 +46,13 @@ l-12-12-silver-grey	L.12.12 Silver Grey		male		https://www.fragrantica.com/perfu
 l-12-12-silver-rose	L.12.12 Silver Rose		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/L-12-12-Silver-Rose-105771.html				pending
 l-12-12-blanc-eau-intense	L.12.12. Blanc Eau Intense		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/L-12-12-Blanc-Eau-Intense-79346.html				pending
 l-12-12-rose-eau-intense	L.12.12. Rose Eau Intense		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/L-12-12-Rose-Eau-Intense-79345.html				pending
+lacoste	Lacoste		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-671.html				pending
 lacoste-booster	Lacoste Booster		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Booster-72220.html				pending
 lacoste-elegance	Lacoste Elegance		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Elegance-2093.html				pending
 lacoste-essential-collector-edition	Lacoste Essential Collector Edition		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Essential-Collector-Edition-4829.html				pending
 lacoste-essential-sport	Lacoste Essential Sport		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Essential-Sport-8158.html				pending
+lacoste-for-women	Lacoste for Women		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-for-Women-12147.html				pending
+lacoste-l-ive	Lacoste L!ive		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-L-ive-72063.html				pending
 lacoste-live	Lacoste Live		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Live-24922.html				pending
 lacoste-original	Lacoste Original		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Original-93832.html				pending
 lacoste-original-aqua	Lacoste Original Aqua		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Original-Aqua-124054.html				pending
@@ -58,6 +64,7 @@ lacoste-pour-femme-intense	Lacoste Pour Femme Intense		female		https://www.fragr
 lacoste-pour-femme-legere	Lacoste Pour Femme Légère		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Pour-Femme-Legere-44165.html				pending
 lacoste-pour-femme-timeless	Lacoste Pour Femme Timeless		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Pour-Femme-Timeless-55988.html				pending
 lacoste-pour-homme	Lacoste Pour Homme		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-Pour-Homme-670.html				pending
+land	Land		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Land-33543.html				pending
 love-of-pink	Love of Pink		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Love-of-Pink-5404.html				pending
 match-point	Match Point		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Match-Point-62252.html				pending
 match-point-cologne-eau-de-toilette	Match Point Cologne Eau de Toilette		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Match-Point-Cologne-Eau-de-Toilette-75856.html				pending
@@ -67,10 +74,3 @@ style-in-play	Style in Play		male		https://www.fragrantica.com/perfume/Lacoste-F
 touch-of-pink	Touch of Pink		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Touch-of-Pink-673.html				pending
 touch-of-spring	Touch of Spring		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Touch-of-Spring-2365.html				pending
 touch-of-sun	Touch of Sun		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Touch-of-Sun-672.html				pending
-2000	2000		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/2000-9923.html				pending
-booster	Booster		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Booster-676.html				pending
-eau-de-sport	Eau de Sport		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Eau-de-Sport-784.html				pending
-lacoste	Lacoste		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-671.html				pending
-lacoste-for-women	Lacoste for Women		female		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-for-Women-12147.html				pending
-lacoste-l-ive	Lacoste L!ive		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Lacoste-L-ive-72063.html				pending
-land	Land		male		https://www.fragrantica.com/perfume/Lacoste-Fragrances/Land-33543.html				pending

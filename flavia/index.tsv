@@ -1,11 +1,6 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bafric	B'Afric		unisex		https://www.fragrantica.com/perfume/Flavia/B-Afric-85201.html				pending
-cherry-lust	Cherry Lust		unisex		https://www.fragrantica.com/perfume/Flavia/Cherry-Lust-85193.html				pending
-koral-pour-homme	Koral Pour Homme		male		https://www.fragrantica.com/perfume/Flavia/Koral-Pour-Homme-85191.html				pending
-limpression	L'Impression		unisex		https://www.fragrantica.com/perfume/Flavia/L-Impression-85192.html				pending
-peach-honey	Peach Honey		unisex		https://www.fragrantica.com/perfume/Flavia/Peach-Honey-85194.html				pending
-vanilla-and-tobacco	Vanilla & Tobacco		unisex		https://www.fragrantica.com/perfume/Flavia/Vanilla-Tobacco-85199.html				pending
 amber-elixir	Amber Elixir		unisex		https://www.fragrantica.com/perfume/Flavia/Amber-Elixir-91250.html				pending
+bafric	B'Afric		unisex		https://www.fragrantica.com/perfume/Flavia/B-Afric-85201.html				pending
 blackart-rouge-intense	Blackart Rouge Intense		unisex		https://www.fragrantica.com/perfume/Flavia/Blackart-Rouge-Intense-85197.html				pending
 bois-doud	Bois d'Oud		unisex		https://www.fragrantica.com/perfume/Flavia/Bois-d-Oud-91012.html				pending
 burning-oud-desire	Burning Oud Desire		unisex		https://www.fragrantica.com/perfume/Flavia/Burning-Oud-Desire-91245.html				pending
@@ -13,6 +8,7 @@ charming-lady	Charming Lady		female		https://www.fragrantica.com/perfume/Flavia/
 cherry-crush	Cherry Crush		unisex		https://www.fragrantica.com/perfume/Flavia/Cherry-Crush-91020.html				pending
 cherry-delight	Cherry Delight		unisex		https://www.fragrantica.com/perfume/Flavia/Cherry-Delight-91017.html				pending
 cherry-ghost	Cherry Ghost		unisex		https://www.fragrantica.com/perfume/Flavia/Cherry-Ghost-91019.html				pending
+cherry-lust	Cherry Lust		unisex		https://www.fragrantica.com/perfume/Flavia/Cherry-Lust-85193.html				pending
 cygnus-pour-femme	Cygnus Pour Femme		female		https://www.fragrantica.com/perfume/Flavia/Cygnus-Pour-Femme-85226.html				pending
 cygnus-pour-homme	Cygnus Pour Homme		male		https://www.fragrantica.com/perfume/Flavia/Cygnus-Pour-Homme-85227.html				pending
 eclat-de-rosier	Eclat de Rosier		unisex		https://www.fragrantica.com/perfume/Flavia/Eclat-de-Rosier-91015.html				pending
@@ -30,7 +26,9 @@ imperio-intense	Imperio Intense		unisex		https://www.fragrantica.com/perfume/Fla
 initial	Initial		unisex		https://www.fragrantica.com/perfume/Flavia/Initial-85188.html				pending
 italian-leather	Italian Leather		unisex		https://www.fragrantica.com/perfume/Flavia/Italian-Leather-85216.html				pending
 kiss-me-for-women	Kiss Me for Women		female		https://www.fragrantica.com/perfume/Flavia/Kiss-Me-for-Women-85198.html				pending
+koral-pour-homme	Koral Pour Homme		male		https://www.fragrantica.com/perfume/Flavia/Koral-Pour-Homme-85191.html				pending
 leau-de-nroli	L'Eau de N'roli		unisex		https://www.fragrantica.com/perfume/Flavia/L-Eau-de-N-roli-85217.html				pending
+limpression	L'Impression		unisex		https://www.fragrantica.com/perfume/Flavia/L-Impression-85192.html				pending
 leather-noir	Leather Noir		unisex		https://www.fragrantica.com/perfume/Flavia/Leather-Noir-91248.html				pending
 luxuria-pour-femme	Luxuria Pour Femme		female		https://www.fragrantica.com/perfume/Flavia/Luxuria-Pour-Femme-85212.html				pending
 majestic-oud	Majestic Oud		unisex		https://www.fragrantica.com/perfume/Flavia/Majestic-Oud-85220.html				pending
@@ -44,6 +42,7 @@ noir-orchidee	Noir Orchidee		unisex		https://www.fragrantica.com/perfume/Flavia/
 nouveau-ambre	Nouveau Ambre		unisex		https://www.fragrantica.com/perfume/Flavia/Nouveau-Ambre-85189.html				pending
 oasis-de-neroli	Oasis de Neroli		unisex		https://www.fragrantica.com/perfume/Flavia/Oasis-de-Neroli-91022.html				pending
 p-by-prince	P by Prince		male		https://www.fragrantica.com/perfume/Flavia/P-by-Prince-91327.html				pending
+peach-honey	Peach Honey		unisex		https://www.fragrantica.com/perfume/Flavia/Peach-Honey-85194.html				pending
 pearl	Pearl		unisex		https://www.fragrantica.com/perfume/Flavia/Pearl-91251.html				pending
 pegasus-pour-femme	Pegasus Pour Femme		female		https://www.fragrantica.com/perfume/Flavia/Pegasus-Pour-Femme-85208.html				pending
 pegasus-pour-homme	Pegasus Pour Homme		male		https://www.fragrantica.com/perfume/Flavia/Pegasus-Pour-Homme-85209.html				pending
@@ -68,6 +67,7 @@ solidos-pour-homme	Solidos Pour Homme		male		https://www.fragrantica.com/perfume
 tangy-cherry	Tangy Cherry		unisex		https://www.fragrantica.com/perfume/Flavia/Tangy-Cherry-91010.html				pending
 tender-vetiver	Tender Vetiver		unisex		https://www.fragrantica.com/perfume/Flavia/Tender-Vetiver-91246.html				pending
 tuscan-essence	Tuscan Essence		unisex		https://www.fragrantica.com/perfume/Flavia/Tuscan-Essence-91016.html				pending
+vanilla-and-tobacco	Vanilla & Tobacco		unisex		https://www.fragrantica.com/perfume/Flavia/Vanilla-Tobacco-85199.html				pending
 viking-pour-femme	Viking Pour Femme		female		https://www.fragrantica.com/perfume/Flavia/Viking-Pour-Femme-85204.html				pending
 viking-pour-homme	Viking Pour Homme		male		https://www.fragrantica.com/perfume/Flavia/Viking-Pour-Homme-85205.html				pending
 zolo-men	Zolo Men		male		https://www.fragrantica.com/perfume/Flavia/Zolo-Men-85202.html				pending

@@ -1,6 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-rose-silver-violette	Rose Silver Violette		female		https://www.fragrantica.com/perfume/Sergio-Nero/Rose-Silver-Violette-58271.html				pending
-sergio-nero-pour-homme	Sergio Nero Pour Homme		male		https://www.fragrantica.com/perfume/Sergio-Nero/Sergio-Nero-Pour-Homme-18865.html				pending
 admiral	Admiral		male		https://www.fragrantica.com/perfume/Sergio-Nero/Admiral-27016.html				pending
 admiral-andreyevskiy-flag	Admiral Andreyevskiy Flag		male		https://www.fragrantica.com/perfume/Sergio-Nero/Admiral-Andreyevskiy-Flag-40051.html				pending
 admiral-patriot	Admiral Patriot		male		https://www.fragrantica.com/perfume/Sergio-Nero/Admiral-Patriot-27017.html				pending
@@ -33,6 +31,7 @@ my-pearl-divine	My Pearl Divine		female		https://www.fragrantica.com/perfume/Ser
 my-pearl-romantic	My Pearl Romantic		female		https://www.fragrantica.com/perfume/Sergio-Nero/My-Pearl-Romantic-40054.html				pending
 my-pearl-sensual	My Pearl Sensual		female		https://www.fragrantica.com/perfume/Sergio-Nero/My-Pearl-Sensual-40055.html				pending
 red-moon-pour-femme	Red Moon Pour Femme		female		https://www.fragrantica.com/perfume/Sergio-Nero/Red-Moon-Pour-Femme-47365.html				pending
+rose-silver-violette	Rose Silver Violette		female		https://www.fragrantica.com/perfume/Sergio-Nero/Rose-Silver-Violette-58271.html				pending
 russian-flowers-blossom	Russian Flowers Blossom		female		https://www.fragrantica.com/perfume/Sergio-Nero/Russian-Flowers-Blossom-58381.html				pending
 russian-flowers-bright	Russian Flowers Bright		female		https://www.fragrantica.com/perfume/Sergio-Nero/Russian-Flowers-Bright-58382.html				pending
 russian-flowers-exciting	Russian Flowers Exciting		female		https://www.fragrantica.com/perfume/Sergio-Nero/Russian-Flowers-Exciting-58380.html				pending
@@ -42,6 +41,7 @@ russian-police-hot-heart	Russian Police Hot Heart		male		https://www.fragrantica
 russian-present-blue	Russian Present Blue		female		https://www.fragrantica.com/perfume/Sergio-Nero/Russian-Present-Blue-40793.html				pending
 russian-present-magic	Russian Present Magic		female		https://www.fragrantica.com/perfume/Sergio-Nero/Russian-Present-Magic-40792.html				pending
 russian-present-red	Russian Present Red		female		https://www.fragrantica.com/perfume/Sergio-Nero/Russian-Present-Red-40794.html				pending
+sergio-nero-pour-homme	Sergio Nero Pour Homme		male		https://www.fragrantica.com/perfume/Sergio-Nero/Sergio-Nero-Pour-Homme-18865.html				pending
 sputnik	Sputnik		male		https://www.fragrantica.com/perfume/Sergio-Nero/Sputnik-47366.html				pending
 vanilla-patchouli-dor	Vanilla Patchouli d'Or		unisex		https://www.fragrantica.com/perfume/Sergio-Nero/Vanilla-Patchouli-d-Or-88555.html				pending
 woman	Woman		female		https://www.fragrantica.com/perfume/Sergio-Nero/Woman-32716.html				pending

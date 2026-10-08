@@ -1,18 +1,10 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bruce-willis	Bruce Willis		male		https://www.fragrantica.com/perfume/LR/Bruce-Willis-9611.html				pending
-harem	Harem		female		https://www.fragrantica.com/perfume/LR/Harem-10300.html				pending
-heidi-klum-dreams	Heidi Klum Dreams		female		https://www.fragrantica.com/perfume/LR/Heidi-Klum-Dreams-9747.html				pending
-jungle-man	Jungle Man		male		https://www.fragrantica.com/perfume/LR/Jungle-Man-10306.html				pending
-karolina-kurkova	Karolina Kurkova		female		https://www.fragrantica.com/perfume/LR/Karolina-Kurkova-18404.html				pending
-leona-lewis	Leona Lewis		female		https://www.fragrantica.com/perfume/LR/Leona-Lewis-6645.html				pending
-lovingly-by-bruce-willis	Lovingly by Bruce Willis		female		https://www.fragrantica.com/perfume/LR/Lovingly-by-Bruce-Willis-14698.html				pending
-pseudonym	Pseudonym		female		https://www.fragrantica.com/perfume/LR/Pseudonym-10304.html				pending
-terminator	Terminator		male		https://www.fragrantica.com/perfume/LR/Terminator-10308.html				pending
 agent-xx	Agent XX		female		https://www.fragrantica.com/perfume/LR/Agent-XX-10301.html				pending
 agent-xy	Agent XY		male		https://www.fragrantica.com/perfume/LR/Agent-XY-10302.html				pending
 anna-frost	Anna Frost		female		https://www.fragrantica.com/perfume/LR/Anna-Frost-28152.html				pending
 beauty-queen	Beauty Queen		female		https://www.fragrantica.com/perfume/LR/Beauty-Queen-10305.html				pending
 boris-becker	Boris Becker		male		https://www.fragrantica.com/perfume/LR/Boris-Becker-9749.html				pending
+bruce-willis	Bruce Willis		male		https://www.fragrantica.com/perfume/LR/Bruce-Willis-9611.html				pending
 bruce-willis-personal-edition	Bruce Willis Personal Edition		male		https://www.fragrantica.com/perfume/LR/Bruce-Willis-Personal-Edition-23011.html				pending
 bruce-willis-personal-edition-winter-edition	Bruce Willis Personal Edition Winter Edition		male		https://www.fragrantica.com/perfume/LR/Bruce-Willis-Personal-Edition-Winter-Edition-41961.html				pending
 carmen-electra	Carmen Electra		female		https://www.fragrantica.com/perfume/LR/Carmen-Electra-2973.html				pending
@@ -26,13 +18,19 @@ emma-heming-willis-essence-of-rose	Emma Heming-Willis Essence of Rose		female		h
 femme-noblesse	Femme Noblesse		female		https://www.fragrantica.com/perfume/LR/Femme-Noblesse-15748.html				pending
 guido-maria-kretschmer-for-her	Guido Maria Kretschmer For Her		female		https://www.fragrantica.com/perfume/LR/Guido-Maria-Kretschmer-For-Her-36803.html				pending
 guido-maria-kretschmer-for-him	Guido Maria Kretschmer For Him		male		https://www.fragrantica.com/perfume/LR/Guido-Maria-Kretschmer-For-Him-36804.html				pending
+harem	Harem		female		https://www.fragrantica.com/perfume/LR/Harem-10300.html				pending
 heidi-klum	Heidi Klum		female		https://www.fragrantica.com/perfume/LR/Heidi-Klum-9745.html				pending
+heidi-klum-dreams	Heidi Klum Dreams		female		https://www.fragrantica.com/perfume/LR/Heidi-Klum-Dreams-9747.html				pending
 heidi-klum-me	Heidi Klum Me		female		https://www.fragrantica.com/perfume/LR/Heidi-Klum-Me-9746.html				pending
 iris-berben	Iris Berben		female		https://www.fragrantica.com/perfume/LR/Iris-Berben-10303.html				pending
+jungle-man	Jungle Man		male		https://www.fragrantica.com/perfume/LR/Jungle-Man-10306.html				pending
 karolina-by-karolina-kurkova	Karolina by Karolina Kurkova		female		https://www.fragrantica.com/perfume/LR/Karolina-by-Karolina-Kurkova-28495.html				pending
 karolina-by-karolina-kurkova-summer-edition	Karolina by Karolina Kurkova Summer Edition		female		https://www.fragrantica.com/perfume/LR/Karolina-by-Karolina-Kurkova-Summer-Edition-38443.html				pending
 karolina-by-karolina-kurkova-winter-edition	Karolina by Karolina Kurkova Winter Edition		female		https://www.fragrantica.com/perfume/LR/Karolina-by-Karolina-Kurkova-Winter-Edition-41958.html				pending
+karolina-kurkova	Karolina Kurkova		female		https://www.fragrantica.com/perfume/LR/Karolina-Kurkova-18404.html				pending
+leona-lewis	Leona Lewis		female		https://www.fragrantica.com/perfume/LR/Leona-Lewis-6645.html				pending
 leona-lewis-summer-edition	Leona Lewis Summer Edition		female		https://www.fragrantica.com/perfume/LR/Leona-Lewis-Summer-Edition-12653.html				pending
+lovingly-by-bruce-willis	Lovingly by Bruce Willis		female		https://www.fragrantica.com/perfume/LR/Lovingly-by-Bruce-Willis-14698.html				pending
 lr-classics-antigua	LR Classics Antigua		female		https://www.fragrantica.com/perfume/LR/LR-Classics-Antigua-10309.html				pending
 lr-classics-florence	LR Classics Florence		female		https://www.fragrantica.com/perfume/LR/LR-Classics-Florence-10317.html				pending
 lr-classics-hawaii	LR Classics Hawaii		female		https://www.fragrantica.com/perfume/LR/LR-Classics-Hawaii-10318.html				pending
@@ -44,8 +42,10 @@ lr-classics-singapore	LR Classics Singapore		male		https://www.fragrantica.com/p
 marcus-schenkenberg-eau-de-parfum	Marcus Schenkenberg Eau de Parfum		male		https://www.fragrantica.com/perfume/LR/Marcus-Schenkenberg-Eau-de-Parfum-6644.html				pending
 michael-schumacher	Michael Schumacher		male		https://www.fragrantica.com/perfume/LR/Michael-Schumacher-9750.html				pending
 ocean-sky	Ocean' Sky		female		https://www.fragrantica.com/perfume/LR/Ocean-Sky-10307.html				pending
+pseudonym	Pseudonym		female		https://www.fragrantica.com/perfume/LR/Pseudonym-10304.html				pending
 ralf-moeller	Ralf Moeller		male		https://www.fragrantica.com/perfume/LR/Ralf-Moeller-9751.html				pending
 sarah-connor	Sarah Connor		female		https://www.fragrantica.com/perfume/LR/Sarah-Connor-9748.html				pending
 sweet-temptation-green	Sweet Temptation Green		female		https://www.fragrantica.com/perfume/LR/Sweet-Temptation-Green-30201.html				pending
 sweet-temptation-pink	Sweet Temptation Pink		female		https://www.fragrantica.com/perfume/LR/Sweet-Temptation-Pink-30202.html				pending
 sweet-temptation-yellow	Sweet Temptation Yellow		female		https://www.fragrantica.com/perfume/LR/Sweet-Temptation-Yellow-30203.html				pending
+terminator	Terminator		male		https://www.fragrantica.com/perfume/LR/Terminator-10308.html				pending

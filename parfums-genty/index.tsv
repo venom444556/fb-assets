@@ -1,19 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-colore-colore-silk-beige	Colore Colore Silk Beige		female		https://www.fragrantica.com/perfume/Parfums-Genty/Colore-Colore-Silk-Beige-24048.html				pending
-cuddle	Cuddle		female		https://www.fragrantica.com/perfume/Parfums-Genty/Cuddle-88514.html				pending
-dream-far-and-wide	Dream Far and Wide		female		https://www.fragrantica.com/perfume/Parfums-Genty/Dream-Far-and-Wide-44207.html				pending
-evoke	Evoke		female		https://www.fragrantica.com/perfume/Parfums-Genty/Evoke-42859.html				pending
-explore-all-that-is-around-you	Explore All That is Around You		female		https://www.fragrantica.com/perfume/Parfums-Genty/Explore-All-That-is-Around-You-44209.html				pending
-feel-no-limits	Feel No Limits		female		https://www.fragrantica.com/perfume/Parfums-Genty/Feel-No-Limits-44210.html				pending
-fly-high-up-into-the-sky	Fly High Up Into the Sky		female		https://www.fragrantica.com/perfume/Parfums-Genty/Fly-High-Up-Into-the-Sky-44212.html				pending
-laugh-as-much-as-you-breath	Laugh as Much as You Breath		female		https://www.fragrantica.com/perfume/Parfums-Genty/Laugh-as-Much-as-You-Breath-44211.html				pending
-live-every-single-moment	Live Every Single Moment		female		https://www.fragrantica.com/perfume/Parfums-Genty/Live-Every-Single-Moment-44208.html				pending
-love-fiercely-truly-and-deeply	Love Fiercely, Truly and Deeply		female		https://www.fragrantica.com/perfume/Parfums-Genty/Love-Fiercely-Truly-and-Deeply-44204.html				pending
-parfum-de-lune-claire	Parfum de Lune Claire		female		https://www.fragrantica.com/perfume/Parfums-Genty/Parfum-de-Lune-Claire-24055.html				pending
-poem	Poem		female		https://www.fragrantica.com/perfume/Parfums-Genty/Poem-42861.html				pending
-smile-for-no-reason	Smile For No Reason		female		https://www.fragrantica.com/perfume/Parfums-Genty/Smile-For-No-Reason-44206.html				pending
-travel-to-see-yourself	Travel To See Yourself		female		https://www.fragrantica.com/perfume/Parfums-Genty/Travel-To-See-Yourself-44205.html				pending
-younique	Younique		female		https://www.fragrantica.com/perfume/Parfums-Genty/Younique-42860.html				pending
 alto-mare	Alto Mare		male		https://www.fragrantica.com/perfume/Parfums-Genty/Alto-Mare-24036.html				pending
 alto-mare-blue	Alto Mare Blue		male		https://www.fragrantica.com/perfume/Parfums-Genty/Alto-Mare-Blue-24037.html				pending
 alto-mare-marengo	Alto Mare Marengo		male		https://www.fragrantica.com/perfume/Parfums-Genty/Alto-Mare-Marengo-28166.html				pending
@@ -46,11 +31,13 @@ colore-colore-pink	Colore Colore Pink		female		https://www.fragrantica.com/perfu
 colore-colore-pretty-bouquet	Colore Colore Pretty Bouquet		female		https://www.fragrantica.com/perfume/Parfums-Genty/Colore-Colore-Pretty-Bouquet-24044.html				pending
 colore-colore-sensual-bouquet	Colore Colore Sensual Bouquet		female		https://www.fragrantica.com/perfume/Parfums-Genty/Colore-Colore-Sensual-Bouquet-24045.html				pending
 colore-colore-silk	Colore Colore Silk		female		https://www.fragrantica.com/perfume/Parfums-Genty/Colore-Colore-Silk-24046.html				pending
+colore-colore-silk-beige	Colore Colore Silk Beige		female		https://www.fragrantica.com/perfume/Parfums-Genty/Colore-Colore-Silk-Beige-24048.html				pending
 colore-colore-silk-rose	Colore Colore Silk Rose		female		https://www.fragrantica.com/perfume/Parfums-Genty/Colore-Colore-Silk-Rose-24047.html				pending
 colore-colore-violet	Colore Colore Violet		female		https://www.fragrantica.com/perfume/Parfums-Genty/Colore-Colore-Violet-28577.html				pending
 colore-colore-yellow	Colore Colore Yellow		female		https://www.fragrantica.com/perfume/Parfums-Genty/Colore-Colore-Yellow-29251.html				pending
 crystal-aqua-for-men-deep	Crystal Aqua For Men Deep		male		https://www.fragrantica.com/perfume/Parfums-Genty/Crystal-Aqua-For-Men-Deep-24049.html				pending
 crystal-aqua-for-men-pure	Crystal Aqua For Men Pure		male		https://www.fragrantica.com/perfume/Parfums-Genty/Crystal-Aqua-For-Men-Pure-24050.html				pending
+cuddle	Cuddle		female		https://www.fragrantica.com/perfume/Parfums-Genty/Cuddle-88514.html				pending
 delicata-fiori	Delicata Fiori		female		https://www.fragrantica.com/perfume/Parfums-Genty/Delicata-Fiori-51127.html				pending
 delicata-gelsomino	Delicata Gelsomino		female		https://www.fragrantica.com/perfume/Parfums-Genty/Delicata-Gelsomino-51128.html				pending
 delicata-lilla	Delicata Lilla		female		https://www.fragrantica.com/perfume/Parfums-Genty/Delicata-Lilla-51130.html				pending
@@ -58,18 +45,26 @@ delicata-peonia	Delicata Peonia		female		https://www.fragrantica.com/perfume/Par
 delicata-rose	Delicata Rose		female		https://www.fragrantica.com/perfume/Parfums-Genty/Delicata-Rose-51131.html				pending
 delicate	Delicate		female		https://www.fragrantica.com/perfume/Parfums-Genty/Delicate-88526.html				pending
 discovery	Discovery		male		https://www.fragrantica.com/perfume/Parfums-Genty/Discovery-29845.html				pending
+dream-far-and-wide	Dream Far and Wide		female		https://www.fragrantica.com/perfume/Parfums-Genty/Dream-Far-and-Wide-44207.html				pending
 eclege	Eclege		female		https://www.fragrantica.com/perfume/Parfums-Genty/Eclege-51123.html				pending
+evoke	Evoke		female		https://www.fragrantica.com/perfume/Parfums-Genty/Evoke-42859.html				pending
+explore-all-that-is-around-you	Explore All That is Around You		female		https://www.fragrantica.com/perfume/Parfums-Genty/Explore-All-That-is-Around-You-44209.html				pending
+feel-no-limits	Feel No Limits		female		https://www.fragrantica.com/perfume/Parfums-Genty/Feel-No-Limits-44210.html				pending
+fly-high-up-into-the-sky	Fly High Up Into the Sky		female		https://www.fragrantica.com/perfume/Parfums-Genty/Fly-High-Up-Into-the-Sky-44212.html				pending
 genty-pour-homme	Genty Pour Homme		male		https://www.fragrantica.com/perfume/Parfums-Genty/Genty-Pour-Homme-24726.html				pending
 heart-to-heart	Heart-To-Heart		female		https://www.fragrantica.com/perfume/Parfums-Genty/Heart-To-Heart-88528.html				pending
 jardin-de-genty-blanc	Jardin de Genty Blanc		female		https://www.fragrantica.com/perfume/Parfums-Genty/Jardin-de-Genty-Blanc-24051.html				pending
 jardin-de-genty-rosier	Jardin de Genty Rosier		female		https://www.fragrantica.com/perfume/Parfums-Genty/Jardin-de-Genty-Rosier-24727.html				pending
 jardin-de-genty-violet	Jardin de Genty Violet		female		https://www.fragrantica.com/perfume/Parfums-Genty/Jardin-de-Genty-Violet-24728.html				pending
+laugh-as-much-as-you-breath	Laugh as Much as You Breath		female		https://www.fragrantica.com/perfume/Parfums-Genty/Laugh-as-Much-as-You-Breath-44211.html				pending
 like-delight	Like Delight		female		https://www.fragrantica.com/perfume/Parfums-Genty/Like-Delight-46768.html				pending
 like-diamond	Like Diamond		female		https://www.fragrantica.com/perfume/Parfums-Genty/Like-Diamond-46772.html				pending
 like-joy	Like Joy		female		https://www.fragrantica.com/perfume/Parfums-Genty/Like-Joy-46771.html				pending
 like-kiss	Like Kiss		female		https://www.fragrantica.com/perfume/Parfums-Genty/Like-Kiss-46769.html				pending
 like-love	Like Love		female		https://www.fragrantica.com/perfume/Parfums-Genty/Like-Love-46773.html				pending
 like-me	Like Me		female		https://www.fragrantica.com/perfume/Parfums-Genty/Like-Me-46770.html				pending
+live-every-single-moment	Live Every Single Moment		female		https://www.fragrantica.com/perfume/Parfums-Genty/Live-Every-Single-Moment-44208.html				pending
+love-fiercely-truly-and-deeply	Love Fiercely, Truly and Deeply		female		https://www.fragrantica.com/perfume/Parfums-Genty/Love-Fiercely-Truly-and-Deeply-44204.html				pending
 lovely-heart	Lovely Heart		female		https://www.fragrantica.com/perfume/Parfums-Genty/Lovely-Heart-29617.html				pending
 lovely-heart-sweet	Lovely Heart Sweet		female		https://www.fragrantica.com/perfume/Parfums-Genty/Lovely-Heart-Sweet-24729.html				pending
 mens-fashion-black-label	Men's Fashion Black Label		male		https://www.fragrantica.com/perfume/Parfums-Genty/Men-s-Fashion-Black-Label-24052.html				pending
@@ -86,6 +81,7 @@ niagara-night	Niagara Night		female		https://www.fragrantica.com/perfume/Parfums
 niagara-tendre	Niagara Tendre		female		https://www.fragrantica.com/perfume/Parfums-Genty/Niagara-Tendre-38917.html				pending
 niagara-tendre-51126	Niagara Tendre		female		https://www.fragrantica.com/perfume/Parfums-Genty/Niagara-Tendre-51126.html				pending
 parfum-de-lune	Parfum de Lune		female		https://www.fragrantica.com/perfume/Parfums-Genty/Parfum-de-Lune-24054.html				pending
+parfum-de-lune-claire	Parfum de Lune Claire		female		https://www.fragrantica.com/perfume/Parfums-Genty/Parfum-de-Lune-Claire-24055.html				pending
 parfum-de-lune-magique	Parfum De Lune Magique		female		https://www.fragrantica.com/perfume/Parfums-Genty/Parfum-De-Lune-Magique-29250.html				pending
 parliament	Parliament		male		https://www.fragrantica.com/perfume/Parfums-Genty/Parliament-51072.html				pending
 parliament-black-label	Parliament Black Label		male		https://www.fragrantica.com/perfume/Parfums-Genty/Parliament-Black-Label-51080.html				pending
@@ -94,6 +90,7 @@ parliament-platinum	Parliament Platinum		male		https://www.fragrantica.com/perfu
 parliament-royal	Parliament Royal		male		https://www.fragrantica.com/perfume/Parfums-Genty/Parliament-Royal-51084.html				pending
 people	People		male		https://www.fragrantica.com/perfume/Parfums-Genty/People-24056.html				pending
 people-power	People Power		male		https://www.fragrantica.com/perfume/Parfums-Genty/People-Power-24730.html				pending
+poem	Poem		female		https://www.fragrantica.com/perfume/Parfums-Genty/Poem-42861.html				pending
 reality	Reality		male		https://www.fragrantica.com/perfume/Parfums-Genty/Reality-24057.html				pending
 reality-sport	Reality Sport		male		https://www.fragrantica.com/perfume/Parfums-Genty/Reality-Sport-24058.html				pending
 satomi-black	Satomi Black		female		https://www.fragrantica.com/perfume/Parfums-Genty/Satomi-Black-29248.html				pending
@@ -104,6 +101,7 @@ silent	Silent		female		https://www.fragrantica.com/perfume/Parfums-Genty/Silent-
 sincere	Sincere		female		https://www.fragrantica.com/perfume/Parfums-Genty/Sincere-88529.html				pending
 skyline	Skyline		male		https://www.fragrantica.com/perfume/Parfums-Genty/Skyline-29848.html				pending
 skyline-pacific	Skyline Pacific		male		https://www.fragrantica.com/perfume/Parfums-Genty/Skyline-Pacific-29850.html				pending
+smile-for-no-reason	Smile For No Reason		female		https://www.fragrantica.com/perfume/Parfums-Genty/Smile-For-No-Reason-44206.html				pending
 sniper	Sniper		male		https://www.fragrantica.com/perfume/Parfums-Genty/Sniper-51103.html				pending
 sniper-extreme	Sniper Extreme		male		https://www.fragrantica.com/perfume/Parfums-Genty/Sniper-Extreme-51104.html				pending
 sniper-mission	Sniper Mission		male		https://www.fragrantica.com/perfume/Parfums-Genty/Sniper-Mission-51105.html				pending
@@ -112,3 +110,5 @@ sniper-platinum	Sniper Platinum		male		https://www.fragrantica.com/perfume/Parfu
 snug	Snug		female		https://www.fragrantica.com/perfume/Parfums-Genty/Snug-88527.html				pending
 speaker-of-parliament	Speaker of Parliament		male		https://www.fragrantica.com/perfume/Parfums-Genty/Speaker-of-Parliament-51082.html				pending
 sword	Sword		male		https://www.fragrantica.com/perfume/Parfums-Genty/Sword-51110.html				pending
+travel-to-see-yourself	Travel To See Yourself		female		https://www.fragrantica.com/perfume/Parfums-Genty/Travel-To-See-Yourself-44205.html				pending
+younique	Younique		female		https://www.fragrantica.com/perfume/Parfums-Genty/Younique-42860.html				pending

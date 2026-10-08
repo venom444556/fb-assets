@@ -1,12 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-coco-lada	Coco Lada		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Coco-Lada-68436.html				pending
-fairy-land	Fairy Land		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Fairy-Land-61021.html				pending
-lady-glitter	Lady Glitter		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Lady-Glitter-111089.html				pending
-monoi-des-iles	Monoï Des Iles		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Monoi-Des-Iles-68450.html				pending
-starnight	Starnight		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Starnight-77975.html				pending
-toscana-vita	Toscana Vita		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Toscana-Vita-103364.html				pending
-verveine-fizz	Verveine Fizz		male		https://www.fragrantica.com/perfume/Adopt-Parfums/Verveine-Fizz-68437.html				pending
-wonderful	Wonderful		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Wonderful-107553.html				pending
 agrumes-boises	Agrumes Boisés		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Agrumes-Boises-23419.html				pending
 agrumes-poudres	Agrumes Poudrés		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Agrumes-Poudres-34783.html				pending
 ambre-fleur-doranger	Ambre Fleur d'Oranger		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Ambre-Fleur-d-Oranger-23421.html				pending
@@ -34,9 +26,11 @@ chocolat	Chocolat		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Cho
 citronnade	Citronnade		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Citronnade-23439.html				pending
 coca-mania	Coca Mania		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Coca-Mania-23469.html				pending
 coco	Coco		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Coco-23468.html				pending
+coco-lada	Coco Lada		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Coco-Lada-68436.html				pending
 cuba-club	Cuba Club		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Cuba-Club-93972.html				pending
 dubai-palace	Dubaï Palace		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Dubai-Palace-93977.html				pending
 eau-argentee	Eau Argentée		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Eau-Argentee-23492.html				pending
+fairy-land	Fairy Land		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Fairy-Land-61021.html				pending
 feuilles-de-fraisier	Feuilles de Fraisier		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Feuilles-de-Fraisier-34786.html				pending
 figue	Figue		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Figue-34787.html				pending
 fleur-diris	Fleur d'Iris		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Fleur-d-Iris-34788.html				pending
@@ -64,6 +58,7 @@ heliotrope	Héliotrope		unisex		https://www.fragrantica.com/perfume/Adopt-Parfum
 jasmin-ylang-mimosa	Jasmin Ylang Mimosa		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Jasmin-Ylang-Mimosa-23462.html				pending
 leau-lita	L'eau Lita		female		https://www.fragrantica.com/perfume/Adopt-Parfums/L-eau-Lita-23456.html				pending
 leau-virile	L'eau Virile		male		https://www.fragrantica.com/perfume/Adopt-Parfums/L-eau-Virile-52869.html				pending
+lady-glitter	Lady Glitter		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Lady-Glitter-111089.html				pending
 lait-de-figue	Lait de Figue		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Lait-de-Figue-23457.html				pending
 lavande-cherie	Lavande Chérie		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Lavande-Cherie-68451.html				pending
 les-fleurs-de-mamie-yvette	Les Fleurs De Mamie Yvette		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Les-Fleurs-De-Mamie-Yvette-68453.html				pending
@@ -82,6 +77,7 @@ marshmallow	Marshmallow		female		https://www.fragrantica.com/perfume/Adopt-Parfu
 mers-et-oceans	Mers et Océans		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Mers-et-Oceans-45189.html				pending
 merveilles-des-iles	Merveilles Des Iles		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Merveilles-Des-Iles-68448.html				pending
 midnight	Midnight		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Midnight-59936.html				pending
+monoi-des-iles	Monoï Des Iles		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Monoi-Des-Iles-68450.html				pending
 monoi-et-tiare	Monoï et Tiaré		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Monoi-et-Tiare-23422.html				pending
 muguet-coquet	Muguet Coquet		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Muguet-Coquet-68452.html				pending
 musc-blanc	Musc Blanc		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Musc-Blanc-23424.html				pending
@@ -118,11 +114,13 @@ red-dress	Red Dress		female		https://www.fragrantica.com/perfume/Adopt-Parfums/R
 rose-jasmin	Rose Jasmin		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Rose-Jasmin-23448.html				pending
 rose-noire	Rose Noire		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Rose-Noire-59940.html				pending
 sable-dorient	Sable d'Orient		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Sable-d-Orient-34804.html				pending
+starnight	Starnight		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Starnight-77975.html				pending
 sun-spirit	Sun Spirit		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Sun-Spirit-23447.html				pending
 tahiti-paradis	Tahiti Paradis		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Tahiti-Paradis-93973.html				pending
 the-blanc	Thé Blanc		female		https://www.fragrantica.com/perfume/Adopt-Parfums/The-Blanc-23437.html				pending
 the-vert	Thé Vert		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/The-Vert-23446.html				pending
 tonka-et-bois	Tonka et Bois		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Tonka-et-Bois-34805.html				pending
+toscana-vita	Toscana Vita		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Toscana-Vita-103364.html				pending
 tubereuse	Tubéreuse		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Tubereuse-34806.html				pending
 vahine-des-iles	Vahiné Des Iles		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Vahine-Des-Iles-68449.html				pending
 vanille	Vanille		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Vanille-23445.html				pending
@@ -132,7 +130,9 @@ vanille-coco	Vanille Coco		unisex		https://www.fragrantica.com/perfume/Adopt-Par
 vanille-fraise	Vanille Fraise		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Vanille-Fraise-23444.html				pending
 vanille-reglisse	Vanille Réglisse		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Vanille-Reglisse-34809.html				pending
 vanille-ylang-ylang	Vanille Ylang Ylang		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Vanille-Ylang-Ylang-23426.html				pending
+verveine-fizz	Verveine Fizz		male		https://www.fragrantica.com/perfume/Adopt-Parfums/Verveine-Fizz-68437.html				pending
 violette-framboise	Violette Framboise		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Violette-Framboise-23479.html				pending
 violette-vanille	Violette Vanille		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Violette-Vanille-23501.html				pending
 wild-musk	Wild Musk		male		https://www.fragrantica.com/perfume/Adopt-Parfums/Wild-Musk-52865.html				pending
+wonderful	Wonderful		unisex		https://www.fragrantica.com/perfume/Adopt-Parfums/Wonderful-107553.html				pending
 yummy-candy	Yummy Candy		female		https://www.fragrantica.com/perfume/Adopt-Parfums/Yummy-Candy-59933.html				pending

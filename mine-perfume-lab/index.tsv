@@ -1,13 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-cafe	Ambre Cafe'		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Ambre-Cafe-51987.html				pending
-arche	Arché		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Arche-65975.html				pending
-narghile	Narghile'		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Narghile-52055.html				pending
-olla	Olla'		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Olla-51986.html				pending
-oud	Oud		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Oud-52057.html				pending
-philosophigue	Philosophigue		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Philosophigue-51916.html				pending
-shamrock	Shamrock		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Shamrock-65969.html				pending
-st-incense	St. Incense		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/St-Incense-52093.html				pending
-vesevo	Vesevo		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Vesevo-65974.html				pending
 absolute-santal	Absolute Santal		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Absolute-Santal-51981.html				pending
 absque	Absque		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Absque-51898.html				pending
 acqua-di-iris-and-talco	Acqua di Iris & Talco		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Acqua-di-Iris-Talco-52097.html				pending
@@ -15,6 +6,8 @@ acqua-di-iris-and-talco-23	Acqua Di Iris & Talco-23		unisex		https://www.fragran
 acqua-di-talco-and-panna	Acqua di Talco & Panna		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Acqua-di-Talco-Panna-51990.html				pending
 alleria	Alleria		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Alleria-51901.html				pending
 amberstone	Amberstone		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Amberstone-52094.html				pending
+ambre-cafe	Ambre Cafe'		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Ambre-Cafe-51987.html				pending
+arche	Arché		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Arche-65975.html				pending
 brise-dagadir	Brise d'Agadir		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Brise-d-Agadir-51899.html				pending
 carme	Carme'		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Carme-76516.html				pending
 carnal-tuberosa	Carnal Tuberosa		female		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Carnal-Tuberosa-51905.html				pending
@@ -42,17 +35,24 @@ montego-bay	Montego Bay		unisex		https://www.fragrantica.com/perfume/Mine-Perfum
 mr-vetiver	Mr. Vetiver		male		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Mr-Vetiver-51979.html				pending
 mu-ghet-to	Mu-ghet-to		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Mu-ghet-to-94854.html				pending
 muschio-bianco	Muschio Bianco		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Muschio-Bianco-52098.html				pending
+narghile	Narghile'		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Narghile-52055.html				pending
+olla	Olla'		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Olla-51986.html				pending
+oud	Oud		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Oud-52057.html				pending
 patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Patchouli-51980.html				pending
+philosophigue	Philosophigue		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Philosophigue-51916.html				pending
 pippi	Pippi		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Pippi-93569.html				pending
 sahel	Sahel		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Sahel-65970.html				pending
+shamrock	Shamrock		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Shamrock-65969.html				pending
 sig-pepper	Sig. Pepper		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Sig-Pepper-51900.html				pending
 southland	Southland		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Southland-65976.html				pending
+st-incense	St. Incense		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/St-Incense-52093.html				pending
 sun	Sun		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Sun-51983.html				pending
 talco-and-panna-2	Talco & Panna-2		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Talco-Panna-2-52100.html				pending
 vaniglia	Vaniglia		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Vaniglia-52054.html				pending
 vaniglia-and-mou	Vaniglia & Mou		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Vaniglia-Mou-51989.html				pending
 vaniglia-and-tabacco	Vaniglia & Tabacco		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Vaniglia-Tabacco-51988.html				pending
 vanilla-smoke	Vanilla Smoke		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Vanilla-Smoke-65973.html				pending
+vesevo	Vesevo		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Vesevo-65974.html				pending
 violetta	Violetta		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Violetta-52096.html				pending
 violinette	Violinette		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Violinette-94855.html				pending
 woodfine	Woodfine		unisex		https://www.fragrantica.com/perfume/Mine-Perfume-Lab/Woodfine-52056.html				pending

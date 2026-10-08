@@ -1,13 +1,16 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 amarena-whim	Amarena Whim		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Amarena-Whim-5257.html				pending
 caprice-amarena	Caprice Amarena		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Caprice-Amarena-1259.html				pending
+caprice-reglisse	Caprice Reglisse		unisex		https://www.fragrantica.com/perfume/Lolita-Lempicka/Caprice-Reglisse-1260.html				pending
 caprice-violette	Caprice Violette		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Caprice-Violette-1258.html				pending
 eau-dete-parfumee	Eau d'Ete Parfumee		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Eau-d-Ete-Parfumee-1631.html				pending
+eau-de-beaute	Eau de Beaute		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Eau-de-Beaute-13526.html				pending
 eau-de-minuit-midnight-fragrance	Eau de Minuit - Midnight Fragrance		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Eau-de-Minuit-Midnight-Fragrance-6932.html				pending
 eau-du-desir	Eau du Désir		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Eau-du-Desir-8218.html				pending
 elle-laime	Elle L'aime		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Elle-L-aime-18761.html				pending
 elle-laime-a-la-folie	Elle L'aime A La Folie		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Elle-L-aime-A-La-Folie-27055.html				pending
 elle-laime-edition-dete	Elle L'aime Édition d’Été		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Elle-L-aime-Edition-d-Ete-30670.html				pending
+elle-laime-edition-dete-huile-satinee	Elle L'aime Édition d’Été Huile Satinée		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Elle-L-aime-Edition-d-Ete-Huile-Satinee-30671.html				pending
 fleur-de-corail	Fleur de Corail		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Fleur-de-Corail-3005.html				pending
 fleur-defendue	Fleur Defendue		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Fleur-Defendue-3004.html				pending
 fleurs-de-lolita-lempicka	Fleurs de Lolita Lempicka		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Fleurs-de-Lolita-Lempicka-115232.html				pending
@@ -17,25 +20,35 @@ illusions-noires-le-premier-parfum-eau-de-minuit	Illusions Noires Le Premier Par
 illusions-noires-si-lolita-eau-de-minuit	Illusions Noires Si Lolita Eau de Minuit		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Illusions-Noires-Si-Lolita-Eau-de-Minuit-16183.html				pending
 l-de-lolita-lempicka	L de Lolita Lempicka		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-de-Lolita-Lempicka-455.html				pending
 l-laime	L L'aime		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-L-aime-24451.html				pending
+l-lattrape-coeur	L L'Attrape-Coeur		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-L-Attrape-Coeur-56399.html				pending
 leau-au-masculin	L'Eau au Masculin		male		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-Eau-au-Masculin-8841.html				pending
+leau-dminuit-2007-fleur-de-minuit	L'eau d'Minuit 2007 Fleur de Minuit		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-eau-d-Minuit-2007-Fleur-de-Minuit-1945.html				pending
 leau-de-minuit	L'eau de Minuit		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-eau-de-Minuit-1632.html				pending
 leau-de-minuit-edition-2013	L'Eau de Minuit Edition 2013		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-Eau-de-Minuit-Edition-2013-22485.html				pending
+lobjet-du-desir	L'Objet du Désir		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-Objet-du-Desir-34922.html				pending
 le-parfum-de-lolita-lempicka	Le Parfum de Lolita Lempicka		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Le-Parfum-de-Lolita-Lempicka-40363.html				pending
 lempicka-homme	Lempicka Homme		male		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lempicka-Homme-50183.html				pending
+lolita-lempicka	Lolita Lempicka		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-456.html				pending
 lolita-lempicka-au-masculin	Lolita Lempicka Au Masculin		male		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Au-Masculin-458.html				pending
+lolita-lempicka-au-masculin-2006	Lolita Lempicka Au Masculin 2006		male		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Au-Masculin-2006-3007.html				pending
 lolita-lempicka-au-masculin-eau-de-parfum-intense	Lolita Lempicka Au Masculin Eau de Parfum Intense		male		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Au-Masculin-Eau-de-Parfum-Intense-31442.html				pending
 lolita-lempicka-au-masculin-fraicheur	Lolita Lempicka Au Masculin Fraicheur		male		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Au-Masculin-Fraicheur-1633.html				pending
+lolita-lempicka-eau-de-toilette	Lolita Lempicka Eau de Toilette		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Eau-de-Toilette-457.html				pending
+lolita-lempicka-eau-legere-pailletee	Lolita Lempicka Eau Legere Pailletee		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Eau-Legere-Pailletee-14093.html				pending
 lolita-lempicka-edition-dete	Lolita Lempicka Edition d'Ete		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Edition-d-Ete-36455.html				pending
 lolita-lempicka-elixir-sublime	Lolita Lempicka Elixir Sublime		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Elixir-Sublime-48435.html				pending
 lolita-lempicka-leau-en-blanc	Lolita Lempicka L'Eau en Blanc		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-L-Eau-en-Blanc-14715.html				pending
 lolita-lempicka-leau-en-blanc-edition-perles	Lolita Lempicka L'Eau en Blanc Edition Perles		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-L-Eau-en-Blanc-Edition-Perles-29987.html				pending
 lolita-lempicka-le-parfum-2021	Lolita Lempicka Le Parfum 2021		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Le-Parfum-2021-69011.html				pending
 lolita-lempicka-le-parfum-2023	Lolita Lempicka Le Parfum 2023		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Le-Parfum-2023-82245.html				pending
+lolita-lempicka-le-parfum-edition-limitee-flacon-minuit	Lolita Lempicka Le Parfum Edition Limitée Flacon Minuit		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Le-Parfum-Edition-Limitee-Flacon-Minuit-89000.html				pending
 lolita-lempicka-le-premier-parfum	Lolita Lempicka Le Premier Parfum		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Le-Premier-Parfum-11909.html				pending
 lolita-lempicka-le-premier-parfum-eau-de-toilette-morsure-damour	Lolita Lempicka Le Premier Parfum Eau de Toilette (Morsure d'Amour)		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Le-Premier-Parfum-Eau-de-Toilette-Morsure-d-Amour-11443.html				pending
 lolita-lempicka-le-tentation-de-lolita	Lolita Lempicka Le Tentation de Lolita		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Le-Tentation-de-Lolita-14569.html				pending
+lolita-lempicka-midnight-sun	Lolita Lempicka Midnight Sun		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Midnight-Sun-34655.html				pending
 lolita-lempicka-mon-premier-parfum	Lolita Lempicka Mon Premier Parfum		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Mon-Premier-Parfum-45838.html				pending
 lolita-lempicka-original	Lolita Lempicka Original		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Original-59837.html				pending
+lolita-lempicka-scintillante	Lolita Lempicka Scintillante		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Scintillante-56398.html				pending
 lolitaland	LolitaLand		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/LolitaLand-51385.html				pending
 leau-jolie	L’Eau Jolie		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-Eau-Jolie-17936.html				pending
 midnight	Midnight		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Midnight-1634.html				pending
@@ -44,6 +57,9 @@ minuit-dor-eau-de-minuit-2015	Minuit D'Or (Eau de Minuit 2015)		female		https://
 minuit-noir	Minuit Noir		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Minuit-Noir-9802.html				pending
 minuit-sonne	Minuit Sonne		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Minuit-Sonne-27432.html				pending
 mon-eau	Mon Eau		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Mon-Eau-48837.html				pending
+mon-petit	Mon Petit		unisex		https://www.fragrantica.com/perfume/Lolita-Lempicka/Mon-Petit-63560.html				pending
+mon-petit-eau-de-toilette	Mon Petit Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Lolita-Lempicka/Mon-Petit-Eau-de-Toilette-72227.html				pending
+mon-premier-parfum-edition-limitee-flacon-mon-printemps	Mon Premier Parfum Edition Limitée (Flacon Mon Printemps)		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Mon-Premier-Parfum-Edition-Limitee-Flacon-Mon-Printemps-91426.html				pending
 oh-ma-biche	Oh Ma Biche		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Oh-Ma-Biche-56905.html				pending
 rendez-vous-de-minuit-midnight-rendez-vous	Rendez-Vous de Minuit Midnight Rendez-Vous		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Rendez-Vous-de-Minuit-Midnight-Rendez-Vous-4776.html				pending
 si-lolita	Si Lolita		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Si-Lolita-6433.html				pending
@@ -53,20 +69,4 @@ star-dust-midnight-fragrance	Star Dust Midnight Fragrance		female		https://www.f
 sweet	Sweet		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Sweet-28177.html				pending
 sweet-kiss	Sweet Kiss		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Sweet-Kiss-39664.html				pending
 the-heart-catcher	The Heart-Catcher		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/The-Heart-Catcher-1676.html				pending
-caprice-reglisse	Caprice Reglisse		unisex		https://www.fragrantica.com/perfume/Lolita-Lempicka/Caprice-Reglisse-1260.html				pending
-eau-de-beaute	Eau de Beaute		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Eau-de-Beaute-13526.html				pending
-elle-laime-edition-dete-huile-satinee	Elle L'aime Édition d’Été Huile Satinée		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Elle-L-aime-Edition-d-Ete-Huile-Satinee-30671.html				pending
-l-lattrape-coeur	L L'Attrape-Coeur		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-L-Attrape-Coeur-56399.html				pending
-leau-dminuit-2007-fleur-de-minuit	L'eau d'Minuit 2007 Fleur de Minuit		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-eau-d-Minuit-2007-Fleur-de-Minuit-1945.html				pending
-lobjet-du-desir	L'Objet du Désir		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/L-Objet-du-Desir-34922.html				pending
-lolita-lempicka	Lolita Lempicka		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-456.html				pending
-lolita-lempicka-au-masculin-2006	Lolita Lempicka Au Masculin 2006		male		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Au-Masculin-2006-3007.html				pending
-lolita-lempicka-eau-de-toilette	Lolita Lempicka Eau de Toilette		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Eau-de-Toilette-457.html				pending
-lolita-lempicka-eau-legere-pailletee	Lolita Lempicka Eau Legere Pailletee		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Eau-Legere-Pailletee-14093.html				pending
-lolita-lempicka-le-parfum-edition-limitee-flacon-minuit	Lolita Lempicka Le Parfum Edition Limitée Flacon Minuit		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Le-Parfum-Edition-Limitee-Flacon-Minuit-89000.html				pending
-lolita-lempicka-midnight-sun	Lolita Lempicka Midnight Sun		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Midnight-Sun-34655.html				pending
-lolita-lempicka-scintillante	Lolita Lempicka Scintillante		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Scintillante-56398.html				pending
-mon-petit	Mon Petit		unisex		https://www.fragrantica.com/perfume/Lolita-Lempicka/Mon-Petit-63560.html				pending
-mon-petit-eau-de-toilette	Mon Petit Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Lolita-Lempicka/Mon-Petit-Eau-de-Toilette-72227.html				pending
-mon-premier-parfum-edition-limitee-flacon-mon-printemps	Mon Premier Parfum Edition Limitée (Flacon Mon Printemps)		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Mon-Premier-Parfum-Edition-Limitee-Flacon-Mon-Printemps-91426.html				pending
 transcendant-sin	Transcendant Sin		female		https://www.fragrantica.com/perfume/Lolita-Lempicka/Transcendant-Sin-1675.html				pending

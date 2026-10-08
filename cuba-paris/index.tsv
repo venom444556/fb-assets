@@ -1,13 +1,7 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cuba-authentic-flame	Cuba Authentic Flame		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Authentic-Flame-76001.html				pending
-cuba-la-vida	Cuba La Vida		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-La-Vida-61849.html				pending
-cuba-milestone	Cuba Milestone		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Milestone-71749.html				pending
-cuba-prestige-legacy	Cuba Prestige Legacy		unisex		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Prestige-Legacy-74421.html				pending
-cuba-shadow	Cuba Shadow		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Shadow-74420.html				pending
-cuba-vip-for-men	Cuba VIP for Men		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-VIP-for-Men-74427.html				pending
-cuba-winner	Cuba Winner		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Winner-62261.html				pending
 cuba-authentic-bold	Cuba Authentic Bold		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Authentic-Bold-76002.html				pending
 cuba-authentic-dark	Cuba Authentic Dark		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Authentic-Dark-75997.html				pending
+cuba-authentic-flame	Cuba Authentic Flame		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Authentic-Flame-76001.html				pending
 cuba-authentic-happy	Cuba Authentic Happy		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Authentic-Happy-76000.html				pending
 cuba-authentic-mystic	Cuba Authentic Mystic		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Authentic-Mystic-75998.html				pending
 cuba-authentic-tasty	Cuba Authentic Tasty		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Authentic-Tasty-75999.html				pending
@@ -41,6 +35,7 @@ cuba-heartbreaker	Cuba Heartbreaker		female		https://www.fragrantica.com/perfume
 cuba-jungle-snake	Cuba Jungle Snake		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Jungle-Snake-9080.html				pending
 cuba-jungle-tiger	Cuba Jungle Tiger		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Jungle-Tiger-9081.html				pending
 cuba-jungle-zebra	Cuba Jungle Zebra		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Jungle-Zebra-9082.html				pending
+cuba-la-vida	Cuba La Vida		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-La-Vida-61849.html				pending
 cuba-legend	Cuba Legend		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Legend-74416.html				pending
 cuba-love-dreams	Cuba Love Dreams		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Love-Dreams-74417.html				pending
 cuba-love-forever	Cuba Love Forever		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Love-Forever-74428.html				pending
@@ -51,13 +46,16 @@ cuba-magnum-gold	Cuba Magnum Gold		male		https://www.fragrantica.com/perfume/Cub
 cuba-magnum-red	Cuba Magnum Red		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Magnum-Red-13801.html				pending
 cuba-maya-for-men	Cuba Maya for men		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Maya-for-men-19367.html				pending
 cuba-maya-for-woman	Cuba Maya for woman		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Maya-for-woman-19366.html				pending
+cuba-milestone	Cuba Milestone		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Milestone-71749.html				pending
 cuba-my-love	Cuba My Love		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-My-Love-74425.html				pending
 cuba-orange	Cuba Orange		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Orange-9076.html				pending
 cuba-prestige	Cuba Prestige		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Prestige-13803.html				pending
 cuba-prestige-black	Cuba Prestige Black		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Prestige-Black-35599.html				pending
+cuba-prestige-legacy	Cuba Prestige Legacy		unisex		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Prestige-Legacy-74421.html				pending
 cuba-prestige-platinum	Cuba Prestige Platinum		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Prestige-Platinum-35600.html				pending
 cuba-red	Cuba Red		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Red-9077.html				pending
 cuba-royal	Cuba Royal		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Royal-13802.html				pending
+cuba-shadow	Cuba Shadow		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Shadow-74420.html				pending
 cuba-signature	Cuba Signature		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Signature-71750.html				pending
 cuba-silver	Cuba Silver		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Silver-71752.html				pending
 cuba-silver-blue	Cuba Silver Blue		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Silver-Blue-70479.html				pending
@@ -70,6 +68,8 @@ cuba-too-sexy-for-you	Cuba Too Sexy for You		female		https://www.fragrantica.com
 cuba-trouble	Cuba Trouble		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Trouble-71754.html				pending
 cuba-victory	Cuba Victory		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Victory-74415.html				pending
 cuba-vip	Cuba Vip		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Vip-34343.html				pending
+cuba-vip-for-men	Cuba VIP for Men		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-VIP-for-Men-74427.html				pending
 cuba-vip-for-women	Cuba VIP for Women		female		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-VIP-for-Women-74422.html				pending
 cuba-wild-heart	Cuba Wild Heart		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Wild-Heart-19362.html				pending
+cuba-winner	Cuba Winner		male		https://www.fragrantica.com/perfume/Cuba-Paris/Cuba-Winner-62261.html				pending
 golden-absolute	Golden Absolute		male		https://www.fragrantica.com/perfume/Cuba-Paris/Golden-Absolute-74419.html				pending

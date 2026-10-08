@@ -1,9 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-canaica	Canaica		female		https://www.fragrantica.com/perfume/Galimard/Canaica-10703.html				pending
-feminissime	Feminissime		female		https://www.fragrantica.com/perfume/Galimard/Feminissime-41923.html				pending
-lete-dernier	L'Ete Dernier		female		https://www.fragrantica.com/perfume/Galimard/L-Ete-Dernier-43316.html				pending
-mezzanotte	Mezzanotte		male		https://www.fragrantica.com/perfume/Galimard/Mezzanotte-43314.html				pending
-plumetis	Plumetis		female		https://www.fragrantica.com/perfume/Galimard/Plumetis-53801.html				pending
 1	1		male		https://www.fragrantica.com/perfume/Galimard/1-43320.html				pending
 1747	1747		male		https://www.fragrantica.com/perfume/Galimard/1747-22757.html				pending
 a-contre-jour	A Contre Jour		female		https://www.fragrantica.com/perfume/Galimard/A-Contre-Jour-10717.html				pending
@@ -21,6 +16,7 @@ bois	Bois		unisex		https://www.fragrantica.com/perfume/Galimard/Bois-47063.html	
 bois-de-lune	Bois de Lune		female		https://www.fragrantica.com/perfume/Galimard/Bois-de-Lune-60370.html				pending
 bois-des-indes	Bois des Indes		unisex		https://www.fragrantica.com/perfume/Galimard/Bois-des-Indes-46006.html				pending
 brindille	Brindille		female		https://www.fragrantica.com/perfume/Galimard/Brindille-10702.html				pending
+canaica	Canaica		female		https://www.fragrantica.com/perfume/Galimard/Canaica-10703.html				pending
 cantabelle	Cantabelle		female		https://www.fragrantica.com/perfume/Galimard/Cantabelle-10704.html				pending
 carina	Carina		female		https://www.fragrantica.com/perfume/Galimard/Carina-10705.html				pending
 citoyen	Citoyen		male		https://www.fragrantica.com/perfume/Galimard/Citoyen-22759.html				pending
@@ -31,6 +27,7 @@ eau-de-romarin	Eau de Romarin		male		https://www.fragrantica.com/perfume/Galimar
 entre-nous	Entre Nous		unisex		https://www.fragrantica.com/perfume/Galimard/Entre-Nous-52278.html				pending
 eternal-flame	Eternal Flame		female		https://www.fragrantica.com/perfume/Galimard/Eternal-Flame-41924.html				pending
 evie	Evie		female		https://www.fragrantica.com/perfume/Galimard/Evie-22748.html				pending
+feminissime	Feminissime		female		https://www.fragrantica.com/perfume/Galimard/Feminissime-41923.html				pending
 feuilles-and-fleurs-doranger	Feuilles & Fleurs d'Oranger		unisex		https://www.fragrantica.com/perfume/Galimard/Feuilles-Fleurs-d-Oranger-46004.html				pending
 fleur-doranger	Fleur d’Oranger		unisex		https://www.fragrantica.com/perfume/Galimard/Fleur-d-Oranger-93273.html				pending
 flibustier	Flibustier		male		https://www.fragrantica.com/perfume/Galimard/Flibustier-10708.html				pending
@@ -43,12 +40,14 @@ grasse-a-toi	Grasse A Toi		female		https://www.fragrantica.com/perfume/Galimard/
 grenadine	Grenadine		unisex		https://www.fragrantica.com/perfume/Galimard/Grenadine-46847.html				pending
 jasmin	Jasmin		unisex		https://www.fragrantica.com/perfume/Galimard/Jasmin-93278.html				pending
 journal-intime	Journal Intime		female		https://www.fragrantica.com/perfume/Galimard/Journal-Intime-22751.html				pending
+lete-dernier	L'Ete Dernier		female		https://www.fragrantica.com/perfume/Galimard/L-Ete-Dernier-43316.html				pending
 lapis-lazuli	Lapis Lazuli		female		https://www.fragrantica.com/perfume/Galimard/Lapis-Lazuli-10701.html				pending
 lavande	Lavande		unisex		https://www.fragrantica.com/perfume/Galimard/Lavande-93279.html				pending
 litchi	Litchi		unisex		https://www.fragrantica.com/perfume/Galimard/Litchi-93282.html				pending
 litchi-93283	Litchi		unisex		https://www.fragrantica.com/perfume/Galimard/Litchi-93283.html				pending
 lotus-the-vert	Lotus The Vert		unisex		https://www.fragrantica.com/perfume/Galimard/Lotus-The-Vert-46003.html				pending
 ma-faute	Ma Faute		female		https://www.fragrantica.com/perfume/Galimard/Ma-Faute-10715.html				pending
+mezzanotte	Mezzanotte		male		https://www.fragrantica.com/perfume/Galimard/Mezzanotte-43314.html				pending
 monsieur-galimard	Monsieur Galimard		male		https://www.fragrantica.com/perfume/Galimard/Monsieur-Galimard-10710.html				pending
 musc-royal	Musc Royal		unisex		https://www.fragrantica.com/perfume/Galimard/Musc-Royal-92626.html				pending
 naina	Naina		female		https://www.fragrantica.com/perfume/Galimard/Naina-43312.html				pending
@@ -66,6 +65,7 @@ paradoxe	Paradoxe		female		https://www.fragrantica.com/perfume/Galimard/Paradoxe
 parfum-du-chevalier	Parfum du Chevalier		male		https://www.fragrantica.com/perfume/Galimard/Parfum-du-Chevalier-43321.html				pending
 patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Galimard/Patchouli-93306.html				pending
 pivoine	Pivoine		female		https://www.fragrantica.com/perfume/Galimard/Pivoine-46846.html				pending
+plumetis	Plumetis		female		https://www.fragrantica.com/perfume/Galimard/Plumetis-53801.html				pending
 princesse-pauline	Princesse Pauline		female		https://www.fragrantica.com/perfume/Galimard/Princesse-Pauline-43317.html				pending
 printemps-etoile	Printemps Etoile		female		https://www.fragrantica.com/perfume/Galimard/Printemps-Etoile-92492.html				pending
 printemps-japonais	Printemps Japonais		female		https://www.fragrantica.com/perfume/Galimard/Printemps-Japonais-22755.html				pending

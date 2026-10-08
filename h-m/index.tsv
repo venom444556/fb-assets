@@ -1,12 +1,25 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 adventure-seeker	Adventure Seeker		female		https://www.fragrantica.com/perfume/H-M/Adventure-Seeker-92555.html				pending
+caribbean-crush	Caribbean Crush		female		https://www.fragrantica.com/perfume/H-M/Caribbean-Crush-31775.html				pending
+cashmere	Cashmere		unisex		https://www.fragrantica.com/perfume/H-M/Cashmere-65954.html				pending
 cashmere-haze	Cashmere Haze		female		https://www.fragrantica.com/perfume/H-M/Cashmere-Haze-31777.html				pending
+cherry	Cherry		female		https://www.fragrantica.com/perfume/H-M/Cherry-71866.html				pending
 chic-socialite	Chic Socialite		female		https://www.fragrantica.com/perfume/H-M/Chic-Socialite-92557.html				pending
 cloud-gazer	Cloud Gazer		unisex		https://www.fragrantica.com/perfume/H-M/Cloud-Gazer-125293.html				pending
+coconut-and-vanilla	Coconut & Vanilla		female		https://www.fragrantica.com/perfume/H-M/Coconut-Vanilla-36851.html				pending
+cotton-wood	Cotton Wood		female		https://www.fragrantica.com/perfume/H-M/Cotton-Wood-36845.html				pending
 creative-visionary	Creative Visionary		female		https://www.fragrantica.com/perfume/H-M/Creative-Visionary-92538.html				pending
+creme-caramel-body-splash	Creme Caramel Body Splash		female		https://www.fragrantica.com/perfume/H-M/Creme-Caramel-Body-Splash-36913.html				pending
+darling-deep	Darling Deep		female		https://www.fragrantica.com/perfume/H-M/Darling-Deep-36837.html				pending
+deep-red-velvet	Deep Red Velvet		female		https://www.fragrantica.com/perfume/H-M/Deep-Red-Velvet-36846.html				pending
 fearless-optimist	Fearless Optimist		female		https://www.fragrantica.com/perfume/H-M/Fearless-Optimist-92537.html				pending
+gardenia	Gardenia		female		https://www.fragrantica.com/perfume/H-M/Gardenia-36849.html				pending
+golden-amber	Golden Amber		female		https://www.fragrantica.com/perfume/H-M/Golden-Amber-36767.html				pending
+golden-bouquet	Golden Bouquet		female		https://www.fragrantica.com/perfume/H-M/Golden-Bouquet-36764.html				pending
 h-and-m-above-the-clouds	H&M Above The Clouds		female		https://www.fragrantica.com/perfume/H-M/H-M-Above-The-Clouds-50819.html				pending
 h-and-m-arboretum	H&M Arboretum		female		https://www.fragrantica.com/perfume/H-M/H-M-Arboretum-50811.html				pending
+h-and-m-berries-luscious-pulp	H&M Berries - Luscious pulp		unisex		https://www.fragrantica.com/perfume/H-M/H-M-Berries-Luscious-pulp-50804.html				pending
+h-and-m-black-papyrus	H&M Black Papyrus		female		https://www.fragrantica.com/perfume/H-M/H-M-Black-Papyrus-67716.html				pending
 h-and-m-choc-melty-goodness	H&M Choc - Melty Goodness		unisex		https://www.fragrantica.com/perfume/H-M/H-M-Choc-Melty-Goodness-50801.html				pending
 h-and-m-comoro-ylang	H&M Comoro Ylang		unisex		https://www.fragrantica.com/perfume/H-M/H-M-Comoro-Ylang-50824.html				pending
 h-and-m-flowerscape	H&M Flowerscape		female		https://www.fragrantica.com/perfume/H-M/H-M-Flowerscape-50817.html				pending
@@ -28,35 +41,21 @@ h-and-m-sunray-golden-warmth	H&M Sunray - Golden warmth		unisex		https://www.fra
 h-and-m-t-shirt-classic-cotton	H&M T-Shirt - Classic cotton		unisex		https://www.fragrantica.com/perfume/H-M/H-M-T-Shirt-Classic-cotton-50805.html				pending
 h-and-m-vanilla-creamy-sweetness	H&M Vanilla - Creamy sweetness		unisex		https://www.fragrantica.com/perfume/H-M/H-M-Vanilla-Creamy-sweetness-50802.html				pending
 h-and-m-way-past-midnight	H&M Way Past Midnight		female		https://www.fragrantica.com/perfume/H-M/H-M-Way-Past-Midnight-50816.html				pending
-modern-minimalist	Modern Minimalist		female		https://www.fragrantica.com/perfume/H-M/Modern-Minimalist-92539.html				pending
-rain	Rain		unisex		https://www.fragrantica.com/perfume/H-M/Rain-65953.html				pending
-social-butterfly	Social Butterfly		female		https://www.fragrantica.com/perfume/H-M/Social-Butterfly-92453.html				pending
-yuzu-zesty-fizziness	Yuzu - Zesty fizziness		unisex		https://www.fragrantica.com/perfume/H-M/Yuzu-Zesty-fizziness-50808.html				pending
-caribbean-crush	Caribbean Crush		female		https://www.fragrantica.com/perfume/H-M/Caribbean-Crush-31775.html				pending
-cashmere	Cashmere		unisex		https://www.fragrantica.com/perfume/H-M/Cashmere-65954.html				pending
-cherry	Cherry		female		https://www.fragrantica.com/perfume/H-M/Cherry-71866.html				pending
-coconut-and-vanilla	Coconut & Vanilla		female		https://www.fragrantica.com/perfume/H-M/Coconut-Vanilla-36851.html				pending
-cotton-wood	Cotton Wood		female		https://www.fragrantica.com/perfume/H-M/Cotton-Wood-36845.html				pending
-creme-caramel-body-splash	Creme Caramel Body Splash		female		https://www.fragrantica.com/perfume/H-M/Creme-Caramel-Body-Splash-36913.html				pending
-darling-deep	Darling Deep		female		https://www.fragrantica.com/perfume/H-M/Darling-Deep-36837.html				pending
-deep-red-velvet	Deep Red Velvet		female		https://www.fragrantica.com/perfume/H-M/Deep-Red-Velvet-36846.html				pending
-gardenia	Gardenia		female		https://www.fragrantica.com/perfume/H-M/Gardenia-36849.html				pending
-golden-amber	Golden Amber		female		https://www.fragrantica.com/perfume/H-M/Golden-Amber-36767.html				pending
-golden-bouquet	Golden Bouquet		female		https://www.fragrantica.com/perfume/H-M/Golden-Bouquet-36764.html				pending
-h-and-m-berries-luscious-pulp	H&M Berries - Luscious pulp		unisex		https://www.fragrantica.com/perfume/H-M/H-M-Berries-Luscious-pulp-50804.html				pending
-h-and-m-black-papyrus	H&M Black Papyrus		female		https://www.fragrantica.com/perfume/H-M/H-M-Black-Papyrus-67716.html				pending
 hopeful-romantic	Hopeful Romantic		unisex		https://www.fragrantica.com/perfume/H-M/Hopeful-Romantic-94295.html				pending
 magnolia	Magnolia		female		https://www.fragrantica.com/perfume/H-M/Magnolia-36848.html				pending
 mandarin-gold	Mandarin Gold		female		https://www.fragrantica.com/perfume/H-M/Mandarin-Gold-33430.html				pending
 midnight-muse	Midnight Muse		female		https://www.fragrantica.com/perfume/H-M/Midnight-Muse-31776.html				pending
+modern-minimalist	Modern Minimalist		female		https://www.fragrantica.com/perfume/H-M/Modern-Minimalist-92539.html				pending
 peony	Peony		female		https://www.fragrantica.com/perfume/H-M/Peony-36850.html				pending
 personal-muse	Personal Muse		female		https://www.fragrantica.com/perfume/H-M/Personal-Muse-92556.html				pending
 pink-macaroon-body-splash	Pink Macaroon Body Splash		female		https://www.fragrantica.com/perfume/H-M/Pink-Macaroon-Body-Splash-36911.html				pending
+rain	Rain		unisex		https://www.fragrantica.com/perfume/H-M/Rain-65953.html				pending
 rising-sun	Rising Sun		female		https://www.fragrantica.com/perfume/H-M/Rising-Sun-36761.html				pending
 rose-bud-and-violette	Rose Bud & Violette		female		https://www.fragrantica.com/perfume/H-M/Rose-Bud-Violette-35805.html				pending
 rose-reverie	Rose Reverie		female		https://www.fragrantica.com/perfume/H-M/Rose-Reverie-31774.html				pending
 ruby-pomegranate	Ruby Pomegranate		female		https://www.fragrantica.com/perfume/H-M/Ruby-Pomegranate-43366.html				pending
 shining-moon	Shining Moon		female		https://www.fragrantica.com/perfume/H-M/Shining-Moon-36763.html				pending
+social-butterfly	Social Butterfly		female		https://www.fragrantica.com/perfume/H-M/Social-Butterfly-92453.html				pending
 soft-cashmere	Soft Cashmere		female		https://www.fragrantica.com/perfume/H-M/Soft-Cashmere-36768.html				pending
 sweet-chai	Sweet Chai		female		https://www.fragrantica.com/perfume/H-M/Sweet-Chai-36766.html				pending
 the-new-noir	The New Noir		female		https://www.fragrantica.com/perfume/H-M/The-New-Noir-33431.html				pending
@@ -68,3 +67,4 @@ white-flowers-and-amber	White Flowers & Amber		female		https://www.fragrantica.c
 white-ginger	White Ginger		female		https://www.fragrantica.com/perfume/H-M/White-Ginger-36762.html				pending
 wildwood-flower	Wildwood Flower		female		https://www.fragrantica.com/perfume/H-M/Wildwood-Flower-36760.html				pending
 winter-fig	Winter Fig		unisex		https://www.fragrantica.com/perfume/H-M/Winter-Fig-42719.html				pending
+yuzu-zesty-fizziness	Yuzu - Zesty fizziness		unisex		https://www.fragrantica.com/perfume/H-M/Yuzu-Zesty-fizziness-50808.html				pending

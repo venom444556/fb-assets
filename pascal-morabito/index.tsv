@@ -1,11 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-grey-quartz	Grey Quartz		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Grey-Quartz-39555.html				pending
-or-black-2014	Or Black 2014		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Or-Black-2014-22367.html				pending
-or-boreal	Or Boreal		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Or-Boreal-42100.html				pending
-purple-ruby	Purple Ruby		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Purple-Ruby-22366.html				pending
-red-amber	Red Amber		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Red-Amber-42099.html				pending
-sultan-noir	Sultan Noir		unisex		https://www.fragrantica.com/perfume/Pascal-Morabito/Sultan-Noir-62780.html				pending
-sultan-rouge	Sultan Rouge		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Sultan-Rouge-75174.html				pending
 aimer	Aimer		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Aimer-62798.html				pending
 atelier-bleu	Atelier Bleu		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Atelier-Bleu-39437.html				pending
 attitude-golf	Attitude Golf		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Attitude-Golf-62802.html				pending
@@ -26,6 +19,7 @@ gold-edition	Gold Edition		female		https://www.fragrantica.com/perfume/Pascal-Mo
 gold-edition-oud	Gold Edition Oud		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Gold-Edition-Oud-62804.html				pending
 golden-gloves	Golden Gloves		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Golden-Gloves-62803.html				pending
 green-emerald	Green Emerald		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Green-Emerald-39554.html				pending
+grey-quartz	Grey Quartz		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Grey-Quartz-39555.html				pending
 grey-sapphire	Grey Sapphire		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Grey-Sapphire-22365.html				pending
 lady-in-red	Lady in Red		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Lady-in-Red-47507.html				pending
 lovissima	Lovissima		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Lovissima-47510.html				pending
@@ -37,6 +31,8 @@ my-diamond	My Diamond		female		https://www.fragrantica.com/perfume/Pascal-Morabi
 nagada	Nagada		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Nagada-9271.html				pending
 only-love	Only Love		unisex		https://www.fragrantica.com/perfume/Pascal-Morabito/Only-Love-62793.html				pending
 or-black	Or Black		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Or-Black-9269.html				pending
+or-black-2014	Or Black 2014		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Or-Black-2014-22367.html				pending
+or-boreal	Or Boreal		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Or-Boreal-42100.html				pending
 or-dream	Or Dream		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Or-Dream-42101.html				pending
 or-night	Or Night		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Or-Night-42098.html				pending
 or-noir	Or Noir		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Or-Noir-9267.html				pending
@@ -57,14 +53,18 @@ pompei	Pompei		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Pompei-
 pure-essence	Pure Essence		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Pure-Essence-42097.html				pending
 pure-perle	Pure Perle		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Pure-Perle-35299.html				pending
 purple-lady	Purple Lady		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Purple-Lady-47512.html				pending
+purple-ruby	Purple Ruby		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Purple-Ruby-22366.html				pending
 racing-champion	Racing Champion		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Racing-Champion-47521.html				pending
+red-amber	Red Amber		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Red-Amber-42099.html				pending
 rose-de-nagada	Rose De Nagada		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Rose-De-Nagada-62785.html				pending
 rugby-for-men	Rugby for Men		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Rugby-for-Men-47518.html				pending
 resiste	Résiste		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Resiste-62799.html				pending
 safed	Safed		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Safed-47514.html				pending
 sea-of-stars	Sea of Stars		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Sea-of-Stars-38369.html				pending
 sultan-blanc	Sultan Blanc		unisex		https://www.fragrantica.com/perfume/Pascal-Morabito/Sultan-Blanc-62783.html				pending
+sultan-noir	Sultan Noir		unisex		https://www.fragrantica.com/perfume/Pascal-Morabito/Sultan-Noir-62780.html				pending
 sultan-or	Sultan Or		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Sultan-Or-62781.html				pending
 sultan-rose	Sultan Rose		unisex		https://www.fragrantica.com/perfume/Pascal-Morabito/Sultan-Rose-62782.html				pending
+sultan-rouge	Sultan Rouge		female		https://www.fragrantica.com/perfume/Pascal-Morabito/Sultan-Rouge-75174.html				pending
 sunset-boulevard	Sunset Boulevard		unisex		https://www.fragrantica.com/perfume/Pascal-Morabito/Sunset-Boulevard-47502.html				pending
 villa-ocre	Villa Ocre		male		https://www.fragrantica.com/perfume/Pascal-Morabito/Villa-Ocre-38370.html				pending

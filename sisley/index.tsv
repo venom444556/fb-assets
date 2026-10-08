@@ -1,21 +1,5 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 eau-dikar	Eau d'Ikar		male		https://www.fragrantica.com/perfume/Sisley/Eau-d-Ikar-12867.html				pending
-eau-du-soir-2008	Eau du Soir 2008		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2008-5057.html				pending
-eau-tropicale	Eau Tropicale		female		https://www.fragrantica.com/perfume/Sisley/Eau-Tropicale-23324.html				pending
-izia	Izia		female		https://www.fragrantica.com/perfume/Sisley/Izia-42935.html				pending
-izia-la-nuit	Izia La Nuit		female		https://www.fragrantica.com/perfume/Sisley/Izia-La-Nuit-64679.html				pending
-leau-revee-dalma	L'Eau Rêvée D'Alma		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Alma-78748.html				pending
-leau-revee-daria	L'Eau Rêvée D'Aria		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Aria-78749.html				pending
-leau-revee-deliya	L'Eau Rêvée D'Eliya		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Eliya-78750.html				pending
-leau-revee-dhubert	L'Eau Rêvée D'Hubert		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Hubert-78751.html				pending
-leau-revee-dikar	L'Eau Rêvée D'Ikar		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Ikar-78746.html				pending
-leau-revee-disa	L'Eau Rêvée D'Isa		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Isa-78747.html				pending
-le-parfum	Le Parfum		unisex		https://www.fragrantica.com/perfume/Sisley/Le-Parfum-113722.html				pending
-sisley-eau-de-1	Sisley Eau de 1		female		https://www.fragrantica.com/perfume/Sisley/Sisley-Eau-de-1-5850.html				pending
-sisley-eau-de-2	Sisley Eau de 2		female		https://www.fragrantica.com/perfume/Sisley/Sisley-Eau-de-2-5851.html				pending
-sisley-eau-de-3	Sisley Eau de 3		female		https://www.fragrantica.com/perfume/Sisley/Sisley-Eau-de-3-5852.html				pending
-soir-drient	Soir d'Оrient		female		https://www.fragrantica.com/perfume/Sisley/Soir-d-Orient-30354.html				pending
-soir-de-lune	Soir de Lune		female		https://www.fragrantica.com/perfume/Sisley/Soir-de-Lune-605.html				pending
 eau-de-campagne	Eau de Campagne		unisex		https://www.fragrantica.com/perfume/Sisley/Eau-de-Campagne-1003.html				pending
 eau-du-soir	Eau du Soir		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-1002.html				pending
 eau-du-soir-2001	Eau du Soir 2001		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2001-14274.html				pending
@@ -25,6 +9,7 @@ eau-du-soir-2004	Eau du Soir 2004		female		https://www.fragrantica.com/perfume/S
 eau-du-soir-2005	Eau du Soir 2005		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2005-14285.html				pending
 eau-du-soir-2006	Eau du Soir 2006		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2006-14286.html				pending
 eau-du-soir-2007	Eau du Soir 2007		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2007-3171.html				pending
+eau-du-soir-2008	Eau du Soir 2008		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2008-5057.html				pending
 eau-du-soir-2009	Eau du Soir 2009		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2009-14288.html				pending
 eau-du-soir-2010	Eau du Soir 2010		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2010-10124.html				pending
 eau-du-soir-2011	Eau du Soir 2011		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2011-13265.html				pending
@@ -39,6 +24,21 @@ eau-du-soir-2021-edition-pop-and-wild	Eau du Soir 2021 Edition Pop and Wild		fem
 eau-du-soir-2022	Eau du Soir 2022		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2022-76694.html				pending
 eau-du-soir-2023	Eau du Soir 2023		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-2023-84330.html				pending
 eau-du-soir-skies	Eau du Soir Skies		female		https://www.fragrantica.com/perfume/Sisley/Eau-du-Soir-Skies-63595.html				pending
+eau-tropicale	Eau Tropicale		female		https://www.fragrantica.com/perfume/Sisley/Eau-Tropicale-23324.html				pending
+izia	Izia		female		https://www.fragrantica.com/perfume/Sisley/Izia-42935.html				pending
 izia-anniversary-edition-2018	Izia Anniversary Edition 2018		female		https://www.fragrantica.com/perfume/Sisley/Izia-Anniversary-Edition-2018-48578.html				pending
+izia-la-nuit	Izia La Nuit		female		https://www.fragrantica.com/perfume/Sisley/Izia-La-Nuit-64679.html				pending
+leau-revee-dalma	L'Eau Rêvée D'Alma		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Alma-78748.html				pending
+leau-revee-daria	L'Eau Rêvée D'Aria		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Aria-78749.html				pending
+leau-revee-deliya	L'Eau Rêvée D'Eliya		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Eliya-78750.html				pending
+leau-revee-dhubert	L'Eau Rêvée D'Hubert		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Hubert-78751.html				pending
+leau-revee-dikar	L'Eau Rêvée D'Ikar		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Ikar-78746.html				pending
+leau-revee-disa	L'Eau Rêvée D'Isa		unisex		https://www.fragrantica.com/perfume/Sisley/L-Eau-Revee-D-Isa-78747.html				pending
+le-parfum	Le Parfum		unisex		https://www.fragrantica.com/perfume/Sisley/Le-Parfum-113722.html				pending
+sisley-eau-de-1	Sisley Eau de 1		female		https://www.fragrantica.com/perfume/Sisley/Sisley-Eau-de-1-5850.html				pending
+sisley-eau-de-2	Sisley Eau de 2		female		https://www.fragrantica.com/perfume/Sisley/Sisley-Eau-de-2-5851.html				pending
+sisley-eau-de-3	Sisley Eau de 3		female		https://www.fragrantica.com/perfume/Sisley/Sisley-Eau-de-3-5852.html				pending
 soir-dorient-wild-edition	Soir d'Orient Wild Edition		unisex		https://www.fragrantica.com/perfume/Sisley/Soir-d-Orient-Wild-Edition-51056.html				pending
+soir-drient	Soir d'Оrient		female		https://www.fragrantica.com/perfume/Sisley/Soir-d-Orient-30354.html				pending
+soir-de-lune	Soir de Lune		female		https://www.fragrantica.com/perfume/Sisley/Soir-de-Lune-605.html				pending
 soir-de-lune-edition-limitee-2015	Soir de Lune Édition Limitée 2015		female		https://www.fragrantica.com/perfume/Sisley/Soir-de-Lune-Edition-Limitee-2015-32451.html				pending

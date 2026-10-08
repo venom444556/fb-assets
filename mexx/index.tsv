@@ -1,5 +1,6 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 diversity	Diversity		female		https://www.fragrantica.com/perfume/Mexx/Diversity-8465.html				pending
+diversity-8466	Diversity		male		https://www.fragrantica.com/perfume/Mexx/Diversity-8466.html				pending
 energizing-man	Energizing Man		male		https://www.fragrantica.com/perfume/Mexx/Energizing-Man-18908.html				pending
 energizing-woman	Energizing Woman		female		https://www.fragrantica.com/perfume/Mexx/Energizing-Woman-18907.html				pending
 fly-high-man	Fly High Man		male		https://www.fragrantica.com/perfume/Mexx/Fly-High-Man-1108.html				pending
@@ -8,53 +9,40 @@ forever-classic-never-boring-for-her	Forever Classic Never Boring for Her		femal
 forever-classic-never-boring-for-him	Forever Classic Never Boring for Him		male		https://www.fragrantica.com/perfume/Mexx/Forever-Classic-Never-Boring-for-Him-49824.html				pending
 inspired-nature-women	Inspired Nature Women		female		https://www.fragrantica.com/perfume/Mexx/Inspired-Nature-Women-102586.html				pending
 life-is-now-for-her	Life is Now for Her		female		https://www.fragrantica.com/perfume/Mexx/Life-is-Now-for-Her-31412.html				pending
+life-is-now-for-him	Life is Now for Him		male		https://www.fragrantica.com/perfume/Mexx/Life-is-Now-for-Him-31413.html				pending
 look-up-now-life-is-surprising-for-her	LOOK UP NOW: Life Is Surprising For Her		female		https://www.fragrantica.com/perfume/Mexx/LOOK-UP-NOW-Life-Is-Surprising-For-Her-39481.html				pending
+look-up-now-life-is-surprising-for-him	LOOK UP NOW: Life Is Surprising For Him		male		https://www.fragrantica.com/perfume/Mexx/LOOK-UP-NOW-Life-Is-Surprising-For-Him-39482.html				pending
 magnetic-for-her	Magnetic for Her		female		https://www.fragrantica.com/perfume/Mexx/Magnetic-for-Her-11492.html				pending
+magnetic-for-him	Magnetic for Him		male		https://www.fragrantica.com/perfume/Mexx/Magnetic-for-Him-11493.html				pending
+mexx-amsterdam-spring-edition-man	Mexx Amsterdam Spring Edition Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Amsterdam-Spring-Edition-Man-1076.html				pending
+mexx-amsterdam-spring-edition-woman	Mexx Amsterdam Spring Edition Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Amsterdam-Spring-Edition-Woman-1075.html				pending
+mexx-berlin-summer-edition-for-men	Mexx Berlin Summer Edition for Men		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Berlin-Summer-Edition-for-Men-3603.html				pending
 mexx-berlin-summer-edition-for-women	Mexx Berlin Summer Edition for Women		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Berlin-Summer-Edition-for-Women-3605.html				pending
+mexx-black-and-gold-limited-edition	Mexx Black & Gold Limited Edition		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Black-Gold-Limited-Edition-88150.html				pending
 mexx-black-for-her	Mexx Black for Her		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Black-for-Her-5735.html				pending
 mexx-black-for-him	Mexx Black for Him		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Black-for-Him-5734.html				pending
 mexx-city-breeze-for-her	Mexx City Breeze For Her		female		https://www.fragrantica.com/perfume/Mexx/Mexx-City-Breeze-For-Her-55520.html				pending
+mexx-city-breeze-for-him	Mexx City Breeze For Him		male		https://www.fragrantica.com/perfume/Mexx/Mexx-City-Breeze-For-Him-44049.html				pending
+mexx-cocktail-summer-man	Mexx Cocktail Summer Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Cocktail-Summer-Man-45311.html				pending
 mexx-cocktail-summer-woman	Mexx Cocktail Summer Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Cocktail-Summer-Woman-45312.html				pending
+mexx-festival-splashes-men	Mexx Festival Splashes Men		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Festival-Splashes-Men-55517.html				pending
+mexx-festival-splashes-woman	Mexx Festival Splashes Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Festival-Splashes-Woman-55516.html				pending
+mexx-first-sunshine-man	Mexx First Sunshine Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-First-Sunshine-Man-8608.html				pending
+mexx-first-sunshine-woman	Mexx First Sunshine Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-First-Sunshine-Woman-8607.html				pending
 mexx-fresh-man	MEXX Fresh Man		male		https://www.fragrantica.com/perfume/Mexx/MEXX-Fresh-Man-13191.html				pending
+mexx-fresh-splash-for-her	MEXX Fresh Splash For Her		female		https://www.fragrantica.com/perfume/Mexx/MEXX-Fresh-Splash-For-Her-82600.html				pending
 mexx-fresh-woman	MEXX Fresh Woman		female		https://www.fragrantica.com/perfume/Mexx/MEXX-Fresh-Woman-13190.html				pending
 mexx-ice-touch-man	Mexx Ice Touch Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Ice-Touch-Man-1072.html				pending
 mexx-ice-touch-man-2014	Mexx Ice Touch Man (2014)		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Ice-Touch-Man-2014-26464.html				pending
 mexx-ice-touch-woman	Mexx Ice Touch Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Ice-Touch-Woman-1071.html				pending
 mexx-ice-touch-woman-2014	Mexx Ice Touch Woman (2014)		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Ice-Touch-Woman-2014-26463.html				pending
 mexx-man	Mexx Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Man-903.html				pending
+mexx-man-festival-summer	Mexx Man Festival Summer		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Man-Festival-Summer-50114.html				pending
+mexx-man-summer-edition	Mexx Man Summer Edition		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Man-Summer-Edition-12003.html				pending
 mexx-pure-for-her	Mexx Pure for Her		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Pure-for-Her-15991.html				pending
 mexx-pure-for-him	Mexx Pure for Him		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Pure-for-Him-15990.html				pending
 mexx-pure-life-man	Mexx Pure Life Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Pure-Life-Man-1077.html				pending
 mexx-pure-life-woman	Mexx pure Life Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-pure-Life-Woman-1078.html				pending
-mexx-waterlove-woman	Mexx Waterlove Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Waterlove-Woman-1073.html				pending
-mexx-whenever-wherever-for-her	Mexx Whenever Wherever For Her		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Whenever-Wherever-For-Her-55518.html				pending
-mexx-whenever-wherever-for-him	Mexx Whenever Wherever For Him		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Whenever-Wherever-For-Him-55519.html				pending
-mexx-woman	Mexx Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Woman-902.html				pending
-mexx-woman-summer-edition	Mexx Woman Summer Edition		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Woman-Summer-Edition-12002.html				pending
-mexx-xx-nice	Mexx XX Nice		female		https://www.fragrantica.com/perfume/Mexx/Mexx-XX-Nice-2790.html				pending
-mexx-xx-wild	Mexx XX Wild		female		https://www.fragrantica.com/perfume/Mexx/Mexx-XX-Wild-2791.html				pending
-perspective-woman	Perspective Woman		female		https://www.fragrantica.com/perfume/Mexx/Perspective-Woman-9883.html				pending
-xx-by-mexx-lovesome	XX by Mexx Lovesome		female		https://www.fragrantica.com/perfume/Mexx/XX-by-Mexx-Lovesome-8396.html				pending
-xx-by-mexx-mysterious	XX by Mexx Mysterious		female		https://www.fragrantica.com/perfume/Mexx/XX-by-Mexx-Mysterious-8397.html				pending
-xx-very-nice	XX Very Nice		female		https://www.fragrantica.com/perfume/Mexx/XX-Very-Nice-6201.html				pending
-xx-very-wild	XX Very Wild		female		https://www.fragrantica.com/perfume/Mexx/XX-Very-Wild-6202.html				pending
-diversity-8466	Diversity		male		https://www.fragrantica.com/perfume/Mexx/Diversity-8466.html				pending
-life-is-now-for-him	Life is Now for Him		male		https://www.fragrantica.com/perfume/Mexx/Life-is-Now-for-Him-31413.html				pending
-look-up-now-life-is-surprising-for-him	LOOK UP NOW: Life Is Surprising For Him		male		https://www.fragrantica.com/perfume/Mexx/LOOK-UP-NOW-Life-Is-Surprising-For-Him-39482.html				pending
-magnetic-for-him	Magnetic for Him		male		https://www.fragrantica.com/perfume/Mexx/Magnetic-for-Him-11493.html				pending
-mexx-amsterdam-spring-edition-man	Mexx Amsterdam Spring Edition Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Amsterdam-Spring-Edition-Man-1076.html				pending
-mexx-amsterdam-spring-edition-woman	Mexx Amsterdam Spring Edition Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Amsterdam-Spring-Edition-Woman-1075.html				pending
-mexx-berlin-summer-edition-for-men	Mexx Berlin Summer Edition for Men		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Berlin-Summer-Edition-for-Men-3603.html				pending
-mexx-black-and-gold-limited-edition	Mexx Black & Gold Limited Edition		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Black-Gold-Limited-Edition-88150.html				pending
-mexx-city-breeze-for-him	Mexx City Breeze For Him		male		https://www.fragrantica.com/perfume/Mexx/Mexx-City-Breeze-For-Him-44049.html				pending
-mexx-cocktail-summer-man	Mexx Cocktail Summer Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Cocktail-Summer-Man-45311.html				pending
-mexx-festival-splashes-men	Mexx Festival Splashes Men		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Festival-Splashes-Men-55517.html				pending
-mexx-festival-splashes-woman	Mexx Festival Splashes Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Festival-Splashes-Woman-55516.html				pending
-mexx-first-sunshine-man	Mexx First Sunshine Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-First-Sunshine-Man-8608.html				pending
-mexx-first-sunshine-woman	Mexx First Sunshine Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-First-Sunshine-Woman-8607.html				pending
-mexx-fresh-splash-for-her	MEXX Fresh Splash For Her		female		https://www.fragrantica.com/perfume/Mexx/MEXX-Fresh-Splash-For-Her-82600.html				pending
-mexx-man-festival-summer	Mexx Man Festival Summer		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Man-Festival-Summer-50114.html				pending
-mexx-man-summer-edition	Mexx Man Summer Edition		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Man-Summer-Edition-12003.html				pending
 mexx-spring-edition-man	Mexx Spring Edition Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Spring-Edition-Man-21487.html				pending
 mexx-spring-edition-woman	Mexx Spring Edition Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Spring-Edition-Woman-21486.html				pending
 mexx-spring-is-now-man	Mexx Spring is Now Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Spring-is-Now-Man-30173.html				pending
@@ -62,9 +50,21 @@ mexx-spring-is-now-woman	Mexx Spring is Now Woman		female		https://www.fragranti
 mexx-summer-is-now-man	Mexx Summer is Now Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Summer-is-Now-Man-35844.html				pending
 mexx-summer-is-now-woman	Mexx Summer is Now Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Summer-is-Now-Woman-35843.html				pending
 mexx-waterlove-man	Mexx Waterlove Man		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Waterlove-Man-1074.html				pending
+mexx-waterlove-woman	Mexx Waterlove Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Waterlove-Woman-1073.html				pending
+mexx-whenever-wherever-for-her	Mexx Whenever Wherever For Her		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Whenever-Wherever-For-Her-55518.html				pending
+mexx-whenever-wherever-for-him	Mexx Whenever Wherever For Him		male		https://www.fragrantica.com/perfume/Mexx/Mexx-Whenever-Wherever-For-Him-55519.html				pending
+mexx-woman	Mexx Woman		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Woman-902.html				pending
 mexx-woman-festival-summer	Mexx Woman Festival Summer		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Woman-Festival-Summer-50113.html				pending
+mexx-woman-summer-edition	Mexx Woman Summer Edition		female		https://www.fragrantica.com/perfume/Mexx/Mexx-Woman-Summer-Edition-12002.html				pending
+mexx-xx-nice	Mexx XX Nice		female		https://www.fragrantica.com/perfume/Mexx/Mexx-XX-Nice-2790.html				pending
+mexx-xx-wild	Mexx XX Wild		female		https://www.fragrantica.com/perfume/Mexx/Mexx-XX-Wild-2791.html				pending
 perspective-man	Perspective Man		male		https://www.fragrantica.com/perfume/Mexx/Perspective-Man-9884.html				pending
+perspective-woman	Perspective Woman		female		https://www.fragrantica.com/perfume/Mexx/Perspective-Woman-9883.html				pending
 simply-for-her	Simply For Her		female		https://www.fragrantica.com/perfume/Mexx/Simply-For-Her-81491.html				pending
 simply-for-him	Simply For Him		male		https://www.fragrantica.com/perfume/Mexx/Simply-For-Him-81493.html				pending
 summer-bliss-for-her	Summer Bliss For Her		female		https://www.fragrantica.com/perfume/Mexx/Summer-Bliss-For-Her-81497.html				pending
 summer-bliss-for-him	Summer Bliss For Him		male		https://www.fragrantica.com/perfume/Mexx/Summer-Bliss-For-Him-81498.html				pending
+xx-by-mexx-lovesome	XX by Mexx Lovesome		female		https://www.fragrantica.com/perfume/Mexx/XX-by-Mexx-Lovesome-8396.html				pending
+xx-by-mexx-mysterious	XX by Mexx Mysterious		female		https://www.fragrantica.com/perfume/Mexx/XX-by-Mexx-Mysterious-8397.html				pending
+xx-very-nice	XX Very Nice		female		https://www.fragrantica.com/perfume/Mexx/XX-Very-Nice-6201.html				pending
+xx-very-wild	XX Very Wild		female		https://www.fragrantica.com/perfume/Mexx/XX-Very-Wild-6202.html				pending

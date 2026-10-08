@@ -1,8 +1,10 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 24k-brilliant-gold	24K Brilliant Gold		female		https://www.fragrantica.com/perfume/Michael-Kors/24K-Brilliant-Gold-31341.html				pending
+chic	Chic		female		https://www.fragrantica.com/perfume/Michael-Kors/Chic-2326.html				pending
 coral	Coral		female		https://www.fragrantica.com/perfume/Michael-Kors/Coral-32739.html				pending
 exotic-blossom	Exotic Blossom		female		https://www.fragrantica.com/perfume/Michael-Kors/Exotic-Blossom-47602.html				pending
 extreme-blue	Extreme Blue		male		https://www.fragrantica.com/perfume/Michael-Kors/Extreme-Blue-36507.html				pending
+extreme-journey	Extreme Journey		male		https://www.fragrantica.com/perfume/Michael-Kors/Extreme-Journey-67499.html				pending
 extreme-night	Extreme Night		male		https://www.fragrantica.com/perfume/Michael-Kors/Extreme-Night-44695.html				pending
 extreme-rush	Extreme Rush		male		https://www.fragrantica.com/perfume/Michael-Kors/Extreme-Rush-54240.html				pending
 extreme-sky	Extreme Sky		male		https://www.fragrantica.com/perfume/Michael-Kors/Extreme-Sky-61093.html				pending
@@ -30,6 +32,9 @@ michael-kors-white	Michael Kors White		female		https://www.fragrantica.com/perfu
 michael-sheer	Michael Sheer		female		https://www.fragrantica.com/perfume/Michael-Kors/Michael-Sheer-11931.html				pending
 midnight-shimmer	Midnight Shimmer		female		https://www.fragrantica.com/perfume/Michael-Kors/Midnight-Shimmer-38989.html				pending
 mystique-shimmer	Mystique Shimmer		female		https://www.fragrantica.com/perfume/Michael-Kors/Mystique-Shimmer-62282.html				pending
+notes-from-michael-glenplaid	Notes from Michael Glenplaid		female		https://www.fragrantica.com/perfume/Michael-Kors/Notes-from-Michael-Glenplaid-16970.html				pending
+notes-from-michael-houndstooth	Notes from Michael Houndstooth		female		https://www.fragrantica.com/perfume/Michael-Kors/Notes-from-Michael-Houndstooth-16971.html				pending
+notes-from-michael-tattersall	Notes from Michael Tattersall		female		https://www.fragrantica.com/perfume/Michael-Kors/Notes-from-Michael-Tattersall-16972.html				pending
 pour-femme-absolu	Pour Femme Absolu		female		https://www.fragrantica.com/perfume/Michael-Kors/Pour-Femme-Absolu-112767.html				pending
 pour-homme-absolu	Pour Homme Absolu		male		https://www.fragrantica.com/perfume/Michael-Kors/Pour-Homme-Absolu-112768.html				pending
 rose-radiant-gold	Rose Radiant Gold		female		https://www.fragrantica.com/perfume/Michael-Kors/Rose-Radiant-Gold-31342.html				pending
@@ -42,23 +47,18 @@ sky-blossom	Sky Blossom		female		https://www.fragrantica.com/perfume/Michael-Kor
 sparkling-blush	Sparkling Blush		female		https://www.fragrantica.com/perfume/Michael-Kors/Sparkling-Blush-51371.html				pending
 sporty-citrus	Sporty Citrus		female		https://www.fragrantica.com/perfume/Michael-Kors/Sporty-Citrus-18160.html				pending
 starlight-shimmer	Starlight Shimmer		female		https://www.fragrantica.com/perfume/Michael-Kors/Starlight-Shimmer-55826.html				pending
+stylish-amber	Stylish Amber		female		https://www.fragrantica.com/perfume/Michael-Kors/Stylish-Amber-69408.html				pending
 suede	Suede		female		https://www.fragrantica.com/perfume/Michael-Kors/Suede-14779.html				pending
 super-gorgeous	Super Gorgeous!		female		https://www.fragrantica.com/perfume/Michael-Kors/Super-Gorgeous-68626.html				pending
 turquoise	Turquoise		female		https://www.fragrantica.com/perfume/Michael-Kors/Turquoise-41839.html				pending
 twilight-shimmer	Twilight Shimmer		female		https://www.fragrantica.com/perfume/Michael-Kors/Twilight-Shimmer-50396.html				pending
 very-hollywood	Very Hollywood		female		https://www.fragrantica.com/perfume/Michael-Kors/Very-Hollywood-6047.html				pending
 very-hollywood-sparkling	Very Hollywood Sparkling		female		https://www.fragrantica.com/perfume/Michael-Kors/Very-Hollywood-Sparkling-10480.html				pending
+very-michael-kors	Very Michael Kors		female		https://www.fragrantica.com/perfume/Michael-Kors/Very-Michael-Kors-2402.html				pending
+very-pretty	Very Pretty		female		https://www.fragrantica.com/perfume/Michael-Kors/Very-Pretty-4790.html				pending
 white-luminous-gold	White Luminous Gold		female		https://www.fragrantica.com/perfume/Michael-Kors/White-Luminous-Gold-31343.html				pending
 wonderlust	Wonderlust		female		https://www.fragrantica.com/perfume/Michael-Kors/Wonderlust-39459.html				pending
 wonderlust-eau-de-voyage	Wonderlust Eau de Voyage		female		https://www.fragrantica.com/perfume/Michael-Kors/Wonderlust-Eau-de-Voyage-63414.html				pending
 wonderlust-eau-fresh	Wonderlust Eau Fresh		female		https://www.fragrantica.com/perfume/Michael-Kors/Wonderlust-Eau-Fresh-50507.html				pending
 wonderlust-sensual-essence	Wonderlust Sensual Essence		female		https://www.fragrantica.com/perfume/Michael-Kors/Wonderlust-Sensual-Essence-45508.html				pending
 wonderlust-sublime	Wonderlust Sublime		female		https://www.fragrantica.com/perfume/Michael-Kors/Wonderlust-Sublime-55761.html				pending
-chic	Chic		female		https://www.fragrantica.com/perfume/Michael-Kors/Chic-2326.html				pending
-extreme-journey	Extreme Journey		male		https://www.fragrantica.com/perfume/Michael-Kors/Extreme-Journey-67499.html				pending
-notes-from-michael-glenplaid	Notes from Michael Glenplaid		female		https://www.fragrantica.com/perfume/Michael-Kors/Notes-from-Michael-Glenplaid-16970.html				pending
-notes-from-michael-houndstooth	Notes from Michael Houndstooth		female		https://www.fragrantica.com/perfume/Michael-Kors/Notes-from-Michael-Houndstooth-16971.html				pending
-notes-from-michael-tattersall	Notes from Michael Tattersall		female		https://www.fragrantica.com/perfume/Michael-Kors/Notes-from-Michael-Tattersall-16972.html				pending
-stylish-amber	Stylish Amber		female		https://www.fragrantica.com/perfume/Michael-Kors/Stylish-Amber-69408.html				pending
-very-michael-kors	Very Michael Kors		female		https://www.fragrantica.com/perfume/Michael-Kors/Very-Michael-Kors-2402.html				pending
-very-pretty	Very Pretty		female		https://www.fragrantica.com/perfume/Michael-Kors/Very-Pretty-4790.html				pending

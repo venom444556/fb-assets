@@ -1,10 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-janan-gold-edition	Janan Gold Edition		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Janan-Gold-Edition-41898.html				pending
-janan-sport	Janan Sport		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Janan-Sport-118651.html				pending
-oudh-qadim	Oudh Qadim		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Oudh-Qadim-29167.html				pending
-wasim-akram-502	Wasim Akram 502		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Wasim-Akram-502-46267.html				pending
-white-musk	White Musk		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/White-Musk-29215.html				pending
-zarar	Zarar		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Zarar-29168.html				pending
 10-the-era	10 The Era		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/10-The-Era-56865.html				pending
 ace-aisam-ul-haq	Ace Aisam Ul Haq		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Ace-Aisam-Ul-Haq-63659.html				pending
 addicted	Addicted		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Addicted-31853.html				pending
@@ -52,7 +46,9 @@ j-senses	J. Senses		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/J
 j-shine	J. Shine		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/J-Shine-56876.html				pending
 j-spell	J. Spell		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/J-Spell-56850.html				pending
 j-surprise-me	J. Surprise Me		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/J-Surprise-Me-56860.html				pending
+janan-gold-edition	Janan Gold Edition		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Janan-Gold-Edition-41898.html				pending
 janan-pour-femme	Janan Pour Femme		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/Janan-Pour-Femme-63665.html				pending
+janan-sport	Janan Sport		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Janan-Sport-118651.html				pending
 khulood	Khulood		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/Khulood-35688.html				pending
 khumar	Khumar		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Khumar-29205.html				pending
 komal	Komal		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/Komal-29217.html				pending
@@ -66,6 +62,7 @@ moon-light	Moon Light		female		https://www.fragrantica.com/perfume/Junaid-Jamshe
 musk-e-shaheer	Musk-e-Shaheer		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Musk-e-Shaheer-41921.html				pending
 musky-rose	Musky Rose		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Musky-Rose-41927.html				pending
 oudh-al-junaid	Oudh Al Junaid		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Oudh-Al-Junaid-29189.html				pending
+oudh-qadim	Oudh Qadim		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Oudh-Qadim-29167.html				pending
 paradise	Paradise		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/Paradise-52391.html				pending
 pleasure	Pleasure		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/Pleasure-56861.html				pending
 pride	Pride		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Pride-56863.html				pending
@@ -87,8 +84,11 @@ treasure	Treasure		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/Tr
 uroosa	Uroosa		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/Uroosa-29203.html				pending
 vocal-fahad-mustafa	Vocal Fahad Mustafa		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Vocal-Fahad-Mustafa-52388.html				pending
 wasim-akram-414	Wasim Akram 414		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Wasim-Akram-414-40442.html				pending
+wasim-akram-502	Wasim Akram 502		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Wasim-Akram-502-46267.html				pending
 wasim-akram-502-46268	Wasim Akram 502		female		https://www.fragrantica.com/perfume/Junaid-Jamshed/Wasim-Akram-502-46268.html				pending
+white-musk	White Musk		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/White-Musk-29215.html				pending
 xpose	Xpose		unisex		https://www.fragrantica.com/perfume/Junaid-Jamshed/Xpose-63657.html				pending
+zarar	Zarar		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Zarar-29168.html				pending
 zarar-gold	Zarar Gold		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Zarar-Gold-30869.html				pending
 ziya-gold	Ziya Gold		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Ziya-Gold-56872.html				pending
 ziya-platinum	Ziya Platinum		male		https://www.fragrantica.com/perfume/Junaid-Jamshed/Ziya-Platinum-56870.html				pending

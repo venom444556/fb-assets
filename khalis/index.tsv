@@ -1,7 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-oud	Black Oud		unisex		https://www.fragrantica.com/perfume/Khalis/Black-Oud-67817.html				pending
-oud-afgano	Oud Afgano		unisex		https://www.fragrantica.com/perfume/Khalis/Oud-Afgano-69026.html				pending
-zeena	Zeena		female		https://www.fragrantica.com/perfume/Khalis/Zeena-109882.html				pending
 aban	Aban		male		https://www.fragrantica.com/perfume/Khalis/Aban-34376.html				pending
 ahlam	Ahlam		unisex		https://www.fragrantica.com/perfume/Khalis/Ahlam-34310.html				pending
 al-mas	Al Mas		unisex		https://www.fragrantica.com/perfume/Khalis/Al-Mas-36624.html				pending
@@ -18,6 +15,7 @@ attar-al-habayeb	Attar Al Habayeb		male		https://www.fragrantica.com/perfume/Kha
 aziz	Aziz		unisex		https://www.fragrantica.com/perfume/Khalis/Aziz-34365.html				pending
 aziz-an-aura-of-purity	Aziz An Aura of Purity		unisex		https://www.fragrantica.com/perfume/Khalis/Aziz-An-Aura-of-Purity-34382.html				pending
 baha	Baha		male		https://www.fragrantica.com/perfume/Khalis/Baha-34369.html				pending
+black-oud	Black Oud		unisex		https://www.fragrantica.com/perfume/Khalis/Black-Oud-67817.html				pending
 bushra	Bushra		unisex		https://www.fragrantica.com/perfume/Khalis/Bushra-34378.html				pending
 dream-dubai	Dream Dubai		unisex		https://www.fragrantica.com/perfume/Khalis/Dream-Dubai-34373.html				pending
 falsafat-aashiq	Falsafat Aashiq		unisex		https://www.fragrantica.com/perfume/Khalis/Falsafat-Aashiq-59175.html				pending
@@ -46,6 +44,7 @@ mukhalat-an-aura-of-purity	Mukhalat an Aura of Purity		female		https://www.fragr
 mukhalat-muhjah	Mukhalat Muhjah		unisex		https://www.fragrantica.com/perfume/Khalis/Mukhalat-Muhjah-34366.html				pending
 musk-an-aura-of-purity	Musk An Aura of Purity		unisex		https://www.fragrantica.com/perfume/Khalis/Musk-An-Aura-of-Purity-34386.html				pending
 noor	Noor		unisex		https://www.fragrantica.com/perfume/Khalis/Noor-34388.html				pending
+oud-afgano	Oud Afgano		unisex		https://www.fragrantica.com/perfume/Khalis/Oud-Afgano-69026.html				pending
 oud-al-fakhir	Oud Al Fakhir		female		https://www.fragrantica.com/perfume/Khalis/Oud-Al-Fakhir-40465.html				pending
 oud-al-shams	Oud Al Shams		unisex		https://www.fragrantica.com/perfume/Khalis/Oud-Al-Shams-34338.html				pending
 oud-ateeq	Oud Ateeq		male		https://www.fragrantica.com/perfume/Khalis/Oud-Ateeq-34328.html				pending
@@ -64,5 +63,6 @@ tres-romentique	Tres Romentique		female		https://www.fragrantica.com/perfume/Kha
 unic	Unic		female		https://www.fragrantica.com/perfume/Khalis/Unic-34335.html				pending
 white-musk	White Musk		unisex		https://www.fragrantica.com/perfume/Khalis/White-Musk-45845.html				pending
 zaharat-hubna	Zaharat Hubna		unisex		https://www.fragrantica.com/perfume/Khalis/Zaharat-Hubna-34355.html				pending
+zeena	Zeena		female		https://www.fragrantica.com/perfume/Khalis/Zeena-109882.html				pending
 zoha	Zoha		female		https://www.fragrantica.com/perfume/Khalis/Zoha-34374.html				pending
 zulfa	Zulfa		male		https://www.fragrantica.com/perfume/Khalis/Zulfa-34377.html				pending

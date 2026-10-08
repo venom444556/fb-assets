@@ -1,7 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-im	I'm		female		https://www.fragrantica.com/perfume/Pupa/I-m-30948.html				pending
-vamp-pink	Vamp! Pink		female		https://www.fragrantica.com/perfume/Pupa/Vamp-Pink-65814.html				pending
-yes-gold	Yes Gold		female		https://www.fragrantica.com/perfume/Pupa/Yes-Gold-2178.html				pending
 air-de-fio-no-1	Air de Fio No 1		female		https://www.fragrantica.com/perfume/Pupa/Air-de-Fio-No-1-11503.html				pending
 air-de-fio-no-2	Air de Fio No 2		female		https://www.fragrantica.com/perfume/Pupa/Air-de-Fio-No-2-11504.html				pending
 air-de-fio-no-3	Air de Fio No 3		female		https://www.fragrantica.com/perfume/Pupa/Air-de-Fio-No-3-11505.html				pending
@@ -13,6 +10,7 @@ bleu-ciel	Bleu Ciel		female		https://www.fragrantica.com/perfume/Pupa/Bleu-Ciel-
 fio-fiorilu-en-fleur	Fio Fiorilu En Fleur		female		https://www.fragrantica.com/perfume/Pupa/Fio-Fiorilu-En-Fleur-20195.html				pending
 fiorilu	Fiorilu		female		https://www.fragrantica.com/perfume/Pupa/Fiorilu-20196.html				pending
 fiorilu-en-fleur	Fiorilu En Fleur		female		https://www.fragrantica.com/perfume/Pupa/Fiorilu-En-Fleur-20194.html				pending
+im	I'm		female		https://www.fragrantica.com/perfume/Pupa/I-m-30948.html				pending
 im-fio-acid-green	I'm Fio Acid Green		female		https://www.fragrantica.com/perfume/Pupa/I-m-Fio-Acid-Green-22869.html				pending
 im-fio-cloudy-violet	I'm Fio Cloudy Violet		female		https://www.fragrantica.com/perfume/Pupa/I-m-Fio-Cloudy-Violet-22871.html				pending
 im-fio-deep-coral	I'm Fio Deep Coral		female		https://www.fragrantica.com/perfume/Pupa/I-m-Fio-Deep-Coral-22872.html				pending
@@ -39,10 +37,12 @@ red-queen-rich-flowery	Red Queen Rich Flowery		female		https://www.fragrantica.c
 red-queen-sophisticated-fruity	Red Queen Sophisticated Fruity		female		https://www.fragrantica.com/perfume/Pupa/Red-Queen-Sophisticated-Fruity-59659.html				pending
 rose-nuage	Rose Nuage		female		https://www.fragrantica.com/perfume/Pupa/Rose-Nuage-20199.html				pending
 vamp-black	Vamp! Black		female		https://www.fragrantica.com/perfume/Pupa/Vamp-Black-65812.html				pending
+vamp-pink	Vamp! Pink		female		https://www.fragrantica.com/perfume/Pupa/Vamp-Pink-65814.html				pending
 vamp-red	Vamp! Red		female		https://www.fragrantica.com/perfume/Pupa/Vamp-Red-65813.html				pending
 vert-printemps	Vert Printemps		female		https://www.fragrantica.com/perfume/Pupa/Vert-Printemps-20198.html				pending
 very-flower-fiore-di-tahiti	Very Flower Fiore di Tahiti		female		https://www.fragrantica.com/perfume/Pupa/Very-Flower-Fiore-di-Tahiti-3739.html				pending
 very-flower-iris	Very Flower Iris		female		https://www.fragrantica.com/perfume/Pupa/Very-Flower-Iris-3742.html				pending
 very-flower-orchidea	Very Flower Orchidea		female		https://www.fragrantica.com/perfume/Pupa/Very-Flower-Orchidea-3741.html				pending
 very-flower-rosa	Very Flower Rosa		female		https://www.fragrantica.com/perfume/Pupa/Very-Flower-Rosa-3740.html				pending
+yes-gold	Yes Gold		female		https://www.fragrantica.com/perfume/Pupa/Yes-Gold-2178.html				pending
 yes-silver	Yes Silver		female		https://www.fragrantica.com/perfume/Pupa/Yes-Silver-6373.html				pending

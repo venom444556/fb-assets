@@ -1,7 +1,5 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 almond-eau-de-toilette	Almond Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Caswell-Massey/Almond-Eau-de-Toilette-81888.html				pending
-number-six	Number Six		male		https://www.fragrantica.com/perfume/Caswell-Massey/Number-Six-8516.html				pending
-orchid-eau-de-parfum	Orchid Eau de Parfum		female		https://www.fragrantica.com/perfume/Caswell-Massey/Orchid-Eau-de-Parfum-81890.html				pending
 aura-of-patchouli	Aura of Patchouli		male		https://www.fragrantica.com/perfume/Caswell-Massey/Aura-of-Patchouli-8518.html				pending
 beatrix	Beatrix		female		https://www.fragrantica.com/perfume/Caswell-Massey/Beatrix-50017.html				pending
 canyon-fragrance-tonic	Canyon Fragrance Tonic		unisex		https://www.fragrantica.com/perfume/Caswell-Massey/Canyon-Fragrance-Tonic-54655.html				pending
@@ -41,8 +39,10 @@ marem	Marem		female		https://www.fragrantica.com/perfume/Caswell-Massey/Marem-50
 marem-eau-de-parfum	Marem Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Caswell-Massey/Marem-Eau-de-Parfum-81887.html				pending
 michelsens-bay-rum	Michelsen's Bay Rum		male		https://www.fragrantica.com/perfume/Caswell-Massey/Michelsen-s-Bay-Rum-8522.html				pending
 newport	Newport		unisex		https://www.fragrantica.com/perfume/Caswell-Massey/Newport-8513.html				pending
+number-six	Number Six		male		https://www.fragrantica.com/perfume/Caswell-Massey/Number-Six-8516.html				pending
 oaire	OAIRE		unisex		https://www.fragrantica.com/perfume/Caswell-Massey/OAIRE-92961.html				pending
 old-faithful-fragrance-tonic	Old Faithful Fragrance Tonic		unisex		https://www.fragrantica.com/perfume/Caswell-Massey/Old-Faithful-Fragrance-Tonic-54652.html				pending
+orchid-eau-de-parfum	Orchid Eau de Parfum		female		https://www.fragrantica.com/perfume/Caswell-Massey/Orchid-Eau-de-Parfum-81890.html				pending
 peony-eau-de-parfum	Peony Eau de Parfum		female		https://www.fragrantica.com/perfume/Caswell-Massey/Peony-Eau-de-Parfum-81884.html				pending
 pomegranate-signature-scent	Pomegranate Signature Scent		female		https://www.fragrantica.com/perfume/Caswell-Massey/Pomegranate-Signature-Scent-8500.html				pending
 pure-frost	Pure Frost		unisex		https://www.fragrantica.com/perfume/Caswell-Massey/Pure-Frost-16161.html				pending

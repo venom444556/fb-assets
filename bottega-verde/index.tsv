@@ -1,9 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cocco	Cocco		female		https://www.fragrantica.com/perfume/Bottega-Verde/Cocco-15780.html				pending
-iris	Iris		female		https://www.fragrantica.com/perfume/Bottega-Verde/Iris-15808.html				pending
-tiare	Tiare		female		https://www.fragrantica.com/perfume/Bottega-Verde/Tiare-56123.html				pending
-vaniglia-nera	Vaniglia Nera		female		https://www.fragrantica.com/perfume/Bottega-Verde/Vaniglia-Nera-15788.html				pending
-violetta	Violetta		female		https://www.fragrantica.com/perfume/Bottega-Verde/Violetta-15357.html				pending
 abete-argentato	Abete Argentato		male		https://www.fragrantica.com/perfume/Bottega-Verde/Abete-Argentato-15815.html				pending
 acqua-di-bottega-verde-n0-1	Acqua di Bottega Verde N0 1		unisex		https://www.fragrantica.com/perfume/Bottega-Verde/Acqua-di-Bottega-Verde-N0-1-15772.html				pending
 acqua-di-bottega-verde-n0-2	Acqua di Bottega Verde N0 2		unisex		https://www.fragrantica.com/perfume/Bottega-Verde/Acqua-di-Bottega-Verde-N0-2-15773.html				pending
@@ -25,6 +20,7 @@ bv-secret	BV Secret		female		https://www.fragrantica.com/perfume/Bottega-Verde/B
 bv-style	BV Style		male		https://www.fragrantica.com/perfume/Bottega-Verde/BV-Style-15749.html				pending
 camelia-dinverno	Camelia d'Inverno		female		https://www.fragrantica.com/perfume/Bottega-Verde/Camelia-d-Inverno-56125.html				pending
 cioccolato	Cioccolato		unisex		https://www.fragrantica.com/perfume/Bottega-Verde/Cioccolato-38478.html				pending
+cocco	Cocco		female		https://www.fragrantica.com/perfume/Bottega-Verde/Cocco-15780.html				pending
 cocco-shake	Cocco Shake		female		https://www.fragrantica.com/perfume/Bottega-Verde/Cocco-Shake-82460.html				pending
 coccoloso	Coccoloso		female		https://www.fragrantica.com/perfume/Bottega-Verde/Coccoloso-76556.html				pending
 cuore-di-fiaba	Cuore di Fiaba		female		https://www.fragrantica.com/perfume/Bottega-Verde/Cuore-di-Fiaba-15784.html				pending
@@ -54,6 +50,7 @@ giardini-toscani-vialetto-delle-delizie	Giardini Toscani - Vialetto delle Delizi
 giglio-dorato	Giglio Dorato		female		https://www.fragrantica.com/perfume/Bottega-Verde/Giglio-Dorato-39200.html				pending
 gioiosa	Gioiosa		female		https://www.fragrantica.com/perfume/Bottega-Verde/Gioiosa-39196.html				pending
 incanto-marino	Incanto Marino		female		https://www.fragrantica.com/perfume/Bottega-Verde/Incanto-Marino-39197.html				pending
+iris	Iris		female		https://www.fragrantica.com/perfume/Bottega-Verde/Iris-15808.html				pending
 iris-bianco	Iris Bianco		female		https://www.fragrantica.com/perfume/Bottega-Verde/Iris-Bianco-24512.html				pending
 iris-dellaurora	Iris dell'Aurora		female		https://www.fragrantica.com/perfume/Bottega-Verde/Iris-dell-Aurora-37847.html				pending
 lady	Lady		female		https://www.fragrantica.com/perfume/Bottega-Verde/Lady-15796.html				pending
@@ -97,6 +94,7 @@ summer-chic	Summer Chic		female		https://www.fragrantica.com/perfume/Bottega-Ver
 tentazione-marina	Tentazione Marina		female		https://www.fragrantica.com/perfume/Bottega-Verde/Tentazione-Marina-39198.html				pending
 terre-speziate	Terre Speziate		male		https://www.fragrantica.com/perfume/Bottega-Verde/Terre-Speziate-76862.html				pending
 the-verde	The Verde		female		https://www.fragrantica.com/perfume/Bottega-Verde/The-Verde-15811.html				pending
+tiare	Tiare		female		https://www.fragrantica.com/perfume/Bottega-Verde/Tiare-56123.html				pending
 uomo-ambra-e-tabacco	Uomo - Ambra e Tabacco		male		https://www.fragrantica.com/perfume/Bottega-Verde/Uomo-Ambra-e-Tabacco-15752.html				pending
 uomo-blu-di-spezie	Uomo - Blu di Spezie		male		https://www.fragrantica.com/perfume/Bottega-Verde/Uomo-Blu-di-Spezie-24508.html				pending
 uomo-legni-e-cachemire	Uomo - Legni e Cachemire		male		https://www.fragrantica.com/perfume/Bottega-Verde/Uomo-Legni-e-Cachemire-24507.html				pending
@@ -105,6 +103,8 @@ uomo-the-rosso	Uomo - The Rosso		male		https://www.fragrantica.com/perfume/Botte
 vaniglia	Vaniglia		female		https://www.fragrantica.com/perfume/Bottega-Verde/Vaniglia-15799.html				pending
 vaniglia-e-cardamomo	Vaniglia e Cardamomo		female		https://www.fragrantica.com/perfume/Bottega-Verde/Vaniglia-e-Cardamomo-15804.html				pending
 vaniglia-e-mirra	Vaniglia e Mirra		female		https://www.fragrantica.com/perfume/Bottega-Verde/Vaniglia-e-Mirra-15810.html				pending
+vaniglia-nera	Vaniglia Nera		female		https://www.fragrantica.com/perfume/Bottega-Verde/Vaniglia-Nera-15788.html				pending
 via-del-bacio	Via del Bacio		female		https://www.fragrantica.com/perfume/Bottega-Verde/Via-del-Bacio-56126.html				pending
 via-dellamore	Via dell'Amore		female		https://www.fragrantica.com/perfume/Bottega-Verde/Via-dell-Amore-39201.html				pending
+violetta	Violetta		female		https://www.fragrantica.com/perfume/Bottega-Verde/Violetta-15357.html				pending
 violetta-della-sera	Violetta della Sera		female		https://www.fragrantica.com/perfume/Bottega-Verde/Violetta-della-Sera-37846.html				pending

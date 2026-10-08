@@ -1,11 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-byblos-fusion	Byblos Fusion		male		https://www.fragrantica.com/perfume/Byblos/Byblos-Fusion-18545.html				pending
-byblos-luna	Byblos Luna		female		https://www.fragrantica.com/perfume/Byblos/Byblos-Luna-28804.html				pending
-byblos-man	Byblos Man		male		https://www.fragrantica.com/perfume/Byblos/Byblos-Man-4330.html				pending
-essence	Essence		female		https://www.fragrantica.com/perfume/Byblos/Essence-5207.html				pending
-in-black	In Black		male		https://www.fragrantica.com/perfume/Byblos/In-Black-11574.html				pending
-leather-sensation	Leather Sensation		male		https://www.fragrantica.com/perfume/Byblos/Leather-Sensation-43762.html				pending
-september-morn	September Morn		male		https://www.fragrantica.com/perfume/Byblos/September-Morn-46973.html				pending
 amethyste	Amethyste		female		https://www.fragrantica.com/perfume/Byblos/Amethyste-76552.html				pending
 aquamarine	Aquamarine		female		https://www.fragrantica.com/perfume/Byblos/Aquamarine-86146.html				pending
 bamboo	Bamboo		male		https://www.fragrantica.com/perfume/Byblos/Bamboo-9885.html				pending
@@ -19,6 +12,9 @@ blu-wake-up	Blu Wake Up!		female		https://www.fragrantica.com/perfume/Byblos/Blu
 brezza	Brezza		female		https://www.fragrantica.com/perfume/Byblos/Brezza-11625.html				pending
 butterfly	Butterfly		female		https://www.fragrantica.com/perfume/Byblos/Butterfly-28714.html				pending
 byblos	Byblos		female		https://www.fragrantica.com/perfume/Byblos/Byblos-131.html				pending
+byblos-fusion	Byblos Fusion		male		https://www.fragrantica.com/perfume/Byblos/Byblos-Fusion-18545.html				pending
+byblos-luna	Byblos Luna		female		https://www.fragrantica.com/perfume/Byblos/Byblos-Luna-28804.html				pending
+byblos-man	Byblos Man		male		https://www.fragrantica.com/perfume/Byblos/Byblos-Man-4330.html				pending
 byblos-passion	Byblos Passion		female		https://www.fragrantica.com/perfume/Byblos/Byblos-Passion-14304.html				pending
 byblos-sole	Byblos Sole		female		https://www.fragrantica.com/perfume/Byblos/Byblos-Sole-28803.html				pending
 byblos-uomo	Byblos Uomo		male		https://www.fragrantica.com/perfume/Byblos/Byblos-Uomo-11627.html				pending
@@ -26,9 +22,12 @@ byblos-uomo-2001	Byblos Uomo 2001		male		https://www.fragrantica.com/perfume/Byb
 byblos-water-flower-for-women	Byblos Water Flower for Women		female		https://www.fragrantica.com/perfume/Byblos/Byblos-Water-Flower-for-Women-1573.html				pending
 byblos-woman	Byblos Woman		female		https://www.fragrantica.com/perfume/Byblos/Byblos-Woman-14305.html				pending
 cielo	Cielo		female		https://www.fragrantica.com/perfume/Byblos/Cielo-9886.html				pending
+essence	Essence		female		https://www.fragrantica.com/perfume/Byblos/Essence-5207.html				pending
 feel-pink	Feel Pink		female		https://www.fragrantica.com/perfume/Byblos/Feel-Pink-11629.html				pending
 fuoco	Fuoco		female		https://www.fragrantica.com/perfume/Byblos/Fuoco-12292.html				pending
 ghiaccio	Ghiaccio		female		https://www.fragrantica.com/perfume/Byblos/Ghiaccio-11624.html				pending
+in-black	In Black		male		https://www.fragrantica.com/perfume/Byblos/In-Black-11574.html				pending
+leather-sensation	Leather Sensation		male		https://www.fragrantica.com/perfume/Byblos/Leather-Sensation-43762.html				pending
 mare	Mare		female		https://www.fragrantica.com/perfume/Byblos/Mare-11623.html				pending
 metal-sensation	Metal Sensation		male		https://www.fragrantica.com/perfume/Byblos/Metal-Sensation-43761.html				pending
 miss-byblos	Miss Byblos		female		https://www.fragrantica.com/perfume/Byblos/Miss-Byblos-16640.html				pending
@@ -38,5 +37,6 @@ opal	Opal		female		https://www.fragrantica.com/perfume/Byblos/Opal-76553.html			
 patchouly	Patchouly		unisex		https://www.fragrantica.com/perfume/Byblos/Patchouly-12293.html				pending
 rose-quartz	Rose Quartz		female		https://www.fragrantica.com/perfume/Byblos/Rose-Quartz-76551.html				pending
 sandalo	Sandalo		unisex		https://www.fragrantica.com/perfume/Byblos/Sandalo-12294.html				pending
+september-morn	September Morn		male		https://www.fragrantica.com/perfume/Byblos/September-Morn-46973.html				pending
 terra	Terra		female		https://www.fragrantica.com/perfume/Byblos/Terra-11622.html				pending
 uragano	Uragano		female		https://www.fragrantica.com/perfume/Byblos/Uragano-11626.html				pending

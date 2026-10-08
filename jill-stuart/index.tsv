@@ -1,7 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-jill	Jill		female		https://www.fragrantica.com/perfume/Jill-Stuart/Jill-11719.html				pending
-relax-eau-de-white-floral	Relax Eau de White Floral		female		https://www.fragrantica.com/perfume/Jill-Stuart/Relax-Eau-de-White-Floral-17023.html				pending
-vanilla-lust	Vanilla Lust		female		https://www.fragrantica.com/perfume/Jill-Stuart/Vanilla-Lust-9845.html				pending
 brilliant-jewel	Brilliant Jewel		female		https://www.fragrantica.com/perfume/Jill-Stuart/Brilliant-Jewel-63617.html				pending
 crystal-bloom	Crystal Bloom		female		https://www.fragrantica.com/perfume/Jill-Stuart/Crystal-Bloom-25731.html				pending
 crystal-bloom-aurora-dream	Crystal Bloom Aurora Dream		female		https://www.fragrantica.com/perfume/Jill-Stuart/Crystal-Bloom-Aurora-Dream-43414.html				pending
@@ -26,8 +23,11 @@ flora-notis-fresh-peony-scent	Flora Notis Fresh Peony Scent		female		https://www
 flora-notis-rich-camellia-scent	Flora Notis Rich Camellia Scent		female		https://www.fragrantica.com/perfume/Jill-Stuart/Flora-Notis-Rich-Camellia-Scent-51273.html				pending
 flora-notis-white-rose-scent	Flora Notis White Rose Scent		female		https://www.fragrantica.com/perfume/Jill-Stuart/Flora-Notis-White-Rose-Scent-51270.html				pending
 jasmin-fleur	Jasmin Fleur		female		https://www.fragrantica.com/perfume/Jill-Stuart/Jasmin-Fleur-9844.html				pending
+jill	Jill		female		https://www.fragrantica.com/perfume/Jill-Stuart/Jill-11719.html				pending
 jill-stuart-grapefruit-and-bergamot	Jill Stuart Grapefruit & Bergamot		female		https://www.fragrantica.com/perfume/Jill-Stuart/Jill-Stuart-Grapefruit-Bergamot-31086.html				pending
 jill-stuart-sweet-dreams	Jill Stuart Sweet Dreams		female		https://www.fragrantica.com/perfume/Jill-Stuart/Jill-Stuart-Sweet-Dreams-11720.html				pending
 night-blooming-lily	Night Blooming Lily		female		https://www.fragrantica.com/perfume/Jill-Stuart/Night-Blooming-Lily-9846.html				pending
 night-jewel	Night Jewel		female		https://www.fragrantica.com/perfume/Jill-Stuart/Night-Jewel-9843.html				pending
 night-jewel-summer-bloom	Night Jewel Summer Bloom		female		https://www.fragrantica.com/perfume/Jill-Stuart/Night-Jewel-Summer-Bloom-12195.html				pending
+relax-eau-de-white-floral	Relax Eau de White Floral		female		https://www.fragrantica.com/perfume/Jill-Stuart/Relax-Eau-de-White-Floral-17023.html				pending
+vanilla-lust	Vanilla Lust		female		https://www.fragrantica.com/perfume/Jill-Stuart/Vanilla-Lust-9845.html				pending

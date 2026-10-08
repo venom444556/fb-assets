@@ -1,11 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ishraq	Ishraq		female		https://www.fragrantica.com/perfume/Orientica/Ishraq-55895.html				pending
-ishraq-gold	Ishraq Gold		female		https://www.fragrantica.com/perfume/Orientica/Ishraq-Gold-55896.html				pending
-leaher-oudh	Leaher Oudh		unisex		https://www.fragrantica.com/perfume/Orientica/Leaher-Oudh-55935.html				pending
-red-amber	Red Amber		unisex		https://www.fragrantica.com/perfume/Orientica/Red-Amber-55922.html				pending
-royal-amber	Royal Amber		unisex		https://www.fragrantica.com/perfume/Orientica/Royal-Amber-55916.html				pending
-sara-bleu	Sara Bleu		female		https://www.fragrantica.com/perfume/Orientica/Sara-Bleu-55898.html				pending
-violet-oud	Violet Oud		unisex		https://www.fragrantica.com/perfume/Orientica/Violet-Oud-55924.html				pending
 alessa	Alessa		female		https://www.fragrantica.com/perfume/Orientica/Alessa-81728.html				pending
 alessa-in-pink	Alessa in Pink		female		https://www.fragrantica.com/perfume/Orientica/Alessa-in-Pink-81729.html				pending
 alif	Alif		unisex		https://www.fragrantica.com/perfume/Orientica/Alif-55911.html				pending
@@ -28,8 +21,11 @@ fannan-wardi	Fannan Wardi		female		https://www.fragrantica.com/perfume/Orientica
 floral-rose	Floral Rose		unisex		https://www.fragrantica.com/perfume/Orientica/Floral-Rose-55937.html				pending
 golden-musk	Golden Musk		unisex		https://www.fragrantica.com/perfume/Orientica/Golden-Musk-55919.html				pending
 immerse	Immerse		female		https://www.fragrantica.com/perfume/Orientica/Immerse-81727.html				pending
+ishraq	Ishraq		female		https://www.fragrantica.com/perfume/Orientica/Ishraq-55895.html				pending
+ishraq-gold	Ishraq Gold		female		https://www.fragrantica.com/perfume/Orientica/Ishraq-Gold-55896.html				pending
 jawahra	Jawahra		unisex		https://www.fragrantica.com/perfume/Orientica/Jawahra-55945.html				pending
 knight	Knight		unisex		https://www.fragrantica.com/perfume/Orientica/Knight-55936.html				pending
+leaher-oudh	Leaher Oudh		unisex		https://www.fragrantica.com/perfume/Orientica/Leaher-Oudh-55935.html				pending
 maisoon	Maisoon		female		https://www.fragrantica.com/perfume/Orientica/Maisoon-55907.html				pending
 maisoon-fatin	Maisoon Fatin		female		https://www.fragrantica.com/perfume/Orientica/Maisoon-Fatin-55908.html				pending
 majesty	Majesty		unisex		https://www.fragrantica.com/perfume/Orientica/Majesty-55918.html				pending
@@ -42,16 +38,20 @@ muntasira	Muntasira		unisex		https://www.fragrantica.com/perfume/Orientica/Munta
 muntasira-dhahab	Muntasira Dhahab		male		https://www.fragrantica.com/perfume/Orientica/Muntasira-Dhahab-55906.html				pending
 oud-wood	Oud Wood		unisex		https://www.fragrantica.com/perfume/Orientica/Oud-Wood-55920.html				pending
 qisar	Qisar		unisex		https://www.fragrantica.com/perfume/Orientica/Qisar-55944.html				pending
+red-amber	Red Amber		unisex		https://www.fragrantica.com/perfume/Orientica/Red-Amber-55922.html				pending
 rich-and-ruitz-arabian	Rich & Ruitz Arabian		female		https://www.fragrantica.com/perfume/Orientica/Rich-Ruitz-Arabian-81726.html				pending
 riqqa-dhahab	Riqqa Dhahab		male		https://www.fragrantica.com/perfume/Orientica/Riqqa-Dhahab-55894.html				pending
 riqqa-pour-femme	Riqqa Pour Femme		female		https://www.fragrantica.com/perfume/Orientica/Riqqa-Pour-Femme-55893.html				pending
 risha	Risha		unisex		https://www.fragrantica.com/perfume/Orientica/Risha-55943.html				pending
 rose-bouquet	Rose Bouquet		unisex		https://www.fragrantica.com/perfume/Orientica/Rose-Bouquet-55925.html				pending
+royal-amber	Royal Amber		unisex		https://www.fragrantica.com/perfume/Orientica/Royal-Amber-55916.html				pending
 sapphire	Sapphire		unisex		https://www.fragrantica.com/perfume/Orientica/Sapphire-55921.html				pending
 sara	Sara		female		https://www.fragrantica.com/perfume/Orientica/Sara-55897.html				pending
+sara-bleu	Sara Bleu		female		https://www.fragrantica.com/perfume/Orientica/Sara-Bleu-55898.html				pending
 sehar	Sehar		unisex		https://www.fragrantica.com/perfume/Orientica/Sehar-55942.html				pending
 sheikha	Sheikha		unisex		https://www.fragrantica.com/perfume/Orientica/Sheikha-55941.html				pending
 sublime-oudh	Sublime Oudh		unisex		https://www.fragrantica.com/perfume/Orientica/Sublime-Oudh-55940.html				pending
 sweet-amber	Sweet Amber		unisex		https://www.fragrantica.com/perfume/Orientica/Sweet-Amber-55939.html				pending
+violet-oud	Violet Oud		unisex		https://www.fragrantica.com/perfume/Orientica/Violet-Oud-55924.html				pending
 waterfall	Waterfall		unisex		https://www.fragrantica.com/perfume/Orientica/Waterfall-55938.html				pending
 white-musk	White Musk		unisex		https://www.fragrantica.com/perfume/Orientica/White-Musk-55923.html				pending

@@ -1,7 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-frida	Frida		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Frida-52216.html				pending
-the-green-sea-of-icadas	The Green Sea of Сicadas (Зеленое Море Цикад)		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/The-Green-Sea-of-Sicadas-Zelenoe-More-Cikad-48935.html				pending
-yennefer	Yennefer		female		https://www.fragrantica.com/perfume/Siordia-Parfums/Yennefer-66658.html				pending
 antoinette	Antoinette		female		https://www.fragrantica.com/perfume/Siordia-Parfums/Antoinette-48855.html				pending
 apricot-soul	Apricot Soul		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Apricot-Soul-48937.html				pending
 arrakis	Arrakis		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Arrakis-75125.html				pending
@@ -15,6 +12,7 @@ coffee-and-cigarettes	Coffee & Cigarettes		unisex		https://www.fragrantica.com/p
 crystall-buddah	Crystall Buddah		female		https://www.fragrantica.com/perfume/Siordia-Parfums/Crystall-Buddah-56045.html				pending
 dark-land	Dark Land		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Dark-Land-75120.html				pending
 fleur-de-mai	Fleur De Mai		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Fleur-De-Mai-48929.html				pending
+frida	Frida		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Frida-52216.html				pending
 gauguin	Gauguin		female		https://www.fragrantica.com/perfume/Siordia-Parfums/Gauguin-69160.html				pending
 geralt-of-rivia	Geralt Of Rivia		male		https://www.fragrantica.com/perfume/Siordia-Parfums/Geralt-Of-Rivia-69158.html				pending
 ginger-rom	Ginger Rom		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Ginger-Rom-52218.html				pending
@@ -48,6 +46,7 @@ strider	Strider		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Str
 summertime	Summertime		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Summertime-48936.html				pending
 the-delhi-dance	The Delhi Dance		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/The-Delhi-Dance-60110.html				pending
 the-flowers-of-the-arabian-nights-cvety-arabskih-nocej	The Flowers of The Arabian Nights Cvety Arabskih Nocej		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/The-Flowers-of-The-Arabian-Nights-Cvety-Arabskih-Nocej-48933.html				pending
+the-green-sea-of-icadas	The Green Sea of Сicadas (Зеленое Море Цикад)		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/The-Green-Sea-of-Sicadas-Zelenoe-More-Cikad-48935.html				pending
 the-master-master	The Master Master		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/The-Master-Master-75124.html				pending
 the-queen-of-the-elves	The Queen of the Elves		female		https://www.fragrantica.com/perfume/Siordia-Parfums/The-Queen-of-the-Elves-75121.html				pending
 the-rain-inside	The Rain Inside		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/The-Rain-Inside-52214.html				pending
@@ -56,3 +55,4 @@ the-wind-of-ancient-crete-veter-drevnego-krita	The Wind of Ancient Crete Veter D
 tobacco-rose	Tobacco Rose		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Tobacco-Rose-48930.html				pending
 triss	Triss		female		https://www.fragrantica.com/perfume/Siordia-Parfums/Triss-69159.html				pending
 wild-forest	Wild Forest		unisex		https://www.fragrantica.com/perfume/Siordia-Parfums/Wild-Forest-52217.html				pending
+yennefer	Yennefer		female		https://www.fragrantica.com/perfume/Siordia-Parfums/Yennefer-66658.html				pending

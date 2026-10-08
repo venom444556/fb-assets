@@ -1,9 +1,5 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 ab-silver	AB Silver		male		https://www.fragrantica.com/perfume/Lomani/AB-Silver-24662.html				pending
-el-paso	El Paso		male		https://www.fragrantica.com/perfume/Lomani/El-Paso-20015.html				pending
-intense-black	Intense Black		male		https://www.fragrantica.com/perfume/Lomani/Intense-Black-24656.html				pending
-lomani-essential	Lomani Essential		male		https://www.fragrantica.com/perfume/Lomani/Lomani-Essential-20011.html				pending
-prestige-oud	Prestige Oud		unisex		https://www.fragrantica.com/perfume/Lomani/Prestige-Oud-93825.html				pending
 ab-spirit	AB Spirit		male		https://www.fragrantica.com/perfume/Lomani/AB-Spirit-20435.html				pending
 ab-spirit-9353	AB Spirit		female		https://www.fragrantica.com/perfume/Lomani/AB-Spirit-9353.html				pending
 ab-spirit-millionaire	AB Spirit Millionaire		male		https://www.fragrantica.com/perfume/Lomani/AB-Spirit-Millionaire-20434.html				pending
@@ -22,10 +18,12 @@ bleu-nuit	Bleu Nuit		unisex		https://www.fragrantica.com/perfume/Lomani/Bleu-Nui
 blue-sky	Blue Sky		male		https://www.fragrantica.com/perfume/Lomani/Blue-Sky-24657.html				pending
 cruiser-for-men	Cruiser for Men		male		https://www.fragrantica.com/perfume/Lomani/Cruiser-for-Men-3111.html				pending
 cruiser-for-women	Cruiser for Women		female		https://www.fragrantica.com/perfume/Lomani/Cruiser-for-Women-3112.html				pending
+el-paso	El Paso		male		https://www.fragrantica.com/perfume/Lomani/El-Paso-20015.html				pending
 elitis	Elitis		female		https://www.fragrantica.com/perfume/Lomani/Elitis-23403.html				pending
 elle-et-son-secret	Elle et son secret		female		https://www.fragrantica.com/perfume/Lomani/Elle-et-son-secret-24651.html				pending
 elle-shabille-dor	Elle s’habille d’or		female		https://www.fragrantica.com/perfume/Lomani/Elle-s-habille-d-or-24652.html				pending
 ignition	Ignition		male		https://www.fragrantica.com/perfume/Lomani/Ignition-3115.html				pending
+intense-black	Intense Black		male		https://www.fragrantica.com/perfume/Lomani/Intense-Black-24656.html				pending
 le-coupe	Le Coupe		male		https://www.fragrantica.com/perfume/Lomani/Le-Coupe-15439.html				pending
 lomani-body-and-soul	Lomani Body and Soul		male		https://www.fragrantica.com/perfume/Lomani/Lomani-Body-and-Soul-24654.html				pending
 lomani-code	Lomani Code		male		https://www.fragrantica.com/perfume/Lomani/Lomani-Code-20012.html				pending
@@ -33,6 +31,7 @@ lomani-dangerous	Lomani Dangerous		male		https://www.fragrantica.com/perfume/Lom
 lomani-desire	Lomani Desire		female		https://www.fragrantica.com/perfume/Lomani/Lomani-Desire-24646.html				pending
 lomani-do-it	Lomani Do It		male		https://www.fragrantica.com/perfume/Lomani/Lomani-Do-It-20013.html				pending
 lomani-do-it-20014	Lomani Do It		female		https://www.fragrantica.com/perfume/Lomani/Lomani-Do-It-20014.html				pending
+lomani-essential	Lomani Essential		male		https://www.fragrantica.com/perfume/Lomani/Lomani-Essential-20011.html				pending
 lomani-gold	Lomani Gold		male		https://www.fragrantica.com/perfume/Lomani/Lomani-Gold-20010.html				pending
 lomani-original	Lomani Original		male		https://www.fragrantica.com/perfume/Lomani/Lomani-Original-20016.html				pending
 lomani-pour-homme	Lomani pour Homme		male		https://www.fragrantica.com/perfume/Lomani/Lomani-pour-Homme-3114.html				pending
@@ -46,6 +45,7 @@ miss-lomani	Miss Lomani		female		https://www.fragrantica.com/perfume/Lomani/Miss
 mister-lomani	Mister Lomani		male		https://www.fragrantica.com/perfume/Lomani/Mister-Lomani-20017.html				pending
 network	Network		male		https://www.fragrantica.com/perfume/Lomani/Network-3113.html				pending
 original-love	Original Love		female		https://www.fragrantica.com/perfume/Lomani/Original-Love-20438.html				pending
+prestige-oud	Prestige Oud		unisex		https://www.fragrantica.com/perfume/Lomani/Prestige-Oud-93825.html				pending
 si-fleuri	Si Fleuri		female		https://www.fragrantica.com/perfume/Lomani/Si-Fleuri-20439.html				pending
 si-fleuri-passion	Si Fleuri Passion		female		https://www.fragrantica.com/perfume/Lomani/Si-Fleuri-Passion-20440.html				pending
 solara	Solara		female		https://www.fragrantica.com/perfume/Lomani/Solara-24650.html				pending

@@ -1,5 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-connect	Connect		female		https://www.fragrantica.com/perfume/Jivago/Connect-22346.html				pending
 24k	24K		female		https://www.fragrantica.com/perfume/Jivago/24K-22182.html				pending
 24k-22186	24K		male		https://www.fragrantica.com/perfume/Jivago/24K-22186.html				pending
 24k-diamond-koffret	24K Diamond Koffret		unisex		https://www.fragrantica.com/perfume/Jivago/24K-Diamond-Koffret-32938.html				pending
@@ -8,6 +7,7 @@ connect	Connect		female		https://www.fragrantica.com/perfume/Jivago/Connect-2234
 amoreuse	Amoreuse		female		https://www.fragrantica.com/perfume/Jivago/Amoreuse-66261.html				pending
 amoureux	Amoureux		male		https://www.fragrantica.com/perfume/Jivago/Amoureux-66262.html				pending
 armando	Armando		male		https://www.fragrantica.com/perfume/Jivago/Armando-66290.html				pending
+connect	Connect		female		https://www.fragrantica.com/perfume/Jivago/Connect-22346.html				pending
 connect-22347	Connect		male		https://www.fragrantica.com/perfume/Jivago/Connect-22347.html				pending
 exotic-noir	Exotic Noir		male		https://www.fragrantica.com/perfume/Jivago/Exotic-Noir-59556.html				pending
 exotic-noire	Exotic Noire		female		https://www.fragrantica.com/perfume/Jivago/Exotic-Noire-59555.html				pending

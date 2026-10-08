@@ -1,9 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-camp-willow	Camp Willow		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Camp-Willow-52946.html				pending
-chantilly-cream	Chantilly Cream		female		https://www.fragrantica.com/perfume/Solstice-Scents/Chantilly-Cream-55247.html				pending
-island-blackstrap	Island Blackstrap		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Island-Blackstrap-56187.html				pending
-solstice-kyphi	Solstice Kyphi		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Solstice-Kyphi-52950.html				pending
-victorian-picnic	Victorian Picnic		female		https://www.fragrantica.com/perfume/Solstice-Scents/Victorian-Picnic-55250.html				pending
 after-the-rain	After the Rain		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/After-the-Rain-55246.html				pending
 amber-coeur	Amber Coeur		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Amber-Coeur-58663.html				pending
 astral-temple	Astral Temple		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Astral-Temple-52048.html				pending
@@ -17,9 +12,11 @@ blackburn-farmstead	Blackburn Farmstead		unisex		https://www.fragrantica.com/per
 blackburns-parlor	Blackburn's Parlor		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Blackburn-s-Parlor-52517.html				pending
 blossom-jam-tea-cakes	Blossom Jam Tea Cakes		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Blossom-Jam-Tea-Cakes-52701.html				pending
 blueberry-violet-truffle	Blueberry Violet Truffle		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Blueberry-Violet-Truffle-51259.html				pending
+camp-willow	Camp Willow		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Camp-Willow-52946.html				pending
 cardamom-rose-sugar	Cardamom Rose Sugar		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Cardamom-Rose-Sugar-52702.html				pending
 casting-shadows	Casting Shadows		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Casting-Shadows-52603.html				pending
 cellar	Cellar		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Cellar-52753.html				pending
+chantilly-cream	Chantilly Cream		female		https://www.fragrantica.com/perfume/Solstice-Scents/Chantilly-Cream-55247.html				pending
 cherry-cordial	Cherry Cordial		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Cherry-Cordial-36769.html				pending
 cherry-vanilla-amberosia	Cherry Vanilla Amberosia		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Cherry-Vanilla-Amberosia-36770.html				pending
 chiffon	Chiffon		female		https://www.fragrantica.com/perfume/Solstice-Scents/Chiffon-55248.html				pending
@@ -70,6 +67,7 @@ high-noon	High Noon		unisex		https://www.fragrantica.com/perfume/Solstice-Scents
 iced-wisteria	Iced Wisteria		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Iced-Wisteria-82246.html				pending
 incensum	Incensum		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Incensum-52761.html				pending
 inquisitor	Inquisitor		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Inquisitor-57620.html				pending
+island-blackstrap	Island Blackstrap		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Island-Blackstrap-56187.html				pending
 jack-and-the-devil	Jack and the Devil		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Jack-and-the-Devil-52751.html				pending
 kitchen	Kitchen		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Kitchen-52529.html				pending
 lace-draped-spectre	Lace Draped Spectre		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Lace-Draped-Spectre-52530.html				pending
@@ -118,6 +116,7 @@ smokewood-apiary	Smokewood Apiary		unisex		https://www.fragrantica.com/perfume/S
 smoky-mountain-mallow	Smoky Mountain Mallow		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Smoky-Mountain-Mallow-52597.html				pending
 snowmint-mallow	Snowmint Mallow		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Snowmint-Mallow-36779.html				pending
 snowshoe-pass	Snowshoe Pass		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Snowshoe-Pass-36780.html				pending
+solstice-kyphi	Solstice Kyphi		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Solstice-Kyphi-52950.html				pending
 solstice-magnolia	Solstice Magnolia		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Solstice-Magnolia-82247.html				pending
 sycamore-chai	Sycamore Chai		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Sycamore-Chai-52752.html				pending
 sycamore-sugarworks	Sycamore Sugarworks		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Sycamore-Sugarworks-36791.html				pending
@@ -126,6 +125,7 @@ thornwood-thicket	Thornwood Thicket		unisex		https://www.fragrantica.com/perfume
 travelers	Travelers		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Travelers-52595.html				pending
 tropical-moon	Tropical Moon		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Tropical-Moon-51248.html				pending
 vanilla-pipe-tobacco	Vanilla Pipe Tobacco		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Vanilla-Pipe-Tobacco-44337.html				pending
+victorian-picnic	Victorian Picnic		female		https://www.fragrantica.com/perfume/Solstice-Scents/Victorian-Picnic-55250.html				pending
 victorian-tea-room	Victorian Tea Room		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Victorian-Tea-Room-52707.html				pending
 violet-mallow	Violet Mallow		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Violet-Mallow-36773.html				pending
 violet-truffle	Violet Truffle		unisex		https://www.fragrantica.com/perfume/Solstice-Scents/Violet-Truffle-36774.html				pending

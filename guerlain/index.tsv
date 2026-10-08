@@ -1,7 +1,11 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+180-ans-de-creations-1828-2008	180 Ans de Créations 1828-2008		unisex		https://www.fragrantica.com/perfume/Guerlain/180-Ans-de-Creations-1828-2008-33479.html				pending
 190-ans-de-creation-1828-2018	190 Ans de Création 1828-2018		unisex		https://www.fragrantica.com/perfume/Guerlain/190-Ans-de-Creation-1828-2018-58561.html				pending
 ambre-samar	Ambre Samar		unisex		https://www.fragrantica.com/perfume/Guerlain/Ambre-Samar-105007.html				pending
+amour-celeste	Amour Céleste		unisex		https://www.fragrantica.com/perfume/Guerlain/Amour-Celeste-110510.html				pending
+amour-celeste-2026	Amour Céleste 2026		unisex		https://www.fragrantica.com/perfume/Guerlain/Amour-Celeste-2026-136212.html				pending
 angelique-noire	Angélique Noire		unisex		https://www.fragrantica.com/perfume/Guerlain/Angelique-Noire-1021.html				pending
+apres-londee	Apres l'Ondee		female		https://www.fragrantica.com/perfume/Guerlain/Apres-l-Ondee-13.html				pending
 apres-londee-eau-de-toilette	Après L'Ondée Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Apres-L-Ondee-Eau-de-Toilette-65155.html				pending
 aqua-allegoria-angelique-lilas	Aqua Allegoria Angelique Lilas		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Angelique-Lilas-2088.html				pending
 aqua-allegoria-anisia-bella	Aqua Allegoria Anisia Bella		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Anisia-Bella-572.html				pending
@@ -13,6 +17,7 @@ aqua-allegoria-cherry-blossom	Aqua Allegoria Cherry Blossom		female		https://www
 aqua-allegoria-coconut-fizz	Aqua Allegoria Coconut Fizz		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Coconut-Fizz-53806.html				pending
 aqua-allegoria-figue-iris	Aqua Allegoria Figue-Iris		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Figue-Iris-2636.html				pending
 aqua-allegoria-flora-cherrysia	Aqua Allegoria Flora Cherrysia		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Flora-Cherrysia-53804.html				pending
+aqua-allegoria-flora-cherrysia-sakura-collection-2020	Aqua Allegoria Flora Cherrysia (Sakura Collection 2020)		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Flora-Cherrysia-Sakura-Collection-2020-58847.html				pending
 aqua-allegoria-flora-nerolia	Aqua Allegoria Flora Nerolia		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Flora-Nerolia-573.html				pending
 aqua-allegoria-flora-nymphea	Aqua Allegoria Flora Nymphea		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Flora-Nymphea-7967.html				pending
 aqua-allegoria-flora-rosa	Aqua Allegoria Flora Rosa		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Flora-Rosa-18061.html				pending
@@ -30,8 +35,10 @@ aqua-allegoria-gentiana	Aqua Allegoria Gentiana		female		https://www.fragrantica
 aqua-allegoria-ginger-piccante	Aqua Allegoria Ginger Piccante		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Ginger-Piccante-53805.html				pending
 aqua-allegoria-granada-salvia	Aqua Allegoria Granada Salvia		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Granada-Salvia-58966.html				pending
 aqua-allegoria-grosellina	Aqua Allegoria Grosellina		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Grosellina-59.html				pending
+aqua-allegoria-herba-fresca	Aqua Allegoria Herba Fresca		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Herba-Fresca-60.html				pending
 aqua-allegoria-jasminora	Aqua Allegoria Jasminora		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Jasminora-11429.html				pending
 aqua-allegoria-laurier-reglisse	Aqua Allegoria Laurier - Reglisse		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Laurier-Reglisse-2635.html				pending
+aqua-allegoria-lavande-velours	Aqua Allegoria Lavande Velours		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Lavande-Velours-61.html				pending
 aqua-allegoria-lemon-fresca	Aqua Allegoria Lemon Fresca		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Lemon-Fresca-574.html				pending
 aqua-allegoria-lilia-bella	Aqua Allegoria Lilia Bella		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Lilia-Bella-62.html				pending
 aqua-allegoria-limon-verde	Aqua Allegoria Limon Verde		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Limon-Verde-23369.html				pending
@@ -42,49 +49,98 @@ aqua-allegoria-nerolia-bianca	Aqua Allegoria Nerolia Bianca		unisex		https://www
 aqua-allegoria-nettare-di-sole	Aqua Allegoria Nettare di Sole		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Nettare-di-Sole-66360.html				pending
 aqua-allegoria-orange-magnifica	Aqua Allegoria Orange Magnifica		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Orange-Magnifica-576.html				pending
 aqua-allegoria-orange-soleia	Aqua Allegoria Orange Soleia		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Orange-Soleia-58967.html				pending
+aqua-allegoria-pamplelune	Aqua Allegoria Pamplelune		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Pamplelune-57.html				pending
 aqua-allegoria-passiflora	Aqua Allegoria Passiflora		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Passiflora-48678.html				pending
 aqua-allegoria-pera-granita	Aqua Allegoria Pera Granita		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Pera-Granita-35554.html				pending
 aqua-allegoria-perle-florabloom	Aqua Allegoria Perle Florabloom		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Perle-Florabloom-124383.html				pending
 aqua-allegoria-perle-nerolia-vetiver	Aqua Allegoria Perle Nerolia Vetiver		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Perle-Nerolia-Vetiver-124376.html				pending
+aqua-allegoria-perle-rosa-rossa	Aqua Allegoria Perle Rosa Rossa		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Perle-Rosa-Rossa-124381.html				pending
 aqua-allegoria-pivoine-magnifica	Aqua Allegoria Pivoine Magnifica		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Pivoine-Magnifica-577.html				pending
 aqua-allegoria-rosa-blanca	Aqua Allegoria Rosa Blanca		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Rosa-Blanca-12575.html				pending
 aqua-allegoria-rosa-fizz	Aqua Allegoria Rosa Fizz		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Rosa-Fizz-43597.html				pending
+aqua-allegoria-rosa-magnifica	Aqua Allegoria Rosa Magnifica		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Rosa-Magnifica-63.html				pending
 aqua-allegoria-rosa-pop	Aqua Allegoria Rosa Pop		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Rosa-Pop-35553.html				pending
 aqua-allegoria-rosa-rossa	Aqua Allegoria Rosa Rossa		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Rosa-Rossa-48710.html				pending
+aqua-allegoria-rosa-rossa-a-chinese-new-year-limited-edition	Aqua Allegoria Rosa Rossa (A Chinese New Year Limited Edition)		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Rosa-Rossa-A-Chinese-New-Year-Limited-Edition-58871.html				pending
 aqua-allegoria-rosa-verde	Aqua Allegoria Rosa Verde		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Rosa-Verde-102669.html				pending
 aqua-allegoria-teazzurra	Aqua Allegoria Teazzurra		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Teazzurra-29396.html				pending
 aqua-allegoria-tiare-mimosa	Aqua Allegoria Tiare Mimosa		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Tiare-Mimosa-5742.html				pending
 aqua-allegoria-tutti-kiwi	Aqua Allegoria Tutti Kiwi		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Tutti-Kiwi-56.html				pending
 aqua-allegoria-winter-delice	Aqua Allegoria Winter Delice		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Winter-Delice-578.html				pending
+aqua-allegoria-ylang-and-vanille	Aqua Allegoria Ylang & Vanille		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Ylang-Vanille-64.html				pending
 aroma-allegoria-aromaparfum-apaisant	Aroma Allegoria Aromaparfum Apaisant		female		https://www.fragrantica.com/perfume/Guerlain/Aroma-Allegoria-Aromaparfum-Apaisant-5845.html				pending
 aroma-allegoria-aromaparfum-vitalising	Aroma Allegoria Aromaparfum Vitalising		female		https://www.fragrantica.com/perfume/Guerlain/Aroma-Allegoria-Aromaparfum-Vitalising-5846.html				pending
 aroma-allegoria-exalting-aromaparfum	Aroma Allegoria Exalting Aromaparfum		female		https://www.fragrantica.com/perfume/Guerlain/Aroma-Allegoria-Exalting-Aromaparfum-5844.html				pending
 arsene-lupin-dandy	Arsene Lupin Dandy		male		https://www.fragrantica.com/perfume/Guerlain/Arsene-Lupin-Dandy-10394.html				pending
 arsene-lupin-voyou-eau-de-parfum	Arsene Lupin Voyou Eau de Parfum		male		https://www.fragrantica.com/perfume/Guerlain/Arsene-Lupin-Voyou-Eau-de-Parfum-10395.html				pending
 attrape-coeur	Attrape Coeur		female		https://www.fragrantica.com/perfume/Guerlain/Attrape-Coeur-51369.html				pending
+atuana	Atuana		female		https://www.fragrantica.com/perfume/Guerlain/Atuana-128204.html				pending
 baiser-de-russie	Baiser de Russie		female		https://www.fragrantica.com/perfume/Guerlain/Baiser-de-Russie-48679.html				pending
+beau-rivage-palace	Beau Rivage Palace		unisex		https://www.fragrantica.com/perfume/Guerlain/Beau-Rivage-Palace-130977.html				pending
+bee-garden	Bee Garden		female		https://www.fragrantica.com/perfume/Guerlain/Bee-Garden-83697.html				pending
+belle-epoque-limited-edition	Belle Epoque Limited Edition		female		https://www.fragrantica.com/perfume/Guerlain/Belle-Epoque-Limited-Edition-43292.html				pending
 bergamote-fantastico-extrait-11	Bergamote Fantastico Extrait 11		unisex		https://www.fragrantica.com/perfume/Guerlain/Bergamote-Fantastico-Extrait-11-87538.html				pending
 black-perfecto-by-la-petite-robe-noire	Black Perfecto by La Petite Robe Noire		female		https://www.fragrantica.com/perfume/Guerlain/Black-Perfecto-by-La-Petite-Robe-Noire-45017.html				pending
 black-perfecto-by-la-petite-robe-noire-eau-de-toilette-florale	Black Perfecto by La Petite Robe Noire Eau de Toilette Florale		female		https://www.fragrantica.com/perfume/Guerlain/Black-Perfecto-by-La-Petite-Robe-Noire-Eau-de-Toilette-Florale-50158.html				pending
 bois-darmenie	Bois d'Armenie		unisex		https://www.fragrantica.com/perfume/Guerlain/Bois-d-Armenie-3811.html				pending
+bouquet-de-faunes	Bouquet de Faunes		female		https://www.fragrantica.com/perfume/Guerlain/Bouquet-de-Faunes-30807.html				pending
+bouquet-de-paris	Bouquet de Paris		female		https://www.fragrantica.com/perfume/Guerlain/Bouquet-de-Paris-57878.html				pending
+brume-dautomne	Brume d'Automne		female		https://www.fragrantica.com/perfume/Guerlain/Brume-d-Automne-3460.html				pending
+candide-effluve	Candide Effluve		female		https://www.fragrantica.com/perfume/Guerlain/Candide-Effluve-11310.html				pending
+carmen-le-bolshoi	Carmen Le Bolshoi		female		https://www.fragrantica.com/perfume/Guerlain/Carmen-Le-Bolshoi-32166.html				pending
+chamade	Chamade		female		https://www.fragrantica.com/perfume/Guerlain/Chamade-50.html				pending
 chamade-eau-de-toilette	Chamade Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Chamade-Eau-de-Toilette-65152.html				pending
+chamade-extract	Chamade Extract		female		https://www.fragrantica.com/perfume/Guerlain/Chamade-Extract-35506.html				pending
+chamade-pour-homme	Chamade Pour Homme		male		https://www.fragrantica.com/perfume/Guerlain/Chamade-Pour-Homme-9198.html				pending
+champs-elysees-eau-de-parfum-25330	Champs Elysees Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Champs-Elysees-Eau-de-Parfum-25330.html				pending
+champs-elysees-eau-de-toilette-66	Champs Elysees Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Champs-Elysees-Eau-de-Toilette-66.html				pending
+champs-elysees-extract	Champs Elysees Extract		female		https://www.fragrantica.com/perfume/Guerlain/Champs-Elysees-Extract-25331.html				pending
 champs-elysees-eau-de-parfum	Champs-Élysées Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Champs-Elysees-Eau-de-Parfum-67312.html				pending
 champs-elysees-eau-de-toilette	Champs-Élysées Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Champs-Elysees-Eau-de-Toilette-67540.html				pending
+chant-daromes-extrait-de-parfum	Chant d'Aromes Extrait de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Chant-d-Aromes-Extrait-de-Parfum-78647.html				pending
 chant-daromes-eau-de-toilette	Chant d'Arômes Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Chant-d-Aromes-Eau-de-Toilette-65172.html				pending
 cherry-blossom	Cherry Blossom		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-25263.html				pending
+cherry-blossom-2020-millesime	Cherry Blossom 2020 Millésime		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2020-Millesime-60119.html				pending
+cherry-blossom-2021-millesime	Cherry Blossom 2021 Millésime		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2021-Millesime-65609.html				pending
+cherry-blossom-2022-millesime	Cherry Blossom 2022 Millésime		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2022-Millesime-71594.html				pending
+cherry-blossom-2023-millesime	Cherry Blossom 2023 Millésime		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2023-Millesime-79261.html				pending
+cherry-blossom-2026-millesime-swarovski	Cherry Blossom 2026 Millésime Swarovski		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2026-Millesime-Swarovski-133895.html				pending
+cherry-blossom-delight	Cherry Blossom Delight		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Delight-2217.html				pending
+cherry-blossom-edition-1999	Cherry Blossom Edition 1999		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Edition-1999-2218.html				pending
 cherry-blossom-fruity	Cherry Blossom Fruity		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Fruity-2219.html				pending
+cherry-blossom-glittering	Cherry Blossom Glittering		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Glittering-2220.html				pending
+cherry-blossom-millesime-2024	Cherry Blossom Millésime 2024		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Millesime-2024-90463.html				pending
+cherry-blossom-millesime-2025	Cherry Blossom Millésime 2025		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Millesime-2025-102980.html				pending
 cherry-oud	Cherry Oud		unisex		https://www.fragrantica.com/perfume/Guerlain/Cherry-Oud-76302.html				pending
+cheval-blanc	Cheval Blanc		unisex		https://www.fragrantica.com/perfume/Guerlain/Cheval-Blanc-98237.html				pending
+cheval-blanc-st-tropez	Cheval Blanc St.Tropez		unisex		https://www.fragrantica.com/perfume/Guerlain/Cheval-Blanc-St-Tropez-113887.html				pending
+chypre-53	Chypre 53		unisex		https://www.fragrantica.com/perfume/Guerlain/Chypre-53-53158.html				pending
+chypre-de-paris	Chypre de Paris		unisex		https://www.fragrantica.com/perfume/Guerlain/Chypre-de-Paris-41629.html				pending
 cologne-du-68	Cologne du 68		unisex		https://www.fragrantica.com/perfume/Guerlain/Cologne-du-68-4347.html				pending
 colours-of-love	Colours of Love		female		https://www.fragrantica.com/perfume/Guerlain/Colours-of-Love-68.html				pending
+coque-dor	Coque d'Or		female		https://www.fragrantica.com/perfume/Guerlain/Coque-d-Or-20811.html				pending
+coque-dor-2014	Coque d'Or (2014)		female		https://www.fragrantica.com/perfume/Guerlain/Coque-d-Or-2014-27591.html				pending
+coriolan	Coriolan		male		https://www.fragrantica.com/perfume/Guerlain/Coriolan-2288.html				pending
+cour-des-senteurs-versailles	Cour des Senteurs Versailles		female		https://www.fragrantica.com/perfume/Guerlain/Cour-des-Senteurs-Versailles-20853.html				pending
 cruel-gardenia	Cruel Gardénia		female		https://www.fragrantica.com/perfume/Guerlain/Cruel-Gardenia-2283.html				pending
 cuir-beluga	Cuir Béluga		unisex		https://www.fragrantica.com/perfume/Guerlain/Cuir-Beluga-1019.html				pending
+cuir-beluga-hair-mist	Cuir Béluga Hair Mist		unisex		https://www.fragrantica.com/perfume/Guerlain/Cuir-Beluga-Hair-Mist-113428.html				pending
+cuir-de-russie	Cuir de Russie		unisex		https://www.fragrantica.com/perfume/Guerlain/Cuir-de-Russie-29336.html				pending
 cuir-intense	Cuir Intense		unisex		https://www.fragrantica.com/perfume/Guerlain/Cuir-Intense-96469.html				pending
 derby	Derby		male		https://www.fragrantica.com/perfume/Guerlain/Derby-17119.html				pending
+derby-vintage	Derby (Vintage)		male		https://www.fragrantica.com/perfume/Guerlain/Derby-Vintage-5396.html				pending
+djedi	Djedi		female		https://www.fragrantica.com/perfume/Guerlain/Djedi-11847.html				pending
 eau-de-bain	Eau de Bain		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Bain-54461.html				pending
 eau-de-cashmere	Eau de Cashmere		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Cashmere-26056.html				pending
 eau-de-cashmere-128420	Eau de Cashmere		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Cashmere-128420.html				pending
+eau-de-cologne-du-coq	Eau de Cologne du Coq		male		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Cologne-du-Coq-5397.html				pending
+eau-de-cologne-imperiale	Eau de Cologne Imperiale		female		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Cologne-Imperiale-3346.html				pending
+eau-de-cologne-imperiale-lunar-new-year-edition	Eau De Cologne Imperiale Lunar New Year Edition		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-De-Cologne-Imperiale-Lunar-New-Year-Edition-53240.html				pending
+eau-de-cologne-imperiale-edition-160-anniversaire	Eau de Cologne Impériale Edition 160 Anniversaire		female		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Cologne-Imperiale-Edition-160-Anniversaire-22577.html				pending
 eau-de-coton	Eau de Coton		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Coton-93131.html				pending
 eau-de-coton-128416	Eau de Coton		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Coton-128416.html				pending
+eau-de-fleurs-de-cedrat	Eau de Fleurs de Cedrat		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Fleurs-de-Cedrat-5398.html				pending
+eau-de-guerlain	Eau de Guerlain		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Guerlain-6762.html				pending
 eau-de-lingerie	Eau de Lingerie		female		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Lingerie-17386.html				pending
 eau-de-lingerie-128412	Eau de Lingerie		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Lingerie-128412.html				pending
 eau-de-lit	Eau de Lit		female		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Lit-2222.html				pending
@@ -93,6 +149,8 @@ eau-de-shalimar	Eau de Shalimar		female		https://www.fragrantica.com/perfume/Gue
 eau-de-shalimar-2009	Eau de Shalimar 2009		female		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Shalimar-2009-6026.html				pending
 eau-de-shalimar-edition-charms	Eau de Shalimar Edition Charms		female		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Shalimar-Edition-Charms-25332.html				pending
 eau-de-tulle	Eau de Tulle		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Tulle-128425.html				pending
+eau-de-verveine	Eau de Verveine		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Verveine-24795.html				pending
+eau-secrete	Eau Secrète		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-Secrete-77619.html				pending
 elixir-charnel-chypre-fatal	Elixir Charnel Chypre Fatal		female		https://www.fragrantica.com/perfume/Guerlain/Elixir-Charnel-Chypre-Fatal-4676.html				pending
 elixir-charnel-floral-romantique	Elixir Charnel Floral Romantique		female		https://www.fragrantica.com/perfume/Guerlain/Elixir-Charnel-Floral-Romantique-12073.html				pending
 elixir-charnel-gourmand-coquin	Elixir Charnel Gourmand Coquin		female		https://www.fragrantica.com/perfume/Guerlain/Elixir-Charnel-Gourmand-Coquin-4675.html				pending
@@ -100,10 +158,16 @@ elixir-charnel-le-boise-torride	Elixir Charnel Le Boise Torride		female		https:/
 elixir-charnel-oriental-brulant	Elixir Charnel Oriental Brulant		female		https://www.fragrantica.com/perfume/Guerlain/Elixir-Charnel-Oriental-Brulant-4677.html				pending
 embruns-dylang	Embruns d'Ylang		unisex		https://www.fragrantica.com/perfume/Guerlain/Embruns-d-Ylang-55251.html				pending
 encens-mythique-dorient	Encens Mythique D'Orient		unisex		https://www.fragrantica.com/perfume/Guerlain/Encens-Mythique-D-Orient-15131.html				pending
+flacon-tortue	Flacon Tortue		unisex		https://www.fragrantica.com/perfume/Guerlain/Flacon-Tortue-32897.html				pending
+fleur-de-feu	Fleur de Feu		female		https://www.fragrantica.com/perfume/Guerlain/Fleur-de-Feu-71444.html				pending
 florabloom-absolu	Florabloom Absolu		unisex		https://www.fragrantica.com/perfume/Guerlain/Florabloom-Absolu-113077.html				pending
+fol-arome	Fol Arôme		female		https://www.fragrantica.com/perfume/Guerlain/Fol-Arome-42901.html				pending
+fol-arome-2020	Fol Arôme (2020)		female		https://www.fragrantica.com/perfume/Guerlain/Fol-Arome-2020-62088.html				pending
 french-kiss	French Kiss		female		https://www.fragrantica.com/perfume/Guerlain/French-Kiss-27224.html				pending
 frenchy-lavande	Frenchy Lavande		unisex		https://www.fragrantica.com/perfume/Guerlain/Frenchy-Lavande-69274.html				pending
 feve-gourmande	Fève Gourmande		female		https://www.fragrantica.com/perfume/Guerlain/Feve-Gourmande-87746.html				pending
+garden-sensuel	Garden Sensuel		female		https://www.fragrantica.com/perfume/Guerlain/Garden-Sensuel-3754.html				pending
+guerlain-chant-daromes	Guerlain Chant d'Aromes		female		https://www.fragrantica.com/perfume/Guerlain/Guerlain-Chant-d-Aromes-48.html				pending
 guerlain-homme	Guerlain Homme		male		https://www.fragrantica.com/perfume/Guerlain/Guerlain-Homme-3638.html				pending
 guerlain-homme-eau-de-parfum-2016	Guerlain Homme Eau de Parfum (2016)		male		https://www.fragrantica.com/perfume/Guerlain/Guerlain-Homme-Eau-de-Parfum-2016-47793.html				pending
 guerlain-homme-intense	Guerlain Homme Intense		male		https://www.fragrantica.com/perfume/Guerlain/Guerlain-Homme-Intense-6679.html				pending
@@ -115,30 +179,46 @@ guerlain-linstant-magic-elixir	Guerlain L'Instant Magic Elixir		female		https://
 guerlain-le-parfum-du-68	Guerlain Le Parfum du 68		unisex		https://www.fragrantica.com/perfume/Guerlain/Guerlain-Le-Parfum-du-68-21752.html				pending
 guerlain-shalimar-parfum-initial-leau	Guerlain Shalimar Parfum Initial L'Eau		female		https://www.fragrantica.com/perfume/Guerlain/Guerlain-Shalimar-Parfum-Initial-L-Eau-14178.html				pending
 guerlain-shalimar-parfum-initial-leau-si-sensuelle	Guerlain Shalimar Parfum Initial L'Eau Si Sensuelle		female		https://www.fragrantica.com/perfume/Guerlain/Guerlain-Shalimar-Parfum-Initial-L-Eau-Si-Sensuelle-17355.html				pending
+guerlinade	Guerlinade		female		https://www.fragrantica.com/perfume/Guerlain/Guerlinade-23568.html				pending
+guet-apens	Guet Apens		female		https://www.fragrantica.com/perfume/Guerlain/Guet-Apens-5750.html				pending
+habit-de-metal	Habit de Metal		male		https://www.fragrantica.com/perfume/Guerlain/Habit-de-Metal-2638.html				pending
+habit-rouge-armoiries	Habit Rouge Armoiries		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Armoiries-5574.html				pending
+habit-rouge-beau-cavalier	Habit Rouge Beau Cavalier		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Beau-Cavalier-7017.html				pending
 habit-rouge-dress-code	Habit Rouge Dress Code		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Dress-Code-31927.html				pending
 habit-rouge-dress-code-2016	Habit Rouge Dress Code 2016		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Dress-Code-2016-40599.html				pending
 habit-rouge-dress-code-2017	Habit Rouge Dress Code 2017		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Dress-Code-2017-47203.html				pending
+habit-rouge-dress-code-2018	Habit Rouge Dress Code 2018		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Dress-Code-2018-51634.html				pending
+habit-rouge-eau-de-cologne	Habit Rouge Eau de Cologne		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Eau-de-Cologne-36508.html				pending
 habit-rouge-eau-de-parfum	Habit Rouge Eau de Parfum		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Eau-de-Parfum-25313.html				pending
+habit-rouge-eau-de-toilette	Habit Rouge Eau de Toilette		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Eau-de-Toilette-16.html				pending
+habit-rouge-edition-voyage	Habit Rouge Edition Voyage		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Edition-Voyage-16653.html				pending
+habit-rouge-habit-de-cuir	Habit Rouge Habit de Cuir		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Habit-de-Cuir-13601.html				pending
 habit-rouge-leau	Habit Rouge L'Eau		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-L-Eau-13955.html				pending
 habit-rouge-lextrait	Habit Rouge L'Extrait		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-L-Extrait-31928.html				pending
 habit-rouge-linstinct	Habit Rouge L'Instinct		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-L-Instinct-73514.html				pending
 habit-rouge-legere	Habit Rouge Légère		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Legere-42945.html				pending
 habit-rouge-parfum	Habit Rouge Parfum		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Parfum-90802.html				pending
+habit-rouge-rider-edition	Habit Rouge Rider Edition		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Rider-Edition-25314.html				pending
 habit-rouge-rouge-prive	Habit Rouge Rouge Privé		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Rouge-Prive-80690.html				pending
 habit-rouge-spirit	Habit Rouge Spirit		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Spirit-103574.html				pending
 habit-rouge-sport	Habit Rouge Sport		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Sport-5456.html				pending
 herbes-troublantes	Herbes Troublantes		unisex		https://www.fragrantica.com/perfume/Guerlain/Herbes-Troublantes-69275.html				pending
+heritage-eau-de-parfum	Heritage Eau de Parfum		male		https://www.fragrantica.com/perfume/Guerlain/Heritage-Eau-de-Parfum-25312.html				pending
+heritage-eau-de-toilette	Heritage Eau de Toilette		male		https://www.fragrantica.com/perfume/Guerlain/Heritage-Eau-de-Toilette-1880.html				pending
 idylle	Idylle		female		https://www.fragrantica.com/perfume/Guerlain/Idylle-6341.html				pending
 idylle-duet	Idylle Duet		female		https://www.fragrantica.com/perfume/Guerlain/Idylle-Duet-11317.html				pending
 idylle-duet-rose-patchouli	Idylle Duet Rose-Patchouli		female		https://www.fragrantica.com/perfume/Guerlain/Idylle-Duet-Rose-Patchouli-23401.html				pending
 idylle-eau-de-parfum	Idylle Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Idylle-Eau-de-Parfum-67535.html				pending
 idylle-eau-de-toilette	Idylle Eau de toilette		female		https://www.fragrantica.com/perfume/Guerlain/Idylle-Eau-de-toilette-10024.html				pending
 idylle-eau-sublime	Idylle Eau Sublime		female		https://www.fragrantica.com/perfume/Guerlain/Idylle-Eau-Sublime-13065.html				pending
+idylle-extract	Idylle Extract		female		https://www.fragrantica.com/perfume/Guerlain/Idylle-Extract-33558.html				pending
 idylle-love-blossom	Idylle Love Blossom		female		https://www.fragrantica.com/perfume/Guerlain/Idylle-Love-Blossom-28257.html				pending
 imagine	Imagine		female		https://www.fragrantica.com/perfume/Guerlain/Imagine-54462.html				pending
 imagine-guerlain-by-begum-khan	Imagine Guerlain by Begüm Khan		unisex		https://www.fragrantica.com/perfume/Guerlain/Imagine-Guerlain-by-Beguem-Khan-88886.html				pending
+imagine-guerlain-by-geraldine-gonzalez	Imagine Guerlain by Géraldine Gonzalez		unisex		https://www.fragrantica.com/perfume/Guerlain/Imagine-Guerlain-by-Geraldine-Gonzalez-123330.html				pending
 imagine-guerlain-by-latelier-truscelli	Imagine Guerlain by L'Atelier Truscelli		unisex		https://www.fragrantica.com/perfume/Guerlain/Imagine-Guerlain-by-L-Atelier-Truscelli-78019.html				pending
 imagine-guerlain-by-shourouk-rhaiem	Imagine Guerlain by Shourouk Rhaiem		unisex		https://www.fragrantica.com/perfume/Guerlain/Imagine-Guerlain-by-Shourouk-Rhaiem-98370.html				pending
+imperial-russe	Imperial Russe		unisex		https://www.fragrantica.com/perfume/Guerlain/Imperial-Russe-52442.html				pending
 insolence	Insolence		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-667.html				pending
 insolence-blooming	Insolence Blooming		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-Blooming-7418.html				pending
 insolence-crazy-touch	Insolence Crazy Touch		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-Crazy-Touch-23402.html				pending
@@ -148,23 +228,37 @@ insolence-eau-de-parfum-58910	Insolence Eau de Parfum		female		https://www.fragr
 insolence-eau-de-toilette	Insolence Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-Eau-de-Toilette-58912.html				pending
 insolence-eau-de-toilette-67310	Insolence Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-Eau-de-Toilette-67310.html				pending
 insolence-eau-glacee	Insolence Eau Glacée		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-Eau-Glacee-5576.html				pending
+insolence-extrait	Insolence Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-Extrait-33559.html				pending
 insolence-limited-edition	Insolence Limited Edition		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-Limited-Edition-41906.html				pending
 insolence-shimmering-edition	Insolence Shimmering Edition		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-Shimmering-Edition-4868.html				pending
 iris-ganache	Iris Ganache		female		https://www.fragrantica.com/perfume/Guerlain/Iris-Ganache-3810.html				pending
 iris-pallida-extrait-6	Iris Pallida Extrait 6		unisex		https://www.fragrantica.com/perfume/Guerlain/Iris-Pallida-Extrait-6-87536.html				pending
 iris-torrefie	Iris Torréfié		unisex		https://www.fragrantica.com/perfume/Guerlain/Iris-Torrefie-62527.html				pending
+jardin-de-lelysee	Jardin de l'Élysée		unisex		https://www.fragrantica.com/perfume/Guerlain/Jardin-de-l-Elysee-129308.html				pending
+jardins-de-bagatelle	Jardins de Bagatelle		female		https://www.fragrantica.com/perfume/Guerlain/Jardins-de-Bagatelle-3809.html				pending
 jardins-de-bagatelle-eau-de-parfum	Jardins de Bagatelle Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Jardins-de-Bagatelle-Eau-de-Parfum-67315.html				pending
 jardins-de-bagatelle-eau-de-toilette	Jardins de Bagatelle Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Jardins-de-Bagatelle-Eau-de-Toilette-67539.html				pending
 jasmin-bonheur	Jasmin Bonheur		unisex		https://www.fragrantica.com/perfume/Guerlain/Jasmin-Bonheur-78577.html				pending
 jasmin-grandiflorum-extrait-30	Jasmin Grandiflorum Extrait 30		unisex		https://www.fragrantica.com/perfume/Guerlain/Jasmin-Grandiflorum-Extrait-30-87540.html				pending
+jicky	Jicky		female		https://www.fragrantica.com/perfume/Guerlain/Jicky-103.html				pending
 jicky-eau-de-parfum	Jicky Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Jicky-Eau-de-Parfum-65150.html				pending
+jicky-eau-de-toilette	Jicky Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Jicky-Eau-de-Toilette-74195.html				pending
+jicky-extrait	Jicky Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Jicky-Extrait-33601.html				pending
+jicky-limited-edition-2019	Jicky Limited Edition 2019		female		https://www.fragrantica.com/perfume/Guerlain/Jicky-Limited-Edition-2019-55512.html				pending
 joyeuse-tubereuse	Joyeuse Tubéreuse		unisex		https://www.fragrantica.com/perfume/Guerlain/Joyeuse-Tubereuse-43477.html				pending
+kadine	Kadine		female		https://www.fragrantica.com/perfume/Guerlain/Kadine-25160.html				pending
+kadine-2021	Kadine (2021)		unisex		https://www.fragrantica.com/perfume/Guerlain/Kadine-2021-69047.html				pending
 lheure-blanche	L'Heure Blanche		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Blanche-58941.html				pending
+lheure-bleue-100-anniversaire	L'Heure Bleue 100 Anniversaire		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-100-Anniversaire-16731.html				pending
 lheure-bleue-2026	L'Heure Bleue 2026		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-2026-140083.html				pending
 lheure-bleue-eau-de-parfum	L'Heure Bleue Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Eau-de-Parfum-87968.html				pending
+lheure-bleue-eau-de-parfum-208	L'Heure Bleue Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Eau-de-Parfum-208.html				pending
 lheure-bleue-eau-de-toilette	L'Heure Bleue Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Eau-de-Toilette-67536.html				pending
+lheure-bleue-eau-de-toilette-41153	L'Heure Bleue Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Eau-de-Toilette-41153.html				pending
+lheure-bleue-yves-klein-edition	L'Heure Bleue Yves Klein Edition		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Yves-Klein-Edition-76819.html				pending
 lheure-de-nuit	L'Heure de Nuit		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-de-Nuit-16990.html				pending
 lheure-de-nuit-38806	L'Heure de Nuit		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Heure-de-Nuit-38806.html				pending
+lheure-doree-2026	L'Heure Dorée 2026		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Doree-2026-123329.html				pending
 lhomme-ideal-cologne-forte	L'Homme Idéal Cologne Forte		male		https://www.fragrantica.com/perfume/Guerlain/L-Homme-Ideal-Cologne-Forte-121205.html				pending
 lhomme-ideal-extreme	L'Homme Idéal Extrême		male		https://www.fragrantica.com/perfume/Guerlain/L-Homme-Ideal-Extreme-60284.html				pending
 lhomme-ideal-lintense	L'Homme Idéal L'Intense		male		https://www.fragrantica.com/perfume/Guerlain/L-Homme-Ideal-L-Intense-49416.html				pending
@@ -177,6 +271,7 @@ linstant-de-guerlain	L'Instant de Guerlain		female		https://www.fragrantica.com/
 linstant-de-guerlain-eau-de-noel-iris-millesime	L'Instant de Guerlain Eau de Noel Iris Millesime		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-de-Guerlain-Eau-de-Noel-Iris-Millesime-4046.html				pending
 linstant-de-guerlain-eau-de-parfum	L'Instant de Guerlain Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-de-Guerlain-Eau-de-Parfum-67538.html				pending
 linstant-de-guerlain-eau-de-toilette	L'Instant de Guerlain Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-de-Guerlain-Eau-de-Toilette-14314.html				pending
+linstant-de-guerlain-extract	L'Instant de Guerlain Extract		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-de-Guerlain-Extract-33560.html				pending
 linstant-de-guerlain-fleur-de-mandarine	L'Instant de Guerlain Fleur de Mandarine		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-de-Guerlain-Fleur-de-Mandarine-2621.html				pending
 linstant-de-guerlain-pour-homme	L'Instant de Guerlain pour Homme		male		https://www.fragrantica.com/perfume/Guerlain/L-Instant-de-Guerlain-pour-Homme-52.html				pending
 linstant-de-guerlain-pour-homme-cristaux-dagrumes	L'Instant de Guerlain Pour Homme Cristaux d'Agrumes		male		https://www.fragrantica.com/perfume/Guerlain/L-Instant-de-Guerlain-Pour-Homme-Cristaux-d-Agrumes-4047.html				pending
@@ -185,21 +280,35 @@ linstant-de-guerlain-pour-homme-edp	L'Instant de Guerlain pour Homme EDP		male		
 linstant-de-guerlain-pour-homme-edt	L'Instant de Guerlain pour Homme EDT		male		https://www.fragrantica.com/perfume/Guerlain/L-Instant-de-Guerlain-pour-Homme-EDT-44762.html				pending
 linstant-magic	L'Instant Magic		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-Magic-1106.html				pending
 linstant-magic-eau-de-parfum	L'instant Magic Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/L-instant-Magic-Eau-de-Parfum-67311.html				pending
+linstant-magic-extract	L'Instant Magic Extract		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-Magic-Extract-33561.html				pending
 linstant-magic-limited-edition	L'Instant Magic Limited Edition		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-Magic-Limited-Edition-41905.html				pending
+linstant-magic-limited-edition-serigraphiees	L'Instant Magic limited edition Sérigraphiées		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-Magic-limited-edition-Serigraphiees-46813.html				pending
+lame-dun-heros	L'Âme d'Un Héros		male		https://www.fragrantica.com/perfume/Guerlain/L-Ame-d-Un-Heros-2282.html				pending
+lete	L'Été		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Ete-41071.html				pending
 la-cologne-du-parfumeur	La Cologne Du Parfumeur		unisex		https://www.fragrantica.com/perfume/Guerlain/La-Cologne-Du-Parfumeur-8710.html				pending
+la-cuvee-secrete	La Cuvée Secrète		unisex		https://www.fragrantica.com/perfume/Guerlain/La-Cuvee-Secrete-44650.html				pending
 la-petite-robe-noire	La Petite Robe Noire		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-14681.html				pending
 la-petite-robe-noire-5454	La Petite Robe Noire		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-5454.html				pending
 la-petite-robe-noire-2	La Petite Robe Noire 2		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-2-11430.html				pending
+la-petite-robe-noire-5th-anniversary-edition	La Petite Robe Noire 5th Anniversary Edition		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-5th-Anniversary-Edition-47162.html				pending
+la-petite-robe-noire-by-maison-legeron	La Petite Robe Noire by Maison Legeron		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-by-Maison-Legeron-47738.html				pending
 la-petite-robe-noire-couture	La Petite Robe Noire Couture		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Couture-22828.html				pending
 la-petite-robe-noire-couture-limited-edition-2014	La Petite Robe Noire Couture Limited Edition 2014		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Couture-Limited-Edition-2014-28022.html				pending
 la-petite-robe-noire-eau-de-parfum-absolue	La Petite Robe Noire Eau de Parfum Absolue		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Parfum-Absolue-84205.html				pending
 la-petite-robe-noire-eau-de-parfum-collector-edition	La Petite Robe Noire Eau de Parfum Collector Edition		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Parfum-Collector-Edition-20168.html				pending
 la-petite-robe-noire-eau-de-parfum-intense	La Petite Robe Noire Eau de Parfum Intense		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Parfum-Intense-75800.html				pending
+la-petite-robe-noire-eau-de-parfum-intense-so-frenchy	La Petite Robe Noire Eau de Parfum Intense So Frenchy		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Parfum-Intense-So-Frenchy-58905.html				pending
+la-petite-robe-noire-eau-de-parfum-limited-edition-2014	La Petite Robe Noire Eau de Parfum Limited Edition 2014		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Parfum-Limited-Edition-2014-28020.html				pending
+la-petite-robe-noire-eau-de-parfum-so-frenchy	La Petite Robe Noire Eau de Parfum So Frenchy		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Parfum-So-Frenchy-58904.html				pending
 la-petite-robe-noire-eau-de-toilette	La Petite Robe Noire Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Toilette-17387.html				pending
 la-petite-robe-noire-eau-de-toilette-2025	La Petite Robe Noire Eau de Toilette (2025)		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Toilette-2025-101802.html				pending
 la-petite-robe-noire-eau-de-toilette-collector-edition	La Petite Robe Noire Eau de Toilette Collector Edition		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Toilette-Collector-Edition-20169.html				pending
+la-petite-robe-noire-eau-de-toilette-limited-edition-2014	La Petite Robe Noire Eau de Toilette Limited Edition 2014		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Toilette-Limited-Edition-2014-28021.html				pending
 la-petite-robe-noire-eau-de-toilette-my-cocktail-dress-2017	La Petite Robe Noire Eau de Toilette My Cocktail Dress 2017		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Toilette-My-Cocktail-Dress-2017-43201.html				pending
+la-petite-robe-noire-eau-de-toilette-so-frenchy	La Petite Robe Noire Eau de Toilette So Frenchy		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Toilette-So-Frenchy-58903.html				pending
 la-petite-robe-noire-eau-fraiche	La Petite Robe Noire Eau Fraiche		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-Fraiche-29525.html				pending
+la-petite-robe-noire-extrait	La Petite Robe Noire Extrait		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Extrait-34340.html				pending
+la-petite-robe-noire-flacon-baccarat-et-dentelle-dargent	La Petite Robe Noire Flacon Baccarat et Dentelle d'Argent		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Flacon-Baccarat-et-Dentelle-d-Argent-22576.html				pending
 la-petite-robe-noire-hair-mist	La Petite Robe Noire Hair Mist		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Hair-Mist-28023.html				pending
 la-petite-robe-noire-honey-rose	La Petite Robe Noire Honey Rose		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Honey-Rose-113883.html				pending
 la-petite-robe-noire-intense	La Petite Robe Noire Intense		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Intense-39157.html				pending
@@ -209,7 +318,9 @@ la-petite-robe-noire-lextrait	La Petite Robe Noire L'Extrait		female		https://ww
 la-petite-robe-noire-legere	La Petite Robe Noire Légère		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Legere-48113.html				pending
 la-petite-robe-noire-ma-premiere-robe	La Petite Robe Noire Ma Première Robe		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Ma-Premiere-Robe-32848.html				pending
 la-petite-robe-noire-ma-premiere-robe-2016	La Petite Robe Noire Ma Première Robe 2016		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Ma-Premiere-Robe-2016-36255.html				pending
+la-petite-robe-noire-macon-and-lesquoy-edition	La Petite Robe Noire Macon&Lesquoy Edition		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Macon-Lesquoy-Edition-28024.html				pending
 la-petite-robe-noire-mon-eau-de-lingerie	La Petite Robe Noire Mon Eau de Lingerie		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Mon-Eau-de-Lingerie-20167.html				pending
+la-petite-robe-noire-mon-eau-pour-le-voyage	La Petite Robe Noire Mon Eau Pour Le Voyage		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Mon-Eau-Pour-Le-Voyage-25291.html				pending
 la-petite-robe-noire-nectar	La Petite Robe Noire Nectar		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Nectar-64392.html				pending
 la-petite-robe-noire-parfum	La Petite Robe Noire Parfum		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Parfum-121210.html				pending
 la-petite-robe-noire-plissee	La Petite Robe Noire Plissée		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Plissee-55324.html				pending
@@ -217,11 +328,19 @@ la-petite-robe-noire-rose-cherry	La Petite Robe Noire Rose Cherry		female		https
 la-petite-robe-noire-rose-rose-rose	La Petite Robe Noire Rose Rose Rose		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Rose-Rose-Rose-70977.html				pending
 la-petite-robe-noire-velours	La Petite Robe Noire Velours		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Velours-53114.html				pending
 la-petite-robe-rose-noire	La Petite Robe Rose Noire		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Rose-Noire-88934.html				pending
+le-bolshoi-2011-edition-limitee	Le Bolshoi 2011 Edition Limitee		female		https://www.fragrantica.com/perfume/Guerlain/Le-Bolshoi-2011-Edition-Limitee-13551.html				pending
+le-bolshoi-black-swan	Le Bolshoi Black Swan		female		https://www.fragrantica.com/perfume/Guerlain/Le-Bolshoi-Black-Swan-28625.html				pending
 le-bolshoi-saison-2012-la-traviata	Le Bolshoi Saison 2012 La Traviata		female		https://www.fragrantica.com/perfume/Guerlain/Le-Bolshoi-Saison-2012-La-Traviata-16212.html				pending
 le-bouquet-de-la-mariee	Le Bouquet de la Mariee		female		https://www.fragrantica.com/perfume/Guerlain/Le-Bouquet-de-la-Mariee-29612.html				pending
+le-bouquet-de-la-reine	Le Bouquet de la Reine		female		https://www.fragrantica.com/perfume/Guerlain/Le-Bouquet-de-la-Reine-35522.html				pending
+le-flacon-aux-abeilles-edition-maison-matisse-2023	Le Flacon Aux Abeilles Edition Maison Matisse 2023		unisex		https://www.fragrantica.com/perfume/Guerlain/Le-Flacon-Aux-Abeilles-Edition-Maison-Matisse-2023-78738.html				pending
+le-flacon-tortue-red-edition-by-baccarat	Le Flacon Tortue Red Edition by Baccarat		female		https://www.fragrantica.com/perfume/Guerlain/Le-Flacon-Tortue-Red-Edition-by-Baccarat-89184.html				pending
 le-frenchy	Le Frenchy		male		https://www.fragrantica.com/perfume/Guerlain/Le-Frenchy-46698.html				pending
 le-muguet-2013	Le Muguet 2013		female		https://www.fragrantica.com/perfume/Guerlain/Le-Muguet-2013-18095.html				pending
+le-parfum-du-68-extrait-le-passeur-du-temps	Le Parfum du 68 Extrait Le Passeur du Temps		unisex		https://www.fragrantica.com/perfume/Guerlain/Le-Parfum-du-68-Extrait-Le-Passeur-du-Temps-22575.html				pending
 le-plus-beau-jour-de-ma-vie	Le Plus Beau Jour de Ma Vie		female		https://www.fragrantica.com/perfume/Guerlain/Le-Plus-Beau-Jour-de-Ma-Vie-30213.html				pending
+le-printemps	Le Printemps		unisex		https://www.fragrantica.com/perfume/Guerlain/Le-Printemps-41070.html				pending
+le-songe-de-la-reine	Le Songe de la Reine		female		https://www.fragrantica.com/perfume/Guerlain/Le-Songe-de-la-Reine-67214.html				pending
 les-absolus-dorient-ambre-eternel	Les Absolus d'Orient Ambre Eternel		unisex		https://www.fragrantica.com/perfume/Guerlain/Les-Absolus-d-Orient-Ambre-Eternel-34935.html				pending
 les-absolus-dorient-bois-mysterieux	Les Absolus d'Orient Bois Mystérieux		unisex		https://www.fragrantica.com/perfume/Guerlain/Les-Absolus-d-Orient-Bois-Mysterieux-53241.html				pending
 les-absolus-dorient-cuir-intense	Les Absolus d'Orient Cuir Intense		unisex		https://www.fragrantica.com/perfume/Guerlain/Les-Absolus-d-Orient-Cuir-Intense-55393.html				pending
@@ -232,16 +351,27 @@ les-absolus-dorient-patchouli-ardent	Les Absolus d'Orient Patchouli Ardent		unis
 les-absolus-dorient-santal-royal	Les Absolus d'Orient Santal Royal		unisex		https://www.fragrantica.com/perfume/Guerlain/Les-Absolus-d-Orient-Santal-Royal-28246.html				pending
 les-absolus-dorient-santal-royal-collector	Les Absolus d'Orient Santal Royal Collector		unisex		https://www.fragrantica.com/perfume/Guerlain/Les-Absolus-d-Orient-Santal-Royal-Collector-35680.html				pending
 les-absolus-dorient-epices-exquises	Les Absolus d'Orient Épices Exquises		unisex		https://www.fragrantica.com/perfume/Guerlain/Les-Absolus-d-Orient-Epices-Exquises-74816.html				pending
+les-quatre-saisons-muguet-de-printemps	Les Quatre Saisons - Muguet de Printemps		female		https://www.fragrantica.com/perfume/Guerlain/Les-Quatre-Saisons-Muguet-de-Printemps-3462.html				pending
+les-quatre-saisons-quant-vient-lete	Les Quatre Saisons - Quant Vient L'Ete		female		https://www.fragrantica.com/perfume/Guerlain/Les-Quatre-Saisons-Quant-Vient-L-Ete-3461.html				pending
+les-quatre-saisons-winter-delice	Les Quatre Saisons - Winter Delice		female		https://www.fragrantica.com/perfume/Guerlain/Les-Quatre-Saisons-Winter-Delice-3459.html				pending
 les-secrets-de-sophie	Les Secrets de Sophie		female		https://www.fragrantica.com/perfume/Guerlain/Les-Secrets-de-Sophie-7222.html				pending
 les-voyages-olfactifs-01-paris-moscow	Les Voyages Olfactifs 01 Paris-Moscow		female		https://www.fragrantica.com/perfume/Guerlain/Les-Voyages-Olfactifs-01-Paris-Moscow-6111.html				pending
 les-voyages-olfactifs-02-paris-new-york	Les Voyages Olfactifs 02 Paris-New York		female		https://www.fragrantica.com/perfume/Guerlain/Les-Voyages-Olfactifs-02-Paris-New-York-6113.html				pending
 les-voyages-olfactifs-03-paris-tokyo	Les Voyages Olfactifs 03 Paris-Tokyo		female		https://www.fragrantica.com/perfume/Guerlain/Les-Voyages-Olfactifs-03-Paris-Tokyo-6114.html				pending
 les-voyages-olfactifs-04-paris-london	Les Voyages Olfactifs 04 Paris-London		unisex		https://www.fragrantica.com/perfume/Guerlain/Les-Voyages-Olfactifs-04-Paris-London-13637.html				pending
 les-voyages-olfactifs-05-paris-shanghai	Les Voyages Olfactifs 05 Paris-Shanghai		unisex		https://www.fragrantica.com/perfume/Guerlain/Les-Voyages-Olfactifs-05-Paris-Shanghai-15955.html				pending
+lights-of-champs-elysees	Lights Of Champs-Elysees		female		https://www.fragrantica.com/perfume/Guerlain/Lights-Of-Champs-Elysees-2623.html				pending
 liu	Liu		female		https://www.fragrantica.com/perfume/Guerlain/Liu-68502.html				pending
+liu-6323	Liu		female		https://www.fragrantica.com/perfume/Guerlain/Liu-6323.html				pending
 love-is-all	Love is All		female		https://www.fragrantica.com/perfume/Guerlain/Love-is-All-45.html				pending
+lovely-cherry-blossom-gold-sparkles	Lovely Cherry Blossom Gold Sparkles		female		https://www.fragrantica.com/perfume/Guerlain/Lovely-Cherry-Blossom-Gold-Sparkles-2221.html				pending
 lui	Lui		unisex		https://www.fragrantica.com/perfume/Guerlain/Lui-45660.html				pending
+labeille-de-guerlain	L’Abeille de Guerlain		female		https://www.fragrantica.com/perfume/Guerlain/L-Abeille-de-Guerlain-11773.html				pending
+lautomne	L’Automne		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Automne-41072.html				pending
+leau-de-parfum-du-68	L’Eau de Parfum du 68		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Eau-de-Parfum-du-68-38810.html				pending
+lheure-bleue-extract	L’Heure Bleue Extract		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Extract-33602.html				pending
 lheure-doree	L’Heure Dorée		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Doree-103277.html				pending
+lhiver	L’Hiver		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Hiver-41073.html				pending
 lhomme-ideal	L’Homme Idéal		male		https://www.fragrantica.com/perfume/Guerlain/L-Homme-Ideal-25780.html				pending
 lhomme-ideal-cologne	L’Homme Idéal Cologne		male		https://www.fragrantica.com/perfume/Guerlain/L-Homme-Ideal-Cologne-30620.html				pending
 lhomme-ideal-cool	L’Homme Idéal Cool		male		https://www.fragrantica.com/perfume/Guerlain/L-Homme-Ideal-Cool-54452.html				pending
@@ -250,80 +380,139 @@ lhomme-ideal-platine-prive	L’Homme Idéal Platine Privé		male		https://www.fr
 lhomme-ideal-sport	L’Homme Idéal Sport		male		https://www.fragrantica.com/perfume/Guerlain/L-Homme-Ideal-Sport-44242.html				pending
 mademoiselle-guerlain	Mademoiselle Guerlain		female		https://www.fragrantica.com/perfume/Guerlain/Mademoiselle-Guerlain-25264.html				pending
 mahora	Mahora		female		https://www.fragrantica.com/perfume/Guerlain/Mahora-2660.html				pending
+mahora-extrait-de-parfum	Mahora Extrait de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Mahora-Extrait-de-Parfum-33610.html				pending
 mandarine-basilic-harvest	Mandarine Basilic Harvest		unisex		https://www.fragrantica.com/perfume/Guerlain/Mandarine-Basilic-Harvest-79470.html				pending
+marie-claire	Marie Claire		female		https://www.fragrantica.com/perfume/Guerlain/Marie-Claire-15487.html				pending
 mayotte	Mayotte		female		https://www.fragrantica.com/perfume/Guerlain/Mayotte-5399.html				pending
 metallica-metalys	Metallica (Metalys)		female		https://www.fragrantica.com/perfume/Guerlain/Metallica-Metalys-20814.html				pending
 meteorites	Meteorites		female		https://www.fragrantica.com/perfume/Guerlain/Meteorites-4045.html				pending
+mitsouko-absolu-17	Mitsouko Absolu 17		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Absolu-17-69874.html				pending
+mitsouko-eau-de-cologne	Mitsouko Eau de Cologne		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Eau-de-Cologne-52037.html				pending
 mitsouko-eau-de-parfum	Mitsouko Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Eau-de-Parfum-113910.html				pending
+mitsouko-eau-de-parfum-25316	Mitsouko Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Eau-de-Parfum-25316.html				pending
 mitsouko-eau-de-toilette	Mitsouko Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Eau-de-Toilette-67314.html				pending
+mitsouko-eau-de-toilette-207	Mitsouko Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Eau-de-Toilette-207.html				pending
+mitsouko-extract	Mitsouko Extract		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Extract-25317.html				pending
+mitsouko-fleur-de-lotus	Mitsouko Fleur de Lotus		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Fleur-de-Lotus-5791.html				pending
+mitsouko-limited-edition-2019	Mitsouko Limited Edition 2019		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Limited-Edition-2019-55513.html				pending
 mon-exclusif	Mon Exclusif		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Exclusif-30944.html				pending
 mon-guerlain	Mon Guerlain		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-43297.html				pending
 mon-guerlain-bloom-of-rose	Mon Guerlain Bloom of Rose		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Bloom-of-Rose-53320.html				pending
 mon-guerlain-bloom-of-rose-eau-de-parfum	Mon Guerlain Bloom of Rose Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Bloom-of-Rose-Eau-de-Parfum-59567.html				pending
 mon-guerlain-eau-de-parfum-intense	Mon Guerlain Eau de Parfum Intense		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Eau-de-Parfum-Intense-55997.html				pending
 mon-guerlain-eau-de-toilette	Mon Guerlain Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Eau-de-Toilette-50747.html				pending
+mon-guerlain-extrait	Mon Guerlain Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Extrait-58627.html				pending
 mon-guerlain-florale	Mon Guerlain Florale		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Florale-48099.html				pending
 mon-guerlain-gold-collector-edition	Mon Guerlain Gold Collector Edition		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Gold-Collector-Edition-56983.html				pending
+mon-guerlain-hair-mist	Mon Guerlain Hair Mist		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Hair-Mist-65938.html				pending
 mon-guerlain-lessence	Mon Guerlain L'Essence		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-L-Essence-72362.html				pending
+mon-guerlain-limited-edition-2018	Mon Guerlain Limited Edition 2018		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Limited-Edition-2018-56262.html				pending
+mon-guerlain-limited-edition-2019	Mon Guerlain Limited Edition 2019		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Limited-Edition-2019-55748.html				pending
 mon-guerlain-sensuelle	Mon Guerlain Sensuelle		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Sensuelle-58626.html				pending
 mon-guerlain-sparkling-bouquet	Mon Guerlain Sparkling Bouquet		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Sparkling-Bouquet-65546.html				pending
 mon-habit-rouge-taille-sur-mesure	Mon Habit Rouge Taillé sur Mesure		male		https://www.fragrantica.com/perfume/Guerlain/Mon-Habit-Rouge-Taille-sur-Mesure-26095.html				pending
 mon-precieux-nectar	Mon Precieux Nectar		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Precieux-Nectar-16035.html				pending
 mon-precious-nectar-fountain-imperiale	Mon Precious Nectar Fountain Imperiale		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Precious-Nectar-Fountain-Imperiale-11929.html				pending
+mouchoir-de-monsieur	Mouchoir de Monsieur		male		https://www.fragrantica.com/perfume/Guerlain/Mouchoir-de-Monsieur-3943.html				pending
 muguet	Muguet		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-5993.html				pending
+muguet-original	Muguet (original)		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-original-37331.html				pending
+muguet-1998	Muguet 1998		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-1998-37332.html				pending
+muguet-2011	Muguet 2011		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2011-12506.html				pending
+muguet-2012	Muguet 2012		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2012-25268.html				pending
 muguet-2014	Muguet 2014		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2014-24034.html				pending
+muguet-2015	Muguet 2015		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2015-31119.html				pending
+muguet-2016	Muguet 2016		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2016-37330.html				pending
+muguet-2017	Muguet 2017		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2017-43598.html				pending
 muguet-2023	Muguet 2023		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2023-80529.html				pending
+muguet-2024	Muguet 2024		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2024-91439.html				pending
+muguet-millesime-2018	Muguet Millésime 2018		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2018-49316.html				pending
+muguet-millesime-2019	Muguet Millésime 2019		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2019-54748.html				pending
+muguet-millesime-2020	Muguet Millésime 2020		unisex		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2020-60495.html				pending
 muguet-millesime-2021	Muguet Millésime 2021		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2021-66464.html				pending
+muguet-millesime-2022	Muguet Millésime 2022		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2022-76846.html				pending
+muguet-millesime-2025	Muguet Millésime 2025		unisex		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2025-106101.html				pending
+muguet-millesime-2026	Muguet Millésime 2026		unisex		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2026-136920.html				pending
 musc-outreblanc	Musc Outreblanc		unisex		https://www.fragrantica.com/perfume/Guerlain/Musc-Outreblanc-71280.html				pending
+musc-outreblanc-hair-mist	Musc Outreblanc Hair Mist		unisex		https://www.fragrantica.com/perfume/Guerlain/Musc-Outreblanc-Hair-Mist-113427.html				pending
 my-insolence	My Insolence		female		https://www.fragrantica.com/perfume/Guerlain/My-Insolence-1657.html				pending
 myrrhe-and-delires	Myrrhe & Delires		unisex		https://www.fragrantica.com/perfume/Guerlain/Myrrhe-Delires-14203.html				pending
 meteorites-le-parfum	Météorites Le Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Meteorites-Le-Parfum-49587.html				pending
+nahema	Nahema		female		https://www.fragrantica.com/perfume/Guerlain/Nahema-46.html				pending
 nahema-eau-de-parfum	Nahema Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Nahema-Eau-de-Parfum-65153.html				pending
+nahema-extract	Nahéma Extract		female		https://www.fragrantica.com/perfume/Guerlain/Nahema-Extract-33609.html				pending
 ne-moubliez-pas	Ne m’Oubliez Pas		female		https://www.fragrantica.com/perfume/Guerlain/Ne-m-Oubliez-Pas-32355.html				pending
 nerolia-vetiver	Nerolia Vetiver		unisex		https://www.fragrantica.com/perfume/Guerlain/Nerolia-Vetiver-71757.html				pending
 nerolia-vetiver-harvest	Nerolia Vetiver Harvest		unisex		https://www.fragrantica.com/perfume/Guerlain/Nerolia-Vetiver-Harvest-79471.html				pending
+no-25	No. 25		female		https://www.fragrantica.com/perfume/Guerlain/No-25-106260.html				pending
 nuit-damour	Nuit d'Amour		female		https://www.fragrantica.com/perfume/Guerlain/Nuit-d-Amour-14731.html				pending
 neroli-outrenoir	Néroli Outrenoir		unisex		https://www.fragrantica.com/perfume/Guerlain/Neroli-Outrenoir-40345.html				pending
+neroli-outrenoir-2024	Néroli Outrenoir (2024)		unisex		https://www.fragrantica.com/perfume/Guerlain/Neroli-Outrenoir-2024-89177.html				pending
+neroli-outrenoir-hair-mist	Néroli Outrenoir Hair Mist		unisex		https://www.fragrantica.com/perfume/Guerlain/Neroli-Outrenoir-Hair-Mist-113426.html				pending
 neroli-plein-sud	Néroli Plein Sud		unisex		https://www.fragrantica.com/perfume/Guerlain/Neroli-Plein-Sud-88607.html				pending
+ode	Ode		female		https://www.fragrantica.com/perfume/Guerlain/Ode-22958.html				pending
 oeillet-pourpre	Oeillet Pourpre		unisex		https://www.fragrantica.com/perfume/Guerlain/Oeillet-Pourpre-69273.html				pending
 oriental-brulant	Oriental Brulant		unisex		https://www.fragrantica.com/perfume/Guerlain/Oriental-Brulant-38807.html				pending
 oud-essentiel	Oud Essentiel		unisex		https://www.fragrantica.com/perfume/Guerlain/Oud-Essentiel-96471.html				pending
 oud-khol	Oud Khôl		unisex		https://www.fragrantica.com/perfume/Guerlain/Oud-Khol-76314.html				pending
 oud-nude	Oud Nude		unisex		https://www.fragrantica.com/perfume/Guerlain/Oud-Nude-76304.html				pending
+oud-sensuel	Oud Sensuel		male		https://www.fragrantica.com/perfume/Guerlain/Oud-Sensuel-38414.html				pending
+parure	Parure		female		https://www.fragrantica.com/perfume/Guerlain/Parure-47.html				pending
 patchouli-ardent	Patchouli Ardent		unisex		https://www.fragrantica.com/perfume/Guerlain/Patchouli-Ardent-96472.html				pending
 patchouli-paris	Patchouli Paris		unisex		https://www.fragrantica.com/perfume/Guerlain/Patchouli-Paris-95161.html				pending
 perle-imperiale	Perle Impériale		unisex		https://www.fragrantica.com/perfume/Guerlain/Perle-Imperiale-91687.html				pending
+petit-guerlain	Petit Guerlain		unisex		https://www.fragrantica.com/perfume/Guerlain/Petit-Guerlain-2620.html				pending
 petit-guerlain-in-blue	Petit Guerlain (In Blue)		unisex		https://www.fragrantica.com/perfume/Guerlain/Petit-Guerlain-In-Blue-25266.html				pending
 petit-guerlain-in-pink	Petit Guerlain (In Pink)		unisex		https://www.fragrantica.com/perfume/Guerlain/Petit-Guerlain-In-Pink-23398.html				pending
 philtre-damour	Philtre d'Amour		female		https://www.fragrantica.com/perfume/Guerlain/Philtre-d-Amour-2655.html				pending
 place-rouge	Place Rouge		female		https://www.fragrantica.com/perfume/Guerlain/Place-Rouge-18983.html				pending
 plus-que-jamais	Plus Que Jamais		female		https://www.fragrantica.com/perfume/Guerlain/Plus-Que-Jamais-9417.html				pending
 precious-heart	Precious Heart		female		https://www.fragrantica.com/perfume/Guerlain/Precious-Heart-2619.html				pending
+prima-ballerina	Prima Ballerina		female		https://www.fragrantica.com/perfume/Guerlain/Prima-Ballerina-41453.html				pending
 promenade-des-anglais	Promenade des Anglais		female		https://www.fragrantica.com/perfume/Guerlain/Promenade-des-Anglais-34998.html				pending
 purple-fantasy	Purple Fantasy		female		https://www.fragrantica.com/perfume/Guerlain/Purple-Fantasy-6324.html				pending
 peche-mirage	Pêche Mirage		unisex		https://www.fragrantica.com/perfume/Guerlain/Peche-Mirage-101040.html				pending
 quand-vient-la-pluie	Quand Vient La Pluie		female		https://www.fragrantica.com/perfume/Guerlain/Quand-Vient-La-Pluie-2618.html				pending
+quand-vient-la-pluie-extrait-de-parfum	Quand Vient La Pluie Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Guerlain/Quand-Vient-La-Pluie-Extrait-de-Parfum-33611.html				pending
+reve-de-lune	Reve de Lune		female		https://www.fragrantica.com/perfume/Guerlain/Reve-de-Lune-16734.html				pending
 rosa-rossa-harvest	Rosa Rossa Harvest		unisex		https://www.fragrantica.com/perfume/Guerlain/Rosa-Rossa-Harvest-79472.html				pending
 rose-amira	Rose Amira		unisex		https://www.fragrantica.com/perfume/Guerlain/Rose-Amira-90836.html				pending
 rose-barbare	Rose Barbare		unisex		https://www.fragrantica.com/perfume/Guerlain/Rose-Barbare-1020.html				pending
+rose-barbare-eau-de-parfum	Rose Barbare Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Rose-Barbare-Eau-de-Parfum-34341.html				pending
 rose-centifolia-extrait-1	Rose Centifolia Extrait 1		unisex		https://www.fragrantica.com/perfume/Guerlain/Rose-Centifolia-Extrait-1-87535.html				pending
 rose-cherie	Rose Chérie		female		https://www.fragrantica.com/perfume/Guerlain/Rose-Cherie-69054.html				pending
 rose-nacree-du-desert	Rose Nacree du Desert		unisex		https://www.fragrantica.com/perfume/Guerlain/Rose-Nacree-du-Desert-15132.html				pending
+rouge-bonheur-2025-millesime	Rouge Bonheur 2025 Millésime		unisex		https://www.fragrantica.com/perfume/Guerlain/Rouge-Bonheur-2025-Millesime-101371.html				pending
+rouge-bonheur-2026-millesime	Rouge Bonheur 2026 Millésime		unisex		https://www.fragrantica.com/perfume/Guerlain/Rouge-Bonheur-2026-Millesime-122063.html				pending
+royal-extract-ii	Royal Extract II		unisex		https://www.fragrantica.com/perfume/Guerlain/Royal-Extract-II-60616.html				pending
+royal-extract-iii	Royal Extract III		female		https://www.fragrantica.com/perfume/Guerlain/Royal-Extract-III-117104.html				pending
 royal-extrait	Royal Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Royal-Extrait-28844.html				pending
+rue-de-la-paix	Rue de la Paix		female		https://www.fragrantica.com/perfume/Guerlain/Rue-de-la-Paix-38805.html				pending
 samsara-eau-de-parfum	Samsara Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Eau-de-Parfum-67313.html				pending
+samsara-eau-de-parfum-55	Samsara Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Eau-de-Parfum-55.html				pending
 samsara-eau-de-toilette	Samsara Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Eau-de-Toilette-67534.html				pending
+samsara-eau-de-toilette-25315	Samsara Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Eau-de-Toilette-25315.html				pending
+samsara-extrait	Samsara Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Extrait-25318.html				pending
+samsara-rosee-parfumee-rafraichissante	Samsara Rosée Parfumée Rafraichissante		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Rosee-Parfumee-Rafraichissante-70998.html				pending
 samsara-shine	Samsara Shine		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Shine-3622.html				pending
 santal-pao-rosa	Santal Pao Rosa		unisex		https://www.fragrantica.com/perfume/Guerlain/Santal-Pao-Rosa-69065.html				pending
 santal-royal	Santal Royal		unisex		https://www.fragrantica.com/perfume/Guerlain/Santal-Royal-96470.html				pending
 santal-royal-38808	Santal Royal		unisex		https://www.fragrantica.com/perfume/Guerlain/Santal-Royal-38808.html				pending
+santal-royal-hair-mist	Santal Royal Hair Mist		unisex		https://www.fragrantica.com/perfume/Guerlain/Santal-Royal-Hair-Mist-96474.html				pending
 secret-intention	Secret Intention		female		https://www.fragrantica.com/perfume/Guerlain/Secret-Intention-3347.html				pending
+shalimar-80th-anniversary-limited-edition	Shalimar 80th Anniversary Limited Edition		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-80th-Anniversary-Limited-Edition-41857.html				pending
 shalimar-black-mystery-2007	Shalimar Black Mystery 2007		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Black-Mystery-2007-10670.html				pending
 shalimar-cologne	Shalimar Cologne		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Cologne-30842.html				pending
+shalimar-eau-de-cologne	Shalimar Eau de Cologne		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Eau-de-Cologne-16028.html				pending
+shalimar-eau-de-parfum	Shalimar Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Eau-de-Parfum-53.html				pending
 shalimar-eau-de-parfum-2009-limited-editions	Shalimar Eau de Parfum (2009 Limited Editions)		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Eau-de-Parfum-2009-Limited-Editions-6025.html				pending
 shalimar-eau-de-parfum-serie-limitee	Shalimar Eau De Parfum Serie Limitee		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Eau-De-Parfum-Serie-Limitee-60690.html				pending
+shalimar-eau-de-toilette	Shalimar Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Eau-de-Toilette-33934.html				pending
 shalimar-eau-legere	Shalimar Eau Légère		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Eau-Legere-43608.html				pending
 shalimar-edition-charms-eau-de-parfum	Shalimar Edition Charms Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Edition-Charms-Eau-de-Parfum-8140.html				pending
+shalimar-extrait	Shalimar Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Extrait-34339.html				pending
 shalimar-fourreau-du-soir	Shalimar Fourreau du Soir		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Fourreau-du-Soir-13600.html				pending
+shalimar-indes-and-merveilles	Shalimar Indes & Merveilles		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Indes-Merveilles-22579.html				pending
+shalimar-indian-nights-by-maison-gripoix	Shalimar Indian Nights by Maison Gripoix		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Indian-Nights-by-Maison-Gripoix-28975.html				pending
 shalimar-lessence	Shalimar L'Essence		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-L-Essence-113241.html				pending
 shalimar-legere	Shalimar Legere		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Legere-54.html				pending
 shalimar-millesime-rose	Shalimar Millesime Rose		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Millesime-Rose-129300.html				pending
@@ -335,247 +524,58 @@ shalimar-ode-a-la-vanille	Shalimar Ode a la Vanille		female		https://www.fragran
 shalimar-ode-a-la-vanille-sur-la-route-de-madagascar	Shalimar Ode a la Vanille Sur la route de Madagascar		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Ode-a-la-Vanille-Sur-la-route-de-Madagascar-16730.html				pending
 shalimar-ode-a-la-vanille-sur-la-route-du-mexique	Shalimar Ode a la Vanille Sur la Route du Mexique		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Ode-a-la-Vanille-Sur-la-Route-du-Mexique-18414.html				pending
 shalimar-oiseau-de-paradis	Shalimar Oiseau de Paradis		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Oiseau-de-Paradis-6758.html				pending
+shalimar-parfum	Shalimar Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Parfum-33557.html				pending
 shalimar-parfum-initial	Shalimar Parfum Initial		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Parfum-Initial-11360.html				pending
+shalimar-parfum-initial-a-fleur-de-peau	Shalimar Parfum Initial A Fleur de Peau		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Parfum-Initial-A-Fleur-de-Peau-16733.html				pending
 shalimar-philtre-de-parfum	Shalimar Philtre de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Philtre-de-Parfum-62811.html				pending
+shalimar-secret-de-parfum	Shalimar Secret de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Secret-de-Parfum-35670.html				pending
 shalimar-souffle-doranger	Shalimar Souffle d'Oranger		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Souffle-d-Oranger-54098.html				pending
 shalimar-souffle-de-lumiere	Shalimar Souffle de Lumière		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Souffle-de-Lumiere-49760.html				pending
 shalimar-souffle-de-parfum	Shalimar Souffle de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Souffle-de-Parfum-26132.html				pending
 shalimar-souffle-de-parfum-2015	Shalimar Souffle de Parfum 2015		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Souffle-de-Parfum-2015-32438.html				pending
 shalimar-souffle-de-parfum-2016	Shalimar Souffle de Parfum 2016		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Souffle-de-Parfum-2016-38191.html				pending
 shalimar-souffle-de-parfum-2017	Shalimar Souffle de Parfum 2017		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Souffle-de-Parfum-2017-44881.html				pending
+shalimar-souffle-de-parfum-2018	Shalimar Souffle de Parfum 2018		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Souffle-de-Parfum-2018-51921.html				pending
 shalimar-souffle-intense	Shalimar Souffle Intense		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Souffle-Intense-46110.html				pending
+shalimar-talisman-byzantin	Shalimar Talisman Byzantin		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Talisman-Byzantin-16732.html				pending
 shalimar-yellow-gold-limited-edition	Shalimar Yellow Gold Limited Edition		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Yellow-Gold-Limited-Edition-4861.html				pending
+shiny-cherry-blossom	Shiny Cherry Blossom		female		https://www.fragrantica.com/perfume/Guerlain/Shiny-Cherry-Blossom-2613.html				pending
 songe-dun-bois-dete	Songe d'un Bois d'Ete		unisex		https://www.fragrantica.com/perfume/Guerlain/Songe-d-un-Bois-d-Ete-15133.html				pending
+sous-le-vent	Sous le Vent		female		https://www.fragrantica.com/perfume/Guerlain/Sous-le-Vent-5400.html				pending
+souvenir-dorchidee	Souvenir d'Orchidée		female		https://www.fragrantica.com/perfume/Guerlain/Souvenir-d-Orchidee-98371.html				pending
 spiritueuse-double-vanille	Spiritueuse Double Vanille		unisex		https://www.fragrantica.com/perfume/Guerlain/Spiritueuse-Double-Vanille-3345.html				pending
 spiritueuse-double-vanille-38809	Spiritueuse Double Vanille		unisex		https://www.fragrantica.com/perfume/Guerlain/Spiritueuse-Double-Vanille-38809.html				pending
 tabac-sahara	Tabac Sahara		unisex		https://www.fragrantica.com/perfume/Guerlain/Tabac-Sahara-120473.html				pending
 terracotta-eau-de-toilette	Terracotta Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Terracotta-Eau-de-Toilette-96737.html				pending
 terracotta-eau-sous-le-vent	Terracotta Eau Sous Le Vent		female		https://www.fragrantica.com/perfume/Guerlain/Terracotta-Eau-Sous-Le-Vent-5883.html				pending
 terracotta-le-parfum	Terracotta Le Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Terracotta-Le-Parfum-24785.html				pending
+terracotta-voile-dete-no-25-quand-vient-lete	Terracotta Voile d'Été (No.25, Quand Vient l'Été)		female		https://www.fragrantica.com/perfume/Guerlain/Terracotta-Voile-d-Ete-No-25-Quand-Vient-l-Ete-2615.html				pending
 tobacco-honey	Tobacco Honey		unisex		https://www.fragrantica.com/perfume/Guerlain/Tobacco-Honey-84518.html				pending
 tonka-imperiale	Tonka Imperiale		unisex		https://www.fragrantica.com/perfume/Guerlain/Tonka-Imperiale-8705.html				pending
 tonka-sarrapia-extrait-75	Tonka Sarrapia Extrait 75		unisex		https://www.fragrantica.com/perfume/Guerlain/Tonka-Sarrapia-Extrait-75-87541.html				pending
 too-much	Too Much		female		https://www.fragrantica.com/perfume/Guerlain/Too-Much-67.html				pending
+too-much-champs-elysees-vital-sensations	Too Much Champs Elysees Vital Sensations		unisex		https://www.fragrantica.com/perfume/Guerlain/Too-Much-Champs-Elysees-Vital-Sensations-35855.html				pending
+un-air-de-samsara	Un Air de Samsara		female		https://www.fragrantica.com/perfume/Guerlain/Un-Air-de-Samsara-3826.html				pending
 un-dimanche-a-la-campagne	Un Dimanche à La Campagne		unisex		https://www.fragrantica.com/perfume/Guerlain/Un-Dimanche-a-La-Campagne-42250.html				pending
+une-rose	Une Rose		female		https://www.fragrantica.com/perfume/Guerlain/Une-Rose-75143.html				pending
 vanille-planifolia-extrait-21	Vanille Planifolia Extrait 21		unisex		https://www.fragrantica.com/perfume/Guerlain/Vanille-Planifolia-Extrait-21-87539.html				pending
+vega	Vega		female		https://www.fragrantica.com/perfume/Guerlain/Vega-10883.html				pending
 vetiver	Vetiver		male		https://www.fragrantica.com/perfume/Guerlain/Vetiver-69.html				pending
+vetiver-vintage-edition	Vetiver (Vintage Edition)		male		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Vintage-Edition-3827.html				pending
 vetiver-eau-glacee	Vetiver Eau Glacee		male		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Eau-Glacee-9289.html				pending
 vetiver-extreme	Vetiver Extreme		male		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Extreme-1010.html				pending
 vetiver-frozen-fragrance	Vetiver Frozen Fragrance		male		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Frozen-Fragrance-2617.html				pending
 vetiver-parfum	Vetiver Parfum		male		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Parfum-90801.html				pending
 vetiver-pour-elle	Vetiver Pour Elle		female		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Pour-Elle-2616.html				pending
 vetiver-sport	Vetiver Sport		male		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Sport-5737.html				pending
-vol-de-nuit-eau-de-toilette	Vol De Nuit Eau De Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Vol-De-Nuit-Eau-De-Toilette-65154.html				pending
-vol-de-nuit-evasion	Vol de Nuit Evasion		female		https://www.fragrantica.com/perfume/Guerlain/Vol-de-Nuit-Evasion-1628.html				pending
-vetiver-fauve	Vétiver Fauve		unisex		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Fauve-108901.html				pending
-with-love	With Love		female		https://www.fragrantica.com/perfume/Guerlain/With-Love-2614.html				pending
-epices-exquises	Épices Exquises		unisex		https://www.fragrantica.com/perfume/Guerlain/Epices-Exquises-96473.html				pending
-epices-volees	Épices Volées		unisex		https://www.fragrantica.com/perfume/Guerlain/Epices-Volees-69276.html				pending
-180-ans-de-creations-1828-2008	180 Ans de Créations 1828-2008		unisex		https://www.fragrantica.com/perfume/Guerlain/180-Ans-de-Creations-1828-2008-33479.html				pending
-apres-londee	Apres l'Ondee		female		https://www.fragrantica.com/perfume/Guerlain/Apres-l-Ondee-13.html				pending
-aqua-allegoria-flora-cherrysia-sakura-collection-2020	Aqua Allegoria Flora Cherrysia (Sakura Collection 2020)		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Flora-Cherrysia-Sakura-Collection-2020-58847.html				pending
-aqua-allegoria-herba-fresca	Aqua Allegoria Herba Fresca		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Herba-Fresca-60.html				pending
-aqua-allegoria-lavande-velours	Aqua Allegoria Lavande Velours		unisex		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Lavande-Velours-61.html				pending
-aqua-allegoria-pamplelune	Aqua Allegoria Pamplelune		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Pamplelune-57.html				pending
-aqua-allegoria-rosa-magnifica	Aqua Allegoria Rosa Magnifica		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Rosa-Magnifica-63.html				pending
-aqua-allegoria-rosa-rossa-a-chinese-new-year-limited-edition	Aqua Allegoria Rosa Rossa (A Chinese New Year Limited Edition)		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Rosa-Rossa-A-Chinese-New-Year-Limited-Edition-58871.html				pending
-aqua-allegoria-ylang-and-vanille	Aqua Allegoria Ylang & Vanille		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Ylang-Vanille-64.html				pending
-bee-garden	Bee Garden		female		https://www.fragrantica.com/perfume/Guerlain/Bee-Garden-83697.html				pending
-belle-epoque-limited-edition	Belle Epoque Limited Edition		female		https://www.fragrantica.com/perfume/Guerlain/Belle-Epoque-Limited-Edition-43292.html				pending
-bouquet-de-faunes	Bouquet de Faunes		female		https://www.fragrantica.com/perfume/Guerlain/Bouquet-de-Faunes-30807.html				pending
-bouquet-de-paris	Bouquet de Paris		female		https://www.fragrantica.com/perfume/Guerlain/Bouquet-de-Paris-57878.html				pending
-brume-dautomne	Brume d'Automne		female		https://www.fragrantica.com/perfume/Guerlain/Brume-d-Automne-3460.html				pending
-candide-effluve	Candide Effluve		female		https://www.fragrantica.com/perfume/Guerlain/Candide-Effluve-11310.html				pending
-carmen-le-bolshoi	Carmen Le Bolshoi		female		https://www.fragrantica.com/perfume/Guerlain/Carmen-Le-Bolshoi-32166.html				pending
-chamade	Chamade		female		https://www.fragrantica.com/perfume/Guerlain/Chamade-50.html				pending
-chamade-extract	Chamade Extract		female		https://www.fragrantica.com/perfume/Guerlain/Chamade-Extract-35506.html				pending
-chamade-pour-homme	Chamade Pour Homme		male		https://www.fragrantica.com/perfume/Guerlain/Chamade-Pour-Homme-9198.html				pending
-champs-elysees-eau-de-parfum-25330	Champs Elysees Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Champs-Elysees-Eau-de-Parfum-25330.html				pending
-champs-elysees-eau-de-toilette-66	Champs Elysees Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Champs-Elysees-Eau-de-Toilette-66.html				pending
-champs-elysees-extract	Champs Elysees Extract		female		https://www.fragrantica.com/perfume/Guerlain/Champs-Elysees-Extract-25331.html				pending
-chant-daromes-extrait-de-parfum	Chant d'Aromes Extrait de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Chant-d-Aromes-Extrait-de-Parfum-78647.html				pending
-cherry-blossom-2020-millesime	Cherry Blossom 2020 Millésime		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2020-Millesime-60119.html				pending
-cherry-blossom-2021-millesime	Cherry Blossom 2021 Millésime		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2021-Millesime-65609.html				pending
-cherry-blossom-2022-millesime	Cherry Blossom 2022 Millésime		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2022-Millesime-71594.html				pending
-cherry-blossom-2023-millesime	Cherry Blossom 2023 Millésime		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2023-Millesime-79261.html				pending
-cherry-blossom-delight	Cherry Blossom Delight		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Delight-2217.html				pending
-cherry-blossom-edition-1999	Cherry Blossom Edition 1999		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Edition-1999-2218.html				pending
-cherry-blossom-glittering	Cherry Blossom Glittering		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Glittering-2220.html				pending
-cherry-blossom-millesime-2024	Cherry Blossom Millésime 2024		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Millesime-2024-90463.html				pending
-chypre-53	Chypre 53		unisex		https://www.fragrantica.com/perfume/Guerlain/Chypre-53-53158.html				pending
-chypre-de-paris	Chypre de Paris		unisex		https://www.fragrantica.com/perfume/Guerlain/Chypre-de-Paris-41629.html				pending
-coque-dor	Coque d'Or		female		https://www.fragrantica.com/perfume/Guerlain/Coque-d-Or-20811.html				pending
-coque-dor-2014	Coque d'Or (2014)		female		https://www.fragrantica.com/perfume/Guerlain/Coque-d-Or-2014-27591.html				pending
-coriolan	Coriolan		male		https://www.fragrantica.com/perfume/Guerlain/Coriolan-2288.html				pending
-cour-des-senteurs-versailles	Cour des Senteurs Versailles		female		https://www.fragrantica.com/perfume/Guerlain/Cour-des-Senteurs-Versailles-20853.html				pending
-cuir-de-russie	Cuir de Russie		unisex		https://www.fragrantica.com/perfume/Guerlain/Cuir-de-Russie-29336.html				pending
-derby-vintage	Derby (Vintage)		male		https://www.fragrantica.com/perfume/Guerlain/Derby-Vintage-5396.html				pending
-djedi	Djedi		female		https://www.fragrantica.com/perfume/Guerlain/Djedi-11847.html				pending
-eau-de-cologne-du-coq	Eau de Cologne du Coq		male		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Cologne-du-Coq-5397.html				pending
-eau-de-cologne-imperiale	Eau de Cologne Imperiale		female		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Cologne-Imperiale-3346.html				pending
-eau-de-cologne-imperiale-lunar-new-year-edition	Eau De Cologne Imperiale Lunar New Year Edition		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-De-Cologne-Imperiale-Lunar-New-Year-Edition-53240.html				pending
-eau-de-cologne-imperiale-edition-160-anniversaire	Eau de Cologne Impériale Edition 160 Anniversaire		female		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Cologne-Imperiale-Edition-160-Anniversaire-22577.html				pending
-eau-de-fleurs-de-cedrat	Eau de Fleurs de Cedrat		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Fleurs-de-Cedrat-5398.html				pending
-eau-de-guerlain	Eau de Guerlain		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Guerlain-6762.html				pending
-eau-de-verveine	Eau de Verveine		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-de-Verveine-24795.html				pending
-eau-secrete	Eau Secrète		unisex		https://www.fragrantica.com/perfume/Guerlain/Eau-Secrete-77619.html				pending
-flacon-tortue	Flacon Tortue		unisex		https://www.fragrantica.com/perfume/Guerlain/Flacon-Tortue-32897.html				pending
-fleur-de-feu	Fleur de Feu		female		https://www.fragrantica.com/perfume/Guerlain/Fleur-de-Feu-71444.html				pending
-fol-arome	Fol Arôme		female		https://www.fragrantica.com/perfume/Guerlain/Fol-Arome-42901.html				pending
-fol-arome-2020	Fol Arôme (2020)		female		https://www.fragrantica.com/perfume/Guerlain/Fol-Arome-2020-62088.html				pending
-garden-sensuel	Garden Sensuel		female		https://www.fragrantica.com/perfume/Guerlain/Garden-Sensuel-3754.html				pending
-guerlain-chant-daromes	Guerlain Chant d'Aromes		female		https://www.fragrantica.com/perfume/Guerlain/Guerlain-Chant-d-Aromes-48.html				pending
-guerlinade	Guerlinade		female		https://www.fragrantica.com/perfume/Guerlain/Guerlinade-23568.html				pending
-guet-apens	Guet Apens		female		https://www.fragrantica.com/perfume/Guerlain/Guet-Apens-5750.html				pending
-habit-de-metal	Habit de Metal		male		https://www.fragrantica.com/perfume/Guerlain/Habit-de-Metal-2638.html				pending
-habit-rouge-armoiries	Habit Rouge Armoiries		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Armoiries-5574.html				pending
-habit-rouge-beau-cavalier	Habit Rouge Beau Cavalier		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Beau-Cavalier-7017.html				pending
-habit-rouge-dress-code-2018	Habit Rouge Dress Code 2018		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Dress-Code-2018-51634.html				pending
-habit-rouge-eau-de-cologne	Habit Rouge Eau de Cologne		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Eau-de-Cologne-36508.html				pending
-habit-rouge-eau-de-toilette	Habit Rouge Eau de Toilette		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Eau-de-Toilette-16.html				pending
-habit-rouge-edition-voyage	Habit Rouge Edition Voyage		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Edition-Voyage-16653.html				pending
-habit-rouge-habit-de-cuir	Habit Rouge Habit de Cuir		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Habit-de-Cuir-13601.html				pending
-habit-rouge-rider-edition	Habit Rouge Rider Edition		male		https://www.fragrantica.com/perfume/Guerlain/Habit-Rouge-Rider-Edition-25314.html				pending
-heritage-eau-de-parfum	Heritage Eau de Parfum		male		https://www.fragrantica.com/perfume/Guerlain/Heritage-Eau-de-Parfum-25312.html				pending
-heritage-eau-de-toilette	Heritage Eau de Toilette		male		https://www.fragrantica.com/perfume/Guerlain/Heritage-Eau-de-Toilette-1880.html				pending
-idylle-extract	Idylle Extract		female		https://www.fragrantica.com/perfume/Guerlain/Idylle-Extract-33558.html				pending
-imperial-russe	Imperial Russe		unisex		https://www.fragrantica.com/perfume/Guerlain/Imperial-Russe-52442.html				pending
-insolence-extrait	Insolence Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Insolence-Extrait-33559.html				pending
-jardins-de-bagatelle	Jardins de Bagatelle		female		https://www.fragrantica.com/perfume/Guerlain/Jardins-de-Bagatelle-3809.html				pending
-jicky	Jicky		female		https://www.fragrantica.com/perfume/Guerlain/Jicky-103.html				pending
-jicky-eau-de-toilette	Jicky Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Jicky-Eau-de-Toilette-74195.html				pending
-jicky-extrait	Jicky Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Jicky-Extrait-33601.html				pending
-jicky-limited-edition-2019	Jicky Limited Edition 2019		female		https://www.fragrantica.com/perfume/Guerlain/Jicky-Limited-Edition-2019-55512.html				pending
-kadine	Kadine		female		https://www.fragrantica.com/perfume/Guerlain/Kadine-25160.html				pending
-kadine-2021	Kadine (2021)		unisex		https://www.fragrantica.com/perfume/Guerlain/Kadine-2021-69047.html				pending
-lheure-bleue-100-anniversaire	L'Heure Bleue 100 Anniversaire		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-100-Anniversaire-16731.html				pending
-lheure-bleue-eau-de-parfum-208	L'Heure Bleue Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Eau-de-Parfum-208.html				pending
-lheure-bleue-eau-de-toilette-41153	L'Heure Bleue Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Eau-de-Toilette-41153.html				pending
-lheure-bleue-yves-klein-edition	L'Heure Bleue Yves Klein Edition		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Yves-Klein-Edition-76819.html				pending
-linstant-de-guerlain-extract	L'Instant de Guerlain Extract		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-de-Guerlain-Extract-33560.html				pending
-linstant-magic-extract	L'Instant Magic Extract		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-Magic-Extract-33561.html				pending
-linstant-magic-limited-edition-serigraphiees	L'Instant Magic limited edition Sérigraphiées		female		https://www.fragrantica.com/perfume/Guerlain/L-Instant-Magic-limited-edition-Serigraphiees-46813.html				pending
-lame-dun-heros	L'Âme d'Un Héros		male		https://www.fragrantica.com/perfume/Guerlain/L-Ame-d-Un-Heros-2282.html				pending
-lete	L'Été		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Ete-41071.html				pending
-la-cuvee-secrete	La Cuvée Secrète		unisex		https://www.fragrantica.com/perfume/Guerlain/La-Cuvee-Secrete-44650.html				pending
-la-petite-robe-noire-5th-anniversary-edition	La Petite Robe Noire 5th Anniversary Edition		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-5th-Anniversary-Edition-47162.html				pending
-la-petite-robe-noire-by-maison-legeron	La Petite Robe Noire by Maison Legeron		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-by-Maison-Legeron-47738.html				pending
-la-petite-robe-noire-eau-de-parfum-intense-so-frenchy	La Petite Robe Noire Eau de Parfum Intense So Frenchy		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Parfum-Intense-So-Frenchy-58905.html				pending
-la-petite-robe-noire-eau-de-parfum-limited-edition-2014	La Petite Robe Noire Eau de Parfum Limited Edition 2014		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Parfum-Limited-Edition-2014-28020.html				pending
-la-petite-robe-noire-eau-de-parfum-so-frenchy	La Petite Robe Noire Eau de Parfum So Frenchy		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Parfum-So-Frenchy-58904.html				pending
-la-petite-robe-noire-eau-de-toilette-limited-edition-2014	La Petite Robe Noire Eau de Toilette Limited Edition 2014		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Toilette-Limited-Edition-2014-28021.html				pending
-la-petite-robe-noire-eau-de-toilette-so-frenchy	La Petite Robe Noire Eau de Toilette So Frenchy		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Eau-de-Toilette-So-Frenchy-58903.html				pending
-la-petite-robe-noire-extrait	La Petite Robe Noire Extrait		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Extrait-34340.html				pending
-la-petite-robe-noire-flacon-baccarat-et-dentelle-dargent	La Petite Robe Noire Flacon Baccarat et Dentelle d'Argent		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Flacon-Baccarat-et-Dentelle-d-Argent-22576.html				pending
-la-petite-robe-noire-macon-and-lesquoy-edition	La Petite Robe Noire Macon&Lesquoy Edition		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Macon-Lesquoy-Edition-28024.html				pending
-la-petite-robe-noire-mon-eau-pour-le-voyage	La Petite Robe Noire Mon Eau Pour Le Voyage		female		https://www.fragrantica.com/perfume/Guerlain/La-Petite-Robe-Noire-Mon-Eau-Pour-Le-Voyage-25291.html				pending
-le-bolshoi-2011-edition-limitee	Le Bolshoi 2011 Edition Limitee		female		https://www.fragrantica.com/perfume/Guerlain/Le-Bolshoi-2011-Edition-Limitee-13551.html				pending
-le-bolshoi-black-swan	Le Bolshoi Black Swan		female		https://www.fragrantica.com/perfume/Guerlain/Le-Bolshoi-Black-Swan-28625.html				pending
-le-bouquet-de-la-reine	Le Bouquet de la Reine		female		https://www.fragrantica.com/perfume/Guerlain/Le-Bouquet-de-la-Reine-35522.html				pending
-le-flacon-aux-abeilles-edition-maison-matisse-2023	Le Flacon Aux Abeilles Edition Maison Matisse 2023		unisex		https://www.fragrantica.com/perfume/Guerlain/Le-Flacon-Aux-Abeilles-Edition-Maison-Matisse-2023-78738.html				pending
-le-flacon-tortue-red-edition-by-baccarat	Le Flacon Tortue Red Edition by Baccarat		female		https://www.fragrantica.com/perfume/Guerlain/Le-Flacon-Tortue-Red-Edition-by-Baccarat-89184.html				pending
-le-parfum-du-68-extrait-le-passeur-du-temps	Le Parfum du 68 Extrait Le Passeur du Temps		unisex		https://www.fragrantica.com/perfume/Guerlain/Le-Parfum-du-68-Extrait-Le-Passeur-du-Temps-22575.html				pending
-le-printemps	Le Printemps		unisex		https://www.fragrantica.com/perfume/Guerlain/Le-Printemps-41070.html				pending
-le-songe-de-la-reine	Le Songe de la Reine		female		https://www.fragrantica.com/perfume/Guerlain/Le-Songe-de-la-Reine-67214.html				pending
-les-quatre-saisons-muguet-de-printemps	Les Quatre Saisons - Muguet de Printemps		female		https://www.fragrantica.com/perfume/Guerlain/Les-Quatre-Saisons-Muguet-de-Printemps-3462.html				pending
-les-quatre-saisons-quant-vient-lete	Les Quatre Saisons - Quant Vient L'Ete		female		https://www.fragrantica.com/perfume/Guerlain/Les-Quatre-Saisons-Quant-Vient-L-Ete-3461.html				pending
-les-quatre-saisons-winter-delice	Les Quatre Saisons - Winter Delice		female		https://www.fragrantica.com/perfume/Guerlain/Les-Quatre-Saisons-Winter-Delice-3459.html				pending
-lights-of-champs-elysees	Lights Of Champs-Elysees		female		https://www.fragrantica.com/perfume/Guerlain/Lights-Of-Champs-Elysees-2623.html				pending
-liu-6323	Liu		female		https://www.fragrantica.com/perfume/Guerlain/Liu-6323.html				pending
-lovely-cherry-blossom-gold-sparkles	Lovely Cherry Blossom Gold Sparkles		female		https://www.fragrantica.com/perfume/Guerlain/Lovely-Cherry-Blossom-Gold-Sparkles-2221.html				pending
-labeille-de-guerlain	L’Abeille de Guerlain		female		https://www.fragrantica.com/perfume/Guerlain/L-Abeille-de-Guerlain-11773.html				pending
-lautomne	L’Automne		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Automne-41072.html				pending
-leau-de-parfum-du-68	L’Eau de Parfum du 68		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Eau-de-Parfum-du-68-38810.html				pending
-lheure-bleue-extract	L’Heure Bleue Extract		female		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-Extract-33602.html				pending
-lhiver	L’Hiver		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Hiver-41073.html				pending
-mahora-extrait-de-parfum	Mahora Extrait de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Mahora-Extrait-de-Parfum-33610.html				pending
-marie-claire	Marie Claire		female		https://www.fragrantica.com/perfume/Guerlain/Marie-Claire-15487.html				pending
-mitsouko-absolu-17	Mitsouko Absolu 17		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Absolu-17-69874.html				pending
-mitsouko-eau-de-cologne	Mitsouko Eau de Cologne		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Eau-de-Cologne-52037.html				pending
-mitsouko-eau-de-parfum-25316	Mitsouko Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Eau-de-Parfum-25316.html				pending
-mitsouko-eau-de-toilette-207	Mitsouko Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Eau-de-Toilette-207.html				pending
-mitsouko-extract	Mitsouko Extract		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Extract-25317.html				pending
-mitsouko-fleur-de-lotus	Mitsouko Fleur de Lotus		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Fleur-de-Lotus-5791.html				pending
-mitsouko-limited-edition-2019	Mitsouko Limited Edition 2019		female		https://www.fragrantica.com/perfume/Guerlain/Mitsouko-Limited-Edition-2019-55513.html				pending
-mon-guerlain-extrait	Mon Guerlain Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Extrait-58627.html				pending
-mon-guerlain-hair-mist	Mon Guerlain Hair Mist		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Hair-Mist-65938.html				pending
-mon-guerlain-limited-edition-2018	Mon Guerlain Limited Edition 2018		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Limited-Edition-2018-56262.html				pending
-mon-guerlain-limited-edition-2019	Mon Guerlain Limited Edition 2019		female		https://www.fragrantica.com/perfume/Guerlain/Mon-Guerlain-Limited-Edition-2019-55748.html				pending
-mouchoir-de-monsieur	Mouchoir de Monsieur		male		https://www.fragrantica.com/perfume/Guerlain/Mouchoir-de-Monsieur-3943.html				pending
-muguet-original	Muguet (original)		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-original-37331.html				pending
-muguet-1998	Muguet 1998		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-1998-37332.html				pending
-muguet-2011	Muguet 2011		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2011-12506.html				pending
-muguet-2012	Muguet 2012		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2012-25268.html				pending
-muguet-2015	Muguet 2015		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2015-31119.html				pending
-muguet-2016	Muguet 2016		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2016-37330.html				pending
-muguet-2017	Muguet 2017		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2017-43598.html				pending
-muguet-2024	Muguet 2024		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-2024-91439.html				pending
-muguet-millesime-2018	Muguet Millésime 2018		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2018-49316.html				pending
-muguet-millesime-2019	Muguet Millésime 2019		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2019-54748.html				pending
-muguet-millesime-2020	Muguet Millésime 2020		unisex		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2020-60495.html				pending
-muguet-millesime-2022	Muguet Millésime 2022		female		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2022-76846.html				pending
-nahema	Nahema		female		https://www.fragrantica.com/perfume/Guerlain/Nahema-46.html				pending
-nahema-extract	Nahéma Extract		female		https://www.fragrantica.com/perfume/Guerlain/Nahema-Extract-33609.html				pending
-neroli-outrenoir-2024	Néroli Outrenoir (2024)		unisex		https://www.fragrantica.com/perfume/Guerlain/Neroli-Outrenoir-2024-89177.html				pending
-ode	Ode		female		https://www.fragrantica.com/perfume/Guerlain/Ode-22958.html				pending
-oud-sensuel	Oud Sensuel		male		https://www.fragrantica.com/perfume/Guerlain/Oud-Sensuel-38414.html				pending
-parure	Parure		female		https://www.fragrantica.com/perfume/Guerlain/Parure-47.html				pending
-petit-guerlain	Petit Guerlain		unisex		https://www.fragrantica.com/perfume/Guerlain/Petit-Guerlain-2620.html				pending
-prima-ballerina	Prima Ballerina		female		https://www.fragrantica.com/perfume/Guerlain/Prima-Ballerina-41453.html				pending
-quand-vient-la-pluie-extrait-de-parfum	Quand Vient La Pluie Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Guerlain/Quand-Vient-La-Pluie-Extrait-de-Parfum-33611.html				pending
-reve-de-lune	Reve de Lune		female		https://www.fragrantica.com/perfume/Guerlain/Reve-de-Lune-16734.html				pending
-rose-barbare-eau-de-parfum	Rose Barbare Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Rose-Barbare-Eau-de-Parfum-34341.html				pending
-royal-extract-ii	Royal Extract II		unisex		https://www.fragrantica.com/perfume/Guerlain/Royal-Extract-II-60616.html				pending
-rue-de-la-paix	Rue de la Paix		female		https://www.fragrantica.com/perfume/Guerlain/Rue-de-la-Paix-38805.html				pending
-samsara-eau-de-parfum-55	Samsara Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Eau-de-Parfum-55.html				pending
-samsara-eau-de-toilette-25315	Samsara Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Eau-de-Toilette-25315.html				pending
-samsara-extrait	Samsara Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Extrait-25318.html				pending
-samsara-rosee-parfumee-rafraichissante	Samsara Rosée Parfumée Rafraichissante		female		https://www.fragrantica.com/perfume/Guerlain/Samsara-Rosee-Parfumee-Rafraichissante-70998.html				pending
-shalimar-80th-anniversary-limited-edition	Shalimar 80th Anniversary Limited Edition		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-80th-Anniversary-Limited-Edition-41857.html				pending
-shalimar-eau-de-cologne	Shalimar Eau de Cologne		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Eau-de-Cologne-16028.html				pending
-shalimar-eau-de-parfum	Shalimar Eau de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Eau-de-Parfum-53.html				pending
-shalimar-eau-de-toilette	Shalimar Eau de Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Eau-de-Toilette-33934.html				pending
-shalimar-extrait	Shalimar Extrait		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Extrait-34339.html				pending
-shalimar-indes-and-merveilles	Shalimar Indes & Merveilles		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Indes-Merveilles-22579.html				pending
-shalimar-indian-nights-by-maison-gripoix	Shalimar Indian Nights by Maison Gripoix		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Indian-Nights-by-Maison-Gripoix-28975.html				pending
-shalimar-parfum	Shalimar Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Parfum-33557.html				pending
-shalimar-parfum-initial-a-fleur-de-peau	Shalimar Parfum Initial A Fleur de Peau		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Parfum-Initial-A-Fleur-de-Peau-16733.html				pending
-shalimar-secret-de-parfum	Shalimar Secret de Parfum		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Secret-de-Parfum-35670.html				pending
-shalimar-souffle-de-parfum-2018	Shalimar Souffle de Parfum 2018		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Souffle-de-Parfum-2018-51921.html				pending
-shalimar-talisman-byzantin	Shalimar Talisman Byzantin		female		https://www.fragrantica.com/perfume/Guerlain/Shalimar-Talisman-Byzantin-16732.html				pending
-shiny-cherry-blossom	Shiny Cherry Blossom		female		https://www.fragrantica.com/perfume/Guerlain/Shiny-Cherry-Blossom-2613.html				pending
-sous-le-vent	Sous le Vent		female		https://www.fragrantica.com/perfume/Guerlain/Sous-le-Vent-5400.html				pending
-terracotta-voile-dete-no-25-quand-vient-lete	Terracotta Voile d'Été (No.25, Quand Vient l'Été)		female		https://www.fragrantica.com/perfume/Guerlain/Terracotta-Voile-d-Ete-No-25-Quand-Vient-l-Ete-2615.html				pending
-too-much-champs-elysees-vital-sensations	Too Much Champs Elysees Vital Sensations		unisex		https://www.fragrantica.com/perfume/Guerlain/Too-Much-Champs-Elysees-Vital-Sensations-35855.html				pending
-un-air-de-samsara	Un Air de Samsara		female		https://www.fragrantica.com/perfume/Guerlain/Un-Air-de-Samsara-3826.html				pending
-une-rose	Une Rose		female		https://www.fragrantica.com/perfume/Guerlain/Une-Rose-75143.html				pending
-vega	Vega		female		https://www.fragrantica.com/perfume/Guerlain/Vega-10883.html				pending
-vetiver-vintage-edition	Vetiver (Vintage Edition)		male		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Vintage-Edition-3827.html				pending
 voilette-de-madame	Voilette de Madame		female		https://www.fragrantica.com/perfume/Guerlain/Voilette-de-Madame-11305.html				pending
 vol-de-nuit	Vol de Nuit		female		https://www.fragrantica.com/perfume/Guerlain/Vol-de-Nuit-49.html				pending
 vol-de-nuit-80-anniversaire	Vol de Nuit 80 Anniversaire		female		https://www.fragrantica.com/perfume/Guerlain/Vol-de-Nuit-80-Anniversaire-22578.html				pending
+vol-de-nuit-eau-de-toilette	Vol De Nuit Eau De Toilette		female		https://www.fragrantica.com/perfume/Guerlain/Vol-De-Nuit-Eau-De-Toilette-65154.html				pending
+vol-de-nuit-evasion	Vol de Nuit Evasion		female		https://www.fragrantica.com/perfume/Guerlain/Vol-de-Nuit-Evasion-1628.html				pending
 vol-de-nuit-extract	Vol de Nuit Extract		female		https://www.fragrantica.com/perfume/Guerlain/Vol-de-Nuit-Extract-33631.html				pending
+vetiver-fauve	Vétiver Fauve		unisex		https://www.fragrantica.com/perfume/Guerlain/Vetiver-Fauve-108901.html				pending
+with-love	With Love		female		https://www.fragrantica.com/perfume/Guerlain/With-Love-2614.html				pending
 xian	Xi'an		unisex		https://www.fragrantica.com/perfume/Guerlain/Xi-an-65980.html				pending
-amour-celeste	Amour Céleste		unisex		https://www.fragrantica.com/perfume/Guerlain/Amour-Celeste-110510.html				pending
-amour-celeste-2026	Amour Céleste 2026		unisex		https://www.fragrantica.com/perfume/Guerlain/Amour-Celeste-2026-136212.html				pending
-aqua-allegoria-perle-rosa-rossa	Aqua Allegoria Perle Rosa Rossa		female		https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Perle-Rosa-Rossa-124381.html				pending
-atuana	Atuana		female		https://www.fragrantica.com/perfume/Guerlain/Atuana-128204.html				pending
-beau-rivage-palace	Beau Rivage Palace		unisex		https://www.fragrantica.com/perfume/Guerlain/Beau-Rivage-Palace-130977.html				pending
-cherry-blossom-2026-millesime-swarovski	Cherry Blossom 2026 Millésime Swarovski		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-2026-Millesime-Swarovski-133895.html				pending
-cherry-blossom-millesime-2025	Cherry Blossom Millésime 2025		female		https://www.fragrantica.com/perfume/Guerlain/Cherry-Blossom-Millesime-2025-102980.html				pending
-cheval-blanc	Cheval Blanc		unisex		https://www.fragrantica.com/perfume/Guerlain/Cheval-Blanc-98237.html				pending
-cheval-blanc-st-tropez	Cheval Blanc St.Tropez		unisex		https://www.fragrantica.com/perfume/Guerlain/Cheval-Blanc-St-Tropez-113887.html				pending
-cuir-beluga-hair-mist	Cuir Béluga Hair Mist		unisex		https://www.fragrantica.com/perfume/Guerlain/Cuir-Beluga-Hair-Mist-113428.html				pending
-imagine-guerlain-by-geraldine-gonzalez	Imagine Guerlain by Géraldine Gonzalez		unisex		https://www.fragrantica.com/perfume/Guerlain/Imagine-Guerlain-by-Geraldine-Gonzalez-123330.html				pending
-jardin-de-lelysee	Jardin de l'Élysée		unisex		https://www.fragrantica.com/perfume/Guerlain/Jardin-de-l-Elysee-129308.html				pending
-lheure-doree-2026	L'Heure Dorée 2026		unisex		https://www.fragrantica.com/perfume/Guerlain/L-Heure-Doree-2026-123329.html				pending
-muguet-millesime-2025	Muguet Millésime 2025		unisex		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2025-106101.html				pending
-muguet-millesime-2026	Muguet Millésime 2026		unisex		https://www.fragrantica.com/perfume/Guerlain/Muguet-Millesime-2026-136920.html				pending
-musc-outreblanc-hair-mist	Musc Outreblanc Hair Mist		unisex		https://www.fragrantica.com/perfume/Guerlain/Musc-Outreblanc-Hair-Mist-113427.html				pending
-no-25	No. 25		female		https://www.fragrantica.com/perfume/Guerlain/No-25-106260.html				pending
-neroli-outrenoir-hair-mist	Néroli Outrenoir Hair Mist		unisex		https://www.fragrantica.com/perfume/Guerlain/Neroli-Outrenoir-Hair-Mist-113426.html				pending
-rouge-bonheur-2025-millesime	Rouge Bonheur 2025 Millésime		unisex		https://www.fragrantica.com/perfume/Guerlain/Rouge-Bonheur-2025-Millesime-101371.html				pending
-rouge-bonheur-2026-millesime	Rouge Bonheur 2026 Millésime		unisex		https://www.fragrantica.com/perfume/Guerlain/Rouge-Bonheur-2026-Millesime-122063.html				pending
-royal-extract-iii	Royal Extract III		female		https://www.fragrantica.com/perfume/Guerlain/Royal-Extract-III-117104.html				pending
-santal-royal-hair-mist	Santal Royal Hair Mist		unisex		https://www.fragrantica.com/perfume/Guerlain/Santal-Royal-Hair-Mist-96474.html				pending
-souvenir-dorchidee	Souvenir d'Orchidée		female		https://www.fragrantica.com/perfume/Guerlain/Souvenir-d-Orchidee-98371.html				pending
+epices-exquises	Épices Exquises		unisex		https://www.fragrantica.com/perfume/Guerlain/Epices-Exquises-96473.html				pending
+epices-volees	Épices Volées		unisex		https://www.fragrantica.com/perfume/Guerlain/Epices-Volees-69276.html				pending

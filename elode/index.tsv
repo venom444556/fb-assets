@@ -1,6 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-j-aime	J´Aime		female		https://www.fragrantica.com/perfume/Elode/J-Aime-54907.html				pending
-woman	Woman		female		https://www.fragrantica.com/perfume/Elode/Woman-54909.html				pending
 bliss	Bliss		female		https://www.fragrantica.com/perfume/Elode/Bliss-33033.html				pending
 blossom	Blossom		female		https://www.fragrantica.com/perfume/Elode/Blossom-47730.html				pending
 clarie	Clarie		female		https://www.fragrantica.com/perfume/Elode/Clarie-54908.html				pending
@@ -8,5 +6,7 @@ enigmatic	Enigmatic		female		https://www.fragrantica.com/perfume/Elode/Enigmatic
 essence-dor	Essence d’Or		female		https://www.fragrantica.com/perfume/Elode/Essence-d-Or-33031.html				pending
 inner-code	Inner Code		female		https://www.fragrantica.com/perfume/Elode/Inner-Code-33034.html				pending
 je-veux	Je Veux		unisex		https://www.fragrantica.com/perfume/Elode/Je-Veux-33982.html				pending
+j-aime	J´Aime		female		https://www.fragrantica.com/perfume/Elode/J-Aime-54907.html				pending
 so-lovely	So Lovely		female		https://www.fragrantica.com/perfume/Elode/So-Lovely-33030.html				pending
 touch	Touch		female		https://www.fragrantica.com/perfume/Elode/Touch-33032.html				pending
+woman	Woman		female		https://www.fragrantica.com/perfume/Elode/Woman-54909.html				pending

@@ -1,9 +1,23 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 sequence	Sequence		unisex	watchlist	https://www.fragrantica.com/perfume/Amouage/Sequence-121884.html	amouage/unisex/sequence.png	https://cdn.shopify.com/s/files/1/0823/5099/7796/files/Amouage_Essences_Commercial_2048x2048px4.jpg?v=1763631435	https://raw.githubusercontent.com/venom444556/fb-assets/main/amouage/unisex/sequence.png	passed
+afrah	Afrah		unisex		https://www.fragrantica.com/perfume/Amouage/Afrah-13480.html				pending
 ajwad	Ajwad		unisex		https://www.fragrantica.com/perfume/Amouage/Ajwad-20490.html				pending
+al-andalus	Al Andalus		female		https://www.fragrantica.com/perfume/Amouage/Al-Andalus-13481.html				pending
 al-mas	Al Mas		unisex		https://www.fragrantica.com/perfume/Amouage/Al-Mas-20488.html				pending
+al-shomoukh	Al Shomoukh		female		https://www.fragrantica.com/perfume/Amouage/Al-Shomoukh-13482.html				pending
+amanie	Amanie		female		https://www.fragrantica.com/perfume/Amouage/Amanie-53245.html				pending
+amber	Amber		unisex		https://www.fragrantica.com/perfume/Amouage/Amber-20489.html				pending
+amber-sogara	Amber Sogara		unisex		https://www.fragrantica.com/perfume/Amouage/Amber-Sogara-81279.html				pending
 arcus	Arcus		male		https://www.fragrantica.com/perfume/Amouage/Arcus-5760.html				pending
+asana	Asana		unisex		https://www.fragrantica.com/perfume/Amouage/Asana-32883.html				pending
 ashore	Ashore		unisex		https://www.fragrantica.com/perfume/Amouage/Ashore-62858.html				pending
+asrar	Asrar		unisex		https://www.fragrantica.com/perfume/Amouage/Asrar-13483.html				pending
+attar-al-jawhar	Attar Al Jawhar		unisex		https://www.fragrantica.com/perfume/Amouage/Attar-Al-Jawhar-69087.html				pending
+attar-bashair	Attar Bashair		unisex		https://www.fragrantica.com/perfume/Amouage/Attar-Bashair-69088.html				pending
+ayoon-al-maha	Ayoon Al Maha		female		https://www.fragrantica.com/perfume/Amouage/Ayoon-Al-Maha-13484.html				pending
+badr-al-badour	Badr Al Badour		unisex		https://www.fragrantica.com/perfume/Amouage/Badr-Al-Badour-13485.html				pending
+bahjah	Bahjah		unisex		https://www.fragrantica.com/perfume/Amouage/Bahjah-13486.html				pending
+basmah	Basmah		unisex		https://www.fragrantica.com/perfume/Amouage/Basmah-13488.html				pending
 beach-hut-man	Beach Hut Man		male		https://www.fragrantica.com/perfume/Amouage/Beach-Hut-Man-46336.html				pending
 beach-hut-woman	Beach Hut Woman		female		https://www.fragrantica.com/perfume/Amouage/Beach-Hut-Woman-46937.html				pending
 beloved-man	Beloved Man		male		https://www.fragrantica.com/perfume/Amouage/Beloved-Man-17726.html				pending
@@ -15,6 +29,8 @@ bracken-woman	Bracken Woman		female		https://www.fragrantica.com/perfume/Amouage
 ciel-pour-femme	Ciel Pour Femme		female		https://www.fragrantica.com/perfume/Amouage/Ciel-Pour-Femme-5466.html				pending
 ciel-pour-homme	Ciel Pour Homme		male		https://www.fragrantica.com/perfume/Amouage/Ciel-Pour-Homme-5467.html				pending
 crimson-rocks	Crimson Rocks		unisex		https://www.fragrantica.com/perfume/Amouage/Crimson-Rocks-62857.html				pending
+cristal-and-gold-man	Cristal & Gold Man		male		https://www.fragrantica.com/perfume/Amouage/Cristal-Gold-Man-88160.html				pending
+cristal-and-gold-woman	Cristal & Gold Woman		female		https://www.fragrantica.com/perfume/Amouage/Cristal-Gold-Woman-88159.html				pending
 decision	Decision		unisex		https://www.fragrantica.com/perfume/Amouage/Decision-103892.html				pending
 decision-42-man	Decision 42 Man		male		https://www.fragrantica.com/perfume/Amouage/Decision-42-Man-140466.html				pending
 dia-40-woman	Dia 40 Woman		female		https://www.fragrantica.com/perfume/Amouage/Dia-40-Woman-87957.html				pending
@@ -32,8 +48,11 @@ fate-man	Fate Man		male		https://www.fragrantica.com/perfume/Amouage/Fate-Man-18
 fate-woman	Fate Woman		female		https://www.fragrantica.com/perfume/Amouage/Fate-Woman-18542.html				pending
 figment-man	Figment Man		male		https://www.fragrantica.com/perfume/Amouage/Figment-Man-45292.html				pending
 figment-woman	Figment Woman		female		https://www.fragrantica.com/perfume/Amouage/Figment-Woman-45291.html				pending
+gold-man	Gold Man		male		https://www.fragrantica.com/perfume/Amouage/Gold-Man-918.html				pending
+gold-woman	Gold Woman		female		https://www.fragrantica.com/perfume/Amouage/Gold-Woman-917.html				pending
 guidance	Guidance		unisex		https://www.fragrantica.com/perfume/Amouage/Guidance-78656.html				pending
 guidance-46	Guidance 46		unisex		https://www.fragrantica.com/perfume/Amouage/Guidance-46-94033.html				pending
+guidance-hair-perfume	Guidance Hair Perfume		unisex		https://www.fragrantica.com/perfume/Amouage/Guidance-Hair-Perfume-116529.html				pending
 homage	Homage		unisex		https://www.fragrantica.com/perfume/Amouage/Homage-3621.html				pending
 honour-43-woman	Honour 43 Woman		female		https://www.fragrantica.com/perfume/Amouage/Honour-43-Woman-69701.html				pending
 honour-man	Honour Man		male		https://www.fragrantica.com/perfume/Amouage/Honour-Man-12763.html				pending
@@ -45,11 +64,13 @@ interlude-53-man	Interlude 53 Man		male		https://www.fragrantica.com/perfume/Amo
 interlude-black-iris	Interlude Black Iris		unisex		https://www.fragrantica.com/perfume/Amouage/Interlude-Black-Iris-60929.html				pending
 interlude-man	Interlude Man		male		https://www.fragrantica.com/perfume/Amouage/Interlude-Man-15294.html				pending
 interlude-woman	Interlude Woman		female		https://www.fragrantica.com/perfume/Amouage/Interlude-Woman-15295.html				pending
+jasmine	Jasmine		unisex		https://www.fragrantica.com/perfume/Amouage/Jasmine-41045.html				pending
 journey-man	Journey Man		male		https://www.fragrantica.com/perfume/Amouage/Journey-Man-25251.html				pending
 journey-woman	Journey Woman		female		https://www.fragrantica.com/perfume/Amouage/Journey-Woman-25252.html				pending
 jubilation-25-woman	Jubilation 25 Woman		female		https://www.fragrantica.com/perfume/Amouage/Jubilation-25-Woman-2367.html				pending
 jubilation-40-man	Jubilation 40 Man		male		https://www.fragrantica.com/perfume/Amouage/Jubilation-40-Man-87958.html				pending
 jubilation-xxv-man	Jubilation XXV Man		male		https://www.fragrantica.com/perfume/Amouage/Jubilation-XXV-Man-2366.html				pending
+leather-sadah	Leather Sadah		unisex		https://www.fragrantica.com/perfume/Amouage/Leather-Sadah-71107.html				pending
 lilac-love	Lilac Love		female		https://www.fragrantica.com/perfume/Amouage/Lilac-Love-35624.html				pending
 line-618	Line 618		unisex		https://www.fragrantica.com/perfume/Amouage/Line-618-121882.html				pending
 lineage	Lineage		unisex		https://www.fragrantica.com/perfume/Amouage/Lineage-78654.html				pending
@@ -61,12 +82,17 @@ luban-al-akhdar	Luban Al Akhdar		unisex		https://www.fragrantica.com/perfume/Amo
 lustre	Lustre		unisex		https://www.fragrantica.com/perfume/Amouage/Lustre-97927.html				pending
 lyric-man	Lyric Man		male		https://www.fragrantica.com/perfume/Amouage/Lyric-Man-4622.html				pending
 lyric-woman	Lyric Woman		female		https://www.fragrantica.com/perfume/Amouage/Lyric-Woman-4623.html				pending
+majan	Majan		unisex		https://www.fragrantica.com/perfume/Amouage/Majan-13474.html				pending
 material	Material		unisex		https://www.fragrantica.com/perfume/Amouage/Material-66527.html				pending
+mawaddah	Mawaddah		unisex		https://www.fragrantica.com/perfume/Amouage/Mawaddah-26409.html				pending
 meander	Meander		unisex		https://www.fragrantica.com/perfume/Amouage/Meander-62859.html				pending
 memoir-man	Memoir Man		male		https://www.fragrantica.com/perfume/Amouage/Memoir-Man-10145.html				pending
 memoir-woman	Memoir Woman		female		https://www.fragrantica.com/perfume/Amouage/Memoir-Woman-10146.html				pending
+molook	Molook		male		https://www.fragrantica.com/perfume/Amouage/Molook-13475.html				pending
+musk-abyadh	Musk Abyadh		unisex		https://www.fragrantica.com/perfume/Amouage/Musk-Abyadh-13476.html				pending
 myths-man	Myths Man		male		https://www.fragrantica.com/perfume/Amouage/Myths-Man-38259.html				pending
 myths-woman	Myths Woman		female		https://www.fragrantica.com/perfume/Amouage/Myths-Woman-38260.html				pending
+ohood	Ohood		unisex		https://www.fragrantica.com/perfume/Amouage/Ohood-13477.html				pending
 opus-v-woods-symphony	Opus V – Woods Symphony		unisex		https://www.fragrantica.com/perfume/Amouage/Opus-V-Woods-Symphony-74283.html				pending
 opus-vii-reckless-leather	Opus VII – Reckless Leather		unisex		https://www.fragrantica.com/perfume/Amouage/Opus-VII-Reckless-Leather-74284.html				pending
 opus-xii-rose-incense	Opus XII – Rose Incense		unisex		https://www.fragrantica.com/perfume/Amouage/Opus-XII-Rose-Incense-74282.html				pending
@@ -75,28 +101,43 @@ opus-xiv-royal-tobacco	Opus XIV – Royal Tobacco		unisex		https://www.fragranti
 opus-xv-king-blue	Opus XV – King Blue		unisex		https://www.fragrantica.com/perfume/Amouage/Opus-XV-King-Blue-83394.html				pending
 opus-xvi-timber	Opus XVI – Timber		unisex		https://www.fragrantica.com/perfume/Amouage/Opus-XVI-Timber-112699.html				pending
 orris-wakan	Orris Wakan		unisex		https://www.fragrantica.com/perfume/Amouage/Orris-Wakan-71109.html				pending
+oud-kumzar	Oud Kumzar		unisex		https://www.fragrantica.com/perfume/Amouage/Oud-Kumzar-92554.html				pending
 oud-ulya	Oud Ulya		unisex		https://www.fragrantica.com/perfume/Amouage/Oud-Ulya-71108.html				pending
 oud-zuhal	Oud Zuhal		unisex		https://www.fragrantica.com/perfume/Amouage/Oud-Zuhal-125753.html				pending
+oudh-al-khaloud	Oudh Al Khaloud		unisex		https://www.fragrantica.com/perfume/Amouage/Oudh-Al-Khaloud-13478.html				pending
 outlands	Outlands		unisex		https://www.fragrantica.com/perfume/Amouage/Outlands-97924.html				pending
+overture-41-woman	Overture 41 Woman		female		https://www.fragrantica.com/perfume/Amouage/Overture-41-Woman-140465.html				pending
 overture-man	Overture Man		male		https://www.fragrantica.com/perfume/Amouage/Overture-Man-55859.html				pending
 overture-woman	Overture Woman		female		https://www.fragrantica.com/perfume/Amouage/Overture-Woman-62331.html				pending
 portrayal-man	Portrayal Man		male		https://www.fragrantica.com/perfume/Amouage/Portrayal-Man-54460.html				pending
 portrayal-woman	Portrayal Woman		female		https://www.fragrantica.com/perfume/Amouage/Portrayal-Woman-54459.html				pending
 purpose	Purpose		unisex		https://www.fragrantica.com/perfume/Amouage/Purpose-78657.html				pending
 purpose-50	Purpose 50		unisex		https://www.fragrantica.com/perfume/Amouage/Purpose-50-100897.html				pending
+purpose-50-royal-drop	Purpose 50 Royal Drop		unisex		https://www.fragrantica.com/perfume/Amouage/Purpose-50-Royal-Drop-118476.html				pending
 reasons	Reasons		unisex		https://www.fragrantica.com/perfume/Amouage/Reasons-97925.html				pending
 reception	Reception		unisex		https://www.fragrantica.com/perfume/Amouage/Reception-110438.html				pending
 reflection-45-man	Reflection 45 Man		male		https://www.fragrantica.com/perfume/Amouage/Reflection-45-Man-69488.html				pending
 reflection-man	Reflection Man		male		https://www.fragrantica.com/perfume/Amouage/Reflection-Man-920.html				pending
 reflection-woman	Reflection Woman		female		https://www.fragrantica.com/perfume/Amouage/Reflection-Woman-919.html				pending
 remain	Remain		unisex		https://www.fragrantica.com/perfume/Amouage/Remain-121883.html				pending
+rose	Rose		unisex		https://www.fragrantica.com/perfume/Amouage/Rose-20491.html				pending
 rose-aqor	Rose Aqor		unisex		https://www.fragrantica.com/perfume/Amouage/Rose-Aqor-71110.html				pending
+ruh-al-ward	Ruh Al Ward		female		https://www.fragrantica.com/perfume/Amouage/Ruh-Al-Ward-42663.html				pending
 saffron-hamra	Saffron Hamra		unisex		https://www.fragrantica.com/perfume/Amouage/Saffron-Hamra-71113.html				pending
+salamah	Salamah		unisex		https://www.fragrantica.com/perfume/Amouage/Salamah-26408.html				pending
+sandal	Sandal		unisex		https://www.fragrantica.com/perfume/Amouage/Sandal-13479.html				pending
+santal-sohar	Santal Sohar		unisex		https://www.fragrantica.com/perfume/Amouage/Santal-Sohar-81278.html				pending
 search	Search		unisex		https://www.fragrantica.com/perfume/Amouage/Search-78655.html				pending
+shams-al-doha	Shams Al Doha		unisex		https://www.fragrantica.com/perfume/Amouage/Shams-Al-Doha-13470.html				pending
+silver-cristal	Silver Cristal		female		https://www.fragrantica.com/perfume/Amouage/Silver-Cristal-43050.html				pending
 silver-man	Silver Man		male		https://www.fragrantica.com/perfume/Amouage/Silver-Man-1111.html				pending
 sindbad	Sindbad		unisex		https://www.fragrantica.com/perfume/Amouage/Sindbad-116626.html				pending
+suede-ibri	Suede Ibri		unisex		https://www.fragrantica.com/perfume/Amouage/Suede-Ibri-134788.html				pending
 sunshine-man	Sunshine Man		male		https://www.fragrantica.com/perfume/Amouage/Sunshine-Man-31619.html				pending
 sunshine-woman	Sunshine Woman		female		https://www.fragrantica.com/perfume/Amouage/Sunshine-Woman-28182.html				pending
+tahani	Tahani		unisex		https://www.fragrantica.com/perfume/Amouage/Tahani-20493.html				pending
+taifi-rose	Taifi Rose		unisex		https://www.fragrantica.com/perfume/Amouage/Taifi-Rose-20492.html				pending
+tayyiba	Tayyiba		unisex		https://www.fragrantica.com/perfume/Amouage/Tayyiba-13471.html				pending
 the-library-collection-opus-i	The Library Collection Opus I		unisex		https://www.fragrantica.com/perfume/Amouage/The-Library-Collection-Opus-I-9917.html				pending
 the-library-collection-opus-ii	The Library Collection Opus II		unisex		https://www.fragrantica.com/perfume/Amouage/The-Library-Collection-Opus-II-9920.html				pending
 the-library-collection-opus-iii	The Library Collection Opus III		unisex		https://www.fragrantica.com/perfume/Amouage/The-Library-Collection-Opus-III-9921.html				pending
@@ -110,48 +151,7 @@ the-library-collection-opus-x	The Library Collection Opus X		unisex		https://www
 the-library-collection-opus-xi	The Library Collection Opus XI		unisex		https://www.fragrantica.com/perfume/Amouage/The-Library-Collection-Opus-XI-52714.html				pending
 the-library-collection-rose-incense	The Library Collection Rose Incense		unisex		https://www.fragrantica.com/perfume/Amouage/The-Library-Collection-Rose-Incense-55759.html				pending
 the-library-collection-silver-oud	The Library Collection Silver Oud		unisex		https://www.fragrantica.com/perfume/Amouage/The-Library-Collection-Silver-Oud-69051.html				pending
-tribute	Tribute		unisex		https://www.fragrantica.com/perfume/Amouage/Tribute-7490.html				pending
-vanilla-barka	Vanilla Barka		unisex		https://www.fragrantica.com/perfume/Amouage/Vanilla-Barka-71111.html				pending
-afrah	Afrah		unisex		https://www.fragrantica.com/perfume/Amouage/Afrah-13480.html				pending
-al-andalus	Al Andalus		female		https://www.fragrantica.com/perfume/Amouage/Al-Andalus-13481.html				pending
-al-shomoukh	Al Shomoukh		female		https://www.fragrantica.com/perfume/Amouage/Al-Shomoukh-13482.html				pending
-amanie	Amanie		female		https://www.fragrantica.com/perfume/Amouage/Amanie-53245.html				pending
-amber	Amber		unisex		https://www.fragrantica.com/perfume/Amouage/Amber-20489.html				pending
-amber-sogara	Amber Sogara		unisex		https://www.fragrantica.com/perfume/Amouage/Amber-Sogara-81279.html				pending
-asana	Asana		unisex		https://www.fragrantica.com/perfume/Amouage/Asana-32883.html				pending
-asrar	Asrar		unisex		https://www.fragrantica.com/perfume/Amouage/Asrar-13483.html				pending
-attar-al-jawhar	Attar Al Jawhar		unisex		https://www.fragrantica.com/perfume/Amouage/Attar-Al-Jawhar-69087.html				pending
-attar-bashair	Attar Bashair		unisex		https://www.fragrantica.com/perfume/Amouage/Attar-Bashair-69088.html				pending
-ayoon-al-maha	Ayoon Al Maha		female		https://www.fragrantica.com/perfume/Amouage/Ayoon-Al-Maha-13484.html				pending
-badr-al-badour	Badr Al Badour		unisex		https://www.fragrantica.com/perfume/Amouage/Badr-Al-Badour-13485.html				pending
-bahjah	Bahjah		unisex		https://www.fragrantica.com/perfume/Amouage/Bahjah-13486.html				pending
-basmah	Basmah		unisex		https://www.fragrantica.com/perfume/Amouage/Basmah-13488.html				pending
-cristal-and-gold-man	Cristal & Gold Man		male		https://www.fragrantica.com/perfume/Amouage/Cristal-Gold-Man-88160.html				pending
-cristal-and-gold-woman	Cristal & Gold Woman		female		https://www.fragrantica.com/perfume/Amouage/Cristal-Gold-Woman-88159.html				pending
-gold-man	Gold Man		male		https://www.fragrantica.com/perfume/Amouage/Gold-Man-918.html				pending
-gold-woman	Gold Woman		female		https://www.fragrantica.com/perfume/Amouage/Gold-Woman-917.html				pending
-jasmine	Jasmine		unisex		https://www.fragrantica.com/perfume/Amouage/Jasmine-41045.html				pending
-leather-sadah	Leather Sadah		unisex		https://www.fragrantica.com/perfume/Amouage/Leather-Sadah-71107.html				pending
-majan	Majan		unisex		https://www.fragrantica.com/perfume/Amouage/Majan-13474.html				pending
-mawaddah	Mawaddah		unisex		https://www.fragrantica.com/perfume/Amouage/Mawaddah-26409.html				pending
-molook	Molook		male		https://www.fragrantica.com/perfume/Amouage/Molook-13475.html				pending
-musk-abyadh	Musk Abyadh		unisex		https://www.fragrantica.com/perfume/Amouage/Musk-Abyadh-13476.html				pending
-ohood	Ohood		unisex		https://www.fragrantica.com/perfume/Amouage/Ohood-13477.html				pending
-oud-kumzar	Oud Kumzar		unisex		https://www.fragrantica.com/perfume/Amouage/Oud-Kumzar-92554.html				pending
-oudh-al-khaloud	Oudh Al Khaloud		unisex		https://www.fragrantica.com/perfume/Amouage/Oudh-Al-Khaloud-13478.html				pending
-rose	Rose		unisex		https://www.fragrantica.com/perfume/Amouage/Rose-20491.html				pending
-ruh-al-ward	Ruh Al Ward		female		https://www.fragrantica.com/perfume/Amouage/Ruh-Al-Ward-42663.html				pending
-salamah	Salamah		unisex		https://www.fragrantica.com/perfume/Amouage/Salamah-26408.html				pending
-sandal	Sandal		unisex		https://www.fragrantica.com/perfume/Amouage/Sandal-13479.html				pending
-santal-sohar	Santal Sohar		unisex		https://www.fragrantica.com/perfume/Amouage/Santal-Sohar-81278.html				pending
-shams-al-doha	Shams Al Doha		unisex		https://www.fragrantica.com/perfume/Amouage/Shams-Al-Doha-13470.html				pending
-silver-cristal	Silver Cristal		female		https://www.fragrantica.com/perfume/Amouage/Silver-Cristal-43050.html				pending
-tahani	Tahani		unisex		https://www.fragrantica.com/perfume/Amouage/Tahani-20493.html				pending
-taifi-rose	Taifi Rose		unisex		https://www.fragrantica.com/perfume/Amouage/Taifi-Rose-20492.html				pending
-tayyiba	Tayyiba		unisex		https://www.fragrantica.com/perfume/Amouage/Tayyiba-13471.html				pending
-ubar	Ubar		female		https://www.fragrantica.com/perfume/Amouage/Ubar-6153.html				pending
-guidance-hair-perfume	Guidance Hair Perfume		unisex		https://www.fragrantica.com/perfume/Amouage/Guidance-Hair-Perfume-116529.html				pending
-overture-41-woman	Overture 41 Woman		female		https://www.fragrantica.com/perfume/Amouage/Overture-41-Woman-140465.html				pending
-purpose-50-royal-drop	Purpose 50 Royal Drop		unisex		https://www.fragrantica.com/perfume/Amouage/Purpose-50-Royal-Drop-118476.html				pending
-suede-ibri	Suede Ibri		unisex		https://www.fragrantica.com/perfume/Amouage/Suede-Ibri-134788.html				pending
 tonka-misfah	Tonka Misfah		unisex		https://www.fragrantica.com/perfume/Amouage/Tonka-Misfah-134787.html				pending
+tribute	Tribute		unisex		https://www.fragrantica.com/perfume/Amouage/Tribute-7490.html				pending
+ubar	Ubar		female		https://www.fragrantica.com/perfume/Amouage/Ubar-6153.html				pending
+vanilla-barka	Vanilla Barka		unisex		https://www.fragrantica.com/perfume/Amouage/Vanilla-Barka-71111.html				pending

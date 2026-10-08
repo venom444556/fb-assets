@@ -1,8 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-lui	Lui		male		https://www.fragrantica.com/perfume/Mazzolari/Lui-9656.html				pending
-nero	Nero		male		https://www.fragrantica.com/perfume/Mazzolari/Nero-26256.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Mazzolari/Patchouli-9660.html				pending
-vaniglia	Vaniglia		unisex		https://www.fragrantica.com/perfume/Mazzolari/Vaniglia-26262.html				pending
 africa	Africa		unisex		https://www.fragrantica.com/perfume/Mazzolari/Africa-79003.html				pending
 alchemico	Alchemico		unisex		https://www.fragrantica.com/perfume/Mazzolari/Alchemico-34659.html				pending
 alessandro	Alessandro		unisex		https://www.fragrantica.com/perfume/Mazzolari/Alessandro-9652.html				pending
@@ -22,6 +18,7 @@ hartley	Hartley		unisex		https://www.fragrantica.com/perfume/Mazzolari/Hartley-9
 herion	Herion		unisex		https://www.fragrantica.com/perfume/Mazzolari/Herion-78995.html				pending
 le-rose	Le Rose		female		https://www.fragrantica.com/perfume/Mazzolari/Le-Rose-24796.html				pending
 lei	Lei		female		https://www.fragrantica.com/perfume/Mazzolari/Lei-9655.html				pending
+lui	Lui		male		https://www.fragrantica.com/perfume/Mazzolari/Lui-9656.html				pending
 marina	Marina		female		https://www.fragrantica.com/perfume/Mazzolari/Marina-9657.html				pending
 matteo	Matteo		unisex		https://www.fragrantica.com/perfume/Mazzolari/Matteo-79002.html				pending
 mazzolari	Mazzolari		male		https://www.fragrantica.com/perfume/Mazzolari/Mazzolari-9658.html				pending
@@ -29,16 +26,19 @@ monforte-2	Monforte 2		unisex		https://www.fragrantica.com/perfume/Mazzolari/Mon
 mughetto	Mughetto		unisex		https://www.fragrantica.com/perfume/Mazzolari/Mughetto-79005.html				pending
 mughetto-essenza-in-olio	Mughetto Essenza in Olio		unisex		https://www.fragrantica.com/perfume/Mazzolari/Mughetto-Essenza-in-Olio-79004.html				pending
 musk	Musk		unisex		https://www.fragrantica.com/perfume/Mazzolari/Musk-9659.html				pending
+nero	Nero		male		https://www.fragrantica.com/perfume/Mazzolari/Nero-26256.html				pending
 nero-vetiver	Nero Vetiver		unisex		https://www.fragrantica.com/perfume/Mazzolari/Nero-Vetiver-78998.html				pending
 neroli	Neroli		unisex		https://www.fragrantica.com/perfume/Mazzolari/Neroli-79009.html				pending
 opera	Opera		unisex		https://www.fragrantica.com/perfume/Mazzolari/Opera-78996.html				pending
 oriente	Oriente		unisex		https://www.fragrantica.com/perfume/Mazzolari/Oriente-34661.html				pending
 oud	Oud		unisex		https://www.fragrantica.com/perfume/Mazzolari/Oud-34662.html				pending
+patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Mazzolari/Patchouli-9660.html				pending
 riccardo	Riccardo		unisex		https://www.fragrantica.com/perfume/Mazzolari/Riccardo-79006.html				pending
 rosso	Rosso		unisex		https://www.fragrantica.com/perfume/Mazzolari/Rosso-79010.html				pending
 s-margherita-ligure	S. Margherita Ligure		unisex		https://www.fragrantica.com/perfume/Mazzolari/S-Margherita-Ligure-79012.html				pending
 sabina	Sabina		unisex		https://www.fragrantica.com/perfume/Mazzolari/Sabina-79001.html				pending
 san-babila	San Babila		unisex		https://www.fragrantica.com/perfume/Mazzolari/San-Babila-79011.html				pending
 sofia	Sofia		female		https://www.fragrantica.com/perfume/Mazzolari/Sofia-24799.html				pending
+vaniglia	Vaniglia		unisex		https://www.fragrantica.com/perfume/Mazzolari/Vaniglia-26262.html				pending
 vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/Mazzolari/Vetiver-9661.html				pending
 zagara	Zagara		female		https://www.fragrantica.com/perfume/Mazzolari/Zagara-9662.html				pending

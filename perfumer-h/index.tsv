@@ -1,30 +1,23 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-charcoal	Charcoal		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Charcoal-44868.html				pending
-dandelion	Dandelion		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Dandelion-92043.html				pending
-dust	Dust		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Dust-75598.html				pending
-fig	Fig		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Fig-91566.html				pending
-heliotrope	Heliotrope		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Heliotrope-36263.html				pending
-incense-water	Incense Water		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Incense-Water-92040.html				pending
-ink	Ink		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Ink-36269.html				pending
-moss	Moss		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Moss-36264.html				pending
-rain-cloud	Rain Cloud		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Rain-Cloud-36265.html				pending
-rain-wood	Rain Wood		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Rain-Wood-84776.html				pending
-rhubarb	Rhubarb		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Rhubarb-84737.html				pending
-salt	Salt		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Salt-62965.html				pending
-smoke	Smoke		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Smoke-70630.html				pending
-steam	Steam		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Steam-106469.html				pending
-white-smoke	White Smoke		unisex		https://www.fragrantica.com/perfume/Perfumer-H/White-Smoke-75599.html				pending
 angelica	Angelica		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Angelica-92050.html				pending
 atlas	Atlas		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Atlas-36266.html				pending
 bergamot	Bergamot		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Bergamot-84741.html				pending
+charcoal	Charcoal		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Charcoal-44868.html				pending
 cologne	Cologne		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Cologne-36214.html				pending
 cucumber	Cucumber		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Cucumber-62963.html				pending
+dandelion	Dandelion		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Dandelion-92043.html				pending
+dust	Dust		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Dust-75598.html				pending
+fig	Fig		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Fig-91566.html				pending
 flower-no-1	Flower No.1		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Flower-No-1-92048.html				pending
 gold	Gold		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Gold-92038.html				pending
 green	Green		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Green-36272.html				pending
+heliotrope	Heliotrope		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Heliotrope-36263.html				pending
+incense-water	Incense Water		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Incense-Water-92040.html				pending
 indian-wood	Indian Wood		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Indian-Wood-84739.html				pending
+ink	Ink		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Ink-36269.html				pending
 leather	Leather		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Leather-36262.html				pending
 lemon-tree	Lemon Tree		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Lemon-Tree-92044.html				pending
+moss	Moss		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Moss-36264.html				pending
 musk	Musk		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Musk-36267.html				pending
 neroli	Neroli		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Neroli-92045.html				pending
 orange-leaf	Orange Leaf		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Orange-Leaf-92046.html				pending
@@ -34,12 +27,19 @@ pepper	Pepper		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Pepper-920
 petitgrain	Petitgrain		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Petitgrain-92047.html				pending
 pink	Pink		female		https://www.fragrantica.com/perfume/Perfumer-H/Pink-36271.html				pending
 powder	Powder		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Powder-75600.html				pending
+rain-cloud	Rain Cloud		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Rain-Cloud-36265.html				pending
+rain-wood	Rain Wood		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Rain-Wood-84776.html				pending
 red	Red		female		https://www.fragrantica.com/perfume/Perfumer-H/Red-36270.html				pending
+rhubarb	Rhubarb		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Rhubarb-84737.html				pending
 rose	Rose		female		https://www.fragrantica.com/perfume/Perfumer-H/Rose-36260.html				pending
 saffron	Saffron		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Saffron-84740.html				pending
+salt	Salt		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Salt-62965.html				pending
+smoke	Smoke		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Smoke-70630.html				pending
+steam	Steam		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Steam-106469.html				pending
 suede	Suede		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Suede-75601.html				pending
 tobacco	Tobacco		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Tobacco-92042.html				pending
 velvet	Velvet		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Velvet-36261.html				pending
 vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Vetiver-36268.html				pending
 water-lily	Water Lily		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Water-Lily-92049.html				pending
+white-smoke	White Smoke		unisex		https://www.fragrantica.com/perfume/Perfumer-H/White-Smoke-75599.html				pending
 wood-land	Wood Land		unisex		https://www.fragrantica.com/perfume/Perfumer-H/Wood-Land-84738.html				pending

@@ -1,8 +1,15 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 le-lion	Le Lion	EDP	unisex	decant	https://www.fragrantica.com/perfume/Chanel/Le-Lion-Eau-de-Parfum-61036.html	chanel/unisex/le-lion.png	https://media.johnlewiscontent.com/i/JohnLewis/239688750	https://raw.githubusercontent.com/venom444556/fb-assets/main/chanel/unisex/le-lion.png	passed
 1932-eau-de-parfum	1932 Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/1932-Eau-de-Parfum-41778.html				pending
+1932-extrait-de-parfum	1932 Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/1932-Extrait-de-Parfum-135613.html				pending
 1957-eau-de-parfum	1957 Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/1957-Eau-de-Parfum-52483.html				pending
+1957-extrait-de-parfum	1957 Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/1957-Extrait-de-Parfum-135604.html				pending
 31-rue-cambon-eau-de-parfum	31 Rue Cambon Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/31-Rue-Cambon-Eau-de-Parfum-41785.html				pending
+allure	Allure		female		https://www.fragrantica.com/perfume/Chanel/Allure-502.html				pending
+allure-eau-de-parfum	Allure Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Allure-Eau-de-Parfum-176.html				pending
+allure-eau-fraichissante-pour-lete	Allure Eau Fraichissante Pour l'Ete		male		https://www.fragrantica.com/perfume/Chanel/Allure-Eau-Fraichissante-Pour-l-Ete-12448.html				pending
+allure-hair-mist	Allure Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Allure-Hair-Mist-46217.html				pending
+allure-homme	Allure Homme		male		https://www.fragrantica.com/perfume/Chanel/Allure-Homme-523.html				pending
 allure-homme-eau-fraichissante-pour-lete	Allure Homme Eau Fraîchissante pour l'Été		male		https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Eau-Fraichissante-pour-l-Ete-12447.html				pending
 allure-homme-edition-blanche	Allure Homme Edition Blanche		male		https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Edition-Blanche-2653.html				pending
 allure-homme-edition-blanche-eau-de-parfum	Allure Homme Edition Blanche Eau de Parfum		male		https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Edition-Blanche-Eau-de-Parfum-28942.html				pending
@@ -10,10 +17,14 @@ allure-homme-sport	Allure Homme Sport		male		https://www.fragrantica.com/perfume
 allure-homme-sport-cologne	Allure Homme Sport Cologne		male		https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-Cologne-1004.html				pending
 allure-homme-sport-eau-extreme	Allure Homme Sport Eau Extreme		male		https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-Eau-Extreme-14669.html				pending
 allure-homme-sport-superleggera	Allure Homme Sport Superleggera		male		https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-Superleggera-95753.html				pending
+allure-parfum	Allure Parfum		female		https://www.fragrantica.com/perfume/Chanel/Allure-Parfum-33506.html				pending
 allure-sensuelle	Allure Sensuelle		female		https://www.fragrantica.com/perfume/Chanel/Allure-Sensuelle-606.html				pending
 allure-sensuelle-eau-de-toilette	Allure Sensuelle Eau de Toilette		female		https://www.fragrantica.com/perfume/Chanel/Allure-Sensuelle-Eau-de-Toilette-28682.html				pending
 allure-sensuelle-parfum	Allure Sensuelle Parfum		female		https://www.fragrantica.com/perfume/Chanel/Allure-Sensuelle-Parfum-28683.html				pending
+antaeus	Antaeus		male		https://www.fragrantica.com/perfume/Chanel/Antaeus-616.html				pending
+antaeus-sport-cologne	Antaeus Sport Cologne		male		https://www.fragrantica.com/perfume/Chanel/Antaeus-Sport-Cologne-125706.html				pending
 beige-eau-de-parfum	Beige Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Beige-Eau-de-Parfum-41779.html				pending
+beige-extrait-de-parfum	Beige Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Beige-Extrait-de-Parfum-135614.html				pending
 bel-respiro-eau-de-parfum	Bel Respiro Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Bel-Respiro-Eau-de-Parfum-41782.html				pending
 bleu-de-chanel	Bleu de Chanel		male		https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-9099.html				pending
 bleu-de-chanel-all-over-spray	Bleu de Chanel All-Over Spray		male		https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-All-Over-Spray-67790.html				pending
@@ -22,58 +33,103 @@ bleu-de-chanel-lexclusif	Bleu de Chanel L'Exclusif		male		https://www.fragrantic
 bleu-de-chanel-parfum	Bleu de Chanel Parfum		male		https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-Parfum-49912.html				pending
 bois-des-iles	Bois des Iles		female		https://www.fragrantica.com/perfume/Chanel/Bois-des-Iles-1006.html				pending
 bois-des-iles-eau-de-parfum	Bois des Iles Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Bois-des-Iles-Eau-de-Parfum-41787.html				pending
+bois-des-iles-extrait-de-parfum	Bois des Iles Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Bois-des-Iles-Extrait-de-Parfum-135617.html				pending
+bois-des-iles-parfum	Bois Des Iles Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Bois-Des-Iles-Parfum-52140.html				pending
+bois-noir	Bois Noir		male		https://www.fragrantica.com/perfume/Chanel/Bois-Noir-34568.html				pending
 boy-eau-de-parfum	Boy Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Boy-Eau-de-Parfum-37473.html				pending
 chance-eau-de-parfum	Chance Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-de-Parfum-31351.html				pending
 chance-eau-de-toilette	Chance Eau de Toilette		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-de-Toilette-610.html				pending
 chance-eau-fraiche	Chance Eau Fraiche		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Fraiche-1483.html				pending
 chance-eau-fraiche-eau-de-parfum	Chance Eau Fraiche Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Fraiche-Eau-de-Parfum-83980.html				pending
+chance-eau-fraiche-hair-mist	Chance Eau Fraiche Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Fraiche-Hair-Mist-46214.html				pending
 chance-eau-splendide	Chance Eau Splendide		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Splendide-104610.html				pending
 chance-eau-tendre	Chance Eau Tendre		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-8069.html				pending
 chance-eau-tendre-eau-de-parfum	Chance Eau Tendre Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-Eau-de-Parfum-52359.html				pending
+chance-eau-tendre-hair-mist	Chance Eau Tendre Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-Hair-Mist-46215.html				pending
 chance-eau-vive	Chance Eau Vive		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Vive-30796.html				pending
+chance-eau-vive-hair-mist	Chance Eau Vive Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Vive-Hair-Mist-46216.html				pending
+chance-hair-mist	Chance Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chance-Hair-Mist-46213.html				pending
 chance-parfum	Chance Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chance-Parfum-31350.html				pending
+chanel-n019	Chanel N019		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N019-11.html				pending
+chanel-n022	Chanel N022		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N022-1007.html				pending
+chanel-n05-vintage	Chanel N05 Vintage		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N05-Vintage-608.html				pending
+chanel-no-19-eau-de-parfum	Chanel No 19 Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-19-Eau-de-Parfum-12345.html				pending
+chanel-no-19-parfum	Chanel No 19 Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-19-Parfum-12346.html				pending
 chanel-no-19-poudre	Chanel No 19 Poudre		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-19-Poudre-12424.html				pending
+chanel-no-46	Chanel No 46		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-46-22520.html				pending
+chanel-no-5-eau-de-cologne	Chanel No 5 Eau de Cologne		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Cologne-11638.html				pending
+chanel-no-5-eau-de-parfum	Chanel No 5 Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Parfum-40069.html				pending
 chanel-no-5-eau-de-parfum-100th-anniversary-ask-for-the-moon-limited-edition	Chanel No 5 Eau de Parfum 100th Anniversary – Ask For The Moon Limited Edition		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Parfum-100th-Anniversary-Ask-For-The-Moon-Limited-Edition-69910.html				pending
+chanel-no-5-eau-de-parfum-2024-limited-edition	Chanel No 5 Eau de Parfum 2024 Limited Edition		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Parfum-2024-Limited-Edition-97825.html				pending
 chanel-no-5-eau-de-parfum-red-edition	Chanel No 5 Eau de Parfum Red Edition		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Parfum-Red-Edition-51421.html				pending
 chanel-no-5-eau-de-toilette	Chanel No 5 Eau de Toilette		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Toilette-10856.html				pending
 chanel-no-5-eau-de-toilette-126361	Chanel No 5 Eau de Toilette		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Toilette-126361.html				pending
+chanel-no-5-eau-de-toilette-vintage	Chanel No 5 Eau de Toilette - Vintage		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Toilette-Vintage-126362.html				pending
 chanel-no-5-eau-premiere-2015	Chanel No 5 Eau Premiere (2015)		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-Premiere-2015-31172.html				pending
 chanel-no-5-hair-fragrance	Chanel No 5 Hair Fragrance		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Hair-Fragrance-65510.html				pending
+chanel-no-5-hair-mist	Chanel No 5 Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Hair-Mist-46212.html				pending
 chanel-no-5-leau	Chanel No 5 L'Eau		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-L-Eau-38543.html				pending
 chanel-no-5-leau-eau-de-toilette-100th-anniversary-ask-for-the-moon-limited-edition	Chanel No 5 L'Eau Eau De Toilette 100th Anniversary – Ask For The Moon Limited Edition		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-L-Eau-Eau-De-Toilette-100th-Anniversary-Ask-For-The-Moon-Limited-Edition-69911.html				pending
 chanel-no-5-leau-red-edition	Chanel No 5 L'Eau Red Edition		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-L-Eau-Red-Edition-51422.html				pending
+chanel-no-5-parfum	Chanel No 5 Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Parfum-135693.html				pending
+chanel-no-5-parfum-28711	Chanel No 5 Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Parfum-28711.html				pending
+chanel-no-5-parfum-baccarat-grand-extrait	Chanel No 5 Parfum Baccarat Grand Extrait		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Parfum-Baccarat-Grand-Extrait-69912.html				pending
 chanel-no-5-parfum-red-edition	Chanel No 5 Parfum Red Edition		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Parfum-Red-Edition-51423.html				pending
 chanel-n19-eau-de-toilette-2023	Chanel N°19 Eau de Toilette (2023)		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N019-Eau-de-Toilette-2023-87556.html				pending
+chanel-n19-voile-parfume	Chanel N°19 Voile Parfumé		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N019-Voile-Parfume-125708.html				pending
 chanel-n5-eau-premiere	Chanel N°5 Eau Premiere		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N05-Eau-Premiere-1360.html				pending
 chanel-n5-elixir-sensuel	Chanel N°5 Elixir Sensuel		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N05-Elixir-Sensuel-4687.html				pending
+chanel-n5-voile-parfume	Chanel N°5 Voile Parfumé		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N05-Voile-Parfume-122790.html				pending
+coco-eau-de-parfum	Coco Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Coco-Eau-de-Parfum-609.html				pending
+coco-eau-de-toilette	Coco Eau de Toilette		female		https://www.fragrantica.com/perfume/Chanel/Coco-Eau-de-Toilette-31353.html				pending
 coco-mademoiselle	Coco Mademoiselle		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-611.html				pending
 coco-mademoiselle-crush-absolu	Coco Mademoiselle Crush Absolu		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Crush-Absolu-137506.html				pending
 coco-mademoiselle-eau-de-toilette	Coco Mademoiselle Eau de Toilette		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Eau-de-Toilette-612.html				pending
 coco-mademoiselle-fragrance-primer	Coco Mademoiselle Fragrance Primer		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Fragrance-Primer-114251.html				pending
+coco-mademoiselle-hair-mist	Coco Mademoiselle Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Hair-Mist-46211.html				pending
 coco-mademoiselle-hair-mist-2023	Coco Mademoiselle Hair Mist (2023)		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Hair-Mist-2023-79638.html				pending
 coco-mademoiselle-intense	Coco Mademoiselle Intense		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Intense-48310.html				pending
 coco-mademoiselle-leau	Coco Mademoiselle L'Eau		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-L-Eau-66700.html				pending
 coco-mademoiselle-leau-privee	Coco Mademoiselle L'Eau Privée		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-L-Eau-Privee-62194.html				pending
 coco-mademoiselle-lextrait	Coco Mademoiselle L’Extrait		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-L-Extrait-14957.html				pending
+coco-mademoiselle-parfum	Coco Mademoiselle Parfum		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Parfum-6928.html				pending
 coco-noir	Coco Noir		female		https://www.fragrantica.com/perfume/Chanel/Coco-Noir-15963.html				pending
 coco-noir-extrait	Coco Noir Extrait		female		https://www.fragrantica.com/perfume/Chanel/Coco-Noir-Extrait-27496.html				pending
+coco-noir-hair-mist	Coco Noir Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Coco-Noir-Hair-Mist-50254.html				pending
+coco-parfum	Coco Parfum		female		https://www.fragrantica.com/perfume/Chanel/Coco-Parfum-31354.html				pending
+coco-voile-parfume	Coco Voile Parfumé		female		https://www.fragrantica.com/perfume/Chanel/Coco-Voile-Parfume-125707.html				pending
 comete	Comète		unisex		https://www.fragrantica.com/perfume/Chanel/Comete-90434.html				pending
 coromandel-eau-de-parfum	Coromandel Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Coromandel-Eau-de-Parfum-41783.html				pending
+coromandel-extrait-de-parfum	Coromandel Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Coromandel-Extrait-de-Parfum-135616.html				pending
 coromandel-parfum	Coromandel Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Coromandel-Parfum-56712.html				pending
+cristalle-eau-de-parfum	Cristalle Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Cristalle-Eau-de-Parfum-31352.html				pending
 cristalle-eau-de-parfum-2023	Cristalle Eau de Parfum (2023)		female		https://www.fragrantica.com/perfume/Chanel/Cristalle-Eau-de-Parfum-2023-87555.html				pending
+cristalle-eau-de-toilette	Cristalle Eau de Toilette		female		https://www.fragrantica.com/perfume/Chanel/Cristalle-Eau-de-Toilette-12.html				pending
 cristalle-eau-verte	Cristalle Eau Verte		female		https://www.fragrantica.com/perfume/Chanel/Cristalle-Eau-Verte-5909.html				pending
 cristalle-eau-verte-eau-de-parfum	Cristalle Eau Verte Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Cristalle-Eau-Verte-Eau-de-Parfum-87554.html				pending
 cuir-de-russie-eau-de-parfum	Cuir de Russie Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Cuir-de-Russie-Eau-de-Parfum-41786.html				pending
+cuir-de-russie-extrait-de-parfum	Cuir de Russie Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Cuir-de-Russie-Extrait-de-Parfum-135607.html				pending
+cuir-de-russie-parfum	Cuir de Russie Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Cuir-de-Russie-Parfum-47794.html				pending
 eau-de-cologne	Eau de Cologne		unisex		https://www.fragrantica.com/perfume/Chanel/Eau-de-Cologne-90642.html				pending
+egoiste	Egoiste		male		https://www.fragrantica.com/perfume/Chanel/Egoiste-613.html				pending
+egoiste-cologne-concentree	Egoiste Cologne Concentree		male		https://www.fragrantica.com/perfume/Chanel/Egoiste-Cologne-Concentree-17293.html				pending
+egoiste-platinum	Egoiste Platinum		male		https://www.fragrantica.com/perfume/Chanel/Egoiste-Platinum-614.html				pending
 gabrielle	Gabrielle		female		https://www.fragrantica.com/perfume/Chanel/Gabrielle-43718.html				pending
 gabrielle-chanel-hair-mist	Gabrielle Chanel Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Gabrielle-Chanel-Hair-Mist-56250.html				pending
 gabrielle-essence	Gabrielle Essence		female		https://www.fragrantica.com/perfume/Chanel/Gabrielle-Essence-56076.html				pending
+gabrielle-fragrance-primer	Gabrielle Fragrance Primer		female		https://www.fragrantica.com/perfume/Chanel/Gabrielle-Fragrance-Primer-113101.html				pending
 gabrielle-leau	Gabrielle L'Eau		female		https://www.fragrantica.com/perfume/Chanel/Gabrielle-L-Eau-95110.html				pending
 gabrielle-parfum	Gabrielle Parfum		female		https://www.fragrantica.com/perfume/Chanel/Gabrielle-Parfum-75185.html				pending
+gardenia	Gardénia		female		https://www.fragrantica.com/perfume/Chanel/Gardenia-936.html				pending
 gardenia-eau-de-parfum	Gardénia Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Gardenia-Eau-de-Parfum-41788.html				pending
 gardenia-extrait-de-parfum	Gardénia Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Gardenia-Extrait-de-Parfum-71252.html				pending
+gardenia-extrait-de-parfum-135619	Gardénia Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Gardenia-Extrait-de-Parfum-135619.html				pending
 jersey-eau-de-parfum	Jersey Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Jersey-Eau-de-Parfum-41776.html				pending
+jersey-extrait-de-parfum	Jersey Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Jersey-Extrait-de-Parfum-135618.html				pending
 la-pausa-eau-de-parfum	La Pausa Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/La-Pausa-Eau-de-Parfum-41781.html				pending
+le-1940-beige-de-chanel	Le 1940 Beige de Chanel		female		https://www.fragrantica.com/perfume/Chanel/Le-1940-Beige-de-Chanel-45188.html				pending
+le-1940-bleu-de-chanel	Le 1940 Bleu de Chanel		female		https://www.fragrantica.com/perfume/Chanel/Le-1940-Bleu-de-Chanel-45187.html				pending
+le-1940-rouge-de-chanel	Le 1940 Rouge de Chanel		female		https://www.fragrantica.com/perfume/Chanel/Le-1940-Rouge-de-Chanel-45186.html				pending
 les-exclusifs-de-chanel-1932	Les Exclusifs de Chanel 1932		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-1932-17388.html				pending
 les-exclusifs-de-chanel-1932-parfum	Les Exclusifs de Chanel 1932 Parfum		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-1932-Parfum-24445.html				pending
 les-exclusifs-de-chanel-28-la-pausa	Les Exclusifs de Chanel 28 La Pausa		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-28-La-Pausa-7131.html				pending
@@ -81,6 +137,7 @@ les-exclusifs-de-chanel-31-rue-cambon	Les Exclusifs de Chanel 31 Rue Cambon		fem
 les-exclusifs-de-chanel-beige	Les Exclusifs de Chanel Beige		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Beige-4686.html				pending
 les-exclusifs-de-chanel-beige-parfum	Les Exclusifs de Chanel Beige Parfum		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Beige-Parfum-24446.html				pending
 les-exclusifs-de-chanel-bel-respiro	Les Exclusifs de Chanel Bel Respiro		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Bel-Respiro-7141.html				pending
+les-exclusifs-de-chanel-coromandel	Les Exclusifs de Chanel Coromandel		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Coromandel-7145.html				pending
 les-exclusifs-de-chanel-cuir-de-russie	Les Exclusifs de Chanel Cuir de Russie		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Cuir-de-Russie-7144.html				pending
 les-exclusifs-de-chanel-cuir-de-russie-1924	Les Exclusifs de Chanel Cuir de Russie 1924		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Cuir-de-Russie-1924-98.html				pending
 les-exclusifs-de-chanel-eau-de-cologne	Les Exclusifs de Chanel Eau de Cologne		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Eau-de-Cologne-7130.html				pending
@@ -91,80 +148,23 @@ les-exclusifs-de-chanel-no-18	Les Exclusifs de Chanel No 18		female		https://www
 les-exclusifs-de-chanel-no-22	Les Exclusifs de Chanel No 22		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-No-22-7142.html				pending
 les-exclusifs-de-chanel-sycomore	Les Exclusifs de Chanel Sycomore		unisex		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Sycomore-4688.html				pending
 misia-eau-de-parfum	Misia Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Misia-Eau-de-Parfum-41777.html				pending
+no-22-parfum	No 22 Parfum		female		https://www.fragrantica.com/perfume/Chanel/No-22-Parfum-60368.html				pending
 n1-de-chanel-leau-rouge	N°1 de Chanel L'Eau Rouge		female		https://www.fragrantica.com/perfume/Chanel/N01-de-Chanel-L-Eau-Rouge-71442.html				pending
 n18-eau-de-parfum	N°18 Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/N018-Eau-de-Parfum-41784.html				pending
 n22-eau-de-parfum	N°22 Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/N022-Eau-de-Parfum-41789.html				pending
+n22-extrait-de-parfum	N°22 Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/N022-Extrait-de-Parfum-135615.html				pending
 n5-leau-limited-edition	N°5 L’EAU – Limited Edition		female		https://www.fragrantica.com/perfume/Chanel/N05-L-EAU-Limited-Edition-93881.html				pending
 paris-biarritz	Paris – Biarritz		unisex		https://www.fragrantica.com/perfume/Chanel/Paris-Biarritz-49698.html				pending
 paris-deauville	Paris – Deauville		unisex		https://www.fragrantica.com/perfume/Chanel/Paris-Deauville-49697.html				pending
 paris-paris	Paris – Paris		female		https://www.fragrantica.com/perfume/Chanel/Paris-Paris-73411.html				pending
 paris-riviera	Paris – Riviera		unisex		https://www.fragrantica.com/perfume/Chanel/Paris-Riviera-54854.html				pending
+paris-saint-moritz	Paris – Saint-Moritz		unisex		https://www.fragrantica.com/perfume/Chanel/Paris-Saint-Moritz-143767.html				pending
 paris-venise	Paris – Venise		unisex		https://www.fragrantica.com/perfume/Chanel/Paris-Venise-49696.html				pending
 paris-edimbourg	Paris – Édimbourg		unisex		https://www.fragrantica.com/perfume/Chanel/Paris-Edimbourg-67269.html				pending
-pour-monsieur-eau-de-parfum	Pour Monsieur Eau de Parfum		male		https://www.fragrantica.com/perfume/Chanel/Pour-Monsieur-Eau-de-Parfum-43001.html				pending
-sycomore-eau-de-parfum	Sycomore Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Sycomore-Eau-de-Parfum-41780.html				pending
-sycomore-parfum	Sycomore Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Sycomore-Parfum-75821.html				pending
-allure	Allure		female		https://www.fragrantica.com/perfume/Chanel/Allure-502.html				pending
-allure-eau-de-parfum	Allure Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Allure-Eau-de-Parfum-176.html				pending
-allure-eau-fraichissante-pour-lete	Allure Eau Fraichissante Pour l'Ete		male		https://www.fragrantica.com/perfume/Chanel/Allure-Eau-Fraichissante-Pour-l-Ete-12448.html				pending
-allure-hair-mist	Allure Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Allure-Hair-Mist-46217.html				pending
-allure-homme	Allure Homme		male		https://www.fragrantica.com/perfume/Chanel/Allure-Homme-523.html				pending
-allure-parfum	Allure Parfum		female		https://www.fragrantica.com/perfume/Chanel/Allure-Parfum-33506.html				pending
-antaeus	Antaeus		male		https://www.fragrantica.com/perfume/Chanel/Antaeus-616.html				pending
-bois-des-iles-parfum	Bois Des Iles Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Bois-Des-Iles-Parfum-52140.html				pending
-bois-noir	Bois Noir		male		https://www.fragrantica.com/perfume/Chanel/Bois-Noir-34568.html				pending
-chance-eau-fraiche-hair-mist	Chance Eau Fraiche Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Fraiche-Hair-Mist-46214.html				pending
-chance-eau-tendre-hair-mist	Chance Eau Tendre Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-Hair-Mist-46215.html				pending
-chance-eau-vive-hair-mist	Chance Eau Vive Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Vive-Hair-Mist-46216.html				pending
-chance-hair-mist	Chance Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chance-Hair-Mist-46213.html				pending
-chanel-n019	Chanel N019		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N019-11.html				pending
-chanel-n022	Chanel N022		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N022-1007.html				pending
-chanel-n05-vintage	Chanel N05 Vintage		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N05-Vintage-608.html				pending
-chanel-no-19-eau-de-parfum	Chanel No 19 Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-19-Eau-de-Parfum-12345.html				pending
-chanel-no-19-parfum	Chanel No 19 Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-19-Parfum-12346.html				pending
-chanel-no-46	Chanel No 46		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-46-22520.html				pending
-chanel-no-5-eau-de-cologne	Chanel No 5 Eau de Cologne		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Cologne-11638.html				pending
-chanel-no-5-eau-de-parfum	Chanel No 5 Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Parfum-40069.html				pending
-chanel-no-5-hair-mist	Chanel No 5 Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Hair-Mist-46212.html				pending
-chanel-no-5-parfum	Chanel No 5 Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Parfum-28711.html				pending
-chanel-no-5-parfum-baccarat-grand-extrait	Chanel No 5 Parfum Baccarat Grand Extrait		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Parfum-Baccarat-Grand-Extrait-69912.html				pending
-coco-eau-de-parfum	Coco Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Coco-Eau-de-Parfum-609.html				pending
-coco-eau-de-toilette	Coco Eau de Toilette		female		https://www.fragrantica.com/perfume/Chanel/Coco-Eau-de-Toilette-31353.html				pending
-coco-mademoiselle-hair-mist	Coco Mademoiselle Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Hair-Mist-46211.html				pending
-coco-mademoiselle-parfum	Coco Mademoiselle Parfum		female		https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-Parfum-6928.html				pending
-coco-noir-hair-mist	Coco Noir Hair Mist		female		https://www.fragrantica.com/perfume/Chanel/Coco-Noir-Hair-Mist-50254.html				pending
-coco-parfum	Coco Parfum		female		https://www.fragrantica.com/perfume/Chanel/Coco-Parfum-31354.html				pending
-cristalle-eau-de-parfum	Cristalle Eau de Parfum		female		https://www.fragrantica.com/perfume/Chanel/Cristalle-Eau-de-Parfum-31352.html				pending
-cristalle-eau-de-toilette	Cristalle Eau de Toilette		female		https://www.fragrantica.com/perfume/Chanel/Cristalle-Eau-de-Toilette-12.html				pending
-cuir-de-russie-parfum	Cuir de Russie Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Cuir-de-Russie-Parfum-47794.html				pending
-egoiste	Egoiste		male		https://www.fragrantica.com/perfume/Chanel/Egoiste-613.html				pending
-egoiste-cologne-concentree	Egoiste Cologne Concentree		male		https://www.fragrantica.com/perfume/Chanel/Egoiste-Cologne-Concentree-17293.html				pending
-egoiste-platinum	Egoiste Platinum		male		https://www.fragrantica.com/perfume/Chanel/Egoiste-Platinum-614.html				pending
-gardenia	Gardénia		female		https://www.fragrantica.com/perfume/Chanel/Gardenia-936.html				pending
-le-1940-beige-de-chanel	Le 1940 Beige de Chanel		female		https://www.fragrantica.com/perfume/Chanel/Le-1940-Beige-de-Chanel-45188.html				pending
-le-1940-bleu-de-chanel	Le 1940 Bleu de Chanel		female		https://www.fragrantica.com/perfume/Chanel/Le-1940-Bleu-de-Chanel-45187.html				pending
-le-1940-rouge-de-chanel	Le 1940 Rouge de Chanel		female		https://www.fragrantica.com/perfume/Chanel/Le-1940-Rouge-de-Chanel-45186.html				pending
-les-exclusifs-de-chanel-coromandel	Les Exclusifs de Chanel Coromandel		female		https://www.fragrantica.com/perfume/Chanel/Les-Exclusifs-de-Chanel-Coromandel-7145.html				pending
-no-22-parfum	No 22 Parfum		female		https://www.fragrantica.com/perfume/Chanel/No-22-Parfum-60368.html				pending
 pour-monsieur	Pour Monsieur		male		https://www.fragrantica.com/perfume/Chanel/Pour-Monsieur-615.html				pending
 pour-monsieur-concentree	Pour Monsieur Concentree		male		https://www.fragrantica.com/perfume/Chanel/Pour-Monsieur-Concentree-3131.html				pending
-une-fleur-de-chanel	Une Fleur de Chanel		female		https://www.fragrantica.com/perfume/Chanel/Une-Fleur-de-Chanel-4689.html				pending
-1932-extrait-de-parfum	1932 Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/1932-Extrait-de-Parfum-135613.html				pending
-1957-extrait-de-parfum	1957 Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/1957-Extrait-de-Parfum-135604.html				pending
-antaeus-sport-cologne	Antaeus Sport Cologne		male		https://www.fragrantica.com/perfume/Chanel/Antaeus-Sport-Cologne-125706.html				pending
-beige-extrait-de-parfum	Beige Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Beige-Extrait-de-Parfum-135614.html				pending
-bois-des-iles-extrait-de-parfum	Bois des Iles Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Bois-des-Iles-Extrait-de-Parfum-135617.html				pending
-chanel-no-5-eau-de-parfum-2024-limited-edition	Chanel No 5 Eau de Parfum 2024 Limited Edition		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Parfum-2024-Limited-Edition-97825.html				pending
-chanel-no-5-eau-de-toilette-vintage	Chanel No 5 Eau de Toilette - Vintage		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Eau-de-Toilette-Vintage-126362.html				pending
-chanel-no-5-parfum-135693	Chanel No 5 Parfum		female		https://www.fragrantica.com/perfume/Chanel/Chanel-No-5-Parfum-135693.html				pending
-chanel-n19-voile-parfume	Chanel N°19 Voile Parfumé		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N019-Voile-Parfume-125708.html				pending
-chanel-n5-voile-parfume	Chanel N°5 Voile Parfumé		female		https://www.fragrantica.com/perfume/Chanel/Chanel-N05-Voile-Parfume-122790.html				pending
-coco-voile-parfume	Coco Voile Parfumé		female		https://www.fragrantica.com/perfume/Chanel/Coco-Voile-Parfume-125707.html				pending
-coromandel-extrait-de-parfum	Coromandel Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Coromandel-Extrait-de-Parfum-135616.html				pending
-cuir-de-russie-extrait-de-parfum	Cuir de Russie Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Cuir-de-Russie-Extrait-de-Parfum-135607.html				pending
-gabrielle-fragrance-primer	Gabrielle Fragrance Primer		female		https://www.fragrantica.com/perfume/Chanel/Gabrielle-Fragrance-Primer-113101.html				pending
-gardenia-extrait-de-parfum-135619	Gardénia Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Gardenia-Extrait-de-Parfum-135619.html				pending
-jersey-extrait-de-parfum	Jersey Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Jersey-Extrait-de-Parfum-135618.html				pending
-n22-extrait-de-parfum	N°22 Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/N022-Extrait-de-Parfum-135615.html				pending
-paris-saint-moritz	Paris – Saint-Moritz		unisex		https://www.fragrantica.com/perfume/Chanel/Paris-Saint-Moritz-143767.html				pending
+pour-monsieur-eau-de-parfum	Pour Monsieur Eau de Parfum		male		https://www.fragrantica.com/perfume/Chanel/Pour-Monsieur-Eau-de-Parfum-43001.html				pending
+sycomore-eau-de-parfum	Sycomore Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Sycomore-Eau-de-Parfum-41780.html				pending
 sycomore-extrait-de-parfum	Sycomore Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Sycomore-Extrait-de-Parfum-135610.html				pending
+sycomore-parfum	Sycomore Parfum		unisex		https://www.fragrantica.com/perfume/Chanel/Sycomore-Parfum-75821.html				pending
+une-fleur-de-chanel	Une Fleur de Chanel		female		https://www.fragrantica.com/perfume/Chanel/Une-Fleur-de-Chanel-4689.html				pending

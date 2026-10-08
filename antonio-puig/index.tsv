@@ -1,9 +1,6 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-agua-brava-azul	Agua Brava Azul		male		https://www.fragrantica.com/perfume/Antonio-Puig/Agua-Brava-Azul-34009.html				pending
-barbie-pink	Barbie Pink		female		https://www.fragrantica.com/perfume/Antonio-Puig/Barbie-Pink-3361.html				pending
-quorum-silver	Quorum Silver		male		https://www.fragrantica.com/perfume/Antonio-Puig/Quorum-Silver-12698.html				pending
-thais	Thais		female		https://www.fragrantica.com/perfume/Antonio-Puig/Thais-9396.html				pending
 agua-brava	Agua Brava		male		https://www.fragrantica.com/perfume/Antonio-Puig/Agua-Brava-12673.html				pending
+agua-brava-azul	Agua Brava Azul		male		https://www.fragrantica.com/perfume/Antonio-Puig/Agua-Brava-Azul-34009.html				pending
 agua-brava-sea-power	Agua Brava Sea Power		male		https://www.fragrantica.com/perfume/Antonio-Puig/Agua-Brava-Sea-Power-19436.html				pending
 agua-de-luna	Agua de Luna		female		https://www.fragrantica.com/perfume/Antonio-Puig/Agua-de-Luna-19437.html				pending
 agua-lavanda	Agua Lavanda		unisex		https://www.fragrantica.com/perfume/Antonio-Puig/Agua-Lavanda-26273.html				pending
@@ -13,6 +10,7 @@ aqua-quorum	Aqua Quorum		male		https://www.fragrantica.com/perfume/Antonio-Puig/
 azur-de-puig	Azur de Puig		female		https://www.fragrantica.com/perfume/Antonio-Puig/Azur-de-Puig-11993.html				pending
 barbie-b	Barbie B		female		https://www.fragrantica.com/perfume/Antonio-Puig/Barbie-B-3359.html				pending
 barbie-blue	Barbie Blue		female		https://www.fragrantica.com/perfume/Antonio-Puig/Barbie-Blue-3360.html				pending
+barbie-pink	Barbie Pink		female		https://www.fragrantica.com/perfume/Antonio-Puig/Barbie-Pink-3361.html				pending
 boston-man	Boston Man		male		https://www.fragrantica.com/perfume/Antonio-Puig/Boston-Man-19440.html				pending
 brave-agua-brava	Brave Agua Brava		male		https://www.fragrantica.com/perfume/Antonio-Puig/Brave-Agua-Brava-19441.html				pending
 brummel	Brummel		male		https://www.fragrantica.com/perfume/Antonio-Puig/Brummel-19442.html				pending
@@ -30,11 +28,13 @@ fleur-de-jour	Fleur de Jour		female		https://www.fragrantica.com/perfume/Antonio
 fun-water	Fun Water		unisex		https://www.fragrantica.com/perfume/Antonio-Puig/Fun-Water-67099.html				pending
 pull-and-bear	Pull & Bear		male		https://www.fragrantica.com/perfume/Antonio-Puig/Pull-Bear-32295.html				pending
 quorum	Quorum		male		https://www.fragrantica.com/perfume/Antonio-Puig/Quorum-3825.html				pending
+quorum-silver	Quorum Silver		male		https://www.fragrantica.com/perfume/Antonio-Puig/Quorum-Silver-12698.html				pending
 rasgo	Rasgo		unisex		https://www.fragrantica.com/perfume/Antonio-Puig/Rasgo-38205.html				pending
 rose-danouk	Rose d'Anouk		female		https://www.fragrantica.com/perfume/Antonio-Puig/Rose-d-Anouk-19439.html				pending
 sport-man	Sport Man		male		https://www.fragrantica.com/perfume/Antonio-Puig/Sport-Man-76180.html				pending
 springfield	Springfield		male		https://www.fragrantica.com/perfume/Antonio-Puig/Springfield-19445.html				pending
 sybaris	Sybaris		male		https://www.fragrantica.com/perfume/Antonio-Puig/Sybaris-19446.html				pending
+thais	Thais		female		https://www.fragrantica.com/perfume/Antonio-Puig/Thais-9396.html				pending
 thais-dreams	Thais Dreams		female		https://www.fragrantica.com/perfume/Antonio-Puig/Thais-Dreams-19447.html				pending
 thais-feeling	Thais Feeling		female		https://www.fragrantica.com/perfume/Antonio-Puig/Thais-Feeling-19448.html				pending
 thais-life	Thais Life		female		https://www.fragrantica.com/perfume/Antonio-Puig/Thais-Life-19449.html				pending

@@ -1,6 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-caramel	Caramel		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Caramel-111603.html				pending
-strawberry	Strawberry		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Strawberry-111612.html				pending
 best-aqua-niagara	Best Aqua Niagara		male		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Best-Aqua-Niagara-26964.html				pending
 best-big-boss	Best Big Boss		male		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Best-Big-Boss-26966.html				pending
 best-classic	Best Classic		male		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Best-Classic-26967.html				pending
@@ -15,6 +13,7 @@ cafe-de-fleur-bright	Cafe de Fleur Bright		female		https://www.fragrantica.com/p
 cafe-de-fleur-glamour	Cafe de Fleur Glamour		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Cafe-de-Fleur-Glamour-26913.html				pending
 cafe-de-fleur-glance	Cafe de Fleur Glance		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Cafe-de-Fleur-Glance-26914.html				pending
 cafe-de-fleur-happy	Cafe de Fleur Happy		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Cafe-de-Fleur-Happy-26915.html				pending
+caramel	Caramel		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Caramel-111603.html				pending
 coliseo	Coliseo		male		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Coliseo-26971.html				pending
 coliseo-blue-edition	Coliseo Blue Edition		male		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Coliseo-Blue-Edition-26972.html				pending
 danger-night	Danger Night		male		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Danger-Night-26969.html				pending
@@ -69,6 +68,7 @@ oasis-paradise	Oasis Paradise		female		https://www.fragrantica.com/perfume/Chris
 sexy-lace-flirt	Sexy Lace Flirt		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Sexy-Lace-Flirt-26928.html				pending
 sexy-lace-love	Sexy Lace Love		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Sexy-Lace-Love-26929.html				pending
 sexy-lace-secret	Sexy Lace Secret		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Sexy-Lace-Secret-26930.html				pending
+strawberry	Strawberry		female		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Strawberry-111612.html				pending
 stream-blue	STREAM Blue		male		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/STREAM-Blue-26960.html				pending
 stream-dark	STREAM Dark		male		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/STREAM-Dark-26962.html				pending
 stream-motion	STREAM Motion		male		https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/STREAM-Motion-26961.html				pending

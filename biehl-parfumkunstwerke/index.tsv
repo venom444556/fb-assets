@@ -1,6 +1,7 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 al01	al01		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/al01-6141.html				pending
 al02	al02		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/al02-6142.html				pending
+al03	al03		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/al03-19980.html				pending
 eo01	eo01		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/eo01-6138.html				pending
 eo02	eo02		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/eo02-6139.html				pending
 eo03	eo03		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/eo03-6140.html				pending
@@ -13,4 +14,3 @@ mb02	mb02		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/mb
 mb03	mb03		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/mb03-6134.html				pending
 pc01	pc01		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/pc01-6135.html				pending
 pc02	pc02		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/pc02-6136.html				pending
-al03	al03		unisex		https://www.fragrantica.com/perfume/biehl-parfumkunstwerke/al03-19980.html				pending

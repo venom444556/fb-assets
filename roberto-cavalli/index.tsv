@@ -1,10 +1,15 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 anniversary	Anniversary		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Anniversary-10439.html				pending
+baroque-musk	Baroque Musk		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Baroque-Musk-41713.html				pending
+bloodiris	Bloodiris		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Bloodiris-78015.html				pending
 divine-oud	Divine Oud		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Divine-Oud-41717.html				pending
 florence	Florence		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Florence-47701.html				pending
 florence-amber	Florence Amber		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Florence-Amber-53152.html				pending
 florence-blossom	Florence Blossom		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Florence-Blossom-58666.html				pending
+frantic-rose	Frantic Rose		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Frantic-Rose-78295.html				pending
 gemma-di-paradiso	Gemma di Paradiso		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Gemma-di-Paradiso-50175.html				pending
+golden-amber	Golden Amber		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Golden-Amber-41714.html				pending
+imperial-hyacinth	Imperial Hyacinth		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Imperial-Hyacinth-48583.html				pending
 just-cavalli	Just Cavalli		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Just-Cavalli-16760.html				pending
 just-cavalli-blue	Just Cavalli Blue		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Just-Cavalli-Blue-840.html				pending
 just-cavalli-give-me-magic-for-her	Just Cavalli Give Me Magic for Her		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Just-Cavalli-Give-Me-Magic-for-Her-113480.html				pending
@@ -19,6 +24,7 @@ just-cavalli-i-love-him	Just Cavalli I Love Him		male		https://www.fragrantica.c
 just-cavalli-pink	Just Cavalli Pink		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Just-Cavalli-Pink-839.html				pending
 just-cavalli-wild-heart-for-her	Just Cavalli Wild Heart for Her		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Just-Cavalli-Wild-Heart-for-Her-99952.html				pending
 just-cavalli-wild-heart-for-him	Just Cavalli Wild Heart for Him		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Just-Cavalli-Wild-Heart-for-Him-99951.html				pending
+noble-woods	Noble Woods		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Noble-Woods-78018.html				pending
 oud-al-qasr	Oud al Qasr		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Oud-al-Qasr-28684.html				pending
 paradise-found-for-men	Paradise Found For Men		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Paradise-Found-For-Men-63092.html				pending
 paradise-found-for-women	Paradise Found For Women		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Paradise-Found-For-Women-63093.html				pending
@@ -26,6 +32,7 @@ paradiso	Paradiso		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/P
 paradiso-assoluto	Paradiso Assoluto		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Paradiso-Assoluto-42009.html				pending
 paradiso-azzurro	Paradiso Azzurro		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Paradiso-Azzurro-34207.html				pending
 paradiso-rosa	Paradiso Rosa		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Paradiso-Rosa-102676.html				pending
+precious-leather	Precious Leather		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Precious-Leather-48582.html				pending
 roberto-cavalli	Roberto Cavalli		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-841.html				pending
 roberto-cavalli-acqua	Roberto Cavalli Acqua		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Acqua-17310.html				pending
 roberto-cavalli-black	Roberto Cavalli Black		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Black-838.html				pending
@@ -33,8 +40,11 @@ roberto-cavalli-deep-desire	Roberto Cavalli Deep Desire		female		https://www.fra
 roberto-cavalli-eau-de-parfum	Roberto Cavalli Eau de Parfum		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Eau-de-Parfum-13675.html				pending
 roberto-cavalli-essenza	Roberto Cavalli Essenza		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Essenza-31459.html				pending
 roberto-cavalli-exotica	Roberto Cavalli Exotica		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Exotica-22902.html				pending
+roberto-cavalli-gold-edition	Roberto Cavalli Gold Edition		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Gold-Edition-25039.html				pending
+roberto-cavalli-la-notte	Roberto Cavalli La Notte		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-La-Notte-51655.html				pending
 roberto-cavalli-man	Roberto Cavalli Man		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Man-849.html				pending
 roberto-cavalli-nero-assoluto	Roberto Cavalli Nero Assoluto		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Nero-Assoluto-18833.html				pending
+roberto-cavalli-nero-assoluto-exclusive-edition	Roberto Cavalli Nero Assoluto Exclusive Edition		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Nero-Assoluto-Exclusive-Edition-23870.html				pending
 roberto-cavalli-oro	Roberto Cavalli Oro		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Oro-1484.html				pending
 roberto-cavalli-oud-edition	Roberto Cavalli Oud Edition		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Oud-Edition-17776.html				pending
 roberto-cavalli-signature-golden-anniversary-edp-intense	Roberto Cavalli Signature Golden Anniversary EDP intense		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Signature-Golden-Anniversary-EDP-intense-76789.html				pending
@@ -47,25 +57,15 @@ roberto-cavalli-uomo-golden-anniversary	Roberto Cavalli Uomo Golden Anniversary	
 roberto-cavalli-uomo-la-notte	Roberto Cavalli Uomo La Notte		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Uomo-La-Notte-51656.html				pending
 roberto-cavalli-uomo-silver-essence	Roberto Cavalli Uomo Silver Essence		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Uomo-Silver-Essence-45917.html				pending
 roberto-cavalli-uomo-verde-assoluto	Roberto Cavalli Uomo Verde Assoluto		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Uomo-Verde-Assoluto-122922.html				pending
+royal-iris	Royal Iris		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Royal-Iris-41716.html				pending
 serpentine	Serpentine		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Serpentine-837.html				pending
 serpentine-2025	Serpentine 2025		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Serpentine-2025-108427.html				pending
 serpentine-silver	Serpentine Silver		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Serpentine-Silver-4085.html				pending
 splendid-vanilla	Splendid Vanilla		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Splendid-Vanilla-58538.html				pending
 sublime-tonka	Sublime Tonka		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Sublime-Tonka-111639.html				pending
-uomo-parfum	Uomo Parfum		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Uomo-Parfum-103347.html				pending
-baroque-musk	Baroque Musk		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Baroque-Musk-41713.html				pending
-bloodiris	Bloodiris		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Bloodiris-78015.html				pending
-frantic-rose	Frantic Rose		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Frantic-Rose-78295.html				pending
-golden-amber	Golden Amber		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Golden-Amber-41714.html				pending
-imperial-hyacinth	Imperial Hyacinth		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Imperial-Hyacinth-48583.html				pending
-noble-woods	Noble Woods		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Noble-Woods-78018.html				pending
-precious-leather	Precious Leather		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Precious-Leather-48582.html				pending
-roberto-cavalli-gold-edition	Roberto Cavalli Gold Edition		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Gold-Edition-25039.html				pending
-roberto-cavalli-la-notte	Roberto Cavalli La Notte		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-La-Notte-51655.html				pending
-roberto-cavalli-nero-assoluto-exclusive-edition	Roberto Cavalli Nero Assoluto Exclusive Edition		female		https://www.fragrantica.com/perfume/Roberto-Cavalli/Roberto-Cavalli-Nero-Assoluto-Exclusive-Edition-23870.html				pending
-royal-iris	Royal Iris		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Royal-Iris-41716.html				pending
 sumptuous-rose	Sumptuous Rose		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Sumptuous-Rose-41712.html				pending
 supreme-sandal	Supreme Sandal		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Supreme-Sandal-41715.html				pending
+uomo-parfum	Uomo Parfum		male		https://www.fragrantica.com/perfume/Roberto-Cavalli/Uomo-Parfum-103347.html				pending
 velour-saffron	Velour Saffron		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Velour-Saffron-70880.html				pending
 wild-incense	Wild Incense		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Wild-Incense-70881.html				pending
 woodiris	Woodiris		unisex		https://www.fragrantica.com/perfume/Roberto-Cavalli/Woodiris-78014.html				pending

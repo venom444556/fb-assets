@@ -1,8 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-dorian	Dorian		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Dorian-10149.html				pending
-morocco	Morocco		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Morocco-10150.html				pending
-technical-boy	Technical Boy		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Technical-Boy-44858.html				pending
-the-antikythera-mechanism	The Antikythera Mechanism		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/The-Antikythera-Mechanism-12203.html				pending
 absinthe	Absinthe		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Absinthe-16364.html				pending
 aeval	Aeval		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Aeval-16365.html				pending
 alana-patel	Alana Patel		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Alana-Patel-10163.html				pending
@@ -58,6 +54,7 @@ delirium	Delirium		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alc
 depraved	Depraved		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Depraved-15701.html				pending
 desire	Desire		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Desire-15702.html				pending
 det-patric-gleason	Det. Patric Gleason		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Det-Patric-Gleason-10156.html				pending
+dorian	Dorian		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Dorian-10149.html				pending
 dragons-blood	Dragon's Blood		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Dragon-s-Blood-16119.html				pending
 dragons-bone	Dragon's Bone		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Dragon-s-Bone-16120.html				pending
 dragons-claw	Dragon's Claw		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Dragon-s-Claw-16121.html				pending
@@ -135,6 +132,7 @@ mata-hari	Mata Hari		female		https://www.fragrantica.com/perfume/Black-Phoenix-A
 media	Media		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Media-44844.html				pending
 mister-wednesday	Mister Wednesday		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Mister-Wednesday-44845.html				pending
 mme-moriarty-misfortune-teller	Mme. Moriarty Misfortune Teller		female		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Mme-Moriarty-Misfortune-Teller-10139.html				pending
+morocco	Morocco		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Morocco-10150.html				pending
 mr-czernobog	Mr. Czernobog		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Mr-Czernobog-44846.html				pending
 mr-ibis	Mr. Ibis		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Mr-Ibis-44848.html				pending
 mr-jacquel	Mr. Jacquel		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Mr-Jacquel-44856.html				pending
@@ -163,7 +161,9 @@ sky-city-before	Sky City (Before)		unisex		https://www.fragrantica.com/perfume/B
 snake-oil	Snake Oil		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Snake-Oil-15873.html				pending
 snow-glass-apple	Snow, Glass, Apple		female		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Snow-Glass-Apple-10132.html				pending
 spellbound	Spellbound		female		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Spellbound-15874.html				pending
+technical-boy	Technical Boy		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Technical-Boy-44858.html				pending
 thanatopsis	Thanatopsis		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/Thanatopsis-16146.html				pending
+the-antikythera-mechanism	The Antikythera Mechanism		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/The-Antikythera-Mechanism-12203.html				pending
 the-black-tower	The Black Tower		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/The-Black-Tower-16375.html				pending
 the-coiled-serpent	The Coiled Serpent		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/The-Coiled-Serpent-16386.html				pending
 the-curator	The Curator		unisex		https://www.fragrantica.com/perfume/Black-Phoenix-Alchemy-Lab/The-Curator-10151.html				pending

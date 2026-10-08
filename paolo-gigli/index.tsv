@@ -1,5 +1,4 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-scirocco	Scirocco		female		https://www.fragrantica.com/perfume/Paolo-Gigli/Scirocco-3253.html				pending
 acqua	Acqua		female		https://www.fragrantica.com/perfume/Paolo-Gigli/Acqua-6793.html				pending
 alhambra	Alhambra		male		https://www.fragrantica.com/perfume/Paolo-Gigli/Alhambra-12022.html				pending
 aria	Aria		female		https://www.fragrantica.com/perfume/Paolo-Gigli/Aria-6792.html				pending
@@ -39,6 +38,7 @@ piu-tardi	Piu Tardi		unisex		https://www.fragrantica.com/perfume/Paolo-Gigli/Piu
 prima	Prima		unisex		https://www.fragrantica.com/perfume/Paolo-Gigli/Prima-35634.html				pending
 rubino	Rubino		female		https://www.fragrantica.com/perfume/Paolo-Gigli/Rubino-15688.html				pending
 sardegna	Sardegna		unisex		https://www.fragrantica.com/perfume/Paolo-Gigli/Sardegna-35632.html				pending
+scirocco	Scirocco		female		https://www.fragrantica.com/perfume/Paolo-Gigli/Scirocco-3253.html				pending
 sicilia	Sicilia		unisex		https://www.fragrantica.com/perfume/Paolo-Gigli/Sicilia-35631.html				pending
 smeraldo	Smeraldo		female		https://www.fragrantica.com/perfume/Paolo-Gigli/Smeraldo-15687.html				pending
 sunrise	Sunrise		female		https://www.fragrantica.com/perfume/Paolo-Gigli/Sunrise-15682.html				pending
