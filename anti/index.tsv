@@ -1,3 +1,3 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bast	Bast		unisex	decant	https://www.fragrantica.com/perfume/Anti/Bast-113888.html	anti/unisex/bast.png			pending
-rosa-antiqua	Rosa Antiqua		unisex	decant	https://www.fragrantica.com/perfume/Anti/Rosa-Antiqua-113889.html	anti/unisex/rosa-antiqua.png			pending
+bast	Bast		unisex	decant	https://www.fragrantica.com/perfume/Anti/Bast-113888.html	anti/unisex/bast.png	https://cdn.shopify.com/s/files/1/0628/1324/1401/files/ANTI-bast-ANTBAST100_003_7ee8b56c-6133-4abf-ba3b-33ec54bd68df.jpg?v=1764426847	https://raw.githubusercontent.com/venom444556/fb-assets/main/anti/unisex/bast.png	passed
+rosa-antiqua	Rosa Antiqua		unisex	decant	https://www.fragrantica.com/perfume/Anti/Rosa-Antiqua-113889.html	anti/unisex/rosa-antiqua.png	https://cdn.shopify.com/s/files/1/0628/1324/1401/files/ANTI-rosaantiqua-ANTROSA100_003_d618092f-a527-404d-9292-f9bb7d5493f7.jpg?v=1764426847	https://raw.githubusercontent.com/venom444556/fb-assets/main/anti/unisex/rosa-antiqua.png	passed

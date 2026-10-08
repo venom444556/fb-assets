@@ -1,2 +1,2 @@
 slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-sequence	Sequence		unisex	watchlist	https://www.fragrantica.com/perfume/Amouage/Sequence-121884.html	amouage/unisex/sequence.png			pending
+sequence	Sequence		unisex	watchlist	https://www.fragrantica.com/perfume/Amouage/Sequence-121884.html	amouage/unisex/sequence.png	https://cdn.shopify.com/s/files/1/0823/5099/7796/files/Amouage_Essences_Commercial_2048x2048px4.jpg?v=1763631435	https://raw.githubusercontent.com/venom444556/fb-assets/main/amouage/unisex/sequence.png	passed
