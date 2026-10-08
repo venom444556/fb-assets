@@ -5,9 +5,9 @@ import csv, sys, os, re, unicodedata, collections
 repo = sys.argv[1]
 COLS = ['slug','fragrance','concentration','gender','fragrantica_url','image_path','source_url','hosted_raw_url','qc_status']
 # Fragrantica has no concentration field; it is only known when the name (or URL slug) states it.
-CONC = [(r'\bextrait(?: de parfum)?\b', 'Extrait de Parfum'), (r'\b(?:eau de parfum|edp)\b', 'Eau de Parfum'),
+CONC = [(r'\b(?:body|hair) mist\b', None), (r'\bextrait(?: de parfum)?\b', 'Extrait de Parfum'), (r'\b(?:eau de parfum|edp)\b', 'Eau de Parfum'),
         (r'\b(?:eau de toilette|edt)\b', 'Eau de Toilette'), (r'\b(?:eau de cologne|edc)\b', 'Eau de Cologne'),
-        (r'\beau fra[iî]che\b', 'Eau Fraiche'), (r'\b(?:body|hair) mist\b', None), (r'\b(?:perfume oil|attar)\b', 'Perfume Oil'),
+        (r'\beau fra[iî]che\b', 'Eau Fraiche'), (r'\b(?:perfume oil|attar)\b', 'Perfume Oil'),
         (r'(?<!\ble )(?<!\bla )(?<!\bmon )(?<!\bun )\bparfum$', 'Parfum'), (r'\bcologne$', 'Cologne')]
 def concentration(name, url):
     for text in (name, re.sub(r'-\d+\.html$', '', url.rsplit('/', 1)[-1]).replace('-', ' ')):
@@ -87,14 +87,18 @@ for src in sys.argv[2:]:
             added[hs] += 1
 # write
 import shutil
-for old in removed: shutil.rmtree(os.path.join(repo, old), ignore_errors=True)
+for old in removed:   # only an index-only folder is removed; one holding bottle images is left for a manual move
+    d = os.path.join(repo, old)
+    if os.path.isdir(d) and all(f == 'index.tsv' for _, _, fs in os.walk(d) for f in fs): shutil.rmtree(d)
+    elif os.path.isdir(d): print('kept', old, '(has image files)', file=sys.stderr)
 lookup = []
 for hs, rows in idx.items():
     os.makedirs(os.path.join(repo, hs), exist_ok=True)
     for r in rows:
         r.pop('list', None)
-        r['concentration'] = {'EDP': 'Eau de Parfum', 'EDT': 'Eau de Toilette', 'EDC': 'Eau de Cologne'}.get(r.get('concentration', ''), r.get('concentration', ''))
-        if not r.get('concentration'): r['concentration'] = concentration(r['fragrance'], r['fragrantica_url'])
+        # hand-checked rows (they have an image) keep their value; every other row is re-derived from the name
+        c = {'EDP': 'Eau de Parfum', 'EDT': 'Eau de Toilette', 'EDC': 'Eau de Cologne'}.get(r.get('concentration', ''), r.get('concentration', ''))
+        r['concentration'] = c if r.get('qc_status', 'pending') != 'pending' and c else concentration(r['fragrance'], r['fragrantica_url'])
     keep = rows[:len(rows)-added[hs]]; new = sorted(rows[len(keep):], key=lambda x: x['fragrance'].lower())
     rows = keep + new; idx[hs] = rows
     with open(os.path.join(repo, hs, 'index.tsv'), 'w', encoding='utf-8', newline='') as f:
