@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black	Black		male		https://www.fragrantica.com/perfume/Alvaro-Moreno/Black-91341.html				pending
-blue	Blue		male		https://www.fragrantica.com/perfume/Alvaro-Moreno/Blue-91344.html				pending
-dulzura	Dulzura		male		https://www.fragrantica.com/perfume/Alvaro-Moreno/Dulzura-91340.html				pending
-green	Green		male		https://www.fragrantica.com/perfume/Alvaro-Moreno/Green-91343.html				pending
-libre	Libre		male		https://www.fragrantica.com/perfume/Alvaro-Moreno/Libre-91345.html				pending
-pureza	Pureza		male		https://www.fragrantica.com/perfume/Alvaro-Moreno/Pureza-91339.html				pending
-raices	Raíces		male		https://www.fragrantica.com/perfume/Alvaro-Moreno/Raices-91342.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black	Black		male	https://www.fragrantica.com/perfume/Alvaro-Moreno/Black-91341.html				pending
+blue	Blue		male	https://www.fragrantica.com/perfume/Alvaro-Moreno/Blue-91344.html				pending
+dulzura	Dulzura		male	https://www.fragrantica.com/perfume/Alvaro-Moreno/Dulzura-91340.html				pending
+green	Green		male	https://www.fragrantica.com/perfume/Alvaro-Moreno/Green-91343.html				pending
+libre	Libre		male	https://www.fragrantica.com/perfume/Alvaro-Moreno/Libre-91345.html				pending
+pureza	Pureza		male	https://www.fragrantica.com/perfume/Alvaro-Moreno/Pureza-91339.html				pending
+raices	Raíces		male	https://www.fragrantica.com/perfume/Alvaro-Moreno/Raices-91342.html				pending

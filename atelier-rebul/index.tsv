@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1895	1895		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/1895-50898.html				pending
-amber	Amber		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Amber-50913.html				pending
-amourose	Amourose		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Amourose-95067.html				pending
-bal-dorient	Bal Dorient		female		https://www.fragrantica.com/perfume/Atelier-Rebul/Bal-Dorient-85893.html				pending
-bisous	Bisous		female		https://www.fragrantica.com/perfume/Atelier-Rebul/Bisous-85895.html				pending
-cardamom-oud	Cardamom Oud		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Cardamom-Oud-83815.html				pending
-eau-mystique	Eau Mystique		female		https://www.fragrantica.com/perfume/Atelier-Rebul/Eau-Mystique-72482.html				pending
-erguvan	Erguvan		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Erguvan-50994.html				pending
-incense-vetiver	Incense Vetiver		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Incense-Vetiver-83818.html				pending
-istanbul	Istanbul		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Istanbul-50903.html				pending
-istanbul-bosphorus	Istanbul Bosphorus		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Istanbul-Bosphorus-94733.html				pending
-j-c-reboul	J.C. Reboul		male		https://www.fragrantica.com/perfume/Atelier-Rebul/J-C-Reboul-85030.html				pending
-jardin-imperial	Jardin Imperial		female		https://www.fragrantica.com/perfume/Atelier-Rebul/Jardin-Imperial-69864.html				pending
-jasmine	Jasmine		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Jasmine-50917.html				pending
-latelier	L'Atelier		male		https://www.fragrantica.com/perfume/Atelier-Rebul/L-Atelier-85891.html				pending
-lemongrass-and-honey	Lemongrass & Honey		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Lemongrass-Honey-50904.html				pending
-mandarine	Mandarine		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Mandarine-50907.html				pending
-mimosa-wood	Mimosa Wood		female		https://www.fragrantica.com/perfume/Atelier-Rebul/Mimosa-Wood-66876.html				pending
-muguet	Muguet		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Muguet-50996.html				pending
-neroli	Neroli		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Neroli-50997.html				pending
-no-94	No. 94		female		https://www.fragrantica.com/perfume/Atelier-Rebul/No-94-66729.html				pending
-nuits-en-rose	Nuits En Rose		female		https://www.fragrantica.com/perfume/Atelier-Rebul/Nuits-En-Rose-85894.html				pending
-oud-noir	Oud Noir		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Oud-Noir-83816.html				pending
-oud-royal	Oud Royal		male		https://www.fragrantica.com/perfume/Atelier-Rebul/Oud-Royal-77227.html				pending
-patchouli-dor	Patchouli D'Or		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Patchouli-D-Or-83817.html				pending
-pera	Pera		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Pera-50873.html				pending
-rose	Rose		unisex		https://www.fragrantica.com/perfume/Atelier-Rebul/Rose-50995.html				pending
-tugra	Tugra		male		https://www.fragrantica.com/perfume/Atelier-Rebul/Tugra-85892.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1895	1895		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/1895-50898.html				pending
+amber	Amber		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Amber-50913.html				pending
+amourose	Amourose		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Amourose-95067.html				pending
+bal-dorient	Bal Dorient		female	https://www.fragrantica.com/perfume/Atelier-Rebul/Bal-Dorient-85893.html				pending
+bisous	Bisous		female	https://www.fragrantica.com/perfume/Atelier-Rebul/Bisous-85895.html				pending
+cardamom-oud	Cardamom Oud		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Cardamom-Oud-83815.html				pending
+eau-mystique	Eau Mystique		female	https://www.fragrantica.com/perfume/Atelier-Rebul/Eau-Mystique-72482.html				pending
+erguvan	Erguvan		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Erguvan-50994.html				pending
+incense-vetiver	Incense Vetiver		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Incense-Vetiver-83818.html				pending
+istanbul	Istanbul		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Istanbul-50903.html				pending
+istanbul-bosphorus	Istanbul Bosphorus		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Istanbul-Bosphorus-94733.html				pending
+j-c-reboul	J.C. Reboul		male	https://www.fragrantica.com/perfume/Atelier-Rebul/J-C-Reboul-85030.html				pending
+jardin-imperial	Jardin Imperial		female	https://www.fragrantica.com/perfume/Atelier-Rebul/Jardin-Imperial-69864.html				pending
+jasmine	Jasmine		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Jasmine-50917.html				pending
+latelier	L'Atelier		male	https://www.fragrantica.com/perfume/Atelier-Rebul/L-Atelier-85891.html				pending
+lemongrass-and-honey	Lemongrass & Honey		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Lemongrass-Honey-50904.html				pending
+mandarine	Mandarine		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Mandarine-50907.html				pending
+mimosa-wood	Mimosa Wood		female	https://www.fragrantica.com/perfume/Atelier-Rebul/Mimosa-Wood-66876.html				pending
+muguet	Muguet		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Muguet-50996.html				pending
+neroli	Neroli		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Neroli-50997.html				pending
+no-94	No. 94		female	https://www.fragrantica.com/perfume/Atelier-Rebul/No-94-66729.html				pending
+nuits-en-rose	Nuits En Rose		female	https://www.fragrantica.com/perfume/Atelier-Rebul/Nuits-En-Rose-85894.html				pending
+oud-noir	Oud Noir		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Oud-Noir-83816.html				pending
+oud-royal	Oud Royal		male	https://www.fragrantica.com/perfume/Atelier-Rebul/Oud-Royal-77227.html				pending
+patchouli-dor	Patchouli D'Or		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Patchouli-D-Or-83817.html				pending
+pera	Pera		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Pera-50873.html				pending
+rose	Rose		unisex	https://www.fragrantica.com/perfume/Atelier-Rebul/Rose-50995.html				pending
+tugra	Tugra		male	https://www.fragrantica.com/perfume/Atelier-Rebul/Tugra-85892.html				pending

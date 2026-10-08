@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-abime	Abime		unisex		https://www.fragrantica.com/perfume/Humiecki-Graef/Abime-24714.html				pending
-askew	Askew		male		https://www.fragrantica.com/perfume/Humiecki-Graef/Askew-7309.html				pending
-blask	Blask		unisex		https://www.fragrantica.com/perfume/Humiecki-Graef/Blask-12136.html				pending
-bosque	Bosque		unisex		https://www.fragrantica.com/perfume/Humiecki-Graef/Bosque-8538.html				pending
-bosque-limited-porcelain-edition	Bosque Limited Porcelain Edition		unisex		https://www.fragrantica.com/perfume/Humiecki-Graef/Bosque-Limited-Porcelain-Edition-13504.html				pending
-candour	Candour		unisex		https://www.fragrantica.com/perfume/Humiecki-Graef/Candour-14786.html				pending
-clemency	Clemency		female		https://www.fragrantica.com/perfume/Humiecki-Graef/Clemency-7492.html				pending
-clemency-limited-porcelain-edition	Clemency Limited Porcelain Edition		female		https://www.fragrantica.com/perfume/Humiecki-Graef/Clemency-Limited-Porcelain-Edition-13505.html				pending
-eau-radieuse	Eau Radieuse		unisex		https://www.fragrantica.com/perfume/Humiecki-Graef/Eau-Radieuse-7311.html				pending
-eau-radieuse-limited-porcelain-edition	Eau Radieuse Limited Porcelain Edition		unisex		https://www.fragrantica.com/perfume/Humiecki-Graef/Eau-Radieuse-Limited-Porcelain-Edition-13507.html				pending
-geste	Geste		female		https://www.fragrantica.com/perfume/Humiecki-Graef/Geste-7310.html				pending
-geste-limited-porcelain-edition	Geste Limited Porcelain Edition		female		https://www.fragrantica.com/perfume/Humiecki-Graef/Geste-Limited-Porcelain-Edition-13506.html				pending
-multiple-rouge	Multiple Rouge		female		https://www.fragrantica.com/perfume/Humiecki-Graef/Multiple-Rouge-7308.html				pending
-nouveau-ne	Nouveau-ne		unisex		https://www.fragrantica.com/perfume/Humiecki-Graef/Nouveau-ne-24715.html				pending
-skarb	Skarb		male		https://www.fragrantica.com/perfume/Humiecki-Graef/Skarb-7312.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+abime	Abime		unisex	https://www.fragrantica.com/perfume/Humiecki-Graef/Abime-24714.html				pending
+askew	Askew		male	https://www.fragrantica.com/perfume/Humiecki-Graef/Askew-7309.html				pending
+blask	Blask		unisex	https://www.fragrantica.com/perfume/Humiecki-Graef/Blask-12136.html				pending
+bosque	Bosque		unisex	https://www.fragrantica.com/perfume/Humiecki-Graef/Bosque-8538.html				pending
+bosque-limited-porcelain-edition	Bosque Limited Porcelain Edition		unisex	https://www.fragrantica.com/perfume/Humiecki-Graef/Bosque-Limited-Porcelain-Edition-13504.html				pending
+candour	Candour		unisex	https://www.fragrantica.com/perfume/Humiecki-Graef/Candour-14786.html				pending
+clemency	Clemency		female	https://www.fragrantica.com/perfume/Humiecki-Graef/Clemency-7492.html				pending
+clemency-limited-porcelain-edition	Clemency Limited Porcelain Edition		female	https://www.fragrantica.com/perfume/Humiecki-Graef/Clemency-Limited-Porcelain-Edition-13505.html				pending
+eau-radieuse	Eau Radieuse		unisex	https://www.fragrantica.com/perfume/Humiecki-Graef/Eau-Radieuse-7311.html				pending
+eau-radieuse-limited-porcelain-edition	Eau Radieuse Limited Porcelain Edition		unisex	https://www.fragrantica.com/perfume/Humiecki-Graef/Eau-Radieuse-Limited-Porcelain-Edition-13507.html				pending
+geste	Geste		female	https://www.fragrantica.com/perfume/Humiecki-Graef/Geste-7310.html				pending
+geste-limited-porcelain-edition	Geste Limited Porcelain Edition		female	https://www.fragrantica.com/perfume/Humiecki-Graef/Geste-Limited-Porcelain-Edition-13506.html				pending
+multiple-rouge	Multiple Rouge		female	https://www.fragrantica.com/perfume/Humiecki-Graef/Multiple-Rouge-7308.html				pending
+nouveau-ne	Nouveau-ne		unisex	https://www.fragrantica.com/perfume/Humiecki-Graef/Nouveau-ne-24715.html				pending
+skarb	Skarb		male	https://www.fragrantica.com/perfume/Humiecki-Graef/Skarb-7312.html				pending

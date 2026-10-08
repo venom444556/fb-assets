@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-fleur-fatale	Fleur Fatale		female		https://www.fragrantica.com/perfume/Kim-Kardashian/Fleur-Fatale-28139.html				pending
-glam	Glam		female		https://www.fragrantica.com/perfume/Kim-Kardashian/Glam-15588.html				pending
-gold	Gold		female		https://www.fragrantica.com/perfume/Kim-Kardashian/Gold-11510.html				pending
-kim-kardashian	Kim Kardashian		female		https://www.fragrantica.com/perfume/Kim-Kardashian/Kim-Kardashian-7281.html				pending
-kim-kardashian-love	Kim Kardashian Love		female		https://www.fragrantica.com/perfume/Kim-Kardashian/Kim-Kardashian-Love-13076.html				pending
-pure-honey	Pure Honey		female		https://www.fragrantica.com/perfume/Kim-Kardashian/Pure-Honey-17511.html				pending
-true-reflection	True Reflection		female		https://www.fragrantica.com/perfume/Kim-Kardashian/True-Reflection-13415.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+fleur-fatale	Fleur Fatale		female	https://www.fragrantica.com/perfume/Kim-Kardashian/Fleur-Fatale-28139.html				pending
+glam	Glam		female	https://www.fragrantica.com/perfume/Kim-Kardashian/Glam-15588.html				pending
+gold	Gold		female	https://www.fragrantica.com/perfume/Kim-Kardashian/Gold-11510.html				pending
+kim-kardashian	Kim Kardashian		female	https://www.fragrantica.com/perfume/Kim-Kardashian/Kim-Kardashian-7281.html				pending
+kim-kardashian-love	Kim Kardashian Love		female	https://www.fragrantica.com/perfume/Kim-Kardashian/Kim-Kardashian-Love-13076.html				pending
+pure-honey	Pure Honey		female	https://www.fragrantica.com/perfume/Kim-Kardashian/Pure-Honey-17511.html				pending
+true-reflection	True Reflection		female	https://www.fragrantica.com/perfume/Kim-Kardashian/True-Reflection-13415.html				pending

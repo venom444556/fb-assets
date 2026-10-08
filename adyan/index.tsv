@@ -1,38 +1,38 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-al-fares	Al Fares		male		https://www.fragrantica.com/perfume/Adyan/Al-Fares-85004.html				pending
-anotha-gold	Anotha Gold		unisex		https://www.fragrantica.com/perfume/Adyan/Anotha-Gold-85007.html				pending
-anotha-silver	Anotha Silver		unisex		https://www.fragrantica.com/perfume/Adyan/Anotha-Silver-85006.html				pending
-asloob	Asloob		female		https://www.fragrantica.com/perfume/Adyan/Asloob-85008.html				pending
-attar-al-huruf	Attar Al Huruf		unisex		https://www.fragrantica.com/perfume/Adyan/Attar-Al-Huruf-85009.html				pending
-bara	Bara		male		https://www.fragrantica.com/perfume/Adyan/Bara-85010.html				pending
-ehsas-raee	Ehsas Rae'e		unisex		https://www.fragrantica.com/perfume/Adyan/Ehsas-Rae-e-85011.html				pending
-emira	Emira		female		https://www.fragrantica.com/perfume/Adyan/Emira-85012.html				pending
-ighra	Ighra		female		https://www.fragrantica.com/perfume/Adyan/Ighra-85013.html				pending
-lak-qalbi	Lak Qalbi		unisex		https://www.fragrantica.com/perfume/Adyan/Lak-Qalbi-85014.html				pending
-legacy-of-oud	Legacy of Oud		unisex		https://www.fragrantica.com/perfume/Adyan/Legacy-of-Oud-85015.html				pending
-mahib	Mahib		female		https://www.fragrantica.com/perfume/Adyan/Mahib-85017.html				pending
-mashael	Mashael		unisex		https://www.fragrantica.com/perfume/Adyan/Mashael-85018.html				pending
-mayar	Mayar		female		https://www.fragrantica.com/perfume/Adyan/Mayar-85020.html				pending
-musk-essential	Musk Essential		unisex		https://www.fragrantica.com/perfume/Adyan/Musk-Essential-85021.html				pending
-muwood-black	Muwood Black		male		https://www.fragrantica.com/perfume/Adyan/Muwood-Black-85023.html				pending
-muwood-murakaz	Muwood Murakaz		female		https://www.fragrantica.com/perfume/Adyan/Muwood-Murakaz-85025.html				pending
-naseem-al-bahar	Naseem Al Bahar		male		https://www.fragrantica.com/perfume/Adyan/Naseem-Al-Bahar-85236.html				pending
-nesmat-al-oud	Nesmat Al Oud		male		https://www.fragrantica.com/perfume/Adyan/Nesmat-Al-Oud-85237.html				pending
-oud-essential	Oud Essential		male		https://www.fragrantica.com/perfume/Adyan/Oud-Essential-85238.html				pending
-oud-raee	Oud Rae'e		male		https://www.fragrantica.com/perfume/Adyan/Oud-Rae-e-85239.html				pending
-oud-saffron	Oud Saffron		unisex		https://www.fragrantica.com/perfume/Adyan/Oud-Saffron-85240.html				pending
-oud-velvet	Oud Velvet		female		https://www.fragrantica.com/perfume/Adyan/Oud-Velvet-85241.html				pending
-rehla	Rehla		female		https://www.fragrantica.com/perfume/Adyan/Rehla-85242.html				pending
-samara	Samara		female		https://www.fragrantica.com/perfume/Adyan/Samara-85273.html				pending
-sanad	Sanad		male		https://www.fragrantica.com/perfume/Adyan/Sanad-85274.html				pending
-sarah	Sarah		female		https://www.fragrantica.com/perfume/Adyan/Sarah-85275.html				pending
-sharf	Sharf		male		https://www.fragrantica.com/perfume/Adyan/Sharf-85276.html				pending
-shujah	Shujah		unisex		https://www.fragrantica.com/perfume/Adyan/Shujah-85277.html				pending
-tamara	Tamara		female		https://www.fragrantica.com/perfume/Adyan/Tamara-85278.html				pending
-tarteel	Tarteel		female		https://www.fragrantica.com/perfume/Adyan/Tarteel-85279.html				pending
-thamniyat-ambree	Thamniyat Ambree		unisex		https://www.fragrantica.com/perfume/Adyan/Thamniyat-Ambree-85280.html				pending
-thamniyat-vetiver	Thamniyat Vetiver		male		https://www.fragrantica.com/perfume/Adyan/Thamniyat-Vetiver-85281.html				pending
-urooj	Urooj		male		https://www.fragrantica.com/perfume/Adyan/Urooj-85282.html				pending
-voice-of-oud	Voice of Oud		unisex		https://www.fragrantica.com/perfume/Adyan/Voice-of-Oud-85283.html				pending
-wujood-oud-noir	Wujood Oud Noir		unisex		https://www.fragrantica.com/perfume/Adyan/Wujood-Oud-Noir-85284.html				pending
-wujood-rose-poudre	Wujood Rose Poudre		female		https://www.fragrantica.com/perfume/Adyan/Wujood-Rose-Poudre-85285.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+al-fares	Al Fares		male	https://www.fragrantica.com/perfume/Adyan/Al-Fares-85004.html				pending
+anotha-gold	Anotha Gold		unisex	https://www.fragrantica.com/perfume/Adyan/Anotha-Gold-85007.html				pending
+anotha-silver	Anotha Silver		unisex	https://www.fragrantica.com/perfume/Adyan/Anotha-Silver-85006.html				pending
+asloob	Asloob		female	https://www.fragrantica.com/perfume/Adyan/Asloob-85008.html				pending
+attar-al-huruf	Attar Al Huruf	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Adyan/Attar-Al-Huruf-85009.html				pending
+bara	Bara		male	https://www.fragrantica.com/perfume/Adyan/Bara-85010.html				pending
+ehsas-raee	Ehsas Rae'e		unisex	https://www.fragrantica.com/perfume/Adyan/Ehsas-Rae-e-85011.html				pending
+emira	Emira		female	https://www.fragrantica.com/perfume/Adyan/Emira-85012.html				pending
+ighra	Ighra		female	https://www.fragrantica.com/perfume/Adyan/Ighra-85013.html				pending
+lak-qalbi	Lak Qalbi		unisex	https://www.fragrantica.com/perfume/Adyan/Lak-Qalbi-85014.html				pending
+legacy-of-oud	Legacy of Oud		unisex	https://www.fragrantica.com/perfume/Adyan/Legacy-of-Oud-85015.html				pending
+mahib	Mahib		female	https://www.fragrantica.com/perfume/Adyan/Mahib-85017.html				pending
+mashael	Mashael		unisex	https://www.fragrantica.com/perfume/Adyan/Mashael-85018.html				pending
+mayar	Mayar		female	https://www.fragrantica.com/perfume/Adyan/Mayar-85020.html				pending
+musk-essential	Musk Essential		unisex	https://www.fragrantica.com/perfume/Adyan/Musk-Essential-85021.html				pending
+muwood-black	Muwood Black		male	https://www.fragrantica.com/perfume/Adyan/Muwood-Black-85023.html				pending
+muwood-murakaz	Muwood Murakaz		female	https://www.fragrantica.com/perfume/Adyan/Muwood-Murakaz-85025.html				pending
+naseem-al-bahar	Naseem Al Bahar		male	https://www.fragrantica.com/perfume/Adyan/Naseem-Al-Bahar-85236.html				pending
+nesmat-al-oud	Nesmat Al Oud		male	https://www.fragrantica.com/perfume/Adyan/Nesmat-Al-Oud-85237.html				pending
+oud-essential	Oud Essential		male	https://www.fragrantica.com/perfume/Adyan/Oud-Essential-85238.html				pending
+oud-raee	Oud Rae'e		male	https://www.fragrantica.com/perfume/Adyan/Oud-Rae-e-85239.html				pending
+oud-saffron	Oud Saffron		unisex	https://www.fragrantica.com/perfume/Adyan/Oud-Saffron-85240.html				pending
+oud-velvet	Oud Velvet		female	https://www.fragrantica.com/perfume/Adyan/Oud-Velvet-85241.html				pending
+rehla	Rehla		female	https://www.fragrantica.com/perfume/Adyan/Rehla-85242.html				pending
+samara	Samara		female	https://www.fragrantica.com/perfume/Adyan/Samara-85273.html				pending
+sanad	Sanad		male	https://www.fragrantica.com/perfume/Adyan/Sanad-85274.html				pending
+sarah	Sarah		female	https://www.fragrantica.com/perfume/Adyan/Sarah-85275.html				pending
+sharf	Sharf		male	https://www.fragrantica.com/perfume/Adyan/Sharf-85276.html				pending
+shujah	Shujah		unisex	https://www.fragrantica.com/perfume/Adyan/Shujah-85277.html				pending
+tamara	Tamara		female	https://www.fragrantica.com/perfume/Adyan/Tamara-85278.html				pending
+tarteel	Tarteel		female	https://www.fragrantica.com/perfume/Adyan/Tarteel-85279.html				pending
+thamniyat-ambree	Thamniyat Ambree		unisex	https://www.fragrantica.com/perfume/Adyan/Thamniyat-Ambree-85280.html				pending
+thamniyat-vetiver	Thamniyat Vetiver		male	https://www.fragrantica.com/perfume/Adyan/Thamniyat-Vetiver-85281.html				pending
+urooj	Urooj		male	https://www.fragrantica.com/perfume/Adyan/Urooj-85282.html				pending
+voice-of-oud	Voice of Oud		unisex	https://www.fragrantica.com/perfume/Adyan/Voice-of-Oud-85283.html				pending
+wujood-oud-noir	Wujood Oud Noir		unisex	https://www.fragrantica.com/perfume/Adyan/Wujood-Oud-Noir-85284.html				pending
+wujood-rose-poudre	Wujood Rose Poudre		female	https://www.fragrantica.com/perfume/Adyan/Wujood-Rose-Poudre-85285.html				pending

@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-01-destination-unkown	01 Destination Unkown		female		https://www.fragrantica.com/perfume/Memoire-Archives/01-Destination-Unkown-74580.html				pending
-02-garden-party	02 Garden Party		unisex		https://www.fragrantica.com/perfume/Memoire-Archives/02-Garden-Party-74581.html				pending
-03-by-the-sea	03 By The Sea		female		https://www.fragrantica.com/perfume/Memoire-Archives/03-By-The-Sea-74582.html				pending
-04-wish-you-were-here	04 Wish You Were Here		female		https://www.fragrantica.com/perfume/Memoire-Archives/04-Wish-You-Were-Here-74583.html				pending
-05-candle-lit-evening	05 Candle Lit Evening		unisex		https://www.fragrantica.com/perfume/Memoire-Archives/05-Candle-Lit-Evening-69162.html				pending
-06-cabin-retreat	06 Cabin Retreat		female		https://www.fragrantica.com/perfume/Memoire-Archives/06-Cabin-Retreat-74584.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+01-destination-unkown	01 Destination Unkown		female	https://www.fragrantica.com/perfume/Memoire-Archives/01-Destination-Unkown-74580.html				pending
+02-garden-party	02 Garden Party		unisex	https://www.fragrantica.com/perfume/Memoire-Archives/02-Garden-Party-74581.html				pending
+03-by-the-sea	03 By The Sea		female	https://www.fragrantica.com/perfume/Memoire-Archives/03-By-The-Sea-74582.html				pending
+04-wish-you-were-here	04 Wish You Were Here		female	https://www.fragrantica.com/perfume/Memoire-Archives/04-Wish-You-Were-Here-74583.html				pending
+05-candle-lit-evening	05 Candle Lit Evening		unisex	https://www.fragrantica.com/perfume/Memoire-Archives/05-Candle-Lit-Evening-69162.html				pending
+06-cabin-retreat	06 Cabin Retreat		female	https://www.fragrantica.com/perfume/Memoire-Archives/06-Cabin-Retreat-74584.html				pending

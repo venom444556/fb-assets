@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blyss	Blyss		female		https://www.fragrantica.com/perfume/Perfumology/Blyss-43710.html				pending
-clutch	Clutch		unisex		https://www.fragrantica.com/perfume/Perfumology/Clutch-52489.html				pending
-grange	Grange		male		https://www.fragrantica.com/perfume/Perfumology/Grange-48976.html				pending
-sudu-te	Sudu Te		unisex		https://www.fragrantica.com/perfume/Perfumology/Sudu-Te-69211.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blyss	Blyss		female	https://www.fragrantica.com/perfume/Perfumology/Blyss-43710.html				pending
+clutch	Clutch		unisex	https://www.fragrantica.com/perfume/Perfumology/Clutch-52489.html				pending
+grange	Grange		male	https://www.fragrantica.com/perfume/Perfumology/Grange-48976.html				pending
+sudu-te	Sudu Te		unisex	https://www.fragrantica.com/perfume/Perfumology/Sudu-Te-69211.html				pending

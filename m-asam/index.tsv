@@ -1,38 +1,38 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-2012-eau-de-parfum	2012 Eau de Parfum		female		https://www.fragrantica.com/perfume/M-Asam/2012-Eau-de-Parfum-17548.html				pending
-2013-eau-de-parfum	2013 Eau de Parfum		female		https://www.fragrantica.com/perfume/M-Asam/2013-Eau-de-Parfum-17549.html				pending
-2017-eau-de-parfum	2017 Eau de Parfum		female		https://www.fragrantica.com/perfume/M-Asam/2017-Eau-de-Parfum-42958.html				pending
-aprikose-vanille	APRIKOSE VANILLE		female		https://www.fragrantica.com/perfume/M-Asam/APRIKOSE-VANILLE-51298.html				pending
-blue-dreams	Blue Dreams		female		https://www.fragrantica.com/perfume/M-Asam/Blue-Dreams-6718.html				pending
-blue-dreams-no-2	Blue Dreams No. 2		unisex		https://www.fragrantica.com/perfume/M-Asam/Blue-Dreams-No-2-42740.html				pending
-buttermilch-orange-buttermilk-orange	Buttermilch Orange (Buttermilk Orange)		female		https://www.fragrantica.com/perfume/M-Asam/Buttermilch-Orange-Buttermilk-Orange-17550.html				pending
-dayglamour	Dayglamour		female		https://www.fragrantica.com/perfume/M-Asam/Dayglamour-17584.html				pending
-deluxe	Deluxe		female		https://www.fragrantica.com/perfume/M-Asam/Deluxe-42738.html				pending
-dreams-of-roses	Dreams of Roses		female		https://www.fragrantica.com/perfume/M-Asam/Dreams-of-Roses-42743.html				pending
-from-mirjam-with-love	From Mirjam with Love		unisex		https://www.fragrantica.com/perfume/M-Asam/From-Mirjam-with-Love-47322.html				pending
-green-garden-rose	GREEN GARDEN ROSE		female		https://www.fragrantica.com/perfume/M-Asam/GREEN-GARDEN-ROSE-55268.html				pending
-inspiration	Inspiration		male		https://www.fragrantica.com/perfume/M-Asam/Inspiration-42742.html				pending
-lady	Lady		female		https://www.fragrantica.com/perfume/M-Asam/Lady-17585.html				pending
-little-blue-flower	LITTLE BLUE FLOWER		female		https://www.fragrantica.com/perfume/M-Asam/LITTLE-BLUE-FLOWER-55269.html				pending
-lovely	Lovely		female		https://www.fragrantica.com/perfume/M-Asam/Lovely-15293.html				pending
-mango-vanilla	Mango Vanilla		female		https://www.fragrantica.com/perfume/M-Asam/Mango-Vanilla-42739.html				pending
-men	Men		male		https://www.fragrantica.com/perfume/M-Asam/Men-6719.html				pending
-men-wild-water	Men Wild Water		male		https://www.fragrantica.com/perfume/M-Asam/Men-Wild-Water-6722.html				pending
-miami-style	Miami Style		female		https://www.fragrantica.com/perfume/M-Asam/Miami-Style-17586.html				pending
-nightglamour	Nightglamour		female		https://www.fragrantica.com/perfume/M-Asam/Nightglamour-17587.html				pending
-no-2	No. 2		female		https://www.fragrantica.com/perfume/M-Asam/No-2-17588.html				pending
-no-1	No.1		female		https://www.fragrantica.com/perfume/M-Asam/No-1-6720.html				pending
-paradise	Paradise		female		https://www.fragrantica.com/perfume/M-Asam/Paradise-17593.html				pending
-paris	Paris		female		https://www.fragrantica.com/perfume/M-Asam/Paris-17547.html				pending
-pink-hibiscus	Pink Hibiscus		female		https://www.fragrantica.com/perfume/M-Asam/Pink-Hibiscus-42745.html				pending
-resveratrol-premium-romance	RESVERATROL PREMIUM Romance		female		https://www.fragrantica.com/perfume/M-Asam/RESVERATROL-PREMIUM-Romance-55271.html				pending
-rose	Rose		female		https://www.fragrantica.com/perfume/M-Asam/Rose-6721.html				pending
-rosewood	ROSEWOOD		female		https://www.fragrantica.com/perfume/M-Asam/ROSEWOOD-55270.html				pending
-sicilian-orange	Sicilian Orange		unisex		https://www.fragrantica.com/perfume/M-Asam/Sicilian-Orange-38168.html				pending
-spring-moments	Spring Moments		female		https://www.fragrantica.com/perfume/M-Asam/Spring-Moments-42744.html				pending
-sun	Sun		female		https://www.fragrantica.com/perfume/M-Asam/Sun-17594.html				pending
-sunny-orange	SUNNY ORANGE		female		https://www.fragrantica.com/perfume/M-Asam/SUNNY-ORANGE-51297.html				pending
-tropic-cherry	Tropic Cherry		female		https://www.fragrantica.com/perfume/M-Asam/Tropic-Cherry-42746.html				pending
-vanille	Vanille		female		https://www.fragrantica.com/perfume/M-Asam/Vanille-17596.html				pending
-velvance	Velvance		female		https://www.fragrantica.com/perfume/M-Asam/Velvance-42741.html				pending
-verfuehrung-seduction	Verfuehrung Seduction		female		https://www.fragrantica.com/perfume/M-Asam/Verfuehrung-Seduction-17595.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+2012-eau-de-parfum	2012 Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/M-Asam/2012-Eau-de-Parfum-17548.html				pending
+2013-eau-de-parfum	2013 Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/M-Asam/2013-Eau-de-Parfum-17549.html				pending
+2017-eau-de-parfum	2017 Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/M-Asam/2017-Eau-de-Parfum-42958.html				pending
+aprikose-vanille	APRIKOSE VANILLE		female	https://www.fragrantica.com/perfume/M-Asam/APRIKOSE-VANILLE-51298.html				pending
+blue-dreams	Blue Dreams		female	https://www.fragrantica.com/perfume/M-Asam/Blue-Dreams-6718.html				pending
+blue-dreams-no-2	Blue Dreams No. 2		unisex	https://www.fragrantica.com/perfume/M-Asam/Blue-Dreams-No-2-42740.html				pending
+buttermilch-orange-buttermilk-orange	Buttermilch Orange (Buttermilk Orange)		female	https://www.fragrantica.com/perfume/M-Asam/Buttermilch-Orange-Buttermilk-Orange-17550.html				pending
+dayglamour	Dayglamour		female	https://www.fragrantica.com/perfume/M-Asam/Dayglamour-17584.html				pending
+deluxe	Deluxe		female	https://www.fragrantica.com/perfume/M-Asam/Deluxe-42738.html				pending
+dreams-of-roses	Dreams of Roses		female	https://www.fragrantica.com/perfume/M-Asam/Dreams-of-Roses-42743.html				pending
+from-mirjam-with-love	From Mirjam with Love		unisex	https://www.fragrantica.com/perfume/M-Asam/From-Mirjam-with-Love-47322.html				pending
+green-garden-rose	GREEN GARDEN ROSE		female	https://www.fragrantica.com/perfume/M-Asam/GREEN-GARDEN-ROSE-55268.html				pending
+inspiration	Inspiration		male	https://www.fragrantica.com/perfume/M-Asam/Inspiration-42742.html				pending
+lady	Lady		female	https://www.fragrantica.com/perfume/M-Asam/Lady-17585.html				pending
+little-blue-flower	LITTLE BLUE FLOWER		female	https://www.fragrantica.com/perfume/M-Asam/LITTLE-BLUE-FLOWER-55269.html				pending
+lovely	Lovely		female	https://www.fragrantica.com/perfume/M-Asam/Lovely-15293.html				pending
+mango-vanilla	Mango Vanilla		female	https://www.fragrantica.com/perfume/M-Asam/Mango-Vanilla-42739.html				pending
+men	Men		male	https://www.fragrantica.com/perfume/M-Asam/Men-6719.html				pending
+men-wild-water	Men Wild Water		male	https://www.fragrantica.com/perfume/M-Asam/Men-Wild-Water-6722.html				pending
+miami-style	Miami Style		female	https://www.fragrantica.com/perfume/M-Asam/Miami-Style-17586.html				pending
+nightglamour	Nightglamour		female	https://www.fragrantica.com/perfume/M-Asam/Nightglamour-17587.html				pending
+no-2	No. 2		female	https://www.fragrantica.com/perfume/M-Asam/No-2-17588.html				pending
+no-1	No.1		female	https://www.fragrantica.com/perfume/M-Asam/No-1-6720.html				pending
+paradise	Paradise		female	https://www.fragrantica.com/perfume/M-Asam/Paradise-17593.html				pending
+paris	Paris		female	https://www.fragrantica.com/perfume/M-Asam/Paris-17547.html				pending
+pink-hibiscus	Pink Hibiscus		female	https://www.fragrantica.com/perfume/M-Asam/Pink-Hibiscus-42745.html				pending
+resveratrol-premium-romance	RESVERATROL PREMIUM Romance		female	https://www.fragrantica.com/perfume/M-Asam/RESVERATROL-PREMIUM-Romance-55271.html				pending
+rose	Rose		female	https://www.fragrantica.com/perfume/M-Asam/Rose-6721.html				pending
+rosewood	ROSEWOOD		female	https://www.fragrantica.com/perfume/M-Asam/ROSEWOOD-55270.html				pending
+sicilian-orange	Sicilian Orange		unisex	https://www.fragrantica.com/perfume/M-Asam/Sicilian-Orange-38168.html				pending
+spring-moments	Spring Moments		female	https://www.fragrantica.com/perfume/M-Asam/Spring-Moments-42744.html				pending
+sun	Sun		female	https://www.fragrantica.com/perfume/M-Asam/Sun-17594.html				pending
+sunny-orange	SUNNY ORANGE		female	https://www.fragrantica.com/perfume/M-Asam/SUNNY-ORANGE-51297.html				pending
+tropic-cherry	Tropic Cherry		female	https://www.fragrantica.com/perfume/M-Asam/Tropic-Cherry-42746.html				pending
+vanille	Vanille		female	https://www.fragrantica.com/perfume/M-Asam/Vanille-17596.html				pending
+velvance	Velvance		female	https://www.fragrantica.com/perfume/M-Asam/Velvance-42741.html				pending
+verfuehrung-seduction	Verfuehrung Seduction		female	https://www.fragrantica.com/perfume/M-Asam/Verfuehrung-Seduction-17595.html				pending

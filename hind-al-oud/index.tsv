@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ahojas	Ahojas		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Ahojas-87691.html				pending
-aliyae	Aliya'E		female		https://www.fragrantica.com/perfume/Hind-Al-Oud/Aliya-E-87688.html				pending
-barari	Barari		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Barari-87690.html				pending
-burgundy	Burgundy		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Burgundy-87758.html				pending
-dalaa	Dalaa		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Dalaa-87762.html				pending
-emarati-musk	Emarati Musk		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Emarati-Musk-87692.html				pending
-emarati-oud	Emarati Oud		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Emarati-Oud-87754.html				pending
-hind	Hind		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Hind-87757.html				pending
-kohl	Kohl		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Kohl-87759.html				pending
-masaey	Masa'ey		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Masa-ey-87755.html				pending
-musk-al-molok	Musk Al Molok		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Musk-Al-Molok-87761.html				pending
-musk-al-shiokh	Musk Al Shiokh		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Musk-Al-Shiokh-87753.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Patchouli-87756.html				pending
-pink-musk	Pink Musk		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Pink-Musk-87904.html				pending
-rose	Rose		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Rose-87760.html				pending
-sheikh-a	Sheikh A		male		https://www.fragrantica.com/perfume/Hind-Al-Oud/Sheikh-A-87689.html				pending
-silver-musk	Silver Musk		unisex		https://www.fragrantica.com/perfume/Hind-Al-Oud/Silver-Musk-87906.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ahojas	Ahojas		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Ahojas-87691.html				pending
+aliyae	Aliya'E		female	https://www.fragrantica.com/perfume/Hind-Al-Oud/Aliya-E-87688.html				pending
+barari	Barari		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Barari-87690.html				pending
+burgundy	Burgundy		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Burgundy-87758.html				pending
+dalaa	Dalaa		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Dalaa-87762.html				pending
+emarati-musk	Emarati Musk		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Emarati-Musk-87692.html				pending
+emarati-oud	Emarati Oud		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Emarati-Oud-87754.html				pending
+hind	Hind		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Hind-87757.html				pending
+kohl	Kohl		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Kohl-87759.html				pending
+masaey	Masa'ey		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Masa-ey-87755.html				pending
+musk-al-molok	Musk Al Molok		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Musk-Al-Molok-87761.html				pending
+musk-al-shiokh	Musk Al Shiokh		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Musk-Al-Shiokh-87753.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Patchouli-87756.html				pending
+pink-musk	Pink Musk		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Pink-Musk-87904.html				pending
+rose	Rose		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Rose-87760.html				pending
+sheikh-a	Sheikh A		male	https://www.fragrantica.com/perfume/Hind-Al-Oud/Sheikh-A-87689.html				pending
+silver-musk	Silver Musk		unisex	https://www.fragrantica.com/perfume/Hind-Al-Oud/Silver-Musk-87906.html				pending

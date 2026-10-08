@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-al-zain	Al Zain		female		https://www.fragrantica.com/perfume/Mashaer/Al-Zain-94842.html				pending
-faris	Faris		male		https://www.fragrantica.com/perfume/Mashaer/Faris-94870.html				pending
-first-love-gold	First Love Gold		female		https://www.fragrantica.com/perfume/Mashaer/First-Love-Gold-94929.html				pending
-first-love-rose	First Love Rose		female		https://www.fragrantica.com/perfume/Mashaer/First-Love-Rose-94945.html				pending
-first-love-rouge	First Love Rouge		female		https://www.fragrantica.com/perfume/Mashaer/First-Love-Rouge-94949.html				pending
-habeeb	Habeeb		male		https://www.fragrantica.com/perfume/Mashaer/Habeeb-94973.html				pending
-habeebah	Habeebah		female		https://www.fragrantica.com/perfume/Mashaer/Habeebah-94972.html				pending
-khaleel	Khaleel		male		https://www.fragrantica.com/perfume/Mashaer/Khaleel-95040.html				pending
-khalelah	Khalelah		female		https://www.fragrantica.com/perfume/Mashaer/Khalelah-95041.html				pending
-khayal	Khayal		male		https://www.fragrantica.com/perfume/Mashaer/Khayal-95042.html				pending
-khumrat-al-musk	Khumrat Al Musk		female		https://www.fragrantica.com/perfume/Mashaer/Khumrat-Al-Musk-95043.html				pending
-khumrat-al-teeb	Khumrat Al Teeb		female		https://www.fragrantica.com/perfume/Mashaer/Khumrat-Al-Teeb-95046.html				pending
-miral	Miral		female		https://www.fragrantica.com/perfume/Mashaer/Miral-95050.html				pending
-oud-hindi	Oud Hindi		male		https://www.fragrantica.com/perfume/Mashaer/Oud-Hindi-95052.html				pending
-oudh-azraq	Oudh Azraq		unisex		https://www.fragrantica.com/perfume/Mashaer/Oudh-Azraq-95051.html				pending
-patchouli-oudh	Patchouli Oudh		male		https://www.fragrantica.com/perfume/Mashaer/Patchouli-Oudh-95053.html				pending
-rehana	Rehana		female		https://www.fragrantica.com/perfume/Mashaer/Rehana-95054.html				pending
-royal-amber-oud	Royal Amber Oud		male		https://www.fragrantica.com/perfume/Mashaer/Royal-Amber-Oud-95056.html				pending
-royal-amber-oud-gold-edition	Royal Amber Oud Gold Edition		female		https://www.fragrantica.com/perfume/Mashaer/Royal-Amber-Oud-Gold-Edition-95055.html				pending
-tala	Tala		female		https://www.fragrantica.com/perfume/Mashaer/Tala-95057.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+al-zain	Al Zain		female	https://www.fragrantica.com/perfume/Mashaer/Al-Zain-94842.html				pending
+faris	Faris		male	https://www.fragrantica.com/perfume/Mashaer/Faris-94870.html				pending
+first-love-gold	First Love Gold		female	https://www.fragrantica.com/perfume/Mashaer/First-Love-Gold-94929.html				pending
+first-love-rose	First Love Rose		female	https://www.fragrantica.com/perfume/Mashaer/First-Love-Rose-94945.html				pending
+first-love-rouge	First Love Rouge		female	https://www.fragrantica.com/perfume/Mashaer/First-Love-Rouge-94949.html				pending
+habeeb	Habeeb		male	https://www.fragrantica.com/perfume/Mashaer/Habeeb-94973.html				pending
+habeebah	Habeebah		female	https://www.fragrantica.com/perfume/Mashaer/Habeebah-94972.html				pending
+khaleel	Khaleel		male	https://www.fragrantica.com/perfume/Mashaer/Khaleel-95040.html				pending
+khalelah	Khalelah		female	https://www.fragrantica.com/perfume/Mashaer/Khalelah-95041.html				pending
+khayal	Khayal		male	https://www.fragrantica.com/perfume/Mashaer/Khayal-95042.html				pending
+khumrat-al-musk	Khumrat Al Musk		female	https://www.fragrantica.com/perfume/Mashaer/Khumrat-Al-Musk-95043.html				pending
+khumrat-al-teeb	Khumrat Al Teeb		female	https://www.fragrantica.com/perfume/Mashaer/Khumrat-Al-Teeb-95046.html				pending
+miral	Miral		female	https://www.fragrantica.com/perfume/Mashaer/Miral-95050.html				pending
+oud-hindi	Oud Hindi		male	https://www.fragrantica.com/perfume/Mashaer/Oud-Hindi-95052.html				pending
+oudh-azraq	Oudh Azraq		unisex	https://www.fragrantica.com/perfume/Mashaer/Oudh-Azraq-95051.html				pending
+patchouli-oudh	Patchouli Oudh		male	https://www.fragrantica.com/perfume/Mashaer/Patchouli-Oudh-95053.html				pending
+rehana	Rehana		female	https://www.fragrantica.com/perfume/Mashaer/Rehana-95054.html				pending
+royal-amber-oud	Royal Amber Oud		male	https://www.fragrantica.com/perfume/Mashaer/Royal-Amber-Oud-95056.html				pending
+royal-amber-oud-gold-edition	Royal Amber Oud Gold Edition		female	https://www.fragrantica.com/perfume/Mashaer/Royal-Amber-Oud-Gold-Edition-95055.html				pending
+tala	Tala		female	https://www.fragrantica.com/perfume/Mashaer/Tala-95057.html				pending

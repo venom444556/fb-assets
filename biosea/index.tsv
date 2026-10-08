@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-astrolab	Astrolab		male		https://www.fragrantica.com/perfume/Biosea/Astrolab-35060.html				pending
-bois-de-oud	Bois de Oud		male		https://www.fragrantica.com/perfume/Biosea/Bois-de-Oud-35061.html				pending
-bourgeon-de-biosea	Bourgeon de Biosea		female		https://www.fragrantica.com/perfume/Biosea/Bourgeon-de-Biosea-35055.html				pending
-cosmopolis	Cosmopolis		male		https://www.fragrantica.com/perfume/Biosea/Cosmopolis-35062.html				pending
-eau-de-biosea	Eau de Biosea		female		https://www.fragrantica.com/perfume/Biosea/Eau-de-Biosea-35053.html				pending
-elixir	Elixir		female		https://www.fragrantica.com/perfume/Biosea/Elixir-35057.html				pending
-essentiel	Essentiel		female		https://www.fragrantica.com/perfume/Biosea/Essentiel-35059.html				pending
-hesperide	Hesperide		female		https://www.fragrantica.com/perfume/Biosea/Hesperide-35054.html				pending
-madame-coquelicot	Madame Coquelicot		female		https://www.fragrantica.com/perfume/Biosea/Madame-Coquelicot-35056.html				pending
-magnifique	Magnifique		unisex		https://www.fragrantica.com/perfume/Biosea/Magnifique-72479.html				pending
-paddock	Paddock		male		https://www.fragrantica.com/perfume/Biosea/Paddock-35063.html				pending
-parfait	Parfait		female		https://www.fragrantica.com/perfume/Biosea/Parfait-35058.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+astrolab	Astrolab		male	https://www.fragrantica.com/perfume/Biosea/Astrolab-35060.html				pending
+bois-de-oud	Bois de Oud		male	https://www.fragrantica.com/perfume/Biosea/Bois-de-Oud-35061.html				pending
+bourgeon-de-biosea	Bourgeon de Biosea		female	https://www.fragrantica.com/perfume/Biosea/Bourgeon-de-Biosea-35055.html				pending
+cosmopolis	Cosmopolis		male	https://www.fragrantica.com/perfume/Biosea/Cosmopolis-35062.html				pending
+eau-de-biosea	Eau de Biosea		female	https://www.fragrantica.com/perfume/Biosea/Eau-de-Biosea-35053.html				pending
+elixir	Elixir		female	https://www.fragrantica.com/perfume/Biosea/Elixir-35057.html				pending
+essentiel	Essentiel		female	https://www.fragrantica.com/perfume/Biosea/Essentiel-35059.html				pending
+hesperide	Hesperide		female	https://www.fragrantica.com/perfume/Biosea/Hesperide-35054.html				pending
+madame-coquelicot	Madame Coquelicot		female	https://www.fragrantica.com/perfume/Biosea/Madame-Coquelicot-35056.html				pending
+magnifique	Magnifique		unisex	https://www.fragrantica.com/perfume/Biosea/Magnifique-72479.html				pending
+paddock	Paddock		male	https://www.fragrantica.com/perfume/Biosea/Paddock-35063.html				pending
+parfait	Parfait		female	https://www.fragrantica.com/perfume/Biosea/Parfait-35058.html				pending

@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-sublime	Ambre Sublime		female		https://www.fragrantica.com/perfume/Stendhal/Ambre-Sublime-13403.html				pending
-elixir-blanc	Elixir Blanc		female		https://www.fragrantica.com/perfume/Stendhal/Elixir-Blanc-15253.html				pending
-elixir-noir	Elixir Noir		female		https://www.fragrantica.com/perfume/Stendhal/Elixir-Noir-9438.html				pending
-noir-divin	Noir Divin		female		https://www.fragrantica.com/perfume/Stendhal/Noir-Divin-13402.html				pending
-rouge-divin	Rouge Divin		female		https://www.fragrantica.com/perfume/Stendhal/Rouge-Divin-32551.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-sublime	Ambre Sublime		female	https://www.fragrantica.com/perfume/Stendhal/Ambre-Sublime-13403.html				pending
+elixir-blanc	Elixir Blanc		female	https://www.fragrantica.com/perfume/Stendhal/Elixir-Blanc-15253.html				pending
+elixir-noir	Elixir Noir		female	https://www.fragrantica.com/perfume/Stendhal/Elixir-Noir-9438.html				pending
+noir-divin	Noir Divin		female	https://www.fragrantica.com/perfume/Stendhal/Noir-Divin-13402.html				pending
+rouge-divin	Rouge Divin		female	https://www.fragrantica.com/perfume/Stendhal/Rouge-Divin-32551.html				pending

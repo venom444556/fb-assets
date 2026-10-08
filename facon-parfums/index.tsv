@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bouquet-des-seves	Bouquet Des Seves		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Bouquet-Des-Seves-70844.html				pending
-cendres-dautomne	Cendres D'Automne		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Cendres-D-Automne-70846.html				pending
-etoile-de-jour	Etoile De Jour		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Etoile-De-Jour-70848.html				pending
-jeunesse-du-temps	Jeunesse Du Temps		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Jeunesse-Du-Temps-70845.html				pending
-jour-de-glorie	Jour De Glorie		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Jour-De-Glorie-70841.html				pending
-matin-dopale	Matin D'Opale		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Matin-D-Opale-70843.html				pending
-miroir-de-lair	Miroir De L'Air		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Miroir-De-L-Air-70849.html				pending
-piege-de-soie	Piege De Soie		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Piege-De-Soie-70850.html				pending
-tige-de-lumiere	Tige De Lumiere		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Tige-De-Lumiere-70847.html				pending
-velours-de-nuit	Velours De Nuit		unisex		https://www.fragrantica.com/perfume/Facon-Parfums/Velours-De-Nuit-70842.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bouquet-des-seves	Bouquet Des Seves		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Bouquet-Des-Seves-70844.html				pending
+cendres-dautomne	Cendres D'Automne		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Cendres-D-Automne-70846.html				pending
+etoile-de-jour	Etoile De Jour		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Etoile-De-Jour-70848.html				pending
+jeunesse-du-temps	Jeunesse Du Temps		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Jeunesse-Du-Temps-70845.html				pending
+jour-de-glorie	Jour De Glorie		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Jour-De-Glorie-70841.html				pending
+matin-dopale	Matin D'Opale		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Matin-D-Opale-70843.html				pending
+miroir-de-lair	Miroir De L'Air		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Miroir-De-L-Air-70849.html				pending
+piege-de-soie	Piege De Soie		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Piege-De-Soie-70850.html				pending
+tige-de-lumiere	Tige De Lumiere		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Tige-De-Lumiere-70847.html				pending
+velours-de-nuit	Velours De Nuit		unisex	https://www.fragrantica.com/perfume/Facon-Parfums/Velours-De-Nuit-70842.html				pending

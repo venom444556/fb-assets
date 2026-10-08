@@ -1,27 +1,27 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-7-rue-royale	7 Rue Royale		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/7-Rue-Royale-38467.html				pending
-giorgio-by-valenti	Giorgio by Valenti		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Giorgio-by-Valenti-9340.html				pending
-magic-kiss	Magic Kiss		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Magic-Kiss-38466.html				pending
-once-upon-a-time-blue-diva	Once Upon a Time Blue Diva		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Once-Upon-a-Time-Blue-Diva-38462.html				pending
-once-upon-a-time-pink-angel	Once Upon a Time Pink Angel		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Once-Upon-a-Time-Pink-Angel-38464.html				pending
-one-and-only	One & Only		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/One-Only-13575.html				pending
-one-o-one-experience	One O One Experience		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/One-O-One-Experience-9341.html				pending
-one-o-one-experience-for-men	One O One Experience for Men		male		https://www.fragrantica.com/perfume/Giorgio-Valenti/One-O-One-Experience-for-Men-13576.html				pending
-p-u-r-e	P.U.R.E.		male		https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-38455.html				pending
-p-u-r-e-9342	P.U.R.E.		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-9342.html				pending
-p-u-r-e-madam	P.U.R.E. Madam		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-Madam-38459.html				pending
-p-u-r-e-million	P.U.R.E. Million		male		https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-Million-38460.html				pending
-p-u-r-e-silver	P.U.R.E. Silver		male		https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-Silver-38461.html				pending
-pink-heart	Pink Heart		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Pink-Heart-38468.html				pending
-rose-noire	Rose Noire		male		https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-38448.html				pending
-rose-noire-9345	Rose Noire		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-9345.html				pending
-rose-noire-absolue	Rose Noire Absolue		male		https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-Absolue-38450.html				pending
-rose-noire-absolue-9343	Rose Noire Absolue		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-Absolue-9343.html				pending
-rose-noire-black	Rose Noire Black		male		https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-Black-38451.html				pending
-rose-noire-secret	Rose Noire Secret		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-Secret-9344.html				pending
-seductive-girl	Seductive Girl		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Seductive-Girl-38456.html				pending
-seductive-touch	Seductive Touch		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Seductive-Touch-38457.html				pending
-so-valenti	So Valenti		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/So-Valenti-38458.html				pending
-so-valenti-38454	So Valenti		male		https://www.fragrantica.com/perfume/Giorgio-Valenti/So-Valenti-38454.html				pending
-valenti	Valenti		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Valenti-38470.html				pending
-valenti-2	Valenti 2		female		https://www.fragrantica.com/perfume/Giorgio-Valenti/Valenti-2-38471.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+7-rue-royale	7 Rue Royale		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/7-Rue-Royale-38467.html				pending
+giorgio-by-valenti	Giorgio by Valenti		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Giorgio-by-Valenti-9340.html				pending
+magic-kiss	Magic Kiss		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Magic-Kiss-38466.html				pending
+once-upon-a-time-blue-diva	Once Upon a Time Blue Diva		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Once-Upon-a-Time-Blue-Diva-38462.html				pending
+once-upon-a-time-pink-angel	Once Upon a Time Pink Angel		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Once-Upon-a-Time-Pink-Angel-38464.html				pending
+one-and-only	One & Only		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/One-Only-13575.html				pending
+one-o-one-experience	One O One Experience		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/One-O-One-Experience-9341.html				pending
+one-o-one-experience-for-men	One O One Experience for Men		male	https://www.fragrantica.com/perfume/Giorgio-Valenti/One-O-One-Experience-for-Men-13576.html				pending
+p-u-r-e	P.U.R.E.		male	https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-38455.html				pending
+p-u-r-e-9342	P.U.R.E.		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-9342.html				pending
+p-u-r-e-madam	P.U.R.E. Madam		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-Madam-38459.html				pending
+p-u-r-e-million	P.U.R.E. Million		male	https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-Million-38460.html				pending
+p-u-r-e-silver	P.U.R.E. Silver		male	https://www.fragrantica.com/perfume/Giorgio-Valenti/P-U-R-E-Silver-38461.html				pending
+pink-heart	Pink Heart		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Pink-Heart-38468.html				pending
+rose-noire	Rose Noire		male	https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-38448.html				pending
+rose-noire-9345	Rose Noire		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-9345.html				pending
+rose-noire-absolue	Rose Noire Absolue		male	https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-Absolue-38450.html				pending
+rose-noire-absolue-9343	Rose Noire Absolue		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-Absolue-9343.html				pending
+rose-noire-black	Rose Noire Black		male	https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-Black-38451.html				pending
+rose-noire-secret	Rose Noire Secret		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-Secret-9344.html				pending
+seductive-girl	Seductive Girl		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Seductive-Girl-38456.html				pending
+seductive-touch	Seductive Touch		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Seductive-Touch-38457.html				pending
+so-valenti	So Valenti		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/So-Valenti-38458.html				pending
+so-valenti-38454	So Valenti		male	https://www.fragrantica.com/perfume/Giorgio-Valenti/So-Valenti-38454.html				pending
+valenti	Valenti		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Valenti-38470.html				pending
+valenti-2	Valenti 2		female	https://www.fragrantica.com/perfume/Giorgio-Valenti/Valenti-2-38471.html				pending

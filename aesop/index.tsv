@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-above-us-steorra	Above Us, Steorra		unisex		https://www.fragrantica.com/perfume/Aesop/Above-Us-Steorra-112968.html				pending
-aurner	Aurner		unisex		https://www.fragrantica.com/perfume/Aesop/Aurner-102299.html				pending
-eidesis	Eidesis		unisex		https://www.fragrantica.com/perfume/Aesop/Eidesis-76978.html				pending
-eremia	Erémia		unisex		https://www.fragrantica.com/perfume/Aesop/Eremia-69188.html				pending
-gloam	Gloam		unisex		https://www.fragrantica.com/perfume/Aesop/Gloam-80100.html				pending
-hwyl	Hwyl		unisex		https://www.fragrantica.com/perfume/Aesop/Hwyl-46895.html				pending
-karst	Karst		unisex		https://www.fragrantica.com/perfume/Aesop/Karst-69187.html				pending
-marrakech	Marrakech		unisex		https://www.fragrantica.com/perfume/Aesop/Marrakech-9547.html				pending
-marrakech-intense-eau-de-parfum	Marrakech Intense Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Aesop/Marrakech-Intense-Eau-de-Parfum-127696.html				pending
-marrakech-intense-eau-de-toilette	Marrakech Intense Eau de Toilette		unisex		https://www.fragrantica.com/perfume/Aesop/Marrakech-Intense-Eau-de-Toilette-26229.html				pending
-marrakech-intense-parfum	Marrakech Intense Parfum		unisex		https://www.fragrantica.com/perfume/Aesop/Marrakech-Intense-Parfum-69189.html				pending
-miraceti	Miraceti		unisex		https://www.fragrantica.com/perfume/Aesop/Miraceti-69186.html				pending
-mystra	Mystra		unisex		https://www.fragrantica.com/perfume/Aesop/Mystra-9549.html				pending
-ouranon	Ouranon		unisex		https://www.fragrantica.com/perfume/Aesop/Ouranon-84977.html				pending
-rozu	Rozu		unisex		https://www.fragrantica.com/perfume/Aesop/Rozu-64167.html				pending
-tacit	Tacit		unisex		https://www.fragrantica.com/perfume/Aesop/Tacit-32134.html				pending
-virere	Virēre		unisex		https://www.fragrantica.com/perfume/Aesop/Virere-96261.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+above-us-steorra	Above Us, Steorra		unisex	https://www.fragrantica.com/perfume/Aesop/Above-Us-Steorra-112968.html				pending
+aurner	Aurner		unisex	https://www.fragrantica.com/perfume/Aesop/Aurner-102299.html				pending
+eidesis	Eidesis		unisex	https://www.fragrantica.com/perfume/Aesop/Eidesis-76978.html				pending
+eremia	Erémia		unisex	https://www.fragrantica.com/perfume/Aesop/Eremia-69188.html				pending
+gloam	Gloam		unisex	https://www.fragrantica.com/perfume/Aesop/Gloam-80100.html				pending
+hwyl	Hwyl		unisex	https://www.fragrantica.com/perfume/Aesop/Hwyl-46895.html				pending
+karst	Karst		unisex	https://www.fragrantica.com/perfume/Aesop/Karst-69187.html				pending
+marrakech	Marrakech		unisex	https://www.fragrantica.com/perfume/Aesop/Marrakech-9547.html				pending
+marrakech-intense-eau-de-parfum	Marrakech Intense Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Aesop/Marrakech-Intense-Eau-de-Parfum-127696.html				pending
+marrakech-intense-eau-de-toilette	Marrakech Intense Eau de Toilette	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Aesop/Marrakech-Intense-Eau-de-Toilette-26229.html				pending
+marrakech-intense-parfum	Marrakech Intense Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/Aesop/Marrakech-Intense-Parfum-69189.html				pending
+miraceti	Miraceti		unisex	https://www.fragrantica.com/perfume/Aesop/Miraceti-69186.html				pending
+mystra	Mystra		unisex	https://www.fragrantica.com/perfume/Aesop/Mystra-9549.html				pending
+ouranon	Ouranon		unisex	https://www.fragrantica.com/perfume/Aesop/Ouranon-84977.html				pending
+rozu	Rozu		unisex	https://www.fragrantica.com/perfume/Aesop/Rozu-64167.html				pending
+tacit	Tacit		unisex	https://www.fragrantica.com/perfume/Aesop/Tacit-32134.html				pending
+virere	Virēre		unisex	https://www.fragrantica.com/perfume/Aesop/Virere-96261.html				pending

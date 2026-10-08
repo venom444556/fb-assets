@@ -1,32 +1,32 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-cashmir	Amber Cashmir		unisex		https://www.fragrantica.com/perfume/Ghalati/Amber-Cashmir-79184.html				pending
-amber-oud	Amber Oud		unisex		https://www.fragrantica.com/perfume/Ghalati/Amber-Oud-79247.html				pending
-ambitious	Ambitious		unisex		https://www.fragrantica.com/perfume/Ghalati/Ambitious-79183.html				pending
-attraction	Attraction		female		https://www.fragrantica.com/perfume/Ghalati/Attraction-79190.html				pending
-candy-musk	Candy Musk		female		https://www.fragrantica.com/perfume/Ghalati/Candy-Musk-84786.html				pending
-dama	Dama		female		https://www.fragrantica.com/perfume/Ghalati/Dama-84781.html				pending
-donna-rossa	Donna Rossa		female		https://www.fragrantica.com/perfume/Ghalati/Donna-Rossa-84782.html				pending
-eau-de-vintage	Eau de Vintage		unisex		https://www.fragrantica.com/perfume/Ghalati/Eau-de-Vintage-89823.html				pending
-eloquent	Eloquent		unisex		https://www.fragrantica.com/perfume/Ghalati/Eloquent-79248.html				pending
-emotion	Emotion		female		https://www.fragrantica.com/perfume/Ghalati/Emotion-79252.html				pending
-heroic	Heroic		unisex		https://www.fragrantica.com/perfume/Ghalati/Heroic-84784.html				pending
-iris-musk	Iris Musk		male		https://www.fragrantica.com/perfume/Ghalati/Iris-Musk-79255.html				pending
-just-amber	Just Amber		unisex		https://www.fragrantica.com/perfume/Ghalati/Just-Amber-79188.html				pending
-just-oud	Just Oud		unisex		https://www.fragrantica.com/perfume/Ghalati/Just-Oud-79189.html				pending
-just-tobacco	Just Tobacco		unisex		https://www.fragrantica.com/perfume/Ghalati/Just-Tobacco-79251.html				pending
-layana	Layana		female		https://www.fragrantica.com/perfume/Ghalati/Layana-79187.html				pending
-leather-oud	Leather Oud		male		https://www.fragrantica.com/perfume/Ghalati/Leather-Oud-84787.html				pending
-majestic-woods	Majestic Woods		unisex		https://www.fragrantica.com/perfume/Ghalati/Majestic-Woods-79249.html				pending
-mont-dor	Mont d'Or		unisex		https://www.fragrantica.com/perfume/Ghalati/Mont-d-Or-89822.html				pending
-nawara	Nawara		female		https://www.fragrantica.com/perfume/Ghalati/Nawara-79250.html				pending
-oud-argent	Oud Argent		unisex		https://www.fragrantica.com/perfume/Ghalati/Oud-Argent-79185.html				pending
-purple-rose	Purple Rose		female		https://www.fragrantica.com/perfume/Ghalati/Purple-Rose-79186.html				pending
-rica	Rica		female		https://www.fragrantica.com/perfume/Ghalati/Rica-84785.html				pending
-rosanna	Rosanna		female		https://www.fragrantica.com/perfume/Ghalati/Rosanna-79253.html				pending
-shades	Shades		female		https://www.fragrantica.com/perfume/Ghalati/Shades-79254.html				pending
-sublime-flowers	Sublime Flowers		unisex		https://www.fragrantica.com/perfume/Ghalati/Sublime-Flowers-79256.html				pending
-sublime-wood	Sublime Wood		unisex		https://www.fragrantica.com/perfume/Ghalati/Sublime-Wood-84783.html				pending
-synergy-homme	Synergy Homme		male		https://www.fragrantica.com/perfume/Ghalati/Synergy-Homme-79191.html				pending
-utopia-gist	Utopia Gist		unisex		https://www.fragrantica.com/perfume/Ghalati/Utopia-Gist-79192.html				pending
-utopia-platinum	Utopia Platinum		unisex		https://www.fragrantica.com/perfume/Ghalati/Utopia-Platinum-89826.html				pending
-varna	Varna		unisex		https://www.fragrantica.com/perfume/Ghalati/Varna-89824.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-cashmir	Amber Cashmir		unisex	https://www.fragrantica.com/perfume/Ghalati/Amber-Cashmir-79184.html				pending
+amber-oud	Amber Oud		unisex	https://www.fragrantica.com/perfume/Ghalati/Amber-Oud-79247.html				pending
+ambitious	Ambitious		unisex	https://www.fragrantica.com/perfume/Ghalati/Ambitious-79183.html				pending
+attraction	Attraction		female	https://www.fragrantica.com/perfume/Ghalati/Attraction-79190.html				pending
+candy-musk	Candy Musk		female	https://www.fragrantica.com/perfume/Ghalati/Candy-Musk-84786.html				pending
+dama	Dama		female	https://www.fragrantica.com/perfume/Ghalati/Dama-84781.html				pending
+donna-rossa	Donna Rossa		female	https://www.fragrantica.com/perfume/Ghalati/Donna-Rossa-84782.html				pending
+eau-de-vintage	Eau de Vintage		unisex	https://www.fragrantica.com/perfume/Ghalati/Eau-de-Vintage-89823.html				pending
+eloquent	Eloquent		unisex	https://www.fragrantica.com/perfume/Ghalati/Eloquent-79248.html				pending
+emotion	Emotion		female	https://www.fragrantica.com/perfume/Ghalati/Emotion-79252.html				pending
+heroic	Heroic		unisex	https://www.fragrantica.com/perfume/Ghalati/Heroic-84784.html				pending
+iris-musk	Iris Musk		male	https://www.fragrantica.com/perfume/Ghalati/Iris-Musk-79255.html				pending
+just-amber	Just Amber		unisex	https://www.fragrantica.com/perfume/Ghalati/Just-Amber-79188.html				pending
+just-oud	Just Oud		unisex	https://www.fragrantica.com/perfume/Ghalati/Just-Oud-79189.html				pending
+just-tobacco	Just Tobacco		unisex	https://www.fragrantica.com/perfume/Ghalati/Just-Tobacco-79251.html				pending
+layana	Layana		female	https://www.fragrantica.com/perfume/Ghalati/Layana-79187.html				pending
+leather-oud	Leather Oud		male	https://www.fragrantica.com/perfume/Ghalati/Leather-Oud-84787.html				pending
+majestic-woods	Majestic Woods		unisex	https://www.fragrantica.com/perfume/Ghalati/Majestic-Woods-79249.html				pending
+mont-dor	Mont d'Or		unisex	https://www.fragrantica.com/perfume/Ghalati/Mont-d-Or-89822.html				pending
+nawara	Nawara		female	https://www.fragrantica.com/perfume/Ghalati/Nawara-79250.html				pending
+oud-argent	Oud Argent		unisex	https://www.fragrantica.com/perfume/Ghalati/Oud-Argent-79185.html				pending
+purple-rose	Purple Rose		female	https://www.fragrantica.com/perfume/Ghalati/Purple-Rose-79186.html				pending
+rica	Rica		female	https://www.fragrantica.com/perfume/Ghalati/Rica-84785.html				pending
+rosanna	Rosanna		female	https://www.fragrantica.com/perfume/Ghalati/Rosanna-79253.html				pending
+shades	Shades		female	https://www.fragrantica.com/perfume/Ghalati/Shades-79254.html				pending
+sublime-flowers	Sublime Flowers		unisex	https://www.fragrantica.com/perfume/Ghalati/Sublime-Flowers-79256.html				pending
+sublime-wood	Sublime Wood		unisex	https://www.fragrantica.com/perfume/Ghalati/Sublime-Wood-84783.html				pending
+synergy-homme	Synergy Homme		male	https://www.fragrantica.com/perfume/Ghalati/Synergy-Homme-79191.html				pending
+utopia-gist	Utopia Gist		unisex	https://www.fragrantica.com/perfume/Ghalati/Utopia-Gist-79192.html				pending
+utopia-platinum	Utopia Platinum		unisex	https://www.fragrantica.com/perfume/Ghalati/Utopia-Platinum-89826.html				pending
+varna	Varna		unisex	https://www.fragrantica.com/perfume/Ghalati/Varna-89824.html				pending

@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-avent	Avent+		male		https://www.fragrantica.com/perfume/HeavenDuft/Avent-68967.html				pending
-blue	Blue		male		https://www.fragrantica.com/perfume/HeavenDuft/Blue-68971.html				pending
-brim	Brim		female		https://www.fragrantica.com/perfume/HeavenDuft/Brim-68969.html				pending
-despacito	Despacito		male		https://www.fragrantica.com/perfume/HeavenDuft/Despacito-68966.html				pending
-dignified-musk	Dignified Musk		unisex		https://www.fragrantica.com/perfume/HeavenDuft/Dignified-Musk-68970.html				pending
-exotic-river	Exotic River		unisex		https://www.fragrantica.com/perfume/HeavenDuft/Exotic-River-68972.html				pending
-khus	Khus		unisex		https://www.fragrantica.com/perfume/HeavenDuft/Khus-68963.html				pending
-radiant	Radiant		male		https://www.fragrantica.com/perfume/HeavenDuft/Radiant-68964.html				pending
-rose-oudh	Rose Oudh		unisex		https://www.fragrantica.com/perfume/HeavenDuft/Rose-Oudh-68962.html				pending
-royal-cinnamon	Royal Cinnamon		unisex		https://www.fragrantica.com/perfume/HeavenDuft/Royal-Cinnamon-68965.html				pending
-tobacco-vanilla	Tobacco Vanilla		unisex		https://www.fragrantica.com/perfume/HeavenDuft/Tobacco-Vanilla-68968.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+avent	Avent+		male	https://www.fragrantica.com/perfume/HeavenDuft/Avent-68967.html				pending
+blue	Blue		male	https://www.fragrantica.com/perfume/HeavenDuft/Blue-68971.html				pending
+brim	Brim		female	https://www.fragrantica.com/perfume/HeavenDuft/Brim-68969.html				pending
+despacito	Despacito		male	https://www.fragrantica.com/perfume/HeavenDuft/Despacito-68966.html				pending
+dignified-musk	Dignified Musk		unisex	https://www.fragrantica.com/perfume/HeavenDuft/Dignified-Musk-68970.html				pending
+exotic-river	Exotic River		unisex	https://www.fragrantica.com/perfume/HeavenDuft/Exotic-River-68972.html				pending
+khus	Khus		unisex	https://www.fragrantica.com/perfume/HeavenDuft/Khus-68963.html				pending
+radiant	Radiant		male	https://www.fragrantica.com/perfume/HeavenDuft/Radiant-68964.html				pending
+rose-oudh	Rose Oudh		unisex	https://www.fragrantica.com/perfume/HeavenDuft/Rose-Oudh-68962.html				pending
+royal-cinnamon	Royal Cinnamon		unisex	https://www.fragrantica.com/perfume/HeavenDuft/Royal-Cinnamon-68965.html				pending
+tobacco-vanilla	Tobacco Vanilla		unisex	https://www.fragrantica.com/perfume/HeavenDuft/Tobacco-Vanilla-68968.html				pending

@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aksoum	Aksoum		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Aksoum-77453.html				pending
-ambre-saba	Ambre Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Ambre-Saba-77454.html				pending
-balqis-reine-de-saba	Balqis Reine de Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Balqis-Reine-de-Saba-77455.html				pending
-beaute-de-reine	Beauté de Reine		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Beaute-de-Reine-88883.html				pending
-dhofar	Dhofar		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Dhofar-88885.html				pending
-divine-tentation	Divine Tentation		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Divine-Tentation-81866.html				pending
-encens-saba	Encens Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Encens-Saba-77456.html				pending
-esprit-saba	Esprit Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Esprit-Saba-77457.html				pending
-extraordinaire-saba	Extraordinaire Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Extraordinaire-Saba-81867.html				pending
-jardins-de-saba	Jardins de Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Jardins-de-Saba-93354.html				pending
-legende-de-saba	Légende de Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Legende-de-Saba-77458.html				pending
-merveilleuse-saba	Merveilleuse Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Merveilleuse-Saba-81868.html				pending
-mirage-suave	Mirage Suave		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Mirage-Suave-93355.html				pending
-oasis-saba	Oasis Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Oasis-Saba-81869.html				pending
-oud-oriental-saba	Oud Oriental Saba		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Oud-Oriental-Saba-77459.html				pending
-oud-precieux	Oud Précieux		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Oud-Precieux-77460.html				pending
-reine-de-midi	Reine de Midi		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Reine-de-Midi-88884.html				pending
-reine-makeda	Reine Makéda		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Reine-Makeda-77461.html				pending
-rose-extatique	Rose Extatique		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Rose-Extatique-93353.html				pending
-sagesse-de-salomon	Sagesse de Salomon		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Sagesse-de-Salomon-77462.html				pending
-secret-de-musc	Secret de Musc		unisex		https://www.fragrantica.com/perfume/Reine-de-Saba/Secret-de-Musc-91538.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aksoum	Aksoum		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Aksoum-77453.html				pending
+ambre-saba	Ambre Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Ambre-Saba-77454.html				pending
+balqis-reine-de-saba	Balqis Reine de Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Balqis-Reine-de-Saba-77455.html				pending
+beaute-de-reine	Beauté de Reine		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Beaute-de-Reine-88883.html				pending
+dhofar	Dhofar		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Dhofar-88885.html				pending
+divine-tentation	Divine Tentation		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Divine-Tentation-81866.html				pending
+encens-saba	Encens Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Encens-Saba-77456.html				pending
+esprit-saba	Esprit Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Esprit-Saba-77457.html				pending
+extraordinaire-saba	Extraordinaire Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Extraordinaire-Saba-81867.html				pending
+jardins-de-saba	Jardins de Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Jardins-de-Saba-93354.html				pending
+legende-de-saba	Légende de Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Legende-de-Saba-77458.html				pending
+merveilleuse-saba	Merveilleuse Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Merveilleuse-Saba-81868.html				pending
+mirage-suave	Mirage Suave		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Mirage-Suave-93355.html				pending
+oasis-saba	Oasis Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Oasis-Saba-81869.html				pending
+oud-oriental-saba	Oud Oriental Saba		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Oud-Oriental-Saba-77459.html				pending
+oud-precieux	Oud Précieux		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Oud-Precieux-77460.html				pending
+reine-de-midi	Reine de Midi		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Reine-de-Midi-88884.html				pending
+reine-makeda	Reine Makéda		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Reine-Makeda-77461.html				pending
+rose-extatique	Rose Extatique		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Rose-Extatique-93353.html				pending
+sagesse-de-salomon	Sagesse de Salomon		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Sagesse-de-Salomon-77462.html				pending
+secret-de-musc	Secret de Musc		unisex	https://www.fragrantica.com/perfume/Reine-de-Saba/Secret-de-Musc-91538.html				pending

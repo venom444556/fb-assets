@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-doza	Doza		unisex		https://www.fragrantica.com/perfume/Narcotica/Doza-77902.html				pending
-dulce-diablo	Dulce Diablo		unisex		https://www.fragrantica.com/perfume/Narcotica/Dulce-Diablo-73265.html				pending
-happy-dust	Happy Dust		unisex		https://www.fragrantica.com/perfume/Narcotica/Happy-Dust-88451.html				pending
-limonata	Limonata		unisex		https://www.fragrantica.com/perfume/Narcotica/Limonata-103933.html				pending
-love-me-latte	Love Me Latte		unisex		https://www.fragrantica.com/perfume/Narcotica/Love-Me-Latte-97031.html				pending
-maniac	Maniac		unisex		https://www.fragrantica.com/perfume/Narcotica/Maniac-118323.html				pending
-narco-oasis	Narco Oasis		unisex		https://www.fragrantica.com/perfume/Narcotica/Narco-Oasis-84576.html				pending
-narcotica	Narcotica		unisex		https://www.fragrantica.com/perfume/Narcotica/Narcotica-70775.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+doza	Doza		unisex	https://www.fragrantica.com/perfume/Narcotica/Doza-77902.html				pending
+dulce-diablo	Dulce Diablo		unisex	https://www.fragrantica.com/perfume/Narcotica/Dulce-Diablo-73265.html				pending
+happy-dust	Happy Dust		unisex	https://www.fragrantica.com/perfume/Narcotica/Happy-Dust-88451.html				pending
+limonata	Limonata		unisex	https://www.fragrantica.com/perfume/Narcotica/Limonata-103933.html				pending
+love-me-latte	Love Me Latte		unisex	https://www.fragrantica.com/perfume/Narcotica/Love-Me-Latte-97031.html				pending
+maniac	Maniac		unisex	https://www.fragrantica.com/perfume/Narcotica/Maniac-118323.html				pending
+narco-oasis	Narco Oasis		unisex	https://www.fragrantica.com/perfume/Narcotica/Narco-Oasis-84576.html				pending
+narcotica	Narcotica		unisex	https://www.fragrantica.com/perfume/Narcotica/Narcotica-70775.html				pending

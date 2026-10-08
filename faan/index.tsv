@@ -1,28 +1,28 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-05-dominoes	05 Dominoes		female		https://www.fragrantica.com/perfume/FAAN/05-Dominoes-94546.html				pending
-05-rose-gold	05 Rose Gold		female		https://www.fragrantica.com/perfume/FAAN/05-Rose-Gold-94783.html				pending
-amber-forever-blu	Amber Forever Blu		male		https://www.fragrantica.com/perfume/FAAN/Amber-Forever-Blu-94158.html				pending
-amber-forever-noir	Amber Forever Noir		female		https://www.fragrantica.com/perfume/FAAN/Amber-Forever-Noir-94164.html				pending
-augst-moon	Augst Moon		female		https://www.fragrantica.com/perfume/FAAN/Augst-Moon-71371.html				pending
-luxury-wood	Luxury Wood		male		https://www.fragrantica.com/perfume/FAAN/Luxury-Wood-94148.html				pending
-madawi	Madawi		female		https://www.fragrantica.com/perfume/FAAN/Madawi-94836.html				pending
-mashair-aqua	Mashair Aqua		male		https://www.fragrantica.com/perfume/FAAN/Mashair-Aqua-94005.html				pending
-mashair-gold	Mashair Gold		female		https://www.fragrantica.com/perfume/FAAN/Mashair-Gold-94009.html				pending
-mashair-indigo	Mashair Indigo		male		https://www.fragrantica.com/perfume/Faan/Mashair-Indigo-94008.html				pending
-mashair-princess	Mashair Princess		female		https://www.fragrantica.com/perfume/FAAN/Mashair-Princess-94006.html				pending
-mashair-wardi	Mashair Wardi		female		https://www.fragrantica.com/perfume/FAAN/Mashair-Wardi-94007.html				pending
-parone-bold	Parone Bold		male		https://www.fragrantica.com/perfume/FAAN/Parone-Bold-94012.html				pending
-parone-exotic	Parone Exotic		male		https://www.fragrantica.com/perfume/FAAN/Parone-Exotic-94011.html				pending
-parone-intense	Parone Intense		male		https://www.fragrantica.com/perfume/FAAN/Parone-Intense-94010.html				pending
-precious-oud	Precious Oud		male		https://www.fragrantica.com/perfume/FAAN/Precious-Oud-94136.html				pending
-riwayah	Riwayah		male		https://www.fragrantica.com/perfume/FAAN/Riwayah-94149.html				pending
-riwayah-gold	Riwayah Gold		male		https://www.fragrantica.com/perfume/FAAN/Riwayah-Gold-94154.html				pending
-thanagham	Thanagham		female		https://www.fragrantica.com/perfume/FAAN/Thanagham-94013.html				pending
-thanaghum-khamrah	Thanaghum Khamrah		female		https://www.fragrantica.com/perfume/FAAN/Thanaghum-Khamrah-94054.html				pending
-thanaghum-rose-quartz	Thanaghum Rose Quartz		female		https://www.fragrantica.com/perfume/FAAN/Thanaghum-Rose-Quartz-94014.html				pending
-voyage-de-sens-island	Voyage de Sens Island		female		https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Island-94057.html				pending
-voyage-de-sens-monaco-leather	Voyage de Sens Monaco Leather		male		https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Monaco-Leather-94056.html				pending
-voyage-de-sens-ocean	Voyage de Sens Ocean		female		https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Ocean-94055.html				pending
-voyage-de-sens-paradiso	Voyage de Sens Paradiso		female		https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Paradiso-94095.html				pending
-voyage-de-sens-rouge-intense	Voyage de Sens Rouge Intense		female		https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Rouge-Intense-94079.html				pending
-zenora-pour-femme	Zenora Pour Femme		female		https://www.fragrantica.com/perfume/FAAN/Zenora-Pour-Femme-94837.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+05-dominoes	05 Dominoes		female	https://www.fragrantica.com/perfume/FAAN/05-Dominoes-94546.html				pending
+05-rose-gold	05 Rose Gold		female	https://www.fragrantica.com/perfume/FAAN/05-Rose-Gold-94783.html				pending
+amber-forever-blu	Amber Forever Blu		male	https://www.fragrantica.com/perfume/FAAN/Amber-Forever-Blu-94158.html				pending
+amber-forever-noir	Amber Forever Noir		female	https://www.fragrantica.com/perfume/FAAN/Amber-Forever-Noir-94164.html				pending
+augst-moon	Augst Moon		female	https://www.fragrantica.com/perfume/FAAN/Augst-Moon-71371.html				pending
+luxury-wood	Luxury Wood		male	https://www.fragrantica.com/perfume/FAAN/Luxury-Wood-94148.html				pending
+madawi	Madawi		female	https://www.fragrantica.com/perfume/FAAN/Madawi-94836.html				pending
+mashair-aqua	Mashair Aqua		male	https://www.fragrantica.com/perfume/FAAN/Mashair-Aqua-94005.html				pending
+mashair-gold	Mashair Gold		female	https://www.fragrantica.com/perfume/FAAN/Mashair-Gold-94009.html				pending
+mashair-indigo	Mashair Indigo		male	https://www.fragrantica.com/perfume/Faan/Mashair-Indigo-94008.html				pending
+mashair-princess	Mashair Princess		female	https://www.fragrantica.com/perfume/FAAN/Mashair-Princess-94006.html				pending
+mashair-wardi	Mashair Wardi		female	https://www.fragrantica.com/perfume/FAAN/Mashair-Wardi-94007.html				pending
+parone-bold	Parone Bold		male	https://www.fragrantica.com/perfume/FAAN/Parone-Bold-94012.html				pending
+parone-exotic	Parone Exotic		male	https://www.fragrantica.com/perfume/FAAN/Parone-Exotic-94011.html				pending
+parone-intense	Parone Intense		male	https://www.fragrantica.com/perfume/FAAN/Parone-Intense-94010.html				pending
+precious-oud	Precious Oud		male	https://www.fragrantica.com/perfume/FAAN/Precious-Oud-94136.html				pending
+riwayah	Riwayah		male	https://www.fragrantica.com/perfume/FAAN/Riwayah-94149.html				pending
+riwayah-gold	Riwayah Gold		male	https://www.fragrantica.com/perfume/FAAN/Riwayah-Gold-94154.html				pending
+thanagham	Thanagham		female	https://www.fragrantica.com/perfume/FAAN/Thanagham-94013.html				pending
+thanaghum-khamrah	Thanaghum Khamrah		female	https://www.fragrantica.com/perfume/FAAN/Thanaghum-Khamrah-94054.html				pending
+thanaghum-rose-quartz	Thanaghum Rose Quartz		female	https://www.fragrantica.com/perfume/FAAN/Thanaghum-Rose-Quartz-94014.html				pending
+voyage-de-sens-island	Voyage de Sens Island		female	https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Island-94057.html				pending
+voyage-de-sens-monaco-leather	Voyage de Sens Monaco Leather		male	https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Monaco-Leather-94056.html				pending
+voyage-de-sens-ocean	Voyage de Sens Ocean		female	https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Ocean-94055.html				pending
+voyage-de-sens-paradiso	Voyage de Sens Paradiso		female	https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Paradiso-94095.html				pending
+voyage-de-sens-rouge-intense	Voyage de Sens Rouge Intense		female	https://www.fragrantica.com/perfume/FAAN/Voyage-de-Sens-Rouge-Intense-94079.html				pending
+zenora-pour-femme	Zenora Pour Femme		female	https://www.fragrantica.com/perfume/FAAN/Zenora-Pour-Femme-94837.html				pending

@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-after-game	After Game		male		https://www.fragrantica.com/perfume/El-Ganso/After-Game-57312.html				pending
-bravo-monsieur	Bravo Monsieur		male		https://www.fragrantica.com/perfume/El-Ganso/Bravo-Monsieur-57315.html				pending
-ciao-bella	Ciao Bella!		female		https://www.fragrantica.com/perfume/El-Ganso/Ciao-Bella-72636.html				pending
-friday-edition	Friday Edition		male		https://www.fragrantica.com/perfume/El-Ganso/Friday-Edition-57313.html				pending
-fun-and-chic	Fun & Chic		female		https://www.fragrantica.com/perfume/El-Ganso/Fun-Chic-90080.html				pending
-hey-sunshine	Hey Sunshine		female		https://www.fragrantica.com/perfume/El-Ganso/Hey-Sunshine-82465.html				pending
-la-vie-en-tartan	La Vie En Tartan		female		https://www.fragrantica.com/perfume/El-Ganso/La-Vie-En-Tartan-95000.html				pending
-like-father-like-son	Like Father Like Son		male		https://www.fragrantica.com/perfume/El-Ganso/Like-Father-Like-Son-79321.html				pending
-limoncello-season	Limoncello Season		male		https://www.fragrantica.com/perfume/El-Ganso/Limoncello-Season-72726.html				pending
-part-time-hero	Part Time Hero		male		https://www.fragrantica.com/perfume/El-Ganso/Part-Time-Hero-57314.html				pending
-senorita-mon-amour	Señorita Mon Amour		female		https://www.fragrantica.com/perfume/El-Ganso/Senorita-Mon-Amour-72637.html				pending
-sunday-mood	Sunday Mood		male		https://www.fragrantica.com/perfume/El-Ganso/Sunday-Mood-82464.html				pending
-tartan-calling	Tartan Calling		male		https://www.fragrantica.com/perfume/El-Ganso/Tartan-Calling-95001.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+after-game	After Game		male	https://www.fragrantica.com/perfume/El-Ganso/After-Game-57312.html				pending
+bravo-monsieur	Bravo Monsieur		male	https://www.fragrantica.com/perfume/El-Ganso/Bravo-Monsieur-57315.html				pending
+ciao-bella	Ciao Bella!		female	https://www.fragrantica.com/perfume/El-Ganso/Ciao-Bella-72636.html				pending
+friday-edition	Friday Edition		male	https://www.fragrantica.com/perfume/El-Ganso/Friday-Edition-57313.html				pending
+fun-and-chic	Fun & Chic		female	https://www.fragrantica.com/perfume/El-Ganso/Fun-Chic-90080.html				pending
+hey-sunshine	Hey Sunshine		female	https://www.fragrantica.com/perfume/El-Ganso/Hey-Sunshine-82465.html				pending
+la-vie-en-tartan	La Vie En Tartan		female	https://www.fragrantica.com/perfume/El-Ganso/La-Vie-En-Tartan-95000.html				pending
+like-father-like-son	Like Father Like Son		male	https://www.fragrantica.com/perfume/El-Ganso/Like-Father-Like-Son-79321.html				pending
+limoncello-season	Limoncello Season		male	https://www.fragrantica.com/perfume/El-Ganso/Limoncello-Season-72726.html				pending
+part-time-hero	Part Time Hero		male	https://www.fragrantica.com/perfume/El-Ganso/Part-Time-Hero-57314.html				pending
+senorita-mon-amour	Señorita Mon Amour		female	https://www.fragrantica.com/perfume/El-Ganso/Senorita-Mon-Amour-72637.html				pending
+sunday-mood	Sunday Mood		male	https://www.fragrantica.com/perfume/El-Ganso/Sunday-Mood-82464.html				pending
+tartan-calling	Tartan Calling		male	https://www.fragrantica.com/perfume/El-Ganso/Tartan-Calling-95001.html				pending

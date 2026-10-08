@@ -1,33 +1,33 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-agarwoud	Agarwoud		unisex		https://www.fragrantica.com/perfume/James-Heeley/Agarwoud-13541.html				pending
-athenean	Athenean		unisex		https://www.fragrantica.com/perfume/James-Heeley/Athenean-69491.html				pending
-blanc-poudre	Blanc Poudre		unisex		https://www.fragrantica.com/perfume/James-Heeley/Blanc-Poudre-52307.html				pending
-bubblegum-chic	Bubblegum Chic		female		https://www.fragrantica.com/perfume/James-Heeley/Bubblegum-Chic-13543.html				pending
-bubblegum-chic-pink-edition	Bubblegum Chic Pink Edition		unisex		https://www.fragrantica.com/perfume/James-Heeley/Bubblegum-Chic-Pink-Edition-115619.html				pending
-cardinal	Cardinal		unisex		https://www.fragrantica.com/perfume/James-Heeley/Cardinal-7844.html				pending
-cedre-blanc	Cedre Blanc		unisex		https://www.fragrantica.com/perfume/James-Heeley/Cedre-Blanc-7845.html				pending
-chiris	Chiris		unisex		https://www.fragrantica.com/perfume/James-Heeley/Chiris-142342.html				pending
-chypre-21	Chypre 21		unisex		https://www.fragrantica.com/perfume/James-Heeley/Chypre-21-33938.html				pending
-coccobello	Coccobello		unisex		https://www.fragrantica.com/perfume/James-Heeley/Coccobello-18470.html				pending
-cologne-officinale	Cologne Officinale		unisex		https://www.fragrantica.com/perfume/James-Heeley/Cologne-Officinale-81896.html				pending
-cuir-pleine-fleur	Cuir Pleine Fleur		unisex		https://www.fragrantica.com/perfume/James-Heeley/Cuir-Pleine-Fleur-7847.html				pending
-eau-sacree	Eau Sacree		unisex		https://www.fragrantica.com/perfume/James-Heeley/Eau-Sacree-41083.html				pending
-esprit-du-tigre	Esprit du Tigre		unisex		https://www.fragrantica.com/perfume/James-Heeley/Esprit-du-Tigre-7846.html				pending
-figuier	Figuier		unisex		https://www.fragrantica.com/perfume/James-Heeley/Figuier-7849.html				pending
-hippie-rose	Hippie Rose		unisex		https://www.fragrantica.com/perfume/James-Heeley/Hippie-Rose-12956.html				pending
-iris-de-nuit	Iris de Nuit		unisex		https://www.fragrantica.com/perfume/James-Heeley/Iris-de-Nuit-7850.html				pending
-jasmine-od	Jasmine OD		female		https://www.fragrantica.com/perfume/James-Heeley/Jasmine-OD-71450.html				pending
-lamandiere	L'Amandiere		female		https://www.fragrantica.com/perfume/James-Heeley/L-Amandiere-13542.html				pending
-menthe-fraiche	Menthe Fraiche		unisex		https://www.fragrantica.com/perfume/James-Heeley/Menthe-Fraiche-7851.html				pending
-note-de-yuzu	Note de Yuzu		unisex		https://www.fragrantica.com/perfume/James-Heeley/Note-de-Yuzu-46785.html				pending
-ophelia	Ophelia		female		https://www.fragrantica.com/perfume/James-Heeley/Ophelia-7854.html				pending
-oranges-and-lemons-say-the-bells-of-st-clements	Oranges and Lemons Say The Bells of St. Clements		unisex		https://www.fragrantica.com/perfume/James-Heeley/Oranges-and-Lemons-Say-The-Bells-of-St-Clements-12187.html				pending
-palm	Palm		unisex		https://www.fragrantica.com/perfume/James-Heeley/Palm-126419.html				pending
-phoenicia	Phoenicia		unisex		https://www.fragrantica.com/perfume/James-Heeley/Phoenicia-31218.html				pending
-phoenician-leather	Phoenician Leather		unisex		https://www.fragrantica.com/perfume/James-Heeley/Phoenician-Leather-126420.html				pending
-pomelo-crush	Pomelo Crush		unisex		https://www.fragrantica.com/perfume/James-Heeley/Pomelo-Crush-113084.html				pending
-rose-aria	Rose Aria		unisex		https://www.fragrantica.com/perfume/James-Heeley/Rose-Aria-66407.html				pending
-sel-marin	Sel Marin		unisex		https://www.fragrantica.com/perfume/James-Heeley/Sel-Marin-7852.html				pending
-verveine-deugene	Verveine D'Eugène		unisex		https://www.fragrantica.com/perfume/James-Heeley/Verveine-D-Eugene-7853.html				pending
-vetiver-veritas	Vetiver Veritas		unisex		https://www.fragrantica.com/perfume/James-Heeley/Vetiver-Veritas-25591.html				pending
-zeste-de-gingembre	Zeste de Gingembre		unisex		https://www.fragrantica.com/perfume/James-Heeley/Zeste-de-Gingembre-62948.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+agarwoud	Agarwoud		unisex	https://www.fragrantica.com/perfume/James-Heeley/Agarwoud-13541.html				pending
+athenean	Athenean		unisex	https://www.fragrantica.com/perfume/James-Heeley/Athenean-69491.html				pending
+blanc-poudre	Blanc Poudre		unisex	https://www.fragrantica.com/perfume/James-Heeley/Blanc-Poudre-52307.html				pending
+bubblegum-chic	Bubblegum Chic		female	https://www.fragrantica.com/perfume/James-Heeley/Bubblegum-Chic-13543.html				pending
+bubblegum-chic-pink-edition	Bubblegum Chic Pink Edition		unisex	https://www.fragrantica.com/perfume/James-Heeley/Bubblegum-Chic-Pink-Edition-115619.html				pending
+cardinal	Cardinal		unisex	https://www.fragrantica.com/perfume/James-Heeley/Cardinal-7844.html				pending
+cedre-blanc	Cedre Blanc		unisex	https://www.fragrantica.com/perfume/James-Heeley/Cedre-Blanc-7845.html				pending
+chiris	Chiris		unisex	https://www.fragrantica.com/perfume/James-Heeley/Chiris-142342.html				pending
+chypre-21	Chypre 21		unisex	https://www.fragrantica.com/perfume/James-Heeley/Chypre-21-33938.html				pending
+coccobello	Coccobello		unisex	https://www.fragrantica.com/perfume/James-Heeley/Coccobello-18470.html				pending
+cologne-officinale	Cologne Officinale		unisex	https://www.fragrantica.com/perfume/James-Heeley/Cologne-Officinale-81896.html				pending
+cuir-pleine-fleur	Cuir Pleine Fleur		unisex	https://www.fragrantica.com/perfume/James-Heeley/Cuir-Pleine-Fleur-7847.html				pending
+eau-sacree	Eau Sacree		unisex	https://www.fragrantica.com/perfume/James-Heeley/Eau-Sacree-41083.html				pending
+esprit-du-tigre	Esprit du Tigre		unisex	https://www.fragrantica.com/perfume/James-Heeley/Esprit-du-Tigre-7846.html				pending
+figuier	Figuier		unisex	https://www.fragrantica.com/perfume/James-Heeley/Figuier-7849.html				pending
+hippie-rose	Hippie Rose		unisex	https://www.fragrantica.com/perfume/James-Heeley/Hippie-Rose-12956.html				pending
+iris-de-nuit	Iris de Nuit		unisex	https://www.fragrantica.com/perfume/James-Heeley/Iris-de-Nuit-7850.html				pending
+jasmine-od	Jasmine OD		female	https://www.fragrantica.com/perfume/James-Heeley/Jasmine-OD-71450.html				pending
+lamandiere	L'Amandiere		female	https://www.fragrantica.com/perfume/James-Heeley/L-Amandiere-13542.html				pending
+menthe-fraiche	Menthe Fraiche		unisex	https://www.fragrantica.com/perfume/James-Heeley/Menthe-Fraiche-7851.html				pending
+note-de-yuzu	Note de Yuzu		unisex	https://www.fragrantica.com/perfume/James-Heeley/Note-de-Yuzu-46785.html				pending
+ophelia	Ophelia		female	https://www.fragrantica.com/perfume/James-Heeley/Ophelia-7854.html				pending
+oranges-and-lemons-say-the-bells-of-st-clements	Oranges and Lemons Say The Bells of St. Clements		unisex	https://www.fragrantica.com/perfume/James-Heeley/Oranges-and-Lemons-Say-The-Bells-of-St-Clements-12187.html				pending
+palm	Palm		unisex	https://www.fragrantica.com/perfume/James-Heeley/Palm-126419.html				pending
+phoenicia	Phoenicia		unisex	https://www.fragrantica.com/perfume/James-Heeley/Phoenicia-31218.html				pending
+phoenician-leather	Phoenician Leather		unisex	https://www.fragrantica.com/perfume/James-Heeley/Phoenician-Leather-126420.html				pending
+pomelo-crush	Pomelo Crush		unisex	https://www.fragrantica.com/perfume/James-Heeley/Pomelo-Crush-113084.html				pending
+rose-aria	Rose Aria		unisex	https://www.fragrantica.com/perfume/James-Heeley/Rose-Aria-66407.html				pending
+sel-marin	Sel Marin		unisex	https://www.fragrantica.com/perfume/James-Heeley/Sel-Marin-7852.html				pending
+verveine-deugene	Verveine D'Eugène		unisex	https://www.fragrantica.com/perfume/James-Heeley/Verveine-D-Eugene-7853.html				pending
+vetiver-veritas	Vetiver Veritas		unisex	https://www.fragrantica.com/perfume/James-Heeley/Vetiver-Veritas-25591.html				pending
+zeste-de-gingembre	Zeste de Gingembre		unisex	https://www.fragrantica.com/perfume/James-Heeley/Zeste-de-Gingembre-62948.html				pending

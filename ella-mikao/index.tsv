@@ -1,27 +1,27 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ella-mikao	Ella Mikao		female		https://www.fragrantica.com/perfume/Ella-Mikao/Ella-Mikao-33990.html				pending
-yujin	Yujin		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-6158.html				pending
-yujin-amour	Yujin Amour		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Amour-2407.html				pending
-yujin-aqua	Yujin Aqua		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Aqua-2408.html				pending
-yujin-art	Yujin Art		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Art-24760.html				pending
-yujin-bouquet-pink	Yujin Bouquet Pink		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Bouquet-Pink-24765.html				pending
-yujin-bouquet-purple	Yujin Bouquet Purple		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Bouquet-Purple-24770.html				pending
-yujin-bouquet-yellow	Yujin Bouquet Yellow		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Bouquet-Yellow-24771.html				pending
-yujin-color	Yujin Color		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Color-24766.html				pending
-yujin-cross	Yujin Cross		male		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Cross-24768.html				pending
-yujin-ectasy	Yujin Ectasy		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Ectasy-6157.html				pending
-yujin-feroce	Yujin Feroce		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Feroce-6155.html				pending
-yujin-floa	Yujin Floa		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Floa-6159.html				pending
-yujin-gold	Yujin Gold		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Gold-6156.html				pending
-yujin-men	Yujin Men		male		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Men-6160.html				pending
-yujin-paradise	Yujin Paradise		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Paradise-24761.html				pending
-yujin-pop	Yujin Pop		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Pop-24767.html				pending
-yujin-pour-homme	Yujin Pour Homme		male		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Pour-Homme-2410.html				pending
-yujin-pure	Yujin Pure		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Pure-2411.html				pending
-yujin-racing	Yujin Racing		male		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Racing-24764.html				pending
-yujin-reflex	Yujin Reflex		male		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Reflex-24769.html				pending
-yujin-sensual	Yujin Sensual		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Sensual-24762.html				pending
-yujin-star	Yujin Star		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Star-2406.html				pending
-yujin-star-night	Yujin Star Night		female		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Star-Night-24759.html				pending
-yujin-steel	Yujin Steel		male		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Steel-24763.html				pending
-yujin-sting	Yujin Sting		male		https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Sting-2409.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ella-mikao	Ella Mikao		female	https://www.fragrantica.com/perfume/Ella-Mikao/Ella-Mikao-33990.html				pending
+yujin	Yujin		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-6158.html				pending
+yujin-amour	Yujin Amour		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Amour-2407.html				pending
+yujin-aqua	Yujin Aqua		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Aqua-2408.html				pending
+yujin-art	Yujin Art		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Art-24760.html				pending
+yujin-bouquet-pink	Yujin Bouquet Pink		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Bouquet-Pink-24765.html				pending
+yujin-bouquet-purple	Yujin Bouquet Purple		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Bouquet-Purple-24770.html				pending
+yujin-bouquet-yellow	Yujin Bouquet Yellow		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Bouquet-Yellow-24771.html				pending
+yujin-color	Yujin Color		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Color-24766.html				pending
+yujin-cross	Yujin Cross		male	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Cross-24768.html				pending
+yujin-ectasy	Yujin Ectasy		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Ectasy-6157.html				pending
+yujin-feroce	Yujin Feroce		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Feroce-6155.html				pending
+yujin-floa	Yujin Floa		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Floa-6159.html				pending
+yujin-gold	Yujin Gold		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Gold-6156.html				pending
+yujin-men	Yujin Men		male	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Men-6160.html				pending
+yujin-paradise	Yujin Paradise		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Paradise-24761.html				pending
+yujin-pop	Yujin Pop		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Pop-24767.html				pending
+yujin-pour-homme	Yujin Pour Homme		male	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Pour-Homme-2410.html				pending
+yujin-pure	Yujin Pure		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Pure-2411.html				pending
+yujin-racing	Yujin Racing		male	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Racing-24764.html				pending
+yujin-reflex	Yujin Reflex		male	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Reflex-24769.html				pending
+yujin-sensual	Yujin Sensual		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Sensual-24762.html				pending
+yujin-star	Yujin Star		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Star-2406.html				pending
+yujin-star-night	Yujin Star Night		female	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Star-Night-24759.html				pending
+yujin-steel	Yujin Steel		male	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Steel-24763.html				pending
+yujin-sting	Yujin Sting		male	https://www.fragrantica.com/perfume/Ella-Mikao/Yujin-Sting-2409.html				pending

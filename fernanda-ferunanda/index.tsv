@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-caffe-latte	Caffè Latte		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/Caffe-Latte-84135.html				pending
-cocoa-chocolat	Cocoa Chocolat		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/Cocoa-Chocolat-84136.html				pending
-earl-grey-tea	Earl Grey Tea		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/Earl-Grey-Tea-84137.html				pending
-ichigo-chocolat	Ichigo Chocolat		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/Ichigo-Chocolat-84138.html				pending
-melon-smoothie	Melon Smoothie		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/Melon-Smoothie-84140.html				pending
-mimosa-tea	Mimosa Tea		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/Mimosa-Tea-84144.html				pending
-shine-muscat-tea	Shine Muscat Tea		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/Shine-Muscat-Tea-84141.html				pending
-very-coffee	Very Coffee		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/Very-Coffee-84139.html				pending
-white-tea	White Tea		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/White-Tea-84142.html				pending
-yogurt-smoothie	Yogurt Smoothie		female		https://www.fragrantica.com/perfume/Fernanda-ferunanda/Yogurt-Smoothie-84143.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+caffe-latte	Caffè Latte		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/Caffe-Latte-84135.html				pending
+cocoa-chocolat	Cocoa Chocolat		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/Cocoa-Chocolat-84136.html				pending
+earl-grey-tea	Earl Grey Tea		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/Earl-Grey-Tea-84137.html				pending
+ichigo-chocolat	Ichigo Chocolat		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/Ichigo-Chocolat-84138.html				pending
+melon-smoothie	Melon Smoothie		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/Melon-Smoothie-84140.html				pending
+mimosa-tea	Mimosa Tea		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/Mimosa-Tea-84144.html				pending
+shine-muscat-tea	Shine Muscat Tea		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/Shine-Muscat-Tea-84141.html				pending
+very-coffee	Very Coffee		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/Very-Coffee-84139.html				pending
+white-tea	White Tea		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/White-Tea-84142.html				pending
+yogurt-smoothie	Yogurt Smoothie		female	https://www.fragrantica.com/perfume/Fernanda-ferunanda/Yogurt-Smoothie-84143.html				pending

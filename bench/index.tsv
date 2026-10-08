@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-24-7-for-her	24/7 For Her		female		https://www.fragrantica.com/perfume/Bench/24-7-For-Her-28005.html				pending
-24-7-for-him	24/7 For Him		male		https://www.fragrantica.com/perfume/Bench/24-7-For-Him-28006.html				pending
-an-urban-original-2-for-him	An Urban Original 2 for Him		male		https://www.fragrantica.com/perfume/Bench/An-Urban-Original-2-for-Him-20190.html				pending
-bench-24-hour-life-remixed-for-her	Bench 24 Hour Life Remixed for Her		female		https://www.fragrantica.com/perfume/Bench/Bench-24-Hour-Life-Remixed-for-Her-41039.html				pending
-bench-24-hour-life-remixed-for-him	Bench 24 Hour Life Remixed for Him		male		https://www.fragrantica.com/perfume/Bench/Bench-24-Hour-Life-Remixed-for-Him-41038.html				pending
-bench-an-urban-original-2-for-her	Bench An Urban Original 2 for Her		female		https://www.fragrantica.com/perfume/Bench/Bench-An-Urban-Original-2-for-Her-20191.html				pending
-bench-for-her	Bench For Her		female		https://www.fragrantica.com/perfume/Bench/Bench-For-Her-59071.html				pending
-bench-for-him	Bench For Him		male		https://www.fragrantica.com/perfume/Bench/Bench-For-Him-59072.html				pending
-bench-identity-for-her	Bench Identity For Her		female		https://www.fragrantica.com/perfume/Bench/Bench-Identity-For-Her-81499.html				pending
-bench-motion-for-her	Bench Motion For Her		female		https://www.fragrantica.com/perfume/Bench/Bench-Motion-For-Her-59073.html				pending
-bench-motion-for-him	Bench Motion For Him		male		https://www.fragrantica.com/perfume/Bench/Bench-Motion-For-Him-59075.html				pending
-sound-for-her	Sound For Her		female		https://www.fragrantica.com/perfume/Bench/Sound-For-Her-59070.html				pending
-sound-for-him	Sound For Him		male		https://www.fragrantica.com/perfume/Bench/Sound-For-Him-59068.html				pending
-urban-jungle-for-her	Urban Jungle For Her		female		https://www.fragrantica.com/perfume/Bench/Urban-Jungle-For-Her-64052.html				pending
-urban-jungle-for-him	Urban Jungle For Him		male		https://www.fragrantica.com/perfume/Bench/Urban-Jungle-For-Him-64051.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+24-7-for-her	24/7 For Her		female	https://www.fragrantica.com/perfume/Bench/24-7-For-Her-28005.html				pending
+24-7-for-him	24/7 For Him		male	https://www.fragrantica.com/perfume/Bench/24-7-For-Him-28006.html				pending
+an-urban-original-2-for-him	An Urban Original 2 for Him		male	https://www.fragrantica.com/perfume/Bench/An-Urban-Original-2-for-Him-20190.html				pending
+bench-24-hour-life-remixed-for-her	Bench 24 Hour Life Remixed for Her		female	https://www.fragrantica.com/perfume/Bench/Bench-24-Hour-Life-Remixed-for-Her-41039.html				pending
+bench-24-hour-life-remixed-for-him	Bench 24 Hour Life Remixed for Him		male	https://www.fragrantica.com/perfume/Bench/Bench-24-Hour-Life-Remixed-for-Him-41038.html				pending
+bench-an-urban-original-2-for-her	Bench An Urban Original 2 for Her		female	https://www.fragrantica.com/perfume/Bench/Bench-An-Urban-Original-2-for-Her-20191.html				pending
+bench-for-her	Bench For Her		female	https://www.fragrantica.com/perfume/Bench/Bench-For-Her-59071.html				pending
+bench-for-him	Bench For Him		male	https://www.fragrantica.com/perfume/Bench/Bench-For-Him-59072.html				pending
+bench-identity-for-her	Bench Identity For Her		female	https://www.fragrantica.com/perfume/Bench/Bench-Identity-For-Her-81499.html				pending
+bench-motion-for-her	Bench Motion For Her		female	https://www.fragrantica.com/perfume/Bench/Bench-Motion-For-Her-59073.html				pending
+bench-motion-for-him	Bench Motion For Him		male	https://www.fragrantica.com/perfume/Bench/Bench-Motion-For-Him-59075.html				pending
+sound-for-her	Sound For Her		female	https://www.fragrantica.com/perfume/Bench/Sound-For-Her-59070.html				pending
+sound-for-him	Sound For Him		male	https://www.fragrantica.com/perfume/Bench/Sound-For-Him-59068.html				pending
+urban-jungle-for-her	Urban Jungle For Her		female	https://www.fragrantica.com/perfume/Bench/Urban-Jungle-For-Her-64052.html				pending
+urban-jungle-for-him	Urban Jungle For Him		male	https://www.fragrantica.com/perfume/Bench/Urban-Jungle-For-Him-64051.html				pending

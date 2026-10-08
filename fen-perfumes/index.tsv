@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-violet	Black Violet		female		https://www.fragrantica.com/perfume/FEN-Perfumes/Black-Violet-61593.html				pending
-cashmere-rose	Cashmere Rose		female		https://www.fragrantica.com/perfume/FEN-Perfumes/Cashmere-Rose-61591.html				pending
-cool-suede	Cool Suede		male		https://www.fragrantica.com/perfume/FEN-Perfumes/Cool-Suede-61590.html				pending
-dew-drops	Dew Drops		male		https://www.fragrantica.com/perfume/FEN-Perfumes/Dew-Drops-61589.html				pending
-emperor	Emperor		male		https://www.fragrantica.com/perfume/FEN-Perfumes/Emperor-61588.html				pending
-gentlemens-club	Gentlemen’s Club		male		https://www.fragrantica.com/perfume/FEN-Perfumes/Gentlemen-s-Club-61587.html				pending
-madame-hayti	Madame Hayti		female		https://www.fragrantica.com/perfume/FEN-Perfumes/Madame-Hayti-61595.html				pending
-one-in-a-million	One In A Million		male		https://www.fragrantica.com/perfume/FEN-Perfumes/One-In-A-Million-61586.html				pending
-prima-donna	Prima Donna		female		https://www.fragrantica.com/perfume/FEN-Perfumes/Prima-Donna-61592.html				pending
-she-says	She Says		female		https://www.fragrantica.com/perfume/FEN-Perfumes/She-Says-61598.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-violet	Black Violet		female	https://www.fragrantica.com/perfume/FEN-Perfumes/Black-Violet-61593.html				pending
+cashmere-rose	Cashmere Rose		female	https://www.fragrantica.com/perfume/FEN-Perfumes/Cashmere-Rose-61591.html				pending
+cool-suede	Cool Suede		male	https://www.fragrantica.com/perfume/FEN-Perfumes/Cool-Suede-61590.html				pending
+dew-drops	Dew Drops		male	https://www.fragrantica.com/perfume/FEN-Perfumes/Dew-Drops-61589.html				pending
+emperor	Emperor		male	https://www.fragrantica.com/perfume/FEN-Perfumes/Emperor-61588.html				pending
+gentlemens-club	Gentlemen’s Club		male	https://www.fragrantica.com/perfume/FEN-Perfumes/Gentlemen-s-Club-61587.html				pending
+madame-hayti	Madame Hayti		female	https://www.fragrantica.com/perfume/FEN-Perfumes/Madame-Hayti-61595.html				pending
+one-in-a-million	One In A Million		male	https://www.fragrantica.com/perfume/FEN-Perfumes/One-In-A-Million-61586.html				pending
+prima-donna	Prima Donna		female	https://www.fragrantica.com/perfume/FEN-Perfumes/Prima-Donna-61592.html				pending
+she-says	She Says		female	https://www.fragrantica.com/perfume/FEN-Perfumes/She-Says-61598.html				pending

@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aviv-jasmine	Aviv (Jasmine)		female		https://www.fragrantica.com/perfume/Sabon/Aviv-Jasmine-10762.html				pending
-citrus-blossom	Citrus Blossom		unisex		https://www.fragrantica.com/perfume/Sabon/Citrus-Blossom-60938.html				pending
-dear-jasmine	Dear Jasmine		unisex		https://www.fragrantica.com/perfume/Sabon/Dear-Jasmine-42461.html				pending
-delicate-jasmine	Delicate Jasmine		female		https://www.fragrantica.com/perfume/Sabon/Delicate-Jasmine-60936.html				pending
-elegant-iris	Elegant Iris		unisex		https://www.fragrantica.com/perfume/Sabon/Elegant-Iris-42462.html				pending
-femme	Femme		female		https://www.fragrantica.com/perfume/Sabon/Femme-10760.html				pending
-floral-bloom	Floral Bloom		unisex		https://www.fragrantica.com/perfume/Sabon/Floral-Bloom-60939.html				pending
-ginger-orange	Ginger Orange		unisex		https://www.fragrantica.com/perfume/Sabon/Ginger-Orange-60946.html				pending
-girlfriends	Girlfriends		female		https://www.fragrantica.com/perfume/Sabon/Girlfriends-42469.html				pending
-green-rose	Green Rose		female		https://www.fragrantica.com/perfume/Sabon/Green-Rose-60934.html				pending
-homme	Homme		male		https://www.fragrantica.com/perfume/Sabon/Homme-10761.html				pending
-innocent-musk	Innocent Musk		unisex		https://www.fragrantica.com/perfume/Sabon/Innocent-Musk-42465.html				pending
-musk	Musk		unisex		https://www.fragrantica.com/perfume/Sabon/Musk-60937.html				pending
-oneg-patchouli-vanilla	Oneg (Patchouli Vanilla)		female		https://www.fragrantica.com/perfume/Sabon/Oneg-Patchouli-Vanilla-10763.html				pending
-patchouli-lavender-vanilla	Patchouli Lavender Vanilla		unisex		https://www.fragrantica.com/perfume/Sabon/Patchouli-Lavender-Vanilla-60933.html				pending
-plv-28-patchouli-lavender-vanilla	PLV 28 Patchouli Lavender Vanilla		unisex		https://www.fragrantica.com/perfume/Sabon/PLV-28-Patchouli-Lavender-Vanilla-46554.html				pending
-rose-tea	Rose Tea		female		https://www.fragrantica.com/perfume/Sabon/Rose-Tea-60930.html				pending
-shir-lily	Shir (Lily)		female		https://www.fragrantica.com/perfume/Sabon/Shir-Lily-10764.html				pending
-tal-marine	Tal (Marine)		unisex		https://www.fragrantica.com/perfume/Sabon/Tal-Marine-10765.html				pending
-the-spell	The Spell		unisex		https://www.fragrantica.com/perfume/Sabon/The-Spell-42466.html				pending
-true-patchouli	True Patchouli		unisex		https://www.fragrantica.com/perfume/Sabon/True-Patchouli-42464.html				pending
-white-tea	White Tea		unisex		https://www.fragrantica.com/perfume/Sabon/White-Tea-60935.html				pending
-wild-roses	Wild Roses		unisex		https://www.fragrantica.com/perfume/Sabon/Wild-Roses-42463.html				pending
-zer-rose	Zer (Rose)		female		https://www.fragrantica.com/perfume/Sabon/Zer-Rose-10766.html				pending
-zohar-musk	Zohar (Musk)		unisex		https://www.fragrantica.com/perfume/Sabon/Zohar-Musk-10767.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aviv-jasmine	Aviv (Jasmine)		female	https://www.fragrantica.com/perfume/Sabon/Aviv-Jasmine-10762.html				pending
+citrus-blossom	Citrus Blossom		unisex	https://www.fragrantica.com/perfume/Sabon/Citrus-Blossom-60938.html				pending
+dear-jasmine	Dear Jasmine		unisex	https://www.fragrantica.com/perfume/Sabon/Dear-Jasmine-42461.html				pending
+delicate-jasmine	Delicate Jasmine		female	https://www.fragrantica.com/perfume/Sabon/Delicate-Jasmine-60936.html				pending
+elegant-iris	Elegant Iris		unisex	https://www.fragrantica.com/perfume/Sabon/Elegant-Iris-42462.html				pending
+femme	Femme		female	https://www.fragrantica.com/perfume/Sabon/Femme-10760.html				pending
+floral-bloom	Floral Bloom		unisex	https://www.fragrantica.com/perfume/Sabon/Floral-Bloom-60939.html				pending
+ginger-orange	Ginger Orange		unisex	https://www.fragrantica.com/perfume/Sabon/Ginger-Orange-60946.html				pending
+girlfriends	Girlfriends		female	https://www.fragrantica.com/perfume/Sabon/Girlfriends-42469.html				pending
+green-rose	Green Rose		female	https://www.fragrantica.com/perfume/Sabon/Green-Rose-60934.html				pending
+homme	Homme		male	https://www.fragrantica.com/perfume/Sabon/Homme-10761.html				pending
+innocent-musk	Innocent Musk		unisex	https://www.fragrantica.com/perfume/Sabon/Innocent-Musk-42465.html				pending
+musk	Musk		unisex	https://www.fragrantica.com/perfume/Sabon/Musk-60937.html				pending
+oneg-patchouli-vanilla	Oneg (Patchouli Vanilla)		female	https://www.fragrantica.com/perfume/Sabon/Oneg-Patchouli-Vanilla-10763.html				pending
+patchouli-lavender-vanilla	Patchouli Lavender Vanilla		unisex	https://www.fragrantica.com/perfume/Sabon/Patchouli-Lavender-Vanilla-60933.html				pending
+plv-28-patchouli-lavender-vanilla	PLV 28 Patchouli Lavender Vanilla		unisex	https://www.fragrantica.com/perfume/Sabon/PLV-28-Patchouli-Lavender-Vanilla-46554.html				pending
+rose-tea	Rose Tea		female	https://www.fragrantica.com/perfume/Sabon/Rose-Tea-60930.html				pending
+shir-lily	Shir (Lily)		female	https://www.fragrantica.com/perfume/Sabon/Shir-Lily-10764.html				pending
+tal-marine	Tal (Marine)		unisex	https://www.fragrantica.com/perfume/Sabon/Tal-Marine-10765.html				pending
+the-spell	The Spell		unisex	https://www.fragrantica.com/perfume/Sabon/The-Spell-42466.html				pending
+true-patchouli	True Patchouli		unisex	https://www.fragrantica.com/perfume/Sabon/True-Patchouli-42464.html				pending
+white-tea	White Tea		unisex	https://www.fragrantica.com/perfume/Sabon/White-Tea-60935.html				pending
+wild-roses	Wild Roses		unisex	https://www.fragrantica.com/perfume/Sabon/Wild-Roses-42463.html				pending
+zer-rose	Zer (Rose)		female	https://www.fragrantica.com/perfume/Sabon/Zer-Rose-10766.html				pending
+zohar-musk	Zohar (Musk)		unisex	https://www.fragrantica.com/perfume/Sabon/Zohar-Musk-10767.html				pending

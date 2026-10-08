@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aylan	Aylan		unisex		https://www.fragrantica.com/perfume/Day-Three/Aylan-99233.html				pending
-bani	Baní		unisex		https://www.fragrantica.com/perfume/Day-Three/Bani-82916.html				pending
-del-mar	Del Mar		unisex		https://www.fragrantica.com/perfume/Day-Three/Del-Mar-82921.html				pending
-desert-rain	Desert Rain		unisex		https://www.fragrantica.com/perfume/Day-Three/Desert-Rain-112338.html				pending
-downtown-deja-vu	Downtown Deja-Vu		unisex		https://www.fragrantica.com/perfume/Day-Three/Downtown-Deja-Vu-82922.html				pending
-escandalo	Escándalo		unisex		https://www.fragrantica.com/perfume/Day-Three/Escandalo-94878.html				pending
-filosofia	Filosofía		unisex		https://www.fragrantica.com/perfume/Day-Three/Filosofia-88644.html				pending
-la-tacita-de-cafe	La Tacita de Café		unisex		https://www.fragrantica.com/perfume/Day-Three/La-Tacita-de-Cafe-82918.html				pending
-midnight-raspberry	Midnight Raspberry		unisex		https://www.fragrantica.com/perfume/Day-Three/Midnight-Raspberry-117127.html				pending
-midnight-whisper	Midnight Whisper		unisex		https://www.fragrantica.com/perfume/Day-Three/Midnight-Whisper-82923.html				pending
-say-less	Say Less		unisex		https://www.fragrantica.com/perfume/Day-Three/Say-Less-82917.html				pending
-silent-rescue	Silent Rescue		unisex		https://www.fragrantica.com/perfume/Day-Three/Silent-Rescue-82920.html				pending
-tres-oros	Tres Oros		unisex		https://www.fragrantica.com/perfume/Day-Three/Tres-Oros-103113.html				pending
-ambar-dominicano	Ámbar Dominicano		unisex		https://www.fragrantica.com/perfume/Day-Three/Ambar-Dominicano-82919.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aylan	Aylan		unisex	https://www.fragrantica.com/perfume/Day-Three/Aylan-99233.html				pending
+bani	Baní		unisex	https://www.fragrantica.com/perfume/Day-Three/Bani-82916.html				pending
+del-mar	Del Mar		unisex	https://www.fragrantica.com/perfume/Day-Three/Del-Mar-82921.html				pending
+desert-rain	Desert Rain		unisex	https://www.fragrantica.com/perfume/Day-Three/Desert-Rain-112338.html				pending
+downtown-deja-vu	Downtown Deja-Vu		unisex	https://www.fragrantica.com/perfume/Day-Three/Downtown-Deja-Vu-82922.html				pending
+escandalo	Escándalo		unisex	https://www.fragrantica.com/perfume/Day-Three/Escandalo-94878.html				pending
+filosofia	Filosofía		unisex	https://www.fragrantica.com/perfume/Day-Three/Filosofia-88644.html				pending
+la-tacita-de-cafe	La Tacita de Café		unisex	https://www.fragrantica.com/perfume/Day-Three/La-Tacita-de-Cafe-82918.html				pending
+midnight-raspberry	Midnight Raspberry		unisex	https://www.fragrantica.com/perfume/Day-Three/Midnight-Raspberry-117127.html				pending
+midnight-whisper	Midnight Whisper		unisex	https://www.fragrantica.com/perfume/Day-Three/Midnight-Whisper-82923.html				pending
+say-less	Say Less		unisex	https://www.fragrantica.com/perfume/Day-Three/Say-Less-82917.html				pending
+silent-rescue	Silent Rescue		unisex	https://www.fragrantica.com/perfume/Day-Three/Silent-Rescue-82920.html				pending
+tres-oros	Tres Oros		unisex	https://www.fragrantica.com/perfume/Day-Three/Tres-Oros-103113.html				pending
+ambar-dominicano	Ámbar Dominicano		unisex	https://www.fragrantica.com/perfume/Day-Three/Ambar-Dominicano-82919.html				pending

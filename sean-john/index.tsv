@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-3-am	3 AM		male		https://www.fragrantica.com/perfume/Sean-John/3-AM-30544.html				pending
-empress	Empress		female		https://www.fragrantica.com/perfume/Sean-John/Empress-12964.html				pending
-i-am-king	I Am King		male		https://www.fragrantica.com/perfume/Sean-John/I-Am-King-4349.html				pending
-sean-john	Sean John		male		https://www.fragrantica.com/perfume/Sean-John/Sean-John-40485.html				pending
-unforgivable	Unforgivable		male		https://www.fragrantica.com/perfume/Sean-John/Unforgivable-2209.html				pending
-unforgivable-black	Unforgivable Black		male		https://www.fragrantica.com/perfume/Sean-John/Unforgivable-Black-2925.html				pending
-unforgivable-women	Unforgivable Women		female		https://www.fragrantica.com/perfume/Sean-John/Unforgivable-Women-2210.html				pending
-unforgivable-women-black	Unforgivable Women Black		female		https://www.fragrantica.com/perfume/Sean-John/Unforgivable-Women-Black-2924.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+3-am	3 AM		male	https://www.fragrantica.com/perfume/Sean-John/3-AM-30544.html				pending
+empress	Empress		female	https://www.fragrantica.com/perfume/Sean-John/Empress-12964.html				pending
+i-am-king	I Am King		male	https://www.fragrantica.com/perfume/Sean-John/I-Am-King-4349.html				pending
+sean-john	Sean John		male	https://www.fragrantica.com/perfume/Sean-John/Sean-John-40485.html				pending
+unforgivable	Unforgivable		male	https://www.fragrantica.com/perfume/Sean-John/Unforgivable-2209.html				pending
+unforgivable-black	Unforgivable Black		male	https://www.fragrantica.com/perfume/Sean-John/Unforgivable-Black-2925.html				pending
+unforgivable-women	Unforgivable Women		female	https://www.fragrantica.com/perfume/Sean-John/Unforgivable-Women-2210.html				pending
+unforgivable-women-black	Unforgivable Women Black		female	https://www.fragrantica.com/perfume/Sean-John/Unforgivable-Women-Black-2924.html				pending

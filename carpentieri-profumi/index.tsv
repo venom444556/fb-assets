@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bergamotto-acqua-di-colognia	Bergamotto Acqua di Colognia		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Bergamotto-Acqua-di-Colognia-84553.html				pending
-calabrese-uomo	Calabrese Uomo		male		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Calabrese-Uomo-84551.html				pending
-cedro-del-mediterraneo	Cedro del Mediterraneo		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Cedro-del-Mediterraneo-84549.html				pending
-fior-dulivo	Fior d'Ulivo		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Fior-d-Ulivo-84548.html				pending
-gelsomino	Gelsomino		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Gelsomino-76869.html				pending
-ginestra	Ginestra		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Ginestra-84552.html				pending
-limone	Limone		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Limone-84747.html				pending
-mediterraneo	Mediterraneo		male		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Mediterraneo-84550.html				pending
-melograno	Melograno		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Melograno-84748.html				pending
-muschio-bianco	Muschio Bianco		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Muschio-Bianco-84749.html				pending
-vaniglia	Vaniglia		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Vaniglia-84746.html				pending
-violetta-del-mediterraneo	Violetta del Mediterraneo		unisex		https://www.fragrantica.com/perfume/Carpentieri-Profumi/Violetta-del-Mediterraneo-91799.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bergamotto-acqua-di-colognia	Bergamotto Acqua di Colognia		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Bergamotto-Acqua-di-Colognia-84553.html				pending
+calabrese-uomo	Calabrese Uomo		male	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Calabrese-Uomo-84551.html				pending
+cedro-del-mediterraneo	Cedro del Mediterraneo		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Cedro-del-Mediterraneo-84549.html				pending
+fior-dulivo	Fior d'Ulivo		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Fior-d-Ulivo-84548.html				pending
+gelsomino	Gelsomino		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Gelsomino-76869.html				pending
+ginestra	Ginestra		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Ginestra-84552.html				pending
+limone	Limone		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Limone-84747.html				pending
+mediterraneo	Mediterraneo		male	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Mediterraneo-84550.html				pending
+melograno	Melograno		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Melograno-84748.html				pending
+muschio-bianco	Muschio Bianco		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Muschio-Bianco-84749.html				pending
+vaniglia	Vaniglia		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Vaniglia-84746.html				pending
+violetta-del-mediterraneo	Violetta del Mediterraneo		unisex	https://www.fragrantica.com/perfume/Carpentieri-Profumi/Violetta-del-Mediterraneo-91799.html				pending

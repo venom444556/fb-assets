@@ -1,19 +1,19 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-decima	Acqua Decima		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Acqua-Decima-18001.html				pending
-acqua-di-positano	Acqua di Positano		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Acqua-di-Positano-92674.html				pending
-au-lac	Au Lac		female		https://www.fragrantica.com/perfume/Eau-D-Italie/Au-Lac-9603.html				pending
-baume-du-doge	Baume du Doge		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Baume-du-Doge-4738.html				pending
-bois-dombrie	Bois d’Ombrie		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Bois-d-Ombrie-1603.html				pending
-easy-to-love	Easy to Love		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Easy-to-Love-54859.html				pending
-eau-ditalie	Eau D'Italie		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Eau-D-Italie-1544.html				pending
-fior-fiore	Fior Fiore		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Fior-Fiore-49434.html				pending
-graine-de-joie	Graine de Joie		female		https://www.fragrantica.com/perfume/Eau-D-Italie/Graine-de-Joie-24702.html				pending
-jardin-du-poete	Jardin du Poete		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Jardin-du-Poete-11760.html				pending
-jasmine-leather	Jasmine Leather		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Jasmine-Leather-63574.html				pending
-magnolia-romana	Magnolia Romana		female		https://www.fragrantica.com/perfume/Eau-D-Italie/Magnolia-Romana-3187.html				pending
-morn-to-dusk	Morn to Dusk		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Morn-to-Dusk-30355.html				pending
-mystic-sunset	Mystic Sunset		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Mystic-Sunset-74383.html				pending
-paestum-rose	Paestum Rose		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Paestum-Rose-1601.html				pending
-rosa-greta	Rosa Greta		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Rosa-Greta-44823.html				pending
-sienne-l-hiver	Sienne l´Hiver		unisex		https://www.fragrantica.com/perfume/Eau-D-Italie/Sienne-l-Hiver-1602.html				pending
-un-bateau-pour-capri	Un Bateau pour Capri		female		https://www.fragrantica.com/perfume/Eau-D-Italie/Un-Bateau-pour-Capri-14895.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-decima	Acqua Decima		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Acqua-Decima-18001.html				pending
+acqua-di-positano	Acqua di Positano		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Acqua-di-Positano-92674.html				pending
+au-lac	Au Lac		female	https://www.fragrantica.com/perfume/Eau-D-Italie/Au-Lac-9603.html				pending
+baume-du-doge	Baume du Doge		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Baume-du-Doge-4738.html				pending
+bois-dombrie	Bois d’Ombrie		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Bois-d-Ombrie-1603.html				pending
+easy-to-love	Easy to Love		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Easy-to-Love-54859.html				pending
+eau-ditalie	Eau D'Italie		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Eau-D-Italie-1544.html				pending
+fior-fiore	Fior Fiore		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Fior-Fiore-49434.html				pending
+graine-de-joie	Graine de Joie		female	https://www.fragrantica.com/perfume/Eau-D-Italie/Graine-de-Joie-24702.html				pending
+jardin-du-poete	Jardin du Poete		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Jardin-du-Poete-11760.html				pending
+jasmine-leather	Jasmine Leather		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Jasmine-Leather-63574.html				pending
+magnolia-romana	Magnolia Romana		female	https://www.fragrantica.com/perfume/Eau-D-Italie/Magnolia-Romana-3187.html				pending
+morn-to-dusk	Morn to Dusk		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Morn-to-Dusk-30355.html				pending
+mystic-sunset	Mystic Sunset		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Mystic-Sunset-74383.html				pending
+paestum-rose	Paestum Rose		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Paestum-Rose-1601.html				pending
+rosa-greta	Rosa Greta		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Rosa-Greta-44823.html				pending
+sienne-l-hiver	Sienne l´Hiver		unisex	https://www.fragrantica.com/perfume/Eau-D-Italie/Sienne-l-Hiver-1602.html				pending
+un-bateau-pour-capri	Un Bateau pour Capri		female	https://www.fragrantica.com/perfume/Eau-D-Italie/Un-Bateau-pour-Capri-14895.html				pending

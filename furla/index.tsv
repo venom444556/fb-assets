@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adorabile	Adorabile		female		https://www.fragrantica.com/perfume/Furla/Adorabile-106441.html				pending
-armoniosa	Armoniosa		female		https://www.fragrantica.com/perfume/Furla/Armoniosa-96965.html				pending
-autentica	Autentica		female		https://www.fragrantica.com/perfume/Furla/Autentica-69941.html				pending
-favolosa	Favolosa		female		https://www.fragrantica.com/perfume/Furla/Favolosa-63699.html				pending
-incantevole	Incantevole		female		https://www.fragrantica.com/perfume/Furla/Incantevole-76696.html				pending
-irresistibile	Irresistibile		female		https://www.fragrantica.com/perfume/Furla/Irresistibile-63698.html				pending
-magnifica	Magnifica		female		https://www.fragrantica.com/perfume/Furla/Magnifica-63695.html				pending
-meravigliosa	Meravigliosa		female		https://www.fragrantica.com/perfume/Furla/Meravigliosa-76697.html				pending
-mistica	Mistica		female		https://www.fragrantica.com/perfume/Furla/Mistica-83169.html				pending
-preziosa	Preziosa		female		https://www.fragrantica.com/perfume/Furla/Preziosa-63697.html				pending
-pura	Pura		female		https://www.fragrantica.com/perfume/Furla/Pura-92287.html				pending
-romantica	Romantica		female		https://www.fragrantica.com/perfume/Furla/Romantica-63696.html				pending
-unica	Unica		female		https://www.fragrantica.com/perfume/Furla/Unica-76520.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adorabile	Adorabile		female	https://www.fragrantica.com/perfume/Furla/Adorabile-106441.html				pending
+armoniosa	Armoniosa		female	https://www.fragrantica.com/perfume/Furla/Armoniosa-96965.html				pending
+autentica	Autentica		female	https://www.fragrantica.com/perfume/Furla/Autentica-69941.html				pending
+favolosa	Favolosa		female	https://www.fragrantica.com/perfume/Furla/Favolosa-63699.html				pending
+incantevole	Incantevole		female	https://www.fragrantica.com/perfume/Furla/Incantevole-76696.html				pending
+irresistibile	Irresistibile		female	https://www.fragrantica.com/perfume/Furla/Irresistibile-63698.html				pending
+magnifica	Magnifica		female	https://www.fragrantica.com/perfume/Furla/Magnifica-63695.html				pending
+meravigliosa	Meravigliosa		female	https://www.fragrantica.com/perfume/Furla/Meravigliosa-76697.html				pending
+mistica	Mistica		female	https://www.fragrantica.com/perfume/Furla/Mistica-83169.html				pending
+preziosa	Preziosa		female	https://www.fragrantica.com/perfume/Furla/Preziosa-63697.html				pending
+pura	Pura		female	https://www.fragrantica.com/perfume/Furla/Pura-92287.html				pending
+romantica	Romantica		female	https://www.fragrantica.com/perfume/Furla/Romantica-63696.html				pending
+unica	Unica		female	https://www.fragrantica.com/perfume/Furla/Unica-76520.html				pending

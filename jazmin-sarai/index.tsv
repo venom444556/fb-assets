@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-how-you-love	How You Love		female		https://www.fragrantica.com/perfume/Jazmin-Sarai/How-You-Love-24530.html				pending
-neon-graffiti	Neon Graffiti		unisex		https://www.fragrantica.com/perfume/Jazmin-Sarai/Neon-Graffiti-24529.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+how-you-love	How You Love		female	https://www.fragrantica.com/perfume/Jazmin-Sarai/How-You-Love-24530.html				pending
+neon-graffiti	Neon Graffiti		unisex	https://www.fragrantica.com/perfume/Jazmin-Sarai/Neon-Graffiti-24529.html				pending

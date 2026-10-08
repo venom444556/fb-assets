@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-believes-in-you	Believes in You		male		https://www.fragrantica.com/perfume/IKKS/Believes-in-You-18163.html				pending
-ikks-baby	IKKS Baby		unisex		https://www.fragrantica.com/perfume/IKKS/IKKS-Baby-10100.html				pending
-ikks-burning-for-you	IKKS Burning For You		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Burning-For-You-50837.html				pending
-ikks-for-a-kiss	IKKS For a Kiss		female		https://www.fragrantica.com/perfume/IKKS/IKKS-For-a-Kiss-15717.html				pending
-ikks-for-a-kiss-bohemian-love	IKKS For A Kiss Bohemian Love		female		https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Bohemian-Love-60633.html				pending
-ikks-for-a-kiss-glitter	IKKS For A Kiss Glitter		female		https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Glitter-50834.html				pending
-ikks-for-a-kiss-good-vibes	IKKS For A Kiss Good Vibes		female		https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Good-Vibes-72865.html				pending
-ikks-for-a-kiss-romantic-wild	IKKS For A Kiss Romantic Wild		female		https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Romantic-Wild-50832.html				pending
-ikks-for-a-kiss-urban-bloom	IKKS For A Kiss Urban Bloom		female		https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Urban-Bloom-66056.html				pending
-ikks-little-woman	IKKS Little Woman		female		https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-10098.html				pending
-ikks-little-woman-brazil	IKKS Little Woman Brazil		female		https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Brazil-39076.html				pending
-ikks-little-woman-california	IKKS Little Woman California		female		https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-California-50835.html				pending
-ikks-little-woman-endless-paradise	IKKS Little Woman Endless Paradise		female		https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Endless-Paradise-81623.html				pending
-ikks-little-woman-french-surfeuse	IKKS Little Woman French Surfeuse		female		https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-French-Surfeuse-72864.html				pending
-ikks-little-woman-peace-and-love	IKKS Little Woman Peace & Love		female		https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Peace-Love-60711.html				pending
-ikks-little-woman-pink-malibu	IKKS Little Woman Pink Malibu		female		https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Pink-Malibu-50830.html				pending
-ikks-little-woman-sea-and-sun	IKKS Little Woman Sea & Sun		female		https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Sea-Sun-66055.html				pending
-ikks-man	IKKS Man		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Man-50833.html				pending
-ikks-total-rock	IKKS Total Rock		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Total-Rock-12940.html				pending
-ikks-woman	IKKS Woman		female		https://www.fragrantica.com/perfume/IKKS/IKKS-Woman-10097.html				pending
-ikks-young-man	IKKS Young Man		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-10099.html				pending
-ikks-young-man-brazil	IKKS Young Man Brazil		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Brazil-39075.html				pending
-ikks-young-man-california	IKKS Young Man California		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-California-50836.html				pending
-ikks-young-man-endless-paradise	IKKS Young Man Endless Paradise		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Endless-Paradise-81622.html				pending
-ikks-young-man-french-surfeur	IKKS Young Man French Surfeur		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-French-Surfeur-72866.html				pending
-ikks-young-man-green-arizona	IKKS Young Man Green Arizona		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Green-Arizona-50831.html				pending
-ikks-young-man-peace-and-love	IKKS Young Man Peace & Love		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Peace-Love-60634.html				pending
-ikks-young-man-sea-and-sun	IKKS Young Man Sea & Sun		male		https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Sea-Sun-66054.html				pending
-private	Private		female		https://www.fragrantica.com/perfume/IKKS/Private-10095.html				pending
-private-only-for-men	Private Only for Men		male		https://www.fragrantica.com/perfume/IKKS/Private-Only-for-Men-10096.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+believes-in-you	Believes in You		male	https://www.fragrantica.com/perfume/IKKS/Believes-in-You-18163.html				pending
+ikks-baby	IKKS Baby		unisex	https://www.fragrantica.com/perfume/IKKS/IKKS-Baby-10100.html				pending
+ikks-burning-for-you	IKKS Burning For You		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Burning-For-You-50837.html				pending
+ikks-for-a-kiss	IKKS For a Kiss		female	https://www.fragrantica.com/perfume/IKKS/IKKS-For-a-Kiss-15717.html				pending
+ikks-for-a-kiss-bohemian-love	IKKS For A Kiss Bohemian Love		female	https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Bohemian-Love-60633.html				pending
+ikks-for-a-kiss-glitter	IKKS For A Kiss Glitter		female	https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Glitter-50834.html				pending
+ikks-for-a-kiss-good-vibes	IKKS For A Kiss Good Vibes		female	https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Good-Vibes-72865.html				pending
+ikks-for-a-kiss-romantic-wild	IKKS For A Kiss Romantic Wild		female	https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Romantic-Wild-50832.html				pending
+ikks-for-a-kiss-urban-bloom	IKKS For A Kiss Urban Bloom		female	https://www.fragrantica.com/perfume/IKKS/IKKS-For-A-Kiss-Urban-Bloom-66056.html				pending
+ikks-little-woman	IKKS Little Woman		female	https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-10098.html				pending
+ikks-little-woman-brazil	IKKS Little Woman Brazil		female	https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Brazil-39076.html				pending
+ikks-little-woman-california	IKKS Little Woman California		female	https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-California-50835.html				pending
+ikks-little-woman-endless-paradise	IKKS Little Woman Endless Paradise		female	https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Endless-Paradise-81623.html				pending
+ikks-little-woman-french-surfeuse	IKKS Little Woman French Surfeuse		female	https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-French-Surfeuse-72864.html				pending
+ikks-little-woman-peace-and-love	IKKS Little Woman Peace & Love		female	https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Peace-Love-60711.html				pending
+ikks-little-woman-pink-malibu	IKKS Little Woman Pink Malibu		female	https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Pink-Malibu-50830.html				pending
+ikks-little-woman-sea-and-sun	IKKS Little Woman Sea & Sun		female	https://www.fragrantica.com/perfume/IKKS/IKKS-Little-Woman-Sea-Sun-66055.html				pending
+ikks-man	IKKS Man		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Man-50833.html				pending
+ikks-total-rock	IKKS Total Rock		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Total-Rock-12940.html				pending
+ikks-woman	IKKS Woman		female	https://www.fragrantica.com/perfume/IKKS/IKKS-Woman-10097.html				pending
+ikks-young-man	IKKS Young Man		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-10099.html				pending
+ikks-young-man-brazil	IKKS Young Man Brazil		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Brazil-39075.html				pending
+ikks-young-man-california	IKKS Young Man California		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-California-50836.html				pending
+ikks-young-man-endless-paradise	IKKS Young Man Endless Paradise		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Endless-Paradise-81622.html				pending
+ikks-young-man-french-surfeur	IKKS Young Man French Surfeur		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-French-Surfeur-72866.html				pending
+ikks-young-man-green-arizona	IKKS Young Man Green Arizona		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Green-Arizona-50831.html				pending
+ikks-young-man-peace-and-love	IKKS Young Man Peace & Love		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Peace-Love-60634.html				pending
+ikks-young-man-sea-and-sun	IKKS Young Man Sea & Sun		male	https://www.fragrantica.com/perfume/IKKS/IKKS-Young-Man-Sea-Sun-66054.html				pending
+private	Private		female	https://www.fragrantica.com/perfume/IKKS/Private-10095.html				pending
+private-only-for-men	Private Only for Men		male	https://www.fragrantica.com/perfume/IKKS/Private-Only-for-Men-10096.html				pending

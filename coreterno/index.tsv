@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-catharsis	Catharsis		unisex		https://www.fragrantica.com/perfume/Coreterno/Catharsis-57082.html				pending
-freakincense	Freakincense		unisex		https://www.fragrantica.com/perfume/Coreterno/Freakincense-81005.html				pending
-godimenta	Godimenta		unisex		https://www.fragrantica.com/perfume/Coreterno/Godimenta-108300.html				pending
-hardkor	Hardkor		unisex		https://www.fragrantica.com/perfume/Coreterno/Hardkor-76941.html				pending
-hierba-nera	Hierba Nera		unisex		https://www.fragrantica.com/perfume/Coreterno/Hierba-Nera-57080.html				pending
-hypnorange	Hypnorange		unisex		https://www.fragrantica.com/perfume/Coreterno/Hypnorange-103115.html				pending
-mystic-sugar	Mystic Sugar		unisex		https://www.fragrantica.com/perfume/Coreterno/Mystic-Sugar-70990.html				pending
-night-idol	Night Idol		unisex		https://www.fragrantica.com/perfume/Coreterno/Night-Idol-97292.html				pending
-no-sleep	No Sleep		unisex		https://www.fragrantica.com/perfume/Coreterno/No-Sleep-67455.html				pending
-oceanoir	Oceanoir		unisex		https://www.fragrantica.com/perfume/Coreterno/Oceanoir-91359.html				pending
-psychedelicious	Psychedelicious		unisex		https://www.fragrantica.com/perfume/Coreterno/Psychedelicious-88590.html				pending
-punk-motel	Punk Motel		unisex		https://www.fragrantica.com/perfume/Coreterno/Punk-Motel-57081.html				pending
-rose-and-me	Rose And Me		unisex		https://www.fragrantica.com/perfume/Coreterno/Rose-And-Me-57079.html				pending
-ultralove	Ultralove		unisex		https://www.fragrantica.com/perfume/Coreterno/Ultralove-115446.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+catharsis	Catharsis		unisex	https://www.fragrantica.com/perfume/Coreterno/Catharsis-57082.html				pending
+freakincense	Freakincense		unisex	https://www.fragrantica.com/perfume/Coreterno/Freakincense-81005.html				pending
+godimenta	Godimenta		unisex	https://www.fragrantica.com/perfume/Coreterno/Godimenta-108300.html				pending
+hardkor	Hardkor		unisex	https://www.fragrantica.com/perfume/Coreterno/Hardkor-76941.html				pending
+hierba-nera	Hierba Nera		unisex	https://www.fragrantica.com/perfume/Coreterno/Hierba-Nera-57080.html				pending
+hypnorange	Hypnorange		unisex	https://www.fragrantica.com/perfume/Coreterno/Hypnorange-103115.html				pending
+mystic-sugar	Mystic Sugar		unisex	https://www.fragrantica.com/perfume/Coreterno/Mystic-Sugar-70990.html				pending
+night-idol	Night Idol		unisex	https://www.fragrantica.com/perfume/Coreterno/Night-Idol-97292.html				pending
+no-sleep	No Sleep		unisex	https://www.fragrantica.com/perfume/Coreterno/No-Sleep-67455.html				pending
+oceanoir	Oceanoir		unisex	https://www.fragrantica.com/perfume/Coreterno/Oceanoir-91359.html				pending
+psychedelicious	Psychedelicious		unisex	https://www.fragrantica.com/perfume/Coreterno/Psychedelicious-88590.html				pending
+punk-motel	Punk Motel		unisex	https://www.fragrantica.com/perfume/Coreterno/Punk-Motel-57081.html				pending
+rose-and-me	Rose And Me		unisex	https://www.fragrantica.com/perfume/Coreterno/Rose-And-Me-57079.html				pending
+ultralove	Ultralove		unisex	https://www.fragrantica.com/perfume/Coreterno/Ultralove-115446.html				pending

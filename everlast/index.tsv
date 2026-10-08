@@ -1,27 +1,27 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black	Black		male		https://www.fragrantica.com/perfume/Everlast/Black-33460.html				pending
-black-extreme	Black Extreme		male		https://www.fragrantica.com/perfume/Everlast/Black-Extreme-58434.html				pending
-blue-2021	Blue 2021		male		https://www.fragrantica.com/perfume/Everlast/Blue-2021-68897.html				pending
-bluer-corner	Bluer Corner		male		https://www.fragrantica.com/perfume/Everlast/Bluer-Corner-33461.html				pending
-bronx-new-york-edition	Bronx New York Edition		male		https://www.fragrantica.com/perfume/Everlast/Bronx-New-York-Edition-33464.html				pending
-cactus-shot	Cactus Shot		male		https://www.fragrantica.com/perfume/Everlast/Cactus-Shot-6342.html				pending
-choice-of-champions-be-bold	Choice Of Champions Be Bold		male		https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Be-Bold-64480.html				pending
-choice-of-champions-be-brave	Choice Of Champions Be Brave		male		https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Be-Brave-71303.html				pending
-choice-of-champions-be-strong	Choice Of Champions Be Strong		male		https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Be-Strong-64479.html				pending
-choice-of-champions-be-wild	Choice Of Champions Be Wild		male		https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Be-Wild-70872.html				pending
-choice-of-champions-street-fighter-brasil	Choice Of Champions Street Fighter Brasil		male		https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Street-Fighter-Brasil-73479.html				pending
-choice-of-champions-street-fighter-hadouken	Choice Of Champions Street Fighter Hadouken		male		https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Street-Fighter-Hadouken-64478.html				pending
-choice-of-champions-street-fighter-metro-city	Choice Of Champions Street Fighter Metro City		male		https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Street-Fighter-Metro-City-62041.html				pending
-choice-of-champions-street-fighter-shoryuken	Choice Of Champions Street Fighter Shoryuken		male		https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Street-Fighter-Shoryuken-62564.html				pending
-deep-instinct	Deep Instinct		male		https://www.fragrantica.com/perfume/Everlast/Deep-Instinct-58435.html				pending
-instinct	Instinct		male		https://www.fragrantica.com/perfume/Everlast/Instinct-56371.html				pending
-knockout	Knockout		male		https://www.fragrantica.com/perfume/Everlast/Knockout-33470.html				pending
-original-1910	Original 1910		male		https://www.fragrantica.com/perfume/Everlast/Original-1910-6343.html				pending
-pink-corner	Pink Corner		female		https://www.fragrantica.com/perfume/Everlast/Pink-Corner-33466.html				pending
-pure-sport	Pure Sport		male		https://www.fragrantica.com/perfume/Everlast/Pure-Sport-59194.html				pending
-rebel-for-life	Rebel For Life		male		https://www.fragrantica.com/perfume/Everlast/Rebel-For-Life-85133.html				pending
-red-corner	Red Corner		male		https://www.fragrantica.com/perfume/Everlast/Red-Corner-33462.html				pending
-round	Round		male		https://www.fragrantica.com/perfume/Everlast/Round-33463.html				pending
-sport	Sport		male		https://www.fragrantica.com/perfume/Everlast/Sport-33467.html				pending
-uppercut	Uppercut		male		https://www.fragrantica.com/perfume/Everlast/Uppercut-6344.html				pending
-urban	Urban		male		https://www.fragrantica.com/perfume/Everlast/Urban-33465.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black	Black		male	https://www.fragrantica.com/perfume/Everlast/Black-33460.html				pending
+black-extreme	Black Extreme		male	https://www.fragrantica.com/perfume/Everlast/Black-Extreme-58434.html				pending
+blue-2021	Blue 2021		male	https://www.fragrantica.com/perfume/Everlast/Blue-2021-68897.html				pending
+bluer-corner	Bluer Corner		male	https://www.fragrantica.com/perfume/Everlast/Bluer-Corner-33461.html				pending
+bronx-new-york-edition	Bronx New York Edition		male	https://www.fragrantica.com/perfume/Everlast/Bronx-New-York-Edition-33464.html				pending
+cactus-shot	Cactus Shot		male	https://www.fragrantica.com/perfume/Everlast/Cactus-Shot-6342.html				pending
+choice-of-champions-be-bold	Choice Of Champions Be Bold		male	https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Be-Bold-64480.html				pending
+choice-of-champions-be-brave	Choice Of Champions Be Brave		male	https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Be-Brave-71303.html				pending
+choice-of-champions-be-strong	Choice Of Champions Be Strong		male	https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Be-Strong-64479.html				pending
+choice-of-champions-be-wild	Choice Of Champions Be Wild		male	https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Be-Wild-70872.html				pending
+choice-of-champions-street-fighter-brasil	Choice Of Champions Street Fighter Brasil		male	https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Street-Fighter-Brasil-73479.html				pending
+choice-of-champions-street-fighter-hadouken	Choice Of Champions Street Fighter Hadouken		male	https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Street-Fighter-Hadouken-64478.html				pending
+choice-of-champions-street-fighter-metro-city	Choice Of Champions Street Fighter Metro City		male	https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Street-Fighter-Metro-City-62041.html				pending
+choice-of-champions-street-fighter-shoryuken	Choice Of Champions Street Fighter Shoryuken		male	https://www.fragrantica.com/perfume/Everlast/Choice-Of-Champions-Street-Fighter-Shoryuken-62564.html				pending
+deep-instinct	Deep Instinct		male	https://www.fragrantica.com/perfume/Everlast/Deep-Instinct-58435.html				pending
+instinct	Instinct		male	https://www.fragrantica.com/perfume/Everlast/Instinct-56371.html				pending
+knockout	Knockout		male	https://www.fragrantica.com/perfume/Everlast/Knockout-33470.html				pending
+original-1910	Original 1910		male	https://www.fragrantica.com/perfume/Everlast/Original-1910-6343.html				pending
+pink-corner	Pink Corner		female	https://www.fragrantica.com/perfume/Everlast/Pink-Corner-33466.html				pending
+pure-sport	Pure Sport		male	https://www.fragrantica.com/perfume/Everlast/Pure-Sport-59194.html				pending
+rebel-for-life	Rebel For Life		male	https://www.fragrantica.com/perfume/Everlast/Rebel-For-Life-85133.html				pending
+red-corner	Red Corner		male	https://www.fragrantica.com/perfume/Everlast/Red-Corner-33462.html				pending
+round	Round		male	https://www.fragrantica.com/perfume/Everlast/Round-33463.html				pending
+sport	Sport		male	https://www.fragrantica.com/perfume/Everlast/Sport-33467.html				pending
+uppercut	Uppercut		male	https://www.fragrantica.com/perfume/Everlast/Uppercut-6344.html				pending
+urban	Urban		male	https://www.fragrantica.com/perfume/Everlast/Urban-33465.html				pending

@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-150-parfum	150 Parfum		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/150-Parfum-12127.html				pending
-ambra-mediterranea-versilia-vintage-ambra-mediterranea	Ambra Mediterranea (Versilia Vintage Ambra Mediterranea)		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Ambra-Mediterranea-Versilia-Vintage-Ambra-Mediterranea-7467.html				pending
-by-night-black	By Night Black		male		https://www.fragrantica.com/perfume/Profumi-del-Forte/By-Night-Black-6388.html				pending
-by-night-white	By Night White		female		https://www.fragrantica.com/perfume/Profumi-del-Forte/By-Night-White-6389.html				pending
-colonia-del-forte-1265	Colonia del Forte 1265		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Colonia-del-Forte-1265-13499.html				pending
-colonia-del-forte-1452	Colonia del Forte 1452		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Colonia-del-Forte-1452-13500.html				pending
-colonia-del-forte-1475	Colonia del Forte 1475		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Colonia-del-Forte-1475-13501.html				pending
-corpi-caldi	Corpi Caldi		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Corpi-Caldi-56978.html				pending
-fiorisia	Fiorisia		female		https://www.fragrantica.com/perfume/Profumi-del-Forte/Fiorisia-16627.html				pending
-forte-forte	Forte + Forte		female		https://www.fragrantica.com/perfume/Profumi-del-Forte/Forte-Forte-6414.html				pending
-frescoamaro	Frescoamaro		female		https://www.fragrantica.com/perfume/Profumi-del-Forte/Frescoamaro-16628.html				pending
-marconi-3	Marconi 3		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Marconi-3-6393.html				pending
-mythical-woods	Mythical Woods		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Mythical-Woods-41087.html				pending
-prima-rugiada	Prima Rugiada		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Prima-Rugiada-24703.html				pending
-roma-imperiale	Roma Imperiale		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Roma-Imperiale-6392.html				pending
-tirrenico	Tirrenico		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Tirrenico-6391.html				pending
-toscanello	Toscanello		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Toscanello-46589.html				pending
-vaiana-dea	Vaiana Dea		female		https://www.fragrantica.com/perfume/Profumi-del-Forte/Vaiana-Dea-19931.html				pending
-versilia-aurum	Versilia Aurum		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Versilia-Aurum-12128.html				pending
-versilia-platinum	Versilia Platinum		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Versilia-Platinum-12129.html				pending
-versilia-vintage-boise	Versilia Vintage Boise		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Versilia-Vintage-Boise-7468.html				pending
-vetiver-moderno	Vetiver Moderno		unisex		https://www.fragrantica.com/perfume/Profumi-del-Forte/Vetiver-Moderno-46591.html				pending
-vittoria-apuana	Vittoria Apuana		female		https://www.fragrantica.com/perfume/Profumi-del-Forte/Vittoria-Apuana-6390.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+150-parfum	150 Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/150-Parfum-12127.html				pending
+ambra-mediterranea-versilia-vintage-ambra-mediterranea	Ambra Mediterranea (Versilia Vintage Ambra Mediterranea)		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Ambra-Mediterranea-Versilia-Vintage-Ambra-Mediterranea-7467.html				pending
+by-night-black	By Night Black		male	https://www.fragrantica.com/perfume/Profumi-del-Forte/By-Night-Black-6388.html				pending
+by-night-white	By Night White		female	https://www.fragrantica.com/perfume/Profumi-del-Forte/By-Night-White-6389.html				pending
+colonia-del-forte-1265	Colonia del Forte 1265		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Colonia-del-Forte-1265-13499.html				pending
+colonia-del-forte-1452	Colonia del Forte 1452		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Colonia-del-Forte-1452-13500.html				pending
+colonia-del-forte-1475	Colonia del Forte 1475		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Colonia-del-Forte-1475-13501.html				pending
+corpi-caldi	Corpi Caldi		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Corpi-Caldi-56978.html				pending
+fiorisia	Fiorisia		female	https://www.fragrantica.com/perfume/Profumi-del-Forte/Fiorisia-16627.html				pending
+forte-forte	Forte + Forte		female	https://www.fragrantica.com/perfume/Profumi-del-Forte/Forte-Forte-6414.html				pending
+frescoamaro	Frescoamaro		female	https://www.fragrantica.com/perfume/Profumi-del-Forte/Frescoamaro-16628.html				pending
+marconi-3	Marconi 3		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Marconi-3-6393.html				pending
+mythical-woods	Mythical Woods		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Mythical-Woods-41087.html				pending
+prima-rugiada	Prima Rugiada		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Prima-Rugiada-24703.html				pending
+roma-imperiale	Roma Imperiale		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Roma-Imperiale-6392.html				pending
+tirrenico	Tirrenico		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Tirrenico-6391.html				pending
+toscanello	Toscanello		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Toscanello-46589.html				pending
+vaiana-dea	Vaiana Dea		female	https://www.fragrantica.com/perfume/Profumi-del-Forte/Vaiana-Dea-19931.html				pending
+versilia-aurum	Versilia Aurum		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Versilia-Aurum-12128.html				pending
+versilia-platinum	Versilia Platinum		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Versilia-Platinum-12129.html				pending
+versilia-vintage-boise	Versilia Vintage Boise		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Versilia-Vintage-Boise-7468.html				pending
+vetiver-moderno	Vetiver Moderno		unisex	https://www.fragrantica.com/perfume/Profumi-del-Forte/Vetiver-Moderno-46591.html				pending
+vittoria-apuana	Vittoria Apuana		female	https://www.fragrantica.com/perfume/Profumi-del-Forte/Vittoria-Apuana-6390.html				pending

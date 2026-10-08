@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-by-morgan	Black by Morgan		female		https://www.fragrantica.com/perfume/Morgan/Black-by-Morgan-41342.html				pending
-light-my-heart-collection	Light My Heart Collection		female		https://www.fragrantica.com/perfume/Morgan/Light-My-Heart-Collection-2440.html				pending
-light-my-heart-collection-homme	Light My Heart Collection Homme		male		https://www.fragrantica.com/perfume/Morgan/Light-My-Heart-Collection-Homme-2439.html				pending
-love-de-toi	Love de Toi		female		https://www.fragrantica.com/perfume/Morgan/Love-de-Toi-2438.html				pending
-love-love-de-toi-glamstar	Love Love de Toi Glamstar		female		https://www.fragrantica.com/perfume/Morgan/Love-Love-de-Toi-Glamstar-2437.html				pending
-love-love-de-toi-glossy	Love Love de Toi Glossy		female		https://www.fragrantica.com/perfume/Morgan/Love-Love-de-Toi-Glossy-2436.html				pending
-morgan-de-toi	Morgan de Toi		female		https://www.fragrantica.com/perfume/Morgan/Morgan-de-Toi-2435.html				pending
-morgan-de-toi-homme	Morgan de Toi Homme		male		https://www.fragrantica.com/perfume/Morgan/Morgan-de-Toi-Homme-2434.html				pending
-my-morgan	My Morgan		female		https://www.fragrantica.com/perfume/Morgan/My-Morgan-2707.html				pending
-psychedelice	Psychedelice		female		https://www.fragrantica.com/perfume/Morgan/Psychedelice-5817.html				pending
-red-by-morgan	Red by Morgan		female		https://www.fragrantica.com/perfume/Morgan/Red-by-Morgan-41340.html				pending
-sweet-paradise	Sweet Paradise		female		https://www.fragrantica.com/perfume/Morgan/Sweet-Paradise-2433.html				pending
-white-by-morgan	White by Morgan		female		https://www.fragrantica.com/perfume/Morgan/White-by-Morgan-41341.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-by-morgan	Black by Morgan		female	https://www.fragrantica.com/perfume/Morgan/Black-by-Morgan-41342.html				pending
+light-my-heart-collection	Light My Heart Collection		female	https://www.fragrantica.com/perfume/Morgan/Light-My-Heart-Collection-2440.html				pending
+light-my-heart-collection-homme	Light My Heart Collection Homme		male	https://www.fragrantica.com/perfume/Morgan/Light-My-Heart-Collection-Homme-2439.html				pending
+love-de-toi	Love de Toi		female	https://www.fragrantica.com/perfume/Morgan/Love-de-Toi-2438.html				pending
+love-love-de-toi-glamstar	Love Love de Toi Glamstar		female	https://www.fragrantica.com/perfume/Morgan/Love-Love-de-Toi-Glamstar-2437.html				pending
+love-love-de-toi-glossy	Love Love de Toi Glossy		female	https://www.fragrantica.com/perfume/Morgan/Love-Love-de-Toi-Glossy-2436.html				pending
+morgan-de-toi	Morgan de Toi		female	https://www.fragrantica.com/perfume/Morgan/Morgan-de-Toi-2435.html				pending
+morgan-de-toi-homme	Morgan de Toi Homme		male	https://www.fragrantica.com/perfume/Morgan/Morgan-de-Toi-Homme-2434.html				pending
+my-morgan	My Morgan		female	https://www.fragrantica.com/perfume/Morgan/My-Morgan-2707.html				pending
+psychedelice	Psychedelice		female	https://www.fragrantica.com/perfume/Morgan/Psychedelice-5817.html				pending
+red-by-morgan	Red by Morgan		female	https://www.fragrantica.com/perfume/Morgan/Red-by-Morgan-41340.html				pending
+sweet-paradise	Sweet Paradise		female	https://www.fragrantica.com/perfume/Morgan/Sweet-Paradise-2433.html				pending
+white-by-morgan	White by Morgan		female	https://www.fragrantica.com/perfume/Morgan/White-by-Morgan-41341.html				pending

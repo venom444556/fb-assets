@@ -1,34 +1,34 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bella-ciao	Bella Ciao		unisex		https://www.fragrantica.com/perfume/Ojar/Bella-Ciao-65679.html				pending
-bois-monochrome	Bois Monochrome		unisex		https://www.fragrantica.com/perfume/Ojar/Bois-Monochrome-65680.html				pending
-ciel-dorage	Ciel D'Orage		unisex		https://www.fragrantica.com/perfume/Ojar/Ciel-D-Orage-65682.html				pending
-ciel-dorage-eau-de-parfum	Ciel d'Orage Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Ciel-d-Orage-Eau-de-Parfum-77828.html				pending
-cirrus-leather	Cirrus Leather		unisex		https://www.fragrantica.com/perfume/Ojar/Cirrus-Leather-65675.html				pending
-eagle-eyed-stranger	Eagle Eyed Stranger		unisex		https://www.fragrantica.com/perfume/Ojar/Eagle-Eyed-Stranger-65687.html				pending
-eagle-eyed-stranger-eau-de-parfum	Eagle Eyed Stranger Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Eagle-Eyed-Stranger-Eau-de-Parfum-77831.html				pending
-encens-cuivre	Encens Cuivre		unisex		https://www.fragrantica.com/perfume/Ojar/Encens-Cuivre-87919.html				pending
-encens-cuivre-eau-de-parfum	Encens Cuivre Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Encens-Cuivre-Eau-de-Parfum-87918.html				pending
-epine-du-desert	Epine Du Desert		unisex		https://www.fragrantica.com/perfume/Ojar/Epine-Du-Desert-65672.html				pending
-epine-du-desert-eau-de-parfum	Epine du Desert Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Epine-du-Desert-Eau-de-Parfum-77825.html				pending
-ever-lit	Ever Lit		unisex		https://www.fragrantica.com/perfume/Ojar/Ever-Lit-109135.html				pending
-flower-beast	Flower Beast		unisex		https://www.fragrantica.com/perfume/Ojar/Flower-Beast-65673.html				pending
-forgiven-outrage	Forgiven Outrage		unisex		https://www.fragrantica.com/perfume/Ojar/Forgiven-Outrage-65685.html				pending
-halwa-kiss	Halwa Kiss		unisex		https://www.fragrantica.com/perfume/Ojar/Halwa-Kiss-65676.html				pending
-halwa-kiss-eau-de-parfum	Halwa Kiss Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Halwa-Kiss-Eau-de-Parfum-77823.html				pending
-infusion-velours	Infusion Velours		unisex		https://www.fragrantica.com/perfume/Ojar/Infusion-Velours-65683.html				pending
-infusion-velours-eau-de-parfum	Infusion Velours Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Infusion-Velours-Eau-de-Parfum-77830.html				pending
-kashmir-print	Kashmir Print		unisex		https://www.fragrantica.com/perfume/Ojar/Kashmir-Print-65674.html				pending
-kashmir-print-eau-de-parfum	Kashmir Print Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Kashmir-Print-Eau-de-Parfum-77826.html				pending
-mahrajan	Mahrajan		unisex		https://www.fragrantica.com/perfume/Ojar/Mahrajan-65671.html				pending
-oud-whisper	Oud Whisper		unisex		https://www.fragrantica.com/perfume/Ojar/Oud-Whisper-117081.html				pending
-red-redemption	Red Redemption		unisex		https://www.fragrantica.com/perfume/Ojar/Red-Redemption-65670.html				pending
-red-redemption-eau-de-parfum	Red Redemption Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Red-Redemption-Eau-de-Parfum-77824.html				pending
-routes-nomades	Routes Nomades		unisex		https://www.fragrantica.com/perfume/Ojar/Routes-Nomades-65686.html				pending
-routes-nomades-eau-de-parfum	Routes Nomades Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Routes-Nomades-Eau-de-Parfum-77832.html				pending
-solar-flair	Solar Flair		unisex		https://www.fragrantica.com/perfume/Ojar/Solar-Flair-100545.html				pending
-stallion-soul	Stallion Soul		unisex		https://www.fragrantica.com/perfume/Ojar/Stallion-Soul-65684.html				pending
-stallion-soul-eau-de-parfum	Stallion Soul Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Stallion-Soul-Eau-de-Parfum-77829.html				pending
-wadi-bloom	Wadi Bloom		unisex		https://www.fragrantica.com/perfume/Ojar/Wadi-Bloom-65678.html				pending
-wasp-waist	Wasp Waist		unisex		https://www.fragrantica.com/perfume/Ojar/Wasp-Waist-65677.html				pending
-wood-whisper	Wood Whisper		unisex		https://www.fragrantica.com/perfume/Ojar/Wood-Whisper-65681.html				pending
-wood-whisper-eau-de-parfum	Wood Whisper Eau de Parfum		unisex		https://www.fragrantica.com/perfume/Ojar/Wood-Whisper-Eau-de-Parfum-77827.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bella-ciao	Bella Ciao		unisex	https://www.fragrantica.com/perfume/Ojar/Bella-Ciao-65679.html				pending
+bois-monochrome	Bois Monochrome		unisex	https://www.fragrantica.com/perfume/Ojar/Bois-Monochrome-65680.html				pending
+ciel-dorage	Ciel D'Orage		unisex	https://www.fragrantica.com/perfume/Ojar/Ciel-D-Orage-65682.html				pending
+ciel-dorage-eau-de-parfum	Ciel d'Orage Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Ciel-d-Orage-Eau-de-Parfum-77828.html				pending
+cirrus-leather	Cirrus Leather		unisex	https://www.fragrantica.com/perfume/Ojar/Cirrus-Leather-65675.html				pending
+eagle-eyed-stranger	Eagle Eyed Stranger		unisex	https://www.fragrantica.com/perfume/Ojar/Eagle-Eyed-Stranger-65687.html				pending
+eagle-eyed-stranger-eau-de-parfum	Eagle Eyed Stranger Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Eagle-Eyed-Stranger-Eau-de-Parfum-77831.html				pending
+encens-cuivre	Encens Cuivre		unisex	https://www.fragrantica.com/perfume/Ojar/Encens-Cuivre-87919.html				pending
+encens-cuivre-eau-de-parfum	Encens Cuivre Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Encens-Cuivre-Eau-de-Parfum-87918.html				pending
+epine-du-desert	Epine Du Desert		unisex	https://www.fragrantica.com/perfume/Ojar/Epine-Du-Desert-65672.html				pending
+epine-du-desert-eau-de-parfum	Epine du Desert Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Epine-du-Desert-Eau-de-Parfum-77825.html				pending
+ever-lit	Ever Lit		unisex	https://www.fragrantica.com/perfume/Ojar/Ever-Lit-109135.html				pending
+flower-beast	Flower Beast		unisex	https://www.fragrantica.com/perfume/Ojar/Flower-Beast-65673.html				pending
+forgiven-outrage	Forgiven Outrage		unisex	https://www.fragrantica.com/perfume/Ojar/Forgiven-Outrage-65685.html				pending
+halwa-kiss	Halwa Kiss		unisex	https://www.fragrantica.com/perfume/Ojar/Halwa-Kiss-65676.html				pending
+halwa-kiss-eau-de-parfum	Halwa Kiss Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Halwa-Kiss-Eau-de-Parfum-77823.html				pending
+infusion-velours	Infusion Velours		unisex	https://www.fragrantica.com/perfume/Ojar/Infusion-Velours-65683.html				pending
+infusion-velours-eau-de-parfum	Infusion Velours Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Infusion-Velours-Eau-de-Parfum-77830.html				pending
+kashmir-print	Kashmir Print		unisex	https://www.fragrantica.com/perfume/Ojar/Kashmir-Print-65674.html				pending
+kashmir-print-eau-de-parfum	Kashmir Print Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Kashmir-Print-Eau-de-Parfum-77826.html				pending
+mahrajan	Mahrajan		unisex	https://www.fragrantica.com/perfume/Ojar/Mahrajan-65671.html				pending
+oud-whisper	Oud Whisper		unisex	https://www.fragrantica.com/perfume/Ojar/Oud-Whisper-117081.html				pending
+red-redemption	Red Redemption		unisex	https://www.fragrantica.com/perfume/Ojar/Red-Redemption-65670.html				pending
+red-redemption-eau-de-parfum	Red Redemption Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Red-Redemption-Eau-de-Parfum-77824.html				pending
+routes-nomades	Routes Nomades		unisex	https://www.fragrantica.com/perfume/Ojar/Routes-Nomades-65686.html				pending
+routes-nomades-eau-de-parfum	Routes Nomades Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Routes-Nomades-Eau-de-Parfum-77832.html				pending
+solar-flair	Solar Flair		unisex	https://www.fragrantica.com/perfume/Ojar/Solar-Flair-100545.html				pending
+stallion-soul	Stallion Soul		unisex	https://www.fragrantica.com/perfume/Ojar/Stallion-Soul-65684.html				pending
+stallion-soul-eau-de-parfum	Stallion Soul Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Stallion-Soul-Eau-de-Parfum-77829.html				pending
+wadi-bloom	Wadi Bloom		unisex	https://www.fragrantica.com/perfume/Ojar/Wadi-Bloom-65678.html				pending
+wasp-waist	Wasp Waist		unisex	https://www.fragrantica.com/perfume/Ojar/Wasp-Waist-65677.html				pending
+wood-whisper	Wood Whisper		unisex	https://www.fragrantica.com/perfume/Ojar/Wood-Whisper-65681.html				pending
+wood-whisper-eau-de-parfum	Wood Whisper Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ojar/Wood-Whisper-Eau-de-Parfum-77827.html				pending

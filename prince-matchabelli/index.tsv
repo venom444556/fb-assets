@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-abano	Abano		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Abano-9613.html				pending
-aviance	Aviance		unisex		https://www.fragrantica.com/perfume/Prince-Matchabelli/Aviance-38905.html				pending
-aviance-night-musk	Aviance Night Musk		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Aviance-Night-Musk-3338.html				pending
-beloved-cologne-parfumee	Beloved Cologne Parfumee		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Beloved-Cologne-Parfumee-36730.html				pending
-cachet	Cachet		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Cachet-3339.html				pending
-cachet-noir	Cachet Noir		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Cachet-Noir-17641.html				pending
-chimere	Chimère		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Chimere-48205.html				pending
-cotton-candy-girly-girl	Cotton Candy Girly Girl		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Cotton-Candy-Girly-Girl-9408.html				pending
-fresh-white-musk	Fresh White Musk		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Fresh-White-Musk-43735.html				pending
-ginger-lotus	Ginger Lotus		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Ginger-Lotus-6189.html				pending
-golden-autumn	Golden Autumn		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Golden-Autumn-21956.html				pending
-hero	Hero		male		https://www.fragrantica.com/perfume/Prince-Matchabelli/Hero-12511.html				pending
-luna-mystique	Luna Mystique		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Luna-Mystique-9614.html				pending
-masquerade-cologne	Masquerade Cologne		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Masquerade-Cologne-68336.html				pending
-masquerade-parfum	Masquerade Parfum		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Masquerade-Parfum-68335.html				pending
-new-musk	New Musk		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/New-Musk-9409.html				pending
-potpourri	Potpourri		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Potpourri-21955.html				pending
-prophecy	Prophecy		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Prophecy-38397.html				pending
-sexiest-musk	Sexiest Musk		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Sexiest-Musk-9410.html				pending
-wind-song	Wind Song		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Wind-Song-3340.html				pending
-wind-song-perfume	Wind Song Perfume		female		https://www.fragrantica.com/perfume/Prince-Matchabelli/Wind-Song-Perfume-35785.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+abano	Abano		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Abano-9613.html				pending
+aviance	Aviance		unisex	https://www.fragrantica.com/perfume/Prince-Matchabelli/Aviance-38905.html				pending
+aviance-night-musk	Aviance Night Musk		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Aviance-Night-Musk-3338.html				pending
+beloved-cologne-parfumee	Beloved Cologne Parfumee		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Beloved-Cologne-Parfumee-36730.html				pending
+cachet	Cachet		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Cachet-3339.html				pending
+cachet-noir	Cachet Noir		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Cachet-Noir-17641.html				pending
+chimere	Chimère		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Chimere-48205.html				pending
+cotton-candy-girly-girl	Cotton Candy Girly Girl		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Cotton-Candy-Girly-Girl-9408.html				pending
+fresh-white-musk	Fresh White Musk		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Fresh-White-Musk-43735.html				pending
+ginger-lotus	Ginger Lotus		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Ginger-Lotus-6189.html				pending
+golden-autumn	Golden Autumn		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Golden-Autumn-21956.html				pending
+hero	Hero		male	https://www.fragrantica.com/perfume/Prince-Matchabelli/Hero-12511.html				pending
+luna-mystique	Luna Mystique		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Luna-Mystique-9614.html				pending
+masquerade-cologne	Masquerade Cologne	Cologne	female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Masquerade-Cologne-68336.html				pending
+masquerade-parfum	Masquerade Parfum	Parfum	female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Masquerade-Parfum-68335.html				pending
+new-musk	New Musk		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/New-Musk-9409.html				pending
+potpourri	Potpourri		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Potpourri-21955.html				pending
+prophecy	Prophecy		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Prophecy-38397.html				pending
+sexiest-musk	Sexiest Musk		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Sexiest-Musk-9410.html				pending
+wind-song	Wind Song		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Wind-Song-3340.html				pending
+wind-song-perfume	Wind Song Perfume		female	https://www.fragrantica.com/perfume/Prince-Matchabelli/Wind-Song-Perfume-35785.html				pending

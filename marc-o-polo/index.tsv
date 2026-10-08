@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-marc-opolo-midsummer	Marc O'Polo Midsummer		female		https://www.fragrantica.com/perfume/Marc-O-Polo/Marc-O-Polo-Midsummer-3072.html				pending
-marc-opolo-pure-green-woman	Marc O'Polo Pure Green Woman		female		https://www.fragrantica.com/perfume/Marc-O-Polo/Marc-O-Polo-Pure-Green-Woman-3078.html				pending
-marc-opolo-pure-morning-woman	Marc O'Polo Pure Morning Woman		female		https://www.fragrantica.com/perfume/Marc-O-Polo/Marc-O-Polo-Pure-Morning-Woman-3075.html				pending
-marc-opolo-woman-2006	Marc O'Polo Woman 2006		female		https://www.fragrantica.com/perfume/Marc-O-Polo/Marc-O-Polo-Woman-2006-3076.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+marc-opolo-midsummer	Marc O'Polo Midsummer		female	https://www.fragrantica.com/perfume/Marc-O-Polo/Marc-O-Polo-Midsummer-3072.html				pending
+marc-opolo-pure-green-woman	Marc O'Polo Pure Green Woman		female	https://www.fragrantica.com/perfume/Marc-O-Polo/Marc-O-Polo-Pure-Green-Woman-3078.html				pending
+marc-opolo-pure-morning-woman	Marc O'Polo Pure Morning Woman		female	https://www.fragrantica.com/perfume/Marc-O-Polo/Marc-O-Polo-Pure-Morning-Woman-3075.html				pending
+marc-opolo-woman-2006	Marc O'Polo Woman 2006		female	https://www.fragrantica.com/perfume/Marc-O-Polo/Marc-O-Polo-Woman-2006-3076.html				pending

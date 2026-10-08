@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-antidris-cassis	Antidris Cassis		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/Antidris-Cassis-27392.html				pending
-antidris-cassis-54192	Antidris Cassis		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/Antidris-Cassis-54192.html				pending
-no-02-le-long-fond	No.02 Le Long Fond		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-02-Le-Long-Fond-54187.html				pending
-no-02-le-long-fond-27393	No.02 Le Long Fond		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-02-Le-Long-Fond-27393.html				pending
-no-03-letang-noir	No.03 L'Etang Noir		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-03-L-Etang-Noir-54110.html				pending
-no-04-bois-de-balincourt	No.04 Bois de Balincourt		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-04-Bois-de-Balincourt-27394.html				pending
-no-04-bois-de-balincourt-54189	No.04 Bois de Balincourt		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-04-Bois-de-Balincourt-54189.html				pending
-no-05-kandilli	No.05 Kandilli		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-05-Kandilli-54109.html				pending
-no-09-vallee-de-farney	No.09 Vallée de Farney		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-09-Vallee-de-Farney-54190.html				pending
-no-09-vallee-de-farney-27395	No.09 Vallée de Farney		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-09-Vallee-de-Farney-27395.html				pending
-no-12-bousval	No.12 Bousval		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-12-Bousval-71216.html				pending
-no-13-nouvelle-vague	No.13 Nouvelle Vague		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-13-Nouvelle-Vague-82803.html				pending
-no-14-icila	No.14 Icila		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-14-Icila-93673.html				pending
-no-15-vanille-infinie	No.15 Vanille Infinie		unisex		https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-15-Vanille-Infinie-123742.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+antidris-cassis	Antidris Cassis		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/Antidris-Cassis-27392.html				pending
+antidris-cassis-54192	Antidris Cassis		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/Antidris-Cassis-54192.html				pending
+no-02-le-long-fond	No.02 Le Long Fond		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-02-Le-Long-Fond-54187.html				pending
+no-02-le-long-fond-27393	No.02 Le Long Fond		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-02-Le-Long-Fond-27393.html				pending
+no-03-letang-noir	No.03 L'Etang Noir		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-03-L-Etang-Noir-54110.html				pending
+no-04-bois-de-balincourt	No.04 Bois de Balincourt		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-04-Bois-de-Balincourt-27394.html				pending
+no-04-bois-de-balincourt-54189	No.04 Bois de Balincourt		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-04-Bois-de-Balincourt-54189.html				pending
+no-05-kandilli	No.05 Kandilli		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-05-Kandilli-54109.html				pending
+no-09-vallee-de-farney	No.09 Vallée de Farney		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-09-Vallee-de-Farney-54190.html				pending
+no-09-vallee-de-farney-27395	No.09 Vallée de Farney		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-09-Vallee-de-Farney-27395.html				pending
+no-12-bousval	No.12 Bousval		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-12-Bousval-71216.html				pending
+no-13-nouvelle-vague	No.13 Nouvelle Vague		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-13-Nouvelle-Vague-82803.html				pending
+no-14-icila	No.14 Icila		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-14-Icila-93673.html				pending
+no-15-vanille-infinie	No.15 Vanille Infinie		unisex	https://www.fragrantica.com/perfume/Maison-Louis-Marie/No-15-Vanille-Infinie-123742.html				pending

@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cuiron-2014	Cuiron (2014)		unisex		https://www.fragrantica.com/perfume/Helmut-Lang/Cuiron-2014-28311.html				pending
-cuiron-pour-homme	Cuiron pour Homme		male		https://www.fragrantica.com/perfume/Helmut-Lang/Cuiron-pour-Homme-4195.html				pending
-eau-de-cologne	Eau de Cologne		male		https://www.fragrantica.com/perfume/Helmut-Lang/Eau-de-Cologne-4196.html				pending
-eau-de-cologne-2014	Eau de Cologne (2014)		unisex		https://www.fragrantica.com/perfume/Helmut-Lang/Eau-de-Cologne-2014-28310.html				pending
-eau-de-parfum	Eau de Parfum		female		https://www.fragrantica.com/perfume/Helmut-Lang/Eau-de-Parfum-4197.html				pending
-eau-de-parfum-2014	Eau de Parfum (2014)		unisex		https://www.fragrantica.com/perfume/Helmut-Lang/Eau-de-Parfum-2014-28309.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cuiron-2014	Cuiron (2014)		unisex	https://www.fragrantica.com/perfume/Helmut-Lang/Cuiron-2014-28311.html				pending
+cuiron-pour-homme	Cuiron pour Homme		male	https://www.fragrantica.com/perfume/Helmut-Lang/Cuiron-pour-Homme-4195.html				pending
+eau-de-cologne	Eau de Cologne	Eau de Cologne	male	https://www.fragrantica.com/perfume/Helmut-Lang/Eau-de-Cologne-4196.html				pending
+eau-de-cologne-2014	Eau de Cologne (2014)	Eau de Cologne	unisex	https://www.fragrantica.com/perfume/Helmut-Lang/Eau-de-Cologne-2014-28310.html				pending
+eau-de-parfum	Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Helmut-Lang/Eau-de-Parfum-4197.html				pending
+eau-de-parfum-2014	Eau de Parfum (2014)	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Helmut-Lang/Eau-de-Parfum-2014-28309.html				pending

@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-87b-en-lai	87B EN-LAI		unisex		https://www.fragrantica.com/perfume/AHRES/87B-EN-LAI-91261.html				pending
-87b-jin-lai	87B JIN-LAI		unisex		https://www.fragrantica.com/perfume/AHRES/87B-JIN-LAI-91262.html				pending
-blossom-walk	Blossom Walk		unisex		https://www.fragrantica.com/perfume/AHRES/Blossom-Walk-91255.html				pending
-mellow-flavors-forest	Mellow Flavors Forest		unisex		https://www.fragrantica.com/perfume/AHRES/Mellow-Flavors-Forest-91258.html				pending
-sayu	SAYU		unisex		https://www.fragrantica.com/perfume/AHRES/SAYU-91254.html				pending
-sunset-rainy-valley	Sunset Rainy Valley		unisex		https://www.fragrantica.com/perfume/AHRES/Sunset-Rainy-Valley-91259.html				pending
-swallow-escapism	Swallow Escapism		unisex		https://www.fragrantica.com/perfume/AHRES/Swallow-Escapism-91256.html				pending
-the-sea-of-trees	The Sea Of Trees		unisex		https://www.fragrantica.com/perfume/AHRES/The-Sea-Of-Trees-91257.html				pending
-tokyo-sakigake-akatsuki	Tokyo Sakigake AKATSUKI		unisex		https://www.fragrantica.com/perfume/AHRES/Tokyo-Sakigake-AKATSUKI-91263.html				pending
-tokyo-sakigake-yoi	Tokyo Sakigake YOI		unisex		https://www.fragrantica.com/perfume/AHRES/Tokyo-Sakigake-YOI-91253.html				pending
-zero	Zero		unisex		https://www.fragrantica.com/perfume/AHRES/Zero-91260.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+87b-en-lai	87B EN-LAI		unisex	https://www.fragrantica.com/perfume/AHRES/87B-EN-LAI-91261.html				pending
+87b-jin-lai	87B JIN-LAI		unisex	https://www.fragrantica.com/perfume/AHRES/87B-JIN-LAI-91262.html				pending
+blossom-walk	Blossom Walk		unisex	https://www.fragrantica.com/perfume/AHRES/Blossom-Walk-91255.html				pending
+mellow-flavors-forest	Mellow Flavors Forest		unisex	https://www.fragrantica.com/perfume/AHRES/Mellow-Flavors-Forest-91258.html				pending
+sayu	SAYU		unisex	https://www.fragrantica.com/perfume/AHRES/SAYU-91254.html				pending
+sunset-rainy-valley	Sunset Rainy Valley		unisex	https://www.fragrantica.com/perfume/AHRES/Sunset-Rainy-Valley-91259.html				pending
+swallow-escapism	Swallow Escapism		unisex	https://www.fragrantica.com/perfume/AHRES/Swallow-Escapism-91256.html				pending
+the-sea-of-trees	The Sea Of Trees		unisex	https://www.fragrantica.com/perfume/AHRES/The-Sea-Of-Trees-91257.html				pending
+tokyo-sakigake-akatsuki	Tokyo Sakigake AKATSUKI		unisex	https://www.fragrantica.com/perfume/AHRES/Tokyo-Sakigake-AKATSUKI-91263.html				pending
+tokyo-sakigake-yoi	Tokyo Sakigake YOI		unisex	https://www.fragrantica.com/perfume/AHRES/Tokyo-Sakigake-YOI-91253.html				pending
+zero	Zero		unisex	https://www.fragrantica.com/perfume/AHRES/Zero-91260.html				pending

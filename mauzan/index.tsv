@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-oud	Amber Oud		unisex		https://www.fragrantica.com/perfume/Mauzan/Amber-Oud-91594.html				pending
-amber-prive	Amber Prive		unisex		https://www.fragrantica.com/perfume/Mauzan/Amber-Prive-91593.html				pending
-colonia-no07	Colonia No07		unisex		https://www.fragrantica.com/perfume/Mauzan/Colonia-No07-84442.html				pending
-colonia-no1	Colonia No1		unisex		https://www.fragrantica.com/perfume/Mauzan/Colonia-No1-84435.html				pending
-colonia-no11	Colonia No11		unisex		https://www.fragrantica.com/perfume/Mauzan/Colonia-No11-84436.html				pending
-colonia-no22	Colonia No22		unisex		https://www.fragrantica.com/perfume/Mauzan/Colonia-No22-84437.html				pending
-colonia-no25	Colonia No25		unisex		https://www.fragrantica.com/perfume/Mauzan/Colonia-No25-84441.html				pending
-colonia-no77	Colonia No77		unisex		https://www.fragrantica.com/perfume/Mauzan/Colonia-No77-84439.html				pending
-colonia-no90	Colonia No90		unisex		https://www.fragrantica.com/perfume/Mauzan/Colonia-No90-84443.html				pending
-colonia-no92	Colonia No92		unisex		https://www.fragrantica.com/perfume/Mauzan/Colonia-No92-84440.html				pending
-colonia-no99	Colonia No99		unisex		https://www.fragrantica.com/perfume/Mauzan/Colonia-No99-84438.html				pending
-layel	Layel		female		https://www.fragrantica.com/perfume/Mauzan/Layel-84345.html				pending
-musk-vanilla	Musk Vanilla		unisex		https://www.fragrantica.com/perfume/Mauzan/Musk-Vanilla-84366.html				pending
-niche-oud	Niche Oud		unisex		https://www.fragrantica.com/perfume/Mauzan/Niche-Oud-84348.html				pending
-oud-vetiver	Oud Vetiver		unisex		https://www.fragrantica.com/perfume/Mauzan/Oud-Vetiver-84365.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Mauzan/Patchouli-84364.html				pending
-pure-musk	Pure Musk		female		https://www.fragrantica.com/perfume/Mauzan/Pure-Musk-77149.html				pending
-rafia	Rafia		unisex		https://www.fragrantica.com/perfume/Mauzan/Rafia-84346.html				pending
-saffron-espanya	Saffron Espanya		unisex		https://www.fragrantica.com/perfume/Mauzan/Saffron-Espanya-84347.html				pending
-santal	Santal		unisex		https://www.fragrantica.com/perfume/Mauzan/Santal-84362.html				pending
-the-pearl	The Pearl		unisex		https://www.fragrantica.com/perfume/Mauzan/The-Pearl-84363.html				pending
-violet-leather	Violet Leather		unisex		https://www.fragrantica.com/perfume/Mauzan/Violet-Leather-84349.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-oud	Amber Oud		unisex	https://www.fragrantica.com/perfume/Mauzan/Amber-Oud-91594.html				pending
+amber-prive	Amber Prive		unisex	https://www.fragrantica.com/perfume/Mauzan/Amber-Prive-91593.html				pending
+colonia-no07	Colonia No07		unisex	https://www.fragrantica.com/perfume/Mauzan/Colonia-No07-84442.html				pending
+colonia-no1	Colonia No1		unisex	https://www.fragrantica.com/perfume/Mauzan/Colonia-No1-84435.html				pending
+colonia-no11	Colonia No11		unisex	https://www.fragrantica.com/perfume/Mauzan/Colonia-No11-84436.html				pending
+colonia-no22	Colonia No22		unisex	https://www.fragrantica.com/perfume/Mauzan/Colonia-No22-84437.html				pending
+colonia-no25	Colonia No25		unisex	https://www.fragrantica.com/perfume/Mauzan/Colonia-No25-84441.html				pending
+colonia-no77	Colonia No77		unisex	https://www.fragrantica.com/perfume/Mauzan/Colonia-No77-84439.html				pending
+colonia-no90	Colonia No90		unisex	https://www.fragrantica.com/perfume/Mauzan/Colonia-No90-84443.html				pending
+colonia-no92	Colonia No92		unisex	https://www.fragrantica.com/perfume/Mauzan/Colonia-No92-84440.html				pending
+colonia-no99	Colonia No99		unisex	https://www.fragrantica.com/perfume/Mauzan/Colonia-No99-84438.html				pending
+layel	Layel		female	https://www.fragrantica.com/perfume/Mauzan/Layel-84345.html				pending
+musk-vanilla	Musk Vanilla		unisex	https://www.fragrantica.com/perfume/Mauzan/Musk-Vanilla-84366.html				pending
+niche-oud	Niche Oud		unisex	https://www.fragrantica.com/perfume/Mauzan/Niche-Oud-84348.html				pending
+oud-vetiver	Oud Vetiver		unisex	https://www.fragrantica.com/perfume/Mauzan/Oud-Vetiver-84365.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/Mauzan/Patchouli-84364.html				pending
+pure-musk	Pure Musk		female	https://www.fragrantica.com/perfume/Mauzan/Pure-Musk-77149.html				pending
+rafia	Rafia		unisex	https://www.fragrantica.com/perfume/Mauzan/Rafia-84346.html				pending
+saffron-espanya	Saffron Espanya		unisex	https://www.fragrantica.com/perfume/Mauzan/Saffron-Espanya-84347.html				pending
+santal	Santal		unisex	https://www.fragrantica.com/perfume/Mauzan/Santal-84362.html				pending
+the-pearl	The Pearl		unisex	https://www.fragrantica.com/perfume/Mauzan/The-Pearl-84363.html				pending
+violet-leather	Violet Leather		unisex	https://www.fragrantica.com/perfume/Mauzan/Violet-Leather-84349.html				pending

@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ametista	Ametista		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Ametista-68835.html				pending
-blackout	Blackout		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Blackout-68824.html				pending
-caxemira	Caxemira		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Caxemira-62931.html				pending
-cedro	Cedro		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Cedro-62930.html				pending
-gold	Gold		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Gold-68816.html				pending
-gold-intense	Gold Intense		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Gold-Intense-68817.html				pending
-gold-intense-men	Gold Intense Men		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Gold-Intense-Men-68827.html				pending
-gold-men	Gold Men		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Gold-Men-68826.html				pending
-marias-do-brasil-delicada	Marias do Brasil Delicada		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Marias-do-Brasil-Delicada-68819.html				pending
-marias-do-brasil-sensual	Marias do Brasil Sensual		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Marias-do-Brasil-Sensual-68818.html				pending
-mr-y	Mr. Y		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Mr-Y-68825.html				pending
-nude	Nude		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Nude-63600.html				pending
-olympus-afrodite	Olympus Afrodite		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Afrodite-68832.html				pending
-olympus-apolo	Olympus Apolo		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Apolo-68829.html				pending
-olympus-ares	Olympus Ares		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Ares-68830.html				pending
-olympus-artemis	Olympus Artemis		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Artemis-68831.html				pending
-olympus-atena	Olympus Atena		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Atena-68834.html				pending
-olympus-hera	Olympus Hera		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Hera-68833.html				pending
-olympus-poseidon	Olympus Poseidon		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Poseidon-68828.html				pending
-sabrina-sato-sa	Sabrina Sato Sá		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Sabrina-Sato-Sa-68813.html				pending
-sandalo	Sândalo		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Sandalo-62932.html				pending
-touch-ameixa	Touch Ameixa		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Touch-Ameixa-64765.html				pending
-touch-acai	Touch Açaí		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Touch-Acai-64766.html				pending
-touch-pitaya	Touch Pitaya		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Touch-Pitaya-64764.html				pending
-unique	Unique		unisex		https://www.fragrantica.com/perfume/Yes-Cosmetics/Unique-68820.html				pending
-unique-black	Unique Black		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Unique-Black-68821.html				pending
-urban-men	Urban Men		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Urban-Men-68823.html				pending
-yes-homem	Yes Homem		male		https://www.fragrantica.com/perfume/Yes-Cosmetics/Yes-Homem-68822.html				pending
-unica	Única		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Unica-68814.html				pending
-unica-rose	Única Rosé		female		https://www.fragrantica.com/perfume/Yes-Cosmetics/Unica-Rose-68815.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ametista	Ametista		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Ametista-68835.html				pending
+blackout	Blackout		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Blackout-68824.html				pending
+caxemira	Caxemira		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Caxemira-62931.html				pending
+cedro	Cedro		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Cedro-62930.html				pending
+gold	Gold		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Gold-68816.html				pending
+gold-intense	Gold Intense		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Gold-Intense-68817.html				pending
+gold-intense-men	Gold Intense Men		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Gold-Intense-Men-68827.html				pending
+gold-men	Gold Men		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Gold-Men-68826.html				pending
+marias-do-brasil-delicada	Marias do Brasil Delicada		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Marias-do-Brasil-Delicada-68819.html				pending
+marias-do-brasil-sensual	Marias do Brasil Sensual		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Marias-do-Brasil-Sensual-68818.html				pending
+mr-y	Mr. Y		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Mr-Y-68825.html				pending
+nude	Nude		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Nude-63600.html				pending
+olympus-afrodite	Olympus Afrodite		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Afrodite-68832.html				pending
+olympus-apolo	Olympus Apolo		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Apolo-68829.html				pending
+olympus-ares	Olympus Ares		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Ares-68830.html				pending
+olympus-artemis	Olympus Artemis		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Artemis-68831.html				pending
+olympus-atena	Olympus Atena		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Atena-68834.html				pending
+olympus-hera	Olympus Hera		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Hera-68833.html				pending
+olympus-poseidon	Olympus Poseidon		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Olympus-Poseidon-68828.html				pending
+sabrina-sato-sa	Sabrina Sato Sá		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Sabrina-Sato-Sa-68813.html				pending
+sandalo	Sândalo		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Sandalo-62932.html				pending
+touch-ameixa	Touch Ameixa		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Touch-Ameixa-64765.html				pending
+touch-acai	Touch Açaí		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Touch-Acai-64766.html				pending
+touch-pitaya	Touch Pitaya		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Touch-Pitaya-64764.html				pending
+unique	Unique		unisex	https://www.fragrantica.com/perfume/Yes-Cosmetics/Unique-68820.html				pending
+unique-black	Unique Black		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Unique-Black-68821.html				pending
+urban-men	Urban Men		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Urban-Men-68823.html				pending
+yes-homem	Yes Homem		male	https://www.fragrantica.com/perfume/Yes-Cosmetics/Yes-Homem-68822.html				pending
+unica	Única		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Unica-68814.html				pending
+unica-rose	Única Rosé		female	https://www.fragrantica.com/perfume/Yes-Cosmetics/Unica-Rose-68815.html				pending

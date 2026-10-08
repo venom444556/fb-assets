@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bear	Bear		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Bear-72368.html				pending
-boar	Boar		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Boar-72372.html				pending
-deer	Deer		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Deer-72370.html				pending
-goat	Goat		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Goat-72371.html				pending
-moko	Moko		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Moko-105388.html				pending
-mora	Mora		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Mora-105390.html				pending
-veles	Veles		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Veles-105392.html				pending
-wisent	Wisent		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Wisent-72369.html				pending
-wolf	Wolf		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Wolf-72367.html				pending
-wolf-extrait-de-parfum	Wolf Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Wolf-Brothers/Wolf-Extrait-de-Parfum-100229.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bear	Bear		unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Bear-72368.html				pending
+boar	Boar		unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Boar-72372.html				pending
+deer	Deer		unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Deer-72370.html				pending
+goat	Goat		unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Goat-72371.html				pending
+moko	Moko		unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Moko-105388.html				pending
+mora	Mora		unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Mora-105390.html				pending
+veles	Veles		unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Veles-105392.html				pending
+wisent	Wisent		unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Wisent-72369.html				pending
+wolf	Wolf		unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Wolf-72367.html				pending
+wolf-extrait-de-parfum	Wolf Extrait de Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Wolf-Brothers/Wolf-Extrait-de-Parfum-100229.html				pending

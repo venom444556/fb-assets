@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-en-plein-air	En Plein Air		female		https://www.fragrantica.com/perfume/Jouissance/En-Plein-Air-98080.html				pending
-la-bague-do	La Bague d'O		female		https://www.fragrantica.com/perfume/Jouissance/La-Bague-d-O-98079.html				pending
-les-cahiers-secrets	Les Cahiers Secrets		female		https://www.fragrantica.com/perfume/Jouissance/Les-Cahiers-Secrets-98081.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+en-plein-air	En Plein Air		female	https://www.fragrantica.com/perfume/Jouissance/En-Plein-Air-98080.html				pending
+la-bague-do	La Bague d'O		female	https://www.fragrantica.com/perfume/Jouissance/La-Bague-d-O-98079.html				pending
+les-cahiers-secrets	Les Cahiers Secrets		female	https://www.fragrantica.com/perfume/Jouissance/Les-Cahiers-Secrets-98081.html				pending

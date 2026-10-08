@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-delicate	Delicate		unisex		https://www.fragrantica.com/perfume/Chaugan/Delicate-30476.html				pending
-fleur-de-pavot	Fleur de Pavot		male		https://www.fragrantica.com/perfume/Chaugan/Fleur-de-Pavot-37928.html				pending
-leau-de-lame	L'Eau de L'Ame		unisex		https://www.fragrantica.com/perfume/Chaugan/L-Eau-de-L-Ame-64395.html				pending
-le-caspien	Le Caspien		unisex		https://www.fragrantica.com/perfume/Chaugan/Le-Caspien-92639.html				pending
-les-princes-du-polo	Les Princes Du Polo		unisex		https://www.fragrantica.com/perfume/Chaugan/Les-Princes-Du-Polo-64394.html				pending
-mysterieuse	Mysterieuse		unisex		https://www.fragrantica.com/perfume/Chaugan/Mysterieuse-30204.html				pending
-plaine-de-nisaye	Plaine de Nisaye		unisex		https://www.fragrantica.com/perfume/Chaugan/Plaine-de-Nisaye-92638.html				pending
-rosee-des-jardins-dispahan	Rosee des Jardins d’Ispahan		unisex		https://www.fragrantica.com/perfume/Chaugan/Rosee-des-Jardins-d-Ispahan-33393.html				pending
-royal-cannabis	Royal Cannabis		unisex		https://www.fragrantica.com/perfume/Chaugan/Royal-Cannabis-44338.html				pending
-sublime	Sublime		unisex		https://www.fragrantica.com/perfume/Chaugan/Sublime-30477.html				pending
-terre-de-perse	Terre de Perse		unisex		https://www.fragrantica.com/perfume/Chaugan/Terre-de-Perse-44340.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+delicate	Delicate		unisex	https://www.fragrantica.com/perfume/Chaugan/Delicate-30476.html				pending
+fleur-de-pavot	Fleur de Pavot		male	https://www.fragrantica.com/perfume/Chaugan/Fleur-de-Pavot-37928.html				pending
+leau-de-lame	L'Eau de L'Ame		unisex	https://www.fragrantica.com/perfume/Chaugan/L-Eau-de-L-Ame-64395.html				pending
+le-caspien	Le Caspien		unisex	https://www.fragrantica.com/perfume/Chaugan/Le-Caspien-92639.html				pending
+les-princes-du-polo	Les Princes Du Polo		unisex	https://www.fragrantica.com/perfume/Chaugan/Les-Princes-Du-Polo-64394.html				pending
+mysterieuse	Mysterieuse		unisex	https://www.fragrantica.com/perfume/Chaugan/Mysterieuse-30204.html				pending
+plaine-de-nisaye	Plaine de Nisaye		unisex	https://www.fragrantica.com/perfume/Chaugan/Plaine-de-Nisaye-92638.html				pending
+rosee-des-jardins-dispahan	Rosee des Jardins d’Ispahan		unisex	https://www.fragrantica.com/perfume/Chaugan/Rosee-des-Jardins-d-Ispahan-33393.html				pending
+royal-cannabis	Royal Cannabis		unisex	https://www.fragrantica.com/perfume/Chaugan/Royal-Cannabis-44338.html				pending
+sublime	Sublime		unisex	https://www.fragrantica.com/perfume/Chaugan/Sublime-30477.html				pending
+terre-de-perse	Terre de Perse		unisex	https://www.fragrantica.com/perfume/Chaugan/Terre-de-Perse-44340.html				pending

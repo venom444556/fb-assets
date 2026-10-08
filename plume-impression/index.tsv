@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-art-nouveau	Art Nouveau		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Art-Nouveau-69616.html				pending
-dualite-magnifique	Dualite Magnifique		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Dualite-Magnifique-53380.html				pending
-eclat-de-joie	Eclat de Joie		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Eclat-de-Joie-53381.html				pending
-elegance-cuiree	Elegance Cuiree		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Elegance-Cuiree-53382.html				pending
-etat-de-grace	Etat de Grace		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Etat-de-Grace-53383.html				pending
-love-no-shame	Love no Shame		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Love-no-Shame-102895.html				pending
-murmure-dete	Murmure d'Ete		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Murmure-d-Ete-53384.html				pending
-onda-doro	Onda d'Oro		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Onda-d-Oro-90063.html				pending
-pop-heart	Pop Heart		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Pop-Heart-69617.html				pending
-que-tal	Que Tal		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Que-Tal-69615.html				pending
-rivalite-imperiale	Rivalite Imperiale		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Rivalite-Imperiale-53385.html				pending
-royal-bourbon	Royal Bourbon		unisex		https://www.fragrantica.com/perfume/Plume-Impression/Royal-Bourbon-80477.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+art-nouveau	Art Nouveau		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Art-Nouveau-69616.html				pending
+dualite-magnifique	Dualite Magnifique		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Dualite-Magnifique-53380.html				pending
+eclat-de-joie	Eclat de Joie		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Eclat-de-Joie-53381.html				pending
+elegance-cuiree	Elegance Cuiree		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Elegance-Cuiree-53382.html				pending
+etat-de-grace	Etat de Grace		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Etat-de-Grace-53383.html				pending
+love-no-shame	Love no Shame		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Love-no-Shame-102895.html				pending
+murmure-dete	Murmure d'Ete		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Murmure-d-Ete-53384.html				pending
+onda-doro	Onda d'Oro		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Onda-d-Oro-90063.html				pending
+pop-heart	Pop Heart		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Pop-Heart-69617.html				pending
+que-tal	Que Tal		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Que-Tal-69615.html				pending
+rivalite-imperiale	Rivalite Imperiale		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Rivalite-Imperiale-53385.html				pending
+royal-bourbon	Royal Bourbon		unisex	https://www.fragrantica.com/perfume/Plume-Impression/Royal-Bourbon-80477.html				pending

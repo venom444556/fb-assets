@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cashmere	Cashmere		female		https://www.fragrantica.com/perfume/Next/Cashmere-13833.html				pending
-define	Define		female		https://www.fragrantica.com/perfume/Next/Define-13834.html				pending
-eau-nude	Eau Nude		female		https://www.fragrantica.com/perfume/Next/Eau-Nude-42223.html				pending
-rouge-absolue	Rouge Absolue		female		https://www.fragrantica.com/perfume/Next/Rouge-Absolue-42222.html				pending
-summer-sun	Summer Sun		female		https://www.fragrantica.com/perfume/Next/Summer-Sun-67754.html				pending
-white-amber	White Amber		female		https://www.fragrantica.com/perfume/Next/White-Amber-42221.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cashmere	Cashmere		female	https://www.fragrantica.com/perfume/Next/Cashmere-13833.html				pending
+define	Define		female	https://www.fragrantica.com/perfume/Next/Define-13834.html				pending
+eau-nude	Eau Nude		female	https://www.fragrantica.com/perfume/Next/Eau-Nude-42223.html				pending
+rouge-absolue	Rouge Absolue		female	https://www.fragrantica.com/perfume/Next/Rouge-Absolue-42222.html				pending
+summer-sun	Summer Sun		female	https://www.fragrantica.com/perfume/Next/Summer-Sun-67754.html				pending
+white-amber	White Amber		female	https://www.fragrantica.com/perfume/Next/White-Amber-42221.html				pending

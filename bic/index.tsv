@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bic-homme	Bic Homme		male		https://www.fragrantica.com/perfume/Bic/Bic-Homme-12389.html				pending
-bic-jour	Bic Jour		female		https://www.fragrantica.com/perfume/Bic/Bic-Jour-12388.html				pending
-bic-nuit	Bic Nuit		female		https://www.fragrantica.com/perfume/Bic/Bic-Nuit-12387.html				pending
-bic-sport	Bic Sport		unisex		https://www.fragrantica.com/perfume/Bic/Bic-Sport-12390.html				pending
-day-for-women-no-11	Day for Women No. 11		female		https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-11-12399.html				pending
-day-for-women-no-15	Day for Women No. 15		female		https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-15-12400.html				pending
-day-for-women-no-19	Day for Women No. 19		female		https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-19-12401.html				pending
-day-for-women-no-23	Day for Women No. 23		female		https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-23-12403.html				pending
-day-for-women-no-3	Day for Women No. 3		female		https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-3-12397.html				pending
-day-for-women-no-7	Day for Women No. 7		female		https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-7-12398.html				pending
-dot-collection-1	DOT Collection 1		female		https://www.fragrantica.com/perfume/Bic/DOT-Collection-1-40040.html				pending
-dot-collection-10	DOT Collection 10		male		https://www.fragrantica.com/perfume/Bic/DOT-Collection-10-40036.html				pending
-dot-collection-11	DOT Collection 11		female		https://www.fragrantica.com/perfume/Bic/DOT-Collection-11-40041.html				pending
-dot-collection-12	DOT Collection 12		male		https://www.fragrantica.com/perfume/Bic/DOT-Collection-12-40035.html				pending
-dot-collection-2	DOT Collection 2		male		https://www.fragrantica.com/perfume/Bic/DOT-Collection-2-40034.html				pending
-dot-collection-3	DOT Collection 3		female		https://www.fragrantica.com/perfume/Bic/DOT-Collection-3-40039.html				pending
-dot-collection-4	DOT Collection 4		male		https://www.fragrantica.com/perfume/Bic/DOT-Collection-4-40033.html				pending
-dot-collection-5	DOT Collection 5		female		https://www.fragrantica.com/perfume/Bic/DOT-Collection-5-40038.html				pending
-dot-collection-6	DOT Collection 6		male		https://www.fragrantica.com/perfume/Bic/DOT-Collection-6-40032.html				pending
-dot-collection-7	DOT Collection 7		female		https://www.fragrantica.com/perfume/Bic/DOT-Collection-7-40043.html				pending
-dot-collection-8	DOT Collection 8		male		https://www.fragrantica.com/perfume/Bic/DOT-Collection-8-40037.html				pending
-dot-collection-9	DOT Collection 9		female		https://www.fragrantica.com/perfume/Bic/DOT-Collection-9-40042.html				pending
-night-for-women-no-12	Night for Women No. 12		female		https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-12-12394.html				pending
-night-for-women-no-16	Night for Women No. 16		female		https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-16-12393.html				pending
-night-for-women-no-20	Night for Women No. 20		female		https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-20-12392.html				pending
-night-for-women-no-24	Night for Women No. 24		female		https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-24-12391.html				pending
-night-for-women-no-4	Night for Women No. 4		female		https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-4-12396.html				pending
-night-for-women-no-8	Night for Women No. 8		female		https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-8-12395.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bic-homme	Bic Homme		male	https://www.fragrantica.com/perfume/Bic/Bic-Homme-12389.html				pending
+bic-jour	Bic Jour		female	https://www.fragrantica.com/perfume/Bic/Bic-Jour-12388.html				pending
+bic-nuit	Bic Nuit		female	https://www.fragrantica.com/perfume/Bic/Bic-Nuit-12387.html				pending
+bic-sport	Bic Sport		unisex	https://www.fragrantica.com/perfume/Bic/Bic-Sport-12390.html				pending
+day-for-women-no-11	Day for Women No. 11		female	https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-11-12399.html				pending
+day-for-women-no-15	Day for Women No. 15		female	https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-15-12400.html				pending
+day-for-women-no-19	Day for Women No. 19		female	https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-19-12401.html				pending
+day-for-women-no-23	Day for Women No. 23		female	https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-23-12403.html				pending
+day-for-women-no-3	Day for Women No. 3		female	https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-3-12397.html				pending
+day-for-women-no-7	Day for Women No. 7		female	https://www.fragrantica.com/perfume/Bic/Day-for-Women-No-7-12398.html				pending
+dot-collection-1	DOT Collection 1		female	https://www.fragrantica.com/perfume/Bic/DOT-Collection-1-40040.html				pending
+dot-collection-10	DOT Collection 10		male	https://www.fragrantica.com/perfume/Bic/DOT-Collection-10-40036.html				pending
+dot-collection-11	DOT Collection 11		female	https://www.fragrantica.com/perfume/Bic/DOT-Collection-11-40041.html				pending
+dot-collection-12	DOT Collection 12		male	https://www.fragrantica.com/perfume/Bic/DOT-Collection-12-40035.html				pending
+dot-collection-2	DOT Collection 2		male	https://www.fragrantica.com/perfume/Bic/DOT-Collection-2-40034.html				pending
+dot-collection-3	DOT Collection 3		female	https://www.fragrantica.com/perfume/Bic/DOT-Collection-3-40039.html				pending
+dot-collection-4	DOT Collection 4		male	https://www.fragrantica.com/perfume/Bic/DOT-Collection-4-40033.html				pending
+dot-collection-5	DOT Collection 5		female	https://www.fragrantica.com/perfume/Bic/DOT-Collection-5-40038.html				pending
+dot-collection-6	DOT Collection 6		male	https://www.fragrantica.com/perfume/Bic/DOT-Collection-6-40032.html				pending
+dot-collection-7	DOT Collection 7		female	https://www.fragrantica.com/perfume/Bic/DOT-Collection-7-40043.html				pending
+dot-collection-8	DOT Collection 8		male	https://www.fragrantica.com/perfume/Bic/DOT-Collection-8-40037.html				pending
+dot-collection-9	DOT Collection 9		female	https://www.fragrantica.com/perfume/Bic/DOT-Collection-9-40042.html				pending
+night-for-women-no-12	Night for Women No. 12		female	https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-12-12394.html				pending
+night-for-women-no-16	Night for Women No. 16		female	https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-16-12393.html				pending
+night-for-women-no-20	Night for Women No. 20		female	https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-20-12392.html				pending
+night-for-women-no-24	Night for Women No. 24		female	https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-24-12391.html				pending
+night-for-women-no-4	Night for Women No. 4		female	https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-4-12396.html				pending
+night-for-women-no-8	Night for Women No. 8		female	https://www.fragrantica.com/perfume/Bic/Night-for-Women-No-8-12395.html				pending

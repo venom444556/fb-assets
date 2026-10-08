@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alea-37	Alea 37		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-37-30781.html				pending
-alea-38	Alea 38		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-38-30782.html				pending
-alea-39	Alea 39		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-39-30783.html				pending
-alea-41	Alea 41		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-41-30784.html				pending
-alea-57-dyvo	alea 57 Dyvo		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/alea-57-Dyvo-54418.html				pending
-alea-71	Alea 71		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-71-30785.html				pending
-alea-72	Alea 72		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-72-30786.html				pending
-alea-76	Alea 76		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-76-30787.html				pending
-alea-77-dekhtiari	Alea 77 Dekhtiari		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-77-Dekhtiari-52038.html				pending
-alea-78-porichka	Alea 78 Porichka		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-78-Porichka-30772.html				pending
-alea-l	Alea L		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-L-30778.html				pending
-alea-m	Alea M		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-M-30777.html				pending
-alea-tn	Alea TN		unisex		https://www.fragrantica.com/perfume/BZ-Parfums/Alea-TN-30780.html				pending
-mr-idol	Mr. Idol		male		https://www.fragrantica.com/perfume/BZ-Parfums/Mr-Idol-30779.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alea-37	Alea 37		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-37-30781.html				pending
+alea-38	Alea 38		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-38-30782.html				pending
+alea-39	Alea 39		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-39-30783.html				pending
+alea-41	Alea 41		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-41-30784.html				pending
+alea-57-dyvo	alea 57 Dyvo		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/alea-57-Dyvo-54418.html				pending
+alea-71	Alea 71		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-71-30785.html				pending
+alea-72	Alea 72		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-72-30786.html				pending
+alea-76	Alea 76		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-76-30787.html				pending
+alea-77-dekhtiari	Alea 77 Dekhtiari		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-77-Dekhtiari-52038.html				pending
+alea-78-porichka	Alea 78 Porichka		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-78-Porichka-30772.html				pending
+alea-l	Alea L		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-L-30778.html				pending
+alea-m	Alea M		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-M-30777.html				pending
+alea-tn	Alea TN		unisex	https://www.fragrantica.com/perfume/BZ-Parfums/Alea-TN-30780.html				pending
+mr-idol	Mr. Idol		male	https://www.fragrantica.com/perfume/BZ-Parfums/Mr-Idol-30779.html				pending

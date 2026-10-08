@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amoureuse	Amoureuse		female		https://www.fragrantica.com/perfume/Parfums-DelRae/Amoureuse-2664.html				pending
-bois-de-paradis	Bois de Paradis		female		https://www.fragrantica.com/perfume/Parfums-DelRae/Bois-de-Paradis-2662.html				pending
-coup-de-foudre	Coup de Foudre		female		https://www.fragrantica.com/perfume/Parfums-DelRae/Coup-de-Foudre-9092.html				pending
-debut	Debut		female		https://www.fragrantica.com/perfume/Parfums-DelRae/Debut-2663.html				pending
-eau-illuminee	Eau Illuminee		female		https://www.fragrantica.com/perfume/Parfums-DelRae/Eau-Illuminee-2665.html				pending
-emotionnelle	Emotionnelle		female		https://www.fragrantica.com/perfume/Parfums-DelRae/Emotionnelle-10232.html				pending
-wit	Wit		female		https://www.fragrantica.com/perfume/Parfums-DelRae/Wit-24533.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amoureuse	Amoureuse		female	https://www.fragrantica.com/perfume/Parfums-DelRae/Amoureuse-2664.html				pending
+bois-de-paradis	Bois de Paradis		female	https://www.fragrantica.com/perfume/Parfums-DelRae/Bois-de-Paradis-2662.html				pending
+coup-de-foudre	Coup de Foudre		female	https://www.fragrantica.com/perfume/Parfums-DelRae/Coup-de-Foudre-9092.html				pending
+debut	Debut		female	https://www.fragrantica.com/perfume/Parfums-DelRae/Debut-2663.html				pending
+eau-illuminee	Eau Illuminee		female	https://www.fragrantica.com/perfume/Parfums-DelRae/Eau-Illuminee-2665.html				pending
+emotionnelle	Emotionnelle		female	https://www.fragrantica.com/perfume/Parfums-DelRae/Emotionnelle-10232.html				pending
+wit	Wit		female	https://www.fragrantica.com/perfume/Parfums-DelRae/Wit-24533.html				pending

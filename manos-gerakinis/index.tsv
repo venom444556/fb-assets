@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-anthem	Anthem		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Anthem-71241.html				pending
-citrine	Citrine		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Citrine-80622.html				pending
-gardenia	Gardenia		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Gardenia-39800.html				pending
-gold-rose	Gold Rose		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Gold-Rose-39804.html				pending
-immortelle	Immortelle		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Immortelle-45412.html				pending
-imperial-malt	Imperial Malt		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Imperial-Malt-90114.html				pending
-methexis	Methexis		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Methexis-75262.html				pending
-omen	Omen		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Omen-63428.html				pending
-oud	Oud		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Oud-39802.html				pending
-petitgrain	Petitgrain		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Petitgrain-39801.html				pending
-pivoine	Pivoine		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Pivoine-45411.html				pending
-quintessence-2015	Quintessence (2015)		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Quintessence-2015-45413.html				pending
-quintessence-2020	Quintessence (2020)		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Quintessence-2020-59384.html				pending
-rose-poetique	Rose Poetique		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Rose-Poetique-50445.html				pending
-selene-selene	Selene SELENE		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Selene-SELENE-87204.html				pending
-sillage-galant	Sillage Galant		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Galant-39805.html				pending
-sillage-galant-2017-edition	Sillage Galant 2017 Edition		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Galant-2017-Edition-45410.html				pending
-sillage-royal	Sillage Royal		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Royal-39807.html				pending
-sillage-royal-2017-edition	Sillage Royal 2017 Edition		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Royal-2017-Edition-45408.html				pending
-sillage-suave	Sillage Suave		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Suave-39806.html				pending
-sillage-suave-2017-edition	Sillage Suave 2017 Edition		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Suave-2017-Edition-45409.html				pending
-silver-oud	Silver Oud		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Silver-Oud-39803.html				pending
-wild-tuberose	Wild Tuberose		unisex		https://www.fragrantica.com/perfume/Manos-Gerakinis/Wild-Tuberose-90115.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+anthem	Anthem		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Anthem-71241.html				pending
+citrine	Citrine		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Citrine-80622.html				pending
+gardenia	Gardenia		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Gardenia-39800.html				pending
+gold-rose	Gold Rose		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Gold-Rose-39804.html				pending
+immortelle	Immortelle		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Immortelle-45412.html				pending
+imperial-malt	Imperial Malt		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Imperial-Malt-90114.html				pending
+methexis	Methexis		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Methexis-75262.html				pending
+omen	Omen		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Omen-63428.html				pending
+oud	Oud		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Oud-39802.html				pending
+petitgrain	Petitgrain		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Petitgrain-39801.html				pending
+pivoine	Pivoine		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Pivoine-45411.html				pending
+quintessence-2015	Quintessence (2015)		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Quintessence-2015-45413.html				pending
+quintessence-2020	Quintessence (2020)		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Quintessence-2020-59384.html				pending
+rose-poetique	Rose Poetique		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Rose-Poetique-50445.html				pending
+selene-selene	Selene SELENE		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Selene-SELENE-87204.html				pending
+sillage-galant	Sillage Galant		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Galant-39805.html				pending
+sillage-galant-2017-edition	Sillage Galant 2017 Edition		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Galant-2017-Edition-45410.html				pending
+sillage-royal	Sillage Royal		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Royal-39807.html				pending
+sillage-royal-2017-edition	Sillage Royal 2017 Edition		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Royal-2017-Edition-45408.html				pending
+sillage-suave	Sillage Suave		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Suave-39806.html				pending
+sillage-suave-2017-edition	Sillage Suave 2017 Edition		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Sillage-Suave-2017-Edition-45409.html				pending
+silver-oud	Silver Oud		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Silver-Oud-39803.html				pending
+wild-tuberose	Wild Tuberose		unisex	https://www.fragrantica.com/perfume/Manos-Gerakinis/Wild-Tuberose-90115.html				pending

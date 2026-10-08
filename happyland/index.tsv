@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amberland	Amberland		unisex		https://www.fragrantica.com/perfume/Happyland/Amberland-61142.html				pending
-barbershop	Barbershop		male		https://www.fragrantica.com/perfume/Happyland/Barbershop-57432.html				pending
-blue-fire	Blue Fire		unisex		https://www.fragrantica.com/perfume/Happyland/Blue-Fire-57433.html				pending
-cravat-noir	Cravat Noir		unisex		https://www.fragrantica.com/perfume/Happyland/Cravat-Noir-57626.html				pending
-cuir-cafe	Cuir Cafe		unisex		https://www.fragrantica.com/perfume/Happyland/Cuir-Cafe-57434.html				pending
-green-irish-tobacco	Green Irish Tobacco		unisex		https://www.fragrantica.com/perfume/Happyland/Green-Irish-Tobacco-58798.html				pending
-happyland-signature	Happyland Signature		unisex		https://www.fragrantica.com/perfume/Happyland/Happyland-Signature-57435.html				pending
-homme-for-the-holidays	Homme for the Holidays		unisex		https://www.fragrantica.com/perfume/Happyland/Homme-for-the-Holidays-58796.html				pending
-hommeland	Hommeland		unisex		https://www.fragrantica.com/perfume/Happyland/Hommeland-61141.html				pending
-paisley-sky	Paisley Sky		unisex		https://www.fragrantica.com/perfume/Happyland/Paisley-Sky-58799.html				pending
-plum-loco	Plum Loco		unisex		https://www.fragrantica.com/perfume/Happyland/Plum-Loco-57627.html				pending
-rhyolite	Rhyolite		unisex		https://www.fragrantica.com/perfume/Happyland/Rhyolite-57494.html				pending
-se7en	Se7en		unisex		https://www.fragrantica.com/perfume/Happyland/Se7en-58797.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amberland	Amberland		unisex	https://www.fragrantica.com/perfume/Happyland/Amberland-61142.html				pending
+barbershop	Barbershop		male	https://www.fragrantica.com/perfume/Happyland/Barbershop-57432.html				pending
+blue-fire	Blue Fire		unisex	https://www.fragrantica.com/perfume/Happyland/Blue-Fire-57433.html				pending
+cravat-noir	Cravat Noir		unisex	https://www.fragrantica.com/perfume/Happyland/Cravat-Noir-57626.html				pending
+cuir-cafe	Cuir Cafe		unisex	https://www.fragrantica.com/perfume/Happyland/Cuir-Cafe-57434.html				pending
+green-irish-tobacco	Green Irish Tobacco		unisex	https://www.fragrantica.com/perfume/Happyland/Green-Irish-Tobacco-58798.html				pending
+happyland-signature	Happyland Signature		unisex	https://www.fragrantica.com/perfume/Happyland/Happyland-Signature-57435.html				pending
+homme-for-the-holidays	Homme for the Holidays		unisex	https://www.fragrantica.com/perfume/Happyland/Homme-for-the-Holidays-58796.html				pending
+hommeland	Hommeland		unisex	https://www.fragrantica.com/perfume/Happyland/Hommeland-61141.html				pending
+paisley-sky	Paisley Sky		unisex	https://www.fragrantica.com/perfume/Happyland/Paisley-Sky-58799.html				pending
+plum-loco	Plum Loco		unisex	https://www.fragrantica.com/perfume/Happyland/Plum-Loco-57627.html				pending
+rhyolite	Rhyolite		unisex	https://www.fragrantica.com/perfume/Happyland/Rhyolite-57494.html				pending
+se7en	Se7en		unisex	https://www.fragrantica.com/perfume/Happyland/Se7en-58797.html				pending

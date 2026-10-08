@@ -1,35 +1,35 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amasis	Amasis		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Amasis-60391.html				pending
-amasis-bleu	Amasis Bleu		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Amasis-Bleu-80519.html				pending
-aniska	Aniska		female		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Aniska-65632.html				pending
-avaris	Avaris		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Avaris-60390.html				pending
-canino	Canino		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Canino-65633.html				pending
-catamaran	Catamaran		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Catamaran-60396.html				pending
-catamaran-extrait	Catamaran Extrait		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Catamaran-Extrait-77903.html				pending
-jardins-de-la-bargamote	Jardins de la Bargamote		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Jardins-de-la-Bargamote-65634.html				pending
-lake-mariout	Lake Mariout		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Lake-Mariout-83793.html				pending
-lhomme-fort	L’Homme Fort		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/L-Homme-Fort-60395.html				pending
-lhomme-fort-extrait	L’Homme Fort Extrait		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/L-Homme-Fort-Extrait-66588.html				pending
-malissa	Malissa		female		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Malissa-81803.html				pending
-mansa	Mansa		female		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Mansa-91815.html				pending
-meidum	Meidum		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Meidum-65635.html				pending
-merit	Merit		female		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Merit-73005.html				pending
-monto	Monto		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Monto-60392.html				pending
-monto-lavender-extreme	Monto Lavender Extreme		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Monto-Lavender-Extreme-66589.html				pending
-narmar	Narmar		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Narmar-60397.html				pending
-narmar-extrait-de-parfum	Narmar Extrait De Parfum		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Narmar-Extrait-De-Parfum-74625.html				pending
-nilufer-extrait-de-parfum	NILUFER Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/NILUFER-Extrait-De-Parfum-70411.html				pending
-nilus	NILUS		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/NILUS-90852.html				pending
-orion	Orion		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Orion-60393.html				pending
-shimoo	SHIMOO		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/SHIMOO-85366.html				pending
-sonit	Sonit		female		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Sonit-60389.html				pending
-sonit-intense	Sonit Intense		female		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Sonit-Intense-73004.html				pending
-tanis-tabac	TANIS TABAC		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/TANIS-TABAC-74576.html				pending
-tiba	Tiba		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Tiba-75023.html				pending
-towa	TOWA		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/TOWA-74577.html				pending
-trajan	Trajan		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Trajan-60394.html				pending
-trajan-extrait	Trajan Extrait		male		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Trajan-Extrait-69400.html				pending
-tuya	Tuya		female		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Tuya-72363.html				pending
-unas	Unas		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Unas-65636.html				pending
-unas-extrait	Unas Extrait		unisex		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Unas-Extrait-69399.html				pending
-zenia	Zenia		female		https://www.fragrantica.com/perfume/Nilafar-du-Nil/Zenia-60398.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amasis	Amasis		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Amasis-60391.html				pending
+amasis-bleu	Amasis Bleu		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Amasis-Bleu-80519.html				pending
+aniska	Aniska		female	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Aniska-65632.html				pending
+avaris	Avaris		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Avaris-60390.html				pending
+canino	Canino		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Canino-65633.html				pending
+catamaran	Catamaran		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Catamaran-60396.html				pending
+catamaran-extrait	Catamaran Extrait	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Catamaran-Extrait-77903.html				pending
+jardins-de-la-bargamote	Jardins de la Bargamote		unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Jardins-de-la-Bargamote-65634.html				pending
+lake-mariout	Lake Mariout		unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Lake-Mariout-83793.html				pending
+lhomme-fort	L’Homme Fort		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/L-Homme-Fort-60395.html				pending
+lhomme-fort-extrait	L’Homme Fort Extrait	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/L-Homme-Fort-Extrait-66588.html				pending
+malissa	Malissa		female	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Malissa-81803.html				pending
+mansa	Mansa		female	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Mansa-91815.html				pending
+meidum	Meidum		unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Meidum-65635.html				pending
+merit	Merit		female	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Merit-73005.html				pending
+monto	Monto		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Monto-60392.html				pending
+monto-lavender-extreme	Monto Lavender Extreme		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Monto-Lavender-Extreme-66589.html				pending
+narmar	Narmar		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Narmar-60397.html				pending
+narmar-extrait-de-parfum	Narmar Extrait De Parfum	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Narmar-Extrait-De-Parfum-74625.html				pending
+nilufer-extrait-de-parfum	NILUFER Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/NILUFER-Extrait-De-Parfum-70411.html				pending
+nilus	NILUS		unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/NILUS-90852.html				pending
+orion	Orion		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Orion-60393.html				pending
+shimoo	SHIMOO		unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/SHIMOO-85366.html				pending
+sonit	Sonit		female	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Sonit-60389.html				pending
+sonit-intense	Sonit Intense		female	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Sonit-Intense-73004.html				pending
+tanis-tabac	TANIS TABAC		unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/TANIS-TABAC-74576.html				pending
+tiba	Tiba		unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Tiba-75023.html				pending
+towa	TOWA		unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/TOWA-74577.html				pending
+trajan	Trajan		male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Trajan-60394.html				pending
+trajan-extrait	Trajan Extrait	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Trajan-Extrait-69400.html				pending
+tuya	Tuya		female	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Tuya-72363.html				pending
+unas	Unas		unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Unas-65636.html				pending
+unas-extrait	Unas Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Unas-Extrait-69399.html				pending
+zenia	Zenia		female	https://www.fragrantica.com/perfume/Nilafar-du-Nil/Zenia-60398.html				pending

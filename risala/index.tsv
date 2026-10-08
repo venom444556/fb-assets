@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amalia	Amalia		unisex		https://www.fragrantica.com/perfume/Risala/Amalia-98753.html				pending
-candelicious	Candelicious		female		https://www.fragrantica.com/perfume/Risala/Candelicious-109774.html				pending
-sana	Sana		unisex		https://www.fragrantica.com/perfume/Risala/Sana-104421.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amalia	Amalia		unisex	https://www.fragrantica.com/perfume/Risala/Amalia-98753.html				pending
+candelicious	Candelicious		female	https://www.fragrantica.com/perfume/Risala/Candelicious-109774.html				pending
+sana	Sana		unisex	https://www.fragrantica.com/perfume/Risala/Sana-104421.html				pending

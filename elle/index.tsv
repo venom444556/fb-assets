@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-anisha	Anisha		female		https://www.fragrantica.com/perfume/Elle/Anisha-90210.html				pending
-azra	Azra		female		https://www.fragrantica.com/perfume/Elle/Azra-90211.html				pending
-berry-seductive	Berry Seductive		female		https://www.fragrantica.com/perfume/Elle/Berry-Seductive-90331.html				pending
-cheeky-bonbon	Cheeky Bonbon		female		https://www.fragrantica.com/perfume/Elle/Cheeky-Bonbon-90327.html				pending
-coco-amour	Coco Amour		female		https://www.fragrantica.com/perfume/Elle/Coco-Amour-90326.html				pending
-elle-in-paris	Elle in Paris		female		https://www.fragrantica.com/perfume/Elle/Elle-in-Paris-90207.html				pending
-fleur	Fleur		female		https://www.fragrantica.com/perfume/Elle/Fleur-73437.html				pending
-free-spirit	Free Spirit		female		https://www.fragrantica.com/perfume/Elle/Free-Spirit-90206.html				pending
-indra	Indra		female		https://www.fragrantica.com/perfume/Elle/Indra-90212.html				pending
-ledition	L'Edition		female		https://www.fragrantica.com/perfume/Elle/L-Edition-51735.html				pending
-mira	Mira		female		https://www.fragrantica.com/perfume/Elle/Mira-90213.html				pending
-paris-chic	Paris Chic		female		https://www.fragrantica.com/perfume/Elle/Paris-Chic-90329.html				pending
-peach-punch	Peach Punch		female		https://www.fragrantica.com/perfume/Elle/Peach-Punch-90332.html				pending
-rouge-passion	Rouge Passion		female		https://www.fragrantica.com/perfume/Elle/Rouge-Passion-90328.html				pending
-so-chic	So Chic!		female		https://www.fragrantica.com/perfume/Elle/So-Chic-32659.html				pending
-so-cute	So Cute!		female		https://www.fragrantica.com/perfume/Elle/So-Cute-30604.html				pending
-so-lovely	So Lovely!		female		https://www.fragrantica.com/perfume/Elle/So-Lovely-32658.html				pending
-so-pretty	So Pretty!		female		https://www.fragrantica.com/perfume/Elle/So-Pretty-30603.html				pending
-so-sweety	So Sweety!		female		https://www.fragrantica.com/perfume/Elle/So-Sweety-30605.html				pending
-vanille-glamour	Vanille Glamour		female		https://www.fragrantica.com/perfume/Elle/Vanille-Glamour-90330.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+anisha	Anisha		female	https://www.fragrantica.com/perfume/Elle/Anisha-90210.html				pending
+azra	Azra		female	https://www.fragrantica.com/perfume/Elle/Azra-90211.html				pending
+berry-seductive	Berry Seductive		female	https://www.fragrantica.com/perfume/Elle/Berry-Seductive-90331.html				pending
+cheeky-bonbon	Cheeky Bonbon		female	https://www.fragrantica.com/perfume/Elle/Cheeky-Bonbon-90327.html				pending
+coco-amour	Coco Amour		female	https://www.fragrantica.com/perfume/Elle/Coco-Amour-90326.html				pending
+elle-in-paris	Elle in Paris		female	https://www.fragrantica.com/perfume/Elle/Elle-in-Paris-90207.html				pending
+fleur	Fleur		female	https://www.fragrantica.com/perfume/Elle/Fleur-73437.html				pending
+free-spirit	Free Spirit		female	https://www.fragrantica.com/perfume/Elle/Free-Spirit-90206.html				pending
+indra	Indra		female	https://www.fragrantica.com/perfume/Elle/Indra-90212.html				pending
+ledition	L'Edition		female	https://www.fragrantica.com/perfume/Elle/L-Edition-51735.html				pending
+mira	Mira		female	https://www.fragrantica.com/perfume/Elle/Mira-90213.html				pending
+paris-chic	Paris Chic		female	https://www.fragrantica.com/perfume/Elle/Paris-Chic-90329.html				pending
+peach-punch	Peach Punch		female	https://www.fragrantica.com/perfume/Elle/Peach-Punch-90332.html				pending
+rouge-passion	Rouge Passion		female	https://www.fragrantica.com/perfume/Elle/Rouge-Passion-90328.html				pending
+so-chic	So Chic!		female	https://www.fragrantica.com/perfume/Elle/So-Chic-32659.html				pending
+so-cute	So Cute!		female	https://www.fragrantica.com/perfume/Elle/So-Cute-30604.html				pending
+so-lovely	So Lovely!		female	https://www.fragrantica.com/perfume/Elle/So-Lovely-32658.html				pending
+so-pretty	So Pretty!		female	https://www.fragrantica.com/perfume/Elle/So-Pretty-30603.html				pending
+so-sweety	So Sweety!		female	https://www.fragrantica.com/perfume/Elle/So-Sweety-30605.html				pending
+vanille-glamour	Vanille Glamour		female	https://www.fragrantica.com/perfume/Elle/Vanille-Glamour-90330.html				pending

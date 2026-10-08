@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1888	1888		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/1888-21616.html				pending
-bouquet-ideale	Bouquet Ideale		female		https://www.fragrantica.com/perfume/Casamorati-1888/Bouquet-Ideale-11800.html				pending
-casafutura	Casafutura		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/Casafutura-70113.html				pending
-corallo	Corallo		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/Corallo-51462.html				pending
-dama-bianca	Dama Bianca		female		https://www.fragrantica.com/perfume/Casamorati-1888/Dama-Bianca-15555.html				pending
-dolce-amalfi	Dolce Amalfi		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/Dolce-Amalfi-42988.html				pending
-fiero	Fiero		male		https://www.fragrantica.com/perfume/Casamorati-1888/Fiero-11802.html				pending
-fiore-dulivo	Fiore d'Ulivo		female		https://www.fragrantica.com/perfume/Casamorati-1888/Fiore-d-Ulivo-6311.html				pending
-gran-ballo	Gran Ballo		female		https://www.fragrantica.com/perfume/Casamorati-1888/Gran-Ballo-26708.html				pending
-italica	Italica		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/Italica-41149.html				pending
-italica-2021	Italica (2021)		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/Italica-2021-65383.html				pending
-la-tosca	La Tosca		female		https://www.fragrantica.com/perfume/Casamorati-1888/La-Tosca-32191.html				pending
-levar-del-sole	Levar del Sole		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/Levar-del-Sole-93107.html				pending
-lira	Lira		female		https://www.fragrantica.com/perfume/Casamorati-1888/Lira-11801.html				pending
-mefisto	Mefisto		male		https://www.fragrantica.com/perfume/Casamorati-1888/Mefisto-6310.html				pending
-mefisto-gentiluomo	Mefisto Gentiluomo		male		https://www.fragrantica.com/perfume/Casamorati-1888/Mefisto-Gentiluomo-52432.html				pending
-quattro-pizzi	Quattro Pizzi		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/Quattro-Pizzi-91640.html				pending
-regio	Regio		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/Regio-14079.html				pending
-tempio-dacqua	Tempio d'Acqua		unisex		https://www.fragrantica.com/perfume/Casamorati-1888/Tempio-d-Acqua-128356.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1888	1888		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/1888-21616.html				pending
+bouquet-ideale	Bouquet Ideale		female	https://www.fragrantica.com/perfume/Casamorati-1888/Bouquet-Ideale-11800.html				pending
+casafutura	Casafutura		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/Casafutura-70113.html				pending
+corallo	Corallo		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/Corallo-51462.html				pending
+dama-bianca	Dama Bianca		female	https://www.fragrantica.com/perfume/Casamorati-1888/Dama-Bianca-15555.html				pending
+dolce-amalfi	Dolce Amalfi		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/Dolce-Amalfi-42988.html				pending
+fiero	Fiero		male	https://www.fragrantica.com/perfume/Casamorati-1888/Fiero-11802.html				pending
+fiore-dulivo	Fiore d'Ulivo		female	https://www.fragrantica.com/perfume/Casamorati-1888/Fiore-d-Ulivo-6311.html				pending
+gran-ballo	Gran Ballo		female	https://www.fragrantica.com/perfume/Casamorati-1888/Gran-Ballo-26708.html				pending
+italica	Italica		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/Italica-41149.html				pending
+italica-2021	Italica (2021)		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/Italica-2021-65383.html				pending
+la-tosca	La Tosca		female	https://www.fragrantica.com/perfume/Casamorati-1888/La-Tosca-32191.html				pending
+levar-del-sole	Levar del Sole		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/Levar-del-Sole-93107.html				pending
+lira	Lira		female	https://www.fragrantica.com/perfume/Casamorati-1888/Lira-11801.html				pending
+mefisto	Mefisto		male	https://www.fragrantica.com/perfume/Casamorati-1888/Mefisto-6310.html				pending
+mefisto-gentiluomo	Mefisto Gentiluomo		male	https://www.fragrantica.com/perfume/Casamorati-1888/Mefisto-Gentiluomo-52432.html				pending
+quattro-pizzi	Quattro Pizzi		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/Quattro-Pizzi-91640.html				pending
+regio	Regio		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/Regio-14079.html				pending
+tempio-dacqua	Tempio d'Acqua		unisex	https://www.fragrantica.com/perfume/Casamorati-1888/Tempio-d-Acqua-128356.html				pending

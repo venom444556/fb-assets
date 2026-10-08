@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-la-belle-otero	La Belle Otero		female		https://www.fragrantica.com/perfume/Les-Cocottes-de-Paris/La-Belle-Otero-31204.html				pending
-la-castiglione	La Castiglione		female		https://www.fragrantica.com/perfume/Les-Cocottes-de-Paris/La-Castiglione-31203.html				pending
-melle-cleo	Melle Cléo		female		https://www.fragrantica.com/perfume/Les-Cocottes-de-Paris/Melle-Cleo-31205.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+la-belle-otero	La Belle Otero		female	https://www.fragrantica.com/perfume/Les-Cocottes-de-Paris/La-Belle-Otero-31204.html				pending
+la-castiglione	La Castiglione		female	https://www.fragrantica.com/perfume/Les-Cocottes-de-Paris/La-Castiglione-31203.html				pending
+melle-cleo	Melle Cléo		female	https://www.fragrantica.com/perfume/Les-Cocottes-de-Paris/Melle-Cleo-31205.html				pending

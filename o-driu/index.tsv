@@ -1,34 +1,34 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-allegradonna	Allegradonna		unisex		https://www.fragrantica.com/perfume/O-Driu/Allegradonna-16438.html				pending
-captivus	Captivus		unisex		https://www.fragrantica.com/perfume/O-Driu/Captivus-29973.html				pending
-det	Det		unisex		https://www.fragrantica.com/perfume/O-Driu/Det-31048.html				pending
-eva-kant	Eva Kant		female		https://www.fragrantica.com/perfume/O-Driu/Eva-Kant-20805.html				pending
-gothic-angel	Gothic Angel		unisex		https://www.fragrantica.com/perfume/O-Driu/Gothic-Angel-36637.html				pending
-italian-angel	Italian Angel		unisex		https://www.fragrantica.com/perfume/O-Driu/Italian-Angel-33074.html				pending
-jmt	JMT		unisex		https://www.fragrantica.com/perfume/O-Driu/JMT-17972.html				pending
-kiss-my-ass-angeloraziopregoni	Kiss My Ass AngelOrazioPregoni		unisex		https://www.fragrantica.com/perfume/O-Driu/Kiss-My-Ass-AngelOrazioPregoni-38279.html				pending
-kiss-my-ass-basenotes	Kiss My Ass BaseNotes		unisex		https://www.fragrantica.com/perfume/O-Driu/Kiss-My-Ass-BaseNotes-38281.html				pending
-kiss-my-ass-scentandchemistry	Kiss My Ass ScentAndChemistry		unisex		https://www.fragrantica.com/perfume/O-Driu/Kiss-My-Ass-ScentAndChemistry-38280.html				pending
-linferno-2	L'Inferno 2		unisex		https://www.fragrantica.com/perfume/O-Driu/L-Inferno-2-30475.html				pending
-ladamo	Ladamo		male		https://www.fragrantica.com/perfume/O-Driu/Ladamo-13352.html				pending
-lafro	Lafro		unisex		https://www.fragrantica.com/perfume/O-Driu/Lafro-13350.html				pending
-lalfeogrigio	Lalfeogrigio		male		https://www.fragrantica.com/perfume/O-Driu/Lalfeogrigio-13348.html				pending
-lalfeorosa	Lalfeorosa		female		https://www.fragrantica.com/perfume/O-Driu/Lalfeorosa-13347.html				pending
-laltrove-1001	Laltrove 1001		male		https://www.fragrantica.com/perfume/O-Driu/Laltrove-1001-13346.html				pending
-laltrove-1002	Laltrove 1002		female		https://www.fragrantica.com/perfume/O-Driu/Laltrove-1002-13345.html				pending
-laurhum	Laurhum		unisex		https://www.fragrantica.com/perfume/O-Driu/Laurhum-17973.html				pending
-leva	Leva		female		https://www.fragrantica.com/perfume/O-Driu/Leva-13351.html				pending
-linfedele-1003	Linfedele 1003		male		https://www.fragrantica.com/perfume/O-Driu/Linfedele-1003-13344.html				pending
-linfedele-1004	Linfedele 1004		female		https://www.fragrantica.com/perfume/O-Driu/Linfedele-1004-13343.html				pending
-linfedele-haiku	Linfedele Haiku		unisex		https://www.fragrantica.com/perfume/O-Driu/Linfedele-Haiku-26391.html				pending
-londa-1005	Londa 1005		male		https://www.fragrantica.com/perfume/O-Driu/Londa-1005-13342.html				pending
-londa-1006	Londa 1006		female		https://www.fragrantica.com/perfume/O-Driu/Londa-1006-13341.html				pending
-pathetique	Pathetique		unisex		https://www.fragrantica.com/perfume/O-Driu/Pathetique-28171.html				pending
-peety	Peety		unisex		https://www.fragrantica.com/perfume/O-Driu/Peety-20806.html				pending
-satyricon	Satyricon		unisex		https://www.fragrantica.com/perfume/O-Driu/Satyricon-30474.html				pending
-sea-angel	Sea Angel		unisex		https://www.fragrantica.com/perfume/O-Driu/Sea-Angel-43057.html				pending
-supercilium	Supercilium		unisex		https://www.fragrantica.com/perfume/O-Driu/Supercilium-16440.html				pending
-ta	Ta		unisex		https://www.fragrantica.com/perfume/O-Driu/Ta-31049.html				pending
-ven	Ven		unisex		https://www.fragrantica.com/perfume/O-Driu/Ven-31047.html				pending
-vis-et-honor	Vis et Honor		unisex		https://www.fragrantica.com/perfume/O-Driu/Vis-et-Honor-13349.html				pending
-xvert	Xvert		unisex		https://www.fragrantica.com/perfume/O-Driu/Xvert-16439.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+allegradonna	Allegradonna		unisex	https://www.fragrantica.com/perfume/O-Driu/Allegradonna-16438.html				pending
+captivus	Captivus		unisex	https://www.fragrantica.com/perfume/O-Driu/Captivus-29973.html				pending
+det	Det		unisex	https://www.fragrantica.com/perfume/O-Driu/Det-31048.html				pending
+eva-kant	Eva Kant		female	https://www.fragrantica.com/perfume/O-Driu/Eva-Kant-20805.html				pending
+gothic-angel	Gothic Angel		unisex	https://www.fragrantica.com/perfume/O-Driu/Gothic-Angel-36637.html				pending
+italian-angel	Italian Angel		unisex	https://www.fragrantica.com/perfume/O-Driu/Italian-Angel-33074.html				pending
+jmt	JMT		unisex	https://www.fragrantica.com/perfume/O-Driu/JMT-17972.html				pending
+kiss-my-ass-angeloraziopregoni	Kiss My Ass AngelOrazioPregoni		unisex	https://www.fragrantica.com/perfume/O-Driu/Kiss-My-Ass-AngelOrazioPregoni-38279.html				pending
+kiss-my-ass-basenotes	Kiss My Ass BaseNotes		unisex	https://www.fragrantica.com/perfume/O-Driu/Kiss-My-Ass-BaseNotes-38281.html				pending
+kiss-my-ass-scentandchemistry	Kiss My Ass ScentAndChemistry		unisex	https://www.fragrantica.com/perfume/O-Driu/Kiss-My-Ass-ScentAndChemistry-38280.html				pending
+linferno-2	L'Inferno 2		unisex	https://www.fragrantica.com/perfume/O-Driu/L-Inferno-2-30475.html				pending
+ladamo	Ladamo		male	https://www.fragrantica.com/perfume/O-Driu/Ladamo-13352.html				pending
+lafro	Lafro		unisex	https://www.fragrantica.com/perfume/O-Driu/Lafro-13350.html				pending
+lalfeogrigio	Lalfeogrigio		male	https://www.fragrantica.com/perfume/O-Driu/Lalfeogrigio-13348.html				pending
+lalfeorosa	Lalfeorosa		female	https://www.fragrantica.com/perfume/O-Driu/Lalfeorosa-13347.html				pending
+laltrove-1001	Laltrove 1001		male	https://www.fragrantica.com/perfume/O-Driu/Laltrove-1001-13346.html				pending
+laltrove-1002	Laltrove 1002		female	https://www.fragrantica.com/perfume/O-Driu/Laltrove-1002-13345.html				pending
+laurhum	Laurhum		unisex	https://www.fragrantica.com/perfume/O-Driu/Laurhum-17973.html				pending
+leva	Leva		female	https://www.fragrantica.com/perfume/O-Driu/Leva-13351.html				pending
+linfedele-1003	Linfedele 1003		male	https://www.fragrantica.com/perfume/O-Driu/Linfedele-1003-13344.html				pending
+linfedele-1004	Linfedele 1004		female	https://www.fragrantica.com/perfume/O-Driu/Linfedele-1004-13343.html				pending
+linfedele-haiku	Linfedele Haiku		unisex	https://www.fragrantica.com/perfume/O-Driu/Linfedele-Haiku-26391.html				pending
+londa-1005	Londa 1005		male	https://www.fragrantica.com/perfume/O-Driu/Londa-1005-13342.html				pending
+londa-1006	Londa 1006		female	https://www.fragrantica.com/perfume/O-Driu/Londa-1006-13341.html				pending
+pathetique	Pathetique		unisex	https://www.fragrantica.com/perfume/O-Driu/Pathetique-28171.html				pending
+peety	Peety		unisex	https://www.fragrantica.com/perfume/O-Driu/Peety-20806.html				pending
+satyricon	Satyricon		unisex	https://www.fragrantica.com/perfume/O-Driu/Satyricon-30474.html				pending
+sea-angel	Sea Angel		unisex	https://www.fragrantica.com/perfume/O-Driu/Sea-Angel-43057.html				pending
+supercilium	Supercilium		unisex	https://www.fragrantica.com/perfume/O-Driu/Supercilium-16440.html				pending
+ta	Ta		unisex	https://www.fragrantica.com/perfume/O-Driu/Ta-31049.html				pending
+ven	Ven		unisex	https://www.fragrantica.com/perfume/O-Driu/Ven-31047.html				pending
+vis-et-honor	Vis et Honor		unisex	https://www.fragrantica.com/perfume/O-Driu/Vis-et-Honor-13349.html				pending
+xvert	Xvert		unisex	https://www.fragrantica.com/perfume/O-Driu/Xvert-16439.html				pending

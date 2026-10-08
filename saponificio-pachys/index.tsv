@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-earth-parfum	Earth Parfum		male		https://www.fragrantica.com/perfume/Saponificio-Pachys/Earth-Parfum-81816.html				pending
-glorius-parfum	Glorius Parfum		male		https://www.fragrantica.com/perfume/Saponificio-Pachys/Glorius-Parfum-81819.html				pending
-malaysia-parfum	Malaysia Parfum		male		https://www.fragrantica.com/perfume/Saponificio-Pachys/Malaysia-Parfum-81820.html				pending
-saloon-parfum	Saloon Parfum		male		https://www.fragrantica.com/perfume/Saponificio-Pachys/Saloon-Parfum-81818.html				pending
-suk-parfum	Suk Parfum		male		https://www.fragrantica.com/perfume/Saponificio-Pachys/Suk-Parfum-81817.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+earth-parfum	Earth Parfum	Parfum	male	https://www.fragrantica.com/perfume/Saponificio-Pachys/Earth-Parfum-81816.html				pending
+glorius-parfum	Glorius Parfum	Parfum	male	https://www.fragrantica.com/perfume/Saponificio-Pachys/Glorius-Parfum-81819.html				pending
+malaysia-parfum	Malaysia Parfum	Parfum	male	https://www.fragrantica.com/perfume/Saponificio-Pachys/Malaysia-Parfum-81820.html				pending
+saloon-parfum	Saloon Parfum	Parfum	male	https://www.fragrantica.com/perfume/Saponificio-Pachys/Saloon-Parfum-81818.html				pending
+suk-parfum	Suk Parfum	Parfum	male	https://www.fragrantica.com/perfume/Saponificio-Pachys/Suk-Parfum-81817.html				pending

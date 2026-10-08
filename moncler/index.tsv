@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ciel-dhiver	Ciel D'hiver		unisex		https://www.fragrantica.com/perfume/Moncler/Ciel-D-hiver-95706.html				pending
-haute-montagne	Haute Montagne		unisex		https://www.fragrantica.com/perfume/Moncler/Haute-Montagne-80546.html				pending
-la-cordee	La Cordée		unisex		https://www.fragrantica.com/perfume/Moncler/La-Cordee-80547.html				pending
-le-bois-glace	Le Bois Glacé		unisex		https://www.fragrantica.com/perfume/Moncler/Le-Bois-Glace-80548.html				pending
-le-solstice	Le Solstice		unisex		https://www.fragrantica.com/perfume/Moncler/Le-Solstice-80550.html				pending
-les-roches-noires	Les Roches Noires		unisex		https://www.fragrantica.com/perfume/Moncler/Les-Roches-Noires-80549.html				pending
-moncler-pour-femme	Moncler pour Femme		female		https://www.fragrantica.com/perfume/Moncler/Moncler-pour-Femme-69819.html				pending
-moncler-pour-homme	Moncler pour Homme		male		https://www.fragrantica.com/perfume/Moncler/Moncler-pour-Homme-69818.html				pending
-moncler-sunrise-pour-femme	Moncler Sunrise pour Femme		female		https://www.fragrantica.com/perfume/Moncler/Moncler-Sunrise-pour-Femme-88138.html				pending
-moncler-sunrise-pour-homme	Moncler Sunrise pour Homme		male		https://www.fragrantica.com/perfume/Moncler/Moncler-Sunrise-pour-Homme-88139.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ciel-dhiver	Ciel D'hiver		unisex	https://www.fragrantica.com/perfume/Moncler/Ciel-D-hiver-95706.html				pending
+haute-montagne	Haute Montagne		unisex	https://www.fragrantica.com/perfume/Moncler/Haute-Montagne-80546.html				pending
+la-cordee	La Cordée		unisex	https://www.fragrantica.com/perfume/Moncler/La-Cordee-80547.html				pending
+le-bois-glace	Le Bois Glacé		unisex	https://www.fragrantica.com/perfume/Moncler/Le-Bois-Glace-80548.html				pending
+le-solstice	Le Solstice		unisex	https://www.fragrantica.com/perfume/Moncler/Le-Solstice-80550.html				pending
+les-roches-noires	Les Roches Noires		unisex	https://www.fragrantica.com/perfume/Moncler/Les-Roches-Noires-80549.html				pending
+moncler-pour-femme	Moncler pour Femme		female	https://www.fragrantica.com/perfume/Moncler/Moncler-pour-Femme-69819.html				pending
+moncler-pour-homme	Moncler pour Homme		male	https://www.fragrantica.com/perfume/Moncler/Moncler-pour-Homme-69818.html				pending
+moncler-sunrise-pour-femme	Moncler Sunrise pour Femme		female	https://www.fragrantica.com/perfume/Moncler/Moncler-Sunrise-pour-Femme-88138.html				pending
+moncler-sunrise-pour-homme	Moncler Sunrise pour Homme		male	https://www.fragrantica.com/perfume/Moncler/Moncler-Sunrise-pour-Homme-88139.html				pending

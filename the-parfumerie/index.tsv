@@ -1,39 +1,39 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-apricot	Apricot		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Apricot-60754.html				pending
-apricot-kiwi	Apricot Kiwi		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Apricot-Kiwi-60755.html				pending
-au-chocolate-dverte	Au Chocolate d'Verte		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Au-Chocolate-d-Verte-60551.html				pending
-brown-sugar	Brown Sugar		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Brown-Sugar-60560.html				pending
-campfire-and-marshmallow	Campfire & Marshmallow		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Campfire-Marshmallow-60553.html				pending
-china-rain	China Rain		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/China-Rain-60655.html				pending
-cinnamon-roasted-and-vanilla	Cinnamon Roasted & Vanilla		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Cinnamon-Roasted-Vanilla-60653.html				pending
-classic-fudge	Classic Fudge		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Classic-Fudge-60554.html				pending
-coco-mango	Coco Mango		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Coco-Mango-60763.html				pending
-coffee-arabic-ultra	Coffee Arabic Ultra		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Coffee-Arabic-Ultra-60648.html				pending
-coffee-italian	Coffee Italian		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Coffee-Italian-60649.html				pending
-coffee-turkish-delight	Coffee Turkish Delight		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Coffee-Turkish-Delight-60656.html				pending
-ginger	Ginger		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Ginger-60654.html				pending
-honey	Honey		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Honey-60855.html				pending
-hot-chocolate	Hot Chocolate		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Hot-Chocolate-60552.html				pending
-kiwi	Kiwi		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Kiwi-60757.html				pending
-mango	Mango		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Mango-60760.html				pending
-mango-butter	Mango Butter		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Mango-Butter-60762.html				pending
-papaya-authentic	Papaya Authentic		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Papaya-Authentic-60758.html				pending
-pomegranate	Pomegranate		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Pomegranate-60651.html				pending
-shades-of-noir-berry-noir	Shades of Noir Berry Noir		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Shades-of-Noir-Berry-Noir-60558.html				pending
-spanish-cherry-attar	Spanish Cherry Attar		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Spanish-Cherry-Attar-60856.html				pending
-strawberry	Strawberry		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Strawberry-60556.html				pending
-strawberry-milkshake	Strawberry Milkshake		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Strawberry-Milkshake-60557.html				pending
-sudanese-coconut	Sudanese Coconut		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Sudanese-Coconut-60555.html				pending
-sugar-cane	Sugar Cane		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Sugar-Cane-60854.html				pending
-sugar-cookie	Sugar Cookie		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Sugar-Cookie-60650.html				pending
-sunflower	Sunflower		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Sunflower-60860.html				pending
-sweet-apple	Sweet Apple		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Sweet-Apple-60764.html				pending
-sweet-jasmine	Sweet Jasmine		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Sweet-Jasmine-60858.html				pending
-sweet-peppermint	Sweet Peppermint		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Sweet-Peppermint-60857.html				pending
-sweet-rain	Sweet Rain		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Sweet-Rain-60853.html				pending
-tomato	Tomato		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Tomato-60647.html				pending
-toot-berry	Toot Berry		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Toot-Berry-60559.html				pending
-tropical-mango	Tropical Mango		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Tropical-Mango-60759.html				pending
-tropical-punch	Tropical Punch		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Tropical-Punch-60756.html				pending
-vanilla	Vanilla		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Vanilla-60652.html				pending
-vanilla-musk	Vanilla Musk		unisex		https://www.fragrantica.com/perfume/The-Parfumerie/Vanilla-Musk-60859.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+apricot	Apricot		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Apricot-60754.html				pending
+apricot-kiwi	Apricot Kiwi		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Apricot-Kiwi-60755.html				pending
+au-chocolate-dverte	Au Chocolate d'Verte		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Au-Chocolate-d-Verte-60551.html				pending
+brown-sugar	Brown Sugar		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Brown-Sugar-60560.html				pending
+campfire-and-marshmallow	Campfire & Marshmallow		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Campfire-Marshmallow-60553.html				pending
+china-rain	China Rain		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/China-Rain-60655.html				pending
+cinnamon-roasted-and-vanilla	Cinnamon Roasted & Vanilla		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Cinnamon-Roasted-Vanilla-60653.html				pending
+classic-fudge	Classic Fudge		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Classic-Fudge-60554.html				pending
+coco-mango	Coco Mango		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Coco-Mango-60763.html				pending
+coffee-arabic-ultra	Coffee Arabic Ultra		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Coffee-Arabic-Ultra-60648.html				pending
+coffee-italian	Coffee Italian		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Coffee-Italian-60649.html				pending
+coffee-turkish-delight	Coffee Turkish Delight		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Coffee-Turkish-Delight-60656.html				pending
+ginger	Ginger		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Ginger-60654.html				pending
+honey	Honey		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Honey-60855.html				pending
+hot-chocolate	Hot Chocolate		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Hot-Chocolate-60552.html				pending
+kiwi	Kiwi		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Kiwi-60757.html				pending
+mango	Mango		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Mango-60760.html				pending
+mango-butter	Mango Butter		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Mango-Butter-60762.html				pending
+papaya-authentic	Papaya Authentic		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Papaya-Authentic-60758.html				pending
+pomegranate	Pomegranate		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Pomegranate-60651.html				pending
+shades-of-noir-berry-noir	Shades of Noir Berry Noir		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Shades-of-Noir-Berry-Noir-60558.html				pending
+spanish-cherry-attar	Spanish Cherry Attar	Perfume Oil	unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Spanish-Cherry-Attar-60856.html				pending
+strawberry	Strawberry		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Strawberry-60556.html				pending
+strawberry-milkshake	Strawberry Milkshake		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Strawberry-Milkshake-60557.html				pending
+sudanese-coconut	Sudanese Coconut		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Sudanese-Coconut-60555.html				pending
+sugar-cane	Sugar Cane		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Sugar-Cane-60854.html				pending
+sugar-cookie	Sugar Cookie		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Sugar-Cookie-60650.html				pending
+sunflower	Sunflower		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Sunflower-60860.html				pending
+sweet-apple	Sweet Apple		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Sweet-Apple-60764.html				pending
+sweet-jasmine	Sweet Jasmine		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Sweet-Jasmine-60858.html				pending
+sweet-peppermint	Sweet Peppermint		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Sweet-Peppermint-60857.html				pending
+sweet-rain	Sweet Rain		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Sweet-Rain-60853.html				pending
+tomato	Tomato		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Tomato-60647.html				pending
+toot-berry	Toot Berry		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Toot-Berry-60559.html				pending
+tropical-mango	Tropical Mango		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Tropical-Mango-60759.html				pending
+tropical-punch	Tropical Punch		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Tropical-Punch-60756.html				pending
+vanilla	Vanilla		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Vanilla-60652.html				pending
+vanilla-musk	Vanilla Musk		unisex	https://www.fragrantica.com/perfume/The-Parfumerie/Vanilla-Musk-60859.html				pending

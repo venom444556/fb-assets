@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-lor-blanc-de-torrente	L'Or Blanc de Torrente		female		https://www.fragrantica.com/perfume/Torrente/L-Or-Blanc-de-Torrente-3852.html				pending
-lor-de-torrente-eau-de-parfum	L'Or de Torrente Eau de Parfum		female		https://www.fragrantica.com/perfume/Torrente/L-Or-de-Torrente-Eau-de-Parfum-2466.html				pending
-lor-intense	L'Or Intense		female		https://www.fragrantica.com/perfume/Torrente/L-Or-Intense-2467.html				pending
-lor-rouge	L'Or Rouge		female		https://www.fragrantica.com/perfume/Torrente/L-Or-Rouge-2468.html				pending
-my-torrente	My Torrente		female		https://www.fragrantica.com/perfume/Torrente/My-Torrente-2469.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+lor-blanc-de-torrente	L'Or Blanc de Torrente		female	https://www.fragrantica.com/perfume/Torrente/L-Or-Blanc-de-Torrente-3852.html				pending
+lor-de-torrente-eau-de-parfum	L'Or de Torrente Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Torrente/L-Or-de-Torrente-Eau-de-Parfum-2466.html				pending
+lor-intense	L'Or Intense		female	https://www.fragrantica.com/perfume/Torrente/L-Or-Intense-2467.html				pending
+lor-rouge	L'Or Rouge		female	https://www.fragrantica.com/perfume/Torrente/L-Or-Rouge-2468.html				pending
+my-torrente	My Torrente		female	https://www.fragrantica.com/perfume/Torrente/My-Torrente-2469.html				pending

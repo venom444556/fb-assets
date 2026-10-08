@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-dignity	Dignity		unisex		https://www.fragrantica.com/perfume/Flamboyant/Dignity-33398.html				pending
-endurance	Endurance		unisex		https://www.fragrantica.com/perfume/Flamboyant/Endurance-33449.html				pending
-enigma	Enigma		unisex		https://www.fragrantica.com/perfume/Flamboyant/Enigma-33448.html				pending
-eternity	Eternity		unisex		https://www.fragrantica.com/perfume/Flamboyant/Eternity-33400.html				pending
-oud-amber	Oud Amber		unisex		https://www.fragrantica.com/perfume/Flamboyant/Oud-Amber-33447.html				pending
-party-in-the-night	Party in the Night		male		https://www.fragrantica.com/perfume/Flamboyant/Party-in-the-Night-40650.html				pending
-passion	Passion		unisex		https://www.fragrantica.com/perfume/Flamboyant/Passion-33397.html				pending
-provocative-pink	Provocative Pink		female		https://www.fragrantica.com/perfume/Flamboyant/Provocative-Pink-33446.html				pending
-royal-white	Royal White		unisex		https://www.fragrantica.com/perfume/Flamboyant/Royal-White-33401.html				pending
-royal-white-33402	Royal White		unisex		https://www.fragrantica.com/perfume/Flamboyant/Royal-White-33402.html				pending
-tender	Tender		unisex		https://www.fragrantica.com/perfume/Flamboyant/Tender-33399.html				pending
-wedding-day	Wedding Day		female		https://www.fragrantica.com/perfume/Flamboyant/Wedding-Day-40651.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+dignity	Dignity		unisex	https://www.fragrantica.com/perfume/Flamboyant/Dignity-33398.html				pending
+endurance	Endurance		unisex	https://www.fragrantica.com/perfume/Flamboyant/Endurance-33449.html				pending
+enigma	Enigma		unisex	https://www.fragrantica.com/perfume/Flamboyant/Enigma-33448.html				pending
+eternity	Eternity		unisex	https://www.fragrantica.com/perfume/Flamboyant/Eternity-33400.html				pending
+oud-amber	Oud Amber		unisex	https://www.fragrantica.com/perfume/Flamboyant/Oud-Amber-33447.html				pending
+party-in-the-night	Party in the Night		male	https://www.fragrantica.com/perfume/Flamboyant/Party-in-the-Night-40650.html				pending
+passion	Passion		unisex	https://www.fragrantica.com/perfume/Flamboyant/Passion-33397.html				pending
+provocative-pink	Provocative Pink		female	https://www.fragrantica.com/perfume/Flamboyant/Provocative-Pink-33446.html				pending
+royal-white	Royal White		unisex	https://www.fragrantica.com/perfume/Flamboyant/Royal-White-33401.html				pending
+royal-white-33402	Royal White		unisex	https://www.fragrantica.com/perfume/Flamboyant/Royal-White-33402.html				pending
+tender	Tender		unisex	https://www.fragrantica.com/perfume/Flamboyant/Tender-33399.html				pending
+wedding-day	Wedding Day		female	https://www.fragrantica.com/perfume/Flamboyant/Wedding-Day-40651.html				pending

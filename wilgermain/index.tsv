@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aquafortis	Aquafortis		unisex		https://www.fragrantica.com/perfume/Wilgermain/Aquafortis-63911.html				pending
-bois-barbare	Bois Barbare		unisex		https://www.fragrantica.com/perfume/Wilgermain/Bois-Barbare-89639.html				pending
-fleur-a-lextreme	Fleur à l'Extrême		unisex		https://www.fragrantica.com/perfume/Wilgermain/Fleur-a-l-Extreme-89638.html				pending
-inconfessable	Inconfessable		unisex		https://www.fragrantica.com/perfume/Wilgermain/Inconfessable-63916.html				pending
-more-is-more	More is More		unisex		https://www.fragrantica.com/perfume/Wilgermain/More-is-More-63913.html				pending
-passion-victim	Passion Victim		unisex		https://www.fragrantica.com/perfume/Wilgermain/Passion-Victim-63912.html				pending
-possession	Possession		unisex		https://www.fragrantica.com/perfume/Wilgermain/Possession-63915.html				pending
-radianza	Radianza		unisex		https://www.fragrantica.com/perfume/Wilgermain/Radianza-63914.html				pending
-rose-revenge	Rose Revenge		unisex		https://www.fragrantica.com/perfume/Wilgermain/Rose-Revenge-89640.html				pending
-so-suede	So Suede		unisex		https://www.fragrantica.com/perfume/Wilgermain/So-Suede-89641.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aquafortis	Aquafortis		unisex	https://www.fragrantica.com/perfume/Wilgermain/Aquafortis-63911.html				pending
+bois-barbare	Bois Barbare		unisex	https://www.fragrantica.com/perfume/Wilgermain/Bois-Barbare-89639.html				pending
+fleur-a-lextreme	Fleur à l'Extrême		unisex	https://www.fragrantica.com/perfume/Wilgermain/Fleur-a-l-Extreme-89638.html				pending
+inconfessable	Inconfessable		unisex	https://www.fragrantica.com/perfume/Wilgermain/Inconfessable-63916.html				pending
+more-is-more	More is More		unisex	https://www.fragrantica.com/perfume/Wilgermain/More-is-More-63913.html				pending
+passion-victim	Passion Victim		unisex	https://www.fragrantica.com/perfume/Wilgermain/Passion-Victim-63912.html				pending
+possession	Possession		unisex	https://www.fragrantica.com/perfume/Wilgermain/Possession-63915.html				pending
+radianza	Radianza		unisex	https://www.fragrantica.com/perfume/Wilgermain/Radianza-63914.html				pending
+rose-revenge	Rose Revenge		unisex	https://www.fragrantica.com/perfume/Wilgermain/Rose-Revenge-89640.html				pending
+so-suede	So Suede		unisex	https://www.fragrantica.com/perfume/Wilgermain/So-Suede-89641.html				pending

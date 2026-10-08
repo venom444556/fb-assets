@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bois-bleu	BOIS BLEU		male		https://www.fragrantica.com/perfume/Alrehab-Oriental/BOIS-BLEU-73733.html				pending
-estina-prive-blue	Estina Prive Blue		female		https://www.fragrantica.com/perfume/Alrehab-Oriental/Estina-Prive-Blue-75348.html				pending
-estina-prive-green	Estina Prive Green		female		https://www.fragrantica.com/perfume/Alrehab-Oriental/Estina-Prive-Green-75349.html				pending
-estina-pure-green	ESTINA PURE GREEN		unisex		https://www.fragrantica.com/perfume/Alrehab-Oriental/ESTINA-PURE-GREEN-73722.html				pending
-estina-rose-black	ESTINA ROSE BLACK		female		https://www.fragrantica.com/perfume/Alrehab-Oriental/ESTINA-ROSE-BLACK-73726.html				pending
-estina-rose-gold	ESTINA ROSE GOLD		female		https://www.fragrantica.com/perfume/Alrehab-Oriental/ESTINA-ROSE-GOLD-73728.html				pending
-estina-rouge	ESTINA ROUGE		unisex		https://www.fragrantica.com/perfume/Alrehab-Oriental/ESTINA-ROUGE-73723.html				pending
-flourish-leather	Flourish Leather		male		https://www.fragrantica.com/perfume/Alrehab-Oriental/Flourish-Leather-73732.html				pending
-flourish-oud	FLOURISH OUD		unisex		https://www.fragrantica.com/perfume/Alrehab-Oriental/FLOURISH-OUD-73721.html				pending
-flourish-patchouli	FLOURISH PATCHOULI		unisex		https://www.fragrantica.com/perfume/Alrehab-Oriental/FLOURISH-PATCHOULI-73730.html				pending
-flourish-poudree	FLOURISH POUDREE		female		https://www.fragrantica.com/perfume/Alrehab-Oriental/FLOURISH-POUDREE-73731.html				pending
-flourish-tobacco	FLOURISH TOBACCO		unisex		https://www.fragrantica.com/perfume/Alrehab-Oriental/FLOURISH-TOBACCO-73729.html				pending
-noir-and-blanc	NOIR AND BLANC		male		https://www.fragrantica.com/perfume/Alrehab-Oriental/NOIR-AND-BLANC-73734.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bois-bleu	BOIS BLEU		male	https://www.fragrantica.com/perfume/Alrehab-Oriental/BOIS-BLEU-73733.html				pending
+estina-prive-blue	Estina Prive Blue		female	https://www.fragrantica.com/perfume/Alrehab-Oriental/Estina-Prive-Blue-75348.html				pending
+estina-prive-green	Estina Prive Green		female	https://www.fragrantica.com/perfume/Alrehab-Oriental/Estina-Prive-Green-75349.html				pending
+estina-pure-green	ESTINA PURE GREEN		unisex	https://www.fragrantica.com/perfume/Alrehab-Oriental/ESTINA-PURE-GREEN-73722.html				pending
+estina-rose-black	ESTINA ROSE BLACK		female	https://www.fragrantica.com/perfume/Alrehab-Oriental/ESTINA-ROSE-BLACK-73726.html				pending
+estina-rose-gold	ESTINA ROSE GOLD		female	https://www.fragrantica.com/perfume/Alrehab-Oriental/ESTINA-ROSE-GOLD-73728.html				pending
+estina-rouge	ESTINA ROUGE		unisex	https://www.fragrantica.com/perfume/Alrehab-Oriental/ESTINA-ROUGE-73723.html				pending
+flourish-leather	Flourish Leather		male	https://www.fragrantica.com/perfume/Alrehab-Oriental/Flourish-Leather-73732.html				pending
+flourish-oud	FLOURISH OUD		unisex	https://www.fragrantica.com/perfume/Alrehab-Oriental/FLOURISH-OUD-73721.html				pending
+flourish-patchouli	FLOURISH PATCHOULI		unisex	https://www.fragrantica.com/perfume/Alrehab-Oriental/FLOURISH-PATCHOULI-73730.html				pending
+flourish-poudree	FLOURISH POUDREE		female	https://www.fragrantica.com/perfume/Alrehab-Oriental/FLOURISH-POUDREE-73731.html				pending
+flourish-tobacco	FLOURISH TOBACCO		unisex	https://www.fragrantica.com/perfume/Alrehab-Oriental/FLOURISH-TOBACCO-73729.html				pending
+noir-and-blanc	NOIR AND BLANC		male	https://www.fragrantica.com/perfume/Alrehab-Oriental/NOIR-AND-BLANC-73734.html				pending

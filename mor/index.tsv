@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-belladonna	Belladonna		female		https://www.fragrantica.com/perfume/MOR/Belladonna-10196.html				pending
-lychee-flower	Lychee Flower		female		https://www.fragrantica.com/perfume/MOR/Lychee-Flower-10197.html				pending
-snow-gardenia	Snow Gardenia		female		https://www.fragrantica.com/perfume/MOR/Snow-Gardenia-10198.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+belladonna	Belladonna		female	https://www.fragrantica.com/perfume/MOR/Belladonna-10196.html				pending
+lychee-flower	Lychee Flower		female	https://www.fragrantica.com/perfume/MOR/Lychee-Flower-10197.html				pending
+snow-gardenia	Snow Gardenia		female	https://www.fragrantica.com/perfume/MOR/Snow-Gardenia-10198.html				pending

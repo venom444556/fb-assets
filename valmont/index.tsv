@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blu-cobalto-i	Blu Cobalto I		unisex		https://www.fragrantica.com/perfume/Valmont/Blu-Cobalto-I-49424.html				pending
-fizzy-mint	Fizzy Mint		unisex		https://www.fragrantica.com/perfume/Valmont/Fizzy-Mint-69344.html				pending
-gaggia-medio-i	Gaggia Medio I		unisex		https://www.fragrantica.com/perfume/Valmont/Gaggia-Medio-I-49423.html				pending
-mica-doro	Mica D'Oro		unisex		https://www.fragrantica.com/perfume/Valmont/Mica-D-Oro-65151.html				pending
-secret-bamboo	Secret Bamboo		unisex		https://www.fragrantica.com/perfume/Valmont/Secret-Bamboo-60682.html				pending
-verde-erba-i	Verde Erba I		unisex		https://www.fragrantica.com/perfume/Valmont/Verde-Erba-I-49421.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blu-cobalto-i	Blu Cobalto I		unisex	https://www.fragrantica.com/perfume/Valmont/Blu-Cobalto-I-49424.html				pending
+fizzy-mint	Fizzy Mint		unisex	https://www.fragrantica.com/perfume/Valmont/Fizzy-Mint-69344.html				pending
+gaggia-medio-i	Gaggia Medio I		unisex	https://www.fragrantica.com/perfume/Valmont/Gaggia-Medio-I-49423.html				pending
+mica-doro	Mica D'Oro		unisex	https://www.fragrantica.com/perfume/Valmont/Mica-D-Oro-65151.html				pending
+secret-bamboo	Secret Bamboo		unisex	https://www.fragrantica.com/perfume/Valmont/Secret-Bamboo-60682.html				pending
+verde-erba-i	Verde Erba I		unisex	https://www.fragrantica.com/perfume/Valmont/Verde-Erba-I-49421.html				pending

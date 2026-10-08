@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cast-a-spell	Cast A Spell		female		https://www.fragrantica.com/perfume/Lulu-Guinness/Cast-A-Spell-6655.html				pending
-fairytales	Fairytales		female		https://www.fragrantica.com/perfume/Lulu-Guinness/Fairytales-6656.html				pending
-lulu-guinness	Lulu Guinness		female		https://www.fragrantica.com/perfume/Lulu-Guinness/Lulu-Guinness-6657.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cast-a-spell	Cast A Spell		female	https://www.fragrantica.com/perfume/Lulu-Guinness/Cast-A-Spell-6655.html				pending
+fairytales	Fairytales		female	https://www.fragrantica.com/perfume/Lulu-Guinness/Fairytales-6656.html				pending
+lulu-guinness	Lulu Guinness		female	https://www.fragrantica.com/perfume/Lulu-Guinness/Lulu-Guinness-6657.html				pending

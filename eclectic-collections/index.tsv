@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-7-wonders-of-the-world-colosseum	7 Wonders of the World Colosseum		male		https://www.fragrantica.com/perfume/Eclectic-Collections/7-Wonders-of-the-World-Colosseum-7101.html				pending
-agenda	Agenda		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Agenda-7102.html				pending
-aperitif	Aperitif		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Aperitif-13973.html				pending
-arouse	Arouse		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Arouse-7093.html				pending
-autograph	Autograph		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Autograph-7103.html				pending
-black-stallion-by-sergio-goyri	Black Stallion by Sergio Goyri		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Black-Stallion-by-Sergio-Goyri-17347.html				pending
-boutique	Boutique		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Boutique-13971.html				pending
-carte-blanche	Carte Blanche		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Carte-Blanche-7104.html				pending
-excellence	Excellence		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Excellence-7094.html				pending
-factor	Factor		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Factor-7105.html				pending
-impression	Impression		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Impression-7095.html				pending
-lingerie-silhouette	Lingerie Silhouette		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Lingerie-Silhouette-13974.html				pending
-maestro	Maestro		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Maestro-7106.html				pending
-mantra	Mantra		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Mantra-7096.html				pending
-mona-lisa	Mona Lisa		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Mona-Lisa-13970.html				pending
-monument	Monument		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Monument-7107.html				pending
-moonstruck	Moonstruck		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Moonstruck-7097.html				pending
-painting	Painting		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Painting-13972.html				pending
-persona-non-grata	Persona Non Grata		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Persona-Non-Grata-7108.html				pending
-possessed	Possessed		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Possessed-7098.html				pending
-saga	Saga		male		https://www.fragrantica.com/perfume/Eclectic-Collections/Saga-13975.html				pending
-signed-sealed-and-delivered	Signed Sealed and Delivered		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Signed-Sealed-and-Delivered-13976.html				pending
-signs	Signs		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Signs-7099.html				pending
-sonata	Sonata		female		https://www.fragrantica.com/perfume/Eclectic-Collections/Sonata-7100.html				pending
-vo-by-victor-ortiz	VO by Victor Ortiz		male		https://www.fragrantica.com/perfume/Eclectic-Collections/VO-by-Victor-Ortiz-17225.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+7-wonders-of-the-world-colosseum	7 Wonders of the World Colosseum		male	https://www.fragrantica.com/perfume/Eclectic-Collections/7-Wonders-of-the-World-Colosseum-7101.html				pending
+agenda	Agenda		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Agenda-7102.html				pending
+aperitif	Aperitif		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Aperitif-13973.html				pending
+arouse	Arouse		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Arouse-7093.html				pending
+autograph	Autograph		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Autograph-7103.html				pending
+black-stallion-by-sergio-goyri	Black Stallion by Sergio Goyri		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Black-Stallion-by-Sergio-Goyri-17347.html				pending
+boutique	Boutique		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Boutique-13971.html				pending
+carte-blanche	Carte Blanche		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Carte-Blanche-7104.html				pending
+excellence	Excellence		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Excellence-7094.html				pending
+factor	Factor		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Factor-7105.html				pending
+impression	Impression		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Impression-7095.html				pending
+lingerie-silhouette	Lingerie Silhouette		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Lingerie-Silhouette-13974.html				pending
+maestro	Maestro		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Maestro-7106.html				pending
+mantra	Mantra		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Mantra-7096.html				pending
+mona-lisa	Mona Lisa		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Mona-Lisa-13970.html				pending
+monument	Monument		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Monument-7107.html				pending
+moonstruck	Moonstruck		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Moonstruck-7097.html				pending
+painting	Painting		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Painting-13972.html				pending
+persona-non-grata	Persona Non Grata		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Persona-Non-Grata-7108.html				pending
+possessed	Possessed		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Possessed-7098.html				pending
+saga	Saga		male	https://www.fragrantica.com/perfume/Eclectic-Collections/Saga-13975.html				pending
+signed-sealed-and-delivered	Signed Sealed and Delivered		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Signed-Sealed-and-Delivered-13976.html				pending
+signs	Signs		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Signs-7099.html				pending
+sonata	Sonata		female	https://www.fragrantica.com/perfume/Eclectic-Collections/Sonata-7100.html				pending
+vo-by-victor-ortiz	VO by Victor Ortiz		male	https://www.fragrantica.com/perfume/Eclectic-Collections/VO-by-Victor-Ortiz-17225.html				pending

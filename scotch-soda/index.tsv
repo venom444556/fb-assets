@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-barfly	Barfly		unisex		https://www.fragrantica.com/perfume/Scotch-Soda/Barfly-15631.html				pending
-scotch-and-soda-women	Scotch & Soda Women		female		https://www.fragrantica.com/perfume/Scotch-Soda/Scotch-Soda-Women-55391.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+barfly	Barfly		unisex	https://www.fragrantica.com/perfume/Scotch-Soda/Barfly-15631.html				pending
+scotch-and-soda-women	Scotch & Soda Women		female	https://www.fragrantica.com/perfume/Scotch-Soda/Scotch-Soda-Women-55391.html				pending

@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-baisers-de-jasmin	Baisers de Jasmin		unisex		https://www.fragrantica.com/perfume/In-Fiore/Baisers-de-Jasmin-72511.html				pending
-bois-de-rose	Bois de Rose		unisex		https://www.fragrantica.com/perfume/In-Fiore/Bois-de-Rose-72512.html				pending
-jasmine-superieur	Jasmine Supérieur		unisex		https://www.fragrantica.com/perfume/In-Fiore/Jasmine-Superieur-72515.html				pending
-kashmir	Kashmir		unisex		https://www.fragrantica.com/perfume/In-Fiore/Kashmir-72516.html				pending
-shevanti	Shevanti		unisex		https://www.fragrantica.com/perfume/In-Fiore/Shevanti-72513.html				pending
-tangiers	Tangiers		unisex		https://www.fragrantica.com/perfume/In-Fiore/Tangiers-72514.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+baisers-de-jasmin	Baisers de Jasmin		unisex	https://www.fragrantica.com/perfume/In-Fiore/Baisers-de-Jasmin-72511.html				pending
+bois-de-rose	Bois de Rose		unisex	https://www.fragrantica.com/perfume/In-Fiore/Bois-de-Rose-72512.html				pending
+jasmine-superieur	Jasmine Supérieur		unisex	https://www.fragrantica.com/perfume/In-Fiore/Jasmine-Superieur-72515.html				pending
+kashmir	Kashmir		unisex	https://www.fragrantica.com/perfume/In-Fiore/Kashmir-72516.html				pending
+shevanti	Shevanti		unisex	https://www.fragrantica.com/perfume/In-Fiore/Shevanti-72513.html				pending
+tangiers	Tangiers		unisex	https://www.fragrantica.com/perfume/In-Fiore/Tangiers-72514.html				pending

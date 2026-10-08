@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-atmayatra	Atmayatra		unisex		https://www.fragrantica.com/perfume/Spiritica/Atmayatra-90878.html				pending
-lynch-aka-smoked-styrax	LYNCH aka smoked styrax		unisex		https://www.fragrantica.com/perfume/Spiritica/LYNCH-aka-smoked-styrax-106295.html				pending
-mangomacumba	Mangomacumba		unisex		https://www.fragrantica.com/perfume/Spiritica/Mangomacumba-92927.html				pending
-rosanostra	Rosanostra		unisex		https://www.fragrantica.com/perfume/Spiritica/Rosanostra-134682.html				pending
-suscepto	Suscepto		unisex		https://www.fragrantica.com/perfume/Spiritica/Suscepto-90880.html				pending
-weon	Weon		unisex		https://www.fragrantica.com/perfume/Spiritica/Weon-90879.html				pending
-weona	Weona		unisex		https://www.fragrantica.com/perfume/Spiritica/Weona-127586.html				pending
-yuzuyakuza	Yuzuyakuza		unisex		https://www.fragrantica.com/perfume/Spiritica/Yuzuyakuza-102995.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+atmayatra	Atmayatra		unisex	https://www.fragrantica.com/perfume/Spiritica/Atmayatra-90878.html				pending
+lynch-aka-smoked-styrax	LYNCH aka smoked styrax		unisex	https://www.fragrantica.com/perfume/Spiritica/LYNCH-aka-smoked-styrax-106295.html				pending
+mangomacumba	Mangomacumba		unisex	https://www.fragrantica.com/perfume/Spiritica/Mangomacumba-92927.html				pending
+rosanostra	Rosanostra		unisex	https://www.fragrantica.com/perfume/Spiritica/Rosanostra-134682.html				pending
+suscepto	Suscepto		unisex	https://www.fragrantica.com/perfume/Spiritica/Suscepto-90880.html				pending
+weon	Weon		unisex	https://www.fragrantica.com/perfume/Spiritica/Weon-90879.html				pending
+weona	Weona		unisex	https://www.fragrantica.com/perfume/Spiritica/Weona-127586.html				pending
+yuzuyakuza	Yuzuyakuza		unisex	https://www.fragrantica.com/perfume/Spiritica/Yuzuyakuza-102995.html				pending

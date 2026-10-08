@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blue-mood	Blue Mood		male		https://www.fragrantica.com/perfume/Anthology/Blue-Mood-88539.html				pending
-dazzling-amber	Dazzling Amber		unisex		https://www.fragrantica.com/perfume/Anthology/Dazzling-Amber-88542.html				pending
-elegant-vetyver	Elegant Vetyver		unisex		https://www.fragrantica.com/perfume/Anthology/Elegant-Vetyver-88543.html				pending
-exotic-woods	Exotic Woods		unisex		https://www.fragrantica.com/perfume/Anthology/Exotic-Woods-88540.html				pending
-fruity-dream	Fruity Dream		male		https://www.fragrantica.com/perfume/Anthology/Fruity-Dream-88535.html				pending
-gold-apple	Gold Apple		male		https://www.fragrantica.com/perfume/Anthology/Gold-Apple-88536.html				pending
-je-taime	Je T'Aime		female		https://www.fragrantica.com/perfume/Anthology/Je-T-Aime-88531.html				pending
-juicy-leather	Juicy Leather		unisex		https://www.fragrantica.com/perfume/Anthology/Juicy-Leather-88544.html				pending
-lhomme	L'Homme		male		https://www.fragrantica.com/perfume/Anthology/L-Homme-88538.html				pending
-lady-first	Lady First		female		https://www.fragrantica.com/perfume/Anthology/Lady-First-88532.html				pending
-noble-wood	Noble Wood		male		https://www.fragrantica.com/perfume/Anthology/Noble-Wood-88537.html				pending
-oranger-riviera	Oranger Riviera		female		https://www.fragrantica.com/perfume/Anthology/Oranger-Riviera-88533.html				pending
-purple-crystal	Purple Crystal		unisex		https://www.fragrantica.com/perfume/Anthology/Purple-Crystal-88541.html				pending
-sweet-coffee	Sweet Coffee		female		https://www.fragrantica.com/perfume/Anthology/Sweet-Coffee-88530.html				pending
-vida-loca	Vida Loca		female		https://www.fragrantica.com/perfume/Anthology/Vida-Loca-88534.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blue-mood	Blue Mood		male	https://www.fragrantica.com/perfume/Anthology/Blue-Mood-88539.html				pending
+dazzling-amber	Dazzling Amber		unisex	https://www.fragrantica.com/perfume/Anthology/Dazzling-Amber-88542.html				pending
+elegant-vetyver	Elegant Vetyver		unisex	https://www.fragrantica.com/perfume/Anthology/Elegant-Vetyver-88543.html				pending
+exotic-woods	Exotic Woods		unisex	https://www.fragrantica.com/perfume/Anthology/Exotic-Woods-88540.html				pending
+fruity-dream	Fruity Dream		male	https://www.fragrantica.com/perfume/Anthology/Fruity-Dream-88535.html				pending
+gold-apple	Gold Apple		male	https://www.fragrantica.com/perfume/Anthology/Gold-Apple-88536.html				pending
+je-taime	Je T'Aime		female	https://www.fragrantica.com/perfume/Anthology/Je-T-Aime-88531.html				pending
+juicy-leather	Juicy Leather		unisex	https://www.fragrantica.com/perfume/Anthology/Juicy-Leather-88544.html				pending
+lhomme	L'Homme		male	https://www.fragrantica.com/perfume/Anthology/L-Homme-88538.html				pending
+lady-first	Lady First		female	https://www.fragrantica.com/perfume/Anthology/Lady-First-88532.html				pending
+noble-wood	Noble Wood		male	https://www.fragrantica.com/perfume/Anthology/Noble-Wood-88537.html				pending
+oranger-riviera	Oranger Riviera		female	https://www.fragrantica.com/perfume/Anthology/Oranger-Riviera-88533.html				pending
+purple-crystal	Purple Crystal		unisex	https://www.fragrantica.com/perfume/Anthology/Purple-Crystal-88541.html				pending
+sweet-coffee	Sweet Coffee		female	https://www.fragrantica.com/perfume/Anthology/Sweet-Coffee-88530.html				pending
+vida-loca	Vida Loca		female	https://www.fragrantica.com/perfume/Anthology/Vida-Loca-88534.html				pending

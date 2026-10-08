@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambra	Ambra		unisex		https://www.fragrantica.com/perfume/Jeroboam/Ambra-44221.html				pending
-boha	BOHA		female		https://www.fragrantica.com/perfume/Jeroboam/BOHA-51701.html				pending
-floro	Floro		unisex		https://www.fragrantica.com/perfume/Jeroboam/Floro-69509.html				pending
-gozo	Gozo		unisex		https://www.fragrantica.com/perfume/Jeroboam/Gozo-60300.html				pending
-hauto	Hauto		unisex		https://www.fragrantica.com/perfume/Jeroboam/Hauto-32422.html				pending
-insulo	Insulo		unisex		https://www.fragrantica.com/perfume/Jeroboam/Insulo-32423.html				pending
-kun-amo	Kun Amo		unisex		https://www.fragrantica.com/perfume/Jeroboam/Kun-Amo-103981.html				pending
-ligno	Ligno		unisex		https://www.fragrantica.com/perfume/Jeroboam/Ligno-54995.html				pending
-miksado	Miksado		unisex		https://www.fragrantica.com/perfume/Jeroboam/Miksado-32421.html				pending
-oriento	Oriento		unisex		https://www.fragrantica.com/perfume/Jeroboam/Oriento-32420.html				pending
-origino	Origino		unisex		https://www.fragrantica.com/perfume/Jeroboam/Origino-32419.html				pending
-unue	Unue		unisex		https://www.fragrantica.com/perfume/Jeroboam/Unue-60301.html				pending
-vespero	Vespero		male		https://www.fragrantica.com/perfume/Jeroboam/Vespero-44220.html				pending
-your-oudhness	Your Oudhness		unisex		https://www.fragrantica.com/perfume/Jeroboam/Your-Oudhness-98211.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambra	Ambra		unisex	https://www.fragrantica.com/perfume/Jeroboam/Ambra-44221.html				pending
+boha	BOHA		female	https://www.fragrantica.com/perfume/Jeroboam/BOHA-51701.html				pending
+floro	Floro		unisex	https://www.fragrantica.com/perfume/Jeroboam/Floro-69509.html				pending
+gozo	Gozo		unisex	https://www.fragrantica.com/perfume/Jeroboam/Gozo-60300.html				pending
+hauto	Hauto		unisex	https://www.fragrantica.com/perfume/Jeroboam/Hauto-32422.html				pending
+insulo	Insulo		unisex	https://www.fragrantica.com/perfume/Jeroboam/Insulo-32423.html				pending
+kun-amo	Kun Amo		unisex	https://www.fragrantica.com/perfume/Jeroboam/Kun-Amo-103981.html				pending
+ligno	Ligno		unisex	https://www.fragrantica.com/perfume/Jeroboam/Ligno-54995.html				pending
+miksado	Miksado		unisex	https://www.fragrantica.com/perfume/Jeroboam/Miksado-32421.html				pending
+oriento	Oriento		unisex	https://www.fragrantica.com/perfume/Jeroboam/Oriento-32420.html				pending
+origino	Origino		unisex	https://www.fragrantica.com/perfume/Jeroboam/Origino-32419.html				pending
+unue	Unue		unisex	https://www.fragrantica.com/perfume/Jeroboam/Unue-60301.html				pending
+vespero	Vespero		male	https://www.fragrantica.com/perfume/Jeroboam/Vespero-44220.html				pending
+your-oudhness	Your Oudhness		unisex	https://www.fragrantica.com/perfume/Jeroboam/Your-Oudhness-98211.html				pending

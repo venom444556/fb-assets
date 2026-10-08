@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-earth-core	Earth Core		male		https://www.fragrantica.com/perfume/Cosmogony/Earth-Core-81783.html				pending
-flaming-sky	Flaming Sky		female		https://www.fragrantica.com/perfume/Cosmogony/Flaming-Sky-79085.html				pending
-moon-light	Moon Light		female		https://www.fragrantica.com/perfume/Cosmogony/Moon-Light-47182.html				pending
-morning-star	Morning Star		female		https://www.fragrantica.com/perfume/Cosmogony/Morning-Star-74109.html				pending
-other-side	Other Side		male		https://www.fragrantica.com/perfume/Cosmogony/Other-Side-81782.html				pending
-phosphorus	Phosphorus		male		https://www.fragrantica.com/perfume/Cosmogony/Phosphorus-81786.html				pending
-proserphina	Proserphina		female		https://www.fragrantica.com/perfume/Cosmogony/Proserphina-65435.html				pending
-red-element	Red Element		male		https://www.fragrantica.com/perfume/Cosmogony/Red-Element-81787.html				pending
-sacred-earth	Sacred Earth		female		https://www.fragrantica.com/perfume/Cosmogony/Sacred-Earth-55344.html				pending
-solar-power	Solar Power		male		https://www.fragrantica.com/perfume/Cosmogony/Solar-Power-81781.html				pending
-sun-light	Sun Light		female		https://www.fragrantica.com/perfume/Cosmogony/Sun-Light-47181.html				pending
-underworld	Underworld		male		https://www.fragrantica.com/perfume/Cosmogony/Underworld-81785.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+earth-core	Earth Core		male	https://www.fragrantica.com/perfume/Cosmogony/Earth-Core-81783.html				pending
+flaming-sky	Flaming Sky		female	https://www.fragrantica.com/perfume/Cosmogony/Flaming-Sky-79085.html				pending
+moon-light	Moon Light		female	https://www.fragrantica.com/perfume/Cosmogony/Moon-Light-47182.html				pending
+morning-star	Morning Star		female	https://www.fragrantica.com/perfume/Cosmogony/Morning-Star-74109.html				pending
+other-side	Other Side		male	https://www.fragrantica.com/perfume/Cosmogony/Other-Side-81782.html				pending
+phosphorus	Phosphorus		male	https://www.fragrantica.com/perfume/Cosmogony/Phosphorus-81786.html				pending
+proserphina	Proserphina		female	https://www.fragrantica.com/perfume/Cosmogony/Proserphina-65435.html				pending
+red-element	Red Element		male	https://www.fragrantica.com/perfume/Cosmogony/Red-Element-81787.html				pending
+sacred-earth	Sacred Earth		female	https://www.fragrantica.com/perfume/Cosmogony/Sacred-Earth-55344.html				pending
+solar-power	Solar Power		male	https://www.fragrantica.com/perfume/Cosmogony/Solar-Power-81781.html				pending
+sun-light	Sun Light		female	https://www.fragrantica.com/perfume/Cosmogony/Sun-Light-47181.html				pending
+underworld	Underworld		male	https://www.fragrantica.com/perfume/Cosmogony/Underworld-81785.html				pending

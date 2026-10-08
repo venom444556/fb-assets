@@ -1,2 +1,2 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cloudbreath	Cloudbreath		unisex		https://www.fragrantica.com/perfume/Maison-des-Animaux-Fragrances/Cloudbreath-110621.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cloudbreath	Cloudbreath		unisex	https://www.fragrantica.com/perfume/Maison-des-Animaux-Fragrances/Cloudbreath-110621.html				pending

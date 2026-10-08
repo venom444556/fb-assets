@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-garden	Amber Garden		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Amber-Garden-50980.html				pending
-blazing-lily	Blazing Lily		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Blazing-Lily-50982.html				pending
-celtic-rose	Celtic Rose		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Celtic-Rose-50981.html				pending
-dark-papyrus	Dark Papyrus		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Dark-Papyrus-50984.html				pending
-everlasting-dream	Everlasting Dream		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Everlasting-Dream-50985.html				pending
-kingdom	Kingdom		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-1195.html				pending
-kingdom-limited-edition	Kingdom Limited Edition		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-Limited-Edition-2794.html				pending
-kingdom-limited-edition-2004	Kingdom Limited Edition 2004		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-Limited-Edition-2004-2798.html				pending
-kingdom-limited-edition-2005	Kingdom Limited Edition 2005		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-Limited-Edition-2005-2795.html				pending
-kingdom-summer	Kingdom Summer		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-Summer-1293.html				pending
-luminous-orchid	Luminous Orchid		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Luminous-Orchid-50983.html				pending
-mcqueen-eau-blanche	McQueen Eau Blanche		female		https://www.fragrantica.com/perfume/Alexander-McQueen/McQueen-Eau-Blanche-44920.html				pending
-mcqueen-eau-de-parfum	McQueen Eau de Parfum		female		https://www.fragrantica.com/perfume/Alexander-McQueen/McQueen-Eau-de-Parfum-39666.html				pending
-mcqueen-parfum	McQueen Parfum		female		https://www.fragrantica.com/perfume/Alexander-McQueen/McQueen-Parfum-36638.html				pending
-my-queen	My Queen		female		https://www.fragrantica.com/perfume/Alexander-McQueen/My-Queen-1294.html				pending
-my-queen-deluxe-edition	My Queen Deluxe Edition		female		https://www.fragrantica.com/perfume/Alexander-McQueen/My-Queen-Deluxe-Edition-28344.html				pending
-my-queen-light-mist	My Queen Light Mist		female		https://www.fragrantica.com/perfume/Alexander-McQueen/My-Queen-Light-Mist-2796.html				pending
-sacred-osmanthus	Sacred Osmanthus		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Sacred-Osmanthus-50987.html				pending
-vetiver-moss	Vetiver Moss		female		https://www.fragrantica.com/perfume/Alexander-McQueen/Vetiver-Moss-50986.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-garden	Amber Garden		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Amber-Garden-50980.html				pending
+blazing-lily	Blazing Lily		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Blazing-Lily-50982.html				pending
+celtic-rose	Celtic Rose		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Celtic-Rose-50981.html				pending
+dark-papyrus	Dark Papyrus		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Dark-Papyrus-50984.html				pending
+everlasting-dream	Everlasting Dream		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Everlasting-Dream-50985.html				pending
+kingdom	Kingdom		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-1195.html				pending
+kingdom-limited-edition	Kingdom Limited Edition		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-Limited-Edition-2794.html				pending
+kingdom-limited-edition-2004	Kingdom Limited Edition 2004		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-Limited-Edition-2004-2798.html				pending
+kingdom-limited-edition-2005	Kingdom Limited Edition 2005		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-Limited-Edition-2005-2795.html				pending
+kingdom-summer	Kingdom Summer		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Kingdom-Summer-1293.html				pending
+luminous-orchid	Luminous Orchid		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Luminous-Orchid-50983.html				pending
+mcqueen-eau-blanche	McQueen Eau Blanche		female	https://www.fragrantica.com/perfume/Alexander-McQueen/McQueen-Eau-Blanche-44920.html				pending
+mcqueen-eau-de-parfum	McQueen Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Alexander-McQueen/McQueen-Eau-de-Parfum-39666.html				pending
+mcqueen-parfum	McQueen Parfum	Parfum	female	https://www.fragrantica.com/perfume/Alexander-McQueen/McQueen-Parfum-36638.html				pending
+my-queen	My Queen		female	https://www.fragrantica.com/perfume/Alexander-McQueen/My-Queen-1294.html				pending
+my-queen-deluxe-edition	My Queen Deluxe Edition		female	https://www.fragrantica.com/perfume/Alexander-McQueen/My-Queen-Deluxe-Edition-28344.html				pending
+my-queen-light-mist	My Queen Light Mist		female	https://www.fragrantica.com/perfume/Alexander-McQueen/My-Queen-Light-Mist-2796.html				pending
+sacred-osmanthus	Sacred Osmanthus		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Sacred-Osmanthus-50987.html				pending
+vetiver-moss	Vetiver Moss		female	https://www.fragrantica.com/perfume/Alexander-McQueen/Vetiver-Moss-50986.html				pending

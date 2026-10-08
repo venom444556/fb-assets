@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-monarch-red-tobacco-vanilla	Monarch Red Tobacco Vanilla		unisex		https://www.fragrantica.com/perfume/Milestone-Perfumes/Monarch-Red-Tobacco-Vanilla-110642.html				pending
-mouj-jubilee-xxvi	Mouj Jubilee XXVI		unisex		https://www.fragrantica.com/perfume/Milestone-Perfumes/Mouj-Jubilee-XXVI-104777.html				pending
-taxco	Taxco		unisex		https://www.fragrantica.com/perfume/Milestone-Perfumes/Taxco-112721.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+monarch-red-tobacco-vanilla	Monarch Red Tobacco Vanilla		unisex	https://www.fragrantica.com/perfume/Milestone-Perfumes/Monarch-Red-Tobacco-Vanilla-110642.html				pending
+mouj-jubilee-xxvi	Mouj Jubilee XXVI		unisex	https://www.fragrantica.com/perfume/Milestone-Perfumes/Mouj-Jubilee-XXVI-104777.html				pending
+taxco	Taxco		unisex	https://www.fragrantica.com/perfume/Milestone-Perfumes/Taxco-112721.html				pending

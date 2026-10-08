@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-paradise	Paradise		unisex		https://www.fragrantica.com/perfume/Shaneela-Rowah-Al-Qamar/Paradise-43664.html				pending
-the-rose-garden	The Rose Garden		unisex		https://www.fragrantica.com/perfume/Shaneela-Rowah-Al-Qamar/The-Rose-Garden-43666.html				pending
-the-sahara	The Sahara		unisex		https://www.fragrantica.com/perfume/Shaneela-Rowah-Al-Qamar/The-Sahara-43665.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+paradise	Paradise		unisex	https://www.fragrantica.com/perfume/Shaneela-Rowah-Al-Qamar/Paradise-43664.html				pending
+the-rose-garden	The Rose Garden		unisex	https://www.fragrantica.com/perfume/Shaneela-Rowah-Al-Qamar/The-Rose-Garden-43666.html				pending
+the-sahara	The Sahara		unisex	https://www.fragrantica.com/perfume/Shaneela-Rowah-Al-Qamar/The-Sahara-43665.html				pending

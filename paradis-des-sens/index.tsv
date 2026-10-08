@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-arcadia	Arcadia		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Arcadia-62572.html				pending
-bliss	Bliss		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Bliss-62660.html				pending
-celestia	Celestia		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Celestia-82388.html				pending
-cloud-nine	Cloud Nine		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Cloud-Nine-62661.html				pending
-divina	Divina		female		https://www.fragrantica.com/perfume/Paradis-des-Sens/Divina-108549.html				pending
-ecstasy	Ecstasy		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Ecstasy-99564.html				pending
-eden	Eden		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Eden-62666.html				pending
-felicity	Felicity		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Felicity-62665.html				pending
-nirvana	Nirvana		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Nirvana-82389.html				pending
-seven-heaven	Seven Heaven		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Seven-Heaven-82390.html				pending
-utopia	Utopia		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Utopia-62602.html				pending
-valhalla	Valhalla		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Valhalla-87698.html				pending
-wonderland	Wonderland		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Wonderland-62659.html				pending
-xanadu	Xanadu		unisex		https://www.fragrantica.com/perfume/Paradis-des-Sens/Xanadu-95702.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+arcadia	Arcadia		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Arcadia-62572.html				pending
+bliss	Bliss		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Bliss-62660.html				pending
+celestia	Celestia		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Celestia-82388.html				pending
+cloud-nine	Cloud Nine		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Cloud-Nine-62661.html				pending
+divina	Divina		female	https://www.fragrantica.com/perfume/Paradis-des-Sens/Divina-108549.html				pending
+ecstasy	Ecstasy		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Ecstasy-99564.html				pending
+eden	Eden		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Eden-62666.html				pending
+felicity	Felicity		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Felicity-62665.html				pending
+nirvana	Nirvana		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Nirvana-82389.html				pending
+seven-heaven	Seven Heaven		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Seven-Heaven-82390.html				pending
+utopia	Utopia		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Utopia-62602.html				pending
+valhalla	Valhalla		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Valhalla-87698.html				pending
+wonderland	Wonderland		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Wonderland-62659.html				pending
+xanadu	Xanadu		unisex	https://www.fragrantica.com/perfume/Paradis-des-Sens/Xanadu-95702.html				pending

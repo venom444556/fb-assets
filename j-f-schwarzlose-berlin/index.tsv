@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1a-33	1A-33		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/1A-33-18251.html				pending
-20-20	20 / 20		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/20-20-55044.html				pending
-altruist-eau-de-parfum	Altruist Eau de Parfum		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Altruist-Eau-de-Parfum-44273.html				pending
-etrango	Etrango		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Etrango-82032.html				pending
-finale	Finale		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Finale-103112.html				pending
-fougair	Fougair		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Fougair-71790.html				pending
-leder-6	Leder 6		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Leder-6-32294.html				pending
-rausch	Rausch		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Rausch-18253.html				pending
-rosa-centifolia	Rosa Centifolia		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Rosa-Centifolia-77393.html				pending
-trance	Trance		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Trance-18254.html				pending
-treffpunkt-8-uhr	Treffpunkt 8 Uhr		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Treffpunkt-8-Uhr-18252.html				pending
-zeitgeist	Zeitgeist		unisex		https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Zeitgeist-24282.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1a-33	1A-33		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/1A-33-18251.html				pending
+20-20	20 / 20		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/20-20-55044.html				pending
+altruist-eau-de-parfum	Altruist Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Altruist-Eau-de-Parfum-44273.html				pending
+etrango	Etrango		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Etrango-82032.html				pending
+finale	Finale		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Finale-103112.html				pending
+fougair	Fougair		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Fougair-71790.html				pending
+leder-6	Leder 6		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Leder-6-32294.html				pending
+rausch	Rausch		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Rausch-18253.html				pending
+rosa-centifolia	Rosa Centifolia		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Rosa-Centifolia-77393.html				pending
+trance	Trance		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Trance-18254.html				pending
+treffpunkt-8-uhr	Treffpunkt 8 Uhr		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Treffpunkt-8-Uhr-18252.html				pending
+zeitgeist	Zeitgeist		unisex	https://www.fragrantica.com/perfume/J-F-Schwarzlose-Berlin/Zeitgeist-24282.html				pending

@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-romeo-gigli	Romeo Gigli		female		https://www.fragrantica.com/perfume/Romeo-Gigli/Romeo-Gigli-1041.html				pending
-romeo-gigli-man	Romeo Gigli Man		male		https://www.fragrantica.com/perfume/Romeo-Gigli/Romeo-Gigli-Man-9309.html				pending
-romeo-gigli-women	Romeo Gigli Women		female		https://www.fragrantica.com/perfume/Romeo-Gigli/Romeo-Gigli-Women-42327.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+romeo-gigli	Romeo Gigli		female	https://www.fragrantica.com/perfume/Romeo-Gigli/Romeo-Gigli-1041.html				pending
+romeo-gigli-man	Romeo Gigli Man		male	https://www.fragrantica.com/perfume/Romeo-Gigli/Romeo-Gigli-Man-9309.html				pending
+romeo-gigli-women	Romeo Gigli Women		female	https://www.fragrantica.com/perfume/Romeo-Gigli/Romeo-Gigli-Women-42327.html				pending

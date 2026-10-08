@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-happy-hardcore	Happy Hardcore		unisex		https://www.fragrantica.com/perfume/Binaurale/Happy-Hardcore-88971.html				pending
-incident-light	Incident Light		unisex		https://www.fragrantica.com/perfume/Binaurale/Incident-Light-88969.html				pending
-matchbox-romance	Matchbox Romance		unisex		https://www.fragrantica.com/perfume/Binaurale/Matchbox-Romance-102621.html				pending
-petal-jus	Petal Jus		unisex		https://www.fragrantica.com/perfume/Binaurale/Petal-Jus-88972.html				pending
-snowbird	Snowbird		unisex		https://www.fragrantica.com/perfume/Binaurale/Snowbird-113784.html				pending
-supersolid	Supersolid		unisex		https://www.fragrantica.com/perfume/Binaurale/Supersolid-88970.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+happy-hardcore	Happy Hardcore		unisex	https://www.fragrantica.com/perfume/Binaurale/Happy-Hardcore-88971.html				pending
+incident-light	Incident Light		unisex	https://www.fragrantica.com/perfume/Binaurale/Incident-Light-88969.html				pending
+matchbox-romance	Matchbox Romance		unisex	https://www.fragrantica.com/perfume/Binaurale/Matchbox-Romance-102621.html				pending
+petal-jus	Petal Jus		unisex	https://www.fragrantica.com/perfume/Binaurale/Petal-Jus-88972.html				pending
+snowbird	Snowbird		unisex	https://www.fragrantica.com/perfume/Binaurale/Snowbird-113784.html				pending
+supersolid	Supersolid		unisex	https://www.fragrantica.com/perfume/Binaurale/Supersolid-88970.html				pending

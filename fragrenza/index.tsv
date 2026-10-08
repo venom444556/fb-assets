@@ -1,30 +1,30 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adeline	Adeline		unisex		https://www.fragrantica.com/perfume/Fragrenza/Adeline-60693.html				pending
-amarena-cherry	Amarena Cherry		unisex		https://www.fragrantica.com/perfume/Fragrenza/Amarena-Cherry-57977.html				pending
-bomba-di-spezie	Bomba Di Spezie		unisex		https://www.fragrantica.com/perfume/Fragrenza/Bomba-Di-Spezie-53295.html				pending
-bonta	Bontà		unisex		https://www.fragrantica.com/perfume/Fragrenza/Bonta-60701.html				pending
-caramelle-rosse	Caramelle Rosse		unisex		https://www.fragrantica.com/perfume/Fragrenza/Caramelle-Rosse-53281.html				pending
-centigrado	Centigrado		unisex		https://www.fragrantica.com/perfume/Fragrenza/Centigrado-53300.html				pending
-cherasco	Cherasco		unisex		https://www.fragrantica.com/perfume/Fragrenza/Cherasco-53299.html				pending
-chocolat-orchid	Chocolat Orchid		unisex		https://www.fragrantica.com/perfume/Fragrenza/Chocolat-Orchid-60694.html				pending
-divino	Divino		unisex		https://www.fragrantica.com/perfume/Fragrenza/Divino-53294.html				pending
-eau-de-rome	Eau de Rome		unisex		https://www.fragrantica.com/perfume/Fragrenza/Eau-de-Rome-53277.html				pending
-elisi	Elisi		unisex		https://www.fragrantica.com/perfume/Fragrenza/Elisi-53289.html				pending
-erba-speziata	Erba Speziata		unisex		https://www.fragrantica.com/perfume/Fragrenza/Erba-Speziata-60705.html				pending
-incense-memoir-woman	Incense Memoir Woman		female		https://www.fragrantica.com/perfume/Fragrenza/Incense-Memoir-Woman-60703.html				pending
-isha-musk-woman	Isha Musk Woman		female		https://www.fragrantica.com/perfume/Fragrenza/Isha-Musk-Woman-60697.html				pending
-limone-e-vaniglia	Limone e Vaniglia		unisex		https://www.fragrantica.com/perfume/Fragrenza/Limone-e-Vaniglia-57979.html				pending
-lullincense-woman	Lullincense Woman		female		https://www.fragrantica.com/perfume/Fragrenza/Lullincense-Woman-60695.html				pending
-mondo-di-fantasia	Mondo di Fantasia		unisex		https://www.fragrantica.com/perfume/Fragrenza/Mondo-di-Fantasia-60696.html				pending
-naples-dance	Naples Dance		unisex		https://www.fragrantica.com/perfume/Fragrenza/Naples-Dance-53297.html				pending
-oeuvre-i	Oeuvre I		unisex		https://www.fragrantica.com/perfume/Fragrenza/Oeuvre-I-60699.html				pending
-oud-raso	Oud Raso		unisex		https://www.fragrantica.com/perfume/Fragrenza/Oud-Raso-53286.html				pending
-pepper-x-woman	Pepper X Woman		female		https://www.fragrantica.com/perfume/Fragrenza/Pepper-X-Woman-60698.html				pending
-pepperia-woman	Pepperia Woman		female		https://www.fragrantica.com/perfume/Fragrenza/Pepperia-Woman-60702.html				pending
-pietra-blu	Pietra Blu		unisex		https://www.fragrantica.com/perfume/Fragrenza/Pietra-Blu-53291.html				pending
-pinnacle-of-power-woman	Pinnacle of Power Woman		female		https://www.fragrantica.com/perfume/Fragrenza/Pinnacle-of-Power-Woman-60704.html				pending
-selvaggio	Selvaggio		unisex		https://www.fragrantica.com/perfume/Fragrenza/Selvaggio-53293.html				pending
-signorina-miele	Signorina Miele		unisex		https://www.fragrantica.com/perfume/Fragrenza/Signorina-Miele-57978.html				pending
-soprabito	Soprabito		unisex		https://www.fragrantica.com/perfume/Fragrenza/Soprabito-53298.html				pending
-uomo-sportivo	Uomo Sportivo		unisex		https://www.fragrantica.com/perfume/Fragrenza/Uomo-Sportivo-53296.html				pending
-venice-seduction	Venice Seduction		unisex		https://www.fragrantica.com/perfume/Fragrenza/Venice-Seduction-60700.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adeline	Adeline		unisex	https://www.fragrantica.com/perfume/Fragrenza/Adeline-60693.html				pending
+amarena-cherry	Amarena Cherry		unisex	https://www.fragrantica.com/perfume/Fragrenza/Amarena-Cherry-57977.html				pending
+bomba-di-spezie	Bomba Di Spezie		unisex	https://www.fragrantica.com/perfume/Fragrenza/Bomba-Di-Spezie-53295.html				pending
+bonta	Bontà		unisex	https://www.fragrantica.com/perfume/Fragrenza/Bonta-60701.html				pending
+caramelle-rosse	Caramelle Rosse		unisex	https://www.fragrantica.com/perfume/Fragrenza/Caramelle-Rosse-53281.html				pending
+centigrado	Centigrado		unisex	https://www.fragrantica.com/perfume/Fragrenza/Centigrado-53300.html				pending
+cherasco	Cherasco		unisex	https://www.fragrantica.com/perfume/Fragrenza/Cherasco-53299.html				pending
+chocolat-orchid	Chocolat Orchid		unisex	https://www.fragrantica.com/perfume/Fragrenza/Chocolat-Orchid-60694.html				pending
+divino	Divino		unisex	https://www.fragrantica.com/perfume/Fragrenza/Divino-53294.html				pending
+eau-de-rome	Eau de Rome		unisex	https://www.fragrantica.com/perfume/Fragrenza/Eau-de-Rome-53277.html				pending
+elisi	Elisi		unisex	https://www.fragrantica.com/perfume/Fragrenza/Elisi-53289.html				pending
+erba-speziata	Erba Speziata		unisex	https://www.fragrantica.com/perfume/Fragrenza/Erba-Speziata-60705.html				pending
+incense-memoir-woman	Incense Memoir Woman		female	https://www.fragrantica.com/perfume/Fragrenza/Incense-Memoir-Woman-60703.html				pending
+isha-musk-woman	Isha Musk Woman		female	https://www.fragrantica.com/perfume/Fragrenza/Isha-Musk-Woman-60697.html				pending
+limone-e-vaniglia	Limone e Vaniglia		unisex	https://www.fragrantica.com/perfume/Fragrenza/Limone-e-Vaniglia-57979.html				pending
+lullincense-woman	Lullincense Woman		female	https://www.fragrantica.com/perfume/Fragrenza/Lullincense-Woman-60695.html				pending
+mondo-di-fantasia	Mondo di Fantasia		unisex	https://www.fragrantica.com/perfume/Fragrenza/Mondo-di-Fantasia-60696.html				pending
+naples-dance	Naples Dance		unisex	https://www.fragrantica.com/perfume/Fragrenza/Naples-Dance-53297.html				pending
+oeuvre-i	Oeuvre I		unisex	https://www.fragrantica.com/perfume/Fragrenza/Oeuvre-I-60699.html				pending
+oud-raso	Oud Raso		unisex	https://www.fragrantica.com/perfume/Fragrenza/Oud-Raso-53286.html				pending
+pepper-x-woman	Pepper X Woman		female	https://www.fragrantica.com/perfume/Fragrenza/Pepper-X-Woman-60698.html				pending
+pepperia-woman	Pepperia Woman		female	https://www.fragrantica.com/perfume/Fragrenza/Pepperia-Woman-60702.html				pending
+pietra-blu	Pietra Blu		unisex	https://www.fragrantica.com/perfume/Fragrenza/Pietra-Blu-53291.html				pending
+pinnacle-of-power-woman	Pinnacle of Power Woman		female	https://www.fragrantica.com/perfume/Fragrenza/Pinnacle-of-Power-Woman-60704.html				pending
+selvaggio	Selvaggio		unisex	https://www.fragrantica.com/perfume/Fragrenza/Selvaggio-53293.html				pending
+signorina-miele	Signorina Miele		unisex	https://www.fragrantica.com/perfume/Fragrenza/Signorina-Miele-57978.html				pending
+soprabito	Soprabito		unisex	https://www.fragrantica.com/perfume/Fragrenza/Soprabito-53298.html				pending
+uomo-sportivo	Uomo Sportivo		unisex	https://www.fragrantica.com/perfume/Fragrenza/Uomo-Sportivo-53296.html				pending
+venice-seduction	Venice Seduction		unisex	https://www.fragrantica.com/perfume/Fragrenza/Venice-Seduction-60700.html				pending

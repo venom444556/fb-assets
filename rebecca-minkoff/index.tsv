@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-rebecca-minkoff	Rebecca Minkoff		female		https://www.fragrantica.com/perfume/Rebecca-Minkoff/Rebecca-Minkoff-62374.html				pending
-rebecca-minkoff-blush	Rebecca Minkoff Blush		unisex		https://www.fragrantica.com/perfume/Rebecca-Minkoff/Rebecca-Minkoff-Blush-71427.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+rebecca-minkoff	Rebecca Minkoff		female	https://www.fragrantica.com/perfume/Rebecca-Minkoff/Rebecca-Minkoff-62374.html				pending
+rebecca-minkoff-blush	Rebecca Minkoff Blush		unisex	https://www.fragrantica.com/perfume/Rebecca-Minkoff/Rebecca-Minkoff-Blush-71427.html				pending

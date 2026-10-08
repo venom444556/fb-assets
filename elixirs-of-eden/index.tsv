@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-after-dark	After Dark		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/After-Dark-50568.html				pending
-blue-vetiver	Blue Vetiver		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Blue-Vetiver-50562.html				pending
-captain-black	Captain Black		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Captain-Black-50559.html				pending
-dark-musk	Dark Musk		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Dark-Musk-50556.html				pending
-green-valley	Green Valley		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Green-Valley-50567.html				pending
-kingdom	Kingdom		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Kingdom-50566.html				pending
-love-in-red	Love In Red		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Love-In-Red-50557.html				pending
-ocean-breeze	Ocean Breeze		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Ocean-Breeze-50565.html				pending
-pleasure-island	Pleasure Island		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Pleasure-Island-50560.html				pending
-rose-blush	Rose Blush		female		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Rose-Blush-50569.html				pending
-santal-de-imperial	Santal De Imperial		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Santal-De-Imperial-50558.html				pending
-tobacco-absolute	Tobacco Absolute		unisex		https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Tobacco-Absolute-50561.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+after-dark	After Dark		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/After-Dark-50568.html				pending
+blue-vetiver	Blue Vetiver		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Blue-Vetiver-50562.html				pending
+captain-black	Captain Black		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Captain-Black-50559.html				pending
+dark-musk	Dark Musk		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Dark-Musk-50556.html				pending
+green-valley	Green Valley		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Green-Valley-50567.html				pending
+kingdom	Kingdom		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Kingdom-50566.html				pending
+love-in-red	Love In Red		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Love-In-Red-50557.html				pending
+ocean-breeze	Ocean Breeze		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Ocean-Breeze-50565.html				pending
+pleasure-island	Pleasure Island		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Pleasure-Island-50560.html				pending
+rose-blush	Rose Blush		female	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Rose-Blush-50569.html				pending
+santal-de-imperial	Santal De Imperial		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Santal-De-Imperial-50558.html				pending
+tobacco-absolute	Tobacco Absolute		unisex	https://www.fragrantica.com/perfume/Elixirs-Of-Eden/Tobacco-Absolute-50561.html				pending

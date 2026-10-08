@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-berry-blast	Berry Blast		unisex		https://www.fragrantica.com/perfume/Tubbees/Berry-Blast-104509.html				pending
-bubble-gum	Bubble Gum		unisex		https://www.fragrantica.com/perfume/Tubbees/Bubble-Gum-103926.html				pending
-candy-pop	Candy Pop		unisex		https://www.fragrantica.com/perfume/Tubbees/Candy-Pop-104507.html				pending
-chocolate-fudge	Chocolate Fudge		unisex		https://www.fragrantica.com/perfume/Tubbees/Chocolate-Fudge-104110.html				pending
-cookies-and-cream	Cookies & Cream		unisex		https://www.fragrantica.com/perfume/Tubbees/Cookies-Cream-103935.html				pending
-cotton-candy	Cotton Candy		unisex		https://www.fragrantica.com/perfume/Tubbees/Cotton-Candy-103932.html				pending
-dreamy-treats	Dreamy Treats		unisex		https://www.fragrantica.com/perfume/Tubbees/Dreamy-Treats-104508.html				pending
-lemon-a-licious	Lemon-A-Licious		unisex		https://www.fragrantica.com/perfume/Tubbees/Lemon-A-Licious-121295.html				pending
-matcha-made-in-heaven	Matcha Made In Heaven		unisex		https://www.fragrantica.com/perfume/Tubbees/Matcha-Made-In-Heaven-121302.html				pending
-pink-sugar	Pink Sugar		unisex		https://www.fragrantica.com/perfume/Tubbees/Pink-Sugar-104497.html				pending
-strawberry-cheesecake	Strawberry Cheesecake		female		https://www.fragrantica.com/perfume/Tubbees/Strawberry-Cheesecake-103931.html				pending
-sweet-caramel	Sweet Caramel		unisex		https://www.fragrantica.com/perfume/Tubbees/Sweet-Caramel-104505.html				pending
-tira-miss-you	Tira Miss You		unisex		https://www.fragrantica.com/perfume/Tubbees/Tira-Miss-You-121292.html				pending
-tres-leches	Tres Leches		unisex		https://www.fragrantica.com/perfume/Tubbees/Tres-Leches-121298.html				pending
-unicorn-vanilla	Unicorn Vanilla		unisex		https://www.fragrantica.com/perfume/Tubbees/Unicorn-Vanilla-103934.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+berry-blast	Berry Blast		unisex	https://www.fragrantica.com/perfume/Tubbees/Berry-Blast-104509.html				pending
+bubble-gum	Bubble Gum		unisex	https://www.fragrantica.com/perfume/Tubbees/Bubble-Gum-103926.html				pending
+candy-pop	Candy Pop		unisex	https://www.fragrantica.com/perfume/Tubbees/Candy-Pop-104507.html				pending
+chocolate-fudge	Chocolate Fudge		unisex	https://www.fragrantica.com/perfume/Tubbees/Chocolate-Fudge-104110.html				pending
+cookies-and-cream	Cookies & Cream		unisex	https://www.fragrantica.com/perfume/Tubbees/Cookies-Cream-103935.html				pending
+cotton-candy	Cotton Candy		unisex	https://www.fragrantica.com/perfume/Tubbees/Cotton-Candy-103932.html				pending
+dreamy-treats	Dreamy Treats		unisex	https://www.fragrantica.com/perfume/Tubbees/Dreamy-Treats-104508.html				pending
+lemon-a-licious	Lemon-A-Licious		unisex	https://www.fragrantica.com/perfume/Tubbees/Lemon-A-Licious-121295.html				pending
+matcha-made-in-heaven	Matcha Made In Heaven		unisex	https://www.fragrantica.com/perfume/Tubbees/Matcha-Made-In-Heaven-121302.html				pending
+pink-sugar	Pink Sugar		unisex	https://www.fragrantica.com/perfume/Tubbees/Pink-Sugar-104497.html				pending
+strawberry-cheesecake	Strawberry Cheesecake		female	https://www.fragrantica.com/perfume/Tubbees/Strawberry-Cheesecake-103931.html				pending
+sweet-caramel	Sweet Caramel		unisex	https://www.fragrantica.com/perfume/Tubbees/Sweet-Caramel-104505.html				pending
+tira-miss-you	Tira Miss You		unisex	https://www.fragrantica.com/perfume/Tubbees/Tira-Miss-You-121292.html				pending
+tres-leches	Tres Leches		unisex	https://www.fragrantica.com/perfume/Tubbees/Tres-Leches-121298.html				pending
+unicorn-vanilla	Unicorn Vanilla		unisex	https://www.fragrantica.com/perfume/Tubbees/Unicorn-Vanilla-103934.html				pending

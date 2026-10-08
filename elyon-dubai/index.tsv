@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aria	Aria		unisex		https://www.fragrantica.com/perfume/Elyon-Dubai/Aria-119375.html				pending
-himeros	Himeros		unisex		https://www.fragrantica.com/perfume/Elyon-Dubai/Himeros-119377.html				pending
-infinity	Infinity		unisex		https://www.fragrantica.com/perfume/Elyon-Dubai/Infinity-119376.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aria	Aria		unisex	https://www.fragrantica.com/perfume/Elyon-Dubai/Aria-119375.html				pending
+himeros	Himeros		unisex	https://www.fragrantica.com/perfume/Elyon-Dubai/Himeros-119377.html				pending
+infinity	Infinity		unisex	https://www.fragrantica.com/perfume/Elyon-Dubai/Infinity-119376.html				pending

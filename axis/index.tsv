@@ -1,43 +1,43 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amethyst-caviar	Amethyst Caviar		female		https://www.fragrantica.com/perfume/Axis/Amethyst-Caviar-13206.html				pending
-axis	Axis		female		https://www.fragrantica.com/perfume/Axis/Axis-19336.html				pending
-axis-black	Axis Black		male		https://www.fragrantica.com/perfume/Axis/Axis-Black-19339.html				pending
-axis-black-caviar	Axis Black Caviar		male		https://www.fragrantica.com/perfume/Axis/Axis-Black-Caviar-12168.html				pending
-axis-blue	Axis Blue		male		https://www.fragrantica.com/perfume/Axis/Axis-Blue-12325.html				pending
-axis-caviar-premium	Axis Caviar Premium		male		https://www.fragrantica.com/perfume/Axis/Axis-Caviar-Premium-13204.html				pending
-axis-caviar-ultimate	Axis Caviar Ultimate		male		https://www.fragrantica.com/perfume/Axis/Axis-Caviar-Ultimate-23213.html				pending
-axis-diamond	Axis Diamond		female		https://www.fragrantica.com/perfume/Axis/Axis-Diamond-23215.html				pending
-axis-diamond-lovely	Axis Diamond Lovely		female		https://www.fragrantica.com/perfume/Axis/Axis-Diamond-Lovely-23216.html				pending
-axis-diamond-sensual	Axis Diamond Sensual		female		https://www.fragrantica.com/perfume/Axis/Axis-Diamond-Sensual-23217.html				pending
-axis-elegant	Axis Elegant		female		https://www.fragrantica.com/perfume/Axis/Axis-Elegant-46765.html				pending
-axis-emotion	Axis Emotion		female		https://www.fragrantica.com/perfume/Axis/Axis-Emotion-12327.html				pending
-axis-extreme	Axis Extreme		female		https://www.fragrantica.com/perfume/Axis/Axis-Extreme-23212.html				pending
-axis-floral	Axis Floral		female		https://www.fragrantica.com/perfume/Axis/Axis-Floral-23211.html				pending
-axis-forever	Axis Forever		female		https://www.fragrantica.com/perfume/Axis/Axis-Forever-12335.html				pending
-axis-glam	Axis Glam		female		https://www.fragrantica.com/perfume/Axis/Axis-Glam-23207.html				pending
-axis-grand-prix-no-98	Axis Grand Prix No 98		male		https://www.fragrantica.com/perfume/Axis/Axis-Grand-Prix-No-98-13203.html				pending
-axis-illusion	Axis Illusion		male		https://www.fragrantica.com/perfume/Axis/Axis-Illusion-12331.html				pending
-axis-lesprit	Axis L'esprit		female		https://www.fragrantica.com/perfume/Axis/Axis-L-esprit-19342.html				pending
-axis-love	Axis Love		female		https://www.fragrantica.com/perfume/Axis/Axis-Love-23210.html				pending
-axis-mirage	Axis Mirage		male		https://www.fragrantica.com/perfume/Axis/Axis-Mirage-23214.html				pending
-axis-miroir	Axis Miroir		female		https://www.fragrantica.com/perfume/Axis/Axis-Miroir-12326.html				pending
-axis-mon-amour-apricot	Axis Mon Amour Apricot		female		https://www.fragrantica.com/perfume/Axis/Axis-Mon-Amour-Apricot-12336.html				pending
-axis-mon-amour-blue	Axis Mon Amour Blue		female		https://www.fragrantica.com/perfume/Axis/Axis-Mon-Amour-Blue-19337.html				pending
-axis-mon-amour-pink	Axis Mon Amour Pink		female		https://www.fragrantica.com/perfume/Axis/Axis-Mon-Amour-Pink-19338.html				pending
-axis-original	Axis Original		female		https://www.fragrantica.com/perfume/Axis/Axis-Original-12334.html				pending
-axis-parma	Axis Parma		female		https://www.fragrantica.com/perfume/Axis/Axis-Parma-12329.html				pending
-axis-passion	Axis Passion		female		https://www.fragrantica.com/perfume/Axis/Axis-Passion-12337.html				pending
-axis-pink	Axis Pink		female		https://www.fragrantica.com/perfume/Axis/Axis-Pink-12328.html				pending
-axis-pink-caviar	Axis Pink Caviar		female		https://www.fragrantica.com/perfume/Axis/Axis-Pink-Caviar-12333.html				pending
-axis-pour-homme	Axis pour Homme		male		https://www.fragrantica.com/perfume/Axis/Axis-pour-Homme-19340.html				pending
-axis-red-caviar	Axis Red Caviar		female		https://www.fragrantica.com/perfume/Axis/Axis-Red-Caviar-12330.html				pending
-axis-sand	Axis Sand		male		https://www.fragrantica.com/perfume/Axis/Axis-Sand-23208.html				pending
-axis-so-precious	Axis So Precious		female		https://www.fragrantica.com/perfume/Axis/Axis-So-Precious-12332.html				pending
-axis-wild	Axis Wild		male		https://www.fragrantica.com/perfume/Axis/Axis-Wild-23209.html				pending
-blue-caviar	Blue Caviar		male		https://www.fragrantica.com/perfume/Axis/Blue-Caviar-13205.html				pending
-caviar-grand-prix-no-20	Caviar Grand Prix No 20		male		https://www.fragrantica.com/perfume/Axis/Caviar-Grand-Prix-No-20-13202.html				pending
-floral-bouquet	Floral Bouquet		female		https://www.fragrantica.com/perfume/Axis/Floral-Bouquet-38621.html				pending
-midnight	Midnight		male		https://www.fragrantica.com/perfume/Axis/Midnight-38619.html				pending
-octane	Octane		male		https://www.fragrantica.com/perfume/Axis/Octane-19341.html				pending
-oud	Oud		male		https://www.fragrantica.com/perfume/Axis/Oud-38620.html				pending
-winner	Winner		male		https://www.fragrantica.com/perfume/Axis/Winner-38618.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amethyst-caviar	Amethyst Caviar		female	https://www.fragrantica.com/perfume/Axis/Amethyst-Caviar-13206.html				pending
+axis	Axis		female	https://www.fragrantica.com/perfume/Axis/Axis-19336.html				pending
+axis-black	Axis Black		male	https://www.fragrantica.com/perfume/Axis/Axis-Black-19339.html				pending
+axis-black-caviar	Axis Black Caviar		male	https://www.fragrantica.com/perfume/Axis/Axis-Black-Caviar-12168.html				pending
+axis-blue	Axis Blue		male	https://www.fragrantica.com/perfume/Axis/Axis-Blue-12325.html				pending
+axis-caviar-premium	Axis Caviar Premium		male	https://www.fragrantica.com/perfume/Axis/Axis-Caviar-Premium-13204.html				pending
+axis-caviar-ultimate	Axis Caviar Ultimate		male	https://www.fragrantica.com/perfume/Axis/Axis-Caviar-Ultimate-23213.html				pending
+axis-diamond	Axis Diamond		female	https://www.fragrantica.com/perfume/Axis/Axis-Diamond-23215.html				pending
+axis-diamond-lovely	Axis Diamond Lovely		female	https://www.fragrantica.com/perfume/Axis/Axis-Diamond-Lovely-23216.html				pending
+axis-diamond-sensual	Axis Diamond Sensual		female	https://www.fragrantica.com/perfume/Axis/Axis-Diamond-Sensual-23217.html				pending
+axis-elegant	Axis Elegant		female	https://www.fragrantica.com/perfume/Axis/Axis-Elegant-46765.html				pending
+axis-emotion	Axis Emotion		female	https://www.fragrantica.com/perfume/Axis/Axis-Emotion-12327.html				pending
+axis-extreme	Axis Extreme		female	https://www.fragrantica.com/perfume/Axis/Axis-Extreme-23212.html				pending
+axis-floral	Axis Floral		female	https://www.fragrantica.com/perfume/Axis/Axis-Floral-23211.html				pending
+axis-forever	Axis Forever		female	https://www.fragrantica.com/perfume/Axis/Axis-Forever-12335.html				pending
+axis-glam	Axis Glam		female	https://www.fragrantica.com/perfume/Axis/Axis-Glam-23207.html				pending
+axis-grand-prix-no-98	Axis Grand Prix No 98		male	https://www.fragrantica.com/perfume/Axis/Axis-Grand-Prix-No-98-13203.html				pending
+axis-illusion	Axis Illusion		male	https://www.fragrantica.com/perfume/Axis/Axis-Illusion-12331.html				pending
+axis-lesprit	Axis L'esprit		female	https://www.fragrantica.com/perfume/Axis/Axis-L-esprit-19342.html				pending
+axis-love	Axis Love		female	https://www.fragrantica.com/perfume/Axis/Axis-Love-23210.html				pending
+axis-mirage	Axis Mirage		male	https://www.fragrantica.com/perfume/Axis/Axis-Mirage-23214.html				pending
+axis-miroir	Axis Miroir		female	https://www.fragrantica.com/perfume/Axis/Axis-Miroir-12326.html				pending
+axis-mon-amour-apricot	Axis Mon Amour Apricot		female	https://www.fragrantica.com/perfume/Axis/Axis-Mon-Amour-Apricot-12336.html				pending
+axis-mon-amour-blue	Axis Mon Amour Blue		female	https://www.fragrantica.com/perfume/Axis/Axis-Mon-Amour-Blue-19337.html				pending
+axis-mon-amour-pink	Axis Mon Amour Pink		female	https://www.fragrantica.com/perfume/Axis/Axis-Mon-Amour-Pink-19338.html				pending
+axis-original	Axis Original		female	https://www.fragrantica.com/perfume/Axis/Axis-Original-12334.html				pending
+axis-parma	Axis Parma		female	https://www.fragrantica.com/perfume/Axis/Axis-Parma-12329.html				pending
+axis-passion	Axis Passion		female	https://www.fragrantica.com/perfume/Axis/Axis-Passion-12337.html				pending
+axis-pink	Axis Pink		female	https://www.fragrantica.com/perfume/Axis/Axis-Pink-12328.html				pending
+axis-pink-caviar	Axis Pink Caviar		female	https://www.fragrantica.com/perfume/Axis/Axis-Pink-Caviar-12333.html				pending
+axis-pour-homme	Axis pour Homme		male	https://www.fragrantica.com/perfume/Axis/Axis-pour-Homme-19340.html				pending
+axis-red-caviar	Axis Red Caviar		female	https://www.fragrantica.com/perfume/Axis/Axis-Red-Caviar-12330.html				pending
+axis-sand	Axis Sand		male	https://www.fragrantica.com/perfume/Axis/Axis-Sand-23208.html				pending
+axis-so-precious	Axis So Precious		female	https://www.fragrantica.com/perfume/Axis/Axis-So-Precious-12332.html				pending
+axis-wild	Axis Wild		male	https://www.fragrantica.com/perfume/Axis/Axis-Wild-23209.html				pending
+blue-caviar	Blue Caviar		male	https://www.fragrantica.com/perfume/Axis/Blue-Caviar-13205.html				pending
+caviar-grand-prix-no-20	Caviar Grand Prix No 20		male	https://www.fragrantica.com/perfume/Axis/Caviar-Grand-Prix-No-20-13202.html				pending
+floral-bouquet	Floral Bouquet		female	https://www.fragrantica.com/perfume/Axis/Floral-Bouquet-38621.html				pending
+midnight	Midnight		male	https://www.fragrantica.com/perfume/Axis/Midnight-38619.html				pending
+octane	Octane		male	https://www.fragrantica.com/perfume/Axis/Octane-19341.html				pending
+oud	Oud		male	https://www.fragrantica.com/perfume/Axis/Oud-38620.html				pending
+winner	Winner		male	https://www.fragrantica.com/perfume/Axis/Winner-38618.html				pending

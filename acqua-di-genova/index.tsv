@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1853-lady	1853 Lady		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/1853-Lady-15063.html				pending
-1853-man	1853 Man		male		https://www.fragrantica.com/perfume/Acqua-di-Genova/1853-Man-15064.html				pending
-bougainvellea	Bougainvellea		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Bougainvellea-15051.html				pending
-colonia-classica	Colonia Classica		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Colonia-Classica-5251.html				pending
-contessa-di-castiglione-lady-gold	Contessa di Castiglione Lady Gold		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Contessa-di-Castiglione-Lady-Gold-45103.html				pending
-contessa-di-castiglione-lady-silver	Contessa di Castiglione Lady Silver		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Contessa-di-Castiglione-Lady-Silver-45102.html				pending
-fontana-di-trevi-xii	Fontana di Trevi XII		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Fontana-di-Trevi-XII-10121.html				pending
-fontana-di-trevi-xiv	Fontana di Trevi XIV		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Fontana-di-Trevi-XIV-40407.html				pending
-fontana-di-trevi-xvi	Fontana di Trevi XVI		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Fontana-di-Trevi-XVI-40409.html				pending
-fontana-di-trevi-xviii	Fontana di Trevi XVIII		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Fontana-di-Trevi-XVIII-40406.html				pending
-fresh	Fresh		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Fresh-40408.html				pending
-genes	Genes		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Genes-12209.html				pending
-gold	Gold		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Gold-5263.html				pending
-gold-2	Gold 2		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Gold-2-40410.html				pending
-gold-plate-city-of-new-york-1974	Gold Plate City of New York 1974		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Gold-Plate-City-of-New-York-1974-15065.html				pending
-mora-di-gelso	Mora Di Gelso		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Mora-Di-Gelso-15061.html				pending
-mughetto	Mughetto		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Mughetto-15053.html				pending
-rovo-nero	Rovo Nero		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Rovo-Nero-15062.html				pending
-silver	Silver		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Silver-5262.html				pending
-silver-2	Silver 2		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Silver-2-40411.html				pending
-tuberosa	Tuberosa		unisex		https://www.fragrantica.com/perfume/Acqua-di-Genova/Tuberosa-15060.html				pending
-violetta-extreme	Violetta Extreme		female		https://www.fragrantica.com/perfume/Acqua-di-Genova/Violetta-Extreme-15052.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1853-lady	1853 Lady		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/1853-Lady-15063.html				pending
+1853-man	1853 Man		male	https://www.fragrantica.com/perfume/Acqua-di-Genova/1853-Man-15064.html				pending
+bougainvellea	Bougainvellea		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Bougainvellea-15051.html				pending
+colonia-classica	Colonia Classica		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Colonia-Classica-5251.html				pending
+contessa-di-castiglione-lady-gold	Contessa di Castiglione Lady Gold		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Contessa-di-Castiglione-Lady-Gold-45103.html				pending
+contessa-di-castiglione-lady-silver	Contessa di Castiglione Lady Silver		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Contessa-di-Castiglione-Lady-Silver-45102.html				pending
+fontana-di-trevi-xii	Fontana di Trevi XII		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Fontana-di-Trevi-XII-10121.html				pending
+fontana-di-trevi-xiv	Fontana di Trevi XIV		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Fontana-di-Trevi-XIV-40407.html				pending
+fontana-di-trevi-xvi	Fontana di Trevi XVI		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Fontana-di-Trevi-XVI-40409.html				pending
+fontana-di-trevi-xviii	Fontana di Trevi XVIII		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Fontana-di-Trevi-XVIII-40406.html				pending
+fresh	Fresh		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Fresh-40408.html				pending
+genes	Genes		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Genes-12209.html				pending
+gold	Gold		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Gold-5263.html				pending
+gold-2	Gold 2		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Gold-2-40410.html				pending
+gold-plate-city-of-new-york-1974	Gold Plate City of New York 1974		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Gold-Plate-City-of-New-York-1974-15065.html				pending
+mora-di-gelso	Mora Di Gelso		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Mora-Di-Gelso-15061.html				pending
+mughetto	Mughetto		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Mughetto-15053.html				pending
+rovo-nero	Rovo Nero		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Rovo-Nero-15062.html				pending
+silver	Silver		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Silver-5262.html				pending
+silver-2	Silver 2		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Silver-2-40411.html				pending
+tuberosa	Tuberosa		unisex	https://www.fragrantica.com/perfume/Acqua-di-Genova/Tuberosa-15060.html				pending
+violetta-extreme	Violetta Extreme		female	https://www.fragrantica.com/perfume/Acqua-di-Genova/Violetta-Extreme-15052.html				pending

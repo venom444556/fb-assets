@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-07738	07738		unisex		https://www.fragrantica.com/perfume/Bogue/07738-53703.html				pending
-10	10		unisex		https://www.fragrantica.com/perfume/Bogue/10-77254.html				pending
-20	20		unisex		https://www.fragrantica.com/perfume/Bogue/20-77255.html				pending
-ag	AG		unisex		https://www.fragrantica.com/perfume/Bogue/AG-70057.html				pending
-castello	Castello		unisex		https://www.fragrantica.com/perfume/Bogue/Castello-44964.html				pending
-cologne-reloaded	Cologne Reloaded		male		https://www.fragrantica.com/perfume/Bogue/Cologne-Reloaded-26680.html				pending
-come	Come		unisex		https://www.fragrantica.com/perfume/Bogue/Come-113321.html				pending
-douleur	Douleur		unisex		https://www.fragrantica.com/perfume/Bogue/Douleur-57870.html				pending
-douleur-2	Douleur!2		unisex		https://www.fragrantica.com/perfume/Bogue/Douleur-2-64545.html				pending
-eau-de	Eau d’E		unisex		https://www.fragrantica.com/perfume/Bogue/Eau-d-E-26705.html				pending
-gardelia	Gardelia		unisex		https://www.fragrantica.com/perfume/Bogue/Gardelia-36702.html				pending
-i-love-yy	I Love YY		unisex		https://www.fragrantica.com/perfume/Bogue/I-Love-YY-57869.html				pending
-il-dieci-x	Il Dieci X		unisex		https://www.fragrantica.com/perfume/Bogue/Il-Dieci-X-57871.html				pending
-ker	KER		unisex		https://www.fragrantica.com/perfume/Bogue/KER-44949.html				pending
-lita	Lita		unisex		https://www.fragrantica.com/perfume/Bogue/Lita-64384.html				pending
-maai	Maai		unisex		https://www.fragrantica.com/perfume/Bogue/Maai-26681.html				pending
-mem	MEM		unisex		https://www.fragrantica.com/perfume/Bogue/MEM-45550.html				pending
-noun	Noun		unisex		https://www.fragrantica.com/perfume/Bogue/Noun-48326.html				pending
-oe	OE		unisex		https://www.fragrantica.com/perfume/Bogue/OE-44948.html				pending
-oooh	OOOH		unisex		https://www.fragrantica.com/perfume/Bogue/OOOH-60433.html				pending
-piazza-arnaldo	Piazza Arnaldo		unisex		https://www.fragrantica.com/perfume/Bogue/Piazza-Arnaldo-44966.html				pending
-piazza-duomo	Piazza Duomo		unisex		https://www.fragrantica.com/perfume/Bogue/Piazza-Duomo-44965.html				pending
-piazza-garibaldi	Piazza Garibaldi		unisex		https://www.fragrantica.com/perfume/Bogue/Piazza-Garibaldi-44967.html				pending
-piazza-mercato	Piazza Mercato		unisex		https://www.fragrantica.com/perfume/Bogue/Piazza-Mercato-44968.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+07738	07738		unisex	https://www.fragrantica.com/perfume/Bogue/07738-53703.html				pending
+10	10		unisex	https://www.fragrantica.com/perfume/Bogue/10-77254.html				pending
+20	20		unisex	https://www.fragrantica.com/perfume/Bogue/20-77255.html				pending
+ag	AG		unisex	https://www.fragrantica.com/perfume/Bogue/AG-70057.html				pending
+castello	Castello		unisex	https://www.fragrantica.com/perfume/Bogue/Castello-44964.html				pending
+cologne-reloaded	Cologne Reloaded		male	https://www.fragrantica.com/perfume/Bogue/Cologne-Reloaded-26680.html				pending
+come	Come		unisex	https://www.fragrantica.com/perfume/Bogue/Come-113321.html				pending
+douleur	Douleur		unisex	https://www.fragrantica.com/perfume/Bogue/Douleur-57870.html				pending
+douleur-2	Douleur!2		unisex	https://www.fragrantica.com/perfume/Bogue/Douleur-2-64545.html				pending
+eau-de	Eau d’E		unisex	https://www.fragrantica.com/perfume/Bogue/Eau-d-E-26705.html				pending
+gardelia	Gardelia		unisex	https://www.fragrantica.com/perfume/Bogue/Gardelia-36702.html				pending
+i-love-yy	I Love YY		unisex	https://www.fragrantica.com/perfume/Bogue/I-Love-YY-57869.html				pending
+il-dieci-x	Il Dieci X		unisex	https://www.fragrantica.com/perfume/Bogue/Il-Dieci-X-57871.html				pending
+ker	KER		unisex	https://www.fragrantica.com/perfume/Bogue/KER-44949.html				pending
+lita	Lita		unisex	https://www.fragrantica.com/perfume/Bogue/Lita-64384.html				pending
+maai	Maai		unisex	https://www.fragrantica.com/perfume/Bogue/Maai-26681.html				pending
+mem	MEM		unisex	https://www.fragrantica.com/perfume/Bogue/MEM-45550.html				pending
+noun	Noun		unisex	https://www.fragrantica.com/perfume/Bogue/Noun-48326.html				pending
+oe	OE		unisex	https://www.fragrantica.com/perfume/Bogue/OE-44948.html				pending
+oooh	OOOH		unisex	https://www.fragrantica.com/perfume/Bogue/OOOH-60433.html				pending
+piazza-arnaldo	Piazza Arnaldo		unisex	https://www.fragrantica.com/perfume/Bogue/Piazza-Arnaldo-44966.html				pending
+piazza-duomo	Piazza Duomo		unisex	https://www.fragrantica.com/perfume/Bogue/Piazza-Duomo-44965.html				pending
+piazza-garibaldi	Piazza Garibaldi		unisex	https://www.fragrantica.com/perfume/Bogue/Piazza-Garibaldi-44967.html				pending
+piazza-mercato	Piazza Mercato		unisex	https://www.fragrantica.com/perfume/Bogue/Piazza-Mercato-44968.html				pending

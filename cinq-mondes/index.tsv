@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-eau-egyptienne	Eau Egyptienne		female		https://www.fragrantica.com/perfume/Cinq-Mondes/Eau-Egyptienne-4924.html				pending
-eau-egyptienne-limited-edition	Eau Egyptienne Limited Edition		female		https://www.fragrantica.com/perfume/Cinq-Mondes/Eau-Egyptienne-Limited-Edition-4925.html				pending
-huile-somptueuse-de-lorient	Huile Somptueuse de l'Orient		female		https://www.fragrantica.com/perfume/Cinq-Mondes/Huile-Somptueuse-de-l-Orient-10128.html				pending
-jardins-de-carthage	Jardins de Carthage		female		https://www.fragrantica.com/perfume/Cinq-Mondes/Jardins-de-Carthage-10125.html				pending
-pluie-de-petales-de-fleurs-doranger	Pluie de Pétales de Fleurs d'Oranger		female		https://www.fragrantica.com/perfume/Cinq-Mondes/Pluie-de-Petales-de-Fleurs-d-Oranger-10129.html				pending
-pluie-de-petales-de-roses	Pluie de Pétales de Roses		female		https://www.fragrantica.com/perfume/Cinq-Mondes/Pluie-de-Petales-de-Roses-10130.html				pending
-rituel-de-bengalore	Rituel de Bengalore		unisex		https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-de-Bengalore-7928.html				pending
-rituel-de-java	Rituel de Java		male		https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-de-Java-7925.html				pending
-rituel-de-kyoto	Rituel de Kyoto		female		https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-de-Kyoto-7924.html				pending
-rituel-de-latlas	Rituel de l'Atlas		unisex		https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-de-l-Atlas-7926.html				pending
-rituel-du-siam	Rituel du Siam		unisex		https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-du-Siam-7927.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+eau-egyptienne	Eau Egyptienne		female	https://www.fragrantica.com/perfume/Cinq-Mondes/Eau-Egyptienne-4924.html				pending
+eau-egyptienne-limited-edition	Eau Egyptienne Limited Edition		female	https://www.fragrantica.com/perfume/Cinq-Mondes/Eau-Egyptienne-Limited-Edition-4925.html				pending
+huile-somptueuse-de-lorient	Huile Somptueuse de l'Orient		female	https://www.fragrantica.com/perfume/Cinq-Mondes/Huile-Somptueuse-de-l-Orient-10128.html				pending
+jardins-de-carthage	Jardins de Carthage		female	https://www.fragrantica.com/perfume/Cinq-Mondes/Jardins-de-Carthage-10125.html				pending
+pluie-de-petales-de-fleurs-doranger	Pluie de Pétales de Fleurs d'Oranger		female	https://www.fragrantica.com/perfume/Cinq-Mondes/Pluie-de-Petales-de-Fleurs-d-Oranger-10129.html				pending
+pluie-de-petales-de-roses	Pluie de Pétales de Roses		female	https://www.fragrantica.com/perfume/Cinq-Mondes/Pluie-de-Petales-de-Roses-10130.html				pending
+rituel-de-bengalore	Rituel de Bengalore		unisex	https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-de-Bengalore-7928.html				pending
+rituel-de-java	Rituel de Java		male	https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-de-Java-7925.html				pending
+rituel-de-kyoto	Rituel de Kyoto		female	https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-de-Kyoto-7924.html				pending
+rituel-de-latlas	Rituel de l'Atlas		unisex	https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-de-l-Atlas-7926.html				pending
+rituel-du-siam	Rituel du Siam		unisex	https://www.fragrantica.com/perfume/Cinq-Mondes/Rituel-du-Siam-7927.html				pending

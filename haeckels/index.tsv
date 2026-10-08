@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-10-22-36-e-510-23-5-n	10 22 36 E 510 23 5 N		unisex		https://www.fragrantica.com/perfume/Haeckels/10-22-36-E-510-23-5-N-48294.html				pending
-10-24-9-e-510-23-34-n	10 24 9 E 510 23 34 N		unisex		https://www.fragrantica.com/perfume/Haeckels/10-24-9-E-510-23-34-N-48293.html				pending
-510-17-32-n-10-19-51-e	510 17 32 N 10 19 51 E		unisex		https://www.fragrantica.com/perfume/Haeckels/510-17-32-N-10-19-51-E-48296.html				pending
-510-19-9-n-10-21-30-e	510 19 9 N 10 21 30 E		unisex		https://www.fragrantica.com/perfume/Haeckels/510-19-9-N-10-21-30-E-48299.html				pending
-510-20-19-n-10-8-27-e	510 20 19 N 10 8 27 E		unisex		https://www.fragrantica.com/perfume/Haeckels/510-20-19-N-10-8-27-E-48297.html				pending
-510-22-17-n-10-22-41-e	510 22 17 N 10 22 41 E		unisex		https://www.fragrantica.com/perfume/Haeckels/510-22-17-N-10-22-41-E-48295.html				pending
-510-22-46-n-10-12-0-e	510 22 46 N 10 12 0 E		unisex		https://www.fragrantica.com/perfume/Haeckels/510-22-46-N-10-12-0-E-48300.html				pending
-510-23-19-n-10-26-3-e	510 23 19 N 10 26 3 E		unisex		https://www.fragrantica.com/perfume/Haeckels/510-23-19-N-10-26-3-E-48298.html				pending
-elizabeth-street	Elizabeth Street		unisex		https://www.fragrantica.com/perfume/Haeckels/Elizabeth-Street-48302.html				pending
-queen-street	Queen Street		unisex		https://www.fragrantica.com/perfume/Haeckels/Queen-Street-48301.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+10-22-36-e-510-23-5-n	10 22 36 E 510 23 5 N		unisex	https://www.fragrantica.com/perfume/Haeckels/10-22-36-E-510-23-5-N-48294.html				pending
+10-24-9-e-510-23-34-n	10 24 9 E 510 23 34 N		unisex	https://www.fragrantica.com/perfume/Haeckels/10-24-9-E-510-23-34-N-48293.html				pending
+510-17-32-n-10-19-51-e	510 17 32 N 10 19 51 E		unisex	https://www.fragrantica.com/perfume/Haeckels/510-17-32-N-10-19-51-E-48296.html				pending
+510-19-9-n-10-21-30-e	510 19 9 N 10 21 30 E		unisex	https://www.fragrantica.com/perfume/Haeckels/510-19-9-N-10-21-30-E-48299.html				pending
+510-20-19-n-10-8-27-e	510 20 19 N 10 8 27 E		unisex	https://www.fragrantica.com/perfume/Haeckels/510-20-19-N-10-8-27-E-48297.html				pending
+510-22-17-n-10-22-41-e	510 22 17 N 10 22 41 E		unisex	https://www.fragrantica.com/perfume/Haeckels/510-22-17-N-10-22-41-E-48295.html				pending
+510-22-46-n-10-12-0-e	510 22 46 N 10 12 0 E		unisex	https://www.fragrantica.com/perfume/Haeckels/510-22-46-N-10-12-0-E-48300.html				pending
+510-23-19-n-10-26-3-e	510 23 19 N 10 26 3 E		unisex	https://www.fragrantica.com/perfume/Haeckels/510-23-19-N-10-26-3-E-48298.html				pending
+elizabeth-street	Elizabeth Street		unisex	https://www.fragrantica.com/perfume/Haeckels/Elizabeth-Street-48302.html				pending
+queen-street	Queen Street		unisex	https://www.fragrantica.com/perfume/Haeckels/Queen-Street-48301.html				pending

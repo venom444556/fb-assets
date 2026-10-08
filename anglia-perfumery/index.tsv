@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber	Amber		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Amber-18428.html				pending
-anglia	Anglia		female		https://www.fragrantica.com/perfume/Anglia-Perfumery/Anglia-18421.html				pending
-crown-of-gold	Crown of Gold		female		https://www.fragrantica.com/perfume/Anglia-Perfumery/Crown-of-Gold-18422.html				pending
-duncan	Duncan		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Duncan-18429.html				pending
-imperial-lime	Imperial Lime		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Imperial-Lime-18430.html				pending
-isle-of-man	Isle of Man		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Isle-of-Man-18431.html				pending
-marquis	Marquis		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Marquis-18432.html				pending
-oriental-flowers	Oriental Flowers		female		https://www.fragrantica.com/perfume/Anglia-Perfumery/Oriental-Flowers-18423.html				pending
-park-royal	Park Royal		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Park-Royal-18433.html				pending
-patchouli	Patchouli		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Patchouli-18434.html				pending
-queens	Queen's		female		https://www.fragrantica.com/perfume/Anglia-Perfumery/Queen-s-18424.html				pending
-richmond	Richmond		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Richmond-18435.html				pending
-royal-court	Royal Court		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Royal-Court-18436.html				pending
-russian-water	Russian Water		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Russian-Water-18437.html				pending
-sissinghurst	Sissinghurst		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Sissinghurst-18438.html				pending
-somerset	Somerset		unisex		https://www.fragrantica.com/perfume/Anglia-Perfumery/Somerset-18425.html				pending
-spiced-limes	Spiced Limes		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Spiced-Limes-18439.html				pending
-strand	Strand		male		https://www.fragrantica.com/perfume/Anglia-Perfumery/Strand-18440.html				pending
-velvet-rose	Velvet Rose		female		https://www.fragrantica.com/perfume/Anglia-Perfumery/Velvet-Rose-18426.html				pending
-wedding-bouquet	Wedding Bouquet		female		https://www.fragrantica.com/perfume/Anglia-Perfumery/Wedding-Bouquet-18427.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber	Amber		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Amber-18428.html				pending
+anglia	Anglia		female	https://www.fragrantica.com/perfume/Anglia-Perfumery/Anglia-18421.html				pending
+crown-of-gold	Crown of Gold		female	https://www.fragrantica.com/perfume/Anglia-Perfumery/Crown-of-Gold-18422.html				pending
+duncan	Duncan		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Duncan-18429.html				pending
+imperial-lime	Imperial Lime		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Imperial-Lime-18430.html				pending
+isle-of-man	Isle of Man		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Isle-of-Man-18431.html				pending
+marquis	Marquis		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Marquis-18432.html				pending
+oriental-flowers	Oriental Flowers		female	https://www.fragrantica.com/perfume/Anglia-Perfumery/Oriental-Flowers-18423.html				pending
+park-royal	Park Royal		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Park-Royal-18433.html				pending
+patchouli	Patchouli		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Patchouli-18434.html				pending
+queens	Queen's		female	https://www.fragrantica.com/perfume/Anglia-Perfumery/Queen-s-18424.html				pending
+richmond	Richmond		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Richmond-18435.html				pending
+royal-court	Royal Court		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Royal-Court-18436.html				pending
+russian-water	Russian Water		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Russian-Water-18437.html				pending
+sissinghurst	Sissinghurst		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Sissinghurst-18438.html				pending
+somerset	Somerset		unisex	https://www.fragrantica.com/perfume/Anglia-Perfumery/Somerset-18425.html				pending
+spiced-limes	Spiced Limes		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Spiced-Limes-18439.html				pending
+strand	Strand		male	https://www.fragrantica.com/perfume/Anglia-Perfumery/Strand-18440.html				pending
+velvet-rose	Velvet Rose		female	https://www.fragrantica.com/perfume/Anglia-Perfumery/Velvet-Rose-18426.html				pending
+wedding-bouquet	Wedding Bouquet		female	https://www.fragrantica.com/perfume/Anglia-Perfumery/Wedding-Bouquet-18427.html				pending

@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-angham-al-hub	Angham Al Hub		unisex		https://www.fragrantica.com/perfume/Arabiyat/Angham-Al-Hub-23146.html				pending
-blueberry-musk	Blueberry Musk		unisex		https://www.fragrantica.com/perfume/Arabiyat/Blueberry-Musk-88798.html				pending
-cranberry-musk	Cranberry Musk		unisex		https://www.fragrantica.com/perfume/Arabiyat/Cranberry-Musk-88872.html				pending
-ehsasi-bik	Ehsasi Bik		unisex		https://www.fragrantica.com/perfume/Arabiyat/Ehsasi-Bik-23147.html				pending
-habibi-ana	Habibi Ana		unisex		https://www.fragrantica.com/perfume/Arabiyat/Habibi-Ana-23148.html				pending
-hulm-jameel	Hulm Jameel		unisex		https://www.fragrantica.com/perfume/Arabiyat/Hulm-Jameel-23149.html				pending
-kawkab-al-sharq	Kawkab Al Sharq		unisex		https://www.fragrantica.com/perfume/Arabiyat/Kawkab-Al-Sharq-23150.html				pending
-khasab-and-oud	Khasab & Oud		unisex		https://www.fragrantica.com/perfume/Arabiyat/Khasab-Oud-23151.html				pending
-lamsat-harir	Lamsat Harir		female		https://www.fragrantica.com/perfume/Arabiyat/Lamsat-Harir-48221.html				pending
-maraseel-al-hub	Maraseel Al Hub		female		https://www.fragrantica.com/perfume/Arabiyat/Maraseel-Al-Hub-23152.html				pending
-pink-leather	Pink Leather		unisex		https://www.fragrantica.com/perfume/Arabiyat/Pink-Leather-71499.html				pending
-qamar-al-layali	Qamar Al Layali		unisex		https://www.fragrantica.com/perfume/Arabiyat/Qamar-Al-Layali-23153.html				pending
-saif-al-jazeera	Saif Al Jazeera		male		https://www.fragrantica.com/perfume/Arabiyat/Saif-Al-Jazeera-23154.html				pending
-youn-habibi	Youn Habibi		unisex		https://www.fragrantica.com/perfume/Arabiyat/Youn-Habibi-23155.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+angham-al-hub	Angham Al Hub		unisex	https://www.fragrantica.com/perfume/Arabiyat/Angham-Al-Hub-23146.html				pending
+blueberry-musk	Blueberry Musk		unisex	https://www.fragrantica.com/perfume/Arabiyat/Blueberry-Musk-88798.html				pending
+cranberry-musk	Cranberry Musk		unisex	https://www.fragrantica.com/perfume/Arabiyat/Cranberry-Musk-88872.html				pending
+ehsasi-bik	Ehsasi Bik		unisex	https://www.fragrantica.com/perfume/Arabiyat/Ehsasi-Bik-23147.html				pending
+habibi-ana	Habibi Ana		unisex	https://www.fragrantica.com/perfume/Arabiyat/Habibi-Ana-23148.html				pending
+hulm-jameel	Hulm Jameel		unisex	https://www.fragrantica.com/perfume/Arabiyat/Hulm-Jameel-23149.html				pending
+kawkab-al-sharq	Kawkab Al Sharq		unisex	https://www.fragrantica.com/perfume/Arabiyat/Kawkab-Al-Sharq-23150.html				pending
+khasab-and-oud	Khasab & Oud		unisex	https://www.fragrantica.com/perfume/Arabiyat/Khasab-Oud-23151.html				pending
+lamsat-harir	Lamsat Harir		female	https://www.fragrantica.com/perfume/Arabiyat/Lamsat-Harir-48221.html				pending
+maraseel-al-hub	Maraseel Al Hub		female	https://www.fragrantica.com/perfume/Arabiyat/Maraseel-Al-Hub-23152.html				pending
+pink-leather	Pink Leather		unisex	https://www.fragrantica.com/perfume/Arabiyat/Pink-Leather-71499.html				pending
+qamar-al-layali	Qamar Al Layali		unisex	https://www.fragrantica.com/perfume/Arabiyat/Qamar-Al-Layali-23153.html				pending
+saif-al-jazeera	Saif Al Jazeera		male	https://www.fragrantica.com/perfume/Arabiyat/Saif-Al-Jazeera-23154.html				pending
+youn-habibi	Youn Habibi		unisex	https://www.fragrantica.com/perfume/Arabiyat/Youn-Habibi-23155.html				pending

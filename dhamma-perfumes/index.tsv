@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-arofac-oud-zafran	Arofac Oud Zafran		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Arofac-Oud-Zafran-69626.html				pending
-arofac-vibes	AroFac VIBES		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/AroFac-VIBES-69627.html				pending
-club	Club		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Club-77152.html				pending
-dhamma-niche-all-about-musk	DHAMMA NICHE (ALL ABOUT MUSK)		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/DHAMMA-NICHE-ALL-ABOUT-MUSK-69642.html				pending
-ice-parfum	Ice Parfum		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Ice-Parfum-69478.html				pending
-interval-saphire	Interval Saphire		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Interval-Saphire-69644.html				pending
-najum	NAJUM		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/NAJUM-69641.html				pending
-oud-overdose	Oud Overdose		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Oud-Overdose-69479.html				pending
-oudi	OUDI		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/OUDI-69643.html				pending
-sillage	SILLAGE		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/SILLAGE-69645.html				pending
-zebre-intenso	Zebre Intenso		unisex		https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Zebre-Intenso-69477.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+arofac-oud-zafran	Arofac Oud Zafran		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Arofac-Oud-Zafran-69626.html				pending
+arofac-vibes	AroFac VIBES		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/AroFac-VIBES-69627.html				pending
+club	Club		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Club-77152.html				pending
+dhamma-niche-all-about-musk	DHAMMA NICHE (ALL ABOUT MUSK)		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/DHAMMA-NICHE-ALL-ABOUT-MUSK-69642.html				pending
+ice-parfum	Ice Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Ice-Parfum-69478.html				pending
+interval-saphire	Interval Saphire		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Interval-Saphire-69644.html				pending
+najum	NAJUM		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/NAJUM-69641.html				pending
+oud-overdose	Oud Overdose		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Oud-Overdose-69479.html				pending
+oudi	OUDI		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/OUDI-69643.html				pending
+sillage	SILLAGE		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/SILLAGE-69645.html				pending
+zebre-intenso	Zebre Intenso		unisex	https://www.fragrantica.com/perfume/DHAMMA-PERFUMES/Zebre-Intenso-69477.html				pending

@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-arabica	Arabica		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Arabica-45441.html				pending
-autumn-nocturne	Autumn Nocturne		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Autumn-Nocturne-76689.html				pending
-avicenna	Avicenna		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Avicenna-45442.html				pending
-avicenna-myrrha-mystica	Avicenna Myrrha Mystica		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Avicenna-Myrrha-Mystica-45443.html				pending
-avicenna-white-rose-and-oud	Avicenna White Rose & Oud		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Avicenna-White-Rose-Oud-45444.html				pending
-chocolat-irise	Chocolat Irisé		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Chocolat-Irise-45445.html				pending
-divincarnation	Divincarnation		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Divincarnation-45447.html				pending
-elixir-solaire	Elixir Solaire		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Elixir-Solaire-45448.html				pending
-flor-de-cafe	Flor de Café		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Flor-de-Cafe-45449.html				pending
-havana-plum	Havana Plum		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Havana-Plum-82114.html				pending
-hepster	Hepster		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Hepster-45450.html				pending
-honeysuckle-rose	Honeysuckle Rose		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Honeysuckle-Rose-45451.html				pending
-maroquin	Maroquin		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Maroquin-45452.html				pending
-mellis	Mellis		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Mellis-45453.html				pending
-narcissus-orientalis	Narcissus Orientalis		female		https://www.fragrantica.com/perfume/Annette-Neuffer/Narcissus-Orientalis-75050.html				pending
-narcissus-poeticus	Narcissus Poeticus		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Narcissus-Poeticus-45454.html				pending
-per-fumum-a-sanctified-rose	Per Fumum: A Sanctified Rose		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Per-Fumum-A-Sanctified-Rose-45458.html				pending
-per-fumum-ambar	Per Fumum: Ambar		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Per-Fumum-Ambar-74768.html				pending
-per-fumum-ambra-luminosa	Per Fumum: Ambra Luminosa		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Per-Fumum-Ambra-Luminosa-45455.html				pending
-rosa-alba	Rosa Alba		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Rosa-Alba-45462.html				pending
-sonnet-18	Sonnet 18		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Sonnet-18-45468.html				pending
-stardust	Stardust		unisex		https://www.fragrantica.com/perfume/Annette-Neuffer/Stardust-45469.html				pending
-tabac-santal	Tabac Santal		male		https://www.fragrantica.com/perfume/Annette-Neuffer/Tabac-Santal-45470.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+arabica	Arabica		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Arabica-45441.html				pending
+autumn-nocturne	Autumn Nocturne		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Autumn-Nocturne-76689.html				pending
+avicenna	Avicenna		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Avicenna-45442.html				pending
+avicenna-myrrha-mystica	Avicenna Myrrha Mystica		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Avicenna-Myrrha-Mystica-45443.html				pending
+avicenna-white-rose-and-oud	Avicenna White Rose & Oud		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Avicenna-White-Rose-Oud-45444.html				pending
+chocolat-irise	Chocolat Irisé		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Chocolat-Irise-45445.html				pending
+divincarnation	Divincarnation		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Divincarnation-45447.html				pending
+elixir-solaire	Elixir Solaire		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Elixir-Solaire-45448.html				pending
+flor-de-cafe	Flor de Café		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Flor-de-Cafe-45449.html				pending
+havana-plum	Havana Plum		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Havana-Plum-82114.html				pending
+hepster	Hepster		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Hepster-45450.html				pending
+honeysuckle-rose	Honeysuckle Rose		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Honeysuckle-Rose-45451.html				pending
+maroquin	Maroquin		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Maroquin-45452.html				pending
+mellis	Mellis		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Mellis-45453.html				pending
+narcissus-orientalis	Narcissus Orientalis		female	https://www.fragrantica.com/perfume/Annette-Neuffer/Narcissus-Orientalis-75050.html				pending
+narcissus-poeticus	Narcissus Poeticus		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Narcissus-Poeticus-45454.html				pending
+per-fumum-a-sanctified-rose	Per Fumum: A Sanctified Rose		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Per-Fumum-A-Sanctified-Rose-45458.html				pending
+per-fumum-ambar	Per Fumum: Ambar		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Per-Fumum-Ambar-74768.html				pending
+per-fumum-ambra-luminosa	Per Fumum: Ambra Luminosa		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Per-Fumum-Ambra-Luminosa-45455.html				pending
+rosa-alba	Rosa Alba		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Rosa-Alba-45462.html				pending
+sonnet-18	Sonnet 18		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Sonnet-18-45468.html				pending
+stardust	Stardust		unisex	https://www.fragrantica.com/perfume/Annette-Neuffer/Stardust-45469.html				pending
+tabac-santal	Tabac Santal		male	https://www.fragrantica.com/perfume/Annette-Neuffer/Tabac-Santal-45470.html				pending

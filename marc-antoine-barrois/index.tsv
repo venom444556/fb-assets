@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aldebaran	Aldebaran		unisex		https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Aldebaran-105331.html				pending
-b683	B683		male		https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/B683-46802.html				pending
-b683-extrait	B683 Extrait		unisex		https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/B683-Extrait-64653.html				pending
-b87-135	B87.135		unisex		https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/B87-135-129505.html				pending
-encelade	Encelade		unisex		https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Encelade-74121.html				pending
-ganymede	Ganymede		unisex		https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Ganymede-54720.html				pending
-ganymede-extrait	Ganymede Extrait		unisex		https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Ganymede-Extrait-79632.html				pending
-tilia	Tilia		unisex		https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Tilia-91688.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aldebaran	Aldebaran		unisex	https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Aldebaran-105331.html				pending
+b683	B683		male	https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/B683-46802.html				pending
+b683-extrait	B683 Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/B683-Extrait-64653.html				pending
+b87-135	B87.135		unisex	https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/B87-135-129505.html				pending
+encelade	Encelade		unisex	https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Encelade-74121.html				pending
+ganymede	Ganymede		unisex	https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Ganymede-54720.html				pending
+ganymede-extrait	Ganymede Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Ganymede-Extrait-79632.html				pending
+tilia	Tilia		unisex	https://www.fragrantica.com/perfume/Marc-Antoine-Barrois/Tilia-91688.html				pending

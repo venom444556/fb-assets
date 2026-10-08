@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blue-mai-tai	Blue Mai Tai		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Blue-Mai-Tai-90758.html				pending
-caviar-rose	Caviar Rosé		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Caviar-Rose-99494.html				pending
-cocoyster	Cocoyster		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Cocoyster-90755.html				pending
-cocoyster-bananita	Cocoyster Bananita		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Cocoyster-Bananita-105717.html				pending
-delicious-bay	Delicious Bay		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Delicious-Bay-84975.html				pending
-exotic-chocolate	Exotic Chocolate		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Exotic-Chocolate-115587.html				pending
-fig-tzatziki	Fig Tzatziki		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Fig-Tzatziki-134982.html				pending
-salty-tiare	Salty Tiare		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Salty-Tiare-90756.html				pending
-sparkling-tamarind	Sparkling Tamarind		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Sparkling-Tamarind-97223.html				pending
-strawberry-pool	Strawberry Pool		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Strawberry-Pool-90760.html				pending
-tropylang	Tropylang		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Tropylang-97221.html				pending
-vanilla-monsoon	Vanilla Monsoon		unisex		https://www.fragrantica.com/perfume/Salum-Parfums/Vanilla-Monsoon-97222.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blue-mai-tai	Blue Mai Tai		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Blue-Mai-Tai-90758.html				pending
+caviar-rose	Caviar Rosé		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Caviar-Rose-99494.html				pending
+cocoyster	Cocoyster		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Cocoyster-90755.html				pending
+cocoyster-bananita	Cocoyster Bananita		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Cocoyster-Bananita-105717.html				pending
+delicious-bay	Delicious Bay		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Delicious-Bay-84975.html				pending
+exotic-chocolate	Exotic Chocolate		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Exotic-Chocolate-115587.html				pending
+fig-tzatziki	Fig Tzatziki		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Fig-Tzatziki-134982.html				pending
+salty-tiare	Salty Tiare		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Salty-Tiare-90756.html				pending
+sparkling-tamarind	Sparkling Tamarind		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Sparkling-Tamarind-97223.html				pending
+strawberry-pool	Strawberry Pool		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Strawberry-Pool-90760.html				pending
+tropylang	Tropylang		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Tropylang-97221.html				pending
+vanilla-monsoon	Vanilla Monsoon		unisex	https://www.fragrantica.com/perfume/Salum-Parfums/Vanilla-Monsoon-97222.html				pending

@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-arcipelago-men	Arcipelago Men		male		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Arcipelago-Men-21914.html				pending
-arcipelago-women	Arcipelago Women		female		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Arcipelago-Women-21913.html				pending
-bimbi	Bimbi		unisex		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Bimbi-21915.html				pending
-blu-men	Blu Men		male		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Blu-Men-21912.html				pending
-blu-women	Blu Women		female		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Blu-Women-21911.html				pending
-classica-men	Classica Men		male		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Classica-Men-21910.html				pending
-classica-women	Classica Women		female		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Classica-Women-21909.html				pending
-eau-de-parfum-napoleone-bonaparte	Eau de Parfum Napoleone Bonaparte		male		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Eau-de-Parfum-Napoleone-Bonaparte-28616.html				pending
-eau-de-parfum-paolina-bonaparte	Eau de Parfum Paolina Bonaparte		female		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Eau-de-Parfum-Paolina-Bonaparte-28617.html				pending
-essenza-di-unisola-acqua	Essenza di un'Isola Acqua		unisex		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-di-un-Isola-Acqua-40414.html				pending
-essenza-di-unisola-altrove	Essenza di un'Isola Altrove		male		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-di-un-Isola-Altrove-40413.html				pending
-essenza-di-unisola-smeraldo	Essenza di un'Isola Smeraldo		female		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-di-un-Isola-Smeraldo-40415.html				pending
-essenza-donna	Essenza Donna		female		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-Donna-67071.html				pending
-essenza-uomo	Essenza Uomo		male		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-Uomo-67070.html				pending
-essenzamare	Essenzamare		unisex		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenzamare-103471.html				pending
-sport	Sport		unisex		https://www.fragrantica.com/perfume/Acqua-dell-Elba/Sport-40412.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+arcipelago-men	Arcipelago Men		male	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Arcipelago-Men-21914.html				pending
+arcipelago-women	Arcipelago Women		female	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Arcipelago-Women-21913.html				pending
+bimbi	Bimbi		unisex	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Bimbi-21915.html				pending
+blu-men	Blu Men		male	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Blu-Men-21912.html				pending
+blu-women	Blu Women		female	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Blu-Women-21911.html				pending
+classica-men	Classica Men		male	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Classica-Men-21910.html				pending
+classica-women	Classica Women		female	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Classica-Women-21909.html				pending
+eau-de-parfum-napoleone-bonaparte	Eau de Parfum Napoleone Bonaparte	Eau de Parfum	male	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Eau-de-Parfum-Napoleone-Bonaparte-28616.html				pending
+eau-de-parfum-paolina-bonaparte	Eau de Parfum Paolina Bonaparte	Eau de Parfum	female	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Eau-de-Parfum-Paolina-Bonaparte-28617.html				pending
+essenza-di-unisola-acqua	Essenza di un'Isola Acqua		unisex	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-di-un-Isola-Acqua-40414.html				pending
+essenza-di-unisola-altrove	Essenza di un'Isola Altrove		male	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-di-un-Isola-Altrove-40413.html				pending
+essenza-di-unisola-smeraldo	Essenza di un'Isola Smeraldo		female	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-di-un-Isola-Smeraldo-40415.html				pending
+essenza-donna	Essenza Donna		female	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-Donna-67071.html				pending
+essenza-uomo	Essenza Uomo		male	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenza-Uomo-67070.html				pending
+essenzamare	Essenzamare		unisex	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Essenzamare-103471.html				pending
+sport	Sport		unisex	https://www.fragrantica.com/perfume/Acqua-dell-Elba/Sport-40412.html				pending

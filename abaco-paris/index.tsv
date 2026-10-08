@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alma	Alma		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Alma-90311.html				pending
-baca	Baca		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Baca-68872.html				pending
-bless	Bless		female		https://www.fragrantica.com/perfume/Abaco-Paris/Bless-68863.html				pending
-dark	Dark		male		https://www.fragrantica.com/perfume/Abaco-Paris/Dark-68874.html				pending
-flore	Flore		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Flore-90312.html				pending
-glitter	Glitter		female		https://www.fragrantica.com/perfume/Abaco-Paris/Glitter-68864.html				pending
-grey	Grey		male		https://www.fragrantica.com/perfume/Abaco-Paris/Grey-68865.html				pending
-grey-doree	Grey Dorée		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Grey-Doree-90313.html				pending
-jamily	Jamily		female		https://www.fragrantica.com/perfume/Abaco-Paris/Jamily-66999.html				pending
-joo	Joo		male		https://www.fragrantica.com/perfume/Abaco-Paris/Joo-68870.html				pending
-juliette	Juliette		female		https://www.fragrantica.com/perfume/Abaco-Paris/Juliette-67000.html				pending
-labo	Labo		male		https://www.fragrantica.com/perfume/Abaco-Paris/Labo-68873.html				pending
-lord	Lord		male		https://www.fragrantica.com/perfume/Abaco-Paris/Lord-68869.html				pending
-louvre	Louvre		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Louvre-90310.html				pending
-lumiere-bronze	Lumière Bronze		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Lumiere-Bronze-67001.html				pending
-nuit-doree	Nuit Dorée		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Nuit-Doree-67002.html				pending
-odelia	Odelia		female		https://www.fragrantica.com/perfume/Abaco-Paris/Odelia-67003.html				pending
-oud	Oud		female		https://www.fragrantica.com/perfume/Abaco-Paris/Oud-68867.html				pending
-pantheon	Pantheon		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Pantheon-90316.html				pending
-rock	Rock		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Rock-68871.html				pending
-shadow	Shadow		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Shadow-90314.html				pending
-tonka	Tonka		male		https://www.fragrantica.com/perfume/Abaco-Paris/Tonka-75089.html				pending
-trafalga	Trafalga		female		https://www.fragrantica.com/perfume/Abaco-Paris/Trafalga-68866.html				pending
-triomphe	Triomphe		unisex		https://www.fragrantica.com/perfume/Abaco-Paris/Triomphe-90309.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alma	Alma		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Alma-90311.html				pending
+baca	Baca		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Baca-68872.html				pending
+bless	Bless		female	https://www.fragrantica.com/perfume/Abaco-Paris/Bless-68863.html				pending
+dark	Dark		male	https://www.fragrantica.com/perfume/Abaco-Paris/Dark-68874.html				pending
+flore	Flore		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Flore-90312.html				pending
+glitter	Glitter		female	https://www.fragrantica.com/perfume/Abaco-Paris/Glitter-68864.html				pending
+grey	Grey		male	https://www.fragrantica.com/perfume/Abaco-Paris/Grey-68865.html				pending
+grey-doree	Grey Dorée		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Grey-Doree-90313.html				pending
+jamily	Jamily		female	https://www.fragrantica.com/perfume/Abaco-Paris/Jamily-66999.html				pending
+joo	Joo		male	https://www.fragrantica.com/perfume/Abaco-Paris/Joo-68870.html				pending
+juliette	Juliette		female	https://www.fragrantica.com/perfume/Abaco-Paris/Juliette-67000.html				pending
+labo	Labo		male	https://www.fragrantica.com/perfume/Abaco-Paris/Labo-68873.html				pending
+lord	Lord		male	https://www.fragrantica.com/perfume/Abaco-Paris/Lord-68869.html				pending
+louvre	Louvre		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Louvre-90310.html				pending
+lumiere-bronze	Lumière Bronze		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Lumiere-Bronze-67001.html				pending
+nuit-doree	Nuit Dorée		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Nuit-Doree-67002.html				pending
+odelia	Odelia		female	https://www.fragrantica.com/perfume/Abaco-Paris/Odelia-67003.html				pending
+oud	Oud		female	https://www.fragrantica.com/perfume/Abaco-Paris/Oud-68867.html				pending
+pantheon	Pantheon		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Pantheon-90316.html				pending
+rock	Rock		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Rock-68871.html				pending
+shadow	Shadow		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Shadow-90314.html				pending
+tonka	Tonka		male	https://www.fragrantica.com/perfume/Abaco-Paris/Tonka-75089.html				pending
+trafalga	Trafalga		female	https://www.fragrantica.com/perfume/Abaco-Paris/Trafalga-68866.html				pending
+triomphe	Triomphe		unisex	https://www.fragrantica.com/perfume/Abaco-Paris/Triomphe-90309.html				pending

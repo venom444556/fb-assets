@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-babel-oud	Babel Oud		unisex		https://www.fragrantica.com/perfume/Elixir-Prive/Babel-Oud-77768.html				pending
-barbes-mandarine	Barbes Mandarine		unisex		https://www.fragrantica.com/perfume/Elixir-Prive/Barbes-Mandarine-77769.html				pending
-black-animal	Black Animal		male		https://www.fragrantica.com/perfume/Elixir-Prive/Black-Animal-77770.html				pending
-bois-sacre	Bois Sacre		unisex		https://www.fragrantica.com/perfume/Elixir-Prive/Bois-Sacre-77771.html				pending
-brume-divoire	Brume d'Ivoire		female		https://www.fragrantica.com/perfume/Elixir-Prive/Brume-d-Ivoire-77772.html				pending
-chatiment	Chatiment		female		https://www.fragrantica.com/perfume/Elixir-Prive/Chatiment-77773.html				pending
-cuir-tonka	Cuir Tonka		female		https://www.fragrantica.com/perfume/Elixir-Prive/Cuir-Tonka-77774.html				pending
-ecaille-dorient	Ecaille D'Orient		male		https://www.fragrantica.com/perfume/Elixir-Prive/Ecaille-D-Orient-77775.html				pending
-empereur	Empereur		male		https://www.fragrantica.com/perfume/Elixir-Prive/Empereur-77776.html				pending
-fleur-orpheline	Fleur Orpheline		female		https://www.fragrantica.com/perfume/Elixir-Prive/Fleur-Orpheline-77777.html				pending
-gris-polaire	Gris Polaire		unisex		https://www.fragrantica.com/perfume/Elixir-Prive/Gris-Polaire-77778.html				pending
-ombre-celeste	Ombre Celeste		male		https://www.fragrantica.com/perfume/Elixir-Prive/Ombre-Celeste-77779.html				pending
-oud-carbone	Oud Carbone		unisex		https://www.fragrantica.com/perfume/Elixir-Prive/Oud-Carbone-77780.html				pending
-sable-sarrasin	Sable Sarrasin		male		https://www.fragrantica.com/perfume/Elixir-Prive/Sable-Sarrasin-77781.html				pending
-sucre-blanc	Sucre Blanc		female		https://www.fragrantica.com/perfume/Elixir-Prive/Sucre-Blanc-77782.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+babel-oud	Babel Oud		unisex	https://www.fragrantica.com/perfume/Elixir-Prive/Babel-Oud-77768.html				pending
+barbes-mandarine	Barbes Mandarine		unisex	https://www.fragrantica.com/perfume/Elixir-Prive/Barbes-Mandarine-77769.html				pending
+black-animal	Black Animal		male	https://www.fragrantica.com/perfume/Elixir-Prive/Black-Animal-77770.html				pending
+bois-sacre	Bois Sacre		unisex	https://www.fragrantica.com/perfume/Elixir-Prive/Bois-Sacre-77771.html				pending
+brume-divoire	Brume d'Ivoire		female	https://www.fragrantica.com/perfume/Elixir-Prive/Brume-d-Ivoire-77772.html				pending
+chatiment	Chatiment		female	https://www.fragrantica.com/perfume/Elixir-Prive/Chatiment-77773.html				pending
+cuir-tonka	Cuir Tonka		female	https://www.fragrantica.com/perfume/Elixir-Prive/Cuir-Tonka-77774.html				pending
+ecaille-dorient	Ecaille D'Orient		male	https://www.fragrantica.com/perfume/Elixir-Prive/Ecaille-D-Orient-77775.html				pending
+empereur	Empereur		male	https://www.fragrantica.com/perfume/Elixir-Prive/Empereur-77776.html				pending
+fleur-orpheline	Fleur Orpheline		female	https://www.fragrantica.com/perfume/Elixir-Prive/Fleur-Orpheline-77777.html				pending
+gris-polaire	Gris Polaire		unisex	https://www.fragrantica.com/perfume/Elixir-Prive/Gris-Polaire-77778.html				pending
+ombre-celeste	Ombre Celeste		male	https://www.fragrantica.com/perfume/Elixir-Prive/Ombre-Celeste-77779.html				pending
+oud-carbone	Oud Carbone		unisex	https://www.fragrantica.com/perfume/Elixir-Prive/Oud-Carbone-77780.html				pending
+sable-sarrasin	Sable Sarrasin		male	https://www.fragrantica.com/perfume/Elixir-Prive/Sable-Sarrasin-77781.html				pending
+sucre-blanc	Sucre Blanc		female	https://www.fragrantica.com/perfume/Elixir-Prive/Sucre-Blanc-77782.html				pending

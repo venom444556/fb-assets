@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-flying-water	Flying Water		female		https://www.fragrantica.com/perfume/Natura-Siberica/Flying-Water-97025.html				pending
-historical-earth	Historical Earth		unisex		https://www.fragrantica.com/perfume/Natura-Siberica/Historical-Earth-97024.html				pending
-mystery-fire	Mystery Fire		unisex		https://www.fragrantica.com/perfume/Natura-Siberica/Mystery-Fire-97023.html				pending
-nuit-en-siberie	Nuit En Siberie		male		https://www.fragrantica.com/perfume/Natura-Siberica/Nuit-En-Siberie-46883.html				pending
-siberie-mon-amour	Siberie Mon Amour		female		https://www.fragrantica.com/perfume/Natura-Siberica/Siberie-Mon-Amour-46884.html				pending
-voice-of-wind	Voice of Wind		female		https://www.fragrantica.com/perfume/Natura-Siberica/Voice-of-Wind-97026.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+flying-water	Flying Water		female	https://www.fragrantica.com/perfume/Natura-Siberica/Flying-Water-97025.html				pending
+historical-earth	Historical Earth		unisex	https://www.fragrantica.com/perfume/Natura-Siberica/Historical-Earth-97024.html				pending
+mystery-fire	Mystery Fire		unisex	https://www.fragrantica.com/perfume/Natura-Siberica/Mystery-Fire-97023.html				pending
+nuit-en-siberie	Nuit En Siberie		male	https://www.fragrantica.com/perfume/Natura-Siberica/Nuit-En-Siberie-46883.html				pending
+siberie-mon-amour	Siberie Mon Amour		female	https://www.fragrantica.com/perfume/Natura-Siberica/Siberie-Mon-Amour-46884.html				pending
+voice-of-wind	Voice of Wind		female	https://www.fragrantica.com/perfume/Natura-Siberica/Voice-of-Wind-97026.html				pending

@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-braries	Braries		unisex		https://www.fragrantica.com/perfume/Once/Braries-66418.html				pending
-courield	Courield		unisex		https://www.fragrantica.com/perfume/Once/Courield-66419.html				pending
-desight	Desight		unisex		https://www.fragrantica.com/perfume/Once/Desight-66422.html				pending
-handfidance	Handfidance		unisex		https://www.fragrantica.com/perfume/Once/Handfidance-66421.html				pending
-hotis	Hotis		unisex		https://www.fragrantica.com/perfume/Once/Hotis-66423.html				pending
-josy	Josy		unisex		https://www.fragrantica.com/perfume/Once/Josy-66424.html				pending
-lipsens	Lipsens		unisex		https://www.fragrantica.com/perfume/Once/Lipsens-66426.html				pending
-lorev	Lorev		unisex		https://www.fragrantica.com/perfume/Once/Lorev-66428.html				pending
-pherody	Pherody		unisex		https://www.fragrantica.com/perfume/Once/Pherody-89767.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+braries	Braries		unisex	https://www.fragrantica.com/perfume/Once/Braries-66418.html				pending
+courield	Courield		unisex	https://www.fragrantica.com/perfume/Once/Courield-66419.html				pending
+desight	Desight		unisex	https://www.fragrantica.com/perfume/Once/Desight-66422.html				pending
+handfidance	Handfidance		unisex	https://www.fragrantica.com/perfume/Once/Handfidance-66421.html				pending
+hotis	Hotis		unisex	https://www.fragrantica.com/perfume/Once/Hotis-66423.html				pending
+josy	Josy		unisex	https://www.fragrantica.com/perfume/Once/Josy-66424.html				pending
+lipsens	Lipsens		unisex	https://www.fragrantica.com/perfume/Once/Lipsens-66426.html				pending
+lorev	Lorev		unisex	https://www.fragrantica.com/perfume/Once/Lorev-66428.html				pending
+pherody	Pherody		unisex	https://www.fragrantica.com/perfume/Once/Pherody-89767.html				pending

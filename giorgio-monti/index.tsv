@@ -1,40 +1,40 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-art-club	Art Club		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Art-Club-16799.html				pending
-art-club-men	Art Club Men		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Art-Club-Men-19285.html				pending
-black-ink	Black Ink		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Black-Ink-19286.html				pending
-d-day	D-Day		female		https://www.fragrantica.com/perfume/Giorgio-Monti/D-Day-19284.html				pending
-d-day-pure	D-Day Pure		male		https://www.fragrantica.com/perfume/Giorgio-Monti/D-Day-Pure-56950.html				pending
-darvin	Darvin		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Darvin-19287.html				pending
-designer	Designer		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Designer-19299.html				pending
-designer-club	Designer Club		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Designer-Club-56806.html				pending
-el-senior	El Senior		male		https://www.fragrantica.com/perfume/Giorgio-Monti/El-Senior-19294.html				pending
-kint	Kint		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Kint-36524.html				pending
-latino	Latino		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Latino-19295.html				pending
-los-angeles	Los Angeles		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Los-Angeles-19288.html				pending
-los-angeles-men	Los Angeles Men		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Los-Angeles-Men-19289.html				pending
-matignon	Matignon		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Matignon-56807.html				pending
-memphis	Memphis		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Memphis-19290.html				pending
-memphis-men	Memphis Men		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Memphis-Men-19291.html				pending
-monti-by-giorgio-monti	Monti by Giorgio Monti		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-by-Giorgio-Monti-16795.html				pending
-monti-forte	Monti Forte		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-Forte-28642.html				pending
-monti-pur	Monti Pur		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-Pur-56959.html				pending
-monti-sensuelle	Monti Sensuelle		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-Sensuelle-56808.html				pending
-monti-stone	Monti Stone		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-Stone-19298.html				pending
-noly	Noly		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Noly-16798.html				pending
-noly-28641	Noly		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Noly-28641.html				pending
-oceana-black	Oceana Black		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Oceana-Black-28640.html				pending
-oceana-blue	Oceana Blue		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Oceana-Blue-28639.html				pending
-oceano-red	Oceano Red		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Oceano-Red-33981.html				pending
-provocation	Provocation		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Provocation-19293.html				pending
-pur-sang	Pur Sang		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Pur-Sang-16796.html				pending
-pur-sang-men	Pur Sang Men		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Pur-Sang-Men-19292.html				pending
-pur-sang-pink	Pur Sang Pink		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Pur-Sang-Pink-28638.html				pending
-royal-select	Royal Select		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Royal-Select-16797.html				pending
-shiny-for-men	Shiny for Men		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Shiny-for-Men-16800.html				pending
-shiny-for-women	Shiny for Women		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Shiny-for-Women-19283.html				pending
-the-wood-for-men	The Wood for Men		male		https://www.fragrantica.com/perfume/Giorgio-Monti/The-Wood-for-Men-19296.html				pending
-the-wood-for-women	The Wood for Women		female		https://www.fragrantica.com/perfume/Giorgio-Monti/The-Wood-for-Women-19297.html				pending
-trust-me	Trust Me		male		https://www.fragrantica.com/perfume/Giorgio-Monti/Trust-Me-56804.html				pending
-trust-me-56805	Trust Me		female		https://www.fragrantica.com/perfume/Giorgio-Monti/Trust-Me-56805.html				pending
-world-time	World Time		male		https://www.fragrantica.com/perfume/Giorgio-Monti/World-Time-56802.html				pending
-world-time-56803	World Time		female		https://www.fragrantica.com/perfume/Giorgio-Monti/World-Time-56803.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+art-club	Art Club		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Art-Club-16799.html				pending
+art-club-men	Art Club Men		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Art-Club-Men-19285.html				pending
+black-ink	Black Ink		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Black-Ink-19286.html				pending
+d-day	D-Day		female	https://www.fragrantica.com/perfume/Giorgio-Monti/D-Day-19284.html				pending
+d-day-pure	D-Day Pure		male	https://www.fragrantica.com/perfume/Giorgio-Monti/D-Day-Pure-56950.html				pending
+darvin	Darvin		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Darvin-19287.html				pending
+designer	Designer		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Designer-19299.html				pending
+designer-club	Designer Club		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Designer-Club-56806.html				pending
+el-senior	El Senior		male	https://www.fragrantica.com/perfume/Giorgio-Monti/El-Senior-19294.html				pending
+kint	Kint		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Kint-36524.html				pending
+latino	Latino		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Latino-19295.html				pending
+los-angeles	Los Angeles		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Los-Angeles-19288.html				pending
+los-angeles-men	Los Angeles Men		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Los-Angeles-Men-19289.html				pending
+matignon	Matignon		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Matignon-56807.html				pending
+memphis	Memphis		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Memphis-19290.html				pending
+memphis-men	Memphis Men		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Memphis-Men-19291.html				pending
+monti-by-giorgio-monti	Monti by Giorgio Monti		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-by-Giorgio-Monti-16795.html				pending
+monti-forte	Monti Forte		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-Forte-28642.html				pending
+monti-pur	Monti Pur		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-Pur-56959.html				pending
+monti-sensuelle	Monti Sensuelle		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-Sensuelle-56808.html				pending
+monti-stone	Monti Stone		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Monti-Stone-19298.html				pending
+noly	Noly		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Noly-16798.html				pending
+noly-28641	Noly		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Noly-28641.html				pending
+oceana-black	Oceana Black		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Oceana-Black-28640.html				pending
+oceana-blue	Oceana Blue		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Oceana-Blue-28639.html				pending
+oceano-red	Oceano Red		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Oceano-Red-33981.html				pending
+provocation	Provocation		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Provocation-19293.html				pending
+pur-sang	Pur Sang		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Pur-Sang-16796.html				pending
+pur-sang-men	Pur Sang Men		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Pur-Sang-Men-19292.html				pending
+pur-sang-pink	Pur Sang Pink		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Pur-Sang-Pink-28638.html				pending
+royal-select	Royal Select		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Royal-Select-16797.html				pending
+shiny-for-men	Shiny for Men		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Shiny-for-Men-16800.html				pending
+shiny-for-women	Shiny for Women		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Shiny-for-Women-19283.html				pending
+the-wood-for-men	The Wood for Men		male	https://www.fragrantica.com/perfume/Giorgio-Monti/The-Wood-for-Men-19296.html				pending
+the-wood-for-women	The Wood for Women		female	https://www.fragrantica.com/perfume/Giorgio-Monti/The-Wood-for-Women-19297.html				pending
+trust-me	Trust Me		male	https://www.fragrantica.com/perfume/Giorgio-Monti/Trust-Me-56804.html				pending
+trust-me-56805	Trust Me		female	https://www.fragrantica.com/perfume/Giorgio-Monti/Trust-Me-56805.html				pending
+world-time	World Time		male	https://www.fragrantica.com/perfume/Giorgio-Monti/World-Time-56802.html				pending
+world-time-56803	World Time		female	https://www.fragrantica.com/perfume/Giorgio-Monti/World-Time-56803.html				pending

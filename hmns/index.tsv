@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alpha	Alpha		unisex		https://www.fragrantica.com/perfume/HMNS/Alpha-75907.html				pending
-ambar-janma-manusia-harum	Ambar Janma - Manusia Harum		unisex		https://www.fragrantica.com/perfume/HMNS/Ambar-Janma-Manusia-Harum-75911.html				pending
-essence-of-the-sun-eos	Essence of the Sun EOS		female		https://www.fragrantica.com/perfume/HMNS/Essence-of-the-Sun-EOS-75910.html				pending
-farhampton	Farhampton		unisex		https://www.fragrantica.com/perfume/HMNS/Farhampton-75909.html				pending
-orgsm	Orgsm		female		https://www.fragrantica.com/perfume/HMNS/Orgsm-75908.html				pending
-the-perfection	The Perfection		unisex		https://www.fragrantica.com/perfume/HMNS/The-Perfection-75967.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alpha	Alpha		unisex	https://www.fragrantica.com/perfume/HMNS/Alpha-75907.html				pending
+ambar-janma-manusia-harum	Ambar Janma - Manusia Harum		unisex	https://www.fragrantica.com/perfume/HMNS/Ambar-Janma-Manusia-Harum-75911.html				pending
+essence-of-the-sun-eos	Essence of the Sun EOS		female	https://www.fragrantica.com/perfume/HMNS/Essence-of-the-Sun-EOS-75910.html				pending
+farhampton	Farhampton		unisex	https://www.fragrantica.com/perfume/HMNS/Farhampton-75909.html				pending
+orgsm	Orgsm		female	https://www.fragrantica.com/perfume/HMNS/Orgsm-75908.html				pending
+the-perfection	The Perfection		unisex	https://www.fragrantica.com/perfume/HMNS/The-Perfection-75967.html				pending

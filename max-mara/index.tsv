@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-kashmina-touch	Kashmina Touch		female		https://www.fragrantica.com/perfume/Max-Mara/Kashmina-Touch-4654.html				pending
-le-parfum	Le Parfum		female		https://www.fragrantica.com/perfume/Max-Mara/Le-Parfum-2453.html				pending
-max-mara	Max Mara		female		https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-204.html				pending
-max-mara-gold-touch	Max Mara Gold Touch		female		https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Gold-Touch-2452.html				pending
-max-mara-le-parfum	Max Mara Le Parfum		female		https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Le-Parfum-139644.html				pending
-max-mara-le-parfum-zeste-and-musc	Max Mara Le Parfum Zeste & Musc		female		https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Le-Parfum-Zeste-Musc-5403.html				pending
-max-mara-silk-touch	Max Mara Silk Touch		female		https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Silk-Touch-1178.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+kashmina-touch	Kashmina Touch		female	https://www.fragrantica.com/perfume/Max-Mara/Kashmina-Touch-4654.html				pending
+le-parfum	Le Parfum		female	https://www.fragrantica.com/perfume/Max-Mara/Le-Parfum-2453.html				pending
+max-mara	Max Mara		female	https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-204.html				pending
+max-mara-gold-touch	Max Mara Gold Touch		female	https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Gold-Touch-2452.html				pending
+max-mara-le-parfum	Max Mara Le Parfum		female	https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Le-Parfum-139644.html				pending
+max-mara-le-parfum-zeste-and-musc	Max Mara Le Parfum Zeste & Musc		female	https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Le-Parfum-Zeste-Musc-5403.html				pending
+max-mara-silk-touch	Max Mara Silk Touch		female	https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Silk-Touch-1178.html				pending

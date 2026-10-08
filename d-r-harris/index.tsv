@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-albany-cologne	Albany Cologne		male		https://www.fragrantica.com/perfume/D-R-Harris/Albany-Cologne-17419.html				pending
-arlington-cologne	Arlington Cologne		male		https://www.fragrantica.com/perfume/D-R-Harris/Arlington-Cologne-17420.html				pending
-classic-cologne	Classic Cologne		male		https://www.fragrantica.com/perfume/D-R-Harris/Classic-Cologne-17421.html				pending
-freshening-cologne	Freshening Cologne		male		https://www.fragrantica.com/perfume/D-R-Harris/Freshening-Cologne-17422.html				pending
-marlborough-cologne	Marlborough Cologne		male		https://www.fragrantica.com/perfume/D-R-Harris/Marlborough-Cologne-17423.html				pending
-mayfair	Mayfair		unisex		https://www.fragrantica.com/perfume/D-R-Harris/Mayfair-17424.html				pending
-old-english-lavender-water	Old English Lavender Water		male		https://www.fragrantica.com/perfume/D-R-Harris/Old-English-Lavender-Water-17425.html				pending
-sandalwood-cologne	Sandalwood Cologne		male		https://www.fragrantica.com/perfume/D-R-Harris/Sandalwood-Cologne-41269.html				pending
-traditional-cologne	Traditional Cologne		male		https://www.fragrantica.com/perfume/D-R-Harris/Traditional-Cologne-17426.html				pending
-twenty-nine	Twenty Nine		male		https://www.fragrantica.com/perfume/D-R-Harris/Twenty-Nine-41268.html				pending
-windsor-eau-de-toilette	Windsor Eau de Toilette		male		https://www.fragrantica.com/perfume/D-R-Harris/Windsor-Eau-de-Toilette-17427.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+albany-cologne	Albany Cologne	Cologne	male	https://www.fragrantica.com/perfume/D-R-Harris/Albany-Cologne-17419.html				pending
+arlington-cologne	Arlington Cologne	Cologne	male	https://www.fragrantica.com/perfume/D-R-Harris/Arlington-Cologne-17420.html				pending
+classic-cologne	Classic Cologne	Cologne	male	https://www.fragrantica.com/perfume/D-R-Harris/Classic-Cologne-17421.html				pending
+freshening-cologne	Freshening Cologne	Cologne	male	https://www.fragrantica.com/perfume/D-R-Harris/Freshening-Cologne-17422.html				pending
+marlborough-cologne	Marlborough Cologne	Cologne	male	https://www.fragrantica.com/perfume/D-R-Harris/Marlborough-Cologne-17423.html				pending
+mayfair	Mayfair		unisex	https://www.fragrantica.com/perfume/D-R-Harris/Mayfair-17424.html				pending
+old-english-lavender-water	Old English Lavender Water		male	https://www.fragrantica.com/perfume/D-R-Harris/Old-English-Lavender-Water-17425.html				pending
+sandalwood-cologne	Sandalwood Cologne	Cologne	male	https://www.fragrantica.com/perfume/D-R-Harris/Sandalwood-Cologne-41269.html				pending
+traditional-cologne	Traditional Cologne	Cologne	male	https://www.fragrantica.com/perfume/D-R-Harris/Traditional-Cologne-17426.html				pending
+twenty-nine	Twenty Nine		male	https://www.fragrantica.com/perfume/D-R-Harris/Twenty-Nine-41268.html				pending
+windsor-eau-de-toilette	Windsor Eau de Toilette	Eau de Toilette	male	https://www.fragrantica.com/perfume/D-R-Harris/Windsor-Eau-de-Toilette-17427.html				pending

@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-hot-tension-ardent-vanilla	Hot Tension Ardent Vanilla		female		https://www.fragrantica.com/perfume/Kookai/Hot-Tension-Ardent-Vanilla-12633.html				pending
-hot-tension-dynamit-pepper	Hot Tension Dynamit Pepper		female		https://www.fragrantica.com/perfume/Kookai/Hot-Tension-Dynamit-Pepper-12634.html				pending
-hot-tension-electric-water	Hot Tension Electric Water		female		https://www.fragrantica.com/perfume/Kookai/Hot-Tension-Electric-Water-12635.html				pending
-leau-de-kookai	L'Eau de Kookai		female		https://www.fragrantica.com/perfume/Kookai/L-Eau-de-Kookai-12632.html				pending
-oui-non	Oui-Non		female		https://www.fragrantica.com/perfume/Kookai/Oui-Non-12631.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+hot-tension-ardent-vanilla	Hot Tension Ardent Vanilla		female	https://www.fragrantica.com/perfume/Kookai/Hot-Tension-Ardent-Vanilla-12633.html				pending
+hot-tension-dynamit-pepper	Hot Tension Dynamit Pepper		female	https://www.fragrantica.com/perfume/Kookai/Hot-Tension-Dynamit-Pepper-12634.html				pending
+hot-tension-electric-water	Hot Tension Electric Water		female	https://www.fragrantica.com/perfume/Kookai/Hot-Tension-Electric-Water-12635.html				pending
+leau-de-kookai	L'Eau de Kookai		female	https://www.fragrantica.com/perfume/Kookai/L-Eau-de-Kookai-12632.html				pending
+oui-non	Oui-Non		female	https://www.fragrantica.com/perfume/Kookai/Oui-Non-12631.html				pending

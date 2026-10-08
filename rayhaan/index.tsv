@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adonis-icarus	Adonis Icarus		male		https://www.fragrantica.com/perfume/Rayhaan/Adonis-Icarus-114211.html				pending
-aquatica	Aquatica		male		https://www.fragrantica.com/perfume/Rayhaan/Aquatica-120605.html				pending
-azul	Azul		male		https://www.fragrantica.com/perfume/Rayhaan/Azul-135602.html				pending
-cedrus-blanc	Cedrus Blanc		unisex		https://www.fragrantica.com/perfume/Rayhaan/Cedrus-Blanc-138575.html				pending
-cordova	Cordova		male		https://www.fragrantica.com/perfume/Rayhaan/Cordova-97120.html				pending
-corium	Corium		male		https://www.fragrantica.com/perfume/Rayhaan/Corium-97118.html				pending
-dark-leather	Dark Leather		male		https://www.fragrantica.com/perfume/Rayhaan/Dark-Leather-97122.html				pending
-imperia	Imperia		male		https://www.fragrantica.com/perfume/Rayhaan/Imperia-107858.html				pending
-italia	Italia		male		https://www.fragrantica.com/perfume/Rayhaan/Italia-120606.html				pending
-jungle-vibe	Jungle Vibe		unisex		https://www.fragrantica.com/perfume/Rayhaan/Jungle-Vibe-123211.html				pending
-kiss	Kiss		female		https://www.fragrantica.com/perfume/Rayhaan/Kiss-124585.html				pending
-lion	Lion		male		https://www.fragrantica.com/perfume/Rayhaan/Lion-105031.html				pending
-nava-sol	Nava Sol		unisex		https://www.fragrantica.com/perfume/Rayhaan/Nava-Sol-138578.html				pending
-nocturno	Nocturno		male		https://www.fragrantica.com/perfume/Rayhaan/Nocturno-116731.html				pending
-nocturno-elixir	Nocturno Elixir		male		https://www.fragrantica.com/perfume/Rayhaan/Nocturno-Elixir-132522.html				pending
-ocean-rush	Ocean Rush		male		https://www.fragrantica.com/perfume/Rayhaan/Ocean-Rush-107857.html				pending
-ocean-rush-107805	Ocean Rush		male		https://www.fragrantica.com/perfume/Rayhaan/Ocean-Rush-107805.html				pending
-pacific	Pacific		male		https://www.fragrantica.com/perfume/Rayhaan/Pacific-99293.html				pending
-pacific-aloha	Pacific Aloha		unisex		https://www.fragrantica.com/perfume/Rayhaan/Pacific-Aloha-135601.html				pending
-pacific-aura	Pacific Aura		male		https://www.fragrantica.com/perfume/Rayhaan/Pacific-Aura-109709.html				pending
-pharaoh	Pharaoh		unisex		https://www.fragrantica.com/perfume/Rayhaan/Pharaoh-122656.html				pending
-rayhaan-divine	Rayhaan Divine		female		https://www.fragrantica.com/perfume/Rayhaan/Rayhaan-Divine-123640.html				pending
-rayhaan-elixir	Rayhaan Elixir		unisex		https://www.fragrantica.com/perfume/Rayhaan/Rayhaan-Elixir-95265.html				pending
-terra	Terra		male		https://www.fragrantica.com/perfume/Rayhaan/Terra-118549.html				pending
-tiger	Tiger		male		https://www.fragrantica.com/perfume/Rayhaan/Tiger-112886.html				pending
-tonquin-giza	Tonquin Giza		unisex		https://www.fragrantica.com/perfume/Rayhaan/Tonquin-Giza-122844.html				pending
-tropical-vibe	Tropical Vibe		unisex		https://www.fragrantica.com/perfume/Rayhaan/Tropical-Vibe-118507.html				pending
-valhalla	Valhalla		male		https://www.fragrantica.com/perfume/Rayhaan/Valhalla-113592.html				pending
-wolf	Wolf		male		https://www.fragrantica.com/perfume/Rayhaan/Wolf-130798.html				pending
-wood-noir	Wood Noir		male		https://www.fragrantica.com/perfume/Rayhaan/Wood-Noir-107859.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adonis-icarus	Adonis Icarus		male	https://www.fragrantica.com/perfume/Rayhaan/Adonis-Icarus-114211.html				pending
+aquatica	Aquatica		male	https://www.fragrantica.com/perfume/Rayhaan/Aquatica-120605.html				pending
+azul	Azul		male	https://www.fragrantica.com/perfume/Rayhaan/Azul-135602.html				pending
+cedrus-blanc	Cedrus Blanc		unisex	https://www.fragrantica.com/perfume/Rayhaan/Cedrus-Blanc-138575.html				pending
+cordova	Cordova		male	https://www.fragrantica.com/perfume/Rayhaan/Cordova-97120.html				pending
+corium	Corium		male	https://www.fragrantica.com/perfume/Rayhaan/Corium-97118.html				pending
+dark-leather	Dark Leather		male	https://www.fragrantica.com/perfume/Rayhaan/Dark-Leather-97122.html				pending
+imperia	Imperia		male	https://www.fragrantica.com/perfume/Rayhaan/Imperia-107858.html				pending
+italia	Italia		male	https://www.fragrantica.com/perfume/Rayhaan/Italia-120606.html				pending
+jungle-vibe	Jungle Vibe		unisex	https://www.fragrantica.com/perfume/Rayhaan/Jungle-Vibe-123211.html				pending
+kiss	Kiss		female	https://www.fragrantica.com/perfume/Rayhaan/Kiss-124585.html				pending
+lion	Lion		male	https://www.fragrantica.com/perfume/Rayhaan/Lion-105031.html				pending
+nava-sol	Nava Sol		unisex	https://www.fragrantica.com/perfume/Rayhaan/Nava-Sol-138578.html				pending
+nocturno	Nocturno		male	https://www.fragrantica.com/perfume/Rayhaan/Nocturno-116731.html				pending
+nocturno-elixir	Nocturno Elixir		male	https://www.fragrantica.com/perfume/Rayhaan/Nocturno-Elixir-132522.html				pending
+ocean-rush	Ocean Rush		male	https://www.fragrantica.com/perfume/Rayhaan/Ocean-Rush-107857.html				pending
+ocean-rush-107805	Ocean Rush		male	https://www.fragrantica.com/perfume/Rayhaan/Ocean-Rush-107805.html				pending
+pacific	Pacific		male	https://www.fragrantica.com/perfume/Rayhaan/Pacific-99293.html				pending
+pacific-aloha	Pacific Aloha		unisex	https://www.fragrantica.com/perfume/Rayhaan/Pacific-Aloha-135601.html				pending
+pacific-aura	Pacific Aura		male	https://www.fragrantica.com/perfume/Rayhaan/Pacific-Aura-109709.html				pending
+pharaoh	Pharaoh		unisex	https://www.fragrantica.com/perfume/Rayhaan/Pharaoh-122656.html				pending
+rayhaan-divine	Rayhaan Divine		female	https://www.fragrantica.com/perfume/Rayhaan/Rayhaan-Divine-123640.html				pending
+rayhaan-elixir	Rayhaan Elixir		unisex	https://www.fragrantica.com/perfume/Rayhaan/Rayhaan-Elixir-95265.html				pending
+terra	Terra		male	https://www.fragrantica.com/perfume/Rayhaan/Terra-118549.html				pending
+tiger	Tiger		male	https://www.fragrantica.com/perfume/Rayhaan/Tiger-112886.html				pending
+tonquin-giza	Tonquin Giza		unisex	https://www.fragrantica.com/perfume/Rayhaan/Tonquin-Giza-122844.html				pending
+tropical-vibe	Tropical Vibe		unisex	https://www.fragrantica.com/perfume/Rayhaan/Tropical-Vibe-118507.html				pending
+valhalla	Valhalla		male	https://www.fragrantica.com/perfume/Rayhaan/Valhalla-113592.html				pending
+wolf	Wolf		male	https://www.fragrantica.com/perfume/Rayhaan/Wolf-130798.html				pending
+wood-noir	Wood Noir		male	https://www.fragrantica.com/perfume/Rayhaan/Wood-Noir-107859.html				pending

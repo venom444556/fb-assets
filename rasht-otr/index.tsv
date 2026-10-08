@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adore	Adore		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Adore-60600.html				pending
-amanda	Amanda		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Amanda-62499.html				pending
-east	East		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/East-74028.html				pending
-endless-love	Endless Love		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Endless-Love-60593.html				pending
-exclusive	Exclusive		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Exclusive-74026.html				pending
-her-highness	Her Highness		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Her-Highness-74027.html				pending
-his-highness	His Highness		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/His-Highness-60604.html				pending
-immortal	Immortal		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Immortal-60599.html				pending
-interlaken	Interlaken		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Interlaken-60591.html				pending
-lamar	Lamar		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Lamar-74049.html				pending
-laren	Laren		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Laren-62501.html				pending
-lora	Lora		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Lora-60597.html				pending
-luxury-oud	Luxury Oud		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Luxury-Oud-60594.html				pending
-miracle	Miracle		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Miracle-74029.html				pending
-monaco	Monaco		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Monaco-60598.html				pending
-mykonos	Mykonos		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Mykonos-60596.html				pending
-nova	Nova		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Nova-74030.html				pending
-private	Private		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Private-60602.html				pending
-royal	Royal		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Royal-60605.html				pending
-sevo	Sevo		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Sevo-60589.html				pending
-shy	Shy		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Shy-60601.html				pending
-solo	Solo		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Solo-62500.html				pending
-soul	Soul		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Soul-60603.html				pending
-white-amber	White Amber		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/White-Amber-60590.html				pending
-zell-am-see	Zell Am See		unisex		https://www.fragrantica.com/perfume/Rasht-Otr/Zell-Am-See-60592.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adore	Adore		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Adore-60600.html				pending
+amanda	Amanda		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Amanda-62499.html				pending
+east	East		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/East-74028.html				pending
+endless-love	Endless Love		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Endless-Love-60593.html				pending
+exclusive	Exclusive		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Exclusive-74026.html				pending
+her-highness	Her Highness		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Her-Highness-74027.html				pending
+his-highness	His Highness		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/His-Highness-60604.html				pending
+immortal	Immortal		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Immortal-60599.html				pending
+interlaken	Interlaken		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Interlaken-60591.html				pending
+lamar	Lamar		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Lamar-74049.html				pending
+laren	Laren		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Laren-62501.html				pending
+lora	Lora		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Lora-60597.html				pending
+luxury-oud	Luxury Oud		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Luxury-Oud-60594.html				pending
+miracle	Miracle		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Miracle-74029.html				pending
+monaco	Monaco		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Monaco-60598.html				pending
+mykonos	Mykonos		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Mykonos-60596.html				pending
+nova	Nova		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Nova-74030.html				pending
+private	Private		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Private-60602.html				pending
+royal	Royal		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Royal-60605.html				pending
+sevo	Sevo		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Sevo-60589.html				pending
+shy	Shy		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Shy-60601.html				pending
+solo	Solo		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Solo-62500.html				pending
+soul	Soul		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Soul-60603.html				pending
+white-amber	White Amber		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/White-Amber-60590.html				pending
+zell-am-see	Zell Am See		unisex	https://www.fragrantica.com/perfume/Rasht-Otr/Zell-Am-See-60592.html				pending

@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-crushing-bloom	Crushing Bloom		female		https://www.fragrantica.com/perfume/Tom-Daxon/Crushing-Bloom-22034.html				pending
-fuyu	Fuyu		unisex		https://www.fragrantica.com/perfume/Tom-Daxon/Fuyu-64082.html				pending
-iridium	Iridium		unisex		https://www.fragrantica.com/perfume/Tom-Daxon/Iridium-18348.html				pending
-laconia	Laconia		unisex		https://www.fragrantica.com/perfume/Tom-Daxon/Laconia-52139.html				pending
-magnolia-heights	Magnolia Heights		female		https://www.fragrantica.com/perfume/Tom-Daxon/Magnolia-Heights-38694.html				pending
-midnight-saffron	Midnight Saffron		unisex		https://www.fragrantica.com/perfume/Tom-Daxon/Midnight-Saffron-52137.html				pending
-resin-sacra	Resin Sacra		unisex		https://www.fragrantica.com/perfume/Tom-Daxon/Resin-Sacra-18357.html				pending
-riven-oak	Riven Oak		unisex		https://www.fragrantica.com/perfume/Tom-Daxon/Riven-Oak-48098.html				pending
-salvia-sclarea	Salvia Sclarea		unisex		https://www.fragrantica.com/perfume/Tom-Daxon/Salvia-Sclarea-18350.html				pending
-sicilian-wood	Sicilian Wood		unisex		https://www.fragrantica.com/perfume/Tom-Daxon/Sicilian-Wood-18353.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+crushing-bloom	Crushing Bloom		female	https://www.fragrantica.com/perfume/Tom-Daxon/Crushing-Bloom-22034.html				pending
+fuyu	Fuyu		unisex	https://www.fragrantica.com/perfume/Tom-Daxon/Fuyu-64082.html				pending
+iridium	Iridium		unisex	https://www.fragrantica.com/perfume/Tom-Daxon/Iridium-18348.html				pending
+laconia	Laconia		unisex	https://www.fragrantica.com/perfume/Tom-Daxon/Laconia-52139.html				pending
+magnolia-heights	Magnolia Heights		female	https://www.fragrantica.com/perfume/Tom-Daxon/Magnolia-Heights-38694.html				pending
+midnight-saffron	Midnight Saffron		unisex	https://www.fragrantica.com/perfume/Tom-Daxon/Midnight-Saffron-52137.html				pending
+resin-sacra	Resin Sacra		unisex	https://www.fragrantica.com/perfume/Tom-Daxon/Resin-Sacra-18357.html				pending
+riven-oak	Riven Oak		unisex	https://www.fragrantica.com/perfume/Tom-Daxon/Riven-Oak-48098.html				pending
+salvia-sclarea	Salvia Sclarea		unisex	https://www.fragrantica.com/perfume/Tom-Daxon/Salvia-Sclarea-18350.html				pending
+sicilian-wood	Sicilian Wood		unisex	https://www.fragrantica.com/perfume/Tom-Daxon/Sicilian-Wood-18353.html				pending

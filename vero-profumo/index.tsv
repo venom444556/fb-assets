@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-kiki-extrait-de-parfum	Kiki Extrait de Parfum		female		https://www.fragrantica.com/perfume/Vero-Profumo/Kiki-Extrait-de-Parfum-6106.html				pending
-kiki-voile-dextrait	Kiki Voile d'Extrait		female		https://www.fragrantica.com/perfume/Vero-Profumo/Kiki-Voile-d-Extrait-19639.html				pending
-mito-eau-de-parfum	Mito Eau de Parfum		female		https://www.fragrantica.com/perfume/Vero-Profumo/Mito-Eau-de-Parfum-15327.html				pending
-mito-voile-dextrait	Mito Voile d'Extrait		female		https://www.fragrantica.com/perfume/Vero-Profumo/Mito-Voile-d-Extrait-19641.html				pending
-naja	Naja		unisex		https://www.fragrantica.com/perfume/Vero-Profumo/Naja-44317.html				pending
-onda-voile-dextrait	Onda Voile d'Extrait		unisex		https://www.fragrantica.com/perfume/Vero-Profumo/Onda-Voile-d-Extrait-19644.html				pending
-rozy-eau-de-parfum	Rozy Eau de Parfum		female		https://www.fragrantica.com/perfume/Vero-Profumo/Rozy-Eau-de-Parfum-24132.html				pending
-rozy-voile-dextrait	Rozy Voile d'Extrait		female		https://www.fragrantica.com/perfume/Vero-Profumo/Rozy-Voile-d-Extrait-24134.html				pending
-rubj-voile-dextrait	Rubj Voile d'Extrait		female		https://www.fragrantica.com/perfume/Vero-Profumo/Rubj-Voile-d-Extrait-19646.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+kiki-extrait-de-parfum	Kiki Extrait de Parfum	Extrait de Parfum	female	https://www.fragrantica.com/perfume/Vero-Profumo/Kiki-Extrait-de-Parfum-6106.html				pending
+kiki-voile-dextrait	Kiki Voile d'Extrait	Extrait de Parfum	female	https://www.fragrantica.com/perfume/Vero-Profumo/Kiki-Voile-d-Extrait-19639.html				pending
+mito-eau-de-parfum	Mito Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Vero-Profumo/Mito-Eau-de-Parfum-15327.html				pending
+mito-voile-dextrait	Mito Voile d'Extrait	Extrait de Parfum	female	https://www.fragrantica.com/perfume/Vero-Profumo/Mito-Voile-d-Extrait-19641.html				pending
+naja	Naja		unisex	https://www.fragrantica.com/perfume/Vero-Profumo/Naja-44317.html				pending
+onda-voile-dextrait	Onda Voile d'Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Vero-Profumo/Onda-Voile-d-Extrait-19644.html				pending
+rozy-eau-de-parfum	Rozy Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Vero-Profumo/Rozy-Eau-de-Parfum-24132.html				pending
+rozy-voile-dextrait	Rozy Voile d'Extrait	Extrait de Parfum	female	https://www.fragrantica.com/perfume/Vero-Profumo/Rozy-Voile-d-Extrait-24134.html				pending
+rubj-voile-dextrait	Rubj Voile d'Extrait	Extrait de Parfum	female	https://www.fragrantica.com/perfume/Vero-Profumo/Rubj-Voile-d-Extrait-19646.html				pending

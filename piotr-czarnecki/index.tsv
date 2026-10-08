@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bluebijou	Bluebijou		unisex		https://www.fragrantica.com/perfume/Piotr-Czarnecki/Bluebijou-49274.html				pending
-kiviskin	Kiviskin		male		https://www.fragrantica.com/perfume/Piotr-Czarnecki/Kiviskin-49273.html				pending
-she-shihan-she-sensei	She Shihan (She Sensei)		female		https://www.fragrantica.com/perfume/Piotr-Czarnecki/She-Shihan-She-Sensei-26832.html				pending
-shihan-sensei	Shihan (Sensei)		unisex		https://www.fragrantica.com/perfume/Piotr-Czarnecki/Shihan-Sensei-25964.html				pending
-venom-of-angel	Venom of Angel		unisex		https://www.fragrantica.com/perfume/Piotr-Czarnecki/Venom-of-Angel-49272.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bluebijou	Bluebijou		unisex	https://www.fragrantica.com/perfume/Piotr-Czarnecki/Bluebijou-49274.html				pending
+kiviskin	Kiviskin		male	https://www.fragrantica.com/perfume/Piotr-Czarnecki/Kiviskin-49273.html				pending
+she-shihan-she-sensei	She Shihan (She Sensei)		female	https://www.fragrantica.com/perfume/Piotr-Czarnecki/She-Shihan-She-Sensei-26832.html				pending
+shihan-sensei	Shihan (Sensei)		unisex	https://www.fragrantica.com/perfume/Piotr-Czarnecki/Shihan-Sensei-25964.html				pending
+venom-of-angel	Venom of Angel		unisex	https://www.fragrantica.com/perfume/Piotr-Czarnecki/Venom-of-Angel-49272.html				pending

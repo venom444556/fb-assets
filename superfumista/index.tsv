@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-dolce-nissa	Dolce Nissa		unisex		https://www.fragrantica.com/perfume/Superfumista/Dolce-Nissa-81990.html				pending
-lemon-delight	Lemon Delight		unisex		https://www.fragrantica.com/perfume/Superfumista/Lemon-Delight-92254.html				pending
-nu-blanc	Nu Blanc		unisex		https://www.fragrantica.com/perfume/Superfumista/Nu-Blanc-92078.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+dolce-nissa	Dolce Nissa		unisex	https://www.fragrantica.com/perfume/Superfumista/Dolce-Nissa-81990.html				pending
+lemon-delight	Lemon Delight		unisex	https://www.fragrantica.com/perfume/Superfumista/Lemon-Delight-92254.html				pending
+nu-blanc	Nu Blanc		unisex	https://www.fragrantica.com/perfume/Superfumista/Nu-Blanc-92078.html				pending

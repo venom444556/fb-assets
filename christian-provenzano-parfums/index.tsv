@@ -1,27 +1,27 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-dor	Ambre d'Or		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Ambre-d-Or-49453.html				pending
-ambre-dor-extrait-de-parfum	Ambre D’or Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Ambre-D-or-Extrait-De-Parfum-87823.html				pending
-colosseum-extrait-de-parfum	Colosseum Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Colosseum-Extrait-De-Parfum-87822.html				pending
-cuir-elite	Cuir Elite		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Cuir-Elite-54964.html				pending
-cuir-elite-extrait-de-parfum	Cuir Elite Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Cuir-Elite-Extrait-De-Parfum-87827.html				pending
-esprit-de-oud	Esprit de Oud		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Esprit-de-Oud-66093.html				pending
-fleur-dasie	Fleur d'Asie		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Fleur-d-Asie-66091.html				pending
-inspirato-extrait-de-parfum	Inspirato Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Inspirato-Extrait-De-Parfum-87826.html				pending
-iris-dorient	Iris d'Orient		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Iris-d-Orient-49454.html				pending
-massimo-extrait-de-parfum	Massimo Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Massimo-Extrait-De-Parfum-87825.html				pending
-musc-poudre	Musc Poudré		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Musc-Poudre-66092.html				pending
-nuit-de-noces	Nuit de Noces		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Nuit-de-Noces-49455.html				pending
-onda-de-mar-extrait-de-parfum	Onda de Mar Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Onda-de-Mar-Extrait-de-Parfum-102461.html				pending
-ophelie	Ophelie		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Ophelie-66094.html				pending
-oud-al-fayed	Oud Al Fayed		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Oud-Al-Fayed-49456.html				pending
-oud-al-fayed-extrait-de-parfum	Oud al Fayed Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Oud-al-Fayed-Extrait-De-Parfum-87824.html				pending
-oud-signature	Oud Signature		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Oud-Signature-49457.html				pending
-palazzo-extrait-de-parfum	Palazzo Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Palazzo-Extrait-De-Parfum-87821.html				pending
-patchouli-noir	Patchouli Noir		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Patchouli-Noir-49458.html				pending
-patchouli-noir-extrait-de-parfum	Patchouli Noir Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Patchouli-Noir-Extrait-De-Parfum-87820.html				pending
-patchouli-noir-intense	Patchouli Noir Intense		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Patchouli-Noir-Intense-66090.html				pending
-rocca-extrait-de-parfum	Rocca Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Rocca-Extrait-De-Parfum-87819.html				pending
-santal-indien	Santal Indien		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Santal-Indien-66089.html				pending
-santal-indien-extrait-de-parfum	Santal Indien Extrait De Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Santal-Indien-Extrait-De-Parfum-87818.html				pending
-spezia-extrait-de-parfum	Spezia Extrait de Parfum		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Spezia-Extrait-de-Parfum-90028.html				pending
-ultimate-rose	Ultimate Rose		unisex		https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Ultimate-Rose-54965.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-dor	Ambre d'Or		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Ambre-d-Or-49453.html				pending
+ambre-dor-extrait-de-parfum	Ambre D’or Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Ambre-D-or-Extrait-De-Parfum-87823.html				pending
+colosseum-extrait-de-parfum	Colosseum Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Colosseum-Extrait-De-Parfum-87822.html				pending
+cuir-elite	Cuir Elite		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Cuir-Elite-54964.html				pending
+cuir-elite-extrait-de-parfum	Cuir Elite Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Cuir-Elite-Extrait-De-Parfum-87827.html				pending
+esprit-de-oud	Esprit de Oud		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Esprit-de-Oud-66093.html				pending
+fleur-dasie	Fleur d'Asie		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Fleur-d-Asie-66091.html				pending
+inspirato-extrait-de-parfum	Inspirato Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Inspirato-Extrait-De-Parfum-87826.html				pending
+iris-dorient	Iris d'Orient		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Iris-d-Orient-49454.html				pending
+massimo-extrait-de-parfum	Massimo Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Massimo-Extrait-De-Parfum-87825.html				pending
+musc-poudre	Musc Poudré		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Musc-Poudre-66092.html				pending
+nuit-de-noces	Nuit de Noces		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Nuit-de-Noces-49455.html				pending
+onda-de-mar-extrait-de-parfum	Onda de Mar Extrait de Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Onda-de-Mar-Extrait-de-Parfum-102461.html				pending
+ophelie	Ophelie		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Ophelie-66094.html				pending
+oud-al-fayed	Oud Al Fayed		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Oud-Al-Fayed-49456.html				pending
+oud-al-fayed-extrait-de-parfum	Oud al Fayed Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Oud-al-Fayed-Extrait-De-Parfum-87824.html				pending
+oud-signature	Oud Signature		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Oud-Signature-49457.html				pending
+palazzo-extrait-de-parfum	Palazzo Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Palazzo-Extrait-De-Parfum-87821.html				pending
+patchouli-noir	Patchouli Noir		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Patchouli-Noir-49458.html				pending
+patchouli-noir-extrait-de-parfum	Patchouli Noir Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Patchouli-Noir-Extrait-De-Parfum-87820.html				pending
+patchouli-noir-intense	Patchouli Noir Intense		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Patchouli-Noir-Intense-66090.html				pending
+rocca-extrait-de-parfum	Rocca Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Rocca-Extrait-De-Parfum-87819.html				pending
+santal-indien	Santal Indien		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Santal-Indien-66089.html				pending
+santal-indien-extrait-de-parfum	Santal Indien Extrait De Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Santal-Indien-Extrait-De-Parfum-87818.html				pending
+spezia-extrait-de-parfum	Spezia Extrait de Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Spezia-Extrait-de-Parfum-90028.html				pending
+ultimate-rose	Ultimate Rose		unisex	https://www.fragrantica.com/perfume/Christian-Provenzano-Parfums/Ultimate-Rose-54965.html				pending

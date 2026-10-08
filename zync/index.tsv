@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-audacity	Audacity		male		https://www.fragrantica.com/perfume/Zync/Audacity-33026.html				pending
-bombshell	Bombshell		female		https://www.fragrantica.com/perfume/Zync/Bombshell-33024.html				pending
-dictator	Dictator		male		https://www.fragrantica.com/perfume/Zync/Dictator-33027.html				pending
-evolver	Evolver		male		https://www.fragrantica.com/perfume/Zync/Evolver-33020.html				pending
-femme-fatale	Femme Fatale		female		https://www.fragrantica.com/perfume/Zync/Femme-Fatale-33025.html				pending
-la-flora	La Flora		female		https://www.fragrantica.com/perfume/Zync/La-Flora-33021.html				pending
-lusty-move	Lusty Move		female		https://www.fragrantica.com/perfume/Zync/Lusty-Move-33022.html				pending
-rosso	Rosso		female		https://www.fragrantica.com/perfume/Zync/Rosso-33028.html				pending
-silver-arrow	Silver Arrow		male		https://www.fragrantica.com/perfume/Zync/Silver-Arrow-33023.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+audacity	Audacity		male	https://www.fragrantica.com/perfume/Zync/Audacity-33026.html				pending
+bombshell	Bombshell		female	https://www.fragrantica.com/perfume/Zync/Bombshell-33024.html				pending
+dictator	Dictator		male	https://www.fragrantica.com/perfume/Zync/Dictator-33027.html				pending
+evolver	Evolver		male	https://www.fragrantica.com/perfume/Zync/Evolver-33020.html				pending
+femme-fatale	Femme Fatale		female	https://www.fragrantica.com/perfume/Zync/Femme-Fatale-33025.html				pending
+la-flora	La Flora		female	https://www.fragrantica.com/perfume/Zync/La-Flora-33021.html				pending
+lusty-move	Lusty Move		female	https://www.fragrantica.com/perfume/Zync/Lusty-Move-33022.html				pending
+rosso	Rosso		female	https://www.fragrantica.com/perfume/Zync/Rosso-33028.html				pending
+silver-arrow	Silver Arrow		male	https://www.fragrantica.com/perfume/Zync/Silver-Arrow-33023.html				pending

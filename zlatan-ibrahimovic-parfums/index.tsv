@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-myth-bloom	Myth Bloom		female		https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Myth-Bloom-44816.html				pending
-myth-wood	Myth Wood		male		https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Myth-Wood-44815.html				pending
-supreme-pour-femme	Supreme Pour Femme		female		https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Supreme-Pour-Femme-38350.html				pending
-supreme-pour-homme	Supreme Pour Homme		male		https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Supreme-Pour-Homme-38349.html				pending
-zlatan-pour-homme	Zlatan Pour Homme		male		https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Zlatan-Pour-Homme-31376.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+myth-bloom	Myth Bloom		female	https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Myth-Bloom-44816.html				pending
+myth-wood	Myth Wood		male	https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Myth-Wood-44815.html				pending
+supreme-pour-femme	Supreme Pour Femme		female	https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Supreme-Pour-Femme-38350.html				pending
+supreme-pour-homme	Supreme Pour Homme		male	https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Supreme-Pour-Homme-38349.html				pending
+zlatan-pour-homme	Zlatan Pour Homme		male	https://www.fragrantica.com/perfume/Zlatan-Ibrahimovic-Parfums/Zlatan-Pour-Homme-31376.html				pending

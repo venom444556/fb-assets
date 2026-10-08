@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blue-azure	Blue Azure		female		https://www.fragrantica.com/perfume/Golden-Rose/Blue-Azure-78516.html				pending
-red-rose	Red Rose		female		https://www.fragrantica.com/perfume/Golden-Rose/Red-Rose-78513.html				pending
-sun-light	Sun Light		female		https://www.fragrantica.com/perfume/Golden-Rose/Sun-Light-78514.html				pending
-violet-mist	Violet Mist		female		https://www.fragrantica.com/perfume/Golden-Rose/Violet-Mist-78515.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blue-azure	Blue Azure		female	https://www.fragrantica.com/perfume/Golden-Rose/Blue-Azure-78516.html				pending
+red-rose	Red Rose		female	https://www.fragrantica.com/perfume/Golden-Rose/Red-Rose-78513.html				pending
+sun-light	Sun Light		female	https://www.fragrantica.com/perfume/Golden-Rose/Sun-Light-78514.html				pending
+violet-mist	Violet Mist		female	https://www.fragrantica.com/perfume/Golden-Rose/Violet-Mist-78515.html				pending

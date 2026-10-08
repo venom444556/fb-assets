@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-273-indigo	273 Indigo		female		https://www.fragrantica.com/perfume/Fred-Hayman/273-Indigo-5873.html				pending
-273-indigo-for-men	273 Indigo for Men		male		https://www.fragrantica.com/perfume/Fred-Hayman/273-Indigo-for-Men-5874.html				pending
-273-red	273 Red		female		https://www.fragrantica.com/perfume/Fred-Hayman/273-Red-39385.html				pending
-273-red-39386	273 Red		male		https://www.fragrantica.com/perfume/Fred-Hayman/273-Red-39386.html				pending
-273-rodeo-drive	273 Rodeo Drive		female		https://www.fragrantica.com/perfume/Fred-Hayman/273-Rodeo-Drive-5875.html				pending
-273-rodeo-drive-for-men	273 Rodeo Drive for Men		male		https://www.fragrantica.com/perfume/Fred-Hayman/273-Rodeo-Drive-for-Men-5876.html				pending
-hollywood	Hollywood		female		https://www.fragrantica.com/perfume/Fred-Hayman/Hollywood-5865.html				pending
-hollywood-for-men	Hollywood for Men		male		https://www.fragrantica.com/perfume/Fred-Hayman/Hollywood-for-Men-5866.html				pending
-hollywood-star	Hollywood Star		female		https://www.fragrantica.com/perfume/Fred-Hayman/Hollywood-Star-5867.html				pending
-touch	Touch		female		https://www.fragrantica.com/perfume/Fred-Hayman/Touch-5868.html				pending
-touch-for-men	Touch for Men		male		https://www.fragrantica.com/perfume/Fred-Hayman/Touch-for-Men-5869.html				pending
-touch-sport	Touch Sport		male		https://www.fragrantica.com/perfume/Fred-Hayman/Touch-Sport-5870.html				pending
-touch-with-love	Touch With Love		female		https://www.fragrantica.com/perfume/Fred-Hayman/Touch-With-Love-5871.html				pending
-touch-with-love-for-men	Touch With Love for Men		male		https://www.fragrantica.com/perfume/Fred-Hayman/Touch-With-Love-for-Men-5872.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+273-indigo	273 Indigo		female	https://www.fragrantica.com/perfume/Fred-Hayman/273-Indigo-5873.html				pending
+273-indigo-for-men	273 Indigo for Men		male	https://www.fragrantica.com/perfume/Fred-Hayman/273-Indigo-for-Men-5874.html				pending
+273-red	273 Red		female	https://www.fragrantica.com/perfume/Fred-Hayman/273-Red-39385.html				pending
+273-red-39386	273 Red		male	https://www.fragrantica.com/perfume/Fred-Hayman/273-Red-39386.html				pending
+273-rodeo-drive	273 Rodeo Drive		female	https://www.fragrantica.com/perfume/Fred-Hayman/273-Rodeo-Drive-5875.html				pending
+273-rodeo-drive-for-men	273 Rodeo Drive for Men		male	https://www.fragrantica.com/perfume/Fred-Hayman/273-Rodeo-Drive-for-Men-5876.html				pending
+hollywood	Hollywood		female	https://www.fragrantica.com/perfume/Fred-Hayman/Hollywood-5865.html				pending
+hollywood-for-men	Hollywood for Men		male	https://www.fragrantica.com/perfume/Fred-Hayman/Hollywood-for-Men-5866.html				pending
+hollywood-star	Hollywood Star		female	https://www.fragrantica.com/perfume/Fred-Hayman/Hollywood-Star-5867.html				pending
+touch	Touch		female	https://www.fragrantica.com/perfume/Fred-Hayman/Touch-5868.html				pending
+touch-for-men	Touch for Men		male	https://www.fragrantica.com/perfume/Fred-Hayman/Touch-for-Men-5869.html				pending
+touch-sport	Touch Sport		male	https://www.fragrantica.com/perfume/Fred-Hayman/Touch-Sport-5870.html				pending
+touch-with-love	Touch With Love		female	https://www.fragrantica.com/perfume/Fred-Hayman/Touch-With-Love-5871.html				pending
+touch-with-love-for-men	Touch With Love for Men		male	https://www.fragrantica.com/perfume/Fred-Hayman/Touch-With-Love-for-Men-5872.html				pending

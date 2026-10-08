@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-resin	Amber Resin		unisex		https://www.fragrantica.com/perfume/Amygdala/Amber-Resin-43338.html				pending
-ambergris	Ambergris		unisex		https://www.fragrantica.com/perfume/Amygdala/Ambergris-43339.html				pending
-bergamot	Bergamot		unisex		https://www.fragrantica.com/perfume/Amygdala/Bergamot-40329.html				pending
-cherry-blossom	Cherry Blossom		unisex		https://www.fragrantica.com/perfume/Amygdala/Cherry-Blossom-40330.html				pending
-civet	Civet		unisex		https://www.fragrantica.com/perfume/Amygdala/Civet-43340.html				pending
-gardenia	Gardenia		unisex		https://www.fragrantica.com/perfume/Amygdala/Gardenia-43341.html				pending
-geranium	Geranium		unisex		https://www.fragrantica.com/perfume/Amygdala/Geranium-43342.html				pending
-green-tea	Green Tea		unisex		https://www.fragrantica.com/perfume/Amygdala/Green-Tea-40331.html				pending
-honey	Honey		unisex		https://www.fragrantica.com/perfume/Amygdala/Honey-43343.html				pending
-imperial-rose	Imperial Rose		unisex		https://www.fragrantica.com/perfume/Amygdala/Imperial-Rose-40332.html				pending
-iris	Iris		unisex		https://www.fragrantica.com/perfume/Amygdala/Iris-40333.html				pending
-jasmine	Jasmine		unisex		https://www.fragrantica.com/perfume/Amygdala/Jasmine-40334.html				pending
-lavender	Lavender		unisex		https://www.fragrantica.com/perfume/Amygdala/Lavender-43344.html				pending
-leather	Leather		unisex		https://www.fragrantica.com/perfume/Amygdala/Leather-43345.html				pending
-lemon	Lemon		unisex		https://www.fragrantica.com/perfume/Amygdala/Lemon-43346.html				pending
-neroli	Neroli		unisex		https://www.fragrantica.com/perfume/Amygdala/Neroli-40335.html				pending
-oakmoss	Oakmoss		unisex		https://www.fragrantica.com/perfume/Amygdala/Oakmoss-43347.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Amygdala/Patchouli-43348.html				pending
-pear	Pear		unisex		https://www.fragrantica.com/perfume/Amygdala/Pear-40336.html				pending
-peony	Peony		unisex		https://www.fragrantica.com/perfume/Amygdala/Peony-43349.html				pending
-pink-pepper	Pink Pepper		unisex		https://www.fragrantica.com/perfume/Amygdala/Pink-Pepper-43350.html				pending
-redcurrant	Redcurrant		unisex		https://www.fragrantica.com/perfume/Amygdala/Redcurrant-43351.html				pending
-sea-salt	Sea Salt		unisex		https://www.fragrantica.com/perfume/Amygdala/Sea-Salt-43352.html				pending
-tobacco	Tobacco		unisex		https://www.fragrantica.com/perfume/Amygdala/Tobacco-43353.html				pending
-tonka-bean	Tonka Bean		unisex		https://www.fragrantica.com/perfume/Amygdala/Tonka-Bean-40337.html				pending
-tuberose	Tuberose		unisex		https://www.fragrantica.com/perfume/Amygdala/Tuberose-43354.html				pending
-vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/Amygdala/Vetiver-43356.html				pending
-virginia-cedarwood	Virginia Cedarwood		unisex		https://www.fragrantica.com/perfume/Amygdala/Virginia-Cedarwood-40338.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-resin	Amber Resin		unisex	https://www.fragrantica.com/perfume/Amygdala/Amber-Resin-43338.html				pending
+ambergris	Ambergris		unisex	https://www.fragrantica.com/perfume/Amygdala/Ambergris-43339.html				pending
+bergamot	Bergamot		unisex	https://www.fragrantica.com/perfume/Amygdala/Bergamot-40329.html				pending
+cherry-blossom	Cherry Blossom		unisex	https://www.fragrantica.com/perfume/Amygdala/Cherry-Blossom-40330.html				pending
+civet	Civet		unisex	https://www.fragrantica.com/perfume/Amygdala/Civet-43340.html				pending
+gardenia	Gardenia		unisex	https://www.fragrantica.com/perfume/Amygdala/Gardenia-43341.html				pending
+geranium	Geranium		unisex	https://www.fragrantica.com/perfume/Amygdala/Geranium-43342.html				pending
+green-tea	Green Tea		unisex	https://www.fragrantica.com/perfume/Amygdala/Green-Tea-40331.html				pending
+honey	Honey		unisex	https://www.fragrantica.com/perfume/Amygdala/Honey-43343.html				pending
+imperial-rose	Imperial Rose		unisex	https://www.fragrantica.com/perfume/Amygdala/Imperial-Rose-40332.html				pending
+iris	Iris		unisex	https://www.fragrantica.com/perfume/Amygdala/Iris-40333.html				pending
+jasmine	Jasmine		unisex	https://www.fragrantica.com/perfume/Amygdala/Jasmine-40334.html				pending
+lavender	Lavender		unisex	https://www.fragrantica.com/perfume/Amygdala/Lavender-43344.html				pending
+leather	Leather		unisex	https://www.fragrantica.com/perfume/Amygdala/Leather-43345.html				pending
+lemon	Lemon		unisex	https://www.fragrantica.com/perfume/Amygdala/Lemon-43346.html				pending
+neroli	Neroli		unisex	https://www.fragrantica.com/perfume/Amygdala/Neroli-40335.html				pending
+oakmoss	Oakmoss		unisex	https://www.fragrantica.com/perfume/Amygdala/Oakmoss-43347.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/Amygdala/Patchouli-43348.html				pending
+pear	Pear		unisex	https://www.fragrantica.com/perfume/Amygdala/Pear-40336.html				pending
+peony	Peony		unisex	https://www.fragrantica.com/perfume/Amygdala/Peony-43349.html				pending
+pink-pepper	Pink Pepper		unisex	https://www.fragrantica.com/perfume/Amygdala/Pink-Pepper-43350.html				pending
+redcurrant	Redcurrant		unisex	https://www.fragrantica.com/perfume/Amygdala/Redcurrant-43351.html				pending
+sea-salt	Sea Salt		unisex	https://www.fragrantica.com/perfume/Amygdala/Sea-Salt-43352.html				pending
+tobacco	Tobacco		unisex	https://www.fragrantica.com/perfume/Amygdala/Tobacco-43353.html				pending
+tonka-bean	Tonka Bean		unisex	https://www.fragrantica.com/perfume/Amygdala/Tonka-Bean-40337.html				pending
+tuberose	Tuberose		unisex	https://www.fragrantica.com/perfume/Amygdala/Tuberose-43354.html				pending
+vetiver	Vetiver		unisex	https://www.fragrantica.com/perfume/Amygdala/Vetiver-43356.html				pending
+virginia-cedarwood	Virginia Cedarwood		unisex	https://www.fragrantica.com/perfume/Amygdala/Virginia-Cedarwood-40338.html				pending

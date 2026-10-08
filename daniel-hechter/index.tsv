@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black	Black		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Black-31834.html				pending
-caractere	Caractere		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-4916.html				pending
-caractere-blue	Caractere Blue		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-Blue-17466.html				pending
-caractere-de-femme	Caractere de Femme		female		https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-de-Femme-17463.html				pending
-caractere-sport	Caractere Sport		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-Sport-17464.html				pending
-caractere-sport-extreme	Caractere Sport Extreme		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-Sport-Extreme-17465.html				pending
-contact	Contact		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Contact-17468.html				pending
-cuir-sensuel	Cuir Sensuel		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Cuir-Sensuel-28712.html				pending
-daniel-hechter-sport	Daniel Hechter Sport		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Daniel-Hechter-Sport-7918.html				pending
-daniel-hechter-sport-pour-elle	Daniel Hechter Sport Pour Elle		female		https://www.fragrantica.com/perfume/Daniel-Hechter/Daniel-Hechter-Sport-Pour-Elle-17470.html				pending
-hechter-paris	Hechter Paris		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Hechter-Paris-17471.html				pending
-jeans-brut	Jeans Brut		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Jeans-Brut-26188.html				pending
-midnight	Midnight		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Midnight-17469.html				pending
-velours-intense	Velours Intense		male		https://www.fragrantica.com/perfume/Daniel-Hechter/Velours-Intense-31835.html				pending
-xxl	XXL		male		https://www.fragrantica.com/perfume/Daniel-Hechter/XXL-17467.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black	Black		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Black-31834.html				pending
+caractere	Caractere		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-4916.html				pending
+caractere-blue	Caractere Blue		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-Blue-17466.html				pending
+caractere-de-femme	Caractere de Femme		female	https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-de-Femme-17463.html				pending
+caractere-sport	Caractere Sport		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-Sport-17464.html				pending
+caractere-sport-extreme	Caractere Sport Extreme		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Caractere-Sport-Extreme-17465.html				pending
+contact	Contact		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Contact-17468.html				pending
+cuir-sensuel	Cuir Sensuel		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Cuir-Sensuel-28712.html				pending
+daniel-hechter-sport	Daniel Hechter Sport		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Daniel-Hechter-Sport-7918.html				pending
+daniel-hechter-sport-pour-elle	Daniel Hechter Sport Pour Elle		female	https://www.fragrantica.com/perfume/Daniel-Hechter/Daniel-Hechter-Sport-Pour-Elle-17470.html				pending
+hechter-paris	Hechter Paris		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Hechter-Paris-17471.html				pending
+jeans-brut	Jeans Brut		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Jeans-Brut-26188.html				pending
+midnight	Midnight		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Midnight-17469.html				pending
+velours-intense	Velours Intense		male	https://www.fragrantica.com/perfume/Daniel-Hechter/Velours-Intense-31835.html				pending
+xxl	XXL		male	https://www.fragrantica.com/perfume/Daniel-Hechter/XXL-17467.html				pending

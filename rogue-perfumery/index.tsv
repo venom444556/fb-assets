@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-40-rogue	40 Rogue		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/40-Rogue-56228.html				pending
-aoud-ancienne	A'Oud Ancienne		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/A-Oud-Ancienne-81908.html				pending
-absolue-de-mousse	Absolue de Mousse		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Absolue-de-Mousse-95311.html				pending
-bon-monsieur	Bon Monsieur		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Bon-Monsieur-64537.html				pending
-bonded	Bonded		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Bonded-105976.html				pending
-champs-lunaires	Champs Lunaires		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Champs-Lunaires-53818.html				pending
-chypre-siam	Chypre-Siam		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Chypre-Siam-53816.html				pending
-derviche	Derviche		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Derviche-53819.html				pending
-derviche-ii	Derviche II		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Derviche-II-71230.html				pending
-flora-and-fauna	Flora & Fauna		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Flora-Fauna-64536.html				pending
-flos-mortis	Flos Mortis		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Flos-Mortis-56247.html				pending
-fougere-laube	Fougere L’Aube		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Fougere-L-Aube-53815.html				pending
-ishtar	Ishtar		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Ishtar-62326.html				pending
-jasmin-antique	Jasmin Antique		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Jasmin-Antique-60679.html				pending
-lhomme-m-lacroix	L'homme M. Lacroix		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/L-homme-M-Lacroix-81907.html				pending
-le-canotier	Le Canotier		male		https://www.fragrantica.com/perfume/Rogue-Perfumery/Le-Canotier-53820.html				pending
-mousse-illuminee	Mousse Illuminee		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Mousse-Illuminee-53821.html				pending
-rostracto	Rostracto		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Rostracto-75640.html				pending
-tabac-vert	Tabac Vert		male		https://www.fragrantica.com/perfume/Rogue-Perfumery/Tabac-Vert-53817.html				pending
-targhee-forest	Targhee Forest		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Targhee-Forest-82083.html				pending
-tuberose-and-moss	Tuberose & Moss		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Tuberose-Moss-62327.html				pending
-vetifleur	Vetifleur		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Vetifleur-70951.html				pending
-vetifleur-71231	Vetifleur		unisex		https://www.fragrantica.com/perfume/Rogue-Perfumery/Vetifleur-71231.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+40-rogue	40 Rogue		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/40-Rogue-56228.html				pending
+aoud-ancienne	A'Oud Ancienne		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/A-Oud-Ancienne-81908.html				pending
+absolue-de-mousse	Absolue de Mousse		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Absolue-de-Mousse-95311.html				pending
+bon-monsieur	Bon Monsieur		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Bon-Monsieur-64537.html				pending
+bonded	Bonded		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Bonded-105976.html				pending
+champs-lunaires	Champs Lunaires		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Champs-Lunaires-53818.html				pending
+chypre-siam	Chypre-Siam		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Chypre-Siam-53816.html				pending
+derviche	Derviche		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Derviche-53819.html				pending
+derviche-ii	Derviche II		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Derviche-II-71230.html				pending
+flora-and-fauna	Flora & Fauna		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Flora-Fauna-64536.html				pending
+flos-mortis	Flos Mortis		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Flos-Mortis-56247.html				pending
+fougere-laube	Fougere L’Aube		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Fougere-L-Aube-53815.html				pending
+ishtar	Ishtar		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Ishtar-62326.html				pending
+jasmin-antique	Jasmin Antique		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Jasmin-Antique-60679.html				pending
+lhomme-m-lacroix	L'homme M. Lacroix		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/L-homme-M-Lacroix-81907.html				pending
+le-canotier	Le Canotier		male	https://www.fragrantica.com/perfume/Rogue-Perfumery/Le-Canotier-53820.html				pending
+mousse-illuminee	Mousse Illuminee		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Mousse-Illuminee-53821.html				pending
+rostracto	Rostracto		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Rostracto-75640.html				pending
+tabac-vert	Tabac Vert		male	https://www.fragrantica.com/perfume/Rogue-Perfumery/Tabac-Vert-53817.html				pending
+targhee-forest	Targhee Forest		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Targhee-Forest-82083.html				pending
+tuberose-and-moss	Tuberose & Moss		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Tuberose-Moss-62327.html				pending
+vetifleur	Vetifleur		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Vetifleur-70951.html				pending
+vetifleur-71231	Vetifleur		unisex	https://www.fragrantica.com/perfume/Rogue-Perfumery/Vetifleur-71231.html				pending

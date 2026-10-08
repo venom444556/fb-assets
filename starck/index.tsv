@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-peau-dailleurs	Peau d'Ailleurs		unisex		https://www.fragrantica.com/perfume/Starck/Peau-d-Ailleurs-40546.html				pending
-peau-de-lumiere-magique	Peau de Lumière Magique		female		https://www.fragrantica.com/perfume/Starck/Peau-de-Lumiere-Magique-51417.html				pending
-peau-de-pierre	Peau de Pierre		male		https://www.fragrantica.com/perfume/Starck/Peau-de-Pierre-40547.html				pending
-peau-de-soie	Peau de Soie		female		https://www.fragrantica.com/perfume/Starck/Peau-de-Soie-40545.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+peau-dailleurs	Peau d'Ailleurs		unisex	https://www.fragrantica.com/perfume/Starck/Peau-d-Ailleurs-40546.html				pending
+peau-de-lumiere-magique	Peau de Lumière Magique		female	https://www.fragrantica.com/perfume/Starck/Peau-de-Lumiere-Magique-51417.html				pending
+peau-de-pierre	Peau de Pierre		male	https://www.fragrantica.com/perfume/Starck/Peau-de-Pierre-40547.html				pending
+peau-de-soie	Peau de Soie		female	https://www.fragrantica.com/perfume/Starck/Peau-de-Soie-40545.html				pending

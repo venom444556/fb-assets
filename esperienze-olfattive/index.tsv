@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-come	A Come		unisex		https://www.fragrantica.com/perfume/Esperienze-Olfattive/A-Come-28041.html				pending
-attimi	Attimi		unisex		https://www.fragrantica.com/perfume/Esperienze-Olfattive/Attimi-28040.html				pending
-dolcedesiderio	Dolcedesiderio		unisex		https://www.fragrantica.com/perfume/Esperienze-Olfattive/Dolcedesiderio-28036.html				pending
-lavanda-doriente	Lavanda d'Oriente		unisex		https://www.fragrantica.com/perfume/Esperienze-Olfattive/Lavanda-d-Oriente-28038.html				pending
-lavanda-fizz	Lavanda Fizz		unisex		https://www.fragrantica.com/perfume/Esperienze-Olfattive/Lavanda-Fizz-28039.html				pending
-living-lavender	Living Lavender		unisex		https://www.fragrantica.com/perfume/Esperienze-Olfattive/Living-Lavender-28035.html				pending
-spicy-lavender	Spicy Lavender		unisex		https://www.fragrantica.com/perfume/Esperienze-Olfattive/Spicy-Lavender-28037.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-come	A Come		unisex	https://www.fragrantica.com/perfume/Esperienze-Olfattive/A-Come-28041.html				pending
+attimi	Attimi		unisex	https://www.fragrantica.com/perfume/Esperienze-Olfattive/Attimi-28040.html				pending
+dolcedesiderio	Dolcedesiderio		unisex	https://www.fragrantica.com/perfume/Esperienze-Olfattive/Dolcedesiderio-28036.html				pending
+lavanda-doriente	Lavanda d'Oriente		unisex	https://www.fragrantica.com/perfume/Esperienze-Olfattive/Lavanda-d-Oriente-28038.html				pending
+lavanda-fizz	Lavanda Fizz		unisex	https://www.fragrantica.com/perfume/Esperienze-Olfattive/Lavanda-Fizz-28039.html				pending
+living-lavender	Living Lavender		unisex	https://www.fragrantica.com/perfume/Esperienze-Olfattive/Living-Lavender-28035.html				pending
+spicy-lavender	Spicy Lavender		unisex	https://www.fragrantica.com/perfume/Esperienze-Olfattive/Spicy-Lavender-28037.html				pending

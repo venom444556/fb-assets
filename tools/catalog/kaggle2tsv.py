@@ -6,7 +6,8 @@ G = [('for women and men','unisex'),('for women','female'),('for men','male')]
 def norm(s): return re.sub(r'[^a-z0-9]','',unicodedata.normalize('NFKD',s).encode('ascii','ignore').decode().lower())
 have = set(); segname = {}
 for r in csv.DictReader(open(sys.argv[1], encoding='utf-8'), delimiter='\t'):
-    have.add(r['fragrantica_id']); m = U.match(r['fragrantica_url'])
+    m = U.match(r['fragrantica_url'])
+    if m: have.add(m.group(3))
     if m: segname.setdefault(m.group(1), r['house'])
 out = csv.writer(sys.stdout, delimiter='\t', lineterminator='\n'); out.writerow(['house','fragrance','gender','fragrantica_url'])
 stats = collections.Counter(); brands = collections.defaultdict(collections.Counter); pending = []

@@ -1,40 +1,40 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adventurer	Adventurer		male		https://www.fragrantica.com/perfume/Aramis/Adventurer-27572.html				pending
-aramis	Aramis		male		https://www.fragrantica.com/perfume/Aramis/Aramis-113.html				pending
-aramis-900	Aramis 900		male		https://www.fragrantica.com/perfume/Aramis/Aramis-900-116.html				pending
-aramis-a	Aramis A		male		https://www.fragrantica.com/perfume/Aramis/Aramis-A-3557.html				pending
-aramis-always-for-her	Aramis Always for Her		female		https://www.fragrantica.com/perfume/Aramis/Aramis-Always-for-Her-114.html				pending
-aramis-always-for-him	Aramis Always for Him		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Always-for-Him-115.html				pending
-aramis-bermuda-tonic	Aramis Bermuda Tonic		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Bermuda-Tonic-117.html				pending
-aramis-black	Aramis Black		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Black-33477.html				pending
-aramis-classic-anniversary-edition	Aramis Classic Anniversary Edition		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Classic-Anniversary-Edition-28133.html				pending
-aramis-classic-reserve	Aramis Classic Reserve		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Classic-Reserve-3155.html				pending
-aramis-cool	Aramis Cool		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Cool-118.html				pending
-aramis-cool-blend	Aramis Cool Blend		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Cool-Blend-7839.html				pending
-aramis-devin	Aramis Devin		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Devin-3644.html				pending
-aramis-ice	Aramis Ice		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Ice-119.html				pending
-aramis-life	Aramis Life		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Life-120.html				pending
-aramis-life-my-summer	Aramis Life My Summer		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Life-My-Summer-121.html				pending
-aramis-modern-leather	Aramis Modern Leather		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Modern-Leather-46397.html				pending
-aramis-special-blend	Aramis Special Blend		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Special-Blend-59125.html				pending
-aramis-vintage-edition	Aramis Vintage Edition		male		https://www.fragrantica.com/perfume/Aramis/Aramis-Vintage-Edition-34202.html				pending
-gentleman	Gentleman		male		https://www.fragrantica.com/perfume/Aramis/Gentleman-16461.html				pending
-gold	Gold		male		https://www.fragrantica.com/perfume/Aramis/Gold-33984.html				pending
-havana	Havana		male		https://www.fragrantica.com/perfume/Aramis/Havana-599.html				pending
-havana-pour-elle	Havana Pour Elle		female		https://www.fragrantica.com/perfume/Aramis/Havana-Pour-Elle-558.html				pending
-havana-reserva	Havana Reserva		male		https://www.fragrantica.com/perfume/Aramis/Havana-Reserva-3788.html				pending
-impeccable	Impeccable		male		https://www.fragrantica.com/perfume/Aramis/Impeccable-10009.html				pending
-intuition	Intuition		male		https://www.fragrantica.com/perfume/Aramis/Intuition-106362.html				pending
-jhl	JHL		male		https://www.fragrantica.com/perfume/Aramis/JHL-6491.html				pending
-new-west-desert-sensual-nectar	New West Desert Sensual Nectar		female		https://www.fragrantica.com/perfume/Aramis/New-West-Desert-Sensual-Nectar-59554.html				pending
-new-west-for-her	New West for Her		female		https://www.fragrantica.com/perfume/Aramis/New-West-for-Her-4857.html				pending
-new-west-for-him	New West for Him		male		https://www.fragrantica.com/perfume/Aramis/New-West-for-Him-4858.html				pending
-perfume-calligraphy	Perfume Calligraphy		unisex		https://www.fragrantica.com/perfume/Aramis/Perfume-Calligraphy-15123.html				pending
-perfume-calligraphy-rose	Perfume Calligraphy Rose		unisex		https://www.fragrantica.com/perfume/Aramis/Perfume-Calligraphy-Rose-18132.html				pending
-perfume-calligraphy-saffron	Perfume Calligraphy Saffron		unisex		https://www.fragrantica.com/perfume/Aramis/Perfume-Calligraphy-Saffron-22961.html				pending
-surface	Surface		male		https://www.fragrantica.com/perfume/Aramis/Surface-5523.html				pending
-tobacco-reserve	Tobacco Reserve		male		https://www.fragrantica.com/perfume/Aramis/Tobacco-Reserve-50564.html				pending
-tuscany-forte-per-uomo	Tuscany Forte Per Uomo		male		https://www.fragrantica.com/perfume/Aramis/Tuscany-Forte-Per-Uomo-16822.html				pending
-tuscany-per-donna	Tuscany Per Donna		female		https://www.fragrantica.com/perfume/Aramis/Tuscany-Per-Donna-122.html				pending
-tuscany-per-uomo	Tuscany Per Uomo		male		https://www.fragrantica.com/perfume/Aramis/Tuscany-Per-Uomo-123.html				pending
-voyager	Voyager		male		https://www.fragrantica.com/perfume/Aramis/Voyager-39608.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adventurer	Adventurer		male	https://www.fragrantica.com/perfume/Aramis/Adventurer-27572.html				pending
+aramis	Aramis		male	https://www.fragrantica.com/perfume/Aramis/Aramis-113.html				pending
+aramis-900	Aramis 900		male	https://www.fragrantica.com/perfume/Aramis/Aramis-900-116.html				pending
+aramis-a	Aramis A		male	https://www.fragrantica.com/perfume/Aramis/Aramis-A-3557.html				pending
+aramis-always-for-her	Aramis Always for Her		female	https://www.fragrantica.com/perfume/Aramis/Aramis-Always-for-Her-114.html				pending
+aramis-always-for-him	Aramis Always for Him		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Always-for-Him-115.html				pending
+aramis-bermuda-tonic	Aramis Bermuda Tonic		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Bermuda-Tonic-117.html				pending
+aramis-black	Aramis Black		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Black-33477.html				pending
+aramis-classic-anniversary-edition	Aramis Classic Anniversary Edition		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Classic-Anniversary-Edition-28133.html				pending
+aramis-classic-reserve	Aramis Classic Reserve		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Classic-Reserve-3155.html				pending
+aramis-cool	Aramis Cool		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Cool-118.html				pending
+aramis-cool-blend	Aramis Cool Blend		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Cool-Blend-7839.html				pending
+aramis-devin	Aramis Devin		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Devin-3644.html				pending
+aramis-ice	Aramis Ice		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Ice-119.html				pending
+aramis-life	Aramis Life		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Life-120.html				pending
+aramis-life-my-summer	Aramis Life My Summer		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Life-My-Summer-121.html				pending
+aramis-modern-leather	Aramis Modern Leather		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Modern-Leather-46397.html				pending
+aramis-special-blend	Aramis Special Blend		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Special-Blend-59125.html				pending
+aramis-vintage-edition	Aramis Vintage Edition		male	https://www.fragrantica.com/perfume/Aramis/Aramis-Vintage-Edition-34202.html				pending
+gentleman	Gentleman		male	https://www.fragrantica.com/perfume/Aramis/Gentleman-16461.html				pending
+gold	Gold		male	https://www.fragrantica.com/perfume/Aramis/Gold-33984.html				pending
+havana	Havana		male	https://www.fragrantica.com/perfume/Aramis/Havana-599.html				pending
+havana-pour-elle	Havana Pour Elle		female	https://www.fragrantica.com/perfume/Aramis/Havana-Pour-Elle-558.html				pending
+havana-reserva	Havana Reserva		male	https://www.fragrantica.com/perfume/Aramis/Havana-Reserva-3788.html				pending
+impeccable	Impeccable		male	https://www.fragrantica.com/perfume/Aramis/Impeccable-10009.html				pending
+intuition	Intuition		male	https://www.fragrantica.com/perfume/Aramis/Intuition-106362.html				pending
+jhl	JHL		male	https://www.fragrantica.com/perfume/Aramis/JHL-6491.html				pending
+new-west-desert-sensual-nectar	New West Desert Sensual Nectar		female	https://www.fragrantica.com/perfume/Aramis/New-West-Desert-Sensual-Nectar-59554.html				pending
+new-west-for-her	New West for Her		female	https://www.fragrantica.com/perfume/Aramis/New-West-for-Her-4857.html				pending
+new-west-for-him	New West for Him		male	https://www.fragrantica.com/perfume/Aramis/New-West-for-Him-4858.html				pending
+perfume-calligraphy	Perfume Calligraphy		unisex	https://www.fragrantica.com/perfume/Aramis/Perfume-Calligraphy-15123.html				pending
+perfume-calligraphy-rose	Perfume Calligraphy Rose		unisex	https://www.fragrantica.com/perfume/Aramis/Perfume-Calligraphy-Rose-18132.html				pending
+perfume-calligraphy-saffron	Perfume Calligraphy Saffron		unisex	https://www.fragrantica.com/perfume/Aramis/Perfume-Calligraphy-Saffron-22961.html				pending
+surface	Surface		male	https://www.fragrantica.com/perfume/Aramis/Surface-5523.html				pending
+tobacco-reserve	Tobacco Reserve		male	https://www.fragrantica.com/perfume/Aramis/Tobacco-Reserve-50564.html				pending
+tuscany-forte-per-uomo	Tuscany Forte Per Uomo		male	https://www.fragrantica.com/perfume/Aramis/Tuscany-Forte-Per-Uomo-16822.html				pending
+tuscany-per-donna	Tuscany Per Donna		female	https://www.fragrantica.com/perfume/Aramis/Tuscany-Per-Donna-122.html				pending
+tuscany-per-uomo	Tuscany Per Uomo		male	https://www.fragrantica.com/perfume/Aramis/Tuscany-Per-Uomo-123.html				pending
+voyager	Voyager		male	https://www.fragrantica.com/perfume/Aramis/Voyager-39608.html				pending

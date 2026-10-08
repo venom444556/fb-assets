@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bois-de-aoud	Bois de Aoud		unisex		https://www.fragrantica.com/perfume/Nejma/Bois-de-Aoud-28174.html				pending
-extreme	Extreme		male		https://www.fragrantica.com/perfume/Nejma/Extreme-28359.html				pending
-jasmin	Jasmin		female		https://www.fragrantica.com/perfume/Nejma/Jasmin-28173.html				pending
-koeptys	Koeptys		unisex		https://www.fragrantica.com/perfume/Nejma/Koeptys-49605.html				pending
-le-delicieux	Le Delicieux		female		https://www.fragrantica.com/perfume/Nejma/Le-Delicieux-48617.html				pending
-le-fabuleux	Le Fabuleux		unisex		https://www.fragrantica.com/perfume/Nejma/Le-Fabuleux-49599.html				pending
-le-merveilleux	Le Merveilleux		unisex		https://www.fragrantica.com/perfume/Nejma/Le-Merveilleux-49604.html				pending
-le-mysterieux	Le Mysterieux		unisex		https://www.fragrantica.com/perfume/Nejma/Le-Mysterieux-49598.html				pending
-le-parfum-dalice	Le Parfum d'Alice		female		https://www.fragrantica.com/perfume/Nejma/Le-Parfum-d-Alice-33898.html				pending
-le-somptueux	Le Somptueux		unisex		https://www.fragrantica.com/perfume/Nejma/Le-Somptueux-50014.html				pending
-le-sublime	Le Sublime		unisex		https://www.fragrantica.com/perfume/Nejma/Le-Sublime-50013.html				pending
-musc-blanc	Musc Blanc		unisex		https://www.fragrantica.com/perfume/Nejma/Musc-Blanc-28176.html				pending
-nejma-1	Nejma 1		unisex		https://www.fragrantica.com/perfume/Nejma/Nejma-1-10613.html				pending
-nejma-2	Nejma 2		unisex		https://www.fragrantica.com/perfume/Nejma/Nejma-2-10615.html				pending
-nejma-3	Nejma 3		unisex		https://www.fragrantica.com/perfume/Nejma/Nejma-3-10616.html				pending
-nejma-4	Nejma 4		female		https://www.fragrantica.com/perfume/Nejma/Nejma-4-10617.html				pending
-nejma-5	Nejma 5		female		https://www.fragrantica.com/perfume/Nejma/Nejma-5-10618.html				pending
-nejma-6	Nejma 6		female		https://www.fragrantica.com/perfume/Nejma/Nejma-6-10619.html				pending
-nejma-7	Nejma 7		unisex		https://www.fragrantica.com/perfume/Nejma/Nejma-7-10620.html				pending
-puro	Puro		male		https://www.fragrantica.com/perfume/Nejma/Puro-10621.html				pending
-puro-intense	Puro Intense		male		https://www.fragrantica.com/perfume/Nejma/Puro-Intense-10622.html				pending
-rose	Rose		female		https://www.fragrantica.com/perfume/Nejma/Rose-28175.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bois-de-aoud	Bois de Aoud		unisex	https://www.fragrantica.com/perfume/Nejma/Bois-de-Aoud-28174.html				pending
+extreme	Extreme		male	https://www.fragrantica.com/perfume/Nejma/Extreme-28359.html				pending
+jasmin	Jasmin		female	https://www.fragrantica.com/perfume/Nejma/Jasmin-28173.html				pending
+koeptys	Koeptys		unisex	https://www.fragrantica.com/perfume/Nejma/Koeptys-49605.html				pending
+le-delicieux	Le Delicieux		female	https://www.fragrantica.com/perfume/Nejma/Le-Delicieux-48617.html				pending
+le-fabuleux	Le Fabuleux		unisex	https://www.fragrantica.com/perfume/Nejma/Le-Fabuleux-49599.html				pending
+le-merveilleux	Le Merveilleux		unisex	https://www.fragrantica.com/perfume/Nejma/Le-Merveilleux-49604.html				pending
+le-mysterieux	Le Mysterieux		unisex	https://www.fragrantica.com/perfume/Nejma/Le-Mysterieux-49598.html				pending
+le-parfum-dalice	Le Parfum d'Alice		female	https://www.fragrantica.com/perfume/Nejma/Le-Parfum-d-Alice-33898.html				pending
+le-somptueux	Le Somptueux		unisex	https://www.fragrantica.com/perfume/Nejma/Le-Somptueux-50014.html				pending
+le-sublime	Le Sublime		unisex	https://www.fragrantica.com/perfume/Nejma/Le-Sublime-50013.html				pending
+musc-blanc	Musc Blanc		unisex	https://www.fragrantica.com/perfume/Nejma/Musc-Blanc-28176.html				pending
+nejma-1	Nejma 1		unisex	https://www.fragrantica.com/perfume/Nejma/Nejma-1-10613.html				pending
+nejma-2	Nejma 2		unisex	https://www.fragrantica.com/perfume/Nejma/Nejma-2-10615.html				pending
+nejma-3	Nejma 3		unisex	https://www.fragrantica.com/perfume/Nejma/Nejma-3-10616.html				pending
+nejma-4	Nejma 4		female	https://www.fragrantica.com/perfume/Nejma/Nejma-4-10617.html				pending
+nejma-5	Nejma 5		female	https://www.fragrantica.com/perfume/Nejma/Nejma-5-10618.html				pending
+nejma-6	Nejma 6		female	https://www.fragrantica.com/perfume/Nejma/Nejma-6-10619.html				pending
+nejma-7	Nejma 7		unisex	https://www.fragrantica.com/perfume/Nejma/Nejma-7-10620.html				pending
+puro	Puro		male	https://www.fragrantica.com/perfume/Nejma/Puro-10621.html				pending
+puro-intense	Puro Intense		male	https://www.fragrantica.com/perfume/Nejma/Puro-Intense-10622.html				pending
+rose	Rose		female	https://www.fragrantica.com/perfume/Nejma/Rose-28175.html				pending

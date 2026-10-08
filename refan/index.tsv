@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1809	1809		unisex		https://www.fragrantica.com/perfume/Refan/1809-21875.html				pending
-192-light	192 Light		female		https://www.fragrantica.com/perfume/Refan/192-Light-21876.html				pending
-black-patchouli	Black Patchouli		unisex		https://www.fragrantica.com/perfume/Refan/Black-Patchouli-21877.html				pending
-black-rose-for-men	Black Rose For Men		male		https://www.fragrantica.com/perfume/Refan/Black-Rose-For-Men-21878.html				pending
-black-rose-for-women	Black Rose For Women		female		https://www.fragrantica.com/perfume/Refan/Black-Rose-For-Women-21879.html				pending
-brown-leather	Brown Leather		unisex		https://www.fragrantica.com/perfume/Refan/Brown-Leather-21880.html				pending
-chrysantheme	Chrysantheme		female		https://www.fragrantica.com/perfume/Refan/Chrysantheme-21881.html				pending
-coca-pura	Coca Pura		male		https://www.fragrantica.com/perfume/Refan/Coca-Pura-21882.html				pending
-davana	Davana		unisex		https://www.fragrantica.com/perfume/Refan/Davana-21883.html				pending
-fleur-doranger	Fleur d'Oranger		female		https://www.fragrantica.com/perfume/Refan/Fleur-d-Oranger-21884.html				pending
-flor-negra-eau-de-attraction	Flor Negra Eau de Attraction		male		https://www.fragrantica.com/perfume/Refan/Flor-Negra-Eau-de-Attraction-21885.html				pending
-lucha-libre-eau-de-reaction	Lucha Libre Eau de Reaction		male		https://www.fragrantica.com/perfume/Refan/Lucha-Libre-Eau-de-Reaction-21886.html				pending
-magnolia	Magnolia		female		https://www.fragrantica.com/perfume/Refan/Magnolia-21887.html				pending
-moroccan-rose	Moroccan Rose		female		https://www.fragrantica.com/perfume/Refan/Moroccan-Rose-21888.html				pending
-musc	Musc		unisex		https://www.fragrantica.com/perfume/Refan/Musc-21889.html				pending
-orange-elixir	Orange Elixir		unisex		https://www.fragrantica.com/perfume/Refan/Orange-Elixir-21890.html				pending
-oriental-rose	Oriental Rose		female		https://www.fragrantica.com/perfume/Refan/Oriental-Rose-21891.html				pending
-passion-fruit	Passion Fruit		female		https://www.fragrantica.com/perfume/Refan/Passion-Fruit-21873.html				pending
-refan-6	Refan 6		female		https://www.fragrantica.com/perfume/Refan/Refan-6-21874.html				pending
-refan-69	Refan 69		unisex		https://www.fragrantica.com/perfume/Refan/Refan-69-21892.html				pending
-refan-9	Refan 9		male		https://www.fragrantica.com/perfume/Refan/Refan-9-21893.html				pending
-ron-y-menta-eau-de-temptation	Ron Y Menta Eau de Temptation		male		https://www.fragrantica.com/perfume/Refan/Ron-Y-Menta-Eau-de-Temptation-21894.html				pending
-rosa-alba	Rosa Alba		female		https://www.fragrantica.com/perfume/Refan/Rosa-Alba-21895.html				pending
-rosa-centifolia	Rosa Centifolia		female		https://www.fragrantica.com/perfume/Refan/Rosa-Centifolia-21902.html				pending
-rosa-damascena	Rosa Damascena		female		https://www.fragrantica.com/perfume/Refan/Rosa-Damascena-21896.html				pending
-rose	Rose		female		https://www.fragrantica.com/perfume/Refan/Rose-21901.html				pending
-rose-touch	Rose Touch		female		https://www.fragrantica.com/perfume/Refan/Rose-Touch-21897.html				pending
-soft-rose	Soft Rose		female		https://www.fragrantica.com/perfume/Refan/Soft-Rose-21898.html				pending
-sweet-vanilla	Sweet Vanilla		female		https://www.fragrantica.com/perfume/Refan/Sweet-Vanilla-21899.html				pending
-viva-la-revolution-eau-de-revolucion	Viva La Revolution! Eau de Revolución		male		https://www.fragrantica.com/perfume/Refan/Viva-La-Revolution-Eau-de-Revolucion-21900.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1809	1809		unisex	https://www.fragrantica.com/perfume/Refan/1809-21875.html				pending
+192-light	192 Light		female	https://www.fragrantica.com/perfume/Refan/192-Light-21876.html				pending
+black-patchouli	Black Patchouli		unisex	https://www.fragrantica.com/perfume/Refan/Black-Patchouli-21877.html				pending
+black-rose-for-men	Black Rose For Men		male	https://www.fragrantica.com/perfume/Refan/Black-Rose-For-Men-21878.html				pending
+black-rose-for-women	Black Rose For Women		female	https://www.fragrantica.com/perfume/Refan/Black-Rose-For-Women-21879.html				pending
+brown-leather	Brown Leather		unisex	https://www.fragrantica.com/perfume/Refan/Brown-Leather-21880.html				pending
+chrysantheme	Chrysantheme		female	https://www.fragrantica.com/perfume/Refan/Chrysantheme-21881.html				pending
+coca-pura	Coca Pura		male	https://www.fragrantica.com/perfume/Refan/Coca-Pura-21882.html				pending
+davana	Davana		unisex	https://www.fragrantica.com/perfume/Refan/Davana-21883.html				pending
+fleur-doranger	Fleur d'Oranger		female	https://www.fragrantica.com/perfume/Refan/Fleur-d-Oranger-21884.html				pending
+flor-negra-eau-de-attraction	Flor Negra Eau de Attraction		male	https://www.fragrantica.com/perfume/Refan/Flor-Negra-Eau-de-Attraction-21885.html				pending
+lucha-libre-eau-de-reaction	Lucha Libre Eau de Reaction		male	https://www.fragrantica.com/perfume/Refan/Lucha-Libre-Eau-de-Reaction-21886.html				pending
+magnolia	Magnolia		female	https://www.fragrantica.com/perfume/Refan/Magnolia-21887.html				pending
+moroccan-rose	Moroccan Rose		female	https://www.fragrantica.com/perfume/Refan/Moroccan-Rose-21888.html				pending
+musc	Musc		unisex	https://www.fragrantica.com/perfume/Refan/Musc-21889.html				pending
+orange-elixir	Orange Elixir		unisex	https://www.fragrantica.com/perfume/Refan/Orange-Elixir-21890.html				pending
+oriental-rose	Oriental Rose		female	https://www.fragrantica.com/perfume/Refan/Oriental-Rose-21891.html				pending
+passion-fruit	Passion Fruit		female	https://www.fragrantica.com/perfume/Refan/Passion-Fruit-21873.html				pending
+refan-6	Refan 6		female	https://www.fragrantica.com/perfume/Refan/Refan-6-21874.html				pending
+refan-69	Refan 69		unisex	https://www.fragrantica.com/perfume/Refan/Refan-69-21892.html				pending
+refan-9	Refan 9		male	https://www.fragrantica.com/perfume/Refan/Refan-9-21893.html				pending
+ron-y-menta-eau-de-temptation	Ron Y Menta Eau de Temptation		male	https://www.fragrantica.com/perfume/Refan/Ron-Y-Menta-Eau-de-Temptation-21894.html				pending
+rosa-alba	Rosa Alba		female	https://www.fragrantica.com/perfume/Refan/Rosa-Alba-21895.html				pending
+rosa-centifolia	Rosa Centifolia		female	https://www.fragrantica.com/perfume/Refan/Rosa-Centifolia-21902.html				pending
+rosa-damascena	Rosa Damascena		female	https://www.fragrantica.com/perfume/Refan/Rosa-Damascena-21896.html				pending
+rose	Rose		female	https://www.fragrantica.com/perfume/Refan/Rose-21901.html				pending
+rose-touch	Rose Touch		female	https://www.fragrantica.com/perfume/Refan/Rose-Touch-21897.html				pending
+soft-rose	Soft Rose		female	https://www.fragrantica.com/perfume/Refan/Soft-Rose-21898.html				pending
+sweet-vanilla	Sweet Vanilla		female	https://www.fragrantica.com/perfume/Refan/Sweet-Vanilla-21899.html				pending
+viva-la-revolution-eau-de-revolucion	Viva La Revolution! Eau de Revolución		male	https://www.fragrantica.com/perfume/Refan/Viva-La-Revolution-Eau-de-Revolucion-21900.html				pending

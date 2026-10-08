@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-chapter-i	Chapter I		unisex		https://www.fragrantica.com/perfume/King-of-Kings/Chapter-I-102515.html				pending
-royal-amber	Royal Amber		unisex		https://www.fragrantica.com/perfume/King-of-Kings/Royal-Amber-102518.html				pending
-royal-blue	Royal Blue		male		https://www.fragrantica.com/perfume/King-of-Kings/Royal-Blue-102511.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+chapter-i	Chapter I		unisex	https://www.fragrantica.com/perfume/King-of-Kings/Chapter-I-102515.html				pending
+royal-amber	Royal Amber		unisex	https://www.fragrantica.com/perfume/King-of-Kings/Royal-Amber-102518.html				pending
+royal-blue	Royal Blue		male	https://www.fragrantica.com/perfume/King-of-Kings/Royal-Blue-102511.html				pending

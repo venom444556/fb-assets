@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-caldo-encens	Caldo Encens		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Encens-29086.html				pending
-caldo-fruttato	Caldo Fruttato		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Fruttato-29085.html				pending
-caldo-gourmand	Caldo Gourmand		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Gourmand-16782.html				pending
-caldo-legnoso	Caldo Legnoso		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Legnoso-16783.html				pending
-caldo-orientale	Caldo Orientale		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Orientale-16781.html				pending
-musc-pure	Musc Pure		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Musc-Pure-13286.html				pending
-osmarine-osmanto-marino	Osmarine (Osmanto Marino)		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Osmarine-Osmanto-Marino-29084.html				pending
-oud-gourmand	Oud Gourmand		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Oud-Gourmand-52488.html				pending
-puro-fico	Puro Fico		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Puro-Fico-14902.html				pending
-puro-lino	Puro Lino		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Puro-Lino-13283.html				pending
-puro-neroli	Puro Neroli		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Puro-Neroli-13284.html				pending
-puro-talco	Puro Talco		unisex		https://www.fragrantica.com/perfume/Officina-delle-Essenze/Puro-Talco-13285.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+caldo-encens	Caldo Encens		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Encens-29086.html				pending
+caldo-fruttato	Caldo Fruttato		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Fruttato-29085.html				pending
+caldo-gourmand	Caldo Gourmand		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Gourmand-16782.html				pending
+caldo-legnoso	Caldo Legnoso		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Legnoso-16783.html				pending
+caldo-orientale	Caldo Orientale		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Caldo-Orientale-16781.html				pending
+musc-pure	Musc Pure		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Musc-Pure-13286.html				pending
+osmarine-osmanto-marino	Osmarine (Osmanto Marino)		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Osmarine-Osmanto-Marino-29084.html				pending
+oud-gourmand	Oud Gourmand		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Oud-Gourmand-52488.html				pending
+puro-fico	Puro Fico		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Puro-Fico-14902.html				pending
+puro-lino	Puro Lino		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Puro-Lino-13283.html				pending
+puro-neroli	Puro Neroli		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Puro-Neroli-13284.html				pending
+puro-talco	Puro Talco		unisex	https://www.fragrantica.com/perfume/Officina-delle-Essenze/Puro-Talco-13285.html				pending

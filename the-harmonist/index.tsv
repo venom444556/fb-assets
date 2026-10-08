@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-desired-earth	Desired Earth		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Desired-Earth-36715.html				pending
-florae-nebulae	Florae Nebulae		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Florae-Nebulae-105481.html				pending
-golden-wood	Golden Wood		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Golden-Wood-36716.html				pending
-guiding-water	Guiding Water		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Guiding-Water-36699.html				pending
-hypnotizing-fire	Hypnotizing Fire		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Hypnotizing-Fire-36700.html				pending
-magnetic-wood	Magnetic Wood		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Magnetic-Wood-36701.html				pending
-matrix-metal	Matrix Metal		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Matrix-Metal-36717.html				pending
-metal-flower	Metal Flower		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Metal-Flower-36703.html				pending
-moon-glory	Moon Glory		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Moon-Glory-59475.html				pending
-oud-nebula	Oud Nebula		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Oud-Nebula-99113.html				pending
-royal-earth-eau-de-parfum	Royal Earth Eau de Parfum		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Royal-Earth-Eau-de-Parfum-36713.html				pending
-royal-earth-parfum	Royal Earth Parfum		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Royal-Earth-Parfum-83982.html				pending
-sacred-water	Sacred Water		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Sacred-Water-36737.html				pending
-sun-force	Sun Force		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Sun-Force-63556.html				pending
-velvet-fire	Velvet Fire		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Velvet-Fire-36738.html				pending
-yin-transformation-eau-de-parfum	Yin Transformation Eau de Parfum		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Yin-Transformation-Eau-de-Parfum-80328.html				pending
-yin-transformation-parfum	Yin Transformation Parfum		unisex		https://www.fragrantica.com/perfume/The-Harmonist/Yin-Transformation-Parfum-51467.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+desired-earth	Desired Earth		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Desired-Earth-36715.html				pending
+florae-nebulae	Florae Nebulae		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Florae-Nebulae-105481.html				pending
+golden-wood	Golden Wood		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Golden-Wood-36716.html				pending
+guiding-water	Guiding Water		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Guiding-Water-36699.html				pending
+hypnotizing-fire	Hypnotizing Fire		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Hypnotizing-Fire-36700.html				pending
+magnetic-wood	Magnetic Wood		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Magnetic-Wood-36701.html				pending
+matrix-metal	Matrix Metal		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Matrix-Metal-36717.html				pending
+metal-flower	Metal Flower		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Metal-Flower-36703.html				pending
+moon-glory	Moon Glory		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Moon-Glory-59475.html				pending
+oud-nebula	Oud Nebula		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Oud-Nebula-99113.html				pending
+royal-earth-eau-de-parfum	Royal Earth Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/The-Harmonist/Royal-Earth-Eau-de-Parfum-36713.html				pending
+royal-earth-parfum	Royal Earth Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/The-Harmonist/Royal-Earth-Parfum-83982.html				pending
+sacred-water	Sacred Water		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Sacred-Water-36737.html				pending
+sun-force	Sun Force		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Sun-Force-63556.html				pending
+velvet-fire	Velvet Fire		unisex	https://www.fragrantica.com/perfume/The-Harmonist/Velvet-Fire-36738.html				pending
+yin-transformation-eau-de-parfum	Yin Transformation Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/The-Harmonist/Yin-Transformation-Eau-de-Parfum-80328.html				pending
+yin-transformation-parfum	Yin Transformation Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/The-Harmonist/Yin-Transformation-Parfum-51467.html				pending

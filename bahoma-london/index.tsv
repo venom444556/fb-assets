@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-belle-de-jour	Belle de Jour		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Belle-de-Jour-44363.html				pending
-black-orris	Black Orris		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Black-Orris-44371.html				pending
-bois-de-rose	Bois de Rose		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Bois-de-Rose-44370.html				pending
-chameleon	Chameleon		female		https://www.fragrantica.com/perfume/Bahoma-London/Chameleon-37376.html				pending
-churchill	Churchill		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Churchill-44378.html				pending
-desire	Desire		female		https://www.fragrantica.com/perfume/Bahoma-London/Desire-37377.html				pending
-eau-de-cristal	Eau de Cristal		female		https://www.fragrantica.com/perfume/Bahoma-London/Eau-de-Cristal-37378.html				pending
-erebus	Erebus		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Erebus-44379.html				pending
-imperial-oud	Imperial Oud		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Imperial-Oud-44380.html				pending
-indulgence	Indulgence		female		https://www.fragrantica.com/perfume/Bahoma-London/Indulgence-37379.html				pending
-jolie	Jolie		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Jolie-44369.html				pending
-k2	K2		unisex		https://www.fragrantica.com/perfume/Bahoma-London/K2-44377.html				pending
-lavender-veil	Lavender Veil		female		https://www.fragrantica.com/perfume/Bahoma-London/Lavender-Veil-37380.html				pending
-ocean-spa	Ocean Spa		female		https://www.fragrantica.com/perfume/Bahoma-London/Ocean-Spa-37381.html				pending
-paradise	Paradise		female		https://www.fragrantica.com/perfume/Bahoma-London/Paradise-37382.html				pending
-passion	Passion		female		https://www.fragrantica.com/perfume/Bahoma-London/Passion-37383.html				pending
-pomelo-grapefruit	Pomelo Grapefruit		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Pomelo-Grapefruit-37384.html				pending
-seduction	Seduction		female		https://www.fragrantica.com/perfume/Bahoma-London/Seduction-43911.html				pending
-tuberosa	Tuberosa		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Tuberosa-44365.html				pending
-vetyver	Vetyver		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Vetyver-44381.html				pending
-vitality	Vitality		unisex		https://www.fragrantica.com/perfume/Bahoma-London/Vitality-37385.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+belle-de-jour	Belle de Jour		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Belle-de-Jour-44363.html				pending
+black-orris	Black Orris		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Black-Orris-44371.html				pending
+bois-de-rose	Bois de Rose		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Bois-de-Rose-44370.html				pending
+chameleon	Chameleon		female	https://www.fragrantica.com/perfume/Bahoma-London/Chameleon-37376.html				pending
+churchill	Churchill		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Churchill-44378.html				pending
+desire	Desire		female	https://www.fragrantica.com/perfume/Bahoma-London/Desire-37377.html				pending
+eau-de-cristal	Eau de Cristal		female	https://www.fragrantica.com/perfume/Bahoma-London/Eau-de-Cristal-37378.html				pending
+erebus	Erebus		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Erebus-44379.html				pending
+imperial-oud	Imperial Oud		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Imperial-Oud-44380.html				pending
+indulgence	Indulgence		female	https://www.fragrantica.com/perfume/Bahoma-London/Indulgence-37379.html				pending
+jolie	Jolie		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Jolie-44369.html				pending
+k2	K2		unisex	https://www.fragrantica.com/perfume/Bahoma-London/K2-44377.html				pending
+lavender-veil	Lavender Veil		female	https://www.fragrantica.com/perfume/Bahoma-London/Lavender-Veil-37380.html				pending
+ocean-spa	Ocean Spa		female	https://www.fragrantica.com/perfume/Bahoma-London/Ocean-Spa-37381.html				pending
+paradise	Paradise		female	https://www.fragrantica.com/perfume/Bahoma-London/Paradise-37382.html				pending
+passion	Passion		female	https://www.fragrantica.com/perfume/Bahoma-London/Passion-37383.html				pending
+pomelo-grapefruit	Pomelo Grapefruit		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Pomelo-Grapefruit-37384.html				pending
+seduction	Seduction		female	https://www.fragrantica.com/perfume/Bahoma-London/Seduction-43911.html				pending
+tuberosa	Tuberosa		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Tuberosa-44365.html				pending
+vetyver	Vetyver		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Vetyver-44381.html				pending
+vitality	Vitality		unisex	https://www.fragrantica.com/perfume/Bahoma-London/Vitality-37385.html				pending

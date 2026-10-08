@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alaskan-falls	Alaskan Falls		unisex		https://www.fragrantica.com/perfume/Lathr/Alaskan-Falls-94818.html				pending
-arctic-mist	Arctic Mist		unisex		https://www.fragrantica.com/perfume/Lathr/Arctic-Mist-94823.html				pending
-barbershop	Barbershop		unisex		https://www.fragrantica.com/perfume/Lathr/Barbershop-94827.html				pending
-black-cherry	Black Cherry		unisex		https://www.fragrantica.com/perfume/Lathr/Black-Cherry-94816.html				pending
-cotton-candy	Cotton Candy		male		https://www.fragrantica.com/perfume/Lathr/Cotton-Candy-93653.html				pending
-emperor	Emperor		unisex		https://www.fragrantica.com/perfume/Lathr/Emperor-94825.html				pending
-empress	Empress		unisex		https://www.fragrantica.com/perfume/Lathr/Empress-94820.html				pending
-fresh-af	Fresh AF		unisex		https://www.fragrantica.com/perfume/Lathr/Fresh-AF-94824.html				pending
-fruity-hoops	Fruity Hoops		male		https://www.fragrantica.com/perfume/Lathr/Fruity-Hoops-93649.html				pending
-pine-tar	Pine Tar		unisex		https://www.fragrantica.com/perfume/Lathr/Pine-Tar-94819.html				pending
-sandalwood	Sandalwood		unisex		https://www.fragrantica.com/perfume/Lathr/Sandalwood-94815.html				pending
-tabac-vanilla	Tabac Vanilla		unisex		https://www.fragrantica.com/perfume/Lathr/Tabac-Vanilla-94822.html				pending
-the-gentlemen	The Gentlemen		unisex		https://www.fragrantica.com/perfume/Lathr/The-Gentlemen-94821.html				pending
-the-humidor	The Humidor		unisex		https://www.fragrantica.com/perfume/Lathr/The-Humidor-94826.html				pending
-tremendous	Tremendous		male		https://www.fragrantica.com/perfume/Lathr/Tremendous-93655.html				pending
-vagabond	Vagabond		male		https://www.fragrantica.com/perfume/Lathr/Vagabond-93658.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alaskan-falls	Alaskan Falls		unisex	https://www.fragrantica.com/perfume/Lathr/Alaskan-Falls-94818.html				pending
+arctic-mist	Arctic Mist		unisex	https://www.fragrantica.com/perfume/Lathr/Arctic-Mist-94823.html				pending
+barbershop	Barbershop		unisex	https://www.fragrantica.com/perfume/Lathr/Barbershop-94827.html				pending
+black-cherry	Black Cherry		unisex	https://www.fragrantica.com/perfume/Lathr/Black-Cherry-94816.html				pending
+cotton-candy	Cotton Candy		male	https://www.fragrantica.com/perfume/Lathr/Cotton-Candy-93653.html				pending
+emperor	Emperor		unisex	https://www.fragrantica.com/perfume/Lathr/Emperor-94825.html				pending
+empress	Empress		unisex	https://www.fragrantica.com/perfume/Lathr/Empress-94820.html				pending
+fresh-af	Fresh AF		unisex	https://www.fragrantica.com/perfume/Lathr/Fresh-AF-94824.html				pending
+fruity-hoops	Fruity Hoops		male	https://www.fragrantica.com/perfume/Lathr/Fruity-Hoops-93649.html				pending
+pine-tar	Pine Tar		unisex	https://www.fragrantica.com/perfume/Lathr/Pine-Tar-94819.html				pending
+sandalwood	Sandalwood		unisex	https://www.fragrantica.com/perfume/Lathr/Sandalwood-94815.html				pending
+tabac-vanilla	Tabac Vanilla		unisex	https://www.fragrantica.com/perfume/Lathr/Tabac-Vanilla-94822.html				pending
+the-gentlemen	The Gentlemen		unisex	https://www.fragrantica.com/perfume/Lathr/The-Gentlemen-94821.html				pending
+the-humidor	The Humidor		unisex	https://www.fragrantica.com/perfume/Lathr/The-Humidor-94826.html				pending
+tremendous	Tremendous		male	https://www.fragrantica.com/perfume/Lathr/Tremendous-93655.html				pending
+vagabond	Vagabond		male	https://www.fragrantica.com/perfume/Lathr/Vagabond-93658.html				pending

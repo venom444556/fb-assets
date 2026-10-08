@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-intense	Ambre Intense		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Ambre-Intense-14418.html				pending
-blanc-de-sienne	Blanc de Sienne		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Blanc-de-Sienne-31036.html				pending
-bois-secret	Bois Secret		male		https://www.fragrantica.com/perfume/Evody-Parfums/Bois-Secret-14416.html				pending
-cite-onyrique	Cité Onyrique		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Cite-Onyrique-54881.html				pending
-couleur-fauve	Couleur Fauve		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Couleur-Fauve-44038.html				pending
-cuir-blanc	Cuir Blanc		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Cuir-Blanc-14419.html				pending
-dame-de-pique	D'Ame de Pique		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/D-Ame-de-Pique-26258.html				pending
-desert-nocturne	Desert Nocturne		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Desert-Nocturne-54879.html				pending
-desir-troublant	Desir Troublant		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Desir-Troublant-81401.html				pending
-fleur-doranger	Fleur d'Oranger		female		https://www.fragrantica.com/perfume/Evody-Parfums/Fleur-d-Oranger-14414.html				pending
-fleur-doranger-36740	Fleur d'Oranger		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Fleur-d-Oranger-36740.html				pending
-musc-intense	Musc Intense		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Musc-Intense-14420.html				pending
-musc-intense-36739	Musc Intense		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Musc-Intense-36739.html				pending
-noir-dorient	Noir d'Orient		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Noir-d-Orient-26259.html				pending
-note-de-luxe	Note de Luxe		female		https://www.fragrantica.com/perfume/Evody-Parfums/Note-de-Luxe-14417.html				pending
-note-de-luxe-36743	Note de Luxe		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Note-de-Luxe-36743.html				pending
-ombre-fumee	Ombre Fumee		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Ombre-Fumee-26260.html				pending
-onde-7	Onde 7		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Onde-7-38123.html				pending
-pomme-dor	Pomme d'Or		female		https://www.fragrantica.com/perfume/Evody-Parfums/Pomme-d-Or-14413.html				pending
-reve-danthala	Reve d'Anthala		female		https://www.fragrantica.com/perfume/Evody-Parfums/Reve-d-Anthala-14415.html				pending
-reve-danthala-36742	Reve d'Anthala		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Reve-d-Anthala-36742.html				pending
-sable-pourpre	Sable Pourpre		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Sable-Pourpre-54880.html				pending
-sens-abstrait	Sens Abstrait		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Sens-Abstrait-44040.html				pending
-tubereuse-manifeste	Tubéreuse Manifeste		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Tubereuse-Manifeste-44039.html				pending
-zeste-dor	Zeste d'Or		unisex		https://www.fragrantica.com/perfume/Evody-Parfums/Zeste-d-Or-36736.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-intense	Ambre Intense		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Ambre-Intense-14418.html				pending
+blanc-de-sienne	Blanc de Sienne		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Blanc-de-Sienne-31036.html				pending
+bois-secret	Bois Secret		male	https://www.fragrantica.com/perfume/Evody-Parfums/Bois-Secret-14416.html				pending
+cite-onyrique	Cité Onyrique		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Cite-Onyrique-54881.html				pending
+couleur-fauve	Couleur Fauve		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Couleur-Fauve-44038.html				pending
+cuir-blanc	Cuir Blanc		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Cuir-Blanc-14419.html				pending
+dame-de-pique	D'Ame de Pique		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/D-Ame-de-Pique-26258.html				pending
+desert-nocturne	Desert Nocturne		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Desert-Nocturne-54879.html				pending
+desir-troublant	Desir Troublant		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Desir-Troublant-81401.html				pending
+fleur-doranger	Fleur d'Oranger		female	https://www.fragrantica.com/perfume/Evody-Parfums/Fleur-d-Oranger-14414.html				pending
+fleur-doranger-36740	Fleur d'Oranger		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Fleur-d-Oranger-36740.html				pending
+musc-intense	Musc Intense		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Musc-Intense-14420.html				pending
+musc-intense-36739	Musc Intense		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Musc-Intense-36739.html				pending
+noir-dorient	Noir d'Orient		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Noir-d-Orient-26259.html				pending
+note-de-luxe	Note de Luxe		female	https://www.fragrantica.com/perfume/Evody-Parfums/Note-de-Luxe-14417.html				pending
+note-de-luxe-36743	Note de Luxe		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Note-de-Luxe-36743.html				pending
+ombre-fumee	Ombre Fumee		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Ombre-Fumee-26260.html				pending
+onde-7	Onde 7		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Onde-7-38123.html				pending
+pomme-dor	Pomme d'Or		female	https://www.fragrantica.com/perfume/Evody-Parfums/Pomme-d-Or-14413.html				pending
+reve-danthala	Reve d'Anthala		female	https://www.fragrantica.com/perfume/Evody-Parfums/Reve-d-Anthala-14415.html				pending
+reve-danthala-36742	Reve d'Anthala		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Reve-d-Anthala-36742.html				pending
+sable-pourpre	Sable Pourpre		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Sable-Pourpre-54880.html				pending
+sens-abstrait	Sens Abstrait		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Sens-Abstrait-44040.html				pending
+tubereuse-manifeste	Tubéreuse Manifeste		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Tubereuse-Manifeste-44039.html				pending
+zeste-dor	Zeste d'Or		unisex	https://www.fragrantica.com/perfume/Evody-Parfums/Zeste-d-Or-36736.html				pending

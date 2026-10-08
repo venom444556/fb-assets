@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-hole	Black Hole		unisex		https://www.fragrantica.com/perfume/Nicheend/Black-Hole-78211.html				pending
-moon	Moon		unisex		https://www.fragrantica.com/perfume/Nicheend/Moon-78213.html				pending
-space	Space		unisex		https://www.fragrantica.com/perfume/Nicheend/Space-78204.html				pending
-supernova	Supernova		unisex		https://www.fragrantica.com/perfume/Nicheend/Supernova-78205.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-hole	Black Hole		unisex	https://www.fragrantica.com/perfume/Nicheend/Black-Hole-78211.html				pending
+moon	Moon		unisex	https://www.fragrantica.com/perfume/Nicheend/Moon-78213.html				pending
+space	Space		unisex	https://www.fragrantica.com/perfume/Nicheend/Space-78204.html				pending
+supernova	Supernova		unisex	https://www.fragrantica.com/perfume/Nicheend/Supernova-78205.html				pending

@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-juman-precious	Juman Precious		female		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Juman-Precious-122741.html				pending
-mirsaal-passion	Mirsaal Passion		unisex		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Mirsaal-Passion-107079.html				pending
-mirsaal-valentine	Mirsaal Valentine		unisex		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Mirsaal-Valentine-107080.html				pending
-muharib-hero	Muharib Hero		male		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Muharib-Hero-122588.html				pending
-qannas	Qannas		male		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Qannas-107088.html				pending
-risala-autograph	Risala Autograph		unisex		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Risala-Autograph-107091.html				pending
-risala-for-you	Risala For You		female		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Risala-For-You-107093.html				pending
-risala-forever	Risala Forever		unisex		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Risala-Forever-107095.html				pending
-shouq	Shouq		female		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Shouq-107098.html				pending
-symphony-harmony	Symphony Harmony		unisex		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Symphony-Harmony-107101.html				pending
-symphony-melody	Symphony Melody		male		https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Symphony-Melody-107102.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+juman-precious	Juman Precious		female	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Juman-Precious-122741.html				pending
+mirsaal-passion	Mirsaal Passion		unisex	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Mirsaal-Passion-107079.html				pending
+mirsaal-valentine	Mirsaal Valentine		unisex	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Mirsaal-Valentine-107080.html				pending
+muharib-hero	Muharib Hero		male	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Muharib-Hero-122588.html				pending
+qannas	Qannas		male	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Qannas-107088.html				pending
+risala-autograph	Risala Autograph		unisex	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Risala-Autograph-107091.html				pending
+risala-for-you	Risala For You		female	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Risala-For-You-107093.html				pending
+risala-forever	Risala Forever		unisex	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Risala-Forever-107095.html				pending
+shouq	Shouq		female	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Shouq-107098.html				pending
+symphony-harmony	Symphony Harmony		unisex	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Symphony-Harmony-107101.html				pending
+symphony-melody	Symphony Melody		male	https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Symphony-Melody-107102.html				pending

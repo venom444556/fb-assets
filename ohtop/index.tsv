@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-green-flannel	Green Flannel		unisex		https://www.fragrantica.com/perfume/OHTOP/Green-Flannel-81748.html				pending
-i-hate-rose	I Hate Rose		unisex		https://www.fragrantica.com/perfume/OHTOP/I-Hate-Rose-81749.html				pending
-ohsphalte	Ohsphalte		unisex		https://www.fragrantica.com/perfume/OHTOP/Ohsphalte-81746.html				pending
-paranoiaque	Paranoïaque		unisex		https://www.fragrantica.com/perfume/OHTOP/Paranoiaque-81745.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+green-flannel	Green Flannel		unisex	https://www.fragrantica.com/perfume/OHTOP/Green-Flannel-81748.html				pending
+i-hate-rose	I Hate Rose		unisex	https://www.fragrantica.com/perfume/OHTOP/I-Hate-Rose-81749.html				pending
+ohsphalte	Ohsphalte		unisex	https://www.fragrantica.com/perfume/OHTOP/Ohsphalte-81746.html				pending
+paranoiaque	Paranoïaque		unisex	https://www.fragrantica.com/perfume/OHTOP/Paranoiaque-81745.html				pending

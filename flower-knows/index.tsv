@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-forever-blooming-flower	Forever Blooming Flower		female		https://www.fragrantica.com/perfume/Flower-Knows/Forever-Blooming-Flower-90464.html				pending
-lemon-ice-tea	Lemon Ice Tea		female		https://www.fragrantica.com/perfume/Flower-Knows/Lemon-Ice-Tea-109420.html				pending
-luna-goddess-tree	Luna Goddess Tree		female		https://www.fragrantica.com/perfume/Flower-Knows/Luna-Goddess-Tree-90465.html				pending
-lychee-bouquet	Lychee Bouquet		female		https://www.fragrantica.com/perfume/Flower-Knows/Lychee-Bouquet-104670.html				pending
-ribbon-ballet	Ribbon Ballet		female		https://www.fragrantica.com/perfume/Flower-Knows/Ribbon-Ballet-90466.html				pending
-strawberry-milk-shake	Strawberry Milk Shake		female		https://www.fragrantica.com/perfume/Flower-Knows/Strawberry-Milk-Shake-104671.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+forever-blooming-flower	Forever Blooming Flower		female	https://www.fragrantica.com/perfume/Flower-Knows/Forever-Blooming-Flower-90464.html				pending
+lemon-ice-tea	Lemon Ice Tea		female	https://www.fragrantica.com/perfume/Flower-Knows/Lemon-Ice-Tea-109420.html				pending
+luna-goddess-tree	Luna Goddess Tree		female	https://www.fragrantica.com/perfume/Flower-Knows/Luna-Goddess-Tree-90465.html				pending
+lychee-bouquet	Lychee Bouquet		female	https://www.fragrantica.com/perfume/Flower-Knows/Lychee-Bouquet-104670.html				pending
+ribbon-ballet	Ribbon Ballet		female	https://www.fragrantica.com/perfume/Flower-Knows/Ribbon-Ballet-90466.html				pending
+strawberry-milk-shake	Strawberry Milk Shake		female	https://www.fragrantica.com/perfume/Flower-Knows/Strawberry-Milk-Shake-104671.html				pending

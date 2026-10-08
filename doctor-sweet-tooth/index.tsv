@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-banana-coconut	Banana Coconut		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Banana-Coconut-60955.html				pending
-cannoli	Cannoli		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Cannoli-60952.html				pending
-cherry-vanilla	Cherry Vanilla		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Cherry-Vanilla-60947.html				pending
-chocolate-cream-pie	Chocolate Cream Pie		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Chocolate-Cream-Pie-60954.html				pending
-creamy-coconut	Creamy Coconut		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Creamy-Coconut-60956.html				pending
-gummy-bears	Gummy Bears		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Gummy-Bears-60948.html				pending
-pink-marshmallow	Pink Marshmallow		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Pink-Marshmallow-60949.html				pending
-pumpkin-firewood	Pumpkin Firewood		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Pumpkin-Firewood-60951.html				pending
-pumpkin-spice	Pumpkin Spice		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Pumpkin-Spice-60950.html				pending
-sugar-cookie	Sugar Cookie		unisex		https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Sugar-Cookie-60953.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+banana-coconut	Banana Coconut		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Banana-Coconut-60955.html				pending
+cannoli	Cannoli		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Cannoli-60952.html				pending
+cherry-vanilla	Cherry Vanilla		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Cherry-Vanilla-60947.html				pending
+chocolate-cream-pie	Chocolate Cream Pie		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Chocolate-Cream-Pie-60954.html				pending
+creamy-coconut	Creamy Coconut		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Creamy-Coconut-60956.html				pending
+gummy-bears	Gummy Bears		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Gummy-Bears-60948.html				pending
+pink-marshmallow	Pink Marshmallow		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Pink-Marshmallow-60949.html				pending
+pumpkin-firewood	Pumpkin Firewood		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Pumpkin-Firewood-60951.html				pending
+pumpkin-spice	Pumpkin Spice		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Pumpkin-Spice-60950.html				pending
+sugar-cookie	Sugar Cookie		unisex	https://www.fragrantica.com/perfume/Doctor-Sweet-Tooth/Sugar-Cookie-60953.html				pending

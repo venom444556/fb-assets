@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-creamy-dessert	Creamy Dessert		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Creamy-Dessert-10271.html				pending
-dessert-treats-candy	Dessert Treats Candy		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Dessert-Treats-Candy-10266.html				pending
-dessert-treats-cupcake	Dessert Treats Cupcake		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Dessert-Treats-Cupcake-10265.html				pending
-fancy	Fancy		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-4094.html				pending
-fancy-forever	Fancy Forever		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-Forever-63940.html				pending
-fancy-girl	Fancy Girl		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-Girl-24743.html				pending
-fancy-love	Fancy Love		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-Love-6641.html				pending
-fancy-nights	Fancy Nights		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-Nights-8925.html				pending
-fiend	Fiend		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Fiend-64307.html				pending
-i-fancy-you	I Fancy You		female		https://www.fragrantica.com/perfume/Jessica-Simpson/I-Fancy-You-12582.html				pending
-jessica-simpson-signature	Jessica Simpson (Signature)		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Jessica-Simpson-Signature-26126.html				pending
-taste	Taste		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Taste-10269.html				pending
-ten	Ten		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Ten-31693.html				pending
-vintage-bloom	Vintage Bloom		female		https://www.fragrantica.com/perfume/Jessica-Simpson/Vintage-Bloom-15198.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+creamy-dessert	Creamy Dessert		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Creamy-Dessert-10271.html				pending
+dessert-treats-candy	Dessert Treats Candy		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Dessert-Treats-Candy-10266.html				pending
+dessert-treats-cupcake	Dessert Treats Cupcake		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Dessert-Treats-Cupcake-10265.html				pending
+fancy	Fancy		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-4094.html				pending
+fancy-forever	Fancy Forever		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-Forever-63940.html				pending
+fancy-girl	Fancy Girl		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-Girl-24743.html				pending
+fancy-love	Fancy Love		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-Love-6641.html				pending
+fancy-nights	Fancy Nights		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Fancy-Nights-8925.html				pending
+fiend	Fiend		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Fiend-64307.html				pending
+i-fancy-you	I Fancy You		female	https://www.fragrantica.com/perfume/Jessica-Simpson/I-Fancy-You-12582.html				pending
+jessica-simpson-signature	Jessica Simpson (Signature)		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Jessica-Simpson-Signature-26126.html				pending
+taste	Taste		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Taste-10269.html				pending
+ten	Ten		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Ten-31693.html				pending
+vintage-bloom	Vintage Bloom		female	https://www.fragrantica.com/perfume/Jessica-Simpson/Vintage-Bloom-15198.html				pending

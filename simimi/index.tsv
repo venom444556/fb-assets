@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blanc-danna	Blanc d'Anna		female		https://www.fragrantica.com/perfume/Simimi/Blanc-d-Anna-37809.html				pending
-blanc-de-sisa	Blanc de Sisa		female		https://www.fragrantica.com/perfume/Simimi/Blanc-de-Sisa-37812.html				pending
-blanc-de-zhang	Blanc de Zhang		female		https://www.fragrantica.com/perfume/Simimi/Blanc-de-Zhang-37807.html				pending
-memoire-danna	Mémoire d'Anna		female		https://www.fragrantica.com/perfume/Simimi/Memoire-d-Anna-37808.html				pending
-reve-de-sisa	Rêve de Sisa		female		https://www.fragrantica.com/perfume/Simimi/Reve-de-Sisa-37811.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blanc-danna	Blanc d'Anna		female	https://www.fragrantica.com/perfume/Simimi/Blanc-d-Anna-37809.html				pending
+blanc-de-sisa	Blanc de Sisa		female	https://www.fragrantica.com/perfume/Simimi/Blanc-de-Sisa-37812.html				pending
+blanc-de-zhang	Blanc de Zhang		female	https://www.fragrantica.com/perfume/Simimi/Blanc-de-Zhang-37807.html				pending
+memoire-danna	Mémoire d'Anna		female	https://www.fragrantica.com/perfume/Simimi/Memoire-d-Anna-37808.html				pending
+reve-de-sisa	Rêve de Sisa		female	https://www.fragrantica.com/perfume/Simimi/Reve-de-Sisa-37811.html				pending

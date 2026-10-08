@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aether-argent	Aether Argent		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Aether-Argent-25086.html				pending
-burner-perfume-no-1-black-rock-city	Burner Perfume No 1: Black Rock City		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-1-Black-Rock-City-40102.html				pending
-burner-perfume-no-2-a-roll-in-the-grass	Burner Perfume No 2: A Roll in the Grass		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-2-A-Roll-in-the-Grass-25084.html				pending
-burner-perfume-no-3-inuus	Burner Perfume No 3: Inuus		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-3-Inuus-25085.html				pending
-burner-perfume-no-4-john-frum	Burner Perfume No 4: John Frum		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-4-John-Frum-25083.html				pending
-burner-perfume-no-5-incense-indica	Burner Perfume No 5: Incense Indica		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-5-Incense-Indica-40098.html				pending
-burner-perfume-no-6-reflection	Burner Perfume No 6: Reflection		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-6-Reflection-40103.html				pending
-burner-perfume-no-7-red-dodecahedron	Burner Perfume No 7: Red Dodecahedron		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-7-Red-Dodecahedron-43246.html				pending
-electrum	Electrum		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Electrum-25088.html				pending
-ginger-rose	Ginger Rose		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Ginger-Rose-25089.html				pending
-holy-hemp	Holy Hemp		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Holy-Hemp-40099.html				pending
-love-for-3-oranges	Love for 3 Oranges		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Love-for-3-Oranges-40101.html				pending
-magic-mushroom	Magic Mushroom		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Magic-Mushroom-40100.html				pending
-mayan-chocolate	Mayan Chocolate		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Mayan-Chocolate-73691.html				pending
-nude-moderne	Nude Moderne		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Nude-Moderne-25087.html				pending
-reefer-madness	Reefer Madness		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Reefer-Madness-40110.html				pending
-saffron	Saffron		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Saffron-40111.html				pending
-scylla	Scylla		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Scylla-92218.html				pending
-strawberry-sling	Strawberry Sling		unisex		https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Strawberry-Sling-40112.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aether-argent	Aether Argent		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Aether-Argent-25086.html				pending
+burner-perfume-no-1-black-rock-city	Burner Perfume No 1: Black Rock City		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-1-Black-Rock-City-40102.html				pending
+burner-perfume-no-2-a-roll-in-the-grass	Burner Perfume No 2: A Roll in the Grass		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-2-A-Roll-in-the-Grass-25084.html				pending
+burner-perfume-no-3-inuus	Burner Perfume No 3: Inuus		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-3-Inuus-25085.html				pending
+burner-perfume-no-4-john-frum	Burner Perfume No 4: John Frum		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-4-John-Frum-25083.html				pending
+burner-perfume-no-5-incense-indica	Burner Perfume No 5: Incense Indica		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-5-Incense-Indica-40098.html				pending
+burner-perfume-no-6-reflection	Burner Perfume No 6: Reflection		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-6-Reflection-40103.html				pending
+burner-perfume-no-7-red-dodecahedron	Burner Perfume No 7: Red Dodecahedron		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-7-Red-Dodecahedron-43246.html				pending
+electrum	Electrum		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Electrum-25088.html				pending
+ginger-rose	Ginger Rose		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Ginger-Rose-25089.html				pending
+holy-hemp	Holy Hemp		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Holy-Hemp-40099.html				pending
+love-for-3-oranges	Love for 3 Oranges		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Love-for-3-Oranges-40101.html				pending
+magic-mushroom	Magic Mushroom		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Magic-Mushroom-40100.html				pending
+mayan-chocolate	Mayan Chocolate		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Mayan-Chocolate-73691.html				pending
+nude-moderne	Nude Moderne		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Nude-Moderne-25087.html				pending
+reefer-madness	Reefer Madness		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Reefer-Madness-40110.html				pending
+saffron	Saffron		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Saffron-40111.html				pending
+scylla	Scylla		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Scylla-92218.html				pending
+strawberry-sling	Strawberry Sling		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Strawberry-Sling-40112.html				pending

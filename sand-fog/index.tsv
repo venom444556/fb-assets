@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-banana-cream	Banana Cream		unisex		https://www.fragrantica.com/perfume/Sand-Fog/Banana-Cream-105581.html				pending
-berries-and-cream	Berries & Cream		unisex		https://www.fragrantica.com/perfume/Sand-Fog/Berries-Cream-113775.html				pending
-pistachio-dream	Pistachio Dream		unisex		https://www.fragrantica.com/perfume/Sand-Fog/Pistachio-Dream-92760.html				pending
-santal-and-cardamom	Santal & Cardamom		unisex		https://www.fragrantica.com/perfume/Sand-Fog/Santal-Cardamom-92763.html				pending
-vanilla-musk	Vanilla Musk		unisex		https://www.fragrantica.com/perfume/Sand-Fog/Vanilla-Musk-92762.html				pending
-velvet-blossom	Velvet Blossom		unisex		https://www.fragrantica.com/perfume/Sand-Fog/Velvet-Blossom-114204.html				pending
-white-vanilla	White Vanilla		unisex		https://www.fragrantica.com/perfume/Sand-Fog/White-Vanilla-92761.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+banana-cream	Banana Cream		unisex	https://www.fragrantica.com/perfume/Sand-Fog/Banana-Cream-105581.html				pending
+berries-and-cream	Berries & Cream		unisex	https://www.fragrantica.com/perfume/Sand-Fog/Berries-Cream-113775.html				pending
+pistachio-dream	Pistachio Dream		unisex	https://www.fragrantica.com/perfume/Sand-Fog/Pistachio-Dream-92760.html				pending
+santal-and-cardamom	Santal & Cardamom		unisex	https://www.fragrantica.com/perfume/Sand-Fog/Santal-Cardamom-92763.html				pending
+vanilla-musk	Vanilla Musk		unisex	https://www.fragrantica.com/perfume/Sand-Fog/Vanilla-Musk-92762.html				pending
+velvet-blossom	Velvet Blossom		unisex	https://www.fragrantica.com/perfume/Sand-Fog/Velvet-Blossom-114204.html				pending
+white-vanilla	White Vanilla		unisex	https://www.fragrantica.com/perfume/Sand-Fog/White-Vanilla-92761.html				pending

@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-accendis-0-2	Accendis 0.2		unisex		https://www.fragrantica.com/perfume/Accendis/Accendis-0-2-32408.html				pending
-aclus	Aclus		unisex		https://www.fragrantica.com/perfume/Accendis/Aclus-32409.html				pending
-fiorialux	Fiorialux		unisex		https://www.fragrantica.com/perfume/Accendis/Fiorialux-46974.html				pending
-lucevera	Lucevera		unisex		https://www.fragrantica.com/perfume/Accendis/Lucevera-44249.html				pending
-luna-dulcius	Luna Dulcius		unisex		https://www.fragrantica.com/perfume/Accendis/Luna-Dulcius-46975.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+accendis-0-2	Accendis 0.2		unisex	https://www.fragrantica.com/perfume/Accendis/Accendis-0-2-32408.html				pending
+aclus	Aclus		unisex	https://www.fragrantica.com/perfume/Accendis/Aclus-32409.html				pending
+fiorialux	Fiorialux		unisex	https://www.fragrantica.com/perfume/Accendis/Fiorialux-46974.html				pending
+lucevera	Lucevera		unisex	https://www.fragrantica.com/perfume/Accendis/Lucevera-44249.html				pending
+luna-dulcius	Luna Dulcius		unisex	https://www.fragrantica.com/perfume/Accendis/Luna-Dulcius-46975.html				pending

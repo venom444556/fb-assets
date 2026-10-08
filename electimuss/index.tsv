@@ -1,40 +1,40 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alkout	Alkout		unisex		https://www.fragrantica.com/perfume/Electimuss/Alkout-61820.html				pending
-amber-aquilaria	Amber Aquilaria		unisex		https://www.fragrantica.com/perfume/Electimuss/Amber-Aquilaria-61799.html				pending
-amber-aquilaria-28834	Amber Aquilaria		unisex		https://www.fragrantica.com/perfume/Electimuss/Amber-Aquilaria-28834.html				pending
-amber-bloom	Amber Bloom		unisex		https://www.fragrantica.com/perfume/Electimuss/Amber-Bloom-134196.html				pending
-aquila-absolute	Aquila Absolute		unisex		https://www.fragrantica.com/perfume/Electimuss/Aquila-Absolute-82663.html				pending
-astrum-nova	Astrum Nova		unisex		https://www.fragrantica.com/perfume/Electimuss/Astrum-Nova-109923.html				pending
-aurora	Aurora		unisex		https://www.fragrantica.com/perfume/Electimuss/Aurora-61801.html				pending
-auster	Auster		unisex		https://www.fragrantica.com/perfume/Electimuss/Auster-61802.html				pending
-black-caviar	Black Caviar		unisex		https://www.fragrantica.com/perfume/Electimuss/Black-Caviar-61812.html				pending
-black-caviar-28835	Black Caviar		unisex		https://www.fragrantica.com/perfume/Electimuss/Black-Caviar-28835.html				pending
-capua	Capua		unisex		https://www.fragrantica.com/perfume/Electimuss/Capua-61809.html				pending
-caspian-cherry	Caspian Cherry		unisex		https://www.fragrantica.com/perfume/Electimuss/Caspian-Cherry-97641.html				pending
-celestial	Celestial		unisex		https://www.fragrantica.com/perfume/Electimuss/Celestial-61821.html				pending
-cupids-kiss	Cupid's Kiss		unisex		https://www.fragrantica.com/perfume/Electimuss/Cupid-s-Kiss-90197.html				pending
-fortuna	Fortuna		unisex		https://www.fragrantica.com/perfume/Electimuss/Fortuna-61803.html				pending
-gladiator-oud	Gladiator Oud		unisex		https://www.fragrantica.com/perfume/Electimuss/Gladiator-Oud-79601.html				pending
-imperium	Imperium		unisex		https://www.fragrantica.com/perfume/Electimuss/Imperium-61804.html				pending
-incitatus	Incitatus		unisex		https://www.fragrantica.com/perfume/Electimuss/Incitatus-28833.html				pending
-jupiter	Jupiter		unisex		https://www.fragrantica.com/perfume/Electimuss/Jupiter-61805.html				pending
-mercurial-cashmere	Mercurial Cashmere		unisex		https://www.fragrantica.com/perfume/Electimuss/Mercurial-Cashmere-68736.html				pending
-moroccan-medjool	Moroccan Medjool		unisex		https://www.fragrantica.com/perfume/Electimuss/Moroccan-Medjool-103074.html				pending
-octavian	Octavian		unisex		https://www.fragrantica.com/perfume/Electimuss/Octavian-61800.html				pending
-patchouli-of-the-underworld	Patchouli of the Underworld		unisex		https://www.fragrantica.com/perfume/Electimuss/Patchouli-of-the-Underworld-72806.html				pending
-persephones-patchouli	Persephone's Patchouli		unisex		https://www.fragrantica.com/perfume/Electimuss/Persephone-s-Patchouli-72805.html				pending
-platinum-muscus	Platinum Muscus		unisex		https://www.fragrantica.com/perfume/Electimuss/Platinum-Muscus-28832.html				pending
-pomona-vitalis	Pomona Vitalis		unisex		https://www.fragrantica.com/perfume/Electimuss/Pomona-Vitalis-74592.html				pending
-puritas	Puritas		unisex		https://www.fragrantica.com/perfume/Electimuss/Puritas-61822.html				pending
-rhodanthe	Rhodanthe		unisex		https://www.fragrantica.com/perfume/Electimuss/Rhodanthe-61806.html				pending
-rhodanthe-28831	Rhodanthe		unisex		https://www.fragrantica.com/perfume/Electimuss/Rhodanthe-28831.html				pending
-saggita	Saggita		unisex		https://www.fragrantica.com/perfume/Electimuss/Saggita-28829.html				pending
-silvanus	Silvanus		unisex		https://www.fragrantica.com/perfume/Electimuss/Silvanus-61807.html				pending
-spice-darno	Spice D'Arno		unisex		https://www.fragrantica.com/perfume/Electimuss/Spice-D-Arno-94645.html				pending
-summanus	Summanus		unisex		https://www.fragrantica.com/perfume/Electimuss/Summanus-61813.html				pending
-trajan	Trajan		unisex		https://www.fragrantica.com/perfume/Electimuss/Trajan-61808.html				pending
-vanilla-edesia	Vanilla Edesia		unisex		https://www.fragrantica.com/perfume/Electimuss/Vanilla-Edesia-86839.html				pending
-venti	Venti		unisex		https://www.fragrantica.com/perfume/Electimuss/Venti-28830.html				pending
-vesper-reverie	Vesper Reverie		unisex		https://www.fragrantica.com/perfume/Electimuss/Vesper-Reverie-117493.html				pending
-vici-leather	Vici Leather		unisex		https://www.fragrantica.com/perfume/Electimuss/Vici-Leather-76138.html				pending
-vixere	Vixere		unisex		https://www.fragrantica.com/perfume/Electimuss/Vixere-61810.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alkout	Alkout		unisex	https://www.fragrantica.com/perfume/Electimuss/Alkout-61820.html				pending
+amber-aquilaria	Amber Aquilaria		unisex	https://www.fragrantica.com/perfume/Electimuss/Amber-Aquilaria-61799.html				pending
+amber-aquilaria-28834	Amber Aquilaria		unisex	https://www.fragrantica.com/perfume/Electimuss/Amber-Aquilaria-28834.html				pending
+amber-bloom	Amber Bloom		unisex	https://www.fragrantica.com/perfume/Electimuss/Amber-Bloom-134196.html				pending
+aquila-absolute	Aquila Absolute		unisex	https://www.fragrantica.com/perfume/Electimuss/Aquila-Absolute-82663.html				pending
+astrum-nova	Astrum Nova		unisex	https://www.fragrantica.com/perfume/Electimuss/Astrum-Nova-109923.html				pending
+aurora	Aurora		unisex	https://www.fragrantica.com/perfume/Electimuss/Aurora-61801.html				pending
+auster	Auster		unisex	https://www.fragrantica.com/perfume/Electimuss/Auster-61802.html				pending
+black-caviar	Black Caviar		unisex	https://www.fragrantica.com/perfume/Electimuss/Black-Caviar-61812.html				pending
+black-caviar-28835	Black Caviar		unisex	https://www.fragrantica.com/perfume/Electimuss/Black-Caviar-28835.html				pending
+capua	Capua		unisex	https://www.fragrantica.com/perfume/Electimuss/Capua-61809.html				pending
+caspian-cherry	Caspian Cherry		unisex	https://www.fragrantica.com/perfume/Electimuss/Caspian-Cherry-97641.html				pending
+celestial	Celestial		unisex	https://www.fragrantica.com/perfume/Electimuss/Celestial-61821.html				pending
+cupids-kiss	Cupid's Kiss		unisex	https://www.fragrantica.com/perfume/Electimuss/Cupid-s-Kiss-90197.html				pending
+fortuna	Fortuna		unisex	https://www.fragrantica.com/perfume/Electimuss/Fortuna-61803.html				pending
+gladiator-oud	Gladiator Oud		unisex	https://www.fragrantica.com/perfume/Electimuss/Gladiator-Oud-79601.html				pending
+imperium	Imperium		unisex	https://www.fragrantica.com/perfume/Electimuss/Imperium-61804.html				pending
+incitatus	Incitatus		unisex	https://www.fragrantica.com/perfume/Electimuss/Incitatus-28833.html				pending
+jupiter	Jupiter		unisex	https://www.fragrantica.com/perfume/Electimuss/Jupiter-61805.html				pending
+mercurial-cashmere	Mercurial Cashmere		unisex	https://www.fragrantica.com/perfume/Electimuss/Mercurial-Cashmere-68736.html				pending
+moroccan-medjool	Moroccan Medjool		unisex	https://www.fragrantica.com/perfume/Electimuss/Moroccan-Medjool-103074.html				pending
+octavian	Octavian		unisex	https://www.fragrantica.com/perfume/Electimuss/Octavian-61800.html				pending
+patchouli-of-the-underworld	Patchouli of the Underworld		unisex	https://www.fragrantica.com/perfume/Electimuss/Patchouli-of-the-Underworld-72806.html				pending
+persephones-patchouli	Persephone's Patchouli		unisex	https://www.fragrantica.com/perfume/Electimuss/Persephone-s-Patchouli-72805.html				pending
+platinum-muscus	Platinum Muscus		unisex	https://www.fragrantica.com/perfume/Electimuss/Platinum-Muscus-28832.html				pending
+pomona-vitalis	Pomona Vitalis		unisex	https://www.fragrantica.com/perfume/Electimuss/Pomona-Vitalis-74592.html				pending
+puritas	Puritas		unisex	https://www.fragrantica.com/perfume/Electimuss/Puritas-61822.html				pending
+rhodanthe	Rhodanthe		unisex	https://www.fragrantica.com/perfume/Electimuss/Rhodanthe-61806.html				pending
+rhodanthe-28831	Rhodanthe		unisex	https://www.fragrantica.com/perfume/Electimuss/Rhodanthe-28831.html				pending
+saggita	Saggita		unisex	https://www.fragrantica.com/perfume/Electimuss/Saggita-28829.html				pending
+silvanus	Silvanus		unisex	https://www.fragrantica.com/perfume/Electimuss/Silvanus-61807.html				pending
+spice-darno	Spice D'Arno		unisex	https://www.fragrantica.com/perfume/Electimuss/Spice-D-Arno-94645.html				pending
+summanus	Summanus		unisex	https://www.fragrantica.com/perfume/Electimuss/Summanus-61813.html				pending
+trajan	Trajan		unisex	https://www.fragrantica.com/perfume/Electimuss/Trajan-61808.html				pending
+vanilla-edesia	Vanilla Edesia		unisex	https://www.fragrantica.com/perfume/Electimuss/Vanilla-Edesia-86839.html				pending
+venti	Venti		unisex	https://www.fragrantica.com/perfume/Electimuss/Venti-28830.html				pending
+vesper-reverie	Vesper Reverie		unisex	https://www.fragrantica.com/perfume/Electimuss/Vesper-Reverie-117493.html				pending
+vici-leather	Vici Leather		unisex	https://www.fragrantica.com/perfume/Electimuss/Vici-Leather-76138.html				pending
+vixere	Vixere		unisex	https://www.fragrantica.com/perfume/Electimuss/Vixere-61810.html				pending

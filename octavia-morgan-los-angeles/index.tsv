@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-dark-rose	Dark Rose		unisex		https://www.fragrantica.com/perfume/Octavia-Morgan-Los-Angeles/Dark-Rose-104276.html				pending
-midnight-orchard	Midnight Orchard		unisex		https://www.fragrantica.com/perfume/Octavia-Morgan-Los-Angeles/Midnight-Orchard-104282.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+dark-rose	Dark Rose		unisex	https://www.fragrantica.com/perfume/Octavia-Morgan-Los-Angeles/Dark-Rose-104276.html				pending
+midnight-orchard	Midnight Orchard		unisex	https://www.fragrantica.com/perfume/Octavia-Morgan-Los-Angeles/Midnight-Orchard-104282.html				pending

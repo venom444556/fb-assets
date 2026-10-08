@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blackberry-tonic	Blackberry Tonic		unisex		https://www.fragrantica.com/perfume/Mix-Bar/Blackberry-Tonic-66233.html				pending
-cloud-musk	Cloud Musk		unisex		https://www.fragrantica.com/perfume/Mix-Bar/Cloud-Musk-66231.html				pending
-coconut-palm	Coconut Palm		unisex		https://www.fragrantica.com/perfume/Mix-Bar/Coconut-Palm-66236.html				pending
-glass-rose	Glass Rose		unisex		https://www.fragrantica.com/perfume/Mix-Bar/Glass-Rose-66232.html				pending
-honey-milk	Honey Milk		unisex		https://www.fragrantica.com/perfume/Mix-Bar/Honey-Milk-104081.html				pending
-passionfruit-nectar	Passionfruit Nectar		female		https://www.fragrantica.com/perfume/Mix-Bar/Passionfruit-Nectar-91523.html				pending
-pear-blossom	Pear Blossom		female		https://www.fragrantica.com/perfume/Mix-Bar/Pear-Blossom-88082.html				pending
-salt-petals	Salt Petals		female		https://www.fragrantica.com/perfume/Mix-Bar/Salt-Petals-91522.html				pending
-sugared-violet	Sugared Violet		unisex		https://www.fragrantica.com/perfume/Mix-Bar/Sugared-Violet-104082.html				pending
-tangerine-squeeze	Tangerine Squeeze		unisex		https://www.fragrantica.com/perfume/Mix-Bar/Tangerine-Squeeze-66234.html				pending
-vanilla-bourbon	Vanilla Bourbon		unisex		https://www.fragrantica.com/perfume/Mix-Bar/Vanilla-Bourbon-66235.html				pending
-wood-elixir	Wood Elixir		unisex		https://www.fragrantica.com/perfume/Mix-Bar/Wood-Elixir-66237.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blackberry-tonic	Blackberry Tonic		unisex	https://www.fragrantica.com/perfume/Mix-Bar/Blackberry-Tonic-66233.html				pending
+cloud-musk	Cloud Musk		unisex	https://www.fragrantica.com/perfume/Mix-Bar/Cloud-Musk-66231.html				pending
+coconut-palm	Coconut Palm		unisex	https://www.fragrantica.com/perfume/Mix-Bar/Coconut-Palm-66236.html				pending
+glass-rose	Glass Rose		unisex	https://www.fragrantica.com/perfume/Mix-Bar/Glass-Rose-66232.html				pending
+honey-milk	Honey Milk		unisex	https://www.fragrantica.com/perfume/Mix-Bar/Honey-Milk-104081.html				pending
+passionfruit-nectar	Passionfruit Nectar		female	https://www.fragrantica.com/perfume/Mix-Bar/Passionfruit-Nectar-91523.html				pending
+pear-blossom	Pear Blossom		female	https://www.fragrantica.com/perfume/Mix-Bar/Pear-Blossom-88082.html				pending
+salt-petals	Salt Petals		female	https://www.fragrantica.com/perfume/Mix-Bar/Salt-Petals-91522.html				pending
+sugared-violet	Sugared Violet		unisex	https://www.fragrantica.com/perfume/Mix-Bar/Sugared-Violet-104082.html				pending
+tangerine-squeeze	Tangerine Squeeze		unisex	https://www.fragrantica.com/perfume/Mix-Bar/Tangerine-Squeeze-66234.html				pending
+vanilla-bourbon	Vanilla Bourbon		unisex	https://www.fragrantica.com/perfume/Mix-Bar/Vanilla-Bourbon-66235.html				pending
+wood-elixir	Wood Elixir		unisex	https://www.fragrantica.com/perfume/Mix-Bar/Wood-Elixir-66237.html				pending

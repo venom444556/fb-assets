@@ -1,41 +1,41 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-blue-ridge	Blue Ridge		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Blue-Ridge-87077.html				pending
-blue-ridge-61173	Blue Ridge		male		https://www.fragrantica.com/perfume/Fulton-Roark/Blue-Ridge-61173.html				pending
-calle-ocho	Calle Ocho		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Calle-Ocho-87071.html				pending
-calle-ocho-87061	Calle Ocho		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Calle-Ocho-87061.html				pending
-clearwater	Clearwater		male		https://www.fragrantica.com/perfume/Fulton-Roark/Clearwater-39942.html				pending
-cloudland	Cloudland		male		https://www.fragrantica.com/perfume/Fulton-Roark/Cloudland-89068.html				pending
-cloudland-89069	Cloudland		male		https://www.fragrantica.com/perfume/Fulton-Roark/Cloudland-89069.html				pending
-devils-garden	Devil's Garden		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Devil-s-Garden-87072.html				pending
-devils-garden-87065	Devil's Garden		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Devil-s-Garden-87065.html				pending
-fulton	Fulton		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Fulton-115789.html				pending
-ghost-trees	Ghost Trees		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Ghost-Trees-105921.html				pending
-hatteras	Hatteras		male		https://www.fragrantica.com/perfume/Fulton-Roark/Hatteras-39941.html				pending
-hwy-190	HWY 190		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/HWY-190-87073.html				pending
-hwy-190-87060	HWY 190		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/HWY-190-87060.html				pending
-kiawah	Kiawah		male		https://www.fragrantica.com/perfume/Fulton-Roark/Kiawah-87069.html				pending
-kiawah-87066	Kiawah		male		https://www.fragrantica.com/perfume/Fulton-Roark/Kiawah-87066.html				pending
-lost-man	Lost Man		male		https://www.fragrantica.com/perfume/Fulton-Roark/Lost-Man-87074.html				pending
-lost-man-87063	Lost Man		male		https://www.fragrantica.com/perfume/Fulton-Roark/Lost-Man-87063.html				pending
-ltd-reserve-no-02-escalante	Ltd Reserve No 02 Escalante		male		https://www.fragrantica.com/perfume/Fulton-Roark/Ltd-Reserve-No-02-Escalante-39943.html				pending
-ltd-reserve-no-13-lost-man	Ltd Reserve No 13 Lost Man		male		https://www.fragrantica.com/perfume/Fulton-Roark/Ltd-Reserve-No-13-Lost-Man-75199.html				pending
-mahana	Mahana		male		https://www.fragrantica.com/perfume/Fulton-Roark/Mahana-87079.html				pending
-mahana-61176	Mahana		male		https://www.fragrantica.com/perfume/Fulton-Roark/Mahana-61176.html				pending
-matia	Matia		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Matia-87070.html				pending
-matia-87062	Matia		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Matia-87062.html				pending
-medicine-bow	Medicine Bow		male		https://www.fragrantica.com/perfume/Fulton-Roark/Medicine-Bow-62259.html				pending
-narada	Narada		male		https://www.fragrantica.com/perfume/Fulton-Roark/Narada-87076.html				pending
-narada-87064	Narada		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Narada-87064.html				pending
-palmetto	Palmetto		male		https://www.fragrantica.com/perfume/Fulton-Roark/Palmetto-87078.html				pending
-palmetto-61177	Palmetto		male		https://www.fragrantica.com/perfume/Fulton-Roark/Palmetto-61177.html				pending
-perpetua	Perpetua		male		https://www.fragrantica.com/perfume/Fulton-Roark/Perpetua-87081.html				pending
-perpetua-61174	Perpetua		male		https://www.fragrantica.com/perfume/Fulton-Roark/Perpetua-61174.html				pending
-ramble	Ramble		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Ramble-87068.html				pending
-ramble-87067	Ramble		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Ramble-87067.html				pending
-roarks-cove	Roark's Cove		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Roark-s-Cove-105920.html				pending
-shackleford	Shackleford		male		https://www.fragrantica.com/perfume/Fulton-Roark/Shackleford-39939.html				pending
-sterling	Sterling		male		https://www.fragrantica.com/perfume/Fulton-Roark/Sterling-87075.html				pending
-sterling-61175	Sterling		male		https://www.fragrantica.com/perfume/Fulton-Roark/Sterling-61175.html				pending
-thousand-palms	Thousand Palms		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Thousand-Palms-89071.html				pending
-thousand-palms-89070	Thousand Palms		unisex		https://www.fragrantica.com/perfume/Fulton-Roark/Thousand-Palms-89070.html				pending
-tybee	Tybee		male		https://www.fragrantica.com/perfume/Fulton-Roark/Tybee-39940.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+blue-ridge	Blue Ridge		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Blue-Ridge-87077.html				pending
+blue-ridge-61173	Blue Ridge		male	https://www.fragrantica.com/perfume/Fulton-Roark/Blue-Ridge-61173.html				pending
+calle-ocho	Calle Ocho		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Calle-Ocho-87071.html				pending
+calle-ocho-87061	Calle Ocho		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Calle-Ocho-87061.html				pending
+clearwater	Clearwater		male	https://www.fragrantica.com/perfume/Fulton-Roark/Clearwater-39942.html				pending
+cloudland	Cloudland		male	https://www.fragrantica.com/perfume/Fulton-Roark/Cloudland-89068.html				pending
+cloudland-89069	Cloudland		male	https://www.fragrantica.com/perfume/Fulton-Roark/Cloudland-89069.html				pending
+devils-garden	Devil's Garden		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Devil-s-Garden-87072.html				pending
+devils-garden-87065	Devil's Garden		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Devil-s-Garden-87065.html				pending
+fulton	Fulton		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Fulton-115789.html				pending
+ghost-trees	Ghost Trees		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Ghost-Trees-105921.html				pending
+hatteras	Hatteras		male	https://www.fragrantica.com/perfume/Fulton-Roark/Hatteras-39941.html				pending
+hwy-190	HWY 190		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/HWY-190-87073.html				pending
+hwy-190-87060	HWY 190		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/HWY-190-87060.html				pending
+kiawah	Kiawah		male	https://www.fragrantica.com/perfume/Fulton-Roark/Kiawah-87069.html				pending
+kiawah-87066	Kiawah		male	https://www.fragrantica.com/perfume/Fulton-Roark/Kiawah-87066.html				pending
+lost-man	Lost Man		male	https://www.fragrantica.com/perfume/Fulton-Roark/Lost-Man-87074.html				pending
+lost-man-87063	Lost Man		male	https://www.fragrantica.com/perfume/Fulton-Roark/Lost-Man-87063.html				pending
+ltd-reserve-no-02-escalante	Ltd Reserve No 02 Escalante		male	https://www.fragrantica.com/perfume/Fulton-Roark/Ltd-Reserve-No-02-Escalante-39943.html				pending
+ltd-reserve-no-13-lost-man	Ltd Reserve No 13 Lost Man		male	https://www.fragrantica.com/perfume/Fulton-Roark/Ltd-Reserve-No-13-Lost-Man-75199.html				pending
+mahana	Mahana		male	https://www.fragrantica.com/perfume/Fulton-Roark/Mahana-87079.html				pending
+mahana-61176	Mahana		male	https://www.fragrantica.com/perfume/Fulton-Roark/Mahana-61176.html				pending
+matia	Matia		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Matia-87070.html				pending
+matia-87062	Matia		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Matia-87062.html				pending
+medicine-bow	Medicine Bow		male	https://www.fragrantica.com/perfume/Fulton-Roark/Medicine-Bow-62259.html				pending
+narada	Narada		male	https://www.fragrantica.com/perfume/Fulton-Roark/Narada-87076.html				pending
+narada-87064	Narada		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Narada-87064.html				pending
+palmetto	Palmetto		male	https://www.fragrantica.com/perfume/Fulton-Roark/Palmetto-87078.html				pending
+palmetto-61177	Palmetto		male	https://www.fragrantica.com/perfume/Fulton-Roark/Palmetto-61177.html				pending
+perpetua	Perpetua		male	https://www.fragrantica.com/perfume/Fulton-Roark/Perpetua-87081.html				pending
+perpetua-61174	Perpetua		male	https://www.fragrantica.com/perfume/Fulton-Roark/Perpetua-61174.html				pending
+ramble	Ramble		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Ramble-87068.html				pending
+ramble-87067	Ramble		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Ramble-87067.html				pending
+roarks-cove	Roark's Cove		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Roark-s-Cove-105920.html				pending
+shackleford	Shackleford		male	https://www.fragrantica.com/perfume/Fulton-Roark/Shackleford-39939.html				pending
+sterling	Sterling		male	https://www.fragrantica.com/perfume/Fulton-Roark/Sterling-87075.html				pending
+sterling-61175	Sterling		male	https://www.fragrantica.com/perfume/Fulton-Roark/Sterling-61175.html				pending
+thousand-palms	Thousand Palms		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Thousand-Palms-89071.html				pending
+thousand-palms-89070	Thousand Palms		unisex	https://www.fragrantica.com/perfume/Fulton-Roark/Thousand-Palms-89070.html				pending
+tybee	Tybee		male	https://www.fragrantica.com/perfume/Fulton-Roark/Tybee-39940.html				pending

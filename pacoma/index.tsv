@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aquassilia	Aquassilia		female		https://www.fragrantica.com/perfume/Pacoma/Aquassilia-22806.html				pending
-cassilia	Cassilia		female		https://www.fragrantica.com/perfume/Pacoma/Cassilia-22799.html				pending
-cassilia-black	Cassilia Black		female		https://www.fragrantica.com/perfume/Pacoma/Cassilia-Black-22800.html				pending
-cassilia-luna	Cassilia Luna		female		https://www.fragrantica.com/perfume/Pacoma/Cassilia-Luna-22807.html				pending
-classics-blend	Classics Blend		male		https://www.fragrantica.com/perfume/Pacoma/Classics-Blend-22810.html				pending
-eau-dete-1	Eau d'Ete 1		female		https://www.fragrantica.com/perfume/Pacoma/Eau-d-Ete-1-22811.html				pending
-eau-dete-2	Eau d'Ete 2		female		https://www.fragrantica.com/perfume/Pacoma/Eau-d-Ete-2-22812.html				pending
-eau-dete-3	Eau d'Ete 3		female		https://www.fragrantica.com/perfume/Pacoma/Eau-d-Ete-3-22813.html				pending
-ego	Ego		female		https://www.fragrantica.com/perfume/Pacoma/Ego-22814.html				pending
-ego-2-homme	Ego 2 Homme		male		https://www.fragrantica.com/perfume/Pacoma/Ego-2-Homme-22804.html				pending
-faena	Faena		female		https://www.fragrantica.com/perfume/Pacoma/Faena-42850.html				pending
-gatsby	Gatsby		male		https://www.fragrantica.com/perfume/Pacoma/Gatsby-22815.html				pending
-intimity	Intimity		female		https://www.fragrantica.com/perfume/Pacoma/Intimity-22801.html				pending
-kasanga	Kasanga		female		https://www.fragrantica.com/perfume/Pacoma/Kasanga-22809.html				pending
-mon-or-rose	Mon Or Rose		female		https://www.fragrantica.com/perfume/Pacoma/Mon-Or-Rose-22802.html				pending
-racer	Racer		male		https://www.fragrantica.com/perfume/Pacoma/Racer-22803.html				pending
-rock-falls	Rock Falls		female		https://www.fragrantica.com/perfume/Pacoma/Rock-Falls-22798.html				pending
-sadayia	Sadayia		female		https://www.fragrantica.com/perfume/Pacoma/Sadayia-22808.html				pending
-spicy-men	Spicy Men		male		https://www.fragrantica.com/perfume/Pacoma/Spicy-Men-22805.html				pending
-swann	Swann		female		https://www.fragrantica.com/perfume/Pacoma/Swann-22816.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aquassilia	Aquassilia		female	https://www.fragrantica.com/perfume/Pacoma/Aquassilia-22806.html				pending
+cassilia	Cassilia		female	https://www.fragrantica.com/perfume/Pacoma/Cassilia-22799.html				pending
+cassilia-black	Cassilia Black		female	https://www.fragrantica.com/perfume/Pacoma/Cassilia-Black-22800.html				pending
+cassilia-luna	Cassilia Luna		female	https://www.fragrantica.com/perfume/Pacoma/Cassilia-Luna-22807.html				pending
+classics-blend	Classics Blend		male	https://www.fragrantica.com/perfume/Pacoma/Classics-Blend-22810.html				pending
+eau-dete-1	Eau d'Ete 1		female	https://www.fragrantica.com/perfume/Pacoma/Eau-d-Ete-1-22811.html				pending
+eau-dete-2	Eau d'Ete 2		female	https://www.fragrantica.com/perfume/Pacoma/Eau-d-Ete-2-22812.html				pending
+eau-dete-3	Eau d'Ete 3		female	https://www.fragrantica.com/perfume/Pacoma/Eau-d-Ete-3-22813.html				pending
+ego	Ego		female	https://www.fragrantica.com/perfume/Pacoma/Ego-22814.html				pending
+ego-2-homme	Ego 2 Homme		male	https://www.fragrantica.com/perfume/Pacoma/Ego-2-Homme-22804.html				pending
+faena	Faena		female	https://www.fragrantica.com/perfume/Pacoma/Faena-42850.html				pending
+gatsby	Gatsby		male	https://www.fragrantica.com/perfume/Pacoma/Gatsby-22815.html				pending
+intimity	Intimity		female	https://www.fragrantica.com/perfume/Pacoma/Intimity-22801.html				pending
+kasanga	Kasanga		female	https://www.fragrantica.com/perfume/Pacoma/Kasanga-22809.html				pending
+mon-or-rose	Mon Or Rose		female	https://www.fragrantica.com/perfume/Pacoma/Mon-Or-Rose-22802.html				pending
+racer	Racer		male	https://www.fragrantica.com/perfume/Pacoma/Racer-22803.html				pending
+rock-falls	Rock Falls		female	https://www.fragrantica.com/perfume/Pacoma/Rock-Falls-22798.html				pending
+sadayia	Sadayia		female	https://www.fragrantica.com/perfume/Pacoma/Sadayia-22808.html				pending
+spicy-men	Spicy Men		male	https://www.fragrantica.com/perfume/Pacoma/Spicy-Men-22805.html				pending
+swann	Swann		female	https://www.fragrantica.com/perfume/Pacoma/Swann-22816.html				pending

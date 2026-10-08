@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-lolita-serum	Lolita Serum		female		https://www.fragrantica.com/perfume/Emporio-Body-Store/Lolita-Serum-38249.html				pending
-splash-fresh-spray-lolita-serum	Splash Fresh Spray Lolita Serum		female		https://www.fragrantica.com/perfume/Emporio-Body-Store/Splash-Fresh-Spray-Lolita-Serum-38250.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+lolita-serum	Lolita Serum		female	https://www.fragrantica.com/perfume/Emporio-Body-Store/Lolita-Serum-38249.html				pending
+splash-fresh-spray-lolita-serum	Splash Fresh Spray Lolita Serum		female	https://www.fragrantica.com/perfume/Emporio-Body-Store/Splash-Fresh-Spray-Lolita-Serum-38250.html				pending

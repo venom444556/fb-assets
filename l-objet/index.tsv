@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cote-maquis	Côté Maquis		unisex		https://www.fragrantica.com/perfume/L-Objet/Cote-Maquis-83492.html				pending
-kerylos	Kérylos		unisex		https://www.fragrantica.com/perfume/L-Objet/Kerylos-92546.html				pending
-oh-mon-dieu	Oh Mon Dieu!		unisex		https://www.fragrantica.com/perfume/L-Objet/Oh-Mon-Dieu-83493.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cote-maquis	Côté Maquis		unisex	https://www.fragrantica.com/perfume/L-Objet/Cote-Maquis-83492.html				pending
+kerylos	Kérylos		unisex	https://www.fragrantica.com/perfume/L-Objet/Kerylos-92546.html				pending
+oh-mon-dieu	Oh Mon Dieu!		unisex	https://www.fragrantica.com/perfume/L-Objet/Oh-Mon-Dieu-83493.html				pending

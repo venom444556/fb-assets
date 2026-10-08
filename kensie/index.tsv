@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-buttercup-babe	Buttercup Babe		female		https://www.fragrantica.com/perfume/Kensie/Buttercup-Babe-82154.html				pending
-kensie	Kensie		female		https://www.fragrantica.com/perfume/Kensie/Kensie-40134.html				pending
-kensie-free-spirit	Kensie Free Spirit		female		https://www.fragrantica.com/perfume/Kensie/Kensie-Free-Spirit-58102.html				pending
-kensie-life-beat	Kensie Life Beat		female		https://www.fragrantica.com/perfume/Kensie/Kensie-Life-Beat-58101.html				pending
-kensie-loving-life	Kensie Loving Life		female		https://www.fragrantica.com/perfume/Kensie/Kensie-Loving-Life-58100.html				pending
-rosy-bloom	Rosy Bloom		female		https://www.fragrantica.com/perfume/Kensie/Rosy-Bloom-82153.html				pending
-so-pretty	So Pretty		female		https://www.fragrantica.com/perfume/Kensie/So-Pretty-62810.html				pending
-zest-for-life	Zest For Life		unisex		https://www.fragrantica.com/perfume/Kensie/Zest-For-Life-78044.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+buttercup-babe	Buttercup Babe		female	https://www.fragrantica.com/perfume/Kensie/Buttercup-Babe-82154.html				pending
+kensie	Kensie		female	https://www.fragrantica.com/perfume/Kensie/Kensie-40134.html				pending
+kensie-free-spirit	Kensie Free Spirit		female	https://www.fragrantica.com/perfume/Kensie/Kensie-Free-Spirit-58102.html				pending
+kensie-life-beat	Kensie Life Beat		female	https://www.fragrantica.com/perfume/Kensie/Kensie-Life-Beat-58101.html				pending
+kensie-loving-life	Kensie Loving Life		female	https://www.fragrantica.com/perfume/Kensie/Kensie-Loving-Life-58100.html				pending
+rosy-bloom	Rosy Bloom		female	https://www.fragrantica.com/perfume/Kensie/Rosy-Bloom-82153.html				pending
+so-pretty	So Pretty		female	https://www.fragrantica.com/perfume/Kensie/So-Pretty-62810.html				pending
+zest-for-life	Zest For Life		unisex	https://www.fragrantica.com/perfume/Kensie/Zest-For-Life-78044.html				pending

@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-date-night	Date Night		unisex		https://www.fragrantica.com/perfume/Twinkle-Apothecary/Date-Night-61085.html				pending
-island-spice	Island Spice		unisex		https://www.fragrantica.com/perfume/Twinkle-Apothecary/Island-Spice-61082.html				pending
-lavender-latte	Lavender Latte		unisex		https://www.fragrantica.com/perfume/Twinkle-Apothecary/Lavender-Latte-61084.html				pending
-sorbet	Sorbet		unisex		https://www.fragrantica.com/perfume/Twinkle-Apothecary/Sorbet-61083.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+date-night	Date Night		unisex	https://www.fragrantica.com/perfume/Twinkle-Apothecary/Date-Night-61085.html				pending
+island-spice	Island Spice		unisex	https://www.fragrantica.com/perfume/Twinkle-Apothecary/Island-Spice-61082.html				pending
+lavender-latte	Lavender Latte		unisex	https://www.fragrantica.com/perfume/Twinkle-Apothecary/Lavender-Latte-61084.html				pending
+sorbet	Sorbet		unisex	https://www.fragrantica.com/perfume/Twinkle-Apothecary/Sorbet-61083.html				pending

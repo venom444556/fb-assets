@@ -3,7 +3,19 @@ usage: build.py REPO SOURCE.tsv[...]   source cols: house, fragrance, gender, fr
 Existing index rows are kept untouched; new rows are appended as pending."""
 import csv, sys, os, re, unicodedata, collections
 repo = sys.argv[1]
-COLS = ['slug','fragrance','concentration','gender','list','fragrantica_url','image_path','source_url','hosted_raw_url','qc_status']
+COLS = ['slug','fragrance','concentration','gender','fragrantica_url','image_path','source_url','hosted_raw_url','qc_status']
+# Fragrantica has no concentration field; it is only known when the name (or URL slug) states it.
+CONC = [(r'\bextrait(?: de parfum)?\b', 'Extrait de Parfum'), (r'\b(?:eau de parfum|edp)\b', 'Eau de Parfum'),
+        (r'\b(?:eau de toilette|edt)\b', 'Eau de Toilette'), (r'\b(?:eau de cologne|edc)\b', 'Eau de Cologne'),
+        (r'\beau fra[iî]che\b', 'Eau Fraiche'), (r'\b(?:body|hair) mist\b', None), (r'\b(?:perfume oil|attar)\b', 'Perfume Oil'),
+        (r'(?<!\ble )(?<!\bla )(?<!\bmon )(?<!\bun )\bparfum$', 'Parfum'), (r'\bcologne$', 'Cologne')]
+def concentration(name, url):
+    for text in (name, re.sub(r'-\d+\.html$', '', url.rsplit('/', 1)[-1]).replace('-', ' ')):
+        t = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode().lower().strip()
+        for pat, val in CONC:
+            m = re.search(pat, t)
+            if m: return val or m.group(0).title()
+    return ''
 URL = re.compile(r'^https://www\.fragrantica\.com/perfume/([^/]+)/[^/]+-(\d+)\.html$')
 def ascii_slug(s):
     s = unicodedata.normalize('NFKD', s).encode('ascii','ignore').decode().lower()
@@ -47,25 +59,29 @@ for src in sys.argv[2:]:
             seen.add(m.group(2))
             slug = ascii_slug(name) or 'f'
             if any(x['slug'] == slug for x in rows): slug = f'{slug}-{m.group(2)}'
-            rows.append(dict(slug=slug, fragrance=name, concentration='', gender=g, list='', fragrantica_url=u,
+            rows.append(dict(slug=slug, fragrance=name, concentration='', gender=g, fragrantica_url=u,
                              image_path='', source_url='', hosted_raw_url='', qc_status='pending'))
             added[hs] += 1
 # write
 lookup = []
 for hs, rows in idx.items():
     os.makedirs(os.path.join(repo, hs), exist_ok=True)
+    for r in rows:
+        r.pop('list', None)
+        r['concentration'] = {'EDP': 'Eau de Parfum', 'EDT': 'Eau de Toilette', 'EDC': 'Eau de Cologne'}.get(r.get('concentration', ''), r.get('concentration', ''))
+        if not r.get('concentration'): r['concentration'] = concentration(r['fragrance'], r['fragrantica_url'])
     keep = rows[:len(rows)-added[hs]]; new = sorted(rows[len(keep):], key=lambda x: x['fragrance'].lower())
     rows = keep + new; idx[hs] = rows
     with open(os.path.join(repo, hs, 'index.tsv'), 'w', encoding='utf-8', newline='') as f:
         w = csv.DictWriter(f, COLS, delimiter='\t', lineterminator='\n'); w.writeheader(); w.writerows(rows)
-    for r in rows: lookup.append((cat[hs], hs, r['fragrance'], r['gender'], fid(r['fragrantica_url']) or '', r['fragrantica_url'], r['slug']))
+    for r in rows: lookup.append((cat[hs], r['fragrance'], r['concentration'], r['gender'], r['fragrantica_url'], r['image_path']))
 with open(os.path.join(repo,'catalog.tsv'), 'w', encoding='utf-8', newline='') as f:
     f.write('house\thouse_slug\tfragrances\tmale\tfemale\tunisex\n')
     for hs, rows in sorted(idx.items(), key=lambda kv: cat[kv[0]].lower()):
         c = collections.Counter(r['gender'] for r in rows)
         f.write(f"{cat[hs]}\t{hs}\t{len(rows)}\t{c['male']}\t{c['female']}\t{c['unisex']}\n")
-lookup.sort(key=lambda t: (t[0].lower(), t[2].lower()))
+lookup.sort(key=lambda t: (t[0].lower(), t[1].lower()))
 with open(os.path.join(repo,'lookup.tsv'), 'w', encoding='utf-8', newline='') as f:
-    f.write('house\thouse_slug\tfragrance\tgender\tfragrantica_id\tfragrantica_url\tslug\n')
+    f.write('house\tfragrance\tconcentration\tgender\tfragrantica_url\timage_path\n')
     for t in lookup: f.write('\t'.join(t) + '\n')
 print('houses', len(idx), 'rows', len(lookup), 'added', sum(added.values()), dict(skipped))

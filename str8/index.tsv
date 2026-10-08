@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adventure	Adventure		male		https://www.fragrantica.com/perfume/STR8/Adventure-40399.html				pending
-ahead	Ahead		male		https://www.fragrantica.com/perfume/STR8/Ahead-71268.html				pending
-fr34k	FR34K		male		https://www.fragrantica.com/perfume/Str8/FR34K-69074.html				pending
-hero	Hero		male		https://www.fragrantica.com/perfume/STR8/Hero-71266.html				pending
-red-code	Red Code		male		https://www.fragrantica.com/perfume/STR8/Red-Code-40404.html				pending
-rise	Rise		unisex		https://www.fragrantica.com/perfume/STR8/Rise-71267.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adventure	Adventure		male	https://www.fragrantica.com/perfume/STR8/Adventure-40399.html				pending
+ahead	Ahead		male	https://www.fragrantica.com/perfume/STR8/Ahead-71268.html				pending
+fr34k	FR34K		male	https://www.fragrantica.com/perfume/Str8/FR34K-69074.html				pending
+hero	Hero		male	https://www.fragrantica.com/perfume/STR8/Hero-71266.html				pending
+red-code	Red Code		male	https://www.fragrantica.com/perfume/STR8/Red-Code-40404.html				pending
+rise	Rise		unisex	https://www.fragrantica.com/perfume/STR8/Rise-71267.html				pending

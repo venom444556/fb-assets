@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-an-deux-mille	An Deux Mille		female		https://www.fragrantica.com/perfume/Kanebo/An-Deux-Mille-51134.html				pending
-eroica	Eroica		male		https://www.fragrantica.com/perfume/Kanebo/Eroica-34190.html				pending
-goce	Goce		male		https://www.fragrantica.com/perfume/Kanebo/Goce-34191.html				pending
-hf	HF		female		https://www.fragrantica.com/perfume/Kanebo/HF-40145.html				pending
-milano-collection-2008	Milano Collection 2008		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2008-52721.html				pending
-milano-collection-2009	Milano Collection 2009		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2009-6009.html				pending
-milano-collection-2010	Milano Collection 2010		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2010-20189.html				pending
-milano-collection-2011	Milano Collection 2011		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2011-20186.html				pending
-milano-collection-2012	Milano Collection 2012		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2012-20185.html				pending
-milano-collection-2013	Milano Collection 2013		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2013-20187.html				pending
-milano-collection-2014	Milano Collection 2014		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2014-20188.html				pending
-milano-collection-2015	Milano Collection 2015		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2015-52719.html				pending
-milano-collection-2016	Milano Collection 2016		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2016-52718.html				pending
-milano-collection-2017	Milano Collection 2017		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2017-52716.html				pending
-milano-collection-2018	Milano Collection 2018		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2018-52717.html				pending
-milano-collection-2019	Milano Collection 2019		female		https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2019-52720.html				pending
-valcan	Valcan		male		https://www.fragrantica.com/perfume/Kanebo/Valcan-85261.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+an-deux-mille	An Deux Mille		female	https://www.fragrantica.com/perfume/Kanebo/An-Deux-Mille-51134.html				pending
+eroica	Eroica		male	https://www.fragrantica.com/perfume/Kanebo/Eroica-34190.html				pending
+goce	Goce		male	https://www.fragrantica.com/perfume/Kanebo/Goce-34191.html				pending
+hf	HF		female	https://www.fragrantica.com/perfume/Kanebo/HF-40145.html				pending
+milano-collection-2008	Milano Collection 2008		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2008-52721.html				pending
+milano-collection-2009	Milano Collection 2009		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2009-6009.html				pending
+milano-collection-2010	Milano Collection 2010		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2010-20189.html				pending
+milano-collection-2011	Milano Collection 2011		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2011-20186.html				pending
+milano-collection-2012	Milano Collection 2012		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2012-20185.html				pending
+milano-collection-2013	Milano Collection 2013		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2013-20187.html				pending
+milano-collection-2014	Milano Collection 2014		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2014-20188.html				pending
+milano-collection-2015	Milano Collection 2015		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2015-52719.html				pending
+milano-collection-2016	Milano Collection 2016		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2016-52718.html				pending
+milano-collection-2017	Milano Collection 2017		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2017-52716.html				pending
+milano-collection-2018	Milano Collection 2018		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2018-52717.html				pending
+milano-collection-2019	Milano Collection 2019		female	https://www.fragrantica.com/perfume/Kanebo/Milano-Collection-2019-52720.html				pending
+valcan	Valcan		male	https://www.fragrantica.com/perfume/Kanebo/Valcan-85261.html				pending

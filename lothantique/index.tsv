@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-citron	Citron		unisex		https://www.fragrantica.com/perfume/Lothantique/Citron-34839.html				pending
-clementine	Clementine		unisex		https://www.fragrantica.com/perfume/Lothantique/Clementine-34820.html				pending
-eau-de-toilette	Eau de Toilette		male		https://www.fragrantica.com/perfume/Lothantique/Eau-de-Toilette-34888.html				pending
-eclat-de-velours	Eclat de Velours		unisex		https://www.fragrantica.com/perfume/Lothantique/Eclat-de-Velours-35803.html				pending
-ginger	Ginger		unisex		https://www.fragrantica.com/perfume/Lothantique/Ginger-34840.html				pending
-grapefruit	Grapefruit		unisex		https://www.fragrantica.com/perfume/Lothantique/Grapefruit-34821.html				pending
-green-tea	Green Tea		unisex		https://www.fragrantica.com/perfume/Lothantique/Green-Tea-34831.html				pending
-jardin-de-roses	Jardin de Roses		female		https://www.fragrantica.com/perfume/Lothantique/Jardin-de-Roses-34889.html				pending
-kiwi-papaya	Kiwi Papaya		unisex		https://www.fragrantica.com/perfume/Lothantique/Kiwi-Papaya-34832.html				pending
-lavender	Lavender		unisex		https://www.fragrantica.com/perfume/Lothantique/Lavender-34835.html				pending
-le-bouquet-de-lili	Le Bouquet de LiLi		female		https://www.fragrantica.com/perfume/Lothantique/Le-Bouquet-de-LiLi-34891.html				pending
-les-lavandes	Les Lavandes		unisex		https://www.fragrantica.com/perfume/Lothantique/Les-Lavandes-34892.html				pending
-lotus-flower	Lotus Flower		unisex		https://www.fragrantica.com/perfume/Lothantique/Lotus-Flower-34841.html				pending
-marine	Marine		unisex		https://www.fragrantica.com/perfume/Lothantique/Marine-34836.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Lothantique/Patchouli-34842.html				pending
-rosewood	Rosewood		unisex		https://www.fragrantica.com/perfume/Lothantique/Rosewood-34844.html				pending
-songe-de-sannes	Songe de Sannes		female		https://www.fragrantica.com/perfume/Lothantique/Songe-de-Sannes-57113.html				pending
-spice	Spice		unisex		https://www.fragrantica.com/perfume/Lothantique/Spice-34845.html				pending
-vanilla-coconut	Vanilla Coconut		unisex		https://www.fragrantica.com/perfume/Lothantique/Vanilla-Coconut-34837.html				pending
-verbena	Verbena		unisex		https://www.fragrantica.com/perfume/Lothantique/Verbena-34838.html				pending
-vetyver	Vetyver		unisex		https://www.fragrantica.com/perfume/Lothantique/Vetyver-34879.html				pending
-violette	Violette		female		https://www.fragrantica.com/perfume/Lothantique/Violette-56127.html				pending
-white-musk	White Musk		unisex		https://www.fragrantica.com/perfume/Lothantique/White-Musk-34880.html				pending
-white-tea	White Tea		unisex		https://www.fragrantica.com/perfume/Lothantique/White-Tea-34881.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+citron	Citron		unisex	https://www.fragrantica.com/perfume/Lothantique/Citron-34839.html				pending
+clementine	Clementine		unisex	https://www.fragrantica.com/perfume/Lothantique/Clementine-34820.html				pending
+eau-de-toilette	Eau de Toilette	Eau de Toilette	male	https://www.fragrantica.com/perfume/Lothantique/Eau-de-Toilette-34888.html				pending
+eclat-de-velours	Eclat de Velours		unisex	https://www.fragrantica.com/perfume/Lothantique/Eclat-de-Velours-35803.html				pending
+ginger	Ginger		unisex	https://www.fragrantica.com/perfume/Lothantique/Ginger-34840.html				pending
+grapefruit	Grapefruit		unisex	https://www.fragrantica.com/perfume/Lothantique/Grapefruit-34821.html				pending
+green-tea	Green Tea		unisex	https://www.fragrantica.com/perfume/Lothantique/Green-Tea-34831.html				pending
+jardin-de-roses	Jardin de Roses		female	https://www.fragrantica.com/perfume/Lothantique/Jardin-de-Roses-34889.html				pending
+kiwi-papaya	Kiwi Papaya		unisex	https://www.fragrantica.com/perfume/Lothantique/Kiwi-Papaya-34832.html				pending
+lavender	Lavender		unisex	https://www.fragrantica.com/perfume/Lothantique/Lavender-34835.html				pending
+le-bouquet-de-lili	Le Bouquet de LiLi		female	https://www.fragrantica.com/perfume/Lothantique/Le-Bouquet-de-LiLi-34891.html				pending
+les-lavandes	Les Lavandes		unisex	https://www.fragrantica.com/perfume/Lothantique/Les-Lavandes-34892.html				pending
+lotus-flower	Lotus Flower		unisex	https://www.fragrantica.com/perfume/Lothantique/Lotus-Flower-34841.html				pending
+marine	Marine		unisex	https://www.fragrantica.com/perfume/Lothantique/Marine-34836.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/Lothantique/Patchouli-34842.html				pending
+rosewood	Rosewood		unisex	https://www.fragrantica.com/perfume/Lothantique/Rosewood-34844.html				pending
+songe-de-sannes	Songe de Sannes		female	https://www.fragrantica.com/perfume/Lothantique/Songe-de-Sannes-57113.html				pending
+spice	Spice		unisex	https://www.fragrantica.com/perfume/Lothantique/Spice-34845.html				pending
+vanilla-coconut	Vanilla Coconut		unisex	https://www.fragrantica.com/perfume/Lothantique/Vanilla-Coconut-34837.html				pending
+verbena	Verbena		unisex	https://www.fragrantica.com/perfume/Lothantique/Verbena-34838.html				pending
+vetyver	Vetyver		unisex	https://www.fragrantica.com/perfume/Lothantique/Vetyver-34879.html				pending
+violette	Violette		female	https://www.fragrantica.com/perfume/Lothantique/Violette-56127.html				pending
+white-musk	White Musk		unisex	https://www.fragrantica.com/perfume/Lothantique/White-Musk-34880.html				pending
+white-tea	White Tea		unisex	https://www.fragrantica.com/perfume/Lothantique/White-Tea-34881.html				pending

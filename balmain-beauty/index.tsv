@@ -1,28 +1,28 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambre-gris	Ambre Gris		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Ambre-Gris-2634.html				pending
-balmain-h-and-m	Balmain H&M		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Balmain-H-M-32498.html				pending
-balmain-homme	Balmain Homme		male		https://www.fragrantica.com/perfume/Balmain-Beauty/Balmain-Homme-31089.html				pending
-balman	BalMan		male		https://www.fragrantica.com/perfume/Balmain-Beauty/BalMan-3107.html				pending
-balmya-de-balmain	Balmya de Balmain		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Balmya-de-Balmain-3813.html				pending
-blanc-galaxie	Blanc Galaxie		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Blanc-Galaxie-103063.html				pending
-bleu-infini	Bleu Infini		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Bleu-Infini-96735.html				pending
-bronze	Bronze		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Bronze-96733.html				pending
-carbone	Carbone		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Carbone-96728.html				pending
-carbone-de-balmain	Carbone de Balmain		male		https://www.fragrantica.com/perfume/Balmain-Beauty/Carbone-de-Balmain-10460.html				pending
-cuir-elysees	Cuir Élysées		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Cuir-Elysees-112973.html				pending
-destin	Destin		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Destin-125543.html				pending
-destin-parfum	Destin Parfum		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Destin-Parfum-136645.html				pending
-eau-divoire	Eau d’Ivoire		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Eau-d-Ivoire-18259.html				pending
-extatic	Extatic		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-22817.html				pending
-extatic-eau-de-toilette	Extatic Eau de Toilette		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-Eau-de-Toilette-24226.html				pending
-extatic-gold-musk	Extatic Gold Musk		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-Gold-Musk-37154.html				pending
-extatic-intense-gold	Extatic Intense Gold		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-Intense-Gold-28047.html				pending
-extatic-tiger-orchid	Extatic Tiger Orchid		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-Tiger-Orchid-37743.html				pending
-ivoire	Ivoire		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Ivoire-15557.html				pending
-ivoire-96732	Ivoire		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Ivoire-96732.html				pending
-la-mome	La Mome		female		https://www.fragrantica.com/perfume/Balmain-Beauty/La-Mome-3110.html				pending
-rose-de-soie	Rose de Soie		female		https://www.fragrantica.com/perfume/Balmain-Beauty/Rose-de-Soie-126691.html				pending
-rouge	Rouge		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Rouge-96731.html				pending
-sel-dambre	Sel d'Ambre		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Sel-d-Ambre-96729.html				pending
-vent-vert	Vent Vert		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Vent-Vert-96730.html				pending
-ebene	Ébène		unisex		https://www.fragrantica.com/perfume/Balmain-Beauty/Ebene-96734.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambre-gris	Ambre Gris		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Ambre-Gris-2634.html				pending
+balmain-h-and-m	Balmain H&M		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Balmain-H-M-32498.html				pending
+balmain-homme	Balmain Homme		male	https://www.fragrantica.com/perfume/Balmain-Beauty/Balmain-Homme-31089.html				pending
+balman	BalMan		male	https://www.fragrantica.com/perfume/Balmain-Beauty/BalMan-3107.html				pending
+balmya-de-balmain	Balmya de Balmain		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Balmya-de-Balmain-3813.html				pending
+blanc-galaxie	Blanc Galaxie		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Blanc-Galaxie-103063.html				pending
+bleu-infini	Bleu Infini		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Bleu-Infini-96735.html				pending
+bronze	Bronze		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Bronze-96733.html				pending
+carbone	Carbone		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Carbone-96728.html				pending
+carbone-de-balmain	Carbone de Balmain		male	https://www.fragrantica.com/perfume/Balmain-Beauty/Carbone-de-Balmain-10460.html				pending
+cuir-elysees	Cuir Élysées		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Cuir-Elysees-112973.html				pending
+destin	Destin		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Destin-125543.html				pending
+destin-parfum	Destin Parfum	Parfum	female	https://www.fragrantica.com/perfume/Balmain-Beauty/Destin-Parfum-136645.html				pending
+eau-divoire	Eau d’Ivoire		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Eau-d-Ivoire-18259.html				pending
+extatic	Extatic		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-22817.html				pending
+extatic-eau-de-toilette	Extatic Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-Eau-de-Toilette-24226.html				pending
+extatic-gold-musk	Extatic Gold Musk		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-Gold-Musk-37154.html				pending
+extatic-intense-gold	Extatic Intense Gold		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-Intense-Gold-28047.html				pending
+extatic-tiger-orchid	Extatic Tiger Orchid		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Extatic-Tiger-Orchid-37743.html				pending
+ivoire	Ivoire		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Ivoire-15557.html				pending
+ivoire-96732	Ivoire		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Ivoire-96732.html				pending
+la-mome	La Mome		female	https://www.fragrantica.com/perfume/Balmain-Beauty/La-Mome-3110.html				pending
+rose-de-soie	Rose de Soie		female	https://www.fragrantica.com/perfume/Balmain-Beauty/Rose-de-Soie-126691.html				pending
+rouge	Rouge		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Rouge-96731.html				pending
+sel-dambre	Sel d'Ambre		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Sel-d-Ambre-96729.html				pending
+vent-vert	Vent Vert		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Vent-Vert-96730.html				pending
+ebene	Ébène		unisex	https://www.fragrantica.com/perfume/Balmain-Beauty/Ebene-96734.html				pending

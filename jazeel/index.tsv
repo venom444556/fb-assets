@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ghala	Ghala		unisex		https://www.fragrantica.com/perfume/Jazeel/Ghala-58277.html				pending
-heyam	Heyam		unisex		https://www.fragrantica.com/perfume/Jazeel/Heyam-58276.html				pending
-the-palace	The Palace		unisex		https://www.fragrantica.com/perfume/Jazeel/The-Palace-70394.html				pending
-wid	Wid		unisex		https://www.fragrantica.com/perfume/Jazeel/Wid-58275.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ghala	Ghala		unisex	https://www.fragrantica.com/perfume/Jazeel/Ghala-58277.html				pending
+heyam	Heyam		unisex	https://www.fragrantica.com/perfume/Jazeel/Heyam-58276.html				pending
+the-palace	The Palace		unisex	https://www.fragrantica.com/perfume/Jazeel/The-Palace-70394.html				pending
+wid	Wid		unisex	https://www.fragrantica.com/perfume/Jazeel/Wid-58275.html				pending

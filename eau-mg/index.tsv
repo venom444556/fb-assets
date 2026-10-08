@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-addict	Amber Addict		unisex		https://www.fragrantica.com/perfume/EAU-MG/Amber-Addict-84337.html				pending
-berry-fleur	Berry Fleur		unisex		https://www.fragrantica.com/perfume/EAU-MG/Berry-Fleur-84343.html				pending
-cheeky-chypre	Cheeky Chypre		unisex		https://www.fragrantica.com/perfume/EAU-MG/Cheeky-Chypre-84341.html				pending
-diaphanous-delight	Diaphanous Delight		unisex		https://www.fragrantica.com/perfume/EAU-MG/Diaphanous-Delight-84338.html				pending
-flor-funk	Flor Funk		unisex		https://www.fragrantica.com/perfume/EAU-MG/Flor-Funk-84342.html				pending
-frangi-frenzy	Frangi Frenzy		unisex		https://www.fragrantica.com/perfume/EAU-MG/Frangi-Frenzy-84340.html				pending
-greedy-gourmand	Greedy Gourmand		unisex		https://www.fragrantica.com/perfume/EAU-MG/Greedy-Gourmand-84331.html				pending
-midnight-musk	Midnight Musk		unisex		https://www.fragrantica.com/perfume/EAU-MG/Midnight-Musk-84333.html				pending
-rockin-rose	Rockin Rose		unisex		https://www.fragrantica.com/perfume/EAU-MG/Rockin-Rose-84335.html				pending
-rubus-rose	Rubus Rose		unisex		https://www.fragrantica.com/perfume/EAU-MG/Rubus-Rose-84344.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-addict	Amber Addict		unisex	https://www.fragrantica.com/perfume/EAU-MG/Amber-Addict-84337.html				pending
+berry-fleur	Berry Fleur		unisex	https://www.fragrantica.com/perfume/EAU-MG/Berry-Fleur-84343.html				pending
+cheeky-chypre	Cheeky Chypre		unisex	https://www.fragrantica.com/perfume/EAU-MG/Cheeky-Chypre-84341.html				pending
+diaphanous-delight	Diaphanous Delight		unisex	https://www.fragrantica.com/perfume/EAU-MG/Diaphanous-Delight-84338.html				pending
+flor-funk	Flor Funk		unisex	https://www.fragrantica.com/perfume/EAU-MG/Flor-Funk-84342.html				pending
+frangi-frenzy	Frangi Frenzy		unisex	https://www.fragrantica.com/perfume/EAU-MG/Frangi-Frenzy-84340.html				pending
+greedy-gourmand	Greedy Gourmand		unisex	https://www.fragrantica.com/perfume/EAU-MG/Greedy-Gourmand-84331.html				pending
+midnight-musk	Midnight Musk		unisex	https://www.fragrantica.com/perfume/EAU-MG/Midnight-Musk-84333.html				pending
+rockin-rose	Rockin Rose		unisex	https://www.fragrantica.com/perfume/EAU-MG/Rockin-Rose-84335.html				pending
+rubus-rose	Rubus Rose		unisex	https://www.fragrantica.com/perfume/EAU-MG/Rubus-Rose-84344.html				pending

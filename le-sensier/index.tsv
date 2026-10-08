@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-brise-de-bergamote	Brise de Bergamote		unisex		https://www.fragrantica.com/perfume/Le-Sensier/Brise-de-Bergamote-127048.html				pending
-brise-de-freesia	Brise de Freesia		unisex		https://www.fragrantica.com/perfume/Le-Sensier/Brise-de-Freesia-127056.html				pending
-brise-de-lima	Brise de Lima		female		https://www.fragrantica.com/perfume/Le-Sensier/Brise-de-Lima-127058.html				pending
-brise-de-mures	Brise de Mûres		unisex		https://www.fragrantica.com/perfume/Le-Sensier/Brise-de-Mures-127061.html				pending
-brume-de-bain	Brume de Bain		unisex		https://www.fragrantica.com/perfume/Le-Sensier/Brume-de-Bain-127059.html				pending
-brume-de-patchouli	Brume de Patchouli		unisex		https://www.fragrantica.com/perfume/Le-Sensier/Brume-de-Patchouli-127060.html				pending
-douceur-de-nectar-pas-a-pas	Douceur de Nectar Pas à Pas		female		https://www.fragrantica.com/perfume/Le-Sensier/Douceur-de-Nectar-Pas-a-Pas-127053.html				pending
-souffle-de-matcha	Soufflé de Matcha		unisex		https://www.fragrantica.com/perfume/Le-Sensier/Souffle-de-Matcha-127050.html				pending
-souffle-de-santal	Soufflé de Santal		unisex		https://www.fragrantica.com/perfume/Le-Sensier/Souffle-de-Santal-127057.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+brise-de-bergamote	Brise de Bergamote		unisex	https://www.fragrantica.com/perfume/Le-Sensier/Brise-de-Bergamote-127048.html				pending
+brise-de-freesia	Brise de Freesia		unisex	https://www.fragrantica.com/perfume/Le-Sensier/Brise-de-Freesia-127056.html				pending
+brise-de-lima	Brise de Lima		female	https://www.fragrantica.com/perfume/Le-Sensier/Brise-de-Lima-127058.html				pending
+brise-de-mures	Brise de Mûres		unisex	https://www.fragrantica.com/perfume/Le-Sensier/Brise-de-Mures-127061.html				pending
+brume-de-bain	Brume de Bain		unisex	https://www.fragrantica.com/perfume/Le-Sensier/Brume-de-Bain-127059.html				pending
+brume-de-patchouli	Brume de Patchouli		unisex	https://www.fragrantica.com/perfume/Le-Sensier/Brume-de-Patchouli-127060.html				pending
+douceur-de-nectar-pas-a-pas	Douceur de Nectar Pas à Pas		female	https://www.fragrantica.com/perfume/Le-Sensier/Douceur-de-Nectar-Pas-a-Pas-127053.html				pending
+souffle-de-matcha	Soufflé de Matcha		unisex	https://www.fragrantica.com/perfume/Le-Sensier/Souffle-de-Matcha-127050.html				pending
+souffle-de-santal	Soufflé de Santal		unisex	https://www.fragrantica.com/perfume/Le-Sensier/Souffle-de-Santal-127057.html				pending

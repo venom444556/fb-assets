@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-gotica	Acqua Gotica		unisex		https://www.fragrantica.com/perfume/Fakoshima/Acqua-Gotica-88805.html				pending
-contre-culture	Contre Culture		unisex		https://www.fragrantica.com/perfume/Fakoshima/Contre-Culture-102877.html				pending
-creme-de-la-creme	Crème de la Crème		unisex		https://www.fragrantica.com/perfume/Fakoshima/Creme-de-la-Creme-78414.html				pending
-el-primer-deseo	El Primer Deseo		unisex		https://www.fragrantica.com/perfume/Fakoshima/El-Primer-Deseo-66979.html				pending
-moonlight-rainbow	Moonlight Rainbow		unisex		https://www.fragrantica.com/perfume/Fakoshima/Moonlight-Rainbow-79363.html				pending
-secret-venue	Secret Venue		unisex		https://www.fragrantica.com/perfume/Fakoshima/Secret-Venue-117647.html				pending
-superior-morion	Superior Morion		unisex		https://www.fragrantica.com/perfume/Fakoshima/Superior-Morion-73456.html				pending
-tear-you-apart	Tear You Apart		unisex		https://www.fragrantica.com/perfume/Fakoshima/Tear-You-Apart-65364.html				pending
-tear-you-apart-extrait	Tear You Apart Extrait		unisex		https://www.fragrantica.com/perfume/Fakoshima/Tear-You-Apart-Extrait-65365.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-gotica	Acqua Gotica		unisex	https://www.fragrantica.com/perfume/Fakoshima/Acqua-Gotica-88805.html				pending
+contre-culture	Contre Culture		unisex	https://www.fragrantica.com/perfume/Fakoshima/Contre-Culture-102877.html				pending
+creme-de-la-creme	Crème de la Crème		unisex	https://www.fragrantica.com/perfume/Fakoshima/Creme-de-la-Creme-78414.html				pending
+el-primer-deseo	El Primer Deseo		unisex	https://www.fragrantica.com/perfume/Fakoshima/El-Primer-Deseo-66979.html				pending
+moonlight-rainbow	Moonlight Rainbow		unisex	https://www.fragrantica.com/perfume/Fakoshima/Moonlight-Rainbow-79363.html				pending
+secret-venue	Secret Venue		unisex	https://www.fragrantica.com/perfume/Fakoshima/Secret-Venue-117647.html				pending
+superior-morion	Superior Morion		unisex	https://www.fragrantica.com/perfume/Fakoshima/Superior-Morion-73456.html				pending
+tear-you-apart	Tear You Apart		unisex	https://www.fragrantica.com/perfume/Fakoshima/Tear-You-Apart-65364.html				pending
+tear-you-apart-extrait	Tear You Apart Extrait	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Fakoshima/Tear-You-Apart-Extrait-65365.html				pending

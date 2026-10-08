@@ -1,37 +1,37 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-7-moons	7 Moons		unisex		https://www.fragrantica.com/perfume/Blend-Oud/7-Moons-43913.html				pending
-alyaa	Alyaa		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Alyaa-80665.html				pending
-angkor-night	Angkor Night		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Angkor-Night-54820.html				pending
-aryam	Aryam		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Aryam-36452.html				pending
-bark	Bark		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Bark-36453.html				pending
-corona	Corona		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Corona-43966.html				pending
-dana	Dana		female		https://www.fragrantica.com/perfume/Blend-Oud/Dana-36444.html				pending
-dioan	Dioan		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Dioan-36454.html				pending
-eclipse	Eclipse		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Eclipse-43912.html				pending
-gala	Gala		female		https://www.fragrantica.com/perfume/Blend-Oud/Gala-36456.html				pending
-ghazal	Ghazal		female		https://www.fragrantica.com/perfume/Blend-Oud/Ghazal-36457.html				pending
-gold-oud	Gold Oud		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Gold-Oud-49375.html				pending
-hayak	Hayak		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Hayak-37993.html				pending
-hour	Hour		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Hour-36449.html				pending
-jour	Jour		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Jour-36450.html				pending
-joy	Joy		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Joy-43968.html				pending
-khoul	Khoul		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Khoul-36451.html				pending
-laylaty	Laylaty		male		https://www.fragrantica.com/perfume/Blend-Oud/Laylaty-36458.html				pending
-mazyon	Mazyon		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Mazyon-36459.html				pending
-meksar	Meksar		female		https://www.fragrantica.com/perfume/Blend-Oud/Meksar-36445.html				pending
-mirage	Mirage		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Mirage-43963.html				pending
-oud-al-emarat	Oud Al Emarat		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Oud-Al-Emarat-36448.html				pending
-oud-marrakech	Oud Marrakech		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Oud-Marrakech-49376.html				pending
-oud-sapphire	Oud Sapphire		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Oud-Sapphire-49374.html				pending
-oud-zanzibar	Oud Zanzibar		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Oud-Zanzibar-49369.html				pending
-rams	Rams		female		https://www.fragrantica.com/perfume/Blend-Oud/Rams-36447.html				pending
-rouh-aoud	Rouh Aoud		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Rouh-Aoud-36460.html				pending
-safari	Safari		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Safari-43965.html				pending
-sahar	Sahar		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Sahar-36461.html				pending
-sana	Sana		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Sana-43967.html				pending
-santal-pondicherry	Santal Pondicherry		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Santal-Pondicherry-54821.html				pending
-silver	Silver		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Silver-75056.html				pending
-sultan	Sultan		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Sultan-48321.html				pending
-teeb	Teeb		male		https://www.fragrantica.com/perfume/Blend-Oud/Teeb-36446.html				pending
-tupai-love	Tupai Love		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Tupai-Love-54819.html				pending
-zagar	Zagar		unisex		https://www.fragrantica.com/perfume/Blend-Oud/Zagar-69614.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+7-moons	7 Moons		unisex	https://www.fragrantica.com/perfume/Blend-Oud/7-Moons-43913.html				pending
+alyaa	Alyaa		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Alyaa-80665.html				pending
+angkor-night	Angkor Night		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Angkor-Night-54820.html				pending
+aryam	Aryam		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Aryam-36452.html				pending
+bark	Bark		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Bark-36453.html				pending
+corona	Corona		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Corona-43966.html				pending
+dana	Dana		female	https://www.fragrantica.com/perfume/Blend-Oud/Dana-36444.html				pending
+dioan	Dioan		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Dioan-36454.html				pending
+eclipse	Eclipse		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Eclipse-43912.html				pending
+gala	Gala		female	https://www.fragrantica.com/perfume/Blend-Oud/Gala-36456.html				pending
+ghazal	Ghazal		female	https://www.fragrantica.com/perfume/Blend-Oud/Ghazal-36457.html				pending
+gold-oud	Gold Oud		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Gold-Oud-49375.html				pending
+hayak	Hayak		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Hayak-37993.html				pending
+hour	Hour		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Hour-36449.html				pending
+jour	Jour		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Jour-36450.html				pending
+joy	Joy		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Joy-43968.html				pending
+khoul	Khoul		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Khoul-36451.html				pending
+laylaty	Laylaty		male	https://www.fragrantica.com/perfume/Blend-Oud/Laylaty-36458.html				pending
+mazyon	Mazyon		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Mazyon-36459.html				pending
+meksar	Meksar		female	https://www.fragrantica.com/perfume/Blend-Oud/Meksar-36445.html				pending
+mirage	Mirage		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Mirage-43963.html				pending
+oud-al-emarat	Oud Al Emarat		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Oud-Al-Emarat-36448.html				pending
+oud-marrakech	Oud Marrakech		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Oud-Marrakech-49376.html				pending
+oud-sapphire	Oud Sapphire		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Oud-Sapphire-49374.html				pending
+oud-zanzibar	Oud Zanzibar		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Oud-Zanzibar-49369.html				pending
+rams	Rams		female	https://www.fragrantica.com/perfume/Blend-Oud/Rams-36447.html				pending
+rouh-aoud	Rouh Aoud		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Rouh-Aoud-36460.html				pending
+safari	Safari		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Safari-43965.html				pending
+sahar	Sahar		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Sahar-36461.html				pending
+sana	Sana		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Sana-43967.html				pending
+santal-pondicherry	Santal Pondicherry		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Santal-Pondicherry-54821.html				pending
+silver	Silver		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Silver-75056.html				pending
+sultan	Sultan		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Sultan-48321.html				pending
+teeb	Teeb		male	https://www.fragrantica.com/perfume/Blend-Oud/Teeb-36446.html				pending
+tupai-love	Tupai Love		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Tupai-Love-54819.html				pending
+zagar	Zagar		unisex	https://www.fragrantica.com/perfume/Blend-Oud/Zagar-69614.html				pending

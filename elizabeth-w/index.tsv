@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-citrus-verbena	Citrus Verbena		unisex		https://www.fragrantica.com/perfume/Elizabeth-W/Citrus-Verbena-15299.html				pending
-lavender	Lavender		unisex		https://www.fragrantica.com/perfume/Elizabeth-W/Lavender-15403.html				pending
-leaves	Leaves		female		https://www.fragrantica.com/perfume/Elizabeth-W/Leaves-15395.html				pending
-lilac	Lilac		female		https://www.fragrantica.com/perfume/Elizabeth-W/Lilac-15396.html				pending
-magnolia	Magnolia		female		https://www.fragrantica.com/perfume/Elizabeth-W/Magnolia-15397.html				pending
-neroli-chamomile	Neroli Chamomile		unisex		https://www.fragrantica.com/perfume/Elizabeth-W/Neroli-Chamomile-15301.html				pending
-redwoods	Redwoods		male		https://www.fragrantica.com/perfume/Elizabeth-W/Redwoods-15398.html				pending
-rosemary	Rosemary		unisex		https://www.fragrantica.com/perfume/Elizabeth-W/Rosemary-24553.html				pending
-sweet-tea	Sweet Tea		female		https://www.fragrantica.com/perfume/Elizabeth-W/Sweet-Tea-15400.html				pending
-tea-rose	Tea Rose		female		https://www.fragrantica.com/perfume/Elizabeth-W/Tea-Rose-15401.html				pending
-tuberose	Tuberose		female		https://www.fragrantica.com/perfume/Elizabeth-W/Tuberose-15399.html				pending
-vetiver	Vetiver		unisex		https://www.fragrantica.com/perfume/Elizabeth-W/Vetiver-15402.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+citrus-verbena	Citrus Verbena		unisex	https://www.fragrantica.com/perfume/Elizabeth-W/Citrus-Verbena-15299.html				pending
+lavender	Lavender		unisex	https://www.fragrantica.com/perfume/Elizabeth-W/Lavender-15403.html				pending
+leaves	Leaves		female	https://www.fragrantica.com/perfume/Elizabeth-W/Leaves-15395.html				pending
+lilac	Lilac		female	https://www.fragrantica.com/perfume/Elizabeth-W/Lilac-15396.html				pending
+magnolia	Magnolia		female	https://www.fragrantica.com/perfume/Elizabeth-W/Magnolia-15397.html				pending
+neroli-chamomile	Neroli Chamomile		unisex	https://www.fragrantica.com/perfume/Elizabeth-W/Neroli-Chamomile-15301.html				pending
+redwoods	Redwoods		male	https://www.fragrantica.com/perfume/Elizabeth-W/Redwoods-15398.html				pending
+rosemary	Rosemary		unisex	https://www.fragrantica.com/perfume/Elizabeth-W/Rosemary-24553.html				pending
+sweet-tea	Sweet Tea		female	https://www.fragrantica.com/perfume/Elizabeth-W/Sweet-Tea-15400.html				pending
+tea-rose	Tea Rose		female	https://www.fragrantica.com/perfume/Elizabeth-W/Tea-Rose-15401.html				pending
+tuberose	Tuberose		female	https://www.fragrantica.com/perfume/Elizabeth-W/Tuberose-15399.html				pending
+vetiver	Vetiver		unisex	https://www.fragrantica.com/perfume/Elizabeth-W/Vetiver-15402.html				pending

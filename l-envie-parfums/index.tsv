@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-001-sao-paulo-is-burning	#001 São Paulo is Burning		unisex		https://www.fragrantica.com/perfume/L-envie-Parfums/001-Sao-Paulo-is-Burning-61499.html				pending
-002-the-patchouli-affair	#002 The Patchouli Affair		unisex		https://www.fragrantica.com/perfume/L-envie-Parfums/002-The-Patchouli-Affair-61500.html				pending
-003-san-junipero	#003 San Junipero		unisex		https://www.fragrantica.com/perfume/L-envie-Parfums/003-San-Junipero-61501.html				pending
-004-falling-water	#004 Falling Water		unisex		https://www.fragrantica.com/perfume/L-envie-Parfums/004-Falling-Water-61502.html				pending
-005-stop-it-i-love-it	#005 Stop It I Love It		unisex		https://www.fragrantica.com/perfume/L-envie-Parfums/005-Stop-It-I-Love-It-61503.html				pending
-006-you-had-me-at-hello	#006 You Had Me At Hello		unisex		https://www.fragrantica.com/perfume/L-envie-Parfums/006-You-Had-Me-At-Hello-61504.html				pending
-007-idee-fixe	#007 Idée Fixe		unisex		https://www.fragrantica.com/perfume/L-envie-Parfums/007-Idee-Fixe-61505.html				pending
-008-mood-indigo	#008 Mood Indigo		unisex		https://www.fragrantica.com/perfume/L-envie-Parfums/008-Mood-Indigo-61506.html				pending
-009-figorativo	#009 Figorativo		unisex		https://www.fragrantica.com/perfume/L-envie-Parfums/009-Figorativo-70992.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+001-sao-paulo-is-burning	#001 São Paulo is Burning		unisex	https://www.fragrantica.com/perfume/L-envie-Parfums/001-Sao-Paulo-is-Burning-61499.html				pending
+002-the-patchouli-affair	#002 The Patchouli Affair		unisex	https://www.fragrantica.com/perfume/L-envie-Parfums/002-The-Patchouli-Affair-61500.html				pending
+003-san-junipero	#003 San Junipero		unisex	https://www.fragrantica.com/perfume/L-envie-Parfums/003-San-Junipero-61501.html				pending
+004-falling-water	#004 Falling Water		unisex	https://www.fragrantica.com/perfume/L-envie-Parfums/004-Falling-Water-61502.html				pending
+005-stop-it-i-love-it	#005 Stop It I Love It		unisex	https://www.fragrantica.com/perfume/L-envie-Parfums/005-Stop-It-I-Love-It-61503.html				pending
+006-you-had-me-at-hello	#006 You Had Me At Hello		unisex	https://www.fragrantica.com/perfume/L-envie-Parfums/006-You-Had-Me-At-Hello-61504.html				pending
+007-idee-fixe	#007 Idée Fixe		unisex	https://www.fragrantica.com/perfume/L-envie-Parfums/007-Idee-Fixe-61505.html				pending
+008-mood-indigo	#008 Mood Indigo		unisex	https://www.fragrantica.com/perfume/L-envie-Parfums/008-Mood-Indigo-61506.html				pending
+009-figorativo	#009 Figorativo		unisex	https://www.fragrantica.com/perfume/L-envie-Parfums/009-Figorativo-70992.html				pending

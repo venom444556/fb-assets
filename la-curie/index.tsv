@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-faunus	Faunus		unisex		https://www.fragrantica.com/perfume/La-Curie/Faunus-31296.html				pending
-geist	Geist		unisex		https://www.fragrantica.com/perfume/La-Curie/Geist-64010.html				pending
-incendo	Incendo		unisex		https://www.fragrantica.com/perfume/La-Curie/Incendo-36124.html				pending
-larrea	Larrea		unisex		https://www.fragrantica.com/perfume/La-Curie/Larrea-31295.html				pending
-odyssey	Odyssey		unisex		https://www.fragrantica.com/perfume/La-Curie/Odyssey-42788.html				pending
-ossuary	Ossuary		unisex		https://www.fragrantica.com/perfume/La-Curie/Ossuary-31297.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+faunus	Faunus		unisex	https://www.fragrantica.com/perfume/La-Curie/Faunus-31296.html				pending
+geist	Geist		unisex	https://www.fragrantica.com/perfume/La-Curie/Geist-64010.html				pending
+incendo	Incendo		unisex	https://www.fragrantica.com/perfume/La-Curie/Incendo-36124.html				pending
+larrea	Larrea		unisex	https://www.fragrantica.com/perfume/La-Curie/Larrea-31295.html				pending
+odyssey	Odyssey		unisex	https://www.fragrantica.com/perfume/La-Curie/Odyssey-42788.html				pending
+ossuary	Ossuary		unisex	https://www.fragrantica.com/perfume/La-Curie/Ossuary-31297.html				pending

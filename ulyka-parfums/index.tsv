@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-nota-loca	Nota Loca		unisex		https://www.fragrantica.com/perfume/Ulyka-Parfums/Nota-Loca-94747.html				pending
-nota-sugar	Nota Sugar		unisex		https://www.fragrantica.com/perfume/Ulyka-Parfums/Nota-Sugar-89202.html				pending
-nota-vanilla	Nota Vanilla		unisex		https://www.fragrantica.com/perfume/Ulyka-Parfums/Nota-Vanilla-101029.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+nota-loca	Nota Loca		unisex	https://www.fragrantica.com/perfume/Ulyka-Parfums/Nota-Loca-94747.html				pending
+nota-sugar	Nota Sugar		unisex	https://www.fragrantica.com/perfume/Ulyka-Parfums/Nota-Sugar-89202.html				pending
+nota-vanilla	Nota Vanilla		unisex	https://www.fragrantica.com/perfume/Ulyka-Parfums/Nota-Vanilla-101029.html				pending

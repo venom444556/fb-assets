@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-orange-blossom	Orange Blossom		unisex		https://www.fragrantica.com/perfume/Panier-des-Sens/Orange-Blossom-57306.html				pending
-precious-jasmine	Precious Jasmine		female		https://www.fragrantica.com/perfume/Panier-des-Sens/Precious-Jasmine-43926.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+orange-blossom	Orange Blossom		unisex	https://www.fragrantica.com/perfume/Panier-des-Sens/Orange-Blossom-57306.html				pending
+precious-jasmine	Precious Jasmine		female	https://www.fragrantica.com/perfume/Panier-des-Sens/Precious-Jasmine-43926.html				pending

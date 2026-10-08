@@ -1,24 +1,24 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-lovely-summer	A Lovely Summer		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/A-Lovely-Summer-95718.html				pending
-a-lovely-summer-sunburst	A Lovely Summer Sunburst		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/A-Lovely-Summer-Sunburst-106998.html				pending
-born-lovely	Born Lovely		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Born-Lovely-50769.html				pending
-covet	Covet		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Covet-1404.html				pending
-covet-pure-bloom	Covet Pure Bloom		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Covet-Pure-Bloom-3321.html				pending
-dawn	Dawn		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Dawn-4887.html				pending
-endless	Endless		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Endless-4888.html				pending
-lovely	Lovely		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-993.html				pending
-lovely-10th-anniversary-edition	Lovely 10th Anniversary Edition		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-10th-Anniversary-Edition-32942.html				pending
-lovely-lights	Lovely Lights		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Lights-73345.html				pending
-lovely-liquid-satin	Lovely Liquid Satin		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Liquid-Satin-994.html				pending
-lovely-noir	Lovely Noir		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Noir-117568.html				pending
-lovely-sheer	Lovely Sheer		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Sheer-37681.html				pending
-lovely-winter-sparkle	Lovely Winter Sparkle		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Winter-Sparkle-37686.html				pending
-lovely-you	Lovely You		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-You-63434.html				pending
-sjp-nyc	SJP NYC		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/SJP-NYC-7081.html				pending
-sjp-nyc-crush	SJP NYC Crush		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/SJP-NYC-Crush-47654.html				pending
-sjp-nyc-eau-de-parfum	SJP NYC Eau de Parfum		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/SJP-NYC-Eau-de-Parfum-37682.html				pending
-sjp-nyc-pure-crush	SJP NYC Pure Crush		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/SJP-NYC-Pure-Crush-12989.html				pending
-stash-sjp	Stash SJP		unisex		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Stash-SJP-40750.html				pending
-stash-sjp-prive	Stash SJP Privé		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Stash-SJP-Prive-47146.html				pending
-stash-sjp-unspoken	Stash SJP Unspoken		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Stash-SJP-Unspoken-48584.html				pending
-twilight	Twilight		female		https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Twilight-4889.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-lovely-summer	A Lovely Summer		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/A-Lovely-Summer-95718.html				pending
+a-lovely-summer-sunburst	A Lovely Summer Sunburst		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/A-Lovely-Summer-Sunburst-106998.html				pending
+born-lovely	Born Lovely		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Born-Lovely-50769.html				pending
+covet	Covet		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Covet-1404.html				pending
+covet-pure-bloom	Covet Pure Bloom		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Covet-Pure-Bloom-3321.html				pending
+dawn	Dawn		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Dawn-4887.html				pending
+endless	Endless		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Endless-4888.html				pending
+lovely	Lovely		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-993.html				pending
+lovely-10th-anniversary-edition	Lovely 10th Anniversary Edition		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-10th-Anniversary-Edition-32942.html				pending
+lovely-lights	Lovely Lights		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Lights-73345.html				pending
+lovely-liquid-satin	Lovely Liquid Satin		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Liquid-Satin-994.html				pending
+lovely-noir	Lovely Noir		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Noir-117568.html				pending
+lovely-sheer	Lovely Sheer		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Sheer-37681.html				pending
+lovely-winter-sparkle	Lovely Winter Sparkle		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-Winter-Sparkle-37686.html				pending
+lovely-you	Lovely You		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Lovely-You-63434.html				pending
+sjp-nyc	SJP NYC		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/SJP-NYC-7081.html				pending
+sjp-nyc-crush	SJP NYC Crush		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/SJP-NYC-Crush-47654.html				pending
+sjp-nyc-eau-de-parfum	SJP NYC Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/SJP-NYC-Eau-de-Parfum-37682.html				pending
+sjp-nyc-pure-crush	SJP NYC Pure Crush		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/SJP-NYC-Pure-Crush-12989.html				pending
+stash-sjp	Stash SJP		unisex	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Stash-SJP-40750.html				pending
+stash-sjp-prive	Stash SJP Privé		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Stash-SJP-Prive-47146.html				pending
+stash-sjp-unspoken	Stash SJP Unspoken		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Stash-SJP-Unspoken-48584.html				pending
+twilight	Twilight		female	https://www.fragrantica.com/perfume/Sarah-Jessica-Parker/Twilight-4889.html				pending

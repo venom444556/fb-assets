@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bright-peach	Bright Peach		female		https://www.fragrantica.com/perfume/A-pieu/Bright-Peach-70231.html				pending
-charming-jasmine	Charming Jasmine		female		https://www.fragrantica.com/perfume/A-pieu/Charming-Jasmine-70232.html				pending
-chic-cashmere	Chic Cashmere		female		https://www.fragrantica.com/perfume/A-pieu/Chic-Cashmere-70243.html				pending
-cozy-wool	Cozy Wool		female		https://www.fragrantica.com/perfume/A-pieu/Cozy-Wool-70242.html				pending
-cute-grapefruit	Cute Grapefruit		female		https://www.fragrantica.com/perfume/A-pieu/Cute-Grapefruit-70233.html				pending
-fresh-green-tea	Fresh Green Tea		female		https://www.fragrantica.com/perfume/A-pieu/Fresh-Green-Tea-70235.html				pending
-graceful-rose	Graceful Rose		female		https://www.fragrantica.com/perfume/A-pieu/Graceful-Rose-70236.html				pending
-lively-basil	Lively Basil		female		https://www.fragrantica.com/perfume/A-pieu/Lively-Basil-70237.html				pending
-lovely-peony	Lovely Peony		female		https://www.fragrantica.com/perfume/A-pieu/Lovely-Peony-70238.html				pending
-pure-violet	Pure Violet		female		https://www.fragrantica.com/perfume/A-pieu/Pure-Violet-70239.html				pending
-romantic-freesia	Romantic Freesia		female		https://www.fragrantica.com/perfume/A-pieu/Romantic-Freesia-70240.html				pending
-sweet-plum	Sweet Plum		female		https://www.fragrantica.com/perfume/A-pieu/Sweet-Plum-70241.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bright-peach	Bright Peach		female	https://www.fragrantica.com/perfume/A-pieu/Bright-Peach-70231.html				pending
+charming-jasmine	Charming Jasmine		female	https://www.fragrantica.com/perfume/A-pieu/Charming-Jasmine-70232.html				pending
+chic-cashmere	Chic Cashmere		female	https://www.fragrantica.com/perfume/A-pieu/Chic-Cashmere-70243.html				pending
+cozy-wool	Cozy Wool		female	https://www.fragrantica.com/perfume/A-pieu/Cozy-Wool-70242.html				pending
+cute-grapefruit	Cute Grapefruit		female	https://www.fragrantica.com/perfume/A-pieu/Cute-Grapefruit-70233.html				pending
+fresh-green-tea	Fresh Green Tea		female	https://www.fragrantica.com/perfume/A-pieu/Fresh-Green-Tea-70235.html				pending
+graceful-rose	Graceful Rose		female	https://www.fragrantica.com/perfume/A-pieu/Graceful-Rose-70236.html				pending
+lively-basil	Lively Basil		female	https://www.fragrantica.com/perfume/A-pieu/Lively-Basil-70237.html				pending
+lovely-peony	Lovely Peony		female	https://www.fragrantica.com/perfume/A-pieu/Lovely-Peony-70238.html				pending
+pure-violet	Pure Violet		female	https://www.fragrantica.com/perfume/A-pieu/Pure-Violet-70239.html				pending
+romantic-freesia	Romantic Freesia		female	https://www.fragrantica.com/perfume/A-pieu/Romantic-Freesia-70240.html				pending
+sweet-plum	Sweet Plum		female	https://www.fragrantica.com/perfume/A-pieu/Sweet-Plum-70241.html				pending

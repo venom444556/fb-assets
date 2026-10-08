@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alheba	Alheba		unisex		https://www.fragrantica.com/perfume/Cave/Alheba-80714.html				pending
-ambra	Ambra		female		https://www.fragrantica.com/perfume/Cave/Ambra-80705.html				pending
-amor	Amor		unisex		https://www.fragrantica.com/perfume/Cave/Amor-91048.html				pending
-caffe-rosa-vaniglia	Caffè Rosa Vaniglia		female		https://www.fragrantica.com/perfume/Cave/Caffe-Rosa-Vaniglia-80713.html				pending
-cashmere-oud	Cashmere Oud		unisex		https://www.fragrantica.com/perfume/Cave/Cashmere-Oud-80711.html				pending
-imperial-saffron	Imperial Saffron		female		https://www.fragrantica.com/perfume/Cave/Imperial-Saffron-80710.html				pending
-love-declaration	Love Declaration		unisex		https://www.fragrantica.com/perfume/Cave/Love-Declaration-91354.html				pending
-mystic-moon	Mystic Moon		unisex		https://www.fragrantica.com/perfume/Cave/Mystic-Moon-91355.html				pending
-patchouly	Patchouly		female		https://www.fragrantica.com/perfume/Cave/Patchouly-80707.html				pending
-rosa-vaniglia	Rosa Vaniglia		female		https://www.fragrantica.com/perfume/Cave/Rosa-Vaniglia-80702.html				pending
-sunset-caramel	Sunset Caramel		unisex		https://www.fragrantica.com/perfume/Cave/Sunset-Caramel-108785.html				pending
-sweet-rose	Sweet Rose		female		https://www.fragrantica.com/perfume/Cave/Sweet-Rose-80712.html				pending
-white-amber	White Amber		unisex		https://www.fragrantica.com/perfume/Cave/White-Amber-103032.html				pending
-xander	Xander		unisex		https://www.fragrantica.com/perfume/Cave/Xander-91356.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alheba	Alheba		unisex	https://www.fragrantica.com/perfume/Cave/Alheba-80714.html				pending
+ambra	Ambra		female	https://www.fragrantica.com/perfume/Cave/Ambra-80705.html				pending
+amor	Amor		unisex	https://www.fragrantica.com/perfume/Cave/Amor-91048.html				pending
+caffe-rosa-vaniglia	Caffè Rosa Vaniglia		female	https://www.fragrantica.com/perfume/Cave/Caffe-Rosa-Vaniglia-80713.html				pending
+cashmere-oud	Cashmere Oud		unisex	https://www.fragrantica.com/perfume/Cave/Cashmere-Oud-80711.html				pending
+imperial-saffron	Imperial Saffron		female	https://www.fragrantica.com/perfume/Cave/Imperial-Saffron-80710.html				pending
+love-declaration	Love Declaration		unisex	https://www.fragrantica.com/perfume/Cave/Love-Declaration-91354.html				pending
+mystic-moon	Mystic Moon		unisex	https://www.fragrantica.com/perfume/Cave/Mystic-Moon-91355.html				pending
+patchouly	Patchouly		female	https://www.fragrantica.com/perfume/Cave/Patchouly-80707.html				pending
+rosa-vaniglia	Rosa Vaniglia		female	https://www.fragrantica.com/perfume/Cave/Rosa-Vaniglia-80702.html				pending
+sunset-caramel	Sunset Caramel		unisex	https://www.fragrantica.com/perfume/Cave/Sunset-Caramel-108785.html				pending
+sweet-rose	Sweet Rose		female	https://www.fragrantica.com/perfume/Cave/Sweet-Rose-80712.html				pending
+white-amber	White Amber		unisex	https://www.fragrantica.com/perfume/Cave/White-Amber-103032.html				pending
+xander	Xander		unisex	https://www.fragrantica.com/perfume/Cave/Xander-91356.html				pending

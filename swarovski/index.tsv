@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aura	Aura		female		https://www.fragrantica.com/perfume/Swarovski/Aura-11258.html				pending
-aura-by-swarovski-collection-mariage	Aura by Swarovski Collection Mariage		female		https://www.fragrantica.com/perfume/Swarovski/Aura-by-Swarovski-Collection-Mariage-14105.html				pending
-aura-by-swarovski-love-collection	Aura by Swarovski Love Collection		female		https://www.fragrantica.com/perfume/Swarovski/Aura-by-Swarovski-Love-Collection-17781.html				pending
-aura-intense	Aura Intense		female		https://www.fragrantica.com/perfume/Swarovski/Aura-Intense-26119.html				pending
-aura-swarovski-eau-de-toilette	Aura Swarovski Eau de Toilette		female		https://www.fragrantica.com/perfume/Swarovski/Aura-Swarovski-Eau-de-Toilette-14631.html				pending
-miss-aura	Miss Aura		female		https://www.fragrantica.com/perfume/Swarovski/Miss-Aura-18806.html				pending
-swarovski-edition	Swarovski Edition		female		https://www.fragrantica.com/perfume/Swarovski/Swarovski-Edition-15636.html				pending
-swarovski-edition-2014	Swarovski Edition 2014		female		https://www.fragrantica.com/perfume/Swarovski/Swarovski-Edition-2014-24986.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aura	Aura		female	https://www.fragrantica.com/perfume/Swarovski/Aura-11258.html				pending
+aura-by-swarovski-collection-mariage	Aura by Swarovski Collection Mariage		female	https://www.fragrantica.com/perfume/Swarovski/Aura-by-Swarovski-Collection-Mariage-14105.html				pending
+aura-by-swarovski-love-collection	Aura by Swarovski Love Collection		female	https://www.fragrantica.com/perfume/Swarovski/Aura-by-Swarovski-Love-Collection-17781.html				pending
+aura-intense	Aura Intense		female	https://www.fragrantica.com/perfume/Swarovski/Aura-Intense-26119.html				pending
+aura-swarovski-eau-de-toilette	Aura Swarovski Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Swarovski/Aura-Swarovski-Eau-de-Toilette-14631.html				pending
+miss-aura	Miss Aura		female	https://www.fragrantica.com/perfume/Swarovski/Miss-Aura-18806.html				pending
+swarovski-edition	Swarovski Edition		female	https://www.fragrantica.com/perfume/Swarovski/Swarovski-Edition-15636.html				pending
+swarovski-edition-2014	Swarovski Edition 2014		female	https://www.fragrantica.com/perfume/Swarovski/Swarovski-Edition-2014-24986.html				pending

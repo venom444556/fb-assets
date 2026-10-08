@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-autumn-dew	Autumn Dew		unisex		https://www.fragrantica.com/perfume/Whiff/Autumn-Dew-73457.html				pending
-black-knight	Black Knight		unisex		https://www.fragrantica.com/perfume/Whiff/Black-Knight-74140.html				pending
-blue-mountain	Blue Mountain		male		https://www.fragrantica.com/perfume/Whiff/Blue-Mountain-74141.html				pending
-cherry-blossom	Cherry Blossom		unisex		https://www.fragrantica.com/perfume/Whiff/Cherry-Blossom-74116.html				pending
-gardenia-bliss	Gardenia Bliss		unisex		https://www.fragrantica.com/perfume/Whiff/Gardenia-Bliss-74117.html				pending
-lily-and-white-musk	Lily & White Musk		unisex		https://www.fragrantica.com/perfume/Whiff/Lily-White-Musk-74118.html				pending
-mango-verde	Mango Verde		unisex		https://www.fragrantica.com/perfume/Whiff/Mango-Verde-74119.html				pending
-nectarine-passion	Nectarine Passion		unisex		https://www.fragrantica.com/perfume/Whiff/Nectarine-Passion-73458.html				pending
-nectarine-pearl	Nectarine Pearl		female		https://www.fragrantica.com/perfume/Whiff/Nectarine-Pearl-74142.html				pending
-pacific-rain	Pacific Rain		unisex		https://www.fragrantica.com/perfume/Whiff/Pacific-Rain-73459.html				pending
-peony-and-rose	Peony & Rose		female		https://www.fragrantica.com/perfume/Whiff/Peony-Rose-74143.html				pending
-pine-and-lime-pleasure	Pine & Lime Pleasure		unisex		https://www.fragrantica.com/perfume/Whiff/Pine-Lime-Pleasure-74120.html				pending
-spring-floral-drops	Spring Floral Drops		unisex		https://www.fragrantica.com/perfume/Whiff/Spring-Floral-Drops-73460.html				pending
-victor	Victor		male		https://www.fragrantica.com/perfume/Whiff/Victor-74144.html				pending
-viridian	Viridian		male		https://www.fragrantica.com/perfume/Whiff/Viridian-74145.html				pending
-white-drops	White Drops		unisex		https://www.fragrantica.com/perfume/Whiff/White-Drops-73461.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+autumn-dew	Autumn Dew		unisex	https://www.fragrantica.com/perfume/Whiff/Autumn-Dew-73457.html				pending
+black-knight	Black Knight		unisex	https://www.fragrantica.com/perfume/Whiff/Black-Knight-74140.html				pending
+blue-mountain	Blue Mountain		male	https://www.fragrantica.com/perfume/Whiff/Blue-Mountain-74141.html				pending
+cherry-blossom	Cherry Blossom		unisex	https://www.fragrantica.com/perfume/Whiff/Cherry-Blossom-74116.html				pending
+gardenia-bliss	Gardenia Bliss		unisex	https://www.fragrantica.com/perfume/Whiff/Gardenia-Bliss-74117.html				pending
+lily-and-white-musk	Lily & White Musk		unisex	https://www.fragrantica.com/perfume/Whiff/Lily-White-Musk-74118.html				pending
+mango-verde	Mango Verde		unisex	https://www.fragrantica.com/perfume/Whiff/Mango-Verde-74119.html				pending
+nectarine-passion	Nectarine Passion		unisex	https://www.fragrantica.com/perfume/Whiff/Nectarine-Passion-73458.html				pending
+nectarine-pearl	Nectarine Pearl		female	https://www.fragrantica.com/perfume/Whiff/Nectarine-Pearl-74142.html				pending
+pacific-rain	Pacific Rain		unisex	https://www.fragrantica.com/perfume/Whiff/Pacific-Rain-73459.html				pending
+peony-and-rose	Peony & Rose		female	https://www.fragrantica.com/perfume/Whiff/Peony-Rose-74143.html				pending
+pine-and-lime-pleasure	Pine & Lime Pleasure		unisex	https://www.fragrantica.com/perfume/Whiff/Pine-Lime-Pleasure-74120.html				pending
+spring-floral-drops	Spring Floral Drops		unisex	https://www.fragrantica.com/perfume/Whiff/Spring-Floral-Drops-73460.html				pending
+victor	Victor		male	https://www.fragrantica.com/perfume/Whiff/Victor-74144.html				pending
+viridian	Viridian		male	https://www.fragrantica.com/perfume/Whiff/Viridian-74145.html				pending
+white-drops	White Drops		unisex	https://www.fragrantica.com/perfume/Whiff/White-Drops-73461.html				pending

@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-forum	Forum		female		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-12716.html				pending
-forum-black-denim	Forum Black Denim		male		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Black-Denim-66032.html				pending
-forum-catwalk	Forum Catwalk		female		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Catwalk-47643.html				pending
-forum-classic-jeans	Forum Classic Jeans		unisex		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Classic-Jeans-12718.html				pending
-forum-green-denim	Forum Green Denim		male		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Green-Denim-73330.html				pending
-forum-jeans-2	Forum Jeans 2		unisex		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Jeans-2-35212.html				pending
-forum-jeans-in-blue	Forum Jeans in Blue		female		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Jeans-in-Blue-34952.html				pending
-forum-lavanda	Forum Lavanda		female		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Lavanda-12717.html				pending
-forum-light-jeans	Forum Light Jeans		unisex		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Light-Jeans-58357.html				pending
-forum-limao-siciliano	Forum Limão Siciliano		unisex		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Limao-Siciliano-79789.html				pending
-forum-man	Forum Man		male		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Man-34275.html				pending
-forum-movement	Forum Movement		male		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Movement-71313.html				pending
-forum-night-man	Forum Night Man		male		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Night-Man-41482.html				pending
-forum-night-woman	Forum Night Woman		female		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Night-Woman-41481.html				pending
-forum-original-denim	Forum Original Denim		male		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Original-Denim-66030.html				pending
-forum-over-denim	Forum Over Denim		male		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Over-Denim-66033.html				pending
-forum-red-denim	Forum Red Denim		male		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Red-Denim-66031.html				pending
-forum-rio-man	Forum Rio Man		male		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Rio-Man-41492.html				pending
-forum-rio-woman	Forum Rio Woman		female		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Rio-Woman-41494.html				pending
-forum-sandalo	Forum Sândalo		unisex		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Sandalo-79788.html				pending
-forum-white-denim	Forum White Denim		unisex		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-White-Denim-58356.html				pending
-forum-woman	Forum Woman		female		https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Woman-34274.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+forum	Forum		female	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-12716.html				pending
+forum-black-denim	Forum Black Denim		male	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Black-Denim-66032.html				pending
+forum-catwalk	Forum Catwalk		female	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Catwalk-47643.html				pending
+forum-classic-jeans	Forum Classic Jeans		unisex	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Classic-Jeans-12718.html				pending
+forum-green-denim	Forum Green Denim		male	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Green-Denim-73330.html				pending
+forum-jeans-2	Forum Jeans 2		unisex	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Jeans-2-35212.html				pending
+forum-jeans-in-blue	Forum Jeans in Blue		female	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Jeans-in-Blue-34952.html				pending
+forum-lavanda	Forum Lavanda		female	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Lavanda-12717.html				pending
+forum-light-jeans	Forum Light Jeans		unisex	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Light-Jeans-58357.html				pending
+forum-limao-siciliano	Forum Limão Siciliano		unisex	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Limao-Siciliano-79789.html				pending
+forum-man	Forum Man		male	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Man-34275.html				pending
+forum-movement	Forum Movement		male	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Movement-71313.html				pending
+forum-night-man	Forum Night Man		male	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Night-Man-41482.html				pending
+forum-night-woman	Forum Night Woman		female	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Night-Woman-41481.html				pending
+forum-original-denim	Forum Original Denim		male	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Original-Denim-66030.html				pending
+forum-over-denim	Forum Over Denim		male	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Over-Denim-66033.html				pending
+forum-red-denim	Forum Red Denim		male	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Red-Denim-66031.html				pending
+forum-rio-man	Forum Rio Man		male	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Rio-Man-41492.html				pending
+forum-rio-woman	Forum Rio Woman		female	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Rio-Woman-41494.html				pending
+forum-sandalo	Forum Sândalo		unisex	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Sandalo-79788.html				pending
+forum-white-denim	Forum White Denim		unisex	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-White-Denim-58356.html				pending
+forum-woman	Forum Woman		female	https://www.fragrantica.com/perfume/Tufi-Duek/Forum-Woman-34274.html				pending

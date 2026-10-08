@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-2	2		female		https://www.fragrantica.com/perfume/Luciano-Soprani/2-9032.html				pending
-active	Active		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Active-9033.html				pending
-d-luciano-soprani	D Luciano Soprani		female		https://www.fragrantica.com/perfume/Luciano-Soprani/D-Luciano-Soprani-2237.html				pending
-d-noir	D Noir		female		https://www.fragrantica.com/perfume/Luciano-Soprani/D-Noir-5739.html				pending
-d-rouge	D Rouge		female		https://www.fragrantica.com/perfume/Luciano-Soprani/D-Rouge-21453.html				pending
-fico-pesca	Fico Pesca		unisex		https://www.fragrantica.com/perfume/Luciano-Soprani/Fico-Pesca-28458.html				pending
-flirt-issimo	Flirt Issimo		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Flirt-Issimo-3065.html				pending
-jolie	Jolie		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Jolie-3066.html				pending
-just-free	Just Free		male		https://www.fragrantica.com/perfume/Luciano-Soprani/Just-Free-3067.html				pending
-ls-man	LS Man		male		https://www.fragrantica.com/perfume/Luciano-Soprani/LS-Man-2236.html				pending
-luciano-soprani	Luciano Soprani		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-9031.html				pending
-luciano-soprani-d-moi	Luciano Soprani D Moi		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-D-Moi-47046.html				pending
-luciano-soprani-donna	Luciano Soprani Donna		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-Donna-3068.html				pending
-luciano-soprani-her	Luciano Soprani Her		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-Her-13046.html				pending
-luciano-soprani-him	Luciano Soprani Him		male		https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-Him-13047.html				pending
-luciano-soprani-uomo	Luciano Soprani Uomo		male		https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-Uomo-7038.html				pending
-miss-soprani	Miss Soprani		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Miss-Soprani-2238.html				pending
-solo-amore	Solo Amore		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Amore-3070.html				pending
-solo-blu	Solo Blu		unisex		https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Blu-15404.html				pending
-solo-rosa	Solo Rosa		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Rosa-3069.html				pending
-solo-soprani	Solo Soprani		unisex		https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-7039.html				pending
-solo-soprani-dream	Solo Soprani Dream		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Dream-38381.html				pending
-solo-soprani-green	Solo Soprani Green		unisex		https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Green-16902.html				pending
-solo-soprani-love	Solo Soprani Love		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Love-38382.html				pending
-solo-soprani-rose	Solo Soprani Rose		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Rose-9162.html				pending
-solo-soprani-smile	Solo Soprani Smile		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Smile-38383.html				pending
-soprani-uomo	Soprani Uomo		male		https://www.fragrantica.com/perfume/Luciano-Soprani/Soprani-Uomo-4037.html				pending
-sopranissima	Sopranissima		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Sopranissima-16899.html				pending
-strass	Strass		female		https://www.fragrantica.com/perfume/Luciano-Soprani/Strass-7037.html				pending
-sulky	Sulky		male		https://www.fragrantica.com/perfume/Luciano-Soprani/Sulky-14315.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+2	2		female	https://www.fragrantica.com/perfume/Luciano-Soprani/2-9032.html				pending
+active	Active		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Active-9033.html				pending
+d-luciano-soprani	D Luciano Soprani		female	https://www.fragrantica.com/perfume/Luciano-Soprani/D-Luciano-Soprani-2237.html				pending
+d-noir	D Noir		female	https://www.fragrantica.com/perfume/Luciano-Soprani/D-Noir-5739.html				pending
+d-rouge	D Rouge		female	https://www.fragrantica.com/perfume/Luciano-Soprani/D-Rouge-21453.html				pending
+fico-pesca	Fico Pesca		unisex	https://www.fragrantica.com/perfume/Luciano-Soprani/Fico-Pesca-28458.html				pending
+flirt-issimo	Flirt Issimo		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Flirt-Issimo-3065.html				pending
+jolie	Jolie		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Jolie-3066.html				pending
+just-free	Just Free		male	https://www.fragrantica.com/perfume/Luciano-Soprani/Just-Free-3067.html				pending
+ls-man	LS Man		male	https://www.fragrantica.com/perfume/Luciano-Soprani/LS-Man-2236.html				pending
+luciano-soprani	Luciano Soprani		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-9031.html				pending
+luciano-soprani-d-moi	Luciano Soprani D Moi		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-D-Moi-47046.html				pending
+luciano-soprani-donna	Luciano Soprani Donna		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-Donna-3068.html				pending
+luciano-soprani-her	Luciano Soprani Her		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-Her-13046.html				pending
+luciano-soprani-him	Luciano Soprani Him		male	https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-Him-13047.html				pending
+luciano-soprani-uomo	Luciano Soprani Uomo		male	https://www.fragrantica.com/perfume/Luciano-Soprani/Luciano-Soprani-Uomo-7038.html				pending
+miss-soprani	Miss Soprani		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Miss-Soprani-2238.html				pending
+solo-amore	Solo Amore		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Amore-3070.html				pending
+solo-blu	Solo Blu		unisex	https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Blu-15404.html				pending
+solo-rosa	Solo Rosa		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Rosa-3069.html				pending
+solo-soprani	Solo Soprani		unisex	https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-7039.html				pending
+solo-soprani-dream	Solo Soprani Dream		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Dream-38381.html				pending
+solo-soprani-green	Solo Soprani Green		unisex	https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Green-16902.html				pending
+solo-soprani-love	Solo Soprani Love		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Love-38382.html				pending
+solo-soprani-rose	Solo Soprani Rose		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Rose-9162.html				pending
+solo-soprani-smile	Solo Soprani Smile		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Solo-Soprani-Smile-38383.html				pending
+soprani-uomo	Soprani Uomo		male	https://www.fragrantica.com/perfume/Luciano-Soprani/Soprani-Uomo-4037.html				pending
+sopranissima	Sopranissima		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Sopranissima-16899.html				pending
+strass	Strass		female	https://www.fragrantica.com/perfume/Luciano-Soprani/Strass-7037.html				pending
+sulky	Sulky		male	https://www.fragrantica.com/perfume/Luciano-Soprani/Sulky-14315.html				pending

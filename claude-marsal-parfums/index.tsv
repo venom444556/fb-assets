@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-etoile	Etoile		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Etoile-49838.html				pending
-la-chanson	La Chanson		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Chanson-49839.html				pending
-la-chanson-49848	La Chanson		male		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Chanson-49848.html				pending
-la-danse	La Danse		male		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Danse-49849.html				pending
-la-danse-49840	La Danse		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Danse-49840.html				pending
-la-guitare	La Guitare		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Guitare-50849.html				pending
-la-melodie	La Melodie		male		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Melodie-49852.html				pending
-la-melodie-49841	La Melodie		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Melodie-49841.html				pending
-la-musique	La Musique		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Musique-50848.html				pending
-la-noche	La Noche		male		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Noche-49853.html				pending
-la-noche-49842	La Noche		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Noche-49842.html				pending
-la-symphonie	La Symphonie		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Symphonie-49843.html				pending
-la-symphonie-49854	La Symphonie		male		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Symphonie-49854.html				pending
-le-batteur	Le Batteur		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Batteur-49844.html				pending
-le-batteur-49855	Le Batteur		male		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Batteur-49855.html				pending
-le-concerto	Le Concerto		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Concerto-49845.html				pending
-le-concerto-49856	Le Concerto		male		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Concerto-49856.html				pending
-le-piano	Le Piano		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Piano-49846.html				pending
-le-piano-49857	Le Piano		male		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Piano-49857.html				pending
-le-violon	Le Violon		female		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Violon-49847.html				pending
-le-violon-49858	Le Violon		male		https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Violon-49858.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+etoile	Etoile		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Etoile-49838.html				pending
+la-chanson	La Chanson		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Chanson-49839.html				pending
+la-chanson-49848	La Chanson		male	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Chanson-49848.html				pending
+la-danse	La Danse		male	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Danse-49849.html				pending
+la-danse-49840	La Danse		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Danse-49840.html				pending
+la-guitare	La Guitare		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Guitare-50849.html				pending
+la-melodie	La Melodie		male	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Melodie-49852.html				pending
+la-melodie-49841	La Melodie		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Melodie-49841.html				pending
+la-musique	La Musique		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Musique-50848.html				pending
+la-noche	La Noche		male	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Noche-49853.html				pending
+la-noche-49842	La Noche		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Noche-49842.html				pending
+la-symphonie	La Symphonie		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Symphonie-49843.html				pending
+la-symphonie-49854	La Symphonie		male	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/La-Symphonie-49854.html				pending
+le-batteur	Le Batteur		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Batteur-49844.html				pending
+le-batteur-49855	Le Batteur		male	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Batteur-49855.html				pending
+le-concerto	Le Concerto		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Concerto-49845.html				pending
+le-concerto-49856	Le Concerto		male	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Concerto-49856.html				pending
+le-piano	Le Piano		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Piano-49846.html				pending
+le-piano-49857	Le Piano		male	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Piano-49857.html				pending
+le-violon	Le Violon		female	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Violon-49847.html				pending
+le-violon-49858	Le Violon		male	https://www.fragrantica.com/perfume/Claude-Marsal-Parfums/Le-Violon-49858.html				pending

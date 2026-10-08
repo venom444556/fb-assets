@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-al-andaleeb	Al Andaleeb		unisex		https://www.fragrantica.com/perfume/Asdaaf/Al-Andaleeb-70700.html				pending
-ameer-al-arab	Ameer Al Arab		unisex		https://www.fragrantica.com/perfume/Asdaaf/Ameer-Al-Arab-105834.html				pending
-ameer-al-arab-imperium	Ameer Al Arab Imperium		male		https://www.fragrantica.com/perfume/Asdaaf/Ameer-Al-Arab-Imperium-100148.html				pending
-ameerat-al-arab	Ameerat Al Arab		female		https://www.fragrantica.com/perfume/Asdaaf/Ameerat-Al-Arab-81376.html				pending
-ameerat-al-arab-prive-rose	Ameerat Al Arab Prive Rose		female		https://www.fragrantica.com/perfume/Asdaaf/Ameerat-Al-Arab-Prive-Rose-81967.html				pending
-ameerat-al-arab-sugar-crown	Ameerat Al Arab Sugar Crown		female		https://www.fragrantica.com/perfume/Asdaaf/Ameerat-Al-Arab-Sugar-Crown-121612.html				pending
-atlantis-blue	Atlantis Blue		unisex		https://www.fragrantica.com/perfume/Asdaaf/Atlantis-Blue-104990.html				pending
-laraib	Laraib		unisex		https://www.fragrantica.com/perfume/Asdaaf/Laraib-89031.html				pending
-majd-al-sultan	Majd Al Sultan		male		https://www.fragrantica.com/perfume/Asdaaf/Majd-Al-Sultan-68297.html				pending
-raneen	Raneen		female		https://www.fragrantica.com/perfume/Asdaaf/Raneen-106906.html				pending
-terhaal	Terhaal		unisex		https://www.fragrantica.com/perfume/Asdaaf/Terhaal-78621.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+al-andaleeb	Al Andaleeb		unisex	https://www.fragrantica.com/perfume/Asdaaf/Al-Andaleeb-70700.html				pending
+ameer-al-arab	Ameer Al Arab		unisex	https://www.fragrantica.com/perfume/Asdaaf/Ameer-Al-Arab-105834.html				pending
+ameer-al-arab-imperium	Ameer Al Arab Imperium		male	https://www.fragrantica.com/perfume/Asdaaf/Ameer-Al-Arab-Imperium-100148.html				pending
+ameerat-al-arab	Ameerat Al Arab		female	https://www.fragrantica.com/perfume/Asdaaf/Ameerat-Al-Arab-81376.html				pending
+ameerat-al-arab-prive-rose	Ameerat Al Arab Prive Rose		female	https://www.fragrantica.com/perfume/Asdaaf/Ameerat-Al-Arab-Prive-Rose-81967.html				pending
+ameerat-al-arab-sugar-crown	Ameerat Al Arab Sugar Crown		female	https://www.fragrantica.com/perfume/Asdaaf/Ameerat-Al-Arab-Sugar-Crown-121612.html				pending
+atlantis-blue	Atlantis Blue		unisex	https://www.fragrantica.com/perfume/Asdaaf/Atlantis-Blue-104990.html				pending
+laraib	Laraib		unisex	https://www.fragrantica.com/perfume/Asdaaf/Laraib-89031.html				pending
+majd-al-sultan	Majd Al Sultan		male	https://www.fragrantica.com/perfume/Asdaaf/Majd-Al-Sultan-68297.html				pending
+raneen	Raneen		female	https://www.fragrantica.com/perfume/Asdaaf/Raneen-106906.html				pending
+terhaal	Terhaal		unisex	https://www.fragrantica.com/perfume/Asdaaf/Terhaal-78621.html				pending

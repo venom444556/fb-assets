@@ -1,27 +1,27 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-orange	Amber Orange		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Amber-Orange-88516.html				pending
-apollo	Apollo		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Apollo-32753.html				pending
-calypso	Calypso		female		https://www.fragrantica.com/perfume/Fresh-Line/Calypso-32749.html				pending
-cardamom-and-white-tea	Cardamom & White Tea		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Cardamom-White-Tea-79195.html				pending
-caribbean-coconut	Caribbean Coconut		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Caribbean-Coconut-93777.html				pending
-cassandra	Cassandra		female		https://www.fragrantica.com/perfume/Fresh-Line/Cassandra-32757.html				pending
-circe	Circe		female		https://www.fragrantica.com/perfume/Fresh-Line/Circe-32750.html				pending
-cybele	Cybele		female		https://www.fragrantica.com/perfume/Fresh-Line/Cybele-32754.html				pending
-dione	Dione		female		https://www.fragrantica.com/perfume/Fresh-Line/Dione-64034.html				pending
-galatea	Galatea		female		https://www.fragrantica.com/perfume/Fresh-Line/Galatea-32758.html				pending
-grape-and-nectarine	Grape & Nectarine		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Grape-Nectarine-79194.html				pending
-italian-fig	Italian Fig		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Italian-Fig-93779.html				pending
-mandarin-and-orange	Mandarin & Orange		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Mandarin-Orange-88515.html				pending
-mango-body-water	Mango Body Water		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Mango-Body-Water-93780.html				pending
-olympian-zeus	Olympian Zeus		male		https://www.fragrantica.com/perfume/Fresh-Line/Olympian-Zeus-32748.html				pending
-orpheus-and-eurydice	Orpheus&Eurydice		female		https://www.fragrantica.com/perfume/Fresh-Line/Orpheus-Eurydice-32751.html				pending
-passion-fruit	Passion Fruit		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Passion-Fruit-93778.html				pending
-persephone	Persephone		female		https://www.fragrantica.com/perfume/Fresh-Line/Persephone-75506.html				pending
-phaedra	Phaedra		female		https://www.fragrantica.com/perfume/Fresh-Line/Phaedra-32756.html				pending
-pink-jungle	Pink Jungle		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Pink-Jungle-93783.html				pending
-pomegranate-and-cranberry	Pomegranate & Cranberry		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Pomegranate-Cranberry-93776.html				pending
-poseidon	Poseidon		male		https://www.fragrantica.com/perfume/Fresh-Line/Poseidon-32752.html				pending
-raspberry-cheesecake	Raspberry Cheesecake		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Raspberry-Cheesecake-93781.html				pending
-selene	Selene		female		https://www.fragrantica.com/perfume/Fresh-Line/Selene-32755.html				pending
-strawberry-and-milk	Strawberry & Milk		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Strawberry-Milk-93775.html				pending
-vanilla-and-caramel	Vanilla & Caramel		unisex		https://www.fragrantica.com/perfume/Fresh-Line/Vanilla-Caramel-93782.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-orange	Amber Orange		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Amber-Orange-88516.html				pending
+apollo	Apollo		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Apollo-32753.html				pending
+calypso	Calypso		female	https://www.fragrantica.com/perfume/Fresh-Line/Calypso-32749.html				pending
+cardamom-and-white-tea	Cardamom & White Tea		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Cardamom-White-Tea-79195.html				pending
+caribbean-coconut	Caribbean Coconut		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Caribbean-Coconut-93777.html				pending
+cassandra	Cassandra		female	https://www.fragrantica.com/perfume/Fresh-Line/Cassandra-32757.html				pending
+circe	Circe		female	https://www.fragrantica.com/perfume/Fresh-Line/Circe-32750.html				pending
+cybele	Cybele		female	https://www.fragrantica.com/perfume/Fresh-Line/Cybele-32754.html				pending
+dione	Dione		female	https://www.fragrantica.com/perfume/Fresh-Line/Dione-64034.html				pending
+galatea	Galatea		female	https://www.fragrantica.com/perfume/Fresh-Line/Galatea-32758.html				pending
+grape-and-nectarine	Grape & Nectarine		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Grape-Nectarine-79194.html				pending
+italian-fig	Italian Fig		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Italian-Fig-93779.html				pending
+mandarin-and-orange	Mandarin & Orange		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Mandarin-Orange-88515.html				pending
+mango-body-water	Mango Body Water		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Mango-Body-Water-93780.html				pending
+olympian-zeus	Olympian Zeus		male	https://www.fragrantica.com/perfume/Fresh-Line/Olympian-Zeus-32748.html				pending
+orpheus-and-eurydice	Orpheus&Eurydice		female	https://www.fragrantica.com/perfume/Fresh-Line/Orpheus-Eurydice-32751.html				pending
+passion-fruit	Passion Fruit		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Passion-Fruit-93778.html				pending
+persephone	Persephone		female	https://www.fragrantica.com/perfume/Fresh-Line/Persephone-75506.html				pending
+phaedra	Phaedra		female	https://www.fragrantica.com/perfume/Fresh-Line/Phaedra-32756.html				pending
+pink-jungle	Pink Jungle		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Pink-Jungle-93783.html				pending
+pomegranate-and-cranberry	Pomegranate & Cranberry		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Pomegranate-Cranberry-93776.html				pending
+poseidon	Poseidon		male	https://www.fragrantica.com/perfume/Fresh-Line/Poseidon-32752.html				pending
+raspberry-cheesecake	Raspberry Cheesecake		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Raspberry-Cheesecake-93781.html				pending
+selene	Selene		female	https://www.fragrantica.com/perfume/Fresh-Line/Selene-32755.html				pending
+strawberry-and-milk	Strawberry & Milk		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Strawberry-Milk-93775.html				pending
+vanilla-and-caramel	Vanilla & Caramel		unisex	https://www.fragrantica.com/perfume/Fresh-Line/Vanilla-Caramel-93782.html				pending

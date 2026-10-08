@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ageless	Ageless		female		https://www.fragrantica.com/perfume/Harvey-Prince/Ageless-4510.html				pending
-bailando	Bailando		female		https://www.fragrantica.com/perfume/Harvey-Prince/Bailando-34843.html				pending
-big	Big		male		https://www.fragrantica.com/perfume/Harvey-Prince/Big-31007.html				pending
-cherry-blossom-sakura	Cherry Blossom Sakura		female		https://www.fragrantica.com/perfume/Harvey-Prince/Cherry-Blossom-Sakura-43959.html				pending
-clean-musk	Clean Musk		female		https://www.fragrantica.com/perfume/Harvey-Prince/Clean-Musk-31005.html				pending
-cleopatra	Cleopatra		female		https://www.fragrantica.com/perfume/Harvey-Prince/Cleopatra-43957.html				pending
-coupling	Coupling		female		https://www.fragrantica.com/perfume/Harvey-Prince/Coupling-14067.html				pending
-damask-rose	Damask Rose		female		https://www.fragrantica.com/perfume/Harvey-Prince/Damask-Rose-31006.html				pending
-eau-de-creme	Eau de Creme		female		https://www.fragrantica.com/perfume/Harvey-Prince/Eau-de-Creme-14065.html				pending
-eau-de-lite	Eau de Lite		female		https://www.fragrantica.com/perfume/Harvey-Prince/Eau-de-Lite-14066.html				pending
-eau-fling	Eau Fling		female		https://www.fragrantica.com/perfume/Harvey-Prince/Eau-Fling-14068.html				pending
-eau-so-divine	Eau So Divine		female		https://www.fragrantica.com/perfume/Harvey-Prince/Eau-So-Divine-32192.html				pending
-english-lavender	English Lavender		female		https://www.fragrantica.com/perfume/Harvey-Prince/English-Lavender-31008.html				pending
-hello	Hello		female		https://www.fragrantica.com/perfume/Harvey-Prince/Hello-28800.html				pending
-imperial-gardenia	Imperial Gardenia		female		https://www.fragrantica.com/perfume/Harvey-Prince/Imperial-Gardenia-31001.html				pending
-madagascar-vanilla	Madagascar Vanilla		female		https://www.fragrantica.com/perfume/Harvey-Prince/Madagascar-Vanilla-31003.html				pending
-nefertiti	Nefertiti		female		https://www.fragrantica.com/perfume/Harvey-Prince/Nefertiti-43956.html				pending
-parisienne	Parisienne		female		https://www.fragrantica.com/perfume/Harvey-Prince/Parisienne-43958.html				pending
-petaly-noir	Petaly Noir		female		https://www.fragrantica.com/perfume/Harvey-Prince/Petaly-Noir-28799.html				pending
-sexy-patchouli	Sexy Patchouli		female		https://www.fragrantica.com/perfume/Harvey-Prince/Sexy-Patchouli-31010.html				pending
-signature	Signature		female		https://www.fragrantica.com/perfume/Harvey-Prince/Signature-30999.html				pending
-sincerely	Sincerely		female		https://www.fragrantica.com/perfume/Harvey-Prince/Sincerely-30998.html				pending
-skinny-chic	Skinny Chic		female		https://www.fragrantica.com/perfume/Harvey-Prince/Skinny-Chic-43961.html				pending
-submariner	Submariner		male		https://www.fragrantica.com/perfume/Harvey-Prince/Submariner-14070.html				pending
-temptress	Temptress		female		https://www.fragrantica.com/perfume/Harvey-Prince/Temptress-6747.html				pending
-turkish-delight	Turkish Delight		female		https://www.fragrantica.com/perfume/Harvey-Prince/Turkish-Delight-43960.html				pending
-yogini	Yogini		female		https://www.fragrantica.com/perfume/Harvey-Prince/Yogini-14069.html				pending
-young-pink-grapefruit	Young Pink Grapefruit		female		https://www.fragrantica.com/perfume/Harvey-Prince/Young-Pink-Grapefruit-31009.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ageless	Ageless		female	https://www.fragrantica.com/perfume/Harvey-Prince/Ageless-4510.html				pending
+bailando	Bailando		female	https://www.fragrantica.com/perfume/Harvey-Prince/Bailando-34843.html				pending
+big	Big		male	https://www.fragrantica.com/perfume/Harvey-Prince/Big-31007.html				pending
+cherry-blossom-sakura	Cherry Blossom Sakura		female	https://www.fragrantica.com/perfume/Harvey-Prince/Cherry-Blossom-Sakura-43959.html				pending
+clean-musk	Clean Musk		female	https://www.fragrantica.com/perfume/Harvey-Prince/Clean-Musk-31005.html				pending
+cleopatra	Cleopatra		female	https://www.fragrantica.com/perfume/Harvey-Prince/Cleopatra-43957.html				pending
+coupling	Coupling		female	https://www.fragrantica.com/perfume/Harvey-Prince/Coupling-14067.html				pending
+damask-rose	Damask Rose		female	https://www.fragrantica.com/perfume/Harvey-Prince/Damask-Rose-31006.html				pending
+eau-de-creme	Eau de Creme		female	https://www.fragrantica.com/perfume/Harvey-Prince/Eau-de-Creme-14065.html				pending
+eau-de-lite	Eau de Lite		female	https://www.fragrantica.com/perfume/Harvey-Prince/Eau-de-Lite-14066.html				pending
+eau-fling	Eau Fling		female	https://www.fragrantica.com/perfume/Harvey-Prince/Eau-Fling-14068.html				pending
+eau-so-divine	Eau So Divine		female	https://www.fragrantica.com/perfume/Harvey-Prince/Eau-So-Divine-32192.html				pending
+english-lavender	English Lavender		female	https://www.fragrantica.com/perfume/Harvey-Prince/English-Lavender-31008.html				pending
+hello	Hello		female	https://www.fragrantica.com/perfume/Harvey-Prince/Hello-28800.html				pending
+imperial-gardenia	Imperial Gardenia		female	https://www.fragrantica.com/perfume/Harvey-Prince/Imperial-Gardenia-31001.html				pending
+madagascar-vanilla	Madagascar Vanilla		female	https://www.fragrantica.com/perfume/Harvey-Prince/Madagascar-Vanilla-31003.html				pending
+nefertiti	Nefertiti		female	https://www.fragrantica.com/perfume/Harvey-Prince/Nefertiti-43956.html				pending
+parisienne	Parisienne		female	https://www.fragrantica.com/perfume/Harvey-Prince/Parisienne-43958.html				pending
+petaly-noir	Petaly Noir		female	https://www.fragrantica.com/perfume/Harvey-Prince/Petaly-Noir-28799.html				pending
+sexy-patchouli	Sexy Patchouli		female	https://www.fragrantica.com/perfume/Harvey-Prince/Sexy-Patchouli-31010.html				pending
+signature	Signature		female	https://www.fragrantica.com/perfume/Harvey-Prince/Signature-30999.html				pending
+sincerely	Sincerely		female	https://www.fragrantica.com/perfume/Harvey-Prince/Sincerely-30998.html				pending
+skinny-chic	Skinny Chic		female	https://www.fragrantica.com/perfume/Harvey-Prince/Skinny-Chic-43961.html				pending
+submariner	Submariner		male	https://www.fragrantica.com/perfume/Harvey-Prince/Submariner-14070.html				pending
+temptress	Temptress		female	https://www.fragrantica.com/perfume/Harvey-Prince/Temptress-6747.html				pending
+turkish-delight	Turkish Delight		female	https://www.fragrantica.com/perfume/Harvey-Prince/Turkish-Delight-43960.html				pending
+yogini	Yogini		female	https://www.fragrantica.com/perfume/Harvey-Prince/Yogini-14069.html				pending
+young-pink-grapefruit	Young Pink Grapefruit		female	https://www.fragrantica.com/perfume/Harvey-Prince/Young-Pink-Grapefruit-31009.html				pending

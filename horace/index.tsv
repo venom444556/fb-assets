@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-and-horace	& Horace		male		https://www.fragrantica.com/perfume/Horace/Horace-106061.html				pending
-oud-rose	Oud Rose		male		https://www.fragrantica.com/perfume/Horace/Oud-Rose-105922.html				pending
-vetiver-primavera	Vetiver Primavera		unisex		https://www.fragrantica.com/perfume/Horace/Vetiver-Primavera-110010.html				pending
-vintage-vanilla	Vintage Vanilla		unisex		https://www.fragrantica.com/perfume/Horace/Vintage-Vanilla-117629.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+and-horace	& Horace		male	https://www.fragrantica.com/perfume/Horace/Horace-106061.html				pending
+oud-rose	Oud Rose		male	https://www.fragrantica.com/perfume/Horace/Oud-Rose-105922.html				pending
+vetiver-primavera	Vetiver Primavera		unisex	https://www.fragrantica.com/perfume/Horace/Vetiver-Primavera-110010.html				pending
+vintage-vanilla	Vintage Vanilla		unisex	https://www.fragrantica.com/perfume/Horace/Vintage-Vanilla-117629.html				pending

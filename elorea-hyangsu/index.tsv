@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-be-by-my-side	BE BY MY SIDE (흐노니)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/BE-BY-MY-SIDE-heunoni-95425.html				pending
-earth	EARTH (곤)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/EARTH-gon-72855.html				pending
-fire	FIRE (리)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/FIRE-li-72856.html				pending
-gentle-shower	GENTLE SHOWER (잠비)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/GENTLE-SHOWER-jambi-95422.html				pending
-git	GIT (깃)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/GIT-gis-95418.html				pending
-hanok	HANOK (한옥)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/HANOK-han-og-95419.html				pending
-hazy-blue	HAZY BLUE (이내)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/HAZY-BLUE-inae-95423.html				pending
-heaven	HEAVEN (건)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/HEAVEN-geon-72857.html				pending
-inflorescence	INFLORESCENCE (송아리)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/INFLORESCENCE-song-ali-85875.html				pending
-jang	JANG (장)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/JANG-jang-95421.html				pending
-water	WATER (감)		unisex		https://www.fragrantica.com/perfume/ELOREA-hyangsu/WATER-gam-72858.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+be-by-my-side	BE BY MY SIDE (흐노니)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/BE-BY-MY-SIDE-heunoni-95425.html				pending
+earth	EARTH (곤)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/EARTH-gon-72855.html				pending
+fire	FIRE (리)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/FIRE-li-72856.html				pending
+gentle-shower	GENTLE SHOWER (잠비)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/GENTLE-SHOWER-jambi-95422.html				pending
+git	GIT (깃)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/GIT-gis-95418.html				pending
+hanok	HANOK (한옥)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/HANOK-han-og-95419.html				pending
+hazy-blue	HAZY BLUE (이내)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/HAZY-BLUE-inae-95423.html				pending
+heaven	HEAVEN (건)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/HEAVEN-geon-72857.html				pending
+inflorescence	INFLORESCENCE (송아리)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/INFLORESCENCE-song-ali-85875.html				pending
+jang	JANG (장)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/JANG-jang-95421.html				pending
+water	WATER (감)		unisex	https://www.fragrantica.com/perfume/ELOREA-hyangsu/WATER-gam-72858.html				pending

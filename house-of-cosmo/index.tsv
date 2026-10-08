@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-crimson-aura	Crimson Aura		unisex		https://www.fragrantica.com/perfume/House-of-Cosmo/Crimson-Aura-120957.html				pending
-lunar-minerale	Lunar Minérale		unisex		https://www.fragrantica.com/perfume/House-of-Cosmo/Lunar-Minerale-120959.html				pending
-new-eden	New Eden		unisex		https://www.fragrantica.com/perfume/House-of-Cosmo/New-Eden-120956.html				pending
-nova	Nova		unisex		https://www.fragrantica.com/perfume/House-of-Cosmo/Nova-120970.html				pending
-polaris	Polaris		unisex		https://www.fragrantica.com/perfume/House-of-Cosmo/Polaris-120961.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+crimson-aura	Crimson Aura		unisex	https://www.fragrantica.com/perfume/House-of-Cosmo/Crimson-Aura-120957.html				pending
+lunar-minerale	Lunar Minérale		unisex	https://www.fragrantica.com/perfume/House-of-Cosmo/Lunar-Minerale-120959.html				pending
+new-eden	New Eden		unisex	https://www.fragrantica.com/perfume/House-of-Cosmo/New-Eden-120956.html				pending
+nova	Nova		unisex	https://www.fragrantica.com/perfume/House-of-Cosmo/Nova-120970.html				pending
+polaris	Polaris		unisex	https://www.fragrantica.com/perfume/House-of-Cosmo/Polaris-120961.html				pending

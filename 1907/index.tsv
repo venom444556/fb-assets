@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-genevieve	Genevieve		female		https://www.fragrantica.com/perfume/1907/Genevieve-50625.html				pending
-lilaganza	Lilaganza		female		https://www.fragrantica.com/perfume/1907/Lilaganza-73633.html				pending
-mon-ame	Mon Ame		unisex		https://www.fragrantica.com/perfume/1907/Mon-Ame-50626.html				pending
-nom	Nom		unisex		https://www.fragrantica.com/perfume/1907/Nom-56848.html				pending
-vanilla-dry	Vanilla Dry		unisex		https://www.fragrantica.com/perfume/1907/Vanilla-Dry-64042.html				pending
-whittoria	Whittoria		female		https://www.fragrantica.com/perfume/1907/Whittoria-64040.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+genevieve	Genevieve		female	https://www.fragrantica.com/perfume/1907/Genevieve-50625.html				pending
+lilaganza	Lilaganza		female	https://www.fragrantica.com/perfume/1907/Lilaganza-73633.html				pending
+mon-ame	Mon Ame		unisex	https://www.fragrantica.com/perfume/1907/Mon-Ame-50626.html				pending
+nom	Nom		unisex	https://www.fragrantica.com/perfume/1907/Nom-56848.html				pending
+vanilla-dry	Vanilla Dry		unisex	https://www.fragrantica.com/perfume/1907/Vanilla-Dry-64042.html				pending
+whittoria	Whittoria		female	https://www.fragrantica.com/perfume/1907/Whittoria-64040.html				pending

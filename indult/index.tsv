@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cuir-404	Cuir 404		unisex		https://www.fragrantica.com/perfume/Indult/Cuir-404-96710.html				pending
-isvaraya	Isvaraya		female		https://www.fragrantica.com/perfume/Indult/Isvaraya-4344.html				pending
-isvaraya-2024	Isvaraya (2024)		unisex		https://www.fragrantica.com/perfume/Indult/Isvaraya-2024-93528.html				pending
-manakara	Manakara		female		https://www.fragrantica.com/perfume/Indult/Manakara-4345.html				pending
-my-ju-ju	My Ju-Ju		unisex		https://www.fragrantica.com/perfume/Indult/My-Ju-Ju-70358.html				pending
-reve-en-cuir	Reve En Cuir		unisex		https://www.fragrantica.com/perfume/Indult/Reve-En-Cuir-6948.html				pending
-tihota	Tihota		female		https://www.fragrantica.com/perfume/Indult/Tihota-4346.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cuir-404	Cuir 404		unisex	https://www.fragrantica.com/perfume/Indult/Cuir-404-96710.html				pending
+isvaraya	Isvaraya		female	https://www.fragrantica.com/perfume/Indult/Isvaraya-4344.html				pending
+isvaraya-2024	Isvaraya (2024)		unisex	https://www.fragrantica.com/perfume/Indult/Isvaraya-2024-93528.html				pending
+manakara	Manakara		female	https://www.fragrantica.com/perfume/Indult/Manakara-4345.html				pending
+my-ju-ju	My Ju-Ju		unisex	https://www.fragrantica.com/perfume/Indult/My-Ju-Ju-70358.html				pending
+reve-en-cuir	Reve En Cuir		unisex	https://www.fragrantica.com/perfume/Indult/Reve-En-Cuir-6948.html				pending
+tihota	Tihota		female	https://www.fragrantica.com/perfume/Indult/Tihota-4346.html				pending

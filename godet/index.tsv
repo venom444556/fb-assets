@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-absolu-doranger	Absolu d’oranger		unisex		https://www.fragrantica.com/perfume/Godet/Absolu-d-oranger-63486.html				pending
-calme-and-volupte	Calme & Volupté		unisex		https://www.fragrantica.com/perfume/Godet/Calme-Volupte-63494.html				pending
-chypre	Chypre		unisex		https://www.fragrantica.com/perfume/Godet/Chypre-47091.html				pending
-chypre-1908	Chypre (1908)		female		https://www.fragrantica.com/perfume/Godet/Chypre-1908-57744.html				pending
-corps-and-ames	Corps & Ames		unisex		https://www.fragrantica.com/perfume/Godet/Corps-Ames-47092.html				pending
-cuir-de-russie	Cuir de Russie		unisex		https://www.fragrantica.com/perfume/Godet/Cuir-de-Russie-49332.html				pending
-divin-mensonge	Divin Mensonge		unisex		https://www.fragrantica.com/perfume/Godet/Divin-Mensonge-51830.html				pending
-divinite	Divinité		unisex		https://www.fragrantica.com/perfume/Godet/Divinite-47095.html				pending
-eclosion-damour	Eclosion d’amour		female		https://www.fragrantica.com/perfume/Godet/Eclosion-d-amour-63491.html				pending
-empire-des-sens	Empire Des Sens		unisex		https://www.fragrantica.com/perfume/Godet/Empire-Des-Sens-47108.html				pending
-fleurs-de-reine	Fleurs de Reine		unisex		https://www.fragrantica.com/perfume/Godet/Fleurs-de-Reine-47110.html				pending
-folie-bleue	Folie Bleue		unisex		https://www.fragrantica.com/perfume/Godet/Folie-Bleue-47112.html				pending
-joie-de-vie	Joie de Vie		unisex		https://www.fragrantica.com/perfume/Godet/Joie-de-Vie-82506.html				pending
-la-rose-jocelyn	La Rose Jocelyn		female		https://www.fragrantica.com/perfume/Godet/La-Rose-Jocelyn-69787.html				pending
-mademoiselle-godet	Mademoiselle Godet		female		https://www.fragrantica.com/perfume/Godet/Mademoiselle-Godet-47094.html				pending
-modanite	Modanité		male		https://www.fragrantica.com/perfume/Godet/Modanite-82504.html				pending
-par-amour	Par Amour		female		https://www.fragrantica.com/perfume/Godet/Par-Amour-47111.html				pending
-petite-fleur-bleue	Petite Fleur Bleue		female		https://www.fragrantica.com/perfume/Godet/Petite-Fleur-Bleue-47113.html				pending
-philtre-damour	Philtre d'amour		male		https://www.fragrantica.com/perfume/Godet/Philtre-d-amour-82505.html				pending
-rendez-vous-au-cap-ferrat	Rendez-vous au Cap Ferrat		unisex		https://www.fragrantica.com/perfume/Godet/Rendez-vous-au-Cap-Ferrat-63495.html				pending
-revelation	Révélation		unisex		https://www.fragrantica.com/perfume/Godet/Revelation-63497.html				pending
-sensationnel	Sensationnel		unisex		https://www.fragrantica.com/perfume/Godet/Sensationnel-47109.html				pending
-sous-le-figuier	Sous le Figuier		unisex		https://www.fragrantica.com/perfume/Godet/Sous-le-Figuier-50259.html				pending
-voyage-a-saint-paul	Voyage à Saint Paul		unisex		https://www.fragrantica.com/perfume/Godet/Voyage-a-Saint-Paul-47093.html				pending
-eternite	Éternité		unisex		https://www.fragrantica.com/perfume/Godet/Eternite-63496.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+absolu-doranger	Absolu d’oranger		unisex	https://www.fragrantica.com/perfume/Godet/Absolu-d-oranger-63486.html				pending
+calme-and-volupte	Calme & Volupté		unisex	https://www.fragrantica.com/perfume/Godet/Calme-Volupte-63494.html				pending
+chypre	Chypre		unisex	https://www.fragrantica.com/perfume/Godet/Chypre-47091.html				pending
+chypre-1908	Chypre (1908)		female	https://www.fragrantica.com/perfume/Godet/Chypre-1908-57744.html				pending
+corps-and-ames	Corps & Ames		unisex	https://www.fragrantica.com/perfume/Godet/Corps-Ames-47092.html				pending
+cuir-de-russie	Cuir de Russie		unisex	https://www.fragrantica.com/perfume/Godet/Cuir-de-Russie-49332.html				pending
+divin-mensonge	Divin Mensonge		unisex	https://www.fragrantica.com/perfume/Godet/Divin-Mensonge-51830.html				pending
+divinite	Divinité		unisex	https://www.fragrantica.com/perfume/Godet/Divinite-47095.html				pending
+eclosion-damour	Eclosion d’amour		female	https://www.fragrantica.com/perfume/Godet/Eclosion-d-amour-63491.html				pending
+empire-des-sens	Empire Des Sens		unisex	https://www.fragrantica.com/perfume/Godet/Empire-Des-Sens-47108.html				pending
+fleurs-de-reine	Fleurs de Reine		unisex	https://www.fragrantica.com/perfume/Godet/Fleurs-de-Reine-47110.html				pending
+folie-bleue	Folie Bleue		unisex	https://www.fragrantica.com/perfume/Godet/Folie-Bleue-47112.html				pending
+joie-de-vie	Joie de Vie		unisex	https://www.fragrantica.com/perfume/Godet/Joie-de-Vie-82506.html				pending
+la-rose-jocelyn	La Rose Jocelyn		female	https://www.fragrantica.com/perfume/Godet/La-Rose-Jocelyn-69787.html				pending
+mademoiselle-godet	Mademoiselle Godet		female	https://www.fragrantica.com/perfume/Godet/Mademoiselle-Godet-47094.html				pending
+modanite	Modanité		male	https://www.fragrantica.com/perfume/Godet/Modanite-82504.html				pending
+par-amour	Par Amour		female	https://www.fragrantica.com/perfume/Godet/Par-Amour-47111.html				pending
+petite-fleur-bleue	Petite Fleur Bleue		female	https://www.fragrantica.com/perfume/Godet/Petite-Fleur-Bleue-47113.html				pending
+philtre-damour	Philtre d'amour		male	https://www.fragrantica.com/perfume/Godet/Philtre-d-amour-82505.html				pending
+rendez-vous-au-cap-ferrat	Rendez-vous au Cap Ferrat		unisex	https://www.fragrantica.com/perfume/Godet/Rendez-vous-au-Cap-Ferrat-63495.html				pending
+revelation	Révélation		unisex	https://www.fragrantica.com/perfume/Godet/Revelation-63497.html				pending
+sensationnel	Sensationnel		unisex	https://www.fragrantica.com/perfume/Godet/Sensationnel-47109.html				pending
+sous-le-figuier	Sous le Figuier		unisex	https://www.fragrantica.com/perfume/Godet/Sous-le-Figuier-50259.html				pending
+voyage-a-saint-paul	Voyage à Saint Paul		unisex	https://www.fragrantica.com/perfume/Godet/Voyage-a-Saint-Paul-47093.html				pending
+eternite	Éternité		unisex	https://www.fragrantica.com/perfume/Godet/Eternite-63496.html				pending

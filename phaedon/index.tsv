@@ -1,27 +1,27 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-albizia	Albizia		female		https://www.fragrantica.com/perfume/Phaedon/Albizia-65798.html				pending
-antigua	Antigua		unisex		https://www.fragrantica.com/perfume/Phaedon/Antigua-18284.html				pending
-bapteme-ambre	Bapteme Ambre		unisex		https://www.fragrantica.com/perfume/Phaedon/Bapteme-Ambre-54828.html				pending
-black-vetiver	Black Vetiver		unisex		https://www.fragrantica.com/perfume/Phaedon/Black-Vetiver-18290.html				pending
-cendres-de-the	Cendres de The		unisex		https://www.fragrantica.com/perfume/Phaedon/Cendres-de-The-13383.html				pending
-ciel-immobile	Ciel Immobile		unisex		https://www.fragrantica.com/perfume/Phaedon/Ciel-Immobile-54827.html				pending
-coton-egyptien	Coton Egyptien		unisex		https://www.fragrantica.com/perfume/Phaedon/Coton-Egyptien-16158.html				pending
-dzhari	Dzhari		unisex		https://www.fragrantica.com/perfume/Phaedon/Dzhari-13384.html				pending
-hesperys	Hesperys		unisex		https://www.fragrantica.com/perfume/Phaedon/Hesperys-18289.html				pending
-ilanguara	Ilanguara		unisex		https://www.fragrantica.com/perfume/Phaedon/Ilanguara-46601.html				pending
-leau-de-concombre	L'Eau de Concombre		unisex		https://www.fragrantica.com/perfume/Phaedon/L-Eau-de-Concombre-28137.html				pending
-leau-de-phaedon	L'Eau de Phaedon		unisex		https://www.fragrantica.com/perfume/Phaedon/L-Eau-de-Phaedon-24892.html				pending
-lentisque	Lentisque		unisex		https://www.fragrantica.com/perfume/Phaedon/Lentisque-18286.html				pending
-mediterraneo	Mediterraneo		male		https://www.fragrantica.com/perfume/Phaedon/Mediterraneo-65797.html				pending
-oliban	Oliban		unisex		https://www.fragrantica.com/perfume/Phaedon/Oliban-13385.html				pending
-oriental-mint	Oriental Mint		unisex		https://www.fragrantica.com/perfume/Phaedon/Oriental-Mint-13386.html				pending
-paorosa	Paorosa		unisex		https://www.fragrantica.com/perfume/Phaedon/Paorosa-60493.html				pending
-pluie-de-soleil	Pluie de Soleil		unisex		https://www.fragrantica.com/perfume/Phaedon/Pluie-de-Soleil-13387.html				pending
-poivre-colonial	Poivre Colonial		unisex		https://www.fragrantica.com/perfume/Phaedon/Poivre-Colonial-22617.html				pending
-pure-azure	Pure Azure		unisex		https://www.fragrantica.com/perfume/Phaedon/Pure-Azure-18287.html				pending
-rouge-avignon	Rouge Avignon		unisex		https://www.fragrantica.com/perfume/Phaedon/Rouge-Avignon-18285.html				pending
-rue-des-lilas	Rue des Lilas		unisex		https://www.fragrantica.com/perfume/Phaedon/Rue-des-Lilas-13388.html				pending
-sable-and-soleil	Sable & Soleil		unisex		https://www.fragrantica.com/perfume/Phaedon/Sable-Soleil-37862.html				pending
-sable-marocain	Sable Marocain		unisex		https://www.fragrantica.com/perfume/Phaedon/Sable-Marocain-18288.html				pending
-tabac-rouge	Tabac Rouge		unisex		https://www.fragrantica.com/perfume/Phaedon/Tabac-Rouge-18283.html				pending
-verveine-figuier	Verveine Figuier		unisex		https://www.fragrantica.com/perfume/Phaedon/Verveine-Figuier-16157.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+albizia	Albizia		female	https://www.fragrantica.com/perfume/Phaedon/Albizia-65798.html				pending
+antigua	Antigua		unisex	https://www.fragrantica.com/perfume/Phaedon/Antigua-18284.html				pending
+bapteme-ambre	Bapteme Ambre		unisex	https://www.fragrantica.com/perfume/Phaedon/Bapteme-Ambre-54828.html				pending
+black-vetiver	Black Vetiver		unisex	https://www.fragrantica.com/perfume/Phaedon/Black-Vetiver-18290.html				pending
+cendres-de-the	Cendres de The		unisex	https://www.fragrantica.com/perfume/Phaedon/Cendres-de-The-13383.html				pending
+ciel-immobile	Ciel Immobile		unisex	https://www.fragrantica.com/perfume/Phaedon/Ciel-Immobile-54827.html				pending
+coton-egyptien	Coton Egyptien		unisex	https://www.fragrantica.com/perfume/Phaedon/Coton-Egyptien-16158.html				pending
+dzhari	Dzhari		unisex	https://www.fragrantica.com/perfume/Phaedon/Dzhari-13384.html				pending
+hesperys	Hesperys		unisex	https://www.fragrantica.com/perfume/Phaedon/Hesperys-18289.html				pending
+ilanguara	Ilanguara		unisex	https://www.fragrantica.com/perfume/Phaedon/Ilanguara-46601.html				pending
+leau-de-concombre	L'Eau de Concombre		unisex	https://www.fragrantica.com/perfume/Phaedon/L-Eau-de-Concombre-28137.html				pending
+leau-de-phaedon	L'Eau de Phaedon		unisex	https://www.fragrantica.com/perfume/Phaedon/L-Eau-de-Phaedon-24892.html				pending
+lentisque	Lentisque		unisex	https://www.fragrantica.com/perfume/Phaedon/Lentisque-18286.html				pending
+mediterraneo	Mediterraneo		male	https://www.fragrantica.com/perfume/Phaedon/Mediterraneo-65797.html				pending
+oliban	Oliban		unisex	https://www.fragrantica.com/perfume/Phaedon/Oliban-13385.html				pending
+oriental-mint	Oriental Mint		unisex	https://www.fragrantica.com/perfume/Phaedon/Oriental-Mint-13386.html				pending
+paorosa	Paorosa		unisex	https://www.fragrantica.com/perfume/Phaedon/Paorosa-60493.html				pending
+pluie-de-soleil	Pluie de Soleil		unisex	https://www.fragrantica.com/perfume/Phaedon/Pluie-de-Soleil-13387.html				pending
+poivre-colonial	Poivre Colonial		unisex	https://www.fragrantica.com/perfume/Phaedon/Poivre-Colonial-22617.html				pending
+pure-azure	Pure Azure		unisex	https://www.fragrantica.com/perfume/Phaedon/Pure-Azure-18287.html				pending
+rouge-avignon	Rouge Avignon		unisex	https://www.fragrantica.com/perfume/Phaedon/Rouge-Avignon-18285.html				pending
+rue-des-lilas	Rue des Lilas		unisex	https://www.fragrantica.com/perfume/Phaedon/Rue-des-Lilas-13388.html				pending
+sable-and-soleil	Sable & Soleil		unisex	https://www.fragrantica.com/perfume/Phaedon/Sable-Soleil-37862.html				pending
+sable-marocain	Sable Marocain		unisex	https://www.fragrantica.com/perfume/Phaedon/Sable-Marocain-18288.html				pending
+tabac-rouge	Tabac Rouge		unisex	https://www.fragrantica.com/perfume/Phaedon/Tabac-Rouge-18283.html				pending
+verveine-figuier	Verveine Figuier		unisex	https://www.fragrantica.com/perfume/Phaedon/Verveine-Figuier-16157.html				pending

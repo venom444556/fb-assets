@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-arktos	Arktos		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/Arktos-31593.html				pending
-charuto	Charuto		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/Charuto-31594.html				pending
-cunning-man	Cunning Man		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/Cunning-Man-31592.html				pending
-cyprian	Cyprian		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/Cyprian-48158.html				pending
-djinn	Djinn		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/Djinn-31595.html				pending
-enodia	Enodia		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/Enodia-31596.html				pending
-guru-deva	Guru Deva		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/Guru-Deva-31597.html				pending
-seraph	Seraph		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/Seraph-31598.html				pending
-the-black-goat	The Black Goat		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/The-Black-Goat-48160.html				pending
-verum	Verum		unisex		https://www.fragrantica.com/perfume/House-of-Orpheus/Verum-48159.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+arktos	Arktos		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/Arktos-31593.html				pending
+charuto	Charuto		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/Charuto-31594.html				pending
+cunning-man	Cunning Man		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/Cunning-Man-31592.html				pending
+cyprian	Cyprian		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/Cyprian-48158.html				pending
+djinn	Djinn		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/Djinn-31595.html				pending
+enodia	Enodia		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/Enodia-31596.html				pending
+guru-deva	Guru Deva		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/Guru-Deva-31597.html				pending
+seraph	Seraph		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/Seraph-31598.html				pending
+the-black-goat	The Black Goat		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/The-Black-Goat-48160.html				pending
+verum	Verum		unisex	https://www.fragrantica.com/perfume/House-of-Orpheus/Verum-48159.html				pending

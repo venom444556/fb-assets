@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-fly-high	Fly High		unisex		https://www.fragrantica.com/perfume/UpShots/Fly-High-64656.html				pending
-spring-glow	Spring Glow		unisex		https://www.fragrantica.com/perfume/UpShots/Spring-Glow-64658.html				pending
-tropical-tribe	Tropical Tribe		unisex		https://www.fragrantica.com/perfume/UpShots/Tropical-Tribe-64657.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+fly-high	Fly High		unisex	https://www.fragrantica.com/perfume/UpShots/Fly-High-64656.html				pending
+spring-glow	Spring Glow		unisex	https://www.fragrantica.com/perfume/UpShots/Spring-Glow-64658.html				pending
+tropical-tribe	Tropical Tribe		unisex	https://www.fragrantica.com/perfume/UpShots/Tropical-Tribe-64657.html				pending

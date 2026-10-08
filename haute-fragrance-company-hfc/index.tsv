@@ -1,38 +1,38 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-beautiful-and-wild	Beautiful & Wild		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Beautiful-Wild-55767.html				pending
-black-orris	Black Orris		male		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Black-Orris-46087.html				pending
-black-princess	Black Princess		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Black-Princess-46081.html				pending
-chic-blossom	Chic Blossom		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Chic-Blossom-46042.html				pending
-closed-gate	Closed Gate		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Closed-Gate-52791.html				pending
-dancing-queen	Dancing Queen		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Dancing-Queen-70334.html				pending
-dazzling-girls	Dazzling Girls		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Dazzling-Girls-108031.html				pending
-delicious-kisses	Delicious Kisses		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Delicious-Kisses-46084.html				pending
-devils-intrigue	Devil's Intrigue		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Devil-s-Intrigue-52792.html				pending
-diamond-in-the-sky	Diamond in the Sky		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Diamond-in-the-Sky-57561.html				pending
-divine-blossom	Divine Blossom		unisex		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Divine-Blossom-70785.html				pending
-dry-wood	Dry Wood		male		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Dry-Wood-46086.html				pending
-fly-to-miracle	Fly To Miracle		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Fly-To-Miracle-82720.html				pending
-forbidden-whisper	Forbidden Whisper		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Forbidden-Whisper-117261.html				pending
-golden-fever	Golden Fever		unisex		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Golden-Fever-70786.html				pending
-great-way	Great Way		unisex		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Great-Way-87087.html				pending
-i-wanna-be-loved-by-you	I Wanna Be Loved By You		unisex		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/I-Wanna-Be-Loved-By-You-91706.html				pending
-indian-venus	Indian Venus		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Indian-Venus-52793.html				pending
-lady-in-red	Lady in Red		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Lady-in-Red-46080.html				pending
-lover-man	Lover Man		male		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Lover-Man-46088.html				pending
-lucky-one	Lucky One		male		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Lucky-One-98499.html				pending
-narcotic-desire	Narcotic Desire		unisex		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Narcotic-Desire-125243.html				pending
-nirvanesque	Nirvanesque		unisex		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Nirvanesque-77134.html				pending
-or-noir	Or Noir		male		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Or-Noir-46089.html				pending
-party-on-the-moon	Party on the Moon		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Party-on-the-Moon-46041.html				pending
-pink-moon	Pink Moon		unisex		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Pink-Moon-102465.html				pending
-private-code	Private Code		unisex		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Private-Code-76535.html				pending
-proposal	Proposal		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Proposal-50181.html				pending
-red-iceberg	Red Iceberg		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Red-Iceberg-52794.html				pending
-royal-power	Royal Power		male		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Royal-Power-75243.html				pending
-shade-of-chocolate	Shade of Chocolate		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Shade-of-Chocolate-46083.html				pending
-sunmusk	SunMusk		unisex		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/SunMusk-94732.html				pending
-sweet-and-spoiled	Sweet & Spoiled		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Sweet-Spoiled-46079.html				pending
-sword-dancer	Sword Dancer		male		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Sword-Dancer-52795.html				pending
-voodoo-chic	Voodoo Chic		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Voodoo-Chic-46085.html				pending
-wear-love-everywhere	Wear Love Everywhere		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Wear-Love-Everywhere-46082.html				pending
-wrap-me-in-dreams	Wrap Me in Dreams		female		https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Wrap-Me-in-Dreams-62855.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+beautiful-and-wild	Beautiful & Wild		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Beautiful-Wild-55767.html				pending
+black-orris	Black Orris		male	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Black-Orris-46087.html				pending
+black-princess	Black Princess		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Black-Princess-46081.html				pending
+chic-blossom	Chic Blossom		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Chic-Blossom-46042.html				pending
+closed-gate	Closed Gate		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Closed-Gate-52791.html				pending
+dancing-queen	Dancing Queen		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Dancing-Queen-70334.html				pending
+dazzling-girls	Dazzling Girls		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Dazzling-Girls-108031.html				pending
+delicious-kisses	Delicious Kisses		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Delicious-Kisses-46084.html				pending
+devils-intrigue	Devil's Intrigue		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Devil-s-Intrigue-52792.html				pending
+diamond-in-the-sky	Diamond in the Sky		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Diamond-in-the-Sky-57561.html				pending
+divine-blossom	Divine Blossom		unisex	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Divine-Blossom-70785.html				pending
+dry-wood	Dry Wood		male	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Dry-Wood-46086.html				pending
+fly-to-miracle	Fly To Miracle		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Fly-To-Miracle-82720.html				pending
+forbidden-whisper	Forbidden Whisper		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Forbidden-Whisper-117261.html				pending
+golden-fever	Golden Fever		unisex	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Golden-Fever-70786.html				pending
+great-way	Great Way		unisex	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Great-Way-87087.html				pending
+i-wanna-be-loved-by-you	I Wanna Be Loved By You		unisex	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/I-Wanna-Be-Loved-By-You-91706.html				pending
+indian-venus	Indian Venus		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Indian-Venus-52793.html				pending
+lady-in-red	Lady in Red		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Lady-in-Red-46080.html				pending
+lover-man	Lover Man		male	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Lover-Man-46088.html				pending
+lucky-one	Lucky One		male	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Lucky-One-98499.html				pending
+narcotic-desire	Narcotic Desire		unisex	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Narcotic-Desire-125243.html				pending
+nirvanesque	Nirvanesque		unisex	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Nirvanesque-77134.html				pending
+or-noir	Or Noir		male	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Or-Noir-46089.html				pending
+party-on-the-moon	Party on the Moon		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Party-on-the-Moon-46041.html				pending
+pink-moon	Pink Moon		unisex	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Pink-Moon-102465.html				pending
+private-code	Private Code		unisex	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Private-Code-76535.html				pending
+proposal	Proposal		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Proposal-50181.html				pending
+red-iceberg	Red Iceberg		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Red-Iceberg-52794.html				pending
+royal-power	Royal Power		male	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Royal-Power-75243.html				pending
+shade-of-chocolate	Shade of Chocolate		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Shade-of-Chocolate-46083.html				pending
+sunmusk	SunMusk		unisex	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/SunMusk-94732.html				pending
+sweet-and-spoiled	Sweet & Spoiled		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Sweet-Spoiled-46079.html				pending
+sword-dancer	Sword Dancer		male	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Sword-Dancer-52795.html				pending
+voodoo-chic	Voodoo Chic		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Voodoo-Chic-46085.html				pending
+wear-love-everywhere	Wear Love Everywhere		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Wear-Love-Everywhere-46082.html				pending
+wrap-me-in-dreams	Wrap Me in Dreams		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Wrap-Me-in-Dreams-62855.html				pending

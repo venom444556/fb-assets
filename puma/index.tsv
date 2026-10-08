@@ -1,42 +1,42 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-animagical-man	Animagical Man		male		https://www.fragrantica.com/perfume/Puma/Animagical-Man-8768.html				pending
-animagical-woman	Animagical Woman		female		https://www.fragrantica.com/perfume/Puma/Animagical-Woman-8767.html				pending
-cross-the-line	Cross The Line		male		https://www.fragrantica.com/perfume/Puma/Cross-The-Line-48731.html				pending
-cross-the-line-explicit	Cross The Line Explicit		male		https://www.fragrantica.com/perfume/Puma/Cross-The-Line-Explicit-53411.html				pending
-flowing	Flowing		female		https://www.fragrantica.com/perfume/Puma/Flowing-1083.html				pending
-flowing-free-man	Flowing Free Man		male		https://www.fragrantica.com/perfume/Puma/Flowing-Free-Man-4050.html				pending
-flowing-free-women	Flowing Free Women		female		https://www.fragrantica.com/perfume/Puma/Flowing-Free-Women-4051.html				pending
-flowing-man	Flowing Man		male		https://www.fragrantica.com/perfume/Puma/Flowing-Man-1084.html				pending
-green	Green		male		https://www.fragrantica.com/perfume/Puma/Green-14819.html				pending
-jam-man	Jam Man		male		https://www.fragrantica.com/perfume/Puma/Jam-Man-11922.html				pending
-jam-woman	Jam Woman		female		https://www.fragrantica.com/perfume/Puma/Jam-Woman-11921.html				pending
-jamaica-man	Jamaica Man		male		https://www.fragrantica.com/perfume/Puma/Jamaica-Man-1571.html				pending
-jamaica-woman	Jamaica Woman		female		https://www.fragrantica.com/perfume/Puma/Jamaica-Woman-1572.html				pending
-jamaica-2-woman	Jamaica ² Woman		female		https://www.fragrantica.com/perfume/Puma/Jamaica-2-Woman-3099.html				pending
-jamaica2-man	Jamaica² Man		male		https://www.fragrantica.com/perfume/Puma/Jamaica2-Man-3098.html				pending
-live-big	Live Big		male		https://www.fragrantica.com/perfume/Puma/Live-Big-48730.html				pending
-man	Man		male		https://www.fragrantica.com/perfume/Puma/Man-1123.html				pending
-puma-aqua-man	Puma Aqua Man		male		https://www.fragrantica.com/perfume/Puma/Puma-Aqua-Man-1080.html				pending
-puma-aqua-woman	Puma Aqua Woman		female		https://www.fragrantica.com/perfume/Puma/Puma-Aqua-Woman-1079.html				pending
-puma-create	Puma Create		female		https://www.fragrantica.com/perfume/Puma/Puma-Create-1081.html				pending
-puma-create-man	Puma Create Man		male		https://www.fragrantica.com/perfume/Puma/Puma-Create-Man-1082.html				pending
-puma-green-brasil-edition	Puma Green Brasil Edition		male		https://www.fragrantica.com/perfume/Puma/Puma-Green-Brasil-Edition-24895.html				pending
-puma-im-going-man	Puma I'm Going Man		male		https://www.fragrantica.com/perfume/Puma/Puma-I-m-Going-Man-1566.html				pending
-puma-im-going-woman	Puma I'm Going Woman		female		https://www.fragrantica.com/perfume/Puma/Puma-I-m-Going-Woman-1565.html				pending
-puma-limited-edition-man	Puma Limited Edition Man		male		https://www.fragrantica.com/perfume/Puma/Puma-Limited-Edition-Man-1567.html				pending
-puma-limited-edition-woman	Puma Limited Edition Woman		female		https://www.fragrantica.com/perfume/Puma/Puma-Limited-Edition-Woman-1568.html				pending
-puma-man	Puma Man		male		https://www.fragrantica.com/perfume/Puma/Puma-Man-1086.html				pending
-puma-woman	Puma Woman		female		https://www.fragrantica.com/perfume/Puma/Puma-Woman-1085.html				pending
-puma-yellow-brasil-edition	Puma Yellow Brasil Edition		female		https://www.fragrantica.com/perfume/Puma/Puma-Yellow-Brasil-Edition-24894.html				pending
-push-the-heat	Push The Heat		male		https://www.fragrantica.com/perfume/Puma/Push-The-Heat-48729.html				pending
-rock-the-beat	Rock The Beat		male		https://www.fragrantica.com/perfume/Puma/Rock-The-Beat-48733.html				pending
-run-the-world	Run The World		male		https://www.fragrantica.com/perfume/Puma/Run-The-World-48732.html				pending
-shake-the-night	Shake The Night		male		https://www.fragrantica.com/perfume/Puma/Shake-The-Night-48728.html				pending
-sync-man	Sync Man		male		https://www.fragrantica.com/perfume/Puma/Sync-Man-18187.html				pending
-sync-woman	Sync Woman		female		https://www.fragrantica.com/perfume/Puma/Sync-Woman-18186.html				pending
-time-to-play-man	Time to Play Man		male		https://www.fragrantica.com/perfume/Puma/Time-to-Play-Man-26121.html				pending
-time-to-play-woman	Time to Play Woman		female		https://www.fragrantica.com/perfume/Puma/Time-to-Play-Woman-26120.html				pending
-urban-motion-for-her	Urban Motion for Her		female		https://www.fragrantica.com/perfume/Puma/Urban-Motion-for-Her-5718.html				pending
-urban-motion-for-him	Urban Motion for Him		male		https://www.fragrantica.com/perfume/Puma/Urban-Motion-for-Him-5719.html				pending
-woman	Woman		female		https://www.fragrantica.com/perfume/Puma/Woman-1570.html				pending
-yellow	Yellow		female		https://www.fragrantica.com/perfume/Puma/Yellow-14818.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+animagical-man	Animagical Man		male	https://www.fragrantica.com/perfume/Puma/Animagical-Man-8768.html				pending
+animagical-woman	Animagical Woman		female	https://www.fragrantica.com/perfume/Puma/Animagical-Woman-8767.html				pending
+cross-the-line	Cross The Line		male	https://www.fragrantica.com/perfume/Puma/Cross-The-Line-48731.html				pending
+cross-the-line-explicit	Cross The Line Explicit		male	https://www.fragrantica.com/perfume/Puma/Cross-The-Line-Explicit-53411.html				pending
+flowing	Flowing		female	https://www.fragrantica.com/perfume/Puma/Flowing-1083.html				pending
+flowing-free-man	Flowing Free Man		male	https://www.fragrantica.com/perfume/Puma/Flowing-Free-Man-4050.html				pending
+flowing-free-women	Flowing Free Women		female	https://www.fragrantica.com/perfume/Puma/Flowing-Free-Women-4051.html				pending
+flowing-man	Flowing Man		male	https://www.fragrantica.com/perfume/Puma/Flowing-Man-1084.html				pending
+green	Green		male	https://www.fragrantica.com/perfume/Puma/Green-14819.html				pending
+jam-man	Jam Man		male	https://www.fragrantica.com/perfume/Puma/Jam-Man-11922.html				pending
+jam-woman	Jam Woman		female	https://www.fragrantica.com/perfume/Puma/Jam-Woman-11921.html				pending
+jamaica-man	Jamaica Man		male	https://www.fragrantica.com/perfume/Puma/Jamaica-Man-1571.html				pending
+jamaica-woman	Jamaica Woman		female	https://www.fragrantica.com/perfume/Puma/Jamaica-Woman-1572.html				pending
+jamaica-2-woman	Jamaica ² Woman		female	https://www.fragrantica.com/perfume/Puma/Jamaica-2-Woman-3099.html				pending
+jamaica2-man	Jamaica² Man		male	https://www.fragrantica.com/perfume/Puma/Jamaica2-Man-3098.html				pending
+live-big	Live Big		male	https://www.fragrantica.com/perfume/Puma/Live-Big-48730.html				pending
+man	Man		male	https://www.fragrantica.com/perfume/Puma/Man-1123.html				pending
+puma-aqua-man	Puma Aqua Man		male	https://www.fragrantica.com/perfume/Puma/Puma-Aqua-Man-1080.html				pending
+puma-aqua-woman	Puma Aqua Woman		female	https://www.fragrantica.com/perfume/Puma/Puma-Aqua-Woman-1079.html				pending
+puma-create	Puma Create		female	https://www.fragrantica.com/perfume/Puma/Puma-Create-1081.html				pending
+puma-create-man	Puma Create Man		male	https://www.fragrantica.com/perfume/Puma/Puma-Create-Man-1082.html				pending
+puma-green-brasil-edition	Puma Green Brasil Edition		male	https://www.fragrantica.com/perfume/Puma/Puma-Green-Brasil-Edition-24895.html				pending
+puma-im-going-man	Puma I'm Going Man		male	https://www.fragrantica.com/perfume/Puma/Puma-I-m-Going-Man-1566.html				pending
+puma-im-going-woman	Puma I'm Going Woman		female	https://www.fragrantica.com/perfume/Puma/Puma-I-m-Going-Woman-1565.html				pending
+puma-limited-edition-man	Puma Limited Edition Man		male	https://www.fragrantica.com/perfume/Puma/Puma-Limited-Edition-Man-1567.html				pending
+puma-limited-edition-woman	Puma Limited Edition Woman		female	https://www.fragrantica.com/perfume/Puma/Puma-Limited-Edition-Woman-1568.html				pending
+puma-man	Puma Man		male	https://www.fragrantica.com/perfume/Puma/Puma-Man-1086.html				pending
+puma-woman	Puma Woman		female	https://www.fragrantica.com/perfume/Puma/Puma-Woman-1085.html				pending
+puma-yellow-brasil-edition	Puma Yellow Brasil Edition		female	https://www.fragrantica.com/perfume/Puma/Puma-Yellow-Brasil-Edition-24894.html				pending
+push-the-heat	Push The Heat		male	https://www.fragrantica.com/perfume/Puma/Push-The-Heat-48729.html				pending
+rock-the-beat	Rock The Beat		male	https://www.fragrantica.com/perfume/Puma/Rock-The-Beat-48733.html				pending
+run-the-world	Run The World		male	https://www.fragrantica.com/perfume/Puma/Run-The-World-48732.html				pending
+shake-the-night	Shake The Night		male	https://www.fragrantica.com/perfume/Puma/Shake-The-Night-48728.html				pending
+sync-man	Sync Man		male	https://www.fragrantica.com/perfume/Puma/Sync-Man-18187.html				pending
+sync-woman	Sync Woman		female	https://www.fragrantica.com/perfume/Puma/Sync-Woman-18186.html				pending
+time-to-play-man	Time to Play Man		male	https://www.fragrantica.com/perfume/Puma/Time-to-Play-Man-26121.html				pending
+time-to-play-woman	Time to Play Woman		female	https://www.fragrantica.com/perfume/Puma/Time-to-Play-Woman-26120.html				pending
+urban-motion-for-her	Urban Motion for Her		female	https://www.fragrantica.com/perfume/Puma/Urban-Motion-for-Her-5718.html				pending
+urban-motion-for-him	Urban Motion for Him		male	https://www.fragrantica.com/perfume/Puma/Urban-Motion-for-Him-5719.html				pending
+woman	Woman		female	https://www.fragrantica.com/perfume/Puma/Woman-1570.html				pending
+yellow	Yellow		female	https://www.fragrantica.com/perfume/Puma/Yellow-14818.html				pending

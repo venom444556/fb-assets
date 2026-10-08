@@ -1,33 +1,33 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bambu	Bambu		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Bambu-28433.html				pending
-burk-by-burk-collection-1	Burk by Burk Collection 1		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-by-Burk-Collection-1-28434.html				pending
-burk-by-burk-collection-2	Burk by Burk Collection 2		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-by-Burk-Collection-2-28435.html				pending
-burk-by-burk-collection-3	Burk by Burk Collection 3		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-by-Burk-Collection-3-28436.html				pending
-burk-by-burk-collection-4	Burk by Burk Collection 4		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-by-Burk-Collection-4-28437.html				pending
-burk-one	Burk One		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-One-28438.html				pending
-cores-shine	Cores Shine		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Cores-Shine-28400.html				pending
-evock	Evock		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Evock-28401.html				pending
-feminity	Feminity		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Feminity-28402.html				pending
-gabi	Gabi		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Gabi-28403.html				pending
-graffus	Graffus		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Graffus-28439.html				pending
-harmy-cool	Harmy Cool		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Harmy-Cool-28440.html				pending
-hi-man	HI Man		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/HI-Man-28441.html				pending
-hora-intima	Hora Íntima		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Hora-Intima-28405.html				pending
-julie-hot	Julie Hot		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Julie-Hot-28406.html				pending
-julie-rock	Julie Rock		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Julie-Rock-28419.html				pending
-madame-de-julie	Madame de Julie		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Madame-de-Julie-28421.html				pending
-manha	Manha		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Manha-28422.html				pending
-monde	Monde		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Monde-28442.html				pending
-noite	Noite		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Noite-28423.html				pending
-only-rouge	Only Rouge		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Only-Rouge-28424.html				pending
-papyrus	Papyrus		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Papyrus-28443.html				pending
-perfil	Perfil		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Perfil-28425.html				pending
-princess-julie	Princess Julie		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Princess-Julie-28420.html				pending
-republica-brasileira	Republica Brasileira		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Republica-Brasileira-28445.html				pending
-sexy	Sexy		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Sexy-28429.html				pending
-sexy-hot	Sexy Hot		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Sexy-Hot-28430.html				pending
-sonhos-de-anjo	Sonhos de Anjo		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Sonhos-de-Anjo-28431.html				pending
-soul	Soul		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Soul-28446.html				pending
-toujours-amour	Toujours Amour		female		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Toujours-Amour-28432.html				pending
-whoa	Whoa		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Whoa-28447.html				pending
-zimbro-new	Zimbro New		male		https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Zimbro-New-28404.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bambu	Bambu		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Bambu-28433.html				pending
+burk-by-burk-collection-1	Burk by Burk Collection 1		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-by-Burk-Collection-1-28434.html				pending
+burk-by-burk-collection-2	Burk by Burk Collection 2		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-by-Burk-Collection-2-28435.html				pending
+burk-by-burk-collection-3	Burk by Burk Collection 3		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-by-Burk-Collection-3-28436.html				pending
+burk-by-burk-collection-4	Burk by Burk Collection 4		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-by-Burk-Collection-4-28437.html				pending
+burk-one	Burk One		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Burk-One-28438.html				pending
+cores-shine	Cores Shine		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Cores-Shine-28400.html				pending
+evock	Evock		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Evock-28401.html				pending
+feminity	Feminity		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Feminity-28402.html				pending
+gabi	Gabi		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Gabi-28403.html				pending
+graffus	Graffus		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Graffus-28439.html				pending
+harmy-cool	Harmy Cool		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Harmy-Cool-28440.html				pending
+hi-man	HI Man		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/HI-Man-28441.html				pending
+hora-intima	Hora Íntima		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Hora-Intima-28405.html				pending
+julie-hot	Julie Hot		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Julie-Hot-28406.html				pending
+julie-rock	Julie Rock		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Julie-Rock-28419.html				pending
+madame-de-julie	Madame de Julie		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Madame-de-Julie-28421.html				pending
+manha	Manha		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Manha-28422.html				pending
+monde	Monde		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Monde-28442.html				pending
+noite	Noite		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Noite-28423.html				pending
+only-rouge	Only Rouge		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Only-Rouge-28424.html				pending
+papyrus	Papyrus		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Papyrus-28443.html				pending
+perfil	Perfil		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Perfil-28425.html				pending
+princess-julie	Princess Julie		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Princess-Julie-28420.html				pending
+republica-brasileira	Republica Brasileira		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Republica-Brasileira-28445.html				pending
+sexy	Sexy		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Sexy-28429.html				pending
+sexy-hot	Sexy Hot		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Sexy-Hot-28430.html				pending
+sonhos-de-anjo	Sonhos de Anjo		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Sonhos-de-Anjo-28431.html				pending
+soul	Soul		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Soul-28446.html				pending
+toujours-amour	Toujours Amour		female	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Toujours-Amour-28432.html				pending
+whoa	Whoa		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Whoa-28447.html				pending
+zimbro-new	Zimbro New		male	https://www.fragrantica.com/perfume/Julie-Burk-Perfumes/Zimbro-New-28404.html				pending

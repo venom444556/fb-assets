@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-dolly-scent-from-above	Dolly: Scent From Above		female		https://www.fragrantica.com/perfume/Dolly-Parton/Dolly-Scent-From-Above-65389.html				pending
-early-morning-breeze	Early Morning Breeze		female		https://www.fragrantica.com/perfume/Dolly-Parton/Early-Morning-Breeze-79864.html				pending
-smoky-mountain	Smoky Mountain		female		https://www.fragrantica.com/perfume/Dolly-Parton/Smoky-Mountain-79862.html				pending
-tennessee-sunset	Tennessee Sunset		female		https://www.fragrantica.com/perfume/Dolly-Parton/Tennessee-Sunset-79863.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+dolly-scent-from-above	Dolly: Scent From Above		female	https://www.fragrantica.com/perfume/Dolly-Parton/Dolly-Scent-From-Above-65389.html				pending
+early-morning-breeze	Early Morning Breeze		female	https://www.fragrantica.com/perfume/Dolly-Parton/Early-Morning-Breeze-79864.html				pending
+smoky-mountain	Smoky Mountain		female	https://www.fragrantica.com/perfume/Dolly-Parton/Smoky-Mountain-79862.html				pending
+tennessee-sunset	Tennessee Sunset		female	https://www.fragrantica.com/perfume/Dolly-Parton/Tennessee-Sunset-79863.html				pending

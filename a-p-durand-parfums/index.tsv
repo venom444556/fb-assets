@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-infidele	Infidele		female		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Infidele-27249.html				pending
-magic-life	Magic Life		female		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Magic-Life-27240.html				pending
-prestige-flower	Prestige Flower		female		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Prestige-Flower-27237.html				pending
-prestige-honey	Prestige Honey		female		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Prestige-Honey-27236.html				pending
-prestige-lady	Prestige Lady		female		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Prestige-Lady-27241.html				pending
-promis-jure	Promis Jure		female		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Promis-Jure-27234.html				pending
-rupture	Rupture		male		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Rupture-27235.html				pending
-rupture-women	Rupture Women		female		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Rupture-Women-27251.html				pending
-what-else-men	What Else Men		male		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/What-Else-Men-27239.html				pending
-what-else-women	What Else Women		female		https://www.fragrantica.com/perfume/A-P-Durand-Parfums/What-Else-Women-27238.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+infidele	Infidele		female	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Infidele-27249.html				pending
+magic-life	Magic Life		female	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Magic-Life-27240.html				pending
+prestige-flower	Prestige Flower		female	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Prestige-Flower-27237.html				pending
+prestige-honey	Prestige Honey		female	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Prestige-Honey-27236.html				pending
+prestige-lady	Prestige Lady		female	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Prestige-Lady-27241.html				pending
+promis-jure	Promis Jure		female	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Promis-Jure-27234.html				pending
+rupture	Rupture		male	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Rupture-27235.html				pending
+rupture-women	Rupture Women		female	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/Rupture-Women-27251.html				pending
+what-else-men	What Else Men		male	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/What-Else-Men-27239.html				pending
+what-else-women	What Else Women		female	https://www.fragrantica.com/perfume/A-P-Durand-Parfums/What-Else-Women-27238.html				pending

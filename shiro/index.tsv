@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-earl-grey	Earl Grey		unisex		https://www.fragrantica.com/perfume/Shiro/Earl-Grey-99417.html				pending
-freesia-mist	Freesia Mist		unisex		https://www.fragrantica.com/perfume/Shiro/Freesia-Mist-63130.html				pending
-savon	Savon		female		https://www.fragrantica.com/perfume/Shiro/Savon-99404.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+earl-grey	Earl Grey		unisex	https://www.fragrantica.com/perfume/Shiro/Earl-Grey-99417.html				pending
+freesia-mist	Freesia Mist		unisex	https://www.fragrantica.com/perfume/Shiro/Freesia-Mist-63130.html				pending
+savon	Savon		female	https://www.fragrantica.com/perfume/Shiro/Savon-99404.html				pending

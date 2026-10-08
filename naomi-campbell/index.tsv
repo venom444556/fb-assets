@@ -1,28 +1,28 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bohemian-garden	Bohemian Garden		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Bohemian-Garden-35550.html				pending
-cat-deluxe	Cat Deluxe		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Cat-Deluxe-876.html				pending
-cat-deluxe-at-night	Cat Deluxe At Night		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Cat-Deluxe-At-Night-1027.html				pending
-cat-deluxe-silver	Cat Deluxe Silver		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Cat-Deluxe-Silver-55227.html				pending
-cat-deluxe-with-kisses	Cat Deluxe With Kisses		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Cat-Deluxe-With-Kisses-5843.html				pending
-eternal-beauty	Eternal Beauty		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Eternal-Beauty-1740.html				pending
-exult	Exult		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Exult-904.html				pending
-glam-rouge	Glam Rouge		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Glam-Rouge-48475.html				pending
-here-to-shine	Here to Shine		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Here-to-Shine-70395.html				pending
-here-to-stay	Here To Stay		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Here-To-Stay-63621.html				pending
-mystery	Mystery		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Mystery-881.html				pending
-naomagic	Naomagic		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Naomagic-791.html				pending
-naomi	Naomi		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-9940.html				pending
-naomi-campbell	Naomi Campbell		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-905.html				pending
-naomi-campbell-at-night	Naomi Campbell At Night		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-At-Night-15444.html				pending
-naomi-campbell-light-edition	Naomi Campbell Light Edition		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-Light-Edition-29197.html				pending
-naomi-campbell-shine-and-glimmer	Naomi Campbell Shine & Glimmer		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-Shine-Glimmer-29198.html				pending
-naomi-campbell-wild-pearl	Naomi Campbell Wild Pearl		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-Wild-Pearl-12283.html				pending
-paradise-passion	Paradise Passion		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Paradise-Passion-906.html				pending
-pret-a-porter	Pret a Porter		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Pret-a-Porter-40071.html				pending
-private	Private		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Private-31958.html				pending
-pret-a-porter-absolute-velvet	Prêt à Porter Absolute Velvet		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Pret-a-Porter-Absolute-Velvet-51220.html				pending
-pret-a-porter-silk-collection	Prêt à Porter Silk Collection		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Pret-a-Porter-Silk-Collection-45659.html				pending
-queen-of-gold	Queen of Gold		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Queen-of-Gold-18179.html				pending
-seductive-elixir	Seductive Elixir		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Seductive-Elixir-3180.html				pending
-sunset	Sunset		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Sunset-875.html				pending
-winter-kiss	Winter Kiss		female		https://www.fragrantica.com/perfume/Naomi-Campbell/Winter-Kiss-907.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bohemian-garden	Bohemian Garden		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Bohemian-Garden-35550.html				pending
+cat-deluxe	Cat Deluxe		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Cat-Deluxe-876.html				pending
+cat-deluxe-at-night	Cat Deluxe At Night		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Cat-Deluxe-At-Night-1027.html				pending
+cat-deluxe-silver	Cat Deluxe Silver		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Cat-Deluxe-Silver-55227.html				pending
+cat-deluxe-with-kisses	Cat Deluxe With Kisses		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Cat-Deluxe-With-Kisses-5843.html				pending
+eternal-beauty	Eternal Beauty		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Eternal-Beauty-1740.html				pending
+exult	Exult		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Exult-904.html				pending
+glam-rouge	Glam Rouge		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Glam-Rouge-48475.html				pending
+here-to-shine	Here to Shine		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Here-to-Shine-70395.html				pending
+here-to-stay	Here To Stay		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Here-To-Stay-63621.html				pending
+mystery	Mystery		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Mystery-881.html				pending
+naomagic	Naomagic		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Naomagic-791.html				pending
+naomi	Naomi		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-9940.html				pending
+naomi-campbell	Naomi Campbell		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-905.html				pending
+naomi-campbell-at-night	Naomi Campbell At Night		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-At-Night-15444.html				pending
+naomi-campbell-light-edition	Naomi Campbell Light Edition		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-Light-Edition-29197.html				pending
+naomi-campbell-shine-and-glimmer	Naomi Campbell Shine & Glimmer		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-Shine-Glimmer-29198.html				pending
+naomi-campbell-wild-pearl	Naomi Campbell Wild Pearl		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Naomi-Campbell-Wild-Pearl-12283.html				pending
+paradise-passion	Paradise Passion		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Paradise-Passion-906.html				pending
+pret-a-porter	Pret a Porter		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Pret-a-Porter-40071.html				pending
+private	Private		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Private-31958.html				pending
+pret-a-porter-absolute-velvet	Prêt à Porter Absolute Velvet		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Pret-a-Porter-Absolute-Velvet-51220.html				pending
+pret-a-porter-silk-collection	Prêt à Porter Silk Collection		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Pret-a-Porter-Silk-Collection-45659.html				pending
+queen-of-gold	Queen of Gold		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Queen-of-Gold-18179.html				pending
+seductive-elixir	Seductive Elixir		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Seductive-Elixir-3180.html				pending
+sunset	Sunset		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Sunset-875.html				pending
+winter-kiss	Winter Kiss		female	https://www.fragrantica.com/perfume/Naomi-Campbell/Winter-Kiss-907.html				pending

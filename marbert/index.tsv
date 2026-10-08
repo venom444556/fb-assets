@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aroma-flower-harmony	Aroma Flower Harmony		female		https://www.fragrantica.com/perfume/Marbert/Aroma-Flower-Harmony-29996.html				pending
-aroma-fruit-harmony	Aroma Fruit Harmony		female		https://www.fragrantica.com/perfume/Marbert/Aroma-Fruit-Harmony-29997.html				pending
-authentic	Authentic		male		https://www.fragrantica.com/perfume/Marbert/Authentic-11077.html				pending
-clair-de-lune	Clair de Lune		female		https://www.fragrantica.com/perfume/Marbert/Clair-de-Lune-30001.html				pending
-classic	Classic		female		https://www.fragrantica.com/perfume/Marbert/Classic-29994.html				pending
-donna	Donna		female		https://www.fragrantica.com/perfume/Marbert/Donna-30002.html				pending
-energy	Energy		female		https://www.fragrantica.com/perfume/Marbert/Energy-8741.html				pending
-fresh	Fresh		female		https://www.fragrantica.com/perfume/Marbert/Fresh-29995.html				pending
-gentleman	Gentleman		male		https://www.fragrantica.com/perfume/Marbert/Gentleman-11078.html				pending
-marbert-homme	Marbert Homme		male		https://www.fragrantica.com/perfume/Marbert/Marbert-Homme-11076.html				pending
-marbert-man	Marbert Man		male		https://www.fragrantica.com/perfume/Marbert/Marbert-Man-11073.html				pending
-marbert-man-classic	Marbert Man Classic		male		https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Classic-29998.html				pending
-marbert-man-no-2	Marbert Man No.2		male		https://www.fragrantica.com/perfume/Marbert/Marbert-Man-No-2-11292.html				pending
-marbert-man-personality	Marbert Man Personality		male		https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Personality-30003.html				pending
-marbert-man-pure	Marbert Man Pure		male		https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Pure-11074.html				pending
-marbert-man-pure-silver	Marbert Man Pure Silver		male		https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Pure-Silver-29999.html				pending
-marbert-man-too	Marbert Man Too		male		https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Too-11075.html				pending
-marbert-woman	Marbert Woman		female		https://www.fragrantica.com/perfume/Marbert/Marbert-Woman-11072.html				pending
-marbert-woman-red	Marbert Woman Red		female		https://www.fragrantica.com/perfume/Marbert/Marbert-Woman-Red-11079.html				pending
-scarf	Scarf		female		https://www.fragrantica.com/perfume/Marbert/Scarf-8995.html				pending
-scarf-taormina	Scarf Taormina		female		https://www.fragrantica.com/perfume/Marbert/Scarf-Taormina-8996.html				pending
-sun	Sun		female		https://www.fragrantica.com/perfume/Marbert/Sun-8740.html				pending
-sun-spirit	Sun Spirit		female		https://www.fragrantica.com/perfume/Marbert/Sun-Spirit-11080.html				pending
-tycoon	Tycoon		male		https://www.fragrantica.com/perfume/Marbert/Tycoon-30000.html				pending
-woman-pure	Woman Pure		female		https://www.fragrantica.com/perfume/Marbert/Woman-Pure-31826.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aroma-flower-harmony	Aroma Flower Harmony		female	https://www.fragrantica.com/perfume/Marbert/Aroma-Flower-Harmony-29996.html				pending
+aroma-fruit-harmony	Aroma Fruit Harmony		female	https://www.fragrantica.com/perfume/Marbert/Aroma-Fruit-Harmony-29997.html				pending
+authentic	Authentic		male	https://www.fragrantica.com/perfume/Marbert/Authentic-11077.html				pending
+clair-de-lune	Clair de Lune		female	https://www.fragrantica.com/perfume/Marbert/Clair-de-Lune-30001.html				pending
+classic	Classic		female	https://www.fragrantica.com/perfume/Marbert/Classic-29994.html				pending
+donna	Donna		female	https://www.fragrantica.com/perfume/Marbert/Donna-30002.html				pending
+energy	Energy		female	https://www.fragrantica.com/perfume/Marbert/Energy-8741.html				pending
+fresh	Fresh		female	https://www.fragrantica.com/perfume/Marbert/Fresh-29995.html				pending
+gentleman	Gentleman		male	https://www.fragrantica.com/perfume/Marbert/Gentleman-11078.html				pending
+marbert-homme	Marbert Homme		male	https://www.fragrantica.com/perfume/Marbert/Marbert-Homme-11076.html				pending
+marbert-man	Marbert Man		male	https://www.fragrantica.com/perfume/Marbert/Marbert-Man-11073.html				pending
+marbert-man-classic	Marbert Man Classic		male	https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Classic-29998.html				pending
+marbert-man-no-2	Marbert Man No.2		male	https://www.fragrantica.com/perfume/Marbert/Marbert-Man-No-2-11292.html				pending
+marbert-man-personality	Marbert Man Personality		male	https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Personality-30003.html				pending
+marbert-man-pure	Marbert Man Pure		male	https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Pure-11074.html				pending
+marbert-man-pure-silver	Marbert Man Pure Silver		male	https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Pure-Silver-29999.html				pending
+marbert-man-too	Marbert Man Too		male	https://www.fragrantica.com/perfume/Marbert/Marbert-Man-Too-11075.html				pending
+marbert-woman	Marbert Woman		female	https://www.fragrantica.com/perfume/Marbert/Marbert-Woman-11072.html				pending
+marbert-woman-red	Marbert Woman Red		female	https://www.fragrantica.com/perfume/Marbert/Marbert-Woman-Red-11079.html				pending
+scarf	Scarf		female	https://www.fragrantica.com/perfume/Marbert/Scarf-8995.html				pending
+scarf-taormina	Scarf Taormina		female	https://www.fragrantica.com/perfume/Marbert/Scarf-Taormina-8996.html				pending
+sun	Sun		female	https://www.fragrantica.com/perfume/Marbert/Sun-8740.html				pending
+sun-spirit	Sun Spirit		female	https://www.fragrantica.com/perfume/Marbert/Sun-Spirit-11080.html				pending
+tycoon	Tycoon		male	https://www.fragrantica.com/perfume/Marbert/Tycoon-30000.html				pending
+woman-pure	Woman Pure		female	https://www.fragrantica.com/perfume/Marbert/Woman-Pure-31826.html				pending

@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-better-man	A Better Man		male		https://www.fragrantica.com/perfume/Toni-Gard/A-Better-Man-46327.html				pending
-grl-pwr	GRL PWR		female		https://www.fragrantica.com/perfume/Toni-Gard/GRL-PWR-50596.html				pending
-mint	Mint		female		https://www.fragrantica.com/perfume/Toni-Gard/Mint-15285.html				pending
-mint-man	Mint Man		male		https://www.fragrantica.com/perfume/Toni-Gard/Mint-Man-18395.html				pending
-my-honey	My Honey		female		https://www.fragrantica.com/perfume/Toni-Gard/My-Honey-22484.html				pending
-sea-side	Sea Side		male		https://www.fragrantica.com/perfume/Toni-Gard/Sea-Side-29944.html				pending
-seaside-woman	SeaSide Woman		female		https://www.fragrantica.com/perfume/Toni-Gard/SeaSide-Woman-31230.html				pending
-seaside-women-eau-fraiche	Seaside Women Eau Fraiche		female		https://www.fragrantica.com/perfume/Toni-Gard/Seaside-Women-Eau-Fraiche-46328.html				pending
-toni	Toni		female		https://www.fragrantica.com/perfume/Toni-Gard/Toni-39516.html				pending
-toni-gard	Toni Gard		female		https://www.fragrantica.com/perfume/Toni-Gard/Toni-Gard-26124.html				pending
-toni-gard-man	Toni Gard Man		male		https://www.fragrantica.com/perfume/Toni-Gard/Toni-Gard-Man-10965.html				pending
-toni-gard-woman	Toni Gard Woman		female		https://www.fragrantica.com/perfume/Toni-Gard/Toni-Gard-Woman-10964.html				pending
-true-for-men	True for Men		male		https://www.fragrantica.com/perfume/Toni-Gard/True-for-Men-68242.html				pending
-true-for-women	True For Women		female		https://www.fragrantica.com/perfume/Toni-Gard/True-For-Women-68241.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-better-man	A Better Man		male	https://www.fragrantica.com/perfume/Toni-Gard/A-Better-Man-46327.html				pending
+grl-pwr	GRL PWR		female	https://www.fragrantica.com/perfume/Toni-Gard/GRL-PWR-50596.html				pending
+mint	Mint		female	https://www.fragrantica.com/perfume/Toni-Gard/Mint-15285.html				pending
+mint-man	Mint Man		male	https://www.fragrantica.com/perfume/Toni-Gard/Mint-Man-18395.html				pending
+my-honey	My Honey		female	https://www.fragrantica.com/perfume/Toni-Gard/My-Honey-22484.html				pending
+sea-side	Sea Side		male	https://www.fragrantica.com/perfume/Toni-Gard/Sea-Side-29944.html				pending
+seaside-woman	SeaSide Woman		female	https://www.fragrantica.com/perfume/Toni-Gard/SeaSide-Woman-31230.html				pending
+seaside-women-eau-fraiche	Seaside Women Eau Fraiche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Toni-Gard/Seaside-Women-Eau-Fraiche-46328.html				pending
+toni	Toni		female	https://www.fragrantica.com/perfume/Toni-Gard/Toni-39516.html				pending
+toni-gard	Toni Gard		female	https://www.fragrantica.com/perfume/Toni-Gard/Toni-Gard-26124.html				pending
+toni-gard-man	Toni Gard Man		male	https://www.fragrantica.com/perfume/Toni-Gard/Toni-Gard-Man-10965.html				pending
+toni-gard-woman	Toni Gard Woman		female	https://www.fragrantica.com/perfume/Toni-Gard/Toni-Gard-Woman-10964.html				pending
+true-for-men	True for Men		male	https://www.fragrantica.com/perfume/Toni-Gard/True-for-Men-68242.html				pending
+true-for-women	True For Women		female	https://www.fragrantica.com/perfume/Toni-Gard/True-For-Women-68241.html				pending

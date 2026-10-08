@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-babylon	Babylon		unisex		https://www.fragrantica.com/perfume/Anatoline/Babylon-52079.html				pending
-ephesus	EPHESUS		unisex		https://www.fragrantica.com/perfume/Anatoline/EPHESUS-71699.html				pending
-gobeklitepe	GOBEKLITEPE		unisex		https://www.fragrantica.com/perfume/Anatoline/GOBEKLITEPE-81477.html				pending
-hattusha	Hattusha		unisex		https://www.fragrantica.com/perfume/Anatoline/Hattusha-52080.html				pending
-ionia	Ionia		unisex		https://www.fragrantica.com/perfume/Anatoline/Ionia-52081.html				pending
-kybele	KYBELE		unisex		https://www.fragrantica.com/perfume/Anatoline/KYBELE-81478.html				pending
-mesopotamia	Mesopotamia		unisex		https://www.fragrantica.com/perfume/Anatoline/Mesopotamia-52082.html				pending
-phrygia	PHRYGIA		unisex		https://www.fragrantica.com/perfume/Anatoline/PHRYGIA-71698.html				pending
-shaman	SHAMAN		unisex		https://www.fragrantica.com/perfume/Anatoline/SHAMAN-81479.html				pending
-sumerian	SUMERIAN		unisex		https://www.fragrantica.com/perfume/Anatoline/SUMERIAN-71700.html				pending
-troia	TROIA		unisex		https://www.fragrantica.com/perfume/Anatoline/TROIA-71697.html				pending
-urartu	Urartu		unisex		https://www.fragrantica.com/perfume/Anatoline/Urartu-52083.html				pending
-voyage	Voyage		unisex		https://www.fragrantica.com/perfume/Anatoline/Voyage-52084.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+babylon	Babylon		unisex	https://www.fragrantica.com/perfume/Anatoline/Babylon-52079.html				pending
+ephesus	EPHESUS		unisex	https://www.fragrantica.com/perfume/Anatoline/EPHESUS-71699.html				pending
+gobeklitepe	GOBEKLITEPE		unisex	https://www.fragrantica.com/perfume/Anatoline/GOBEKLITEPE-81477.html				pending
+hattusha	Hattusha		unisex	https://www.fragrantica.com/perfume/Anatoline/Hattusha-52080.html				pending
+ionia	Ionia		unisex	https://www.fragrantica.com/perfume/Anatoline/Ionia-52081.html				pending
+kybele	KYBELE		unisex	https://www.fragrantica.com/perfume/Anatoline/KYBELE-81478.html				pending
+mesopotamia	Mesopotamia		unisex	https://www.fragrantica.com/perfume/Anatoline/Mesopotamia-52082.html				pending
+phrygia	PHRYGIA		unisex	https://www.fragrantica.com/perfume/Anatoline/PHRYGIA-71698.html				pending
+shaman	SHAMAN		unisex	https://www.fragrantica.com/perfume/Anatoline/SHAMAN-81479.html				pending
+sumerian	SUMERIAN		unisex	https://www.fragrantica.com/perfume/Anatoline/SUMERIAN-71700.html				pending
+troia	TROIA		unisex	https://www.fragrantica.com/perfume/Anatoline/TROIA-71697.html				pending
+urartu	Urartu		unisex	https://www.fragrantica.com/perfume/Anatoline/Urartu-52083.html				pending
+voyage	Voyage		unisex	https://www.fragrantica.com/perfume/Anatoline/Voyage-52084.html				pending

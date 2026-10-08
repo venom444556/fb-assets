@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-315	315		male		https://www.fragrantica.com/perfume/Carlo-Corinto/315-13321.html				pending
-blu-stremo	Blu Stremo		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Blu-Stremo-13330.html				pending
-carlo-cool	Carlo Cool		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Cool-13308.html				pending
-carlo-corinto	Carlo Corinto		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-13309.html				pending
-carlo-corinto-rouge	Carlo Corinto Rouge		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-Rouge-13310.html				pending
-carlo-corinto-silver	Carlo Corinto Silver		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-Silver-13311.html				pending
-carlo-corinto-sport	Carlo Corinto Sport		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-Sport-13312.html				pending
-carlo-corinto-vetyver	Carlo Corinto Vetyver		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-Vetyver-13313.html				pending
-carlo-noir-intense	Carlo Noir Intense		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Noir-Intense-13314.html				pending
-chester-and-peak	Chester & Peak		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Chester-Peak-13315.html				pending
-fare-follie	Fare Follie		female		https://www.fragrantica.com/perfume/Carlo-Corinto/Fare-Follie-13316.html				pending
-fare-gelato	Fare Gelato		female		https://www.fragrantica.com/perfume/Carlo-Corinto/Fare-Gelato-13322.html				pending
-femme	Femme		female		https://www.fragrantica.com/perfume/Carlo-Corinto/Femme-82427.html				pending
-femme-doree	Femme Dorée		female		https://www.fragrantica.com/perfume/Carlo-Corinto/Femme-Doree-82428.html				pending
-femme-verte	Femme Verte		female		https://www.fragrantica.com/perfume/Carlo-Corinto/Femme-Verte-82429.html				pending
-french-riviera-aqua-blanc	French Riviera Aqua Blanc		unisex		https://www.fragrantica.com/perfume/Carlo-Corinto/French-Riviera-Aqua-Blanc-13326.html				pending
-french-riviera-aqua-blue	French Riviera Aqua Blue		male		https://www.fragrantica.com/perfume/Carlo-Corinto/French-Riviera-Aqua-Blue-13328.html				pending
-french-riviera-aqua-rouge	French Riviera Aqua Rouge		female		https://www.fragrantica.com/perfume/Carlo-Corinto/French-Riviera-Aqua-Rouge-13327.html				pending
-linizio	L'Inizio		female		https://www.fragrantica.com/perfume/Carlo-Corinto/L-Inizio-13317.html				pending
-linizio-pour-homme	L'Inizio Pour Homme		male		https://www.fragrantica.com/perfume/Carlo-Corinto/L-Inizio-Pour-Homme-13318.html				pending
-linizio-sport	L'Inizio Sport		male		https://www.fragrantica.com/perfume/Carlo-Corinto/L-Inizio-Sport-13319.html				pending
-one-man	One Man		male		https://www.fragrantica.com/perfume/Carlo-Corinto/One-Man-91350.html				pending
-one-night	One Night		male		https://www.fragrantica.com/perfume/Carlo-Corinto/One-Night-91351.html				pending
-orange	Orange		male		https://www.fragrantica.com/perfume/Carlo-Corinto/Orange-13320.html				pending
-perhaps	Perhaps		female		https://www.fragrantica.com/perfume/Carlo-Corinto/Perhaps-13331.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+315	315		male	https://www.fragrantica.com/perfume/Carlo-Corinto/315-13321.html				pending
+blu-stremo	Blu Stremo		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Blu-Stremo-13330.html				pending
+carlo-cool	Carlo Cool		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Cool-13308.html				pending
+carlo-corinto	Carlo Corinto		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-13309.html				pending
+carlo-corinto-rouge	Carlo Corinto Rouge		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-Rouge-13310.html				pending
+carlo-corinto-silver	Carlo Corinto Silver		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-Silver-13311.html				pending
+carlo-corinto-sport	Carlo Corinto Sport		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-Sport-13312.html				pending
+carlo-corinto-vetyver	Carlo Corinto Vetyver		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Corinto-Vetyver-13313.html				pending
+carlo-noir-intense	Carlo Noir Intense		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Carlo-Noir-Intense-13314.html				pending
+chester-and-peak	Chester & Peak		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Chester-Peak-13315.html				pending
+fare-follie	Fare Follie		female	https://www.fragrantica.com/perfume/Carlo-Corinto/Fare-Follie-13316.html				pending
+fare-gelato	Fare Gelato		female	https://www.fragrantica.com/perfume/Carlo-Corinto/Fare-Gelato-13322.html				pending
+femme	Femme		female	https://www.fragrantica.com/perfume/Carlo-Corinto/Femme-82427.html				pending
+femme-doree	Femme Dorée		female	https://www.fragrantica.com/perfume/Carlo-Corinto/Femme-Doree-82428.html				pending
+femme-verte	Femme Verte		female	https://www.fragrantica.com/perfume/Carlo-Corinto/Femme-Verte-82429.html				pending
+french-riviera-aqua-blanc	French Riviera Aqua Blanc		unisex	https://www.fragrantica.com/perfume/Carlo-Corinto/French-Riviera-Aqua-Blanc-13326.html				pending
+french-riviera-aqua-blue	French Riviera Aqua Blue		male	https://www.fragrantica.com/perfume/Carlo-Corinto/French-Riviera-Aqua-Blue-13328.html				pending
+french-riviera-aqua-rouge	French Riviera Aqua Rouge		female	https://www.fragrantica.com/perfume/Carlo-Corinto/French-Riviera-Aqua-Rouge-13327.html				pending
+linizio	L'Inizio		female	https://www.fragrantica.com/perfume/Carlo-Corinto/L-Inizio-13317.html				pending
+linizio-pour-homme	L'Inizio Pour Homme		male	https://www.fragrantica.com/perfume/Carlo-Corinto/L-Inizio-Pour-Homme-13318.html				pending
+linizio-sport	L'Inizio Sport		male	https://www.fragrantica.com/perfume/Carlo-Corinto/L-Inizio-Sport-13319.html				pending
+one-man	One Man		male	https://www.fragrantica.com/perfume/Carlo-Corinto/One-Man-91350.html				pending
+one-night	One Night		male	https://www.fragrantica.com/perfume/Carlo-Corinto/One-Night-91351.html				pending
+orange	Orange		male	https://www.fragrantica.com/perfume/Carlo-Corinto/Orange-13320.html				pending
+perhaps	Perhaps		female	https://www.fragrantica.com/perfume/Carlo-Corinto/Perhaps-13331.html				pending

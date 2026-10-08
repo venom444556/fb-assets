@@ -1,28 +1,28 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-agrumato-di-costa	Agrumato di Costa		female		https://www.fragrantica.com/perfume/Erbario-Toscano/Agrumato-di-Costa-10575.html				pending
-bacche-di-tuscia	Bacche di Tuscia		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Bacche-di-Tuscia-39846.html				pending
-cuoio-bianco	Cuoio Bianco		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Cuoio-Bianco-94888.html				pending
-cuore-di-pepe-nero	Cuore di Pepe Nero		male		https://www.fragrantica.com/perfume/Erbario-Toscano/Cuore-di-Pepe-Nero-39854.html				pending
-elicriso-marino	Elicriso Marino		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Elicriso-Marino-94889.html				pending
-fico-delba	Fico d'Elba		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Fico-d-Elba-39848.html				pending
-fior-gentile	Fior Gentile		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Fior-Gentile-94890.html				pending
-foglia-ghiacciata	Foglia Ghiacciata		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Foglia-Ghiacciata-94891.html				pending
-fumo-di-oppio	Fumo di Oppio		male		https://www.fragrantica.com/perfume/Erbario-Toscano/Fumo-di-Oppio-39847.html				pending
-gocce-di-resina	Gocce di Resina		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Gocce-di-Resina-39850.html				pending
-iris-muschiato	Iris Muschiato		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Iris-Muschiato-94892.html				pending
-legno-di-rosa	Legno di Rosa		female		https://www.fragrantica.com/perfume/Erbario-Toscano/Legno-di-Rosa-39851.html				pending
-legno-patchouli	Legno Patchouli		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Legno-Patchouli-94893.html				pending
-noble-flowers	Noble Flowers		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Noble-Flowers-49744.html				pending
-polvere-di-siena	Polvere di Siena		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Polvere-di-Siena-39852.html				pending
-primavera-toscana	Primavera Toscana		female		https://www.fragrantica.com/perfume/Erbario-Toscano/Primavera-Toscana-39833.html				pending
-rabarbaro-esperidato	Rabarbaro Esperidato		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Rabarbaro-Esperidato-94894.html				pending
-salis	Salis		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Salis-46398.html				pending
-speziato-nero	Speziato Nero		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Speziato-Nero-94895.html				pending
-sugar-spicy	Sugar Spicy		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Sugar-Spicy-49743.html				pending
-tabacco-dolce	Tabacco Dolce		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Tabacco-Dolce-94896.html				pending
-terra	Terra		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Terra-94897.html				pending
-tuberosa-ambrata	Tuberosa Ambrata		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Tuberosa-Ambrata-94898.html				pending
-vaniglia-piccante	Vaniglia Piccante		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Vaniglia-Piccante-39849.html				pending
-violetta-nobile	Violetta Nobile		female		https://www.fragrantica.com/perfume/Erbario-Toscano/Violetta-Nobile-39853.html				pending
-wild-musk	Wild Musk		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Wild-Musk-49742.html				pending
-zafferano-rosa	Zafferano Rosa		unisex		https://www.fragrantica.com/perfume/Erbario-Toscano/Zafferano-Rosa-94899.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+agrumato-di-costa	Agrumato di Costa		female	https://www.fragrantica.com/perfume/Erbario-Toscano/Agrumato-di-Costa-10575.html				pending
+bacche-di-tuscia	Bacche di Tuscia		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Bacche-di-Tuscia-39846.html				pending
+cuoio-bianco	Cuoio Bianco		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Cuoio-Bianco-94888.html				pending
+cuore-di-pepe-nero	Cuore di Pepe Nero		male	https://www.fragrantica.com/perfume/Erbario-Toscano/Cuore-di-Pepe-Nero-39854.html				pending
+elicriso-marino	Elicriso Marino		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Elicriso-Marino-94889.html				pending
+fico-delba	Fico d'Elba		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Fico-d-Elba-39848.html				pending
+fior-gentile	Fior Gentile		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Fior-Gentile-94890.html				pending
+foglia-ghiacciata	Foglia Ghiacciata		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Foglia-Ghiacciata-94891.html				pending
+fumo-di-oppio	Fumo di Oppio		male	https://www.fragrantica.com/perfume/Erbario-Toscano/Fumo-di-Oppio-39847.html				pending
+gocce-di-resina	Gocce di Resina		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Gocce-di-Resina-39850.html				pending
+iris-muschiato	Iris Muschiato		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Iris-Muschiato-94892.html				pending
+legno-di-rosa	Legno di Rosa		female	https://www.fragrantica.com/perfume/Erbario-Toscano/Legno-di-Rosa-39851.html				pending
+legno-patchouli	Legno Patchouli		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Legno-Patchouli-94893.html				pending
+noble-flowers	Noble Flowers		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Noble-Flowers-49744.html				pending
+polvere-di-siena	Polvere di Siena		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Polvere-di-Siena-39852.html				pending
+primavera-toscana	Primavera Toscana		female	https://www.fragrantica.com/perfume/Erbario-Toscano/Primavera-Toscana-39833.html				pending
+rabarbaro-esperidato	Rabarbaro Esperidato		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Rabarbaro-Esperidato-94894.html				pending
+salis	Salis		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Salis-46398.html				pending
+speziato-nero	Speziato Nero		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Speziato-Nero-94895.html				pending
+sugar-spicy	Sugar Spicy		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Sugar-Spicy-49743.html				pending
+tabacco-dolce	Tabacco Dolce		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Tabacco-Dolce-94896.html				pending
+terra	Terra		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Terra-94897.html				pending
+tuberosa-ambrata	Tuberosa Ambrata		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Tuberosa-Ambrata-94898.html				pending
+vaniglia-piccante	Vaniglia Piccante		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Vaniglia-Piccante-39849.html				pending
+violetta-nobile	Violetta Nobile		female	https://www.fragrantica.com/perfume/Erbario-Toscano/Violetta-Nobile-39853.html				pending
+wild-musk	Wild Musk		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Wild-Musk-49742.html				pending
+zafferano-rosa	Zafferano Rosa		unisex	https://www.fragrantica.com/perfume/Erbario-Toscano/Zafferano-Rosa-94899.html				pending

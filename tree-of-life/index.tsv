@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-holy-herb	Holy Herb		male		https://www.fragrantica.com/perfume/Tree-Of-Life/Holy-Herb-79453.html				pending
-illuminating-rose	Illuminating Rose		female		https://www.fragrantica.com/perfume/Tree-Of-Life/Illuminating-Rose-79447.html				pending
-innocence-flower	Innocence Flower		female		https://www.fragrantica.com/perfume/Tree-Of-Life/Innocence-Flower-79451.html				pending
-silver-illusion	Silver Illusion		male		https://www.fragrantica.com/perfume/Tree-Of-Life/Silver-Illusion-79446.html				pending
-smoke-on-the-water	Smoke on the Water		male		https://www.fragrantica.com/perfume/Tree-Of-Life/Smoke-on-the-Water-79450.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+holy-herb	Holy Herb		male	https://www.fragrantica.com/perfume/Tree-Of-Life/Holy-Herb-79453.html				pending
+illuminating-rose	Illuminating Rose		female	https://www.fragrantica.com/perfume/Tree-Of-Life/Illuminating-Rose-79447.html				pending
+innocence-flower	Innocence Flower		female	https://www.fragrantica.com/perfume/Tree-Of-Life/Innocence-Flower-79451.html				pending
+silver-illusion	Silver Illusion		male	https://www.fragrantica.com/perfume/Tree-Of-Life/Silver-Illusion-79446.html				pending
+smoke-on-the-water	Smoke on the Water		male	https://www.fragrantica.com/perfume/Tree-Of-Life/Smoke-on-the-Water-79450.html				pending

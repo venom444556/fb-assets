@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amberess	Amberess		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Amberess-10996.html				pending
-enticing	Enticing		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Enticing-31279.html				pending
-fairchild	Fairchild		female		https://www.fragrantica.com/perfume/Anya-s-Garden/Fairchild-6950.html				pending
-kaffir	Kaffir		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Kaffir-6951.html				pending
-kewdra	Kewdra		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Kewdra-10997.html				pending
-light	Light		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Light-10995.html				pending
-moon-dance	Moon Dance		female		https://www.fragrantica.com/perfume/Anya-s-Garden/Moon-Dance-6952.html				pending
-pan	Pan		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Pan-6953.html				pending
-river-cali-prev-riverside	River Cali, prev. Riverside		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/River-Cali-prev-Riverside-6954.html				pending
-royal-lotus	Royal Lotus		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Royal-Lotus-13864.html				pending
-star-flower	Star Flower		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Star-Flower-6955.html				pending
-strange-magic	Strange Magic		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Strange-Magic-45801.html				pending
-temple	Temple		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Temple-6956.html				pending
-white-smoke	White Smoke		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/White-Smoke-14030.html				pending
-ylang-tincture-2014	Ylang Tincture 2014		unisex		https://www.fragrantica.com/perfume/Anya-s-Garden/Ylang-Tincture-2014-28966.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amberess	Amberess		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Amberess-10996.html				pending
+enticing	Enticing		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Enticing-31279.html				pending
+fairchild	Fairchild		female	https://www.fragrantica.com/perfume/Anya-s-Garden/Fairchild-6950.html				pending
+kaffir	Kaffir		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Kaffir-6951.html				pending
+kewdra	Kewdra		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Kewdra-10997.html				pending
+light	Light		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Light-10995.html				pending
+moon-dance	Moon Dance		female	https://www.fragrantica.com/perfume/Anya-s-Garden/Moon-Dance-6952.html				pending
+pan	Pan		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Pan-6953.html				pending
+river-cali-prev-riverside	River Cali, prev. Riverside		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/River-Cali-prev-Riverside-6954.html				pending
+royal-lotus	Royal Lotus		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Royal-Lotus-13864.html				pending
+star-flower	Star Flower		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Star-Flower-6955.html				pending
+strange-magic	Strange Magic		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Strange-Magic-45801.html				pending
+temple	Temple		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Temple-6956.html				pending
+white-smoke	White Smoke		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/White-Smoke-14030.html				pending
+ylang-tincture-2014	Ylang Tincture 2014		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Ylang-Tincture-2014-28966.html				pending

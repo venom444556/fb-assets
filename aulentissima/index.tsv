@@ -1,35 +1,35 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amande	Amande		female		https://www.fragrantica.com/perfume/Aulentissima/Amande-47648.html				pending
-animaanima	AnimaAnima		female		https://www.fragrantica.com/perfume/Aulentissima/AnimaAnima-78733.html				pending
-aqva-nobilissima-di-cedro	Aqva Nobilissima di Cedro		unisex		https://www.fragrantica.com/perfume/Aulentissima/Aqva-Nobilissima-di-Cedro-78724.html				pending
-berber	Berber		male		https://www.fragrantica.com/perfume/Aulentissima/Berber-78676.html				pending
-black-woman	Black Woman		unisex		https://www.fragrantica.com/perfume/Aulentissima/Black-Woman-78734.html				pending
-blohoud	Blohoud		unisex		https://www.fragrantica.com/perfume/Aulentissima/Blohoud-78725.html				pending
-capodimonte	Capodimonte		unisex		https://www.fragrantica.com/perfume/Aulentissima/Capodimonte-78678.html				pending
-gateway-of-india	Gateway of India		unisex		https://www.fragrantica.com/perfume/Aulentissima/Gateway-of-India-78681.html				pending
-higherbs	Higherbs		unisex		https://www.fragrantica.com/perfume/Aulentissima/Higherbs-78674.html				pending
-hirish-tobacco	Hirish Tobacco		male		https://www.fragrantica.com/perfume/Aulentissima/Hirish-Tobacco-78670.html				pending
-il-velo-di-maia	Il Velo di Maia		unisex		https://www.fragrantica.com/perfume/Aulentissima/Il-Velo-di-Maia-78680.html				pending
-is-flower	Is Flower		female		https://www.fragrantica.com/perfume/Aulentissima/Is-Flower-78728.html				pending
-issimamenthae	Issimamenthae		unisex		https://www.fragrantica.com/perfume/Aulentissima/Issimamenthae-78727.html				pending
-jardin-de-marrakesh	Jardin de Marrakesh		unisex		https://www.fragrantica.com/perfume/Aulentissima/Jardin-de-Marrakesh-47650.html				pending
-le-petit-rue	Le Petit Rue		female		https://www.fragrantica.com/perfume/Aulentissima/Le-Petit-Rue-78729.html				pending
-madrid-bar	Madrid Bar		unisex		https://www.fragrantica.com/perfume/Aulentissima/Madrid-Bar-78673.html				pending
-men-in-roses	Men in Roses		unisex		https://www.fragrantica.com/perfume/Aulentissima/Men-in-Roses-78730.html				pending
-o-h-v-gutt-b	O.H.V. Gutt B.		male		https://www.fragrantica.com/perfume/Aulentissima/O-H-V-Gutt-B-78684.html				pending
-oro-hubo	Oro Hubo		unisex		https://www.fragrantica.com/perfume/Aulentissima/Oro-Hubo-78723.html				pending
-paciu	Paciù		unisex		https://www.fragrantica.com/perfume/Aulentissima/Paciu-78671.html				pending
-palcoscenico	Palcoscenico		unisex		https://www.fragrantica.com/perfume/Aulentissima/Palcoscenico-85153.html				pending
-red-velvet	Red Velvet		unisex		https://www.fragrantica.com/perfume/Aulentissima/Red-Velvet-78732.html				pending
-rose-and-beer	Rose and Beer		unisex		https://www.fragrantica.com/perfume/Aulentissima/Rose-and-Beer-78668.html				pending
-sable	Sable		unisex		https://www.fragrantica.com/perfume/Aulentissima/Sable-78731.html				pending
-seven-oaks	Seven Oaks		unisex		https://www.fragrantica.com/perfume/Aulentissima/Seven-Oaks-78679.html				pending
-sporos	Spóros		unisex		https://www.fragrantica.com/perfume/Aulentissima/Sporos-78682.html				pending
-sullonda	Sull'Onda		unisex		https://www.fragrantica.com/perfume/Aulentissima/Sull-Onda-78669.html				pending
-terra-di-mezzo	Terra di Mezzo		male		https://www.fragrantica.com/perfume/Aulentissima/Terra-di-Mezzo-78672.html				pending
-the-queen-of-all-water	The Queen of All Water		unisex		https://www.fragrantica.com/perfume/Aulentissima/The-Queen-of-All-Water-47649.html				pending
-tupinamba	Tupinambà		unisex		https://www.fragrantica.com/perfume/Aulentissima/Tupinamba-47651.html				pending
-unknownfemale	Unknownfemale		female		https://www.fragrantica.com/perfume/Aulentissima/Unknownfemale-78677.html				pending
-womanday	Womanday		female		https://www.fragrantica.com/perfume/Aulentissima/Womanday-78675.html				pending
-woodylizer	Woodylizer		unisex		https://www.fragrantica.com/perfume/Aulentissima/Woodylizer-78726.html				pending
-zacamutra	Zacamutra		unisex		https://www.fragrantica.com/perfume/Aulentissima/Zacamutra-78683.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amande	Amande		female	https://www.fragrantica.com/perfume/Aulentissima/Amande-47648.html				pending
+animaanima	AnimaAnima		female	https://www.fragrantica.com/perfume/Aulentissima/AnimaAnima-78733.html				pending
+aqva-nobilissima-di-cedro	Aqva Nobilissima di Cedro		unisex	https://www.fragrantica.com/perfume/Aulentissima/Aqva-Nobilissima-di-Cedro-78724.html				pending
+berber	Berber		male	https://www.fragrantica.com/perfume/Aulentissima/Berber-78676.html				pending
+black-woman	Black Woman		unisex	https://www.fragrantica.com/perfume/Aulentissima/Black-Woman-78734.html				pending
+blohoud	Blohoud		unisex	https://www.fragrantica.com/perfume/Aulentissima/Blohoud-78725.html				pending
+capodimonte	Capodimonte		unisex	https://www.fragrantica.com/perfume/Aulentissima/Capodimonte-78678.html				pending
+gateway-of-india	Gateway of India		unisex	https://www.fragrantica.com/perfume/Aulentissima/Gateway-of-India-78681.html				pending
+higherbs	Higherbs		unisex	https://www.fragrantica.com/perfume/Aulentissima/Higherbs-78674.html				pending
+hirish-tobacco	Hirish Tobacco		male	https://www.fragrantica.com/perfume/Aulentissima/Hirish-Tobacco-78670.html				pending
+il-velo-di-maia	Il Velo di Maia		unisex	https://www.fragrantica.com/perfume/Aulentissima/Il-Velo-di-Maia-78680.html				pending
+is-flower	Is Flower		female	https://www.fragrantica.com/perfume/Aulentissima/Is-Flower-78728.html				pending
+issimamenthae	Issimamenthae		unisex	https://www.fragrantica.com/perfume/Aulentissima/Issimamenthae-78727.html				pending
+jardin-de-marrakesh	Jardin de Marrakesh		unisex	https://www.fragrantica.com/perfume/Aulentissima/Jardin-de-Marrakesh-47650.html				pending
+le-petit-rue	Le Petit Rue		female	https://www.fragrantica.com/perfume/Aulentissima/Le-Petit-Rue-78729.html				pending
+madrid-bar	Madrid Bar		unisex	https://www.fragrantica.com/perfume/Aulentissima/Madrid-Bar-78673.html				pending
+men-in-roses	Men in Roses		unisex	https://www.fragrantica.com/perfume/Aulentissima/Men-in-Roses-78730.html				pending
+o-h-v-gutt-b	O.H.V. Gutt B.		male	https://www.fragrantica.com/perfume/Aulentissima/O-H-V-Gutt-B-78684.html				pending
+oro-hubo	Oro Hubo		unisex	https://www.fragrantica.com/perfume/Aulentissima/Oro-Hubo-78723.html				pending
+paciu	Paciù		unisex	https://www.fragrantica.com/perfume/Aulentissima/Paciu-78671.html				pending
+palcoscenico	Palcoscenico		unisex	https://www.fragrantica.com/perfume/Aulentissima/Palcoscenico-85153.html				pending
+red-velvet	Red Velvet		unisex	https://www.fragrantica.com/perfume/Aulentissima/Red-Velvet-78732.html				pending
+rose-and-beer	Rose and Beer		unisex	https://www.fragrantica.com/perfume/Aulentissima/Rose-and-Beer-78668.html				pending
+sable	Sable		unisex	https://www.fragrantica.com/perfume/Aulentissima/Sable-78731.html				pending
+seven-oaks	Seven Oaks		unisex	https://www.fragrantica.com/perfume/Aulentissima/Seven-Oaks-78679.html				pending
+sporos	Spóros		unisex	https://www.fragrantica.com/perfume/Aulentissima/Sporos-78682.html				pending
+sullonda	Sull'Onda		unisex	https://www.fragrantica.com/perfume/Aulentissima/Sull-Onda-78669.html				pending
+terra-di-mezzo	Terra di Mezzo		male	https://www.fragrantica.com/perfume/Aulentissima/Terra-di-Mezzo-78672.html				pending
+the-queen-of-all-water	The Queen of All Water		unisex	https://www.fragrantica.com/perfume/Aulentissima/The-Queen-of-All-Water-47649.html				pending
+tupinamba	Tupinambà		unisex	https://www.fragrantica.com/perfume/Aulentissima/Tupinamba-47651.html				pending
+unknownfemale	Unknownfemale		female	https://www.fragrantica.com/perfume/Aulentissima/Unknownfemale-78677.html				pending
+womanday	Womanday		female	https://www.fragrantica.com/perfume/Aulentissima/Womanday-78675.html				pending
+woodylizer	Woodylizer		unisex	https://www.fragrantica.com/perfume/Aulentissima/Woodylizer-78726.html				pending
+zacamutra	Zacamutra		unisex	https://www.fragrantica.com/perfume/Aulentissima/Zacamutra-78683.html				pending

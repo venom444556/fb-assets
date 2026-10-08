@@ -1,21 +1,21 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-celtic-knorr	Celtic Knorr		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Celtic-Knorr-79747.html				pending
-celtic-triquetra	Celtic Triquetra		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Celtic-Triquetra-79748.html				pending
-celtic-yggdrasil	Celtic Yggdrasil		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Celtic-Yggdrasil-79749.html				pending
-charming-explosion	Charming Explosion		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Charming-Explosion-74654.html				pending
-dubai	Dubai		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Dubai-79742.html				pending
-icarus	Icarus		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Icarus-77380.html				pending
-icarus-intense	Icarus Intense		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Icarus-Intense-77382.html				pending
-icarus-noir	Icarus Noir		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Icarus-Noir-77381.html				pending
-london	London		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/London-79743.html				pending
-luban-tobacco	Luban Tobacco		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Luban-Tobacco-74655.html				pending
-luban-vetiver	Luban Vetiver		male		https://www.fragrantica.com/perfume/Trend-Perfumes/Luban-Vetiver-74656.html				pending
-moscow	Moscow		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Moscow-79744.html				pending
-new-york	New York		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/New-York-79745.html				pending
-oud-divine	Oud Divine		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Oud-Divine-74657.html				pending
-oud-explosion	Oud Explosion		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Oud-Explosion-74658.html				pending
-oud-of-night	Oud of Night		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Oud-of-Night-74659.html				pending
-paris	Paris		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Paris-79746.html				pending
-patchouli-intense	Patchouli Intense		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Patchouli-Intense-74660.html				pending
-royal-leather	Royal Leather		male		https://www.fragrantica.com/perfume/Trend-Perfumes/Royal-Leather-74661.html				pending
-smoky-vanilla	Smoky Vanilla		unisex		https://www.fragrantica.com/perfume/Trend-Perfumes/Smoky-Vanilla-74662.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+celtic-knorr	Celtic Knorr		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Celtic-Knorr-79747.html				pending
+celtic-triquetra	Celtic Triquetra		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Celtic-Triquetra-79748.html				pending
+celtic-yggdrasil	Celtic Yggdrasil		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Celtic-Yggdrasil-79749.html				pending
+charming-explosion	Charming Explosion		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Charming-Explosion-74654.html				pending
+dubai	Dubai		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Dubai-79742.html				pending
+icarus	Icarus		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Icarus-77380.html				pending
+icarus-intense	Icarus Intense		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Icarus-Intense-77382.html				pending
+icarus-noir	Icarus Noir		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Icarus-Noir-77381.html				pending
+london	London		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/London-79743.html				pending
+luban-tobacco	Luban Tobacco		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Luban-Tobacco-74655.html				pending
+luban-vetiver	Luban Vetiver		male	https://www.fragrantica.com/perfume/Trend-Perfumes/Luban-Vetiver-74656.html				pending
+moscow	Moscow		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Moscow-79744.html				pending
+new-york	New York		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/New-York-79745.html				pending
+oud-divine	Oud Divine		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Oud-Divine-74657.html				pending
+oud-explosion	Oud Explosion		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Oud-Explosion-74658.html				pending
+oud-of-night	Oud of Night		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Oud-of-Night-74659.html				pending
+paris	Paris		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Paris-79746.html				pending
+patchouli-intense	Patchouli Intense		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Patchouli-Intense-74660.html				pending
+royal-leather	Royal Leather		male	https://www.fragrantica.com/perfume/Trend-Perfumes/Royal-Leather-74661.html				pending
+smoky-vanilla	Smoky Vanilla		unisex	https://www.fragrantica.com/perfume/Trend-Perfumes/Smoky-Vanilla-74662.html				pending

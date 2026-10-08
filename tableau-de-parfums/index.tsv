@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ingrid	Ingrid		female		https://www.fragrantica.com/perfume/Tableau-de-Parfums/Ingrid-22061.html				pending
-loretta	Loretta		female		https://www.fragrantica.com/perfume/Tableau-de-Parfums/Loretta-16488.html				pending
-miriam	Miriam		female		https://www.fragrantica.com/perfume/Tableau-de-Parfums/Miriam-13565.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ingrid	Ingrid		female	https://www.fragrantica.com/perfume/Tableau-de-Parfums/Ingrid-22061.html				pending
+loretta	Loretta		female	https://www.fragrantica.com/perfume/Tableau-de-Parfums/Loretta-16488.html				pending
+miriam	Miriam		female	https://www.fragrantica.com/perfume/Tableau-de-Parfums/Miriam-13565.html				pending

@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-femme-noir	Femme Noir		female		https://www.fragrantica.com/perfume/Jean-Marc-Paris/Femme-Noir-83083.html				pending
-homme-noir	Homme Noir		male		https://www.fragrantica.com/perfume/Jean-Marc-Paris/Homme-Noir-96125.html				pending
-sexy-secret	Sexy Secret		female		https://www.fragrantica.com/perfume/Jean-Marc-Paris/Sexy-Secret-83033.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+femme-noir	Femme Noir		female	https://www.fragrantica.com/perfume/Jean-Marc-Paris/Femme-Noir-83083.html				pending
+homme-noir	Homme Noir		male	https://www.fragrantica.com/perfume/Jean-Marc-Paris/Homme-Noir-96125.html				pending
+sexy-secret	Sexy Secret		female	https://www.fragrantica.com/perfume/Jean-Marc-Paris/Sexy-Secret-83033.html				pending

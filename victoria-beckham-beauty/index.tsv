@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-21-50-reverie	21:50 Rêverie		unisex		https://www.fragrantica.com/perfume/Victoria-Beckham-Beauty/21-50-Reverie-97667.html				pending
-portofino97	Portofino'97		unisex		https://www.fragrantica.com/perfume/Victoria-Beckham-Beauty/Portofino-97-85720.html				pending
-san-ysidro-drive	San Ysidro Drive		unisex		https://www.fragrantica.com/perfume/Victoria-Beckham-Beauty/San-Ysidro-Drive-85793.html				pending
-suite-302	Suite 302		unisex		https://www.fragrantica.com/perfume/Victoria-Beckham-Beauty/Suite-302-85792.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+21-50-reverie	21:50 Rêverie		unisex	https://www.fragrantica.com/perfume/Victoria-Beckham-Beauty/21-50-Reverie-97667.html				pending
+portofino97	Portofino'97		unisex	https://www.fragrantica.com/perfume/Victoria-Beckham-Beauty/Portofino-97-85720.html				pending
+san-ysidro-drive	San Ysidro Drive		unisex	https://www.fragrantica.com/perfume/Victoria-Beckham-Beauty/San-Ysidro-Drive-85793.html				pending
+suite-302	Suite 302		unisex	https://www.fragrantica.com/perfume/Victoria-Beckham-Beauty/Suite-302-85792.html				pending

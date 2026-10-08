@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-dead-air	Dead Air		unisex		https://www.fragrantica.com/perfume/Oddity/Dead-Air-77568.html				pending
-delulu	Delulu		unisex		https://www.fragrantica.com/perfume/Oddity/Delulu-105313.html				pending
-naked-dance	Naked Dance		unisex		https://www.fragrantica.com/perfume/Oddity/Naked-Dance-75617.html				pending
-resonant	Resonant		unisex		https://www.fragrantica.com/perfume/Oddity/Resonant-77569.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+dead-air	Dead Air		unisex	https://www.fragrantica.com/perfume/Oddity/Dead-Air-77568.html				pending
+delulu	Delulu		unisex	https://www.fragrantica.com/perfume/Oddity/Delulu-105313.html				pending
+naked-dance	Naked Dance		unisex	https://www.fragrantica.com/perfume/Oddity/Naked-Dance-75617.html				pending
+resonant	Resonant		unisex	https://www.fragrantica.com/perfume/Oddity/Resonant-77569.html				pending

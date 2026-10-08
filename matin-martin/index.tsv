@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-crown-eau-de-parfum	CROWN EAU DE PARFUM		unisex		https://www.fragrantica.com/perfume/Matin-Martin/CROWN-EAU-DE-PARFUM-84690.html				pending
-jameela-eau-de-parfum	JAMEELA EAU DE PARFUM		female		https://www.fragrantica.com/perfume/Matin-Martin/JAMEELA-EAU-DE-PARFUM-75198.html				pending
-lady-roza-eau-de-parfum	LADY ROZA EAU DE PARFUM		female		https://www.fragrantica.com/perfume/Matin-Martin/LADY-ROZA-EAU-DE-PARFUM-75197.html				pending
-limitless-eau-de-parfum	LIMITLESS EAU DE PARFUM		male		https://www.fragrantica.com/perfume/Matin-Martin/LIMITLESS-EAU-DE-PARFUM-75196.html				pending
-miral-eau-de-parfum	MIRAL EAU DE PARFUM		female		https://www.fragrantica.com/perfume/Matin-Martin/MIRAL-EAU-DE-PARFUM-75195.html				pending
-santorini-eau-de-parfum	SANTORINI EAU DE PARFUM		unisex		https://www.fragrantica.com/perfume/Matin-Martin/SANTORINI-EAU-DE-PARFUM-84692.html				pending
-shahama-eau-de-parfum	SHAHAMA EAU DE PARFUM		male		https://www.fragrantica.com/perfume/Matin-Martin/SHAHAMA-EAU-DE-PARFUM-75193.html				pending
-silky-saffron-eau-de-parfum	SILKY SAFFRON EAU DE PARFUM		unisex		https://www.fragrantica.com/perfume/Matin-Martin/SILKY-SAFFRON-EAU-DE-PARFUM-75194.html				pending
-wild-and-spicy-eau-de-parfum	WILD & SPICY EAU DE PARFUM		male		https://www.fragrantica.com/perfume/Matin-Martin/WILD-SPICY-EAU-DE-PARFUM-75192.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+crown-eau-de-parfum	CROWN EAU DE PARFUM	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Matin-Martin/CROWN-EAU-DE-PARFUM-84690.html				pending
+jameela-eau-de-parfum	JAMEELA EAU DE PARFUM	Eau de Parfum	female	https://www.fragrantica.com/perfume/Matin-Martin/JAMEELA-EAU-DE-PARFUM-75198.html				pending
+lady-roza-eau-de-parfum	LADY ROZA EAU DE PARFUM	Eau de Parfum	female	https://www.fragrantica.com/perfume/Matin-Martin/LADY-ROZA-EAU-DE-PARFUM-75197.html				pending
+limitless-eau-de-parfum	LIMITLESS EAU DE PARFUM	Eau de Parfum	male	https://www.fragrantica.com/perfume/Matin-Martin/LIMITLESS-EAU-DE-PARFUM-75196.html				pending
+miral-eau-de-parfum	MIRAL EAU DE PARFUM	Eau de Parfum	female	https://www.fragrantica.com/perfume/Matin-Martin/MIRAL-EAU-DE-PARFUM-75195.html				pending
+santorini-eau-de-parfum	SANTORINI EAU DE PARFUM	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Matin-Martin/SANTORINI-EAU-DE-PARFUM-84692.html				pending
+shahama-eau-de-parfum	SHAHAMA EAU DE PARFUM	Eau de Parfum	male	https://www.fragrantica.com/perfume/Matin-Martin/SHAHAMA-EAU-DE-PARFUM-75193.html				pending
+silky-saffron-eau-de-parfum	SILKY SAFFRON EAU DE PARFUM	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Matin-Martin/SILKY-SAFFRON-EAU-DE-PARFUM-75194.html				pending
+wild-and-spicy-eau-de-parfum	WILD & SPICY EAU DE PARFUM	Eau de Parfum	male	https://www.fragrantica.com/perfume/Matin-Martin/WILD-SPICY-EAU-DE-PARFUM-75192.html				pending

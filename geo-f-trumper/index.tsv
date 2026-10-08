@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ajaccio-violets-cologne	Ajaccio Violets Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Ajaccio-Violets-Cologne-4988.html				pending
-astor-cologne	Astor Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Astor-Cologne-4996.html				pending
-bay-rum-cologne	Bay Rum Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Bay-Rum-Cologne-4997.html				pending
-curzon-cologne	Curzon Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Curzon-Cologne-4998.html				pending
-eau-de-cologne-geo-f-trumper	Eau de Cologne Geo. F. Trumper		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Eau-de-Cologne-Geo-F-Trumper-4999.html				pending
-eau-de-portugal	Eau de Portugal		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Eau-de-Portugal-5014.html				pending
-eau-de-quinine	Eau de Quinine		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Eau-de-Quinine-5015.html				pending
-eclipse	Eclipse		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Eclipse-87676.html				pending
-eucris-eau-de-parfum	Eucris Eau de Parfum		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Eucris-Eau-de-Parfum-49868.html				pending
-eucris-eau-de-toilette	Eucris Eau de Toilette		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Eucris-Eau-de-Toilette-5012.html				pending
-extract-of-limes-cologne	Extract of Limes Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Extract-of-Limes-Cologne-5000.html				pending
-gft	GFT		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/GFT-5004.html				pending
-havana-cologne	Havana Cologne		unisex		https://www.fragrantica.com/perfume/Geo-F-Trumper/Havana-Cologne-63748.html				pending
-lavender-water	Lavender Water		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Lavender-Water-5013.html				pending
-marlborough-cologne	Marlborough Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Marlborough-Cologne-5005.html				pending
-mayfair	Mayfair		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Mayfair-87675.html				pending
-milk-of-flowers-cologne	Milk of Flowers Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Milk-of-Flowers-Cologne-5007.html				pending
-paisley	Paisley		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Paisley-50989.html				pending
-san-remo-cologne	San Remo Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/San-Remo-Cologne-42092.html				pending
-sandalwood-cologne	Sandalwood Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Sandalwood-Cologne-5006.html				pending
-skye	Skye		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Skye-5008.html				pending
-spanish-leather-cologne	Spanish Leather Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Spanish-Leather-Cologne-5009.html				pending
-wellington-cologne	Wellington Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Wellington-Cologne-5010.html				pending
-wild-fern-cologne	Wild Fern Cologne		male		https://www.fragrantica.com/perfume/Geo-F-Trumper/Wild-Fern-Cologne-5011.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ajaccio-violets-cologne	Ajaccio Violets Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Ajaccio-Violets-Cologne-4988.html				pending
+astor-cologne	Astor Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Astor-Cologne-4996.html				pending
+bay-rum-cologne	Bay Rum Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Bay-Rum-Cologne-4997.html				pending
+curzon-cologne	Curzon Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Curzon-Cologne-4998.html				pending
+eau-de-cologne-geo-f-trumper	Eau de Cologne Geo. F. Trumper	Eau de Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Eau-de-Cologne-Geo-F-Trumper-4999.html				pending
+eau-de-portugal	Eau de Portugal		male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Eau-de-Portugal-5014.html				pending
+eau-de-quinine	Eau de Quinine		male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Eau-de-Quinine-5015.html				pending
+eclipse	Eclipse		male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Eclipse-87676.html				pending
+eucris-eau-de-parfum	Eucris Eau de Parfum	Eau de Parfum	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Eucris-Eau-de-Parfum-49868.html				pending
+eucris-eau-de-toilette	Eucris Eau de Toilette	Eau de Toilette	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Eucris-Eau-de-Toilette-5012.html				pending
+extract-of-limes-cologne	Extract of Limes Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Extract-of-Limes-Cologne-5000.html				pending
+gft	GFT		male	https://www.fragrantica.com/perfume/Geo-F-Trumper/GFT-5004.html				pending
+havana-cologne	Havana Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Geo-F-Trumper/Havana-Cologne-63748.html				pending
+lavender-water	Lavender Water		male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Lavender-Water-5013.html				pending
+marlborough-cologne	Marlborough Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Marlborough-Cologne-5005.html				pending
+mayfair	Mayfair		male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Mayfair-87675.html				pending
+milk-of-flowers-cologne	Milk of Flowers Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Milk-of-Flowers-Cologne-5007.html				pending
+paisley	Paisley		male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Paisley-50989.html				pending
+san-remo-cologne	San Remo Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/San-Remo-Cologne-42092.html				pending
+sandalwood-cologne	Sandalwood Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Sandalwood-Cologne-5006.html				pending
+skye	Skye		male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Skye-5008.html				pending
+spanish-leather-cologne	Spanish Leather Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Spanish-Leather-Cologne-5009.html				pending
+wellington-cologne	Wellington Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Wellington-Cologne-5010.html				pending
+wild-fern-cologne	Wild Fern Cologne	Cologne	male	https://www.fragrantica.com/perfume/Geo-F-Trumper/Wild-Fern-Cologne-5011.html				pending

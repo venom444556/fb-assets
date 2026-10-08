@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-anbar	Anbar		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Anbar-77563.html				pending
-brindaban	Brindaban		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Brindaban-57172.html				pending
-charbagh	Charbagh		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Charbagh-57173.html				pending
-emperor-hind	Emperor Hind		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Emperor-Hind-58831.html				pending
-emperors-court	Emperor’s Court		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Emperor-s-Court-70621.html				pending
-ghaliyah-ghazali	Ghaliyah Ghazali		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Ghaliyah-Ghazali-81892.html				pending
-ghaliyah-hind	Ghaliyah Hind		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Ghaliyah-Hind-68604.html				pending
-ghaliyah-reflection	Ghaliyah Reflection		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Ghaliyah-Reflection-89463.html				pending
-hindi-tabac	Hindi Tabac		male		https://www.fragrantica.com/perfume/Dixit-Zak/Hindi-Tabac-74621.html				pending
-kashmir-nuit	Kashmir Nuit		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Kashmir-Nuit-63013.html				pending
-lucky-santal	Lucky Santal		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Lucky-Santal-71950.html				pending
-oud-berry	Oud Berry		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Oud-Berry-87940.html				pending
-oud-mon-cheri	Oud Mon Cheri		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Oud-Mon-Cheri-81891.html				pending
-oud-rosa	Oud Rosa		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Oud-Rosa-75336.html				pending
-paradis-tropical	Paradis Tropical		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Paradis-Tropical-65331.html				pending
-persian-musk	Persian Musk		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Persian-Musk-87939.html				pending
-rising-cologne	Rising Cologne		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Rising-Cologne-72758.html				pending
-rising-mysore	Rising Mysore		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Rising-Mysore-57841.html				pending
-rising-mysore-2	Rising Mysore 2		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Rising-Mysore-2-62924.html				pending
-rising-mysore-3	Rising Mysore 3		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Rising-Mysore-3-67799.html				pending
-santal-oud	Santal Oud		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Santal-Oud-70619.html				pending
-the-nightingale	The Nightingale		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/The-Nightingale-70620.html				pending
-tibetan-ensens	Tibetan Ensens		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Tibetan-Ensens-81893.html				pending
-vintage-84	Vintage 84		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Vintage-84-65330.html				pending
-yellow-lemon-tree	Yellow Lemon Tree		unisex		https://www.fragrantica.com/perfume/Dixit-Zak/Yellow-Lemon-Tree-67798.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+anbar	Anbar		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Anbar-77563.html				pending
+brindaban	Brindaban		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Brindaban-57172.html				pending
+charbagh	Charbagh		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Charbagh-57173.html				pending
+emperor-hind	Emperor Hind		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Emperor-Hind-58831.html				pending
+emperors-court	Emperor’s Court		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Emperor-s-Court-70621.html				pending
+ghaliyah-ghazali	Ghaliyah Ghazali		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Ghaliyah-Ghazali-81892.html				pending
+ghaliyah-hind	Ghaliyah Hind		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Ghaliyah-Hind-68604.html				pending
+ghaliyah-reflection	Ghaliyah Reflection		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Ghaliyah-Reflection-89463.html				pending
+hindi-tabac	Hindi Tabac		male	https://www.fragrantica.com/perfume/Dixit-Zak/Hindi-Tabac-74621.html				pending
+kashmir-nuit	Kashmir Nuit		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Kashmir-Nuit-63013.html				pending
+lucky-santal	Lucky Santal		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Lucky-Santal-71950.html				pending
+oud-berry	Oud Berry		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Oud-Berry-87940.html				pending
+oud-mon-cheri	Oud Mon Cheri		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Oud-Mon-Cheri-81891.html				pending
+oud-rosa	Oud Rosa		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Oud-Rosa-75336.html				pending
+paradis-tropical	Paradis Tropical		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Paradis-Tropical-65331.html				pending
+persian-musk	Persian Musk		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Persian-Musk-87939.html				pending
+rising-cologne	Rising Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Rising-Cologne-72758.html				pending
+rising-mysore	Rising Mysore		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Rising-Mysore-57841.html				pending
+rising-mysore-2	Rising Mysore 2		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Rising-Mysore-2-62924.html				pending
+rising-mysore-3	Rising Mysore 3		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Rising-Mysore-3-67799.html				pending
+santal-oud	Santal Oud		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Santal-Oud-70619.html				pending
+the-nightingale	The Nightingale		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/The-Nightingale-70620.html				pending
+tibetan-ensens	Tibetan Ensens		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Tibetan-Ensens-81893.html				pending
+vintage-84	Vintage 84		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Vintage-84-65330.html				pending
+yellow-lemon-tree	Yellow Lemon Tree		unisex	https://www.fragrantica.com/perfume/Dixit-Zak/Yellow-Lemon-Tree-67798.html				pending

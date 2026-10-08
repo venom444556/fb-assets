@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-between-us	Between Us		female		https://www.fragrantica.com/perfume/One-Direction/Between-Us-31393.html				pending
-our-moment	Our Moment		female		https://www.fragrantica.com/perfume/One-Direction/Our-Moment-18810.html				pending
-that-moment	That Moment		female		https://www.fragrantica.com/perfume/One-Direction/That-Moment-24059.html				pending
-you-and-i	You & I		female		https://www.fragrantica.com/perfume/One-Direction/You-I-26663.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+between-us	Between Us		female	https://www.fragrantica.com/perfume/One-Direction/Between-Us-31393.html				pending
+our-moment	Our Moment		female	https://www.fragrantica.com/perfume/One-Direction/Our-Moment-18810.html				pending
+that-moment	That Moment		female	https://www.fragrantica.com/perfume/One-Direction/That-Moment-24059.html				pending
+you-and-i	You & I		female	https://www.fragrantica.com/perfume/One-Direction/You-I-26663.html				pending

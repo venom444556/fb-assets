@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-australian-wild-jasmine	Australian Wild Jasmine		female		https://www.fragrantica.com/perfume/Lucy-B/Australian-Wild-Jasmine-6915.html				pending
-pink-frangipani	Pink Frangipani		female		https://www.fragrantica.com/perfume/Lucy-B/Pink-Frangipani-6913.html				pending
-royal-egyptian-amber-and-honeysuckle	Royal Egyptian Amber and Honeysuckle		female		https://www.fragrantica.com/perfume/Lucy-B/Royal-Egyptian-Amber-and-Honeysuckle-10922.html				pending
-royal-green-fig-and-vanilla-woods	Royal Green Fig and Vanilla Woods		female		https://www.fragrantica.com/perfume/Lucy-B/Royal-Green-Fig-and-Vanilla-Woods-10920.html				pending
-royal-peony-rose-and-mandarin-musk	Royal Peony Rose and Mandarin Musk		female		https://www.fragrantica.com/perfume/Lucy-B/Royal-Peony-Rose-and-Mandarin-Musk-10921.html				pending
-royal-water-lotus-and-vanilla-musk	Royal Water Lotus and Vanilla Musk		female		https://www.fragrantica.com/perfume/Lucy-B/Royal-Water-Lotus-and-Vanilla-Musk-10925.html				pending
-tiare-coconut	Tiare Coconut		female		https://www.fragrantica.com/perfume/Lucy-B/Tiare-Coconut-6914.html				pending
-tropical-gardenia	Tropical Gardenia		female		https://www.fragrantica.com/perfume/Lucy-B/Tropical-Gardenia-6916.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+australian-wild-jasmine	Australian Wild Jasmine		female	https://www.fragrantica.com/perfume/Lucy-B/Australian-Wild-Jasmine-6915.html				pending
+pink-frangipani	Pink Frangipani		female	https://www.fragrantica.com/perfume/Lucy-B/Pink-Frangipani-6913.html				pending
+royal-egyptian-amber-and-honeysuckle	Royal Egyptian Amber and Honeysuckle		female	https://www.fragrantica.com/perfume/Lucy-B/Royal-Egyptian-Amber-and-Honeysuckle-10922.html				pending
+royal-green-fig-and-vanilla-woods	Royal Green Fig and Vanilla Woods		female	https://www.fragrantica.com/perfume/Lucy-B/Royal-Green-Fig-and-Vanilla-Woods-10920.html				pending
+royal-peony-rose-and-mandarin-musk	Royal Peony Rose and Mandarin Musk		female	https://www.fragrantica.com/perfume/Lucy-B/Royal-Peony-Rose-and-Mandarin-Musk-10921.html				pending
+royal-water-lotus-and-vanilla-musk	Royal Water Lotus and Vanilla Musk		female	https://www.fragrantica.com/perfume/Lucy-B/Royal-Water-Lotus-and-Vanilla-Musk-10925.html				pending
+tiare-coconut	Tiare Coconut		female	https://www.fragrantica.com/perfume/Lucy-B/Tiare-Coconut-6914.html				pending
+tropical-gardenia	Tropical Gardenia		female	https://www.fragrantica.com/perfume/Lucy-B/Tropical-Gardenia-6916.html				pending

@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-rose-is-a-rose	A Rose is a Rose		unisex		https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/A-Rose-is-a-Rose-99604.html				pending
-crazy-garden	Crazy Garden		unisex		https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/Crazy-Garden-99605.html				pending
-encens-insense	Encens Insensé		unisex		https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/Encens-Insense-99606.html				pending
-innocent-tuberose	Innocent Tuberose		unisex		https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/Innocent-Tuberose-99607.html				pending
-my-clementine	My Clémentine		unisex		https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/My-Clementine-99608.html				pending
-oud-a-lamour	Oud à l’Amour		unisex		https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/Oud-a-l-Amour-99609.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-rose-is-a-rose	A Rose is a Rose		unisex	https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/A-Rose-is-a-Rose-99604.html				pending
+crazy-garden	Crazy Garden		unisex	https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/Crazy-Garden-99605.html				pending
+encens-insense	Encens Insensé		unisex	https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/Encens-Insense-99606.html				pending
+innocent-tuberose	Innocent Tuberose		unisex	https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/Innocent-Tuberose-99607.html				pending
+my-clementine	My Clémentine		unisex	https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/My-Clementine-99608.html				pending
+oud-a-lamour	Oud à l’Amour		unisex	https://www.fragrantica.com/perfume/Aphorismes-by-Dominique-Ropion/Oud-a-l-Amour-99609.html				pending

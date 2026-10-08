@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-collectors-edition	Collector’s Edition		female		https://www.fragrantica.com/perfume/Justin-Bieber/Collector-s-Edition-25988.html				pending
-girlfriend	Girlfriend		female		https://www.fragrantica.com/perfume/Justin-Bieber/Girlfriend-15287.html				pending
-next-girlfriend	Next Girlfriend		female		https://www.fragrantica.com/perfume/Justin-Bieber/Next-Girlfriend-23416.html				pending
-someday	Someday		female		https://www.fragrantica.com/perfume/Justin-Bieber/Someday-12365.html				pending
-someday-limited-edition-eau-de-parfum	Someday Limited Edition Eau de Parfum		female		https://www.fragrantica.com/perfume/Justin-Bieber/Someday-Limited-Edition-Eau-de-Parfum-14233.html				pending
-someday-summer-edition	Someday Summer Edition		female		https://www.fragrantica.com/perfume/Justin-Bieber/Someday-Summer-Edition-18170.html				pending
-the-key	The Key		female		https://www.fragrantica.com/perfume/Justin-Bieber/The-Key-18665.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+collectors-edition	Collector’s Edition		female	https://www.fragrantica.com/perfume/Justin-Bieber/Collector-s-Edition-25988.html				pending
+girlfriend	Girlfriend		female	https://www.fragrantica.com/perfume/Justin-Bieber/Girlfriend-15287.html				pending
+next-girlfriend	Next Girlfriend		female	https://www.fragrantica.com/perfume/Justin-Bieber/Next-Girlfriend-23416.html				pending
+someday	Someday		female	https://www.fragrantica.com/perfume/Justin-Bieber/Someday-12365.html				pending
+someday-limited-edition-eau-de-parfum	Someday Limited Edition Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Justin-Bieber/Someday-Limited-Edition-Eau-de-Parfum-14233.html				pending
+someday-summer-edition	Someday Summer Edition		female	https://www.fragrantica.com/perfume/Justin-Bieber/Someday-Summer-Edition-18170.html				pending
+the-key	The Key		female	https://www.fragrantica.com/perfume/Justin-Bieber/The-Key-18665.html				pending

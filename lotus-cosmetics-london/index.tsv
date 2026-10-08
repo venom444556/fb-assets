@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-kalemaat	Amber Kalemaat		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Amber-Kalemaat-61221.html				pending
-arabian-orchid	Arabian Orchid		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Arabian-Orchid-61214.html				pending
-baci-f	Baci F		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Baci-F-61218.html				pending
-baci-m	Baci M		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Baci-M-61230.html				pending
-burma	Burma		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Burma-61215.html				pending
-citrus-ananas	Citrus Ananas		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Citrus-Ananas-61216.html				pending
-dark-opium	Dark Opium		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Dark-Opium-61229.html				pending
-dolce-vita	Dolce Vita		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Dolce-Vita-61217.html				pending
-fresh-hail	Fresh Hail		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Fresh-Hail-61234.html				pending
-golden-scent	Golden Scent		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Golden-Scent-61213.html				pending
-lemon-tree	Lemon Tree		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Lemon-Tree-61219.html				pending
-lotus-flower	Lotus Flower		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Lotus-Flower-61220.html				pending
-mirage	Mirage		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Mirage-61211.html				pending
-musk-of-egypt	Musk of Egypt		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Musk-of-Egypt-61231.html				pending
-nectarine-and-jasmine	Nectarine & Jasmine		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Nectarine-Jasmine-61226.html				pending
-oudh-leather	Oudh Leather		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Oudh-Leather-61227.html				pending
-oudh-safwa-cambodi	Oudh Safwa Cambodi		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Oudh-Safwa-Cambodi-61233.html				pending
-pink-sugar	Pink Sugar		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Pink-Sugar-61212.html				pending
-rose-musk	Rose Musk		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Rose-Musk-61223.html				pending
-royal-musk	Royal Musk		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Royal-Musk-61232.html				pending
-sultan	Sultan		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Sultan-61224.html				pending
-taif-rose	Taif Rose		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Taif-Rose-61225.html				pending
-whisper	Whisper		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Whisper-61235.html				pending
-white-musk	White Musk		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/White-Musk-61228.html				pending
-white-patchouli	White Patchouli		unisex		https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/White-Patchouli-61222.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-kalemaat	Amber Kalemaat		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Amber-Kalemaat-61221.html				pending
+arabian-orchid	Arabian Orchid		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Arabian-Orchid-61214.html				pending
+baci-f	Baci F		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Baci-F-61218.html				pending
+baci-m	Baci M		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Baci-M-61230.html				pending
+burma	Burma		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Burma-61215.html				pending
+citrus-ananas	Citrus Ananas		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Citrus-Ananas-61216.html				pending
+dark-opium	Dark Opium		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Dark-Opium-61229.html				pending
+dolce-vita	Dolce Vita		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Dolce-Vita-61217.html				pending
+fresh-hail	Fresh Hail		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Fresh-Hail-61234.html				pending
+golden-scent	Golden Scent		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Golden-Scent-61213.html				pending
+lemon-tree	Lemon Tree		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Lemon-Tree-61219.html				pending
+lotus-flower	Lotus Flower		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Lotus-Flower-61220.html				pending
+mirage	Mirage		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Mirage-61211.html				pending
+musk-of-egypt	Musk of Egypt		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Musk-of-Egypt-61231.html				pending
+nectarine-and-jasmine	Nectarine & Jasmine		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Nectarine-Jasmine-61226.html				pending
+oudh-leather	Oudh Leather		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Oudh-Leather-61227.html				pending
+oudh-safwa-cambodi	Oudh Safwa Cambodi		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Oudh-Safwa-Cambodi-61233.html				pending
+pink-sugar	Pink Sugar		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Pink-Sugar-61212.html				pending
+rose-musk	Rose Musk		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Rose-Musk-61223.html				pending
+royal-musk	Royal Musk		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Royal-Musk-61232.html				pending
+sultan	Sultan		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Sultan-61224.html				pending
+taif-rose	Taif Rose		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Taif-Rose-61225.html				pending
+whisper	Whisper		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/Whisper-61235.html				pending
+white-musk	White Musk		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/White-Musk-61228.html				pending
+white-patchouli	White Patchouli		unisex	https://www.fragrantica.com/perfume/Lotus-Cosmetics-London/White-Patchouli-61222.html				pending

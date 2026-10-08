@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alaia	Alaïa		female		https://www.fragrantica.com/perfume/Alaia-Paris/Alaia-31798.html				pending
-alaia-eau-de-parfum-blanche	Alaïa Eau de Parfum Blanche		female		https://www.fragrantica.com/perfume/Alaia-Paris/Alaia-Eau-de-Parfum-Blanche-41114.html				pending
-alaia-nude	Alaïa Nude		female		https://www.fragrantica.com/perfume/Alaia-Paris/Alaia-Nude-47470.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alaia	Alaïa		female	https://www.fragrantica.com/perfume/Alaia-Paris/Alaia-31798.html				pending
+alaia-eau-de-parfum-blanche	Alaïa Eau de Parfum Blanche	Eau de Parfum	female	https://www.fragrantica.com/perfume/Alaia-Paris/Alaia-Eau-de-Parfum-Blanche-41114.html				pending
+alaia-nude	Alaïa Nude		female	https://www.fragrantica.com/perfume/Alaia-Paris/Alaia-Nude-47470.html				pending

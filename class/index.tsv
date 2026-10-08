@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-belisimo	Belisimo		female		https://www.fragrantica.com/perfume/Class/Belisimo-35185.html				pending
-black-man	Black Man		male		https://www.fragrantica.com/perfume/Class/Black-Man-35186.html				pending
-edis	Edis		female		https://www.fragrantica.com/perfume/Class/Edis-35448.html				pending
-endure	Endure		female		https://www.fragrantica.com/perfume/Class/Endure-35187.html				pending
-hera	Hera		female		https://www.fragrantica.com/perfume/Class/Hera-35447.html				pending
-perfect	Perfect		male		https://www.fragrantica.com/perfume/Class/Perfect-35449.html				pending
-pleasure	Pleasure		unisex		https://www.fragrantica.com/perfume/Class/Pleasure-35189.html				pending
-plotinum	Plotinum		male		https://www.fragrantica.com/perfume/Class/Plotinum-35444.html				pending
-sentiment	Sentiment		female		https://www.fragrantica.com/perfume/Class/Sentiment-35445.html				pending
-sport	Sport		male		https://www.fragrantica.com/perfume/Class/Sport-35443.html				pending
-technique	Technique		male		https://www.fragrantica.com/perfume/Class/Technique-35188.html				pending
-touch	Touch		female		https://www.fragrantica.com/perfume/Class/Touch-35446.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+belisimo	Belisimo		female	https://www.fragrantica.com/perfume/Class/Belisimo-35185.html				pending
+black-man	Black Man		male	https://www.fragrantica.com/perfume/Class/Black-Man-35186.html				pending
+edis	Edis		female	https://www.fragrantica.com/perfume/Class/Edis-35448.html				pending
+endure	Endure		female	https://www.fragrantica.com/perfume/Class/Endure-35187.html				pending
+hera	Hera		female	https://www.fragrantica.com/perfume/Class/Hera-35447.html				pending
+perfect	Perfect		male	https://www.fragrantica.com/perfume/Class/Perfect-35449.html				pending
+pleasure	Pleasure		unisex	https://www.fragrantica.com/perfume/Class/Pleasure-35189.html				pending
+plotinum	Plotinum		male	https://www.fragrantica.com/perfume/Class/Plotinum-35444.html				pending
+sentiment	Sentiment		female	https://www.fragrantica.com/perfume/Class/Sentiment-35445.html				pending
+sport	Sport		male	https://www.fragrantica.com/perfume/Class/Sport-35443.html				pending
+technique	Technique		male	https://www.fragrantica.com/perfume/Class/Technique-35188.html				pending
+touch	Touch		female	https://www.fragrantica.com/perfume/Class/Touch-35446.html				pending

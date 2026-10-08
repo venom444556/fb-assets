@@ -1,18 +1,18 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alchemy	Alchemy		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Alchemy-38053.html				pending
-amethyst	Amethyst		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Amethyst-29096.html				pending
-aquamarine	Aquamarine		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Aquamarine-29097.html				pending
-black-diamond	Black Diamond		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Black-Diamond-25277.html				pending
-emerald	Emerald		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Emerald-29102.html				pending
-garnet	Garnet		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Garnet-29095.html				pending
-gold-seed	Gold Seed		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Gold-Seed-25273.html				pending
-just-gold	Just Gold		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Just-Gold-29160.html				pending
-just-white-gold	Just White Gold		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Just-White-Gold-29161.html				pending
-levitation-gold	Levitation Gold		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Levitation-Gold-25275.html				pending
-levitation-platinum	Levitation Platinum		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Levitation-Platinum-25274.html				pending
-levitation-white-gold	Levitation White Gold		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Levitation-White-Gold-25276.html				pending
-meteorite	Meteorite		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Meteorite-25272.html				pending
-rainbow-gems	Rainbow Gems		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Rainbow-Gems-29159.html				pending
-ruby	Ruby		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Ruby-29101.html				pending
-sapphire	Sapphire		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Sapphire-29103.html				pending
-sea-gold	Sea Gold		unisex		https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Sea-Gold-29104.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alchemy	Alchemy		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Alchemy-38053.html				pending
+amethyst	Amethyst		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Amethyst-29096.html				pending
+aquamarine	Aquamarine		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Aquamarine-29097.html				pending
+black-diamond	Black Diamond		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Black-Diamond-25277.html				pending
+emerald	Emerald		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Emerald-29102.html				pending
+garnet	Garnet		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Garnet-29095.html				pending
+gold-seed	Gold Seed		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Gold-Seed-25273.html				pending
+just-gold	Just Gold		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Just-Gold-29160.html				pending
+just-white-gold	Just White Gold		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Just-White-Gold-29161.html				pending
+levitation-gold	Levitation Gold		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Levitation-Gold-25275.html				pending
+levitation-platinum	Levitation Platinum		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Levitation-Platinum-25274.html				pending
+levitation-white-gold	Levitation White Gold		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Levitation-White-Gold-25276.html				pending
+meteorite	Meteorite		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Meteorite-25272.html				pending
+rainbow-gems	Rainbow Gems		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Rainbow-Gems-29159.html				pending
+ruby	Ruby		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Ruby-29101.html				pending
+sapphire	Sapphire		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Sapphire-29103.html				pending
+sea-gold	Sea Gold		unisex	https://www.fragrantica.com/perfume/Cuarzo-The-Circle/Sea-Gold-29104.html				pending

@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-betsey-johnson	Betsey Johnson		female		https://www.fragrantica.com/perfume/Betsey-Johnson/Betsey-Johnson-2072.html				pending
-betseyfied	Betseyfied		female		https://www.fragrantica.com/perfume/Betsey-Johnson/Betseyfied-67541.html				pending
-pretty-n-punk	Pretty n' Punk		female		https://www.fragrantica.com/perfume/Betsey-Johnson/Pretty-n-Punk-52324.html				pending
-too-too	Too Too		female		https://www.fragrantica.com/perfume/Betsey-Johnson/Too-Too-13152.html				pending
-too-too-pretty	Too Too Pretty		female		https://www.fragrantica.com/perfume/Betsey-Johnson/Too-Too-Pretty-15516.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+betsey-johnson	Betsey Johnson		female	https://www.fragrantica.com/perfume/Betsey-Johnson/Betsey-Johnson-2072.html				pending
+betseyfied	Betseyfied		female	https://www.fragrantica.com/perfume/Betsey-Johnson/Betseyfied-67541.html				pending
+pretty-n-punk	Pretty n' Punk		female	https://www.fragrantica.com/perfume/Betsey-Johnson/Pretty-n-Punk-52324.html				pending
+too-too	Too Too		female	https://www.fragrantica.com/perfume/Betsey-Johnson/Too-Too-13152.html				pending
+too-too-pretty	Too Too Pretty		female	https://www.fragrantica.com/perfume/Betsey-Johnson/Too-Too-Pretty-15516.html				pending

@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cherry-blossom	Cherry Blossom		female		https://www.fragrantica.com/perfume/Nougat/Cherry-Blossom-16804.html				pending
-fig-and-pink-cedar	Fig and Pink Cedar		female		https://www.fragrantica.com/perfume/Nougat/Fig-and-Pink-Cedar-16803.html				pending
-peony	Peony		female		https://www.fragrantica.com/perfume/Nougat/Peony-16801.html				pending
-tuberose-and-jasmine	Tuberose and Jasmine		female		https://www.fragrantica.com/perfume/Nougat/Tuberose-and-Jasmine-16802.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cherry-blossom	Cherry Blossom		female	https://www.fragrantica.com/perfume/Nougat/Cherry-Blossom-16804.html				pending
+fig-and-pink-cedar	Fig and Pink Cedar		female	https://www.fragrantica.com/perfume/Nougat/Fig-and-Pink-Cedar-16803.html				pending
+peony	Peony		female	https://www.fragrantica.com/perfume/Nougat/Peony-16801.html				pending
+tuberose-and-jasmine	Tuberose and Jasmine		female	https://www.fragrantica.com/perfume/Nougat/Tuberose-and-Jasmine-16802.html				pending

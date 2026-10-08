@@ -1,34 +1,34 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber	Amber		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Amber-60240.html				pending
-anima-nera	Anima Nera		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Anima-Nera-63466.html				pending
-ballade-a-venise	Ballade a Venise		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Ballade-a-Venise-9103.html				pending
-blue-water	Blue Water		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Blue-Water-60261.html				pending
-capucci-de-capucci	Capucci de Capucci		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-de-Capucci-6752.html				pending
-capucci-de-capucci-extreme	Capucci de Capucci Extreme		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-de-Capucci-Extreme-60242.html				pending
-capucci-lungomare	Capucci Lungomare		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-Lungomare-103814.html				pending
-capucci-no-3-pour-femme	Capucci No. 3 Pour Femme		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-No-3-Pour-Femme-49034.html				pending
-capucci-pour-homme	Capucci Pour Homme		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-Pour-Homme-6753.html				pending
-corps-fou	Corps Fou		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Corps-Fou-23683.html				pending
-evento-donna	Evento Donna		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Evento-Donna-60259.html				pending
-evento-uomo	Evento Uomo		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Evento-Uomo-60260.html				pending
-filly	Filly		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Filly-9736.html				pending
-graffiti	Graffiti		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Graffiti-18494.html				pending
-hypnose	Hypnose		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Hypnose-23684.html				pending
-jasmine	Jasmine		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Jasmine-60238.html				pending
-jour-dete	Jour d'Ete		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Jour-d-Ete-23685.html				pending
-latelier-de-capucci-pour-elle	L'Atelier de Capucci pour Elle		female		https://www.fragrantica.com/perfume/Roberto-Capucci/L-Atelier-de-Capucci-pour-Elle-23681.html				pending
-latelier-de-capucci-pour-lui	L'Atelier de Capucci pour Lui		male		https://www.fragrantica.com/perfume/Roberto-Capucci/L-Atelier-de-Capucci-pour-Lui-23682.html				pending
-lhomme-suave-sauvage	L'Homme Suave (Sauvage)		male		https://www.fragrantica.com/perfume/Roberto-Capucci/L-Homme-Suave-Sauvage-49031.html				pending
-lily	Lily		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Lily-60239.html				pending
-nuance	Nuance		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Nuance-9540.html				pending
-nuance-9539	Nuance		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Nuance-9539.html				pending
-opera-iii	Opera III		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Opera-III-8969.html				pending
-opera-iv	Opera IV		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Opera-IV-23686.html				pending
-parce-que	Parce Que!		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Parce-Que-23687.html				pending
-punjab	Punjab		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Punjab-23688.html				pending
-r-de-capucci	R de Capucci		male		https://www.fragrantica.com/perfume/Roberto-Capucci/R-de-Capucci-6755.html				pending
-roberto-capucci-her	Roberto Capucci Her		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Roberto-Capucci-Her-49033.html				pending
-roberto-capucci-him	Roberto Capucci Him		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Roberto-Capucci-Him-49032.html				pending
-rose	Rose		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Rose-60241.html				pending
-sang-royal	Sang Royal		male		https://www.fragrantica.com/perfume/Roberto-Capucci/Sang-Royal-23689.html				pending
-yendi	Yendi		female		https://www.fragrantica.com/perfume/Roberto-Capucci/Yendi-6754.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber	Amber		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Amber-60240.html				pending
+anima-nera	Anima Nera		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Anima-Nera-63466.html				pending
+ballade-a-venise	Ballade a Venise		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Ballade-a-Venise-9103.html				pending
+blue-water	Blue Water		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Blue-Water-60261.html				pending
+capucci-de-capucci	Capucci de Capucci		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-de-Capucci-6752.html				pending
+capucci-de-capucci-extreme	Capucci de Capucci Extreme		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-de-Capucci-Extreme-60242.html				pending
+capucci-lungomare	Capucci Lungomare		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-Lungomare-103814.html				pending
+capucci-no-3-pour-femme	Capucci No. 3 Pour Femme		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-No-3-Pour-Femme-49034.html				pending
+capucci-pour-homme	Capucci Pour Homme		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Capucci-Pour-Homme-6753.html				pending
+corps-fou	Corps Fou		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Corps-Fou-23683.html				pending
+evento-donna	Evento Donna		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Evento-Donna-60259.html				pending
+evento-uomo	Evento Uomo		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Evento-Uomo-60260.html				pending
+filly	Filly		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Filly-9736.html				pending
+graffiti	Graffiti		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Graffiti-18494.html				pending
+hypnose	Hypnose		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Hypnose-23684.html				pending
+jasmine	Jasmine		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Jasmine-60238.html				pending
+jour-dete	Jour d'Ete		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Jour-d-Ete-23685.html				pending
+latelier-de-capucci-pour-elle	L'Atelier de Capucci pour Elle		female	https://www.fragrantica.com/perfume/Roberto-Capucci/L-Atelier-de-Capucci-pour-Elle-23681.html				pending
+latelier-de-capucci-pour-lui	L'Atelier de Capucci pour Lui		male	https://www.fragrantica.com/perfume/Roberto-Capucci/L-Atelier-de-Capucci-pour-Lui-23682.html				pending
+lhomme-suave-sauvage	L'Homme Suave (Sauvage)		male	https://www.fragrantica.com/perfume/Roberto-Capucci/L-Homme-Suave-Sauvage-49031.html				pending
+lily	Lily		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Lily-60239.html				pending
+nuance	Nuance		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Nuance-9540.html				pending
+nuance-9539	Nuance		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Nuance-9539.html				pending
+opera-iii	Opera III		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Opera-III-8969.html				pending
+opera-iv	Opera IV		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Opera-IV-23686.html				pending
+parce-que	Parce Que!		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Parce-Que-23687.html				pending
+punjab	Punjab		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Punjab-23688.html				pending
+r-de-capucci	R de Capucci		male	https://www.fragrantica.com/perfume/Roberto-Capucci/R-de-Capucci-6755.html				pending
+roberto-capucci-her	Roberto Capucci Her		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Roberto-Capucci-Her-49033.html				pending
+roberto-capucci-him	Roberto Capucci Him		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Roberto-Capucci-Him-49032.html				pending
+rose	Rose		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Rose-60241.html				pending
+sang-royal	Sang Royal		male	https://www.fragrantica.com/perfume/Roberto-Capucci/Sang-Royal-23689.html				pending
+yendi	Yendi		female	https://www.fragrantica.com/perfume/Roberto-Capucci/Yendi-6754.html				pending

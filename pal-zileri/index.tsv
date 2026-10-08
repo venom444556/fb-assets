@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-collezione-privata-blu-di-provenza	Collezione Privata Blu di Provenza		male		https://www.fragrantica.com/perfume/Pal-Zileri/Collezione-Privata-Blu-di-Provenza-8479.html				pending
-collezione-privata-cashmere-e-ambra	Collezione Privata Cashmere E Ambra		male		https://www.fragrantica.com/perfume/Pal-Zileri/Collezione-Privata-Cashmere-E-Ambra-8481.html				pending
-collezione-privata-colonia-purissima	Collezione Privata Colonia Purissima		male		https://www.fragrantica.com/perfume/Pal-Zileri/Collezione-Privata-Colonia-Purissima-8478.html				pending
-collezione-privata-viaggio-dafrica	Collezione Privata Viaggio d'Africa		male		https://www.fragrantica.com/perfume/Pal-Zileri/Collezione-Privata-Viaggio-d-Africa-8480.html				pending
-concept-no-18	Concept No 18		male		https://www.fragrantica.com/perfume/Pal-Zileri/Concept-No-18-878.html				pending
-cuoio	Cuoio		male		https://www.fragrantica.com/perfume/Pal-Zileri/Cuoio-19982.html				pending
-lab-i-white	Lab i-White		male		https://www.fragrantica.com/perfume/Pal-Zileri/Lab-i-White-2769.html				pending
-pal-zileri	Pal Zileri		male		https://www.fragrantica.com/perfume/Pal-Zileri/Pal-Zileri-2759.html				pending
-sartoriale	Sartoriale		male		https://www.fragrantica.com/perfume/Pal-Zileri/Sartoriale-879.html				pending
-uomo	Uomo		male		https://www.fragrantica.com/perfume/Pal-Zileri/Uomo-11486.html				pending
-uomo-essenza-di-capri	Uomo Essenza di Capri		male		https://www.fragrantica.com/perfume/Pal-Zileri/Uomo-Essenza-di-Capri-12962.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+collezione-privata-blu-di-provenza	Collezione Privata Blu di Provenza		male	https://www.fragrantica.com/perfume/Pal-Zileri/Collezione-Privata-Blu-di-Provenza-8479.html				pending
+collezione-privata-cashmere-e-ambra	Collezione Privata Cashmere E Ambra		male	https://www.fragrantica.com/perfume/Pal-Zileri/Collezione-Privata-Cashmere-E-Ambra-8481.html				pending
+collezione-privata-colonia-purissima	Collezione Privata Colonia Purissima		male	https://www.fragrantica.com/perfume/Pal-Zileri/Collezione-Privata-Colonia-Purissima-8478.html				pending
+collezione-privata-viaggio-dafrica	Collezione Privata Viaggio d'Africa		male	https://www.fragrantica.com/perfume/Pal-Zileri/Collezione-Privata-Viaggio-d-Africa-8480.html				pending
+concept-no-18	Concept No 18		male	https://www.fragrantica.com/perfume/Pal-Zileri/Concept-No-18-878.html				pending
+cuoio	Cuoio		male	https://www.fragrantica.com/perfume/Pal-Zileri/Cuoio-19982.html				pending
+lab-i-white	Lab i-White		male	https://www.fragrantica.com/perfume/Pal-Zileri/Lab-i-White-2769.html				pending
+pal-zileri	Pal Zileri		male	https://www.fragrantica.com/perfume/Pal-Zileri/Pal-Zileri-2759.html				pending
+sartoriale	Sartoriale		male	https://www.fragrantica.com/perfume/Pal-Zileri/Sartoriale-879.html				pending
+uomo	Uomo		male	https://www.fragrantica.com/perfume/Pal-Zileri/Uomo-11486.html				pending
+uomo-essenza-di-capri	Uomo Essenza di Capri		male	https://www.fragrantica.com/perfume/Pal-Zileri/Uomo-Essenza-di-Capri-12962.html				pending

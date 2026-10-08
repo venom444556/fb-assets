@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-esebi	Esebi		unisex		https://www.fragrantica.com/perfume/Almiscan/Esebi-50097.html				pending
-jesur	Jesur		unisex		https://www.fragrantica.com/perfume/Almiscan/Jesur-50096.html				pending
-kutsal	Kutsal		unisex		https://www.fragrantica.com/perfume/Almiscan/Kutsal-50094.html				pending
-nahal	Nahal		unisex		https://www.fragrantica.com/perfume/Almiscan/Nahal-50093.html				pending
-randevu	Randevu		unisex		https://www.fragrantica.com/perfume/Almiscan/Randevu-50090.html				pending
-sakin	Sakin		unisex		https://www.fragrantica.com/perfume/Almiscan/Sakin-50095.html				pending
-tanrica	Tanrica		unisex		https://www.fragrantica.com/perfume/Almiscan/Tanrica-50092.html				pending
-yagmur	Yagmur		unisex		https://www.fragrantica.com/perfume/Almiscan/Yagmur-50089.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+esebi	Esebi		unisex	https://www.fragrantica.com/perfume/Almiscan/Esebi-50097.html				pending
+jesur	Jesur		unisex	https://www.fragrantica.com/perfume/Almiscan/Jesur-50096.html				pending
+kutsal	Kutsal		unisex	https://www.fragrantica.com/perfume/Almiscan/Kutsal-50094.html				pending
+nahal	Nahal		unisex	https://www.fragrantica.com/perfume/Almiscan/Nahal-50093.html				pending
+randevu	Randevu		unisex	https://www.fragrantica.com/perfume/Almiscan/Randevu-50090.html				pending
+sakin	Sakin		unisex	https://www.fragrantica.com/perfume/Almiscan/Sakin-50095.html				pending
+tanrica	Tanrica		unisex	https://www.fragrantica.com/perfume/Almiscan/Tanrica-50092.html				pending
+yagmur	Yagmur		unisex	https://www.fragrantica.com/perfume/Almiscan/Yagmur-50089.html				pending

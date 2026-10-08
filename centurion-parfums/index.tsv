@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ancient-rome	Ancient Rome		unisex		https://www.fragrantica.com/perfume/Centurion-Parfums/Ancient-Rome-40871.html				pending
-armor	Armor		male		https://www.fragrantica.com/perfume/Centurion-Parfums/Armor-38705.html				pending
-cohort	Cohort		unisex		https://www.fragrantica.com/perfume/Centurion-Parfums/Cohort-38698.html				pending
-courage	Courage		unisex		https://www.fragrantica.com/perfume/Centurion-Parfums/Courage-40870.html				pending
-kentarch	Kentarch		unisex		https://www.fragrantica.com/perfume/Centurion-Parfums/Kentarch-40873.html				pending
-primus-pilus	Primus Pilus		unisex		https://www.fragrantica.com/perfume/Centurion-Parfums/Primus-Pilus-38697.html				pending
-revolution	Revolution		unisex		https://www.fragrantica.com/perfume/Centurion-Parfums/Revolution-38702.html				pending
-roman-leather	Roman Leather		unisex		https://www.fragrantica.com/perfume/Centurion-Parfums/Roman-Leather-38706.html				pending
-royal-chariot	Royal Chariot		male		https://www.fragrantica.com/perfume/Centurion-Parfums/Royal-Chariot-42931.html				pending
-shield	Shield		female		https://www.fragrantica.com/perfume/Centurion-Parfums/Shield-38704.html				pending
-the-emperor	The Emperor		unisex		https://www.fragrantica.com/perfume/Centurion-Parfums/The-Emperor-42930.html				pending
-the-first-100	The First 100		unisex		https://www.fragrantica.com/perfume/Centurion-Parfums/The-First-100-38703.html				pending
-valiant-demenour	Valiant Demenour		male		https://www.fragrantica.com/perfume/Centurion-Parfums/Valiant-Demenour-38701.html				pending
-victorious-opulence	Victorious Opulence		female		https://www.fragrantica.com/perfume/Centurion-Parfums/Victorious-Opulence-38699.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ancient-rome	Ancient Rome		unisex	https://www.fragrantica.com/perfume/Centurion-Parfums/Ancient-Rome-40871.html				pending
+armor	Armor		male	https://www.fragrantica.com/perfume/Centurion-Parfums/Armor-38705.html				pending
+cohort	Cohort		unisex	https://www.fragrantica.com/perfume/Centurion-Parfums/Cohort-38698.html				pending
+courage	Courage		unisex	https://www.fragrantica.com/perfume/Centurion-Parfums/Courage-40870.html				pending
+kentarch	Kentarch		unisex	https://www.fragrantica.com/perfume/Centurion-Parfums/Kentarch-40873.html				pending
+primus-pilus	Primus Pilus		unisex	https://www.fragrantica.com/perfume/Centurion-Parfums/Primus-Pilus-38697.html				pending
+revolution	Revolution		unisex	https://www.fragrantica.com/perfume/Centurion-Parfums/Revolution-38702.html				pending
+roman-leather	Roman Leather		unisex	https://www.fragrantica.com/perfume/Centurion-Parfums/Roman-Leather-38706.html				pending
+royal-chariot	Royal Chariot		male	https://www.fragrantica.com/perfume/Centurion-Parfums/Royal-Chariot-42931.html				pending
+shield	Shield		female	https://www.fragrantica.com/perfume/Centurion-Parfums/Shield-38704.html				pending
+the-emperor	The Emperor		unisex	https://www.fragrantica.com/perfume/Centurion-Parfums/The-Emperor-42930.html				pending
+the-first-100	The First 100		unisex	https://www.fragrantica.com/perfume/Centurion-Parfums/The-First-100-38703.html				pending
+valiant-demenour	Valiant Demenour		male	https://www.fragrantica.com/perfume/Centurion-Parfums/Valiant-Demenour-38701.html				pending
+victorious-opulence	Victorious Opulence		female	https://www.fragrantica.com/perfume/Centurion-Parfums/Victorious-Opulence-38699.html				pending

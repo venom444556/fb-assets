@@ -1,13 +1,13 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-couture	Couture		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Couture-5503.html				pending
-darling	Darling		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Darling-842.html				pending
-darling-2021	Darling 2021		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Darling-2021-70273.html				pending
-dazzling-darling	Dazzling Darling		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Dazzling-Darling-13222.html				pending
-disco-darling	Disco Darling		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Disco-Darling-77471.html				pending
-inverse	Inverse		male		https://www.fragrantica.com/perfume/Kylie-Minogue/Inverse-6489.html				pending
-music-box	Music Box		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Music-Box-15292.html				pending
-pink-sparkle	Pink Sparkle		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Pink-Sparkle-8965.html				pending
-sexy-darling	Sexy Darling		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Sexy-Darling-4072.html				pending
-showtime-edp	Showtime EDP		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Showtime-EDP-2560.html				pending
-showtime-edt	Showtime EDT		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Showtime-EDT-2559.html				pending
-sweet-darling	Sweet Darling		female		https://www.fragrantica.com/perfume/Kylie-Minogue/Sweet-Darling-1654.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+couture	Couture		female	https://www.fragrantica.com/perfume/Kylie-Minogue/Couture-5503.html				pending
+darling	Darling		female	https://www.fragrantica.com/perfume/Kylie-Minogue/Darling-842.html				pending
+darling-2021	Darling 2021		female	https://www.fragrantica.com/perfume/Kylie-Minogue/Darling-2021-70273.html				pending
+dazzling-darling	Dazzling Darling		female	https://www.fragrantica.com/perfume/Kylie-Minogue/Dazzling-Darling-13222.html				pending
+disco-darling	Disco Darling		female	https://www.fragrantica.com/perfume/Kylie-Minogue/Disco-Darling-77471.html				pending
+inverse	Inverse		male	https://www.fragrantica.com/perfume/Kylie-Minogue/Inverse-6489.html				pending
+music-box	Music Box		female	https://www.fragrantica.com/perfume/Kylie-Minogue/Music-Box-15292.html				pending
+pink-sparkle	Pink Sparkle		female	https://www.fragrantica.com/perfume/Kylie-Minogue/Pink-Sparkle-8965.html				pending
+sexy-darling	Sexy Darling		female	https://www.fragrantica.com/perfume/Kylie-Minogue/Sexy-Darling-4072.html				pending
+showtime-edp	Showtime EDP	Eau de Parfum	female	https://www.fragrantica.com/perfume/Kylie-Minogue/Showtime-EDP-2560.html				pending
+showtime-edt	Showtime EDT	Eau de Toilette	female	https://www.fragrantica.com/perfume/Kylie-Minogue/Showtime-EDT-2559.html				pending
+sweet-darling	Sweet Darling		female	https://www.fragrantica.com/perfume/Kylie-Minogue/Sweet-Darling-1654.html				pending

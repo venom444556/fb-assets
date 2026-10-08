@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-calabria	Calabria		male		https://www.fragrantica.com/perfume/Gentleman-s-Nod/Calabria-92236.html				pending
-cosecha-catalana	Cosecha Catalana		unisex		https://www.fragrantica.com/perfume/Gentleman-s-Nod/Cosecha-Catalana-92235.html				pending
-ernest	Ernest		male		https://www.fragrantica.com/perfume/Gentleman-s-Nod/Ernest-92232.html				pending
-george	George		male		https://www.fragrantica.com/perfume/Gentleman-s-Nod/George-92234.html				pending
-jackie	Jackie		male		https://www.fragrantica.com/perfume/Gentleman-s-Nod/Jackie-92237.html				pending
-johnny	Johnny		male		https://www.fragrantica.com/perfume/Gentleman-s-Nod/Johnny-92233.html				pending
-kensei	Kensei		male		https://www.fragrantica.com/perfume/Gentleman-s-Nod/Kensei-92230.html				pending
-musashi	Musashi		male		https://www.fragrantica.com/perfume/Gentleman-s-Nod/Musashi-92229.html				pending
-sidama	Sidama		male		https://www.fragrantica.com/perfume/Gentleman-s-Nod/Sidama-92199.html				pending
-vincent	Vincent		male		https://www.fragrantica.com/perfume/Gentleman-s-Nod/Vincent-92238.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+calabria	Calabria		male	https://www.fragrantica.com/perfume/Gentleman-s-Nod/Calabria-92236.html				pending
+cosecha-catalana	Cosecha Catalana		unisex	https://www.fragrantica.com/perfume/Gentleman-s-Nod/Cosecha-Catalana-92235.html				pending
+ernest	Ernest		male	https://www.fragrantica.com/perfume/Gentleman-s-Nod/Ernest-92232.html				pending
+george	George		male	https://www.fragrantica.com/perfume/Gentleman-s-Nod/George-92234.html				pending
+jackie	Jackie		male	https://www.fragrantica.com/perfume/Gentleman-s-Nod/Jackie-92237.html				pending
+johnny	Johnny		male	https://www.fragrantica.com/perfume/Gentleman-s-Nod/Johnny-92233.html				pending
+kensei	Kensei		male	https://www.fragrantica.com/perfume/Gentleman-s-Nod/Kensei-92230.html				pending
+musashi	Musashi		male	https://www.fragrantica.com/perfume/Gentleman-s-Nod/Musashi-92229.html				pending
+sidama	Sidama		male	https://www.fragrantica.com/perfume/Gentleman-s-Nod/Sidama-92199.html				pending
+vincent	Vincent		male	https://www.fragrantica.com/perfume/Gentleman-s-Nod/Vincent-92238.html				pending

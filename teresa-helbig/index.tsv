@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-a-bulldog-in-the-atelier	A Bulldog in the Atelier		unisex		https://www.fragrantica.com/perfume/Teresa-Helbig/A-Bulldog-in-the-Atelier-43287.html				pending
-old-money	Old Money		unisex		https://www.fragrantica.com/perfume/Teresa-Helbig/Old-Money-51576.html				pending
-tangier-memories	Tangier Memories		unisex		https://www.fragrantica.com/perfume/Teresa-Helbig/Tangier-Memories-43289.html				pending
-teresa	Teresa		unisex		https://www.fragrantica.com/perfume/Teresa-Helbig/Teresa-43288.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+a-bulldog-in-the-atelier	A Bulldog in the Atelier		unisex	https://www.fragrantica.com/perfume/Teresa-Helbig/A-Bulldog-in-the-Atelier-43287.html				pending
+old-money	Old Money		unisex	https://www.fragrantica.com/perfume/Teresa-Helbig/Old-Money-51576.html				pending
+tangier-memories	Tangier Memories		unisex	https://www.fragrantica.com/perfume/Teresa-Helbig/Tangier-Memories-43289.html				pending
+teresa	Teresa		unisex	https://www.fragrantica.com/perfume/Teresa-Helbig/Teresa-43288.html				pending

@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-intense-man	Acqua Intense Man		male		https://www.fragrantica.com/perfume/Exuma-Parfums/Acqua-Intense-Man-62233.html				pending
-air-after-rain	Air After Rain		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Air-After-Rain-62224.html				pending
-ambre-dorient-woman	Ambre d'Orient Woman		female		https://www.fragrantica.com/perfume/Exuma-Parfums/Ambre-d-Orient-Woman-62237.html				pending
-black-vanilla-man	Black Vanilla Man		male		https://www.fragrantica.com/perfume/Exuma-Parfums/Black-Vanilla-Man-62231.html				pending
-citrus-liqueur-woman	Citrus Liqueur Woman		female		https://www.fragrantica.com/perfume/Exuma-Parfums/Citrus-Liqueur-Woman-62234.html				pending
-eau-de-palermo	Eau de Palermo		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Eau-de-Palermo-62223.html				pending
-eternal-ice	Eternal Ice		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Eternal-Ice-62229.html				pending
-liquid-gold	Liquid Gold		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Liquid-Gold-62219.html				pending
-moving-dunes	Moving Dunes		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Moving-Dunes-62228.html				pending
-oud-noir-man	Oud Noir Man		male		https://www.fragrantica.com/perfume/Exuma-Parfums/Oud-Noir-Man-62230.html				pending
-profumo-rosa-woman	Profumo Rosa Woman		female		https://www.fragrantica.com/perfume/Exuma-Parfums/Profumo-Rosa-Woman-62236.html				pending
-pure-water	Pure Water		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Pure-Water-62227.html				pending
-roses-de-la-nuit	Roses De La Nuit		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Roses-De-La-Nuit-62222.html				pending
-saint-cuir	Saint Cuir		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Saint-Cuir-62221.html				pending
-southern-sun	Southern Sun		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Southern-Sun-62226.html				pending
-velvet-cachemir-woman	Velvet Cachemir Woman		female		https://www.fragrantica.com/perfume/Exuma-Parfums/Velvet-Cachemir-Woman-62235.html				pending
-vetiver-royale-man	Vetiver Royale Man		male		https://www.fragrantica.com/perfume/Exuma-Parfums/Vetiver-Royale-Man-62232.html				pending
-white-stones	White Stones		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/White-Stones-62225.html				pending
-wood-sultan	Wood Sultan		unisex		https://www.fragrantica.com/perfume/Exuma-Parfums/Wood-Sultan-62220.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-intense-man	Acqua Intense Man		male	https://www.fragrantica.com/perfume/Exuma-Parfums/Acqua-Intense-Man-62233.html				pending
+air-after-rain	Air After Rain		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Air-After-Rain-62224.html				pending
+ambre-dorient-woman	Ambre d'Orient Woman		female	https://www.fragrantica.com/perfume/Exuma-Parfums/Ambre-d-Orient-Woman-62237.html				pending
+black-vanilla-man	Black Vanilla Man		male	https://www.fragrantica.com/perfume/Exuma-Parfums/Black-Vanilla-Man-62231.html				pending
+citrus-liqueur-woman	Citrus Liqueur Woman		female	https://www.fragrantica.com/perfume/Exuma-Parfums/Citrus-Liqueur-Woman-62234.html				pending
+eau-de-palermo	Eau de Palermo		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Eau-de-Palermo-62223.html				pending
+eternal-ice	Eternal Ice		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Eternal-Ice-62229.html				pending
+liquid-gold	Liquid Gold		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Liquid-Gold-62219.html				pending
+moving-dunes	Moving Dunes		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Moving-Dunes-62228.html				pending
+oud-noir-man	Oud Noir Man		male	https://www.fragrantica.com/perfume/Exuma-Parfums/Oud-Noir-Man-62230.html				pending
+profumo-rosa-woman	Profumo Rosa Woman		female	https://www.fragrantica.com/perfume/Exuma-Parfums/Profumo-Rosa-Woman-62236.html				pending
+pure-water	Pure Water		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Pure-Water-62227.html				pending
+roses-de-la-nuit	Roses De La Nuit		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Roses-De-La-Nuit-62222.html				pending
+saint-cuir	Saint Cuir		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Saint-Cuir-62221.html				pending
+southern-sun	Southern Sun		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Southern-Sun-62226.html				pending
+velvet-cachemir-woman	Velvet Cachemir Woman		female	https://www.fragrantica.com/perfume/Exuma-Parfums/Velvet-Cachemir-Woman-62235.html				pending
+vetiver-royale-man	Vetiver Royale Man		male	https://www.fragrantica.com/perfume/Exuma-Parfums/Vetiver-Royale-Man-62232.html				pending
+white-stones	White Stones		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/White-Stones-62225.html				pending
+wood-sultan	Wood Sultan		unisex	https://www.fragrantica.com/perfume/Exuma-Parfums/Wood-Sultan-62220.html				pending

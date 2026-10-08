@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-acqua-di-colonia	Acqua di Colonia		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Acqua-di-Colonia-87671.html				pending
-after-the-rain	After The Rain		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/After-The-Rain-87672.html				pending
-bathory	Bathory		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Bathory-87673.html				pending
-chypre-no-1-parfum	Chypre No.1 Parfum		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Chypre-No-1-Parfum-87659.html				pending
-cupids-bow	Cupid's Bow		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Cupid-s-Bow-87668.html				pending
-devils-share	Devil's Share		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Devil-s-Share-87666.html				pending
-dorians-fougere	Dorian's Fougère		male		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Dorian-s-Fougere-87661.html				pending
-fetes-de-noel	Fêtes de Noël		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Fetes-de-Noel-87669.html				pending
-hekate	Hekate		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Hekate-87665.html				pending
-jonquille	Jonquille		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Jonquille-87662.html				pending
-musc-moderne	Musc Moderne		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Musc-Moderne-87663.html				pending
-sacred-smoke	Sacred Smoke		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Sacred-Smoke-87667.html				pending
-sweet-repose	Sweet Repose		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Sweet-Repose-87670.html				pending
-vintage-novel	Vintage Novel		unisex		https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Vintage-Novel-87660.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+acqua-di-colonia	Acqua di Colonia		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Acqua-di-Colonia-87671.html				pending
+after-the-rain	After The Rain		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/After-The-Rain-87672.html				pending
+bathory	Bathory		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Bathory-87673.html				pending
+chypre-no-1-parfum	Chypre No.1 Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Chypre-No-1-Parfum-87659.html				pending
+cupids-bow	Cupid's Bow		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Cupid-s-Bow-87668.html				pending
+devils-share	Devil's Share		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Devil-s-Share-87666.html				pending
+dorians-fougere	Dorian's Fougère		male	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Dorian-s-Fougere-87661.html				pending
+fetes-de-noel	Fêtes de Noël		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Fetes-de-Noel-87669.html				pending
+hekate	Hekate		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Hekate-87665.html				pending
+jonquille	Jonquille		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Jonquille-87662.html				pending
+musc-moderne	Musc Moderne		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Musc-Moderne-87663.html				pending
+sacred-smoke	Sacred Smoke		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Sacred-Smoke-87667.html				pending
+sweet-repose	Sweet Repose		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Sweet-Repose-87670.html				pending
+vintage-novel	Vintage Novel		unisex	https://www.fragrantica.com/perfume/Darren-Alan-Perfumes/Vintage-Novel-87660.html				pending

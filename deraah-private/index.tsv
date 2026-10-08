@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-222	222		unisex		https://www.fragrantica.com/perfume/Deraah-Private/222-80599.html				pending
-555	555		unisex		https://www.fragrantica.com/perfume/Deraah-Private/555-80597.html				pending
-blanc-tuberose	Blanc TubeRose		unisex		https://www.fragrantica.com/perfume/Deraah-Private/Blanc-TubeRose-80149.html				pending
-cashmeran	Cashmeran		unisex		https://www.fragrantica.com/perfume/Deraah-Private/Cashmeran-80153.html				pending
-gourmand	Gourmand		unisex		https://www.fragrantica.com/perfume/Deraah-Private/Gourmand-80157.html				pending
-musk-aqua	Musk Aqua		unisex		https://www.fragrantica.com/perfume/Deraah-Private/Musk-Aqua-80158.html				pending
-perfect-oud	Perfect Oud		unisex		https://www.fragrantica.com/perfume/Deraah-Private/Perfect-Oud-80152.html				pending
-rich-leather	Rich Leather		unisex		https://www.fragrantica.com/perfume/Deraah-Private/Rich-Leather-80155.html				pending
-spice-amber	Spice Amber		unisex		https://www.fragrantica.com/perfume/Deraah-Private/Spice-Amber-80154.html				pending
-splendid-wood	Splendid Wood		unisex		https://www.fragrantica.com/perfume/Deraah-Private/Splendid-Wood-80596.html				pending
-sweet-powder	Sweet Powder		unisex		https://www.fragrantica.com/perfume/Deraah-Private/Sweet-Powder-80159.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+222	222		unisex	https://www.fragrantica.com/perfume/Deraah-Private/222-80599.html				pending
+555	555		unisex	https://www.fragrantica.com/perfume/Deraah-Private/555-80597.html				pending
+blanc-tuberose	Blanc TubeRose		unisex	https://www.fragrantica.com/perfume/Deraah-Private/Blanc-TubeRose-80149.html				pending
+cashmeran	Cashmeran		unisex	https://www.fragrantica.com/perfume/Deraah-Private/Cashmeran-80153.html				pending
+gourmand	Gourmand		unisex	https://www.fragrantica.com/perfume/Deraah-Private/Gourmand-80157.html				pending
+musk-aqua	Musk Aqua		unisex	https://www.fragrantica.com/perfume/Deraah-Private/Musk-Aqua-80158.html				pending
+perfect-oud	Perfect Oud		unisex	https://www.fragrantica.com/perfume/Deraah-Private/Perfect-Oud-80152.html				pending
+rich-leather	Rich Leather		unisex	https://www.fragrantica.com/perfume/Deraah-Private/Rich-Leather-80155.html				pending
+spice-amber	Spice Amber		unisex	https://www.fragrantica.com/perfume/Deraah-Private/Spice-Amber-80154.html				pending
+splendid-wood	Splendid Wood		unisex	https://www.fragrantica.com/perfume/Deraah-Private/Splendid-Wood-80596.html				pending
+sweet-powder	Sweet Powder		unisex	https://www.fragrantica.com/perfume/Deraah-Private/Sweet-Powder-80159.html				pending

@@ -1,33 +1,33 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-about-men	About Men		male		https://www.fragrantica.com/perfume/Bruno-Banani/About-Men-6921.html				pending
-about-women	About Women		female		https://www.fragrantica.com/perfume/Bruno-Banani/About-Women-6922.html				pending
-absolute-man	Absolute Man		male		https://www.fragrantica.com/perfume/Bruno-Banani/Absolute-Man-22042.html				pending
-absolute-woman	Absolute Woman		female		https://www.fragrantica.com/perfume/Bruno-Banani/Absolute-Woman-29465.html				pending
-bruno-banani-man	Bruno Banani Man		male		https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Man-962.html				pending
-bruno-banani-no-limits-man	Bruno Banani No Limits Man		male		https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-No-Limits-Man-40779.html				pending
-bruno-banani-summer-man-limited-edition-2023	Bruno Banani Summer Man Limited Edition 2023		male		https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Summer-Man-Limited-Edition-2023-81925.html				pending
-bruno-banani-summer-men	Bruno Banani Summer Men		male		https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Summer-Men-66832.html				pending
-bruno-banani-summer-woman-limited-edition-2023	Bruno Banani Summer Woman Limited Edition 2023		female		https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Summer-Woman-Limited-Edition-2023-81924.html				pending
-bruno-banani-summer-women	Bruno Banani Summer Women		female		https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Summer-Women-66831.html				pending
-bruno-banani-woman	Bruno Banani Woman		female		https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Woman-961.html				pending
-dangerous-man	Dangerous Man		male		https://www.fragrantica.com/perfume/Bruno-Banani/Dangerous-Man-14375.html				pending
-dangerous-woman	Dangerous Woman		female		https://www.fragrantica.com/perfume/Bruno-Banani/Dangerous-Woman-17351.html				pending
-daring-woman	Daring Woman		female		https://www.fragrantica.com/perfume/Bruno-Banani/Daring-Woman-51217.html				pending
-loyal-man	Loyal Man		male		https://www.fragrantica.com/perfume/Bruno-Banani/Loyal-Man-57604.html				pending
-made-for-men	Made for Men		male		https://www.fragrantica.com/perfume/Bruno-Banani/Made-for-Men-7538.html				pending
-made-for-women	Made for Women		female		https://www.fragrantica.com/perfume/Bruno-Banani/Made-for-Women-11194.html				pending
-magic-man	Magic Man		male		https://www.fragrantica.com/perfume/Bruno-Banani/Magic-Man-2738.html				pending
-magic-woman	Magic Woman		female		https://www.fragrantica.com/perfume/Bruno-Banani/Magic-Woman-5451.html				pending
-magnetic-man	Magnetic Man		male		https://www.fragrantica.com/perfume/Bruno-Banani/Magnetic-Man-83823.html				pending
-magnetic-woman	Magnetic Woman		female		https://www.fragrantica.com/perfume/Bruno-Banani/Magnetic-Woman-77024.html				pending
-mans-best	Man's Best		male		https://www.fragrantica.com/perfume/Bruno-Banani/Man-s-Best-46766.html				pending
-no-limits-woman	No Limits Woman		female		https://www.fragrantica.com/perfume/Bruno-Banani/No-Limits-Woman-40778.html				pending
-pride-edition-man	Pride Edition Man		male		https://www.fragrantica.com/perfume/Bruno-Banani/Pride-Edition-Man-55514.html				pending
-pride-edition-women	Pride Edition Women		female		https://www.fragrantica.com/perfume/Bruno-Banani/Pride-Edition-Women-55515.html				pending
-pure-man	Pure Man		male		https://www.fragrantica.com/perfume/Bruno-Banani/Pure-Man-964.html				pending
-pure-woman	Pure Woman		female		https://www.fragrantica.com/perfume/Bruno-Banani/Pure-Woman-963.html				pending
-scent-from-heaven	Scent From Heaven		male		https://www.fragrantica.com/perfume/Bruno-Banani/Scent-From-Heaven-6920.html				pending
-scent-from-hell	Scent From Hell		female		https://www.fragrantica.com/perfume/Bruno-Banani/Scent-From-Hell-6918.html				pending
-time-to-play-men	Time to Play Men		male		https://www.fragrantica.com/perfume/Bruno-Banani/Time-to-Play-Men-3803.html				pending
-time-to-play-women	Time To Play Women		female		https://www.fragrantica.com/perfume/Bruno-Banani/Time-To-Play-Women-6919.html				pending
-womans-best	Woman's Best		female		https://www.fragrantica.com/perfume/Bruno-Banani/Woman-s-Best-43498.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+about-men	About Men		male	https://www.fragrantica.com/perfume/Bruno-Banani/About-Men-6921.html				pending
+about-women	About Women		female	https://www.fragrantica.com/perfume/Bruno-Banani/About-Women-6922.html				pending
+absolute-man	Absolute Man		male	https://www.fragrantica.com/perfume/Bruno-Banani/Absolute-Man-22042.html				pending
+absolute-woman	Absolute Woman		female	https://www.fragrantica.com/perfume/Bruno-Banani/Absolute-Woman-29465.html				pending
+bruno-banani-man	Bruno Banani Man		male	https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Man-962.html				pending
+bruno-banani-no-limits-man	Bruno Banani No Limits Man		male	https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-No-Limits-Man-40779.html				pending
+bruno-banani-summer-man-limited-edition-2023	Bruno Banani Summer Man Limited Edition 2023		male	https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Summer-Man-Limited-Edition-2023-81925.html				pending
+bruno-banani-summer-men	Bruno Banani Summer Men		male	https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Summer-Men-66832.html				pending
+bruno-banani-summer-woman-limited-edition-2023	Bruno Banani Summer Woman Limited Edition 2023		female	https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Summer-Woman-Limited-Edition-2023-81924.html				pending
+bruno-banani-summer-women	Bruno Banani Summer Women		female	https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Summer-Women-66831.html				pending
+bruno-banani-woman	Bruno Banani Woman		female	https://www.fragrantica.com/perfume/Bruno-Banani/Bruno-Banani-Woman-961.html				pending
+dangerous-man	Dangerous Man		male	https://www.fragrantica.com/perfume/Bruno-Banani/Dangerous-Man-14375.html				pending
+dangerous-woman	Dangerous Woman		female	https://www.fragrantica.com/perfume/Bruno-Banani/Dangerous-Woman-17351.html				pending
+daring-woman	Daring Woman		female	https://www.fragrantica.com/perfume/Bruno-Banani/Daring-Woman-51217.html				pending
+loyal-man	Loyal Man		male	https://www.fragrantica.com/perfume/Bruno-Banani/Loyal-Man-57604.html				pending
+made-for-men	Made for Men		male	https://www.fragrantica.com/perfume/Bruno-Banani/Made-for-Men-7538.html				pending
+made-for-women	Made for Women		female	https://www.fragrantica.com/perfume/Bruno-Banani/Made-for-Women-11194.html				pending
+magic-man	Magic Man		male	https://www.fragrantica.com/perfume/Bruno-Banani/Magic-Man-2738.html				pending
+magic-woman	Magic Woman		female	https://www.fragrantica.com/perfume/Bruno-Banani/Magic-Woman-5451.html				pending
+magnetic-man	Magnetic Man		male	https://www.fragrantica.com/perfume/Bruno-Banani/Magnetic-Man-83823.html				pending
+magnetic-woman	Magnetic Woman		female	https://www.fragrantica.com/perfume/Bruno-Banani/Magnetic-Woman-77024.html				pending
+mans-best	Man's Best		male	https://www.fragrantica.com/perfume/Bruno-Banani/Man-s-Best-46766.html				pending
+no-limits-woman	No Limits Woman		female	https://www.fragrantica.com/perfume/Bruno-Banani/No-Limits-Woman-40778.html				pending
+pride-edition-man	Pride Edition Man		male	https://www.fragrantica.com/perfume/Bruno-Banani/Pride-Edition-Man-55514.html				pending
+pride-edition-women	Pride Edition Women		female	https://www.fragrantica.com/perfume/Bruno-Banani/Pride-Edition-Women-55515.html				pending
+pure-man	Pure Man		male	https://www.fragrantica.com/perfume/Bruno-Banani/Pure-Man-964.html				pending
+pure-woman	Pure Woman		female	https://www.fragrantica.com/perfume/Bruno-Banani/Pure-Woman-963.html				pending
+scent-from-heaven	Scent From Heaven		male	https://www.fragrantica.com/perfume/Bruno-Banani/Scent-From-Heaven-6920.html				pending
+scent-from-hell	Scent From Hell		female	https://www.fragrantica.com/perfume/Bruno-Banani/Scent-From-Hell-6918.html				pending
+time-to-play-men	Time to Play Men		male	https://www.fragrantica.com/perfume/Bruno-Banani/Time-to-Play-Men-3803.html				pending
+time-to-play-women	Time To Play Women		female	https://www.fragrantica.com/perfume/Bruno-Banani/Time-To-Play-Women-6919.html				pending
+womans-best	Woman's Best		female	https://www.fragrantica.com/perfume/Bruno-Banani/Woman-s-Best-43498.html				pending

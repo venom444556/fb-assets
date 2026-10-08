@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-carnal-desire	Carnal Desire		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Carnal-Desire-99331.html				pending
-forbidden-fruit	Forbidden Fruit		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Forbidden-Fruit-117531.html				pending
-frostbite	Frostbite		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Frostbite-123532.html				pending
-magnetiq	Magnetiq		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Magnetiq-117529.html				pending
-naughty-dates	Naughty Dates		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Naughty-Dates-122285.html				pending
-platine-blanc	Platine Blanc		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Platine-Blanc-106068.html				pending
-royal-taboo	Royal Taboo		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Royal-Taboo-99330.html				pending
-sun-kissed	Sun Kissed		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Sun-Kissed-117530.html				pending
-teas-me	Teas Me		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Teas-Me-117532.html				pending
-x-xandal	X Xandal		unisex		https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/X-Xandal-104625.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+carnal-desire	Carnal Desire		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Carnal-Desire-99331.html				pending
+forbidden-fruit	Forbidden Fruit		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Forbidden-Fruit-117531.html				pending
+frostbite	Frostbite		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Frostbite-123532.html				pending
+magnetiq	Magnetiq		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Magnetiq-117529.html				pending
+naughty-dates	Naughty Dates		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Naughty-Dates-122285.html				pending
+platine-blanc	Platine Blanc		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Platine-Blanc-106068.html				pending
+royal-taboo	Royal Taboo		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Royal-Taboo-99330.html				pending
+sun-kissed	Sun Kissed		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Sun-Kissed-117530.html				pending
+teas-me	Teas Me		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/Teas-Me-117532.html				pending
+x-xandal	X Xandal		unisex	https://www.fragrantica.com/perfume/Aromatix-X-French-Avenue/X-Xandal-104625.html				pending

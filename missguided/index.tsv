@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-babe-dreams	Babe Dreams		female		https://www.fragrantica.com/perfume/Missguided/Babe-Dreams-50171.html				pending
-babe-night	Babe Night		female		https://www.fragrantica.com/perfume/Missguided/Babe-Night-57187.html				pending
-babe-power	Babe Power		female		https://www.fragrantica.com/perfume/Missguided/Babe-Power-45063.html				pending
-boss-babe	Boss Babe		female		https://www.fragrantica.com/perfume/Missguided/Boss-Babe-50172.html				pending
-real-babe	Real Babe		unisex		https://www.fragrantica.com/perfume/Missguided/Real-Babe-68156.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+babe-dreams	Babe Dreams		female	https://www.fragrantica.com/perfume/Missguided/Babe-Dreams-50171.html				pending
+babe-night	Babe Night		female	https://www.fragrantica.com/perfume/Missguided/Babe-Night-57187.html				pending
+babe-power	Babe Power		female	https://www.fragrantica.com/perfume/Missguided/Babe-Power-45063.html				pending
+boss-babe	Boss Babe		female	https://www.fragrantica.com/perfume/Missguided/Boss-Babe-50172.html				pending
+real-babe	Real Babe		unisex	https://www.fragrantica.com/perfume/Missguided/Real-Babe-68156.html				pending

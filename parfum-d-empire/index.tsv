@@ -1,27 +1,27 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-3-fleurs	3 Fleurs		female		https://www.fragrantica.com/perfume/Parfum-d-Empire/3-Fleurs-6696.html				pending
-acqua-di-scandola	Acqua di Scandola		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Acqua-di-Scandola-52166.html				pending
-ambre-russe	Ambre Russe		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Ambre-Russe-5258.html				pending
-azemour-les-orangers	Azemour Les Orangers		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Azemour-Les-Orangers-13888.html				pending
-aziyade	Aziyade		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Aziyade-5347.html				pending
-corsica-furiosa	Corsica Furiosa		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Corsica-Furiosa-24803.html				pending
-cuir-ottoman	Cuir Ottoman		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Cuir-Ottoman-5348.html				pending
-eau-de-gloire	Eau de Gloire		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Eau-de-Gloire-5349.html				pending
-eau-de-gloire-cologne	Eau de Gloire Cologne		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Eau-de-Gloire-Cologne-83773.html				pending
-eau-suave	Eau Suave		female		https://www.fragrantica.com/perfume/Parfum-d-Empire/Eau-Suave-5625.html				pending
-equistrius	Equistrius		female		https://www.fragrantica.com/perfume/Parfum-d-Empire/Equistrius-1563.html				pending
-fougere-bengale	Fougere Bengale		male		https://www.fragrantica.com/perfume/Parfum-d-Empire/Fougere-Bengale-1562.html				pending
-immortelle-corse	Immortelle Corse		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Immortelle-Corse-57825.html				pending
-iskander	Iskander		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Iskander-6264.html				pending
-le-cri-de-la-lumiere	Le Cri de la Lumière		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Le-Cri-de-la-Lumiere-47196.html				pending
-madagascar-le-baume-vanille	Madagascar Le Baume Vanille		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Madagascar-Le-Baume-Vanille-114885.html				pending
-mal-aime	Mal-Aimé		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Mal-Aime-67708.html				pending
-musc-tonkin	Musc Tonkin		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Musc-Tonkin-17115.html				pending
-osmanthus-interdite	Osmanthus Interdite		female		https://www.fragrantica.com/perfume/Parfum-d-Empire/Osmanthus-Interdite-1561.html				pending
-ruade	Ruade		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Ruade-88682.html				pending
-salute	Salute		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Salute-57826.html				pending
-tabac-tabou	Tabac Tabou		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Tabac-Tabou-32091.html				pending
-un-bel-amour-dete	Un Bel Amour D’été		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Un-Bel-Amour-D-ete-90980.html				pending
-vetiver-bourbon	Vetiver Bourbon		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Vetiver-Bourbon-76536.html				pending
-wazamba	Wazamba		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Wazamba-6695.html				pending
-yuzu-fou	Yuzu Fou		unisex		https://www.fragrantica.com/perfume/Parfum-d-Empire/Yuzu-Fou-4683.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+3-fleurs	3 Fleurs		female	https://www.fragrantica.com/perfume/Parfum-d-Empire/3-Fleurs-6696.html				pending
+acqua-di-scandola	Acqua di Scandola		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Acqua-di-Scandola-52166.html				pending
+ambre-russe	Ambre Russe		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Ambre-Russe-5258.html				pending
+azemour-les-orangers	Azemour Les Orangers		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Azemour-Les-Orangers-13888.html				pending
+aziyade	Aziyade		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Aziyade-5347.html				pending
+corsica-furiosa	Corsica Furiosa		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Corsica-Furiosa-24803.html				pending
+cuir-ottoman	Cuir Ottoman		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Cuir-Ottoman-5348.html				pending
+eau-de-gloire	Eau de Gloire		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Eau-de-Gloire-5349.html				pending
+eau-de-gloire-cologne	Eau de Gloire Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Eau-de-Gloire-Cologne-83773.html				pending
+eau-suave	Eau Suave		female	https://www.fragrantica.com/perfume/Parfum-d-Empire/Eau-Suave-5625.html				pending
+equistrius	Equistrius		female	https://www.fragrantica.com/perfume/Parfum-d-Empire/Equistrius-1563.html				pending
+fougere-bengale	Fougere Bengale		male	https://www.fragrantica.com/perfume/Parfum-d-Empire/Fougere-Bengale-1562.html				pending
+immortelle-corse	Immortelle Corse		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Immortelle-Corse-57825.html				pending
+iskander	Iskander		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Iskander-6264.html				pending
+le-cri-de-la-lumiere	Le Cri de la Lumière		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Le-Cri-de-la-Lumiere-47196.html				pending
+madagascar-le-baume-vanille	Madagascar Le Baume Vanille		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Madagascar-Le-Baume-Vanille-114885.html				pending
+mal-aime	Mal-Aimé		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Mal-Aime-67708.html				pending
+musc-tonkin	Musc Tonkin		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Musc-Tonkin-17115.html				pending
+osmanthus-interdite	Osmanthus Interdite		female	https://www.fragrantica.com/perfume/Parfum-d-Empire/Osmanthus-Interdite-1561.html				pending
+ruade	Ruade		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Ruade-88682.html				pending
+salute	Salute		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Salute-57826.html				pending
+tabac-tabou	Tabac Tabou		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Tabac-Tabou-32091.html				pending
+un-bel-amour-dete	Un Bel Amour D’été		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Un-Bel-Amour-D-ete-90980.html				pending
+vetiver-bourbon	Vetiver Bourbon		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Vetiver-Bourbon-76536.html				pending
+wazamba	Wazamba		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Wazamba-6695.html				pending
+yuzu-fou	Yuzu Fou		unisex	https://www.fragrantica.com/perfume/Parfum-d-Empire/Yuzu-Fou-4683.html				pending

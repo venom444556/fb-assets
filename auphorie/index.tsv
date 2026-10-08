@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-archipelago	Archipelago		unisex		https://www.fragrantica.com/perfume/Auphorie/Archipelago-31478.html				pending
-bing-ma-yong	Bing Ma Yong		unisex		https://www.fragrantica.com/perfume/Auphorie/Bing-Ma-Yong-55333.html				pending
-binturong	Binturong		unisex		https://www.fragrantica.com/perfume/Auphorie/Binturong-42624.html				pending
-chypre-oud-maharani	Chypre Oud Maharani		unisex		https://www.fragrantica.com/perfume/Auphorie/Chypre-Oud-Maharani-57932.html				pending
-cuir-oud-padishah	Cuir Oud Padishah		unisex		https://www.fragrantica.com/perfume/Auphorie/Cuir-Oud-Padishah-67559.html				pending
-dynasty	Dynasty		unisex		https://www.fragrantica.com/perfume/Auphorie/Dynasty-31473.html				pending
-eau-de-formosa	Eau De Formosa		unisex		https://www.fragrantica.com/perfume/Auphorie/Eau-De-Formosa-42626.html				pending
-eau-de-nyonya	Eau De Nyonya		unisex		https://www.fragrantica.com/perfume/Auphorie/Eau-De-Nyonya-42625.html				pending
-elfen-spring	Elfen Spring		unisex		https://www.fragrantica.com/perfume/Auphorie/Elfen-Spring-37512.html				pending
-eternal-voyage	Eternal Voyage		unisex		https://www.fragrantica.com/perfume/Auphorie/Eternal-Voyage-37513.html				pending
-golden-chersonese	Golden Chersonese		unisex		https://www.fragrantica.com/perfume/Auphorie/Golden-Chersonese-31475.html				pending
-iris-macchiato	Iris Macchiato		unisex		https://www.fragrantica.com/perfume/Auphorie/Iris-Macchiato-53045.html				pending
-lanima-della-rosa	L'Anima Della Rosa		unisex		https://www.fragrantica.com/perfume/Auphorie/L-Anima-Della-Rosa-53077.html				pending
-lhistoire-oubliee-de-dunhuang	L'Histoire Oubliée De Dunhuang		unisex		https://www.fragrantica.com/perfume/Auphorie/L-Histoire-Oubliee-De-Dunhuang-45602.html				pending
-la-lanterne-rouge	La Lanterne Rouge		unisex		https://www.fragrantica.com/perfume/Auphorie/La-Lanterne-Rouge-50142.html				pending
-les-tresors-de-sriwijaya	Les Trésors De Sriwijaya		unisex		https://www.fragrantica.com/perfume/Auphorie/Les-Tresors-De-Sriwijaya-45603.html				pending
-mayura	Mayura		unisex		https://www.fragrantica.com/perfume/Auphorie/Mayura-48953.html				pending
-miyako	Miyako		unisex		https://www.fragrantica.com/perfume/Auphorie/Miyako-31474.html				pending
-musc-oud-maharaja	Musc Oud Maharaja		unisex		https://www.fragrantica.com/perfume/Auphorie/Musc-Oud-Maharaja-53704.html				pending
-no-15	No. 15		unisex		https://www.fragrantica.com/perfume/Auphorie/No-15-48954.html				pending
-red-crown	Red Crown		unisex		https://www.fragrantica.com/perfume/Auphorie/Red-Crown-48955.html				pending
-regal-secret	Regal Secret		unisex		https://www.fragrantica.com/perfume/Auphorie/Regal-Secret-37514.html				pending
-ryukyu	Ryukyu		unisex		https://www.fragrantica.com/perfume/Auphorie/Ryukyu-53705.html				pending
-shambala	Shambala		unisex		https://www.fragrantica.com/perfume/Auphorie/Shambala-31477.html				pending
-shennong	Shennong		unisex		https://www.fragrantica.com/perfume/Auphorie/Shennong-74216.html				pending
-song-of-everlasting-sorrow	Song Of Everlasting Sorrow		unisex		https://www.fragrantica.com/perfume/Auphorie/Song-Of-Everlasting-Sorrow-60170.html				pending
-tenmoku-i-mei-hua-san-nong	Tenmoku I Mei Hua San Nong		unisex		https://www.fragrantica.com/perfume/Auphorie/Tenmoku-I-Mei-Hua-San-Nong-67554.html				pending
-zen	Zen		unisex		https://www.fragrantica.com/perfume/Auphorie/Zen-31476.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+archipelago	Archipelago		unisex	https://www.fragrantica.com/perfume/Auphorie/Archipelago-31478.html				pending
+bing-ma-yong	Bing Ma Yong		unisex	https://www.fragrantica.com/perfume/Auphorie/Bing-Ma-Yong-55333.html				pending
+binturong	Binturong		unisex	https://www.fragrantica.com/perfume/Auphorie/Binturong-42624.html				pending
+chypre-oud-maharani	Chypre Oud Maharani		unisex	https://www.fragrantica.com/perfume/Auphorie/Chypre-Oud-Maharani-57932.html				pending
+cuir-oud-padishah	Cuir Oud Padishah		unisex	https://www.fragrantica.com/perfume/Auphorie/Cuir-Oud-Padishah-67559.html				pending
+dynasty	Dynasty		unisex	https://www.fragrantica.com/perfume/Auphorie/Dynasty-31473.html				pending
+eau-de-formosa	Eau De Formosa		unisex	https://www.fragrantica.com/perfume/Auphorie/Eau-De-Formosa-42626.html				pending
+eau-de-nyonya	Eau De Nyonya		unisex	https://www.fragrantica.com/perfume/Auphorie/Eau-De-Nyonya-42625.html				pending
+elfen-spring	Elfen Spring		unisex	https://www.fragrantica.com/perfume/Auphorie/Elfen-Spring-37512.html				pending
+eternal-voyage	Eternal Voyage		unisex	https://www.fragrantica.com/perfume/Auphorie/Eternal-Voyage-37513.html				pending
+golden-chersonese	Golden Chersonese		unisex	https://www.fragrantica.com/perfume/Auphorie/Golden-Chersonese-31475.html				pending
+iris-macchiato	Iris Macchiato		unisex	https://www.fragrantica.com/perfume/Auphorie/Iris-Macchiato-53045.html				pending
+lanima-della-rosa	L'Anima Della Rosa		unisex	https://www.fragrantica.com/perfume/Auphorie/L-Anima-Della-Rosa-53077.html				pending
+lhistoire-oubliee-de-dunhuang	L'Histoire Oubliée De Dunhuang		unisex	https://www.fragrantica.com/perfume/Auphorie/L-Histoire-Oubliee-De-Dunhuang-45602.html				pending
+la-lanterne-rouge	La Lanterne Rouge		unisex	https://www.fragrantica.com/perfume/Auphorie/La-Lanterne-Rouge-50142.html				pending
+les-tresors-de-sriwijaya	Les Trésors De Sriwijaya		unisex	https://www.fragrantica.com/perfume/Auphorie/Les-Tresors-De-Sriwijaya-45603.html				pending
+mayura	Mayura		unisex	https://www.fragrantica.com/perfume/Auphorie/Mayura-48953.html				pending
+miyako	Miyako		unisex	https://www.fragrantica.com/perfume/Auphorie/Miyako-31474.html				pending
+musc-oud-maharaja	Musc Oud Maharaja		unisex	https://www.fragrantica.com/perfume/Auphorie/Musc-Oud-Maharaja-53704.html				pending
+no-15	No. 15		unisex	https://www.fragrantica.com/perfume/Auphorie/No-15-48954.html				pending
+red-crown	Red Crown		unisex	https://www.fragrantica.com/perfume/Auphorie/Red-Crown-48955.html				pending
+regal-secret	Regal Secret		unisex	https://www.fragrantica.com/perfume/Auphorie/Regal-Secret-37514.html				pending
+ryukyu	Ryukyu		unisex	https://www.fragrantica.com/perfume/Auphorie/Ryukyu-53705.html				pending
+shambala	Shambala		unisex	https://www.fragrantica.com/perfume/Auphorie/Shambala-31477.html				pending
+shennong	Shennong		unisex	https://www.fragrantica.com/perfume/Auphorie/Shennong-74216.html				pending
+song-of-everlasting-sorrow	Song Of Everlasting Sorrow		unisex	https://www.fragrantica.com/perfume/Auphorie/Song-Of-Everlasting-Sorrow-60170.html				pending
+tenmoku-i-mei-hua-san-nong	Tenmoku I Mei Hua San Nong		unisex	https://www.fragrantica.com/perfume/Auphorie/Tenmoku-I-Mei-Hua-San-Nong-67554.html				pending
+zen	Zen		unisex	https://www.fragrantica.com/perfume/Auphorie/Zen-31476.html				pending

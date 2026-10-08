@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amberula	Amberula		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Amberula-40797.html				pending
-caipiroud	Caipiroud		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Caipiroud-42894.html				pending
-cedretto	Cedretto		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Cedretto-42896.html				pending
-choco-frap	Choco Frap		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Choco-Frap-40801.html				pending
-cuir-mojito	Cuir Mojito		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Cuir-Mojito-40803.html				pending
-gincenso	Gincenso		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Gincenso-40804.html				pending
-jasmina-colada	Jasmiña Colada		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Jasmina-Colada-40806.html				pending
-kiris-royale	Kiris Royale		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Kiris-Royale-40802.html				pending
-lavender-chai	Lavender Chai		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Lavender-Chai-40795.html				pending
-rosa-libre	Rosa Libre		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Rosa-Libre-40796.html				pending
-scotchouli	Scotchouli		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Scotchouli-42897.html				pending
-sex-on-the-peach	Sex on the Peach		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Sex-on-the-Peach-40798.html				pending
-tobacognac	Tobacognac		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Tobacognac-40799.html				pending
-tonkaccino	Tonkaccino		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Tonkaccino-40805.html				pending
-yuzucello	Yuzucello		unisex		https://www.fragrantica.com/perfume/Daniel-Barros/Yuzucello-40800.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amberula	Amberula		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Amberula-40797.html				pending
+caipiroud	Caipiroud		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Caipiroud-42894.html				pending
+cedretto	Cedretto		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Cedretto-42896.html				pending
+choco-frap	Choco Frap		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Choco-Frap-40801.html				pending
+cuir-mojito	Cuir Mojito		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Cuir-Mojito-40803.html				pending
+gincenso	Gincenso		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Gincenso-40804.html				pending
+jasmina-colada	Jasmiña Colada		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Jasmina-Colada-40806.html				pending
+kiris-royale	Kiris Royale		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Kiris-Royale-40802.html				pending
+lavender-chai	Lavender Chai		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Lavender-Chai-40795.html				pending
+rosa-libre	Rosa Libre		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Rosa-Libre-40796.html				pending
+scotchouli	Scotchouli		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Scotchouli-42897.html				pending
+sex-on-the-peach	Sex on the Peach		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Sex-on-the-Peach-40798.html				pending
+tobacognac	Tobacognac		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Tobacognac-40799.html				pending
+tonkaccino	Tonkaccino		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Tonkaccino-40805.html				pending
+yuzucello	Yuzucello		unisex	https://www.fragrantica.com/perfume/Daniel-Barros/Yuzucello-40800.html				pending

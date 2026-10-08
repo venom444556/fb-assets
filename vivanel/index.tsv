@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-grapefruit-and-vetiver	Grapefruit & Vetiver		unisex		https://www.fragrantica.com/perfume/Vivanel/Grapefruit-Vetiver-51687.html				pending
-lotus-and-rose	Lotus & Rose		unisex		https://www.fragrantica.com/perfume/Vivanel/Lotus-Rose-51686.html				pending
-vanilla-and-patchouli	Vanilla & Patchouli		unisex		https://www.fragrantica.com/perfume/Vivanel/Vanilla-Patchouli-51685.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+grapefruit-and-vetiver	Grapefruit & Vetiver		unisex	https://www.fragrantica.com/perfume/Vivanel/Grapefruit-Vetiver-51687.html				pending
+lotus-and-rose	Lotus & Rose		unisex	https://www.fragrantica.com/perfume/Vivanel/Lotus-Rose-51686.html				pending
+vanilla-and-patchouli	Vanilla & Patchouli		unisex	https://www.fragrantica.com/perfume/Vivanel/Vanilla-Patchouli-51685.html				pending

@@ -1,36 +1,36 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-absolu-fruits	Absolu Fruits		female		https://www.fragrantica.com/perfume/Acorelle/Absolu-Fruits-35478.html				pending
-absolu-tiare	Absolu Tiaré		female		https://www.fragrantica.com/perfume/Acorelle/Absolu-Tiare-25180.html				pending
-amande-de-ble	Amande de Ble		female		https://www.fragrantica.com/perfume/Acorelle/Amande-de-Ble-8456.html				pending
-baies-sauvages	Baies Sauvages		female		https://www.fragrantica.com/perfume/Acorelle/Baies-Sauvages-8457.html				pending
-cerise-intense	Cerise Intense		female		https://www.fragrantica.com/perfume/Acorelle/Cerise-Intense-25186.html				pending
-chypre-essentiel	Chypre Essentiel		female		https://www.fragrantica.com/perfume/Acorelle/Chypre-Essentiel-25178.html				pending
-citrus-infusion	Citrus Infusion		unisex		https://www.fragrantica.com/perfume/Acorelle/Citrus-Infusion-36099.html				pending
-coeur-de-rose	Coeur De Rose		female		https://www.fragrantica.com/perfume/Acorelle/Coeur-De-Rose-25182.html				pending
-delicious-by-sara-la-fountain	Delicious by Sara La Fountain		female		https://www.fragrantica.com/perfume/Acorelle/Delicious-by-Sara-La-Fountain-35475.html				pending
-divine-orchidee	Divine Orchidee		female		https://www.fragrantica.com/perfume/Acorelle/Divine-Orchidee-35471.html				pending
-douceur-de-rose	Douceur de Rose		female		https://www.fragrantica.com/perfume/Acorelle/Douceur-de-Rose-35469.html				pending
-douceur-vanillee	Douceur Vanillée		unisex		https://www.fragrantica.com/perfume/Acorelle/Douceur-Vanillee-83942.html				pending
-eau-de-plage	Eau De Plage		female		https://www.fragrantica.com/perfume/Acorelle/Eau-De-Plage-35479.html				pending
-envolee-de-neroli	Envolée de Néroli		unisex		https://www.fragrantica.com/perfume/Acorelle/Envolee-de-Neroli-83943.html				pending
-exquise-vanille	Exquise Vanille		female		https://www.fragrantica.com/perfume/Acorelle/Exquise-Vanille-35477.html				pending
-fleur-de-vanille	Fleur de Vanille		female		https://www.fragrantica.com/perfume/Acorelle/Fleur-de-Vanille-35470.html				pending
-fleur-poivree	Fleur Poivrée		female		https://www.fragrantica.com/perfume/Acorelle/Fleur-Poivree-25185.html				pending
-infusion-de-neroli	Infusion de Neroli		unisex		https://www.fragrantica.com/perfume/Acorelle/Infusion-de-Neroli-35473.html				pending
-jardin-des-thes	Jardin des Thes		female		https://www.fragrantica.com/perfume/Acorelle/Jardin-des-Thes-8459.html				pending
-jasmin-troublant	Jasmin Troublant		female		https://www.fragrantica.com/perfume/Acorelle/Jasmin-Troublant-25183.html				pending
-lotus-bambou	Lotus Bambou		unisex		https://www.fragrantica.com/perfume/Acorelle/Lotus-Bambou-8460.html				pending
-lotus-blanc	Lotus Blanc		unisex		https://www.fragrantica.com/perfume/Acorelle/Lotus-Blanc-83944.html				pending
-orchidee-blanche	Orchidee Blanche		female		https://www.fragrantica.com/perfume/Acorelle/Orchidee-Blanche-8461.html				pending
-patchouli-essentiel	Patchouli Essentiel		unisex		https://www.fragrantica.com/perfume/Acorelle/Patchouli-Essentiel-35108.html				pending
-r-de-rose	R de Rose		female		https://www.fragrantica.com/perfume/Acorelle/R-de-Rose-8462.html				pending
-reve-de-lotus	Reve de Lotus		unisex		https://www.fragrantica.com/perfume/Acorelle/Reve-de-Lotus-35472.html				pending
-sauge-marine	Sauge Marine		unisex		https://www.fragrantica.com/perfume/Acorelle/Sauge-Marine-35476.html				pending
-sous-la-canopee	Sous La Canopée		unisex		https://www.fragrantica.com/perfume/Acorelle/Sous-La-Canopee-83941.html				pending
-sublime-tubereuse	Sublime Tubéreuse		unisex		https://www.fragrantica.com/perfume/Acorelle/Sublime-Tubereuse-83945.html				pending
-tendre-patchouli	Tendre Patchouli		unisex		https://www.fragrantica.com/perfume/Acorelle/Tendre-Patchouli-83940.html				pending
-terre-de-cedre	Terre de Cèdre		unisex		https://www.fragrantica.com/perfume/Acorelle/Terre-de-Cedre-25179.html				pending
-vanille-ambree	Vanille Ambree		female		https://www.fragrantica.com/perfume/Acorelle/Vanille-Ambree-8463.html				pending
-vanille-gardenia	Vanille Gardenia		female		https://www.fragrantica.com/perfume/Acorelle/Vanille-Gardenia-25184.html				pending
-velvet-rose	Velvet Rose		female		https://www.fragrantica.com/perfume/Acorelle/Velvet-Rose-66851.html				pending
-verveine-agrumes	Verveine Agrumes		female		https://www.fragrantica.com/perfume/Acorelle/Verveine-Agrumes-8464.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+absolu-fruits	Absolu Fruits		female	https://www.fragrantica.com/perfume/Acorelle/Absolu-Fruits-35478.html				pending
+absolu-tiare	Absolu Tiaré		female	https://www.fragrantica.com/perfume/Acorelle/Absolu-Tiare-25180.html				pending
+amande-de-ble	Amande de Ble		female	https://www.fragrantica.com/perfume/Acorelle/Amande-de-Ble-8456.html				pending
+baies-sauvages	Baies Sauvages		female	https://www.fragrantica.com/perfume/Acorelle/Baies-Sauvages-8457.html				pending
+cerise-intense	Cerise Intense		female	https://www.fragrantica.com/perfume/Acorelle/Cerise-Intense-25186.html				pending
+chypre-essentiel	Chypre Essentiel		female	https://www.fragrantica.com/perfume/Acorelle/Chypre-Essentiel-25178.html				pending
+citrus-infusion	Citrus Infusion		unisex	https://www.fragrantica.com/perfume/Acorelle/Citrus-Infusion-36099.html				pending
+coeur-de-rose	Coeur De Rose		female	https://www.fragrantica.com/perfume/Acorelle/Coeur-De-Rose-25182.html				pending
+delicious-by-sara-la-fountain	Delicious by Sara La Fountain		female	https://www.fragrantica.com/perfume/Acorelle/Delicious-by-Sara-La-Fountain-35475.html				pending
+divine-orchidee	Divine Orchidee		female	https://www.fragrantica.com/perfume/Acorelle/Divine-Orchidee-35471.html				pending
+douceur-de-rose	Douceur de Rose		female	https://www.fragrantica.com/perfume/Acorelle/Douceur-de-Rose-35469.html				pending
+douceur-vanillee	Douceur Vanillée		unisex	https://www.fragrantica.com/perfume/Acorelle/Douceur-Vanillee-83942.html				pending
+eau-de-plage	Eau De Plage		female	https://www.fragrantica.com/perfume/Acorelle/Eau-De-Plage-35479.html				pending
+envolee-de-neroli	Envolée de Néroli		unisex	https://www.fragrantica.com/perfume/Acorelle/Envolee-de-Neroli-83943.html				pending
+exquise-vanille	Exquise Vanille		female	https://www.fragrantica.com/perfume/Acorelle/Exquise-Vanille-35477.html				pending
+fleur-de-vanille	Fleur de Vanille		female	https://www.fragrantica.com/perfume/Acorelle/Fleur-de-Vanille-35470.html				pending
+fleur-poivree	Fleur Poivrée		female	https://www.fragrantica.com/perfume/Acorelle/Fleur-Poivree-25185.html				pending
+infusion-de-neroli	Infusion de Neroli		unisex	https://www.fragrantica.com/perfume/Acorelle/Infusion-de-Neroli-35473.html				pending
+jardin-des-thes	Jardin des Thes		female	https://www.fragrantica.com/perfume/Acorelle/Jardin-des-Thes-8459.html				pending
+jasmin-troublant	Jasmin Troublant		female	https://www.fragrantica.com/perfume/Acorelle/Jasmin-Troublant-25183.html				pending
+lotus-bambou	Lotus Bambou		unisex	https://www.fragrantica.com/perfume/Acorelle/Lotus-Bambou-8460.html				pending
+lotus-blanc	Lotus Blanc		unisex	https://www.fragrantica.com/perfume/Acorelle/Lotus-Blanc-83944.html				pending
+orchidee-blanche	Orchidee Blanche		female	https://www.fragrantica.com/perfume/Acorelle/Orchidee-Blanche-8461.html				pending
+patchouli-essentiel	Patchouli Essentiel		unisex	https://www.fragrantica.com/perfume/Acorelle/Patchouli-Essentiel-35108.html				pending
+r-de-rose	R de Rose		female	https://www.fragrantica.com/perfume/Acorelle/R-de-Rose-8462.html				pending
+reve-de-lotus	Reve de Lotus		unisex	https://www.fragrantica.com/perfume/Acorelle/Reve-de-Lotus-35472.html				pending
+sauge-marine	Sauge Marine		unisex	https://www.fragrantica.com/perfume/Acorelle/Sauge-Marine-35476.html				pending
+sous-la-canopee	Sous La Canopée		unisex	https://www.fragrantica.com/perfume/Acorelle/Sous-La-Canopee-83941.html				pending
+sublime-tubereuse	Sublime Tubéreuse		unisex	https://www.fragrantica.com/perfume/Acorelle/Sublime-Tubereuse-83945.html				pending
+tendre-patchouli	Tendre Patchouli		unisex	https://www.fragrantica.com/perfume/Acorelle/Tendre-Patchouli-83940.html				pending
+terre-de-cedre	Terre de Cèdre		unisex	https://www.fragrantica.com/perfume/Acorelle/Terre-de-Cedre-25179.html				pending
+vanille-ambree	Vanille Ambree		female	https://www.fragrantica.com/perfume/Acorelle/Vanille-Ambree-8463.html				pending
+vanille-gardenia	Vanille Gardenia		female	https://www.fragrantica.com/perfume/Acorelle/Vanille-Gardenia-25184.html				pending
+velvet-rose	Velvet Rose		female	https://www.fragrantica.com/perfume/Acorelle/Velvet-Rose-66851.html				pending
+verveine-agrumes	Verveine Agrumes		female	https://www.fragrantica.com/perfume/Acorelle/Verveine-Agrumes-8464.html				pending

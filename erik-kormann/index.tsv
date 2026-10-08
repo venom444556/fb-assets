@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-abrakabarber	Abrakabarber		male		https://www.fragrantica.com/perfume/Erik-Kormann/Abrakabarber-45744.html				pending
-aero-steampunk	Aero Steampunk		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/Aero-Steampunk-29827.html				pending
-august	August		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/August-20872.html				pending
-borobudur	Borobudur		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/Borobudur-23673.html				pending
-dezember	Dezember		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/Dezember-29597.html				pending
-eau-de-froehliche	Eau de Froehliche		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/Eau-de-Froehliche-20869.html				pending
-eau-de-froehliche-no-2	Eau de Froehliche No. 2		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/Eau-de-Froehliche-No-2-20868.html				pending
-eau-de-froehliche-no-3	Eau de Froehliche No. 3		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/Eau-de-Froehliche-No-3-23004.html				pending
-famagusta	Famagusta		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/Famagusta-29598.html				pending
-juli	Juli		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/Juli-20871.html				pending
-november-no-11	November No 11		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/November-No-11-29750.html				pending
-september	September		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/September-20870.html				pending
-steampunk	Steampunk		unisex		https://www.fragrantica.com/perfume/Erik-Kormann/Steampunk-20867.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+abrakabarber	Abrakabarber		male	https://www.fragrantica.com/perfume/Erik-Kormann/Abrakabarber-45744.html				pending
+aero-steampunk	Aero Steampunk		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/Aero-Steampunk-29827.html				pending
+august	August		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/August-20872.html				pending
+borobudur	Borobudur		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/Borobudur-23673.html				pending
+dezember	Dezember		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/Dezember-29597.html				pending
+eau-de-froehliche	Eau de Froehliche		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/Eau-de-Froehliche-20869.html				pending
+eau-de-froehliche-no-2	Eau de Froehliche No. 2		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/Eau-de-Froehliche-No-2-20868.html				pending
+eau-de-froehliche-no-3	Eau de Froehliche No. 3		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/Eau-de-Froehliche-No-3-23004.html				pending
+famagusta	Famagusta		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/Famagusta-29598.html				pending
+juli	Juli		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/Juli-20871.html				pending
+november-no-11	November No 11		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/November-No-11-29750.html				pending
+september	September		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/September-20870.html				pending
+steampunk	Steampunk		unisex	https://www.fragrantica.com/perfume/Erik-Kormann/Steampunk-20867.html				pending

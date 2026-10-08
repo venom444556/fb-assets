@@ -1,31 +1,31 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-apotheose	Apothéose		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Apotheose-84536.html				pending
-chypre-mousse	Chypre Mousse		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Chypre-Mousse-23716.html				pending
-cuir-de-laigle-russe	Cuir de l'Aigle Russe		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Cuir-de-l-Aigle-Russe-32963.html				pending
-deja-le-printemps	Deja Le Printemps		female		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Deja-Le-Printemps-16254.html				pending
-empire-des-indes	Empire des Indes		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Empire-des-Indes-72955.html				pending
-extra-vieille-cologne	Extra Vieille Cologne		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Extra-Vieille-Cologne-46736.html				pending
-foin-fraichement-coupe	Foin Fraichement Coupe		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Foin-Fraichement-Coupe-25046.html				pending
-gentry-jockey-club	Gentry Jockey Club		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Gentry-Jockey-Club-46069.html				pending
-heliotrope-blanc	Heliotrope Blanc		male		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Heliotrope-Blanc-32962.html				pending
-horizon	Horizon		male		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Horizon-23717.html				pending
-jardins-darmide	Jardins d'Armide		female		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Jardins-d-Armide-23718.html				pending
-leau-de-corse-cologne	L'Eau De Corse Cologne		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/L-Eau-De-Corse-Cologne-46739.html				pending
-la-fleur-doranger-cologne	La Fleur D'Oranger Cologne		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/La-Fleur-D-Oranger-Cologne-46741.html				pending
-le-regent	Le Regent		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Le-Regent-62019.html				pending
-les-tourterelles-de-zelmis-2017	Les Tourterelles de Zelmis (2017)		female		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Les-Tourterelles-de-Zelmis-2017-46068.html				pending
-marions-nous	Marions-Nous		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Marions-Nous-32964.html				pending
-muguet-fleuri	Muguet Fleuri		female		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Muguet-Fleuri-25045.html				pending
-malaga-santa	Málaga Santa		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Malaga-Santa-73823.html				pending
-oeillet-louis-xv	Oeillet Louis XV		female		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Oeillet-Louis-XV-16253.html				pending
-oracion	Oración		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Oracion-79317.html				pending
-peau-despagne-1872	Peau d'Espagne 1872		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Peau-d-Espagne-1872-74432.html				pending
-relique-damour	Relique D'Amour		female		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Relique-D-Amour-16255.html				pending
-reve-dossian	Reve d'Ossian		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Reve-d-Ossian-16252.html				pending
-royal-oeillet	Royal Oeillet		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Royal-Oeillet-25950.html				pending
-scotch-lavender	Scotch Lavender		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Scotch-Lavender-65091.html				pending
-secret-joly	Secret Joly		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Secret-Joly-65143.html				pending
-vetiver-royal-bourbon	Vetiver Royal Bourbon		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Vetiver-Royal-Bourbon-26394.html				pending
-villa-lympia	Villa Lympia		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Villa-Lympia-38159.html				pending
-vinaigre-de-toilette	Vinaigre de Toilette		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Vinaigre-de-Toilette-40250.html				pending
-violettes-du-czar	Violettes du Czar		unisex		https://www.fragrantica.com/perfume/Oriza-L-Legrand/Violettes-du-Czar-30263.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+apotheose	Apothéose		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Apotheose-84536.html				pending
+chypre-mousse	Chypre Mousse		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Chypre-Mousse-23716.html				pending
+cuir-de-laigle-russe	Cuir de l'Aigle Russe		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Cuir-de-l-Aigle-Russe-32963.html				pending
+deja-le-printemps	Deja Le Printemps		female	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Deja-Le-Printemps-16254.html				pending
+empire-des-indes	Empire des Indes		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Empire-des-Indes-72955.html				pending
+extra-vieille-cologne	Extra Vieille Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Extra-Vieille-Cologne-46736.html				pending
+foin-fraichement-coupe	Foin Fraichement Coupe		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Foin-Fraichement-Coupe-25046.html				pending
+gentry-jockey-club	Gentry Jockey Club		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Gentry-Jockey-Club-46069.html				pending
+heliotrope-blanc	Heliotrope Blanc		male	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Heliotrope-Blanc-32962.html				pending
+horizon	Horizon		male	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Horizon-23717.html				pending
+jardins-darmide	Jardins d'Armide		female	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Jardins-d-Armide-23718.html				pending
+leau-de-corse-cologne	L'Eau De Corse Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/L-Eau-De-Corse-Cologne-46739.html				pending
+la-fleur-doranger-cologne	La Fleur D'Oranger Cologne	Cologne	unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/La-Fleur-D-Oranger-Cologne-46741.html				pending
+le-regent	Le Regent		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Le-Regent-62019.html				pending
+les-tourterelles-de-zelmis-2017	Les Tourterelles de Zelmis (2017)		female	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Les-Tourterelles-de-Zelmis-2017-46068.html				pending
+marions-nous	Marions-Nous		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Marions-Nous-32964.html				pending
+muguet-fleuri	Muguet Fleuri		female	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Muguet-Fleuri-25045.html				pending
+malaga-santa	Málaga Santa		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Malaga-Santa-73823.html				pending
+oeillet-louis-xv	Oeillet Louis XV		female	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Oeillet-Louis-XV-16253.html				pending
+oracion	Oración		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Oracion-79317.html				pending
+peau-despagne-1872	Peau d'Espagne 1872		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Peau-d-Espagne-1872-74432.html				pending
+relique-damour	Relique D'Amour		female	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Relique-D-Amour-16255.html				pending
+reve-dossian	Reve d'Ossian		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Reve-d-Ossian-16252.html				pending
+royal-oeillet	Royal Oeillet		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Royal-Oeillet-25950.html				pending
+scotch-lavender	Scotch Lavender		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Scotch-Lavender-65091.html				pending
+secret-joly	Secret Joly		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Secret-Joly-65143.html				pending
+vetiver-royal-bourbon	Vetiver Royal Bourbon		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Vetiver-Royal-Bourbon-26394.html				pending
+villa-lympia	Villa Lympia		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Villa-Lympia-38159.html				pending
+vinaigre-de-toilette	Vinaigre de Toilette		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Vinaigre-de-Toilette-40250.html				pending
+violettes-du-czar	Violettes du Czar		unisex	https://www.fragrantica.com/perfume/Oriza-L-Legrand/Violettes-du-Czar-30263.html				pending

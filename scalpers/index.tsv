@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-her-and-here	Her & Here		female		https://www.fragrantica.com/perfume/Scalpers/Her-Here-79104.html				pending
-scalpers-her-and-the-wild-flower	Scalpers Her and The Wild Flower		female		https://www.fragrantica.com/perfume/Scalpers/Scalpers-Her-and-The-Wild-Flower-95931.html				pending
-scalpers-the-boxing-club	Scalpers The Boxing Club		male		https://www.fragrantica.com/perfume/Scalpers/Scalpers-The-Boxing-Club-72090.html				pending
-scalpers-the-club	Scalpers The Club		male		https://www.fragrantica.com/perfume/Scalpers/Scalpers-The-Club-70464.html				pending
-yacht-club	Yacht Club		male		https://www.fragrantica.com/perfume/Scalpers/Yacht-Club-89718.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+her-and-here	Her & Here		female	https://www.fragrantica.com/perfume/Scalpers/Her-Here-79104.html				pending
+scalpers-her-and-the-wild-flower	Scalpers Her and The Wild Flower		female	https://www.fragrantica.com/perfume/Scalpers/Scalpers-Her-and-The-Wild-Flower-95931.html				pending
+scalpers-the-boxing-club	Scalpers The Boxing Club		male	https://www.fragrantica.com/perfume/Scalpers/Scalpers-The-Boxing-Club-72090.html				pending
+scalpers-the-club	Scalpers The Club		male	https://www.fragrantica.com/perfume/Scalpers/Scalpers-The-Club-70464.html				pending
+yacht-club	Yacht Club		male	https://www.fragrantica.com/perfume/Scalpers/Yacht-Club-89718.html				pending

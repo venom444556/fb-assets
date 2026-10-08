@@ -1,2 +1,2 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-velvet-beast	Velvet Beast		male		https://www.fragrantica.com/perfume/Rogue-Borough/Velvet-Beast-122943.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+velvet-beast	Velvet Beast		male	https://www.fragrantica.com/perfume/Rogue-Borough/Velvet-Beast-122943.html				pending

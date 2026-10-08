@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-billionaire-boyfriend	Billionaire Boyfriend		female		https://www.fragrantica.com/perfume/Kate-Walsh/Billionaire-Boyfriend-14443.html				pending
-boyfriend	Boyfriend		female		https://www.fragrantica.com/perfume/Kate-Walsh/Boyfriend-10553.html				pending
-boyfriend-2018	Boyfriend (2018)		female		https://www.fragrantica.com/perfume/Kate-Walsh/Boyfriend-2018-49821.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+billionaire-boyfriend	Billionaire Boyfriend		female	https://www.fragrantica.com/perfume/Kate-Walsh/Billionaire-Boyfriend-14443.html				pending
+boyfriend	Boyfriend		female	https://www.fragrantica.com/perfume/Kate-Walsh/Boyfriend-10553.html				pending
+boyfriend-2018	Boyfriend (2018)		female	https://www.fragrantica.com/perfume/Kate-Walsh/Boyfriend-2018-49821.html				pending

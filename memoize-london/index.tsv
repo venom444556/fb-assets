@@ -1,41 +1,41 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-abundantia	ABUNDANTIA		unisex		https://www.fragrantica.com/perfume/Memoize-London/ABUNDANTIA-88095.html				pending
-aequale	Aequale		unisex		https://www.fragrantica.com/perfume/Memoize-London/Aequale-91497.html				pending
-alte	Alte		unisex		https://www.fragrantica.com/perfume/Memoize-London/Alte-91476.html				pending
-anima	Anima		unisex		https://www.fragrantica.com/perfume/Memoize-London/Anima-82108.html				pending
-artem	Artem		unisex		https://www.fragrantica.com/perfume/Memoize-London/Artem-82119.html				pending
-aurora	Aurora		unisex		https://www.fragrantica.com/perfume/Memoize-London/Aurora-91475.html				pending
-avaritia	Avaritia		unisex		https://www.fragrantica.com/perfume/Memoize-London/Avaritia-49491.html				pending
-black-avaritia	Black Avaritia		unisex		https://www.fragrantica.com/perfume/Memoize-London/Black-Avaritia-49496.html				pending
-caritas	Caritas		unisex		https://www.fragrantica.com/perfume/Memoize-London/Caritas-55208.html				pending
-castitas	Castitas		unisex		https://www.fragrantica.com/perfume/Memoize-London/Castitas-55207.html				pending
-concordia	Concordia		unisex		https://www.fragrantica.com/perfume/Memoize-London/Concordia-82109.html				pending
-curatio	Curatio		unisex		https://www.fragrantica.com/perfume/Memoize-London/Curatio-82122.html				pending
-deliciae	Deliciae		unisex		https://www.fragrantica.com/perfume/Memoize-London/Deliciae-73077.html				pending
-dominus	Dominus		unisex		https://www.fragrantica.com/perfume/Memoize-London/Dominus-91496.html				pending
-ego	Ego		unisex		https://www.fragrantica.com/perfume/Memoize-London/Ego-82012.html				pending
-enigma	Enigma		unisex		https://www.fragrantica.com/perfume/Memoize-London/Enigma-91480.html				pending
-era	Era		unisex		https://www.fragrantica.com/perfume/Memoize-London/Era-49495.html				pending
-eximus	Eximus		unisex		https://www.fragrantica.com/perfume/Memoize-London/Eximus-73078.html				pending
-ghzalh	Ghzalh		unisex		https://www.fragrantica.com/perfume/Memoize-London/Ghzalh-64155.html				pending
-gula	Gula		unisex		https://www.fragrantica.com/perfume/Memoize-London/Gula-49488.html				pending
-humanitas	Humanitas		unisex		https://www.fragrantica.com/perfume/Memoize-London/Humanitas-55202.html				pending
-humilitas	Humilitas		unisex		https://www.fragrantica.com/perfume/Memoize-London/Humilitas-55204.html				pending
-imperia-by-rowan-row	Imperia by Rowan Row		unisex		https://www.fragrantica.com/perfume/Memoize-London/Imperia-by-Rowan-Row-55511.html				pending
-industria	Industria		unisex		https://www.fragrantica.com/perfume/Memoize-London/Industria-55205.html				pending
-invidia	Invidia		unisex		https://www.fragrantica.com/perfume/Memoize-London/Invidia-49493.html				pending
-isla-rose	Isla Rose		unisex		https://www.fragrantica.com/perfume/Memoize-London/Isla-Rose-64154.html				pending
-luxuria	Luxuria		unisex		https://www.fragrantica.com/perfume/Memoize-London/Luxuria-49489.html				pending
-magus	Magus		unisex		https://www.fragrantica.com/perfume/Memoize-London/Magus-73079.html				pending
-patientia	Patientia		unisex		https://www.fragrantica.com/perfume/Memoize-London/Patientia-55206.html				pending
-rose-luxuria	Rose Luxuria		unisex		https://www.fragrantica.com/perfume/Memoize-London/Rose-Luxuria-55510.html				pending
-sculptura	Sculptura		unisex		https://www.fragrantica.com/perfume/Memoize-London/Sculptura-91495.html				pending
-solis	Solis		unisex		https://www.fragrantica.com/perfume/Memoize-London/Solis-82121.html				pending
-superbia	Superbia		unisex		https://www.fragrantica.com/perfume/Memoize-London/Superbia-49483.html				pending
-temperantia	Temperantia		unisex		https://www.fragrantica.com/perfume/Memoize-London/Temperantia-55209.html				pending
-tristitia	Tristitia		unisex		https://www.fragrantica.com/perfume/Memoize-London/Tristitia-49482.html				pending
-unitas	Unitas		unisex		https://www.fragrantica.com/perfume/Memoize-London/Unitas-71613.html				pending
-unitas-73076	Unitas		unisex		https://www.fragrantica.com/perfume/Memoize-London/Unitas-73076.html				pending
-veritas	Veritas		unisex		https://www.fragrantica.com/perfume/Memoize-London/Veritas-82120.html				pending
-vita	Vita		unisex		https://www.fragrantica.com/perfume/Memoize-London/Vita-82123.html				pending
-white-castitas	White Castitas		unisex		https://www.fragrantica.com/perfume/Memoize-London/White-Castitas-55210.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+abundantia	ABUNDANTIA		unisex	https://www.fragrantica.com/perfume/Memoize-London/ABUNDANTIA-88095.html				pending
+aequale	Aequale		unisex	https://www.fragrantica.com/perfume/Memoize-London/Aequale-91497.html				pending
+alte	Alte		unisex	https://www.fragrantica.com/perfume/Memoize-London/Alte-91476.html				pending
+anima	Anima		unisex	https://www.fragrantica.com/perfume/Memoize-London/Anima-82108.html				pending
+artem	Artem		unisex	https://www.fragrantica.com/perfume/Memoize-London/Artem-82119.html				pending
+aurora	Aurora		unisex	https://www.fragrantica.com/perfume/Memoize-London/Aurora-91475.html				pending
+avaritia	Avaritia		unisex	https://www.fragrantica.com/perfume/Memoize-London/Avaritia-49491.html				pending
+black-avaritia	Black Avaritia		unisex	https://www.fragrantica.com/perfume/Memoize-London/Black-Avaritia-49496.html				pending
+caritas	Caritas		unisex	https://www.fragrantica.com/perfume/Memoize-London/Caritas-55208.html				pending
+castitas	Castitas		unisex	https://www.fragrantica.com/perfume/Memoize-London/Castitas-55207.html				pending
+concordia	Concordia		unisex	https://www.fragrantica.com/perfume/Memoize-London/Concordia-82109.html				pending
+curatio	Curatio		unisex	https://www.fragrantica.com/perfume/Memoize-London/Curatio-82122.html				pending
+deliciae	Deliciae		unisex	https://www.fragrantica.com/perfume/Memoize-London/Deliciae-73077.html				pending
+dominus	Dominus		unisex	https://www.fragrantica.com/perfume/Memoize-London/Dominus-91496.html				pending
+ego	Ego		unisex	https://www.fragrantica.com/perfume/Memoize-London/Ego-82012.html				pending
+enigma	Enigma		unisex	https://www.fragrantica.com/perfume/Memoize-London/Enigma-91480.html				pending
+era	Era		unisex	https://www.fragrantica.com/perfume/Memoize-London/Era-49495.html				pending
+eximus	Eximus		unisex	https://www.fragrantica.com/perfume/Memoize-London/Eximus-73078.html				pending
+ghzalh	Ghzalh		unisex	https://www.fragrantica.com/perfume/Memoize-London/Ghzalh-64155.html				pending
+gula	Gula		unisex	https://www.fragrantica.com/perfume/Memoize-London/Gula-49488.html				pending
+humanitas	Humanitas		unisex	https://www.fragrantica.com/perfume/Memoize-London/Humanitas-55202.html				pending
+humilitas	Humilitas		unisex	https://www.fragrantica.com/perfume/Memoize-London/Humilitas-55204.html				pending
+imperia-by-rowan-row	Imperia by Rowan Row		unisex	https://www.fragrantica.com/perfume/Memoize-London/Imperia-by-Rowan-Row-55511.html				pending
+industria	Industria		unisex	https://www.fragrantica.com/perfume/Memoize-London/Industria-55205.html				pending
+invidia	Invidia		unisex	https://www.fragrantica.com/perfume/Memoize-London/Invidia-49493.html				pending
+isla-rose	Isla Rose		unisex	https://www.fragrantica.com/perfume/Memoize-London/Isla-Rose-64154.html				pending
+luxuria	Luxuria		unisex	https://www.fragrantica.com/perfume/Memoize-London/Luxuria-49489.html				pending
+magus	Magus		unisex	https://www.fragrantica.com/perfume/Memoize-London/Magus-73079.html				pending
+patientia	Patientia		unisex	https://www.fragrantica.com/perfume/Memoize-London/Patientia-55206.html				pending
+rose-luxuria	Rose Luxuria		unisex	https://www.fragrantica.com/perfume/Memoize-London/Rose-Luxuria-55510.html				pending
+sculptura	Sculptura		unisex	https://www.fragrantica.com/perfume/Memoize-London/Sculptura-91495.html				pending
+solis	Solis		unisex	https://www.fragrantica.com/perfume/Memoize-London/Solis-82121.html				pending
+superbia	Superbia		unisex	https://www.fragrantica.com/perfume/Memoize-London/Superbia-49483.html				pending
+temperantia	Temperantia		unisex	https://www.fragrantica.com/perfume/Memoize-London/Temperantia-55209.html				pending
+tristitia	Tristitia		unisex	https://www.fragrantica.com/perfume/Memoize-London/Tristitia-49482.html				pending
+unitas	Unitas		unisex	https://www.fragrantica.com/perfume/Memoize-London/Unitas-71613.html				pending
+unitas-73076	Unitas		unisex	https://www.fragrantica.com/perfume/Memoize-London/Unitas-73076.html				pending
+veritas	Veritas		unisex	https://www.fragrantica.com/perfume/Memoize-London/Veritas-82120.html				pending
+vita	Vita		unisex	https://www.fragrantica.com/perfume/Memoize-London/Vita-82123.html				pending
+white-castitas	White Castitas		unisex	https://www.fragrantica.com/perfume/Memoize-London/White-Castitas-55210.html				pending

@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-altai	Altai		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Altai-83849.html				pending
-baikal	Baikal		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Baikal-83850.html				pending
-chelyabinsk	Chelyabinsk		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Chelyabinsk-100945.html				pending
-elbrus	Elbrus		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Elbrus-100946.html				pending
-kaliningrad	Kaliningrad		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Kaliningrad-83855.html				pending
-karelia	Karelia		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Karelia-83857.html				pending
-kazan	Kazan		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Kazan-83859.html				pending
-langepas	Langepas		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Langepas-100944.html				pending
-moscow	Moscow		female		https://www.fragrantica.com/perfume/Soul-of-Russia/Moscow-83860.html				pending
-murmansk	Murmansk		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Murmansk-100943.html				pending
-rostov	Rostov		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Rostov-83861.html				pending
-saint-petersburg	Saint Petersburg		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Saint-Petersburg-83862.html				pending
-siberia	Siberia		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Siberia-83863.html				pending
-sochi	Sochi		female		https://www.fragrantica.com/perfume/Soul-of-Russia/Sochi-83864.html				pending
-vladivostok	Vladivostok		unisex		https://www.fragrantica.com/perfume/Soul-of-Russia/Vladivostok-111411.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+altai	Altai		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Altai-83849.html				pending
+baikal	Baikal		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Baikal-83850.html				pending
+chelyabinsk	Chelyabinsk		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Chelyabinsk-100945.html				pending
+elbrus	Elbrus		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Elbrus-100946.html				pending
+kaliningrad	Kaliningrad		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Kaliningrad-83855.html				pending
+karelia	Karelia		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Karelia-83857.html				pending
+kazan	Kazan		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Kazan-83859.html				pending
+langepas	Langepas		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Langepas-100944.html				pending
+moscow	Moscow		female	https://www.fragrantica.com/perfume/Soul-of-Russia/Moscow-83860.html				pending
+murmansk	Murmansk		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Murmansk-100943.html				pending
+rostov	Rostov		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Rostov-83861.html				pending
+saint-petersburg	Saint Petersburg		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Saint-Petersburg-83862.html				pending
+siberia	Siberia		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Siberia-83863.html				pending
+sochi	Sochi		female	https://www.fragrantica.com/perfume/Soul-of-Russia/Sochi-83864.html				pending
+vladivostok	Vladivostok		unisex	https://www.fragrantica.com/perfume/Soul-of-Russia/Vladivostok-111411.html				pending

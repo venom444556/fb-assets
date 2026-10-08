@@ -1,30 +1,30 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ag	Ag		male		https://www.fragrantica.com/perfume/Ted-Baker/Ag-50877.html				pending
-amelia	Amelia		female		https://www.fragrantica.com/perfume/Ted-Baker/Amelia-65388.html				pending
-au	Au		male		https://www.fragrantica.com/perfume/Ted-Baker/Au-50878.html				pending
-cu	Cu		male		https://www.fragrantica.com/perfume/Ted-Baker/Cu-50879.html				pending
-endurance	Endurance		male		https://www.fragrantica.com/perfume/Ted-Baker/Endurance-6658.html				pending
-endurance-women	Endurance Women		female		https://www.fragrantica.com/perfume/Ted-Baker/Endurance-Women-6659.html				pending
-est-88	Est. 88		female		https://www.fragrantica.com/perfume/Ted-Baker/Est-88-54518.html				pending
-langley	Langley		female		https://www.fragrantica.com/perfume/Ted-Baker/Langley-47534.html				pending
-m	M		male		https://www.fragrantica.com/perfume/Ted-Baker/M-6660.html				pending
-original-woman	Original Woman		female		https://www.fragrantica.com/perfume/Ted-Baker/Original-Woman-86145.html				pending
-second-skin	Second Skin		male		https://www.fragrantica.com/perfume/Ted-Baker/Second-Skin-6661.html				pending
-secondscent	Secondscent		female		https://www.fragrantica.com/perfume/Ted-Baker/Secondscent-6662.html				pending
-skinwear	Skinwear		male		https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-6663.html				pending
-skinwear-limited-edition	Skinwear Limited Edition		male		https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-Limited-Edition-56272.html				pending
-skinwear-summer-for-man	Skinwear Summer for Man		male		https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-Summer-for-Man-8944.html				pending
-skinwear-ten-for-men	Skinwear Ten for Men		male		https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-Ten-for-Men-6664.html				pending
-skinwear-ten-for-women	Skinwear Ten for Women		female		https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-Ten-for-Women-6665.html				pending
-sweet-treats-cate	Sweet Treats Cate		female		https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Cate-23029.html				pending
-sweet-treats-ella	Sweet Treats Ella		female		https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Ella-23028.html				pending
-sweet-treats-mia	Sweet Treats Mia		female		https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Mia-50876.html				pending
-sweet-treats-polly	Sweet Treats Polly		female		https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Polly-23031.html				pending
-sweet-treats-vida	Sweet Treats Vida		female		https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Vida-23030.html				pending
-ted-baker-woman	Ted Baker Woman		female		https://www.fragrantica.com/perfume/Ted-Baker/Ted-Baker-Woman-6666.html				pending
-ted-baker-woman-limited-editon	Ted Baker Woman Limited Editon		female		https://www.fragrantica.com/perfume/Ted-Baker/Ted-Baker-Woman-Limited-Editon-8945.html				pending
-w	W		female		https://www.fragrantica.com/perfume/Ted-Baker/W-6667.html				pending
-x2o-extraordinary-for-men	X2O Extraordinary for Men		male		https://www.fragrantica.com/perfume/Ted-Baker/X2O-Extraordinary-for-Men-6668.html				pending
-x2o-extraordinary-for-women	X2O Extraordinary for Women		female		https://www.fragrantica.com/perfume/Ted-Baker/X2O-Extraordinary-for-Women-6669.html				pending
-xo-extraordinary	XO Extraordinary		female		https://www.fragrantica.com/perfume/Ted-Baker/XO-Extraordinary-6670.html				pending
-xo-extraordinary-for-men	XO Extraordinary for Men		male		https://www.fragrantica.com/perfume/Ted-Baker/XO-Extraordinary-for-Men-6671.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ag	Ag		male	https://www.fragrantica.com/perfume/Ted-Baker/Ag-50877.html				pending
+amelia	Amelia		female	https://www.fragrantica.com/perfume/Ted-Baker/Amelia-65388.html				pending
+au	Au		male	https://www.fragrantica.com/perfume/Ted-Baker/Au-50878.html				pending
+cu	Cu		male	https://www.fragrantica.com/perfume/Ted-Baker/Cu-50879.html				pending
+endurance	Endurance		male	https://www.fragrantica.com/perfume/Ted-Baker/Endurance-6658.html				pending
+endurance-women	Endurance Women		female	https://www.fragrantica.com/perfume/Ted-Baker/Endurance-Women-6659.html				pending
+est-88	Est. 88		female	https://www.fragrantica.com/perfume/Ted-Baker/Est-88-54518.html				pending
+langley	Langley		female	https://www.fragrantica.com/perfume/Ted-Baker/Langley-47534.html				pending
+m	M		male	https://www.fragrantica.com/perfume/Ted-Baker/M-6660.html				pending
+original-woman	Original Woman		female	https://www.fragrantica.com/perfume/Ted-Baker/Original-Woman-86145.html				pending
+second-skin	Second Skin		male	https://www.fragrantica.com/perfume/Ted-Baker/Second-Skin-6661.html				pending
+secondscent	Secondscent		female	https://www.fragrantica.com/perfume/Ted-Baker/Secondscent-6662.html				pending
+skinwear	Skinwear		male	https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-6663.html				pending
+skinwear-limited-edition	Skinwear Limited Edition		male	https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-Limited-Edition-56272.html				pending
+skinwear-summer-for-man	Skinwear Summer for Man		male	https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-Summer-for-Man-8944.html				pending
+skinwear-ten-for-men	Skinwear Ten for Men		male	https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-Ten-for-Men-6664.html				pending
+skinwear-ten-for-women	Skinwear Ten for Women		female	https://www.fragrantica.com/perfume/Ted-Baker/Skinwear-Ten-for-Women-6665.html				pending
+sweet-treats-cate	Sweet Treats Cate		female	https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Cate-23029.html				pending
+sweet-treats-ella	Sweet Treats Ella		female	https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Ella-23028.html				pending
+sweet-treats-mia	Sweet Treats Mia		female	https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Mia-50876.html				pending
+sweet-treats-polly	Sweet Treats Polly		female	https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Polly-23031.html				pending
+sweet-treats-vida	Sweet Treats Vida		female	https://www.fragrantica.com/perfume/Ted-Baker/Sweet-Treats-Vida-23030.html				pending
+ted-baker-woman	Ted Baker Woman		female	https://www.fragrantica.com/perfume/Ted-Baker/Ted-Baker-Woman-6666.html				pending
+ted-baker-woman-limited-editon	Ted Baker Woman Limited Editon		female	https://www.fragrantica.com/perfume/Ted-Baker/Ted-Baker-Woman-Limited-Editon-8945.html				pending
+w	W		female	https://www.fragrantica.com/perfume/Ted-Baker/W-6667.html				pending
+x2o-extraordinary-for-men	X2O Extraordinary for Men		male	https://www.fragrantica.com/perfume/Ted-Baker/X2O-Extraordinary-for-Men-6668.html				pending
+x2o-extraordinary-for-women	X2O Extraordinary for Women		female	https://www.fragrantica.com/perfume/Ted-Baker/X2O-Extraordinary-for-Women-6669.html				pending
+xo-extraordinary	XO Extraordinary		female	https://www.fragrantica.com/perfume/Ted-Baker/XO-Extraordinary-6670.html				pending
+xo-extraordinary-for-men	XO Extraordinary for Men		male	https://www.fragrantica.com/perfume/Ted-Baker/XO-Extraordinary-for-Men-6671.html				pending

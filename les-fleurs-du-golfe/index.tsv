@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alexis	Alexis		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Alexis-76277.html				pending
-baccara-vanille	Baccara Vanille		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Baccara-Vanille-66591.html				pending
-cachemire	Cachemire		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Cachemire-66599.html				pending
-cachemire-des-iles	Cachemire des Îles		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Cachemire-des-Iles-72068.html				pending
-cherry-of-cashmere	Cherry of Cashmere		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Cherry-of-Cashmere-66592.html				pending
-coco-du-yemen	Coco du Yemen		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Coco-du-Yemen-68939.html				pending
-emeraude-gourmande	Emeraude Gourmande		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Emeraude-Gourmande-66593.html				pending
-extreme-vanille	Extrême Vanille		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Extreme-Vanille-72070.html				pending
-gourmand-extreme	Gourmand Extrême		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Gourmand-Extreme-72069.html				pending
-musc-rose	Musc Rose		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Musc-Rose-66603.html				pending
-musc-vanille	Musc Vanille		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Musc-Vanille-66604.html				pending
-night-flower	Night Flower		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Night-Flower-66594.html				pending
-ode-a-loud	Ode à L'Oud		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Ode-a-L-Oud-76280.html				pending
-orient-express	Orient Express		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Orient-Express-66595.html				pending
-perle-de-djeddah	Perle de Djeddah		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Perle-de-Djeddah-76279.html				pending
-perle-de-dubai	Perle de Dubaï		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Perle-de-Dubai-72071.html				pending
-rose-damascena	Rose Damascena		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Rose-Damascena-66602.html				pending
-saphir-rose	Saphir Rose		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Saphir-Rose-66597.html				pending
-saphir-vanille	Saphir Vanille		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Saphir-Vanille-66590.html				pending
-sugar-oud	Sugar Oud		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Sugar-Oud-66596.html				pending
-vanille-alcantara	Vanille Alcantara		unisex		https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Vanille-Alcantara-66598.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alexis	Alexis		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Alexis-76277.html				pending
+baccara-vanille	Baccara Vanille		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Baccara-Vanille-66591.html				pending
+cachemire	Cachemire		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Cachemire-66599.html				pending
+cachemire-des-iles	Cachemire des Îles		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Cachemire-des-Iles-72068.html				pending
+cherry-of-cashmere	Cherry of Cashmere		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Cherry-of-Cashmere-66592.html				pending
+coco-du-yemen	Coco du Yemen		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Coco-du-Yemen-68939.html				pending
+emeraude-gourmande	Emeraude Gourmande		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Emeraude-Gourmande-66593.html				pending
+extreme-vanille	Extrême Vanille		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Extreme-Vanille-72070.html				pending
+gourmand-extreme	Gourmand Extrême		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Gourmand-Extreme-72069.html				pending
+musc-rose	Musc Rose		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Musc-Rose-66603.html				pending
+musc-vanille	Musc Vanille		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Musc-Vanille-66604.html				pending
+night-flower	Night Flower		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Night-Flower-66594.html				pending
+ode-a-loud	Ode à L'Oud		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Ode-a-L-Oud-76280.html				pending
+orient-express	Orient Express		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Orient-Express-66595.html				pending
+perle-de-djeddah	Perle de Djeddah		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Perle-de-Djeddah-76279.html				pending
+perle-de-dubai	Perle de Dubaï		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Perle-de-Dubai-72071.html				pending
+rose-damascena	Rose Damascena		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Rose-Damascena-66602.html				pending
+saphir-rose	Saphir Rose		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Saphir-Rose-66597.html				pending
+saphir-vanille	Saphir Vanille		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Saphir-Vanille-66590.html				pending
+sugar-oud	Sugar Oud		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Sugar-Oud-66596.html				pending
+vanille-alcantara	Vanille Alcantara		unisex	https://www.fragrantica.com/perfume/Les-Fleurs-du-Golfe/Vanille-Alcantara-66598.html				pending

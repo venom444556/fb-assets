@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cerana	Cerana		unisex		https://www.fragrantica.com/perfume/Nectar-Olfactif/Cerana-103233.html				pending
-etoile-de-bali	Etoile de Bali		unisex		https://www.fragrantica.com/perfume/Nectar-Olfactif/Etoile-de-Bali-90876.html				pending
-melipona	Melipona		unisex		https://www.fragrantica.com/perfume/Nectar-Olfactif/Melipona-90875.html				pending
-secret-du-nil	Secret du Nil		unisex		https://www.fragrantica.com/perfume/Nectar-Olfactif/Secret-du-Nil-90874.html				pending
-supreme-nectar	Suprême Nectar		unisex		https://www.fragrantica.com/perfume/Nectar-Olfactif/Supreme-Nectar-90877.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cerana	Cerana		unisex	https://www.fragrantica.com/perfume/Nectar-Olfactif/Cerana-103233.html				pending
+etoile-de-bali	Etoile de Bali		unisex	https://www.fragrantica.com/perfume/Nectar-Olfactif/Etoile-de-Bali-90876.html				pending
+melipona	Melipona		unisex	https://www.fragrantica.com/perfume/Nectar-Olfactif/Melipona-90875.html				pending
+secret-du-nil	Secret du Nil		unisex	https://www.fragrantica.com/perfume/Nectar-Olfactif/Secret-du-Nil-90874.html				pending
+supreme-nectar	Suprême Nectar		unisex	https://www.fragrantica.com/perfume/Nectar-Olfactif/Supreme-Nectar-90877.html				pending

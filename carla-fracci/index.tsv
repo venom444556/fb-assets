@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aurora	Aurora		female		https://www.fragrantica.com/perfume/Carla-Fracci/Aurora-14847.html				pending
-carla-fracci	Carla Fracci		female		https://www.fragrantica.com/perfume/Carla-Fracci/Carla-Fracci-921.html				pending
-giselle	Giselle		female		https://www.fragrantica.com/perfume/Carla-Fracci/Giselle-923.html				pending
-hamlet	Hamlet		female		https://www.fragrantica.com/perfume/Carla-Fracci/Hamlet-6034.html				pending
-medea	Medea		female		https://www.fragrantica.com/perfume/Carla-Fracci/Medea-922.html				pending
-odette	Odette		female		https://www.fragrantica.com/perfume/Carla-Fracci/Odette-4877.html				pending
-salome	Salome'		female		https://www.fragrantica.com/perfume/Carla-Fracci/Salome-1986.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aurora	Aurora		female	https://www.fragrantica.com/perfume/Carla-Fracci/Aurora-14847.html				pending
+carla-fracci	Carla Fracci		female	https://www.fragrantica.com/perfume/Carla-Fracci/Carla-Fracci-921.html				pending
+giselle	Giselle		female	https://www.fragrantica.com/perfume/Carla-Fracci/Giselle-923.html				pending
+hamlet	Hamlet		female	https://www.fragrantica.com/perfume/Carla-Fracci/Hamlet-6034.html				pending
+medea	Medea		female	https://www.fragrantica.com/perfume/Carla-Fracci/Medea-922.html				pending
+odette	Odette		female	https://www.fragrantica.com/perfume/Carla-Fracci/Odette-4877.html				pending
+salome	Salome'		female	https://www.fragrantica.com/perfume/Carla-Fracci/Salome-1986.html				pending

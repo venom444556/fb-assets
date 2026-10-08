@@ -1,22 +1,22 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-daytona	Daytona		unisex		https://www.fragrantica.com/perfume/Cranford/Daytona-89615.html				pending
-element	Element		unisex		https://www.fragrantica.com/perfume/Cranford/Element-89663.html				pending
-eros	Eros		unisex		https://www.fragrantica.com/perfume/Cranford/Eros-89613.html				pending
-exclusive-collection-carolina	Exclusive Collection Carolina		female		https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Carolina-89612.html				pending
-exclusive-collection-daliana	Exclusive Collection Daliana		unisex		https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Daliana-89611.html				pending
-exclusive-collection-elegance	Exclusive Collection Elegance		unisex		https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Elegance-89609.html				pending
-exclusive-collection-exploit	Exclusive Collection Exploit		unisex		https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Exploit-89610.html				pending
-exclusive-collection-symphony	Exclusive Collection Symphony		unisex		https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Symphony-89608.html				pending
-levin	Levin		unisex		https://www.fragrantica.com/perfume/Cranford/Levin-89616.html				pending
-monogram-for-her	Monogram for Her		female		https://www.fragrantica.com/perfume/Cranford/Monogram-for-Her-89660.html				pending
-monogram-for-him	Monogram for Him		male		https://www.fragrantica.com/perfume/Cranford/Monogram-for-Him-89661.html				pending
-opulence-paris	Opulence Paris		unisex		https://www.fragrantica.com/perfume/Cranford/Opulence-Paris-89662.html				pending
-oud-black	Oud Black		unisex		https://www.fragrantica.com/perfume/Cranford/Oud-Black-89664.html				pending
-oud-combody	Oud Combody		unisex		https://www.fragrantica.com/perfume/Cranford/Oud-Combody-89666.html				pending
-oud-gold	Oud Gold		unisex		https://www.fragrantica.com/perfume/Cranford/Oud-Gold-89665.html				pending
-riviera	Riviera		unisex		https://www.fragrantica.com/perfume/Cranford/Riviera-89614.html				pending
-roi-v-white	Roi V White		unisex		https://www.fragrantica.com/perfume/Cranford/Roi-V-White-89618.html				pending
-roi-v-white-gold	Roi V White Gold		female		https://www.fragrantica.com/perfume/Cranford/Roi-V-White-Gold-89619.html				pending
-roi-vi-black	Roi VI Black		male		https://www.fragrantica.com/perfume/Cranford/Roi-VI-Black-89617.html				pending
-zebra-for-her	Zebra for Her		female		https://www.fragrantica.com/perfume/Cranford/Zebra-for-Her-89658.html				pending
-zebra-for-him	Zebra for Him		male		https://www.fragrantica.com/perfume/Cranford/Zebra-for-Him-89659.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+daytona	Daytona		unisex	https://www.fragrantica.com/perfume/Cranford/Daytona-89615.html				pending
+element	Element		unisex	https://www.fragrantica.com/perfume/Cranford/Element-89663.html				pending
+eros	Eros		unisex	https://www.fragrantica.com/perfume/Cranford/Eros-89613.html				pending
+exclusive-collection-carolina	Exclusive Collection Carolina		female	https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Carolina-89612.html				pending
+exclusive-collection-daliana	Exclusive Collection Daliana		unisex	https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Daliana-89611.html				pending
+exclusive-collection-elegance	Exclusive Collection Elegance		unisex	https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Elegance-89609.html				pending
+exclusive-collection-exploit	Exclusive Collection Exploit		unisex	https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Exploit-89610.html				pending
+exclusive-collection-symphony	Exclusive Collection Symphony		unisex	https://www.fragrantica.com/perfume/Cranford/Exclusive-Collection-Symphony-89608.html				pending
+levin	Levin		unisex	https://www.fragrantica.com/perfume/Cranford/Levin-89616.html				pending
+monogram-for-her	Monogram for Her		female	https://www.fragrantica.com/perfume/Cranford/Monogram-for-Her-89660.html				pending
+monogram-for-him	Monogram for Him		male	https://www.fragrantica.com/perfume/Cranford/Monogram-for-Him-89661.html				pending
+opulence-paris	Opulence Paris		unisex	https://www.fragrantica.com/perfume/Cranford/Opulence-Paris-89662.html				pending
+oud-black	Oud Black		unisex	https://www.fragrantica.com/perfume/Cranford/Oud-Black-89664.html				pending
+oud-combody	Oud Combody		unisex	https://www.fragrantica.com/perfume/Cranford/Oud-Combody-89666.html				pending
+oud-gold	Oud Gold		unisex	https://www.fragrantica.com/perfume/Cranford/Oud-Gold-89665.html				pending
+riviera	Riviera		unisex	https://www.fragrantica.com/perfume/Cranford/Riviera-89614.html				pending
+roi-v-white	Roi V White		unisex	https://www.fragrantica.com/perfume/Cranford/Roi-V-White-89618.html				pending
+roi-v-white-gold	Roi V White Gold		female	https://www.fragrantica.com/perfume/Cranford/Roi-V-White-Gold-89619.html				pending
+roi-vi-black	Roi VI Black		male	https://www.fragrantica.com/perfume/Cranford/Roi-VI-Black-89617.html				pending
+zebra-for-her	Zebra for Her		female	https://www.fragrantica.com/perfume/Cranford/Zebra-for-Her-89658.html				pending
+zebra-for-him	Zebra for Him		male	https://www.fragrantica.com/perfume/Cranford/Zebra-for-Him-89659.html				pending

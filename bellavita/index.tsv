@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ceo-man	CEO Man		unisex		https://www.fragrantica.com/perfume/BellaVita/CEO-Man-107163.html				pending
-date-woman	Date Woman		unisex		https://www.fragrantica.com/perfume/BellaVita/Date-Woman-107176.html				pending
-goat-man	Goat Man		unisex		https://www.fragrantica.com/perfume/BellaVita/Goat-Man-107160.html				pending
-honey-oud	Honey Oud		unisex		https://www.fragrantica.com/perfume/BellaVita/Honey-Oud-107179.html				pending
-skai-aquatic	Skai Aquatic		unisex		https://www.fragrantica.com/perfume/BellaVita/Skai-Aquatic-107162.html				pending
-white-oud	White Oud		unisex		https://www.fragrantica.com/perfume/BellaVita/White-Oud-107183.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ceo-man	CEO Man		unisex	https://www.fragrantica.com/perfume/BellaVita/CEO-Man-107163.html				pending
+date-woman	Date Woman		unisex	https://www.fragrantica.com/perfume/BellaVita/Date-Woman-107176.html				pending
+goat-man	Goat Man		unisex	https://www.fragrantica.com/perfume/BellaVita/Goat-Man-107160.html				pending
+honey-oud	Honey Oud		unisex	https://www.fragrantica.com/perfume/BellaVita/Honey-Oud-107179.html				pending
+skai-aquatic	Skai Aquatic		unisex	https://www.fragrantica.com/perfume/BellaVita/Skai-Aquatic-107162.html				pending
+white-oud	White Oud		unisex	https://www.fragrantica.com/perfume/BellaVita/White-Oud-107183.html				pending

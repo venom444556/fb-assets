@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bergamot-and-musk	Bergamot & Musk		male		https://www.fragrantica.com/perfume/Cremo/Bergamot-Musk-49041.html				pending
-blue-cedar-and-cypress	Blue Cedar & Cypress		male		https://www.fragrantica.com/perfume/Cremo/Blue-Cedar-Cypress-49039.html				pending
-bourbon-and-oak	Bourbon & Oak		male		https://www.fragrantica.com/perfume/Cremo/Bourbon-Oak-49037.html				pending
-citrus-and-mint-leaf	Citrus and Mint Leaf		unisex		https://www.fragrantica.com/perfume/Cremo/Citrus-and-Mint-Leaf-70462.html				pending
-distillers-blend	Distiller's Blend		male		https://www.fragrantica.com/perfume/Cremo/Distiller-s-Blend-70277.html				pending
-leather-and-oud	Leather & Oud		male		https://www.fragrantica.com/perfume/Cremo/Leather-Oud-49042.html				pending
-palo-santo	Palo Santo		unisex		https://www.fragrantica.com/perfume/Cremo/Palo-Santo-70463.html				pending
-silver-water-and-birch	Silver Water & Birch		male		https://www.fragrantica.com/perfume/Cremo/Silver-Water-Birch-49038.html				pending
-spice-and-black-vanilla	Spice & Black Vanilla		male		https://www.fragrantica.com/perfume/Cremo/Spice-Black-Vanilla-49040.html				pending
-vintage-suede	Vintage Suede		unisex		https://www.fragrantica.com/perfume/Cremo/Vintage-Suede-72483.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bergamot-and-musk	Bergamot & Musk		male	https://www.fragrantica.com/perfume/Cremo/Bergamot-Musk-49041.html				pending
+blue-cedar-and-cypress	Blue Cedar & Cypress		male	https://www.fragrantica.com/perfume/Cremo/Blue-Cedar-Cypress-49039.html				pending
+bourbon-and-oak	Bourbon & Oak		male	https://www.fragrantica.com/perfume/Cremo/Bourbon-Oak-49037.html				pending
+citrus-and-mint-leaf	Citrus and Mint Leaf		unisex	https://www.fragrantica.com/perfume/Cremo/Citrus-and-Mint-Leaf-70462.html				pending
+distillers-blend	Distiller's Blend		male	https://www.fragrantica.com/perfume/Cremo/Distiller-s-Blend-70277.html				pending
+leather-and-oud	Leather & Oud		male	https://www.fragrantica.com/perfume/Cremo/Leather-Oud-49042.html				pending
+palo-santo	Palo Santo		unisex	https://www.fragrantica.com/perfume/Cremo/Palo-Santo-70463.html				pending
+silver-water-and-birch	Silver Water & Birch		male	https://www.fragrantica.com/perfume/Cremo/Silver-Water-Birch-49038.html				pending
+spice-and-black-vanilla	Spice & Black Vanilla		male	https://www.fragrantica.com/perfume/Cremo/Spice-Black-Vanilla-49040.html				pending
+vintage-suede	Vintage Suede		unisex	https://www.fragrantica.com/perfume/Cremo/Vintage-Suede-72483.html				pending

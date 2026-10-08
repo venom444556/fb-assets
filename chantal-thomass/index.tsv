@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ame-coquine	Ame Coquine		female		https://www.fragrantica.com/perfume/Chantal-Thomass/Ame-Coquine-463.html				pending
-chantal-thomass	Chantal Thomass		female		https://www.fragrantica.com/perfume/Chantal-Thomass/Chantal-Thomass-462.html				pending
-chantal-thomass-eau-de-toilette	Chantal Thomass Eau de Toilette		female		https://www.fragrantica.com/perfume/Chantal-Thomass/Chantal-Thomass-Eau-de-Toilette-10560.html				pending
-osez-moi	Osez-Moi!		female		https://www.fragrantica.com/perfume/Chantal-Thomass/Osez-Moi-6032.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ame-coquine	Ame Coquine		female	https://www.fragrantica.com/perfume/Chantal-Thomass/Ame-Coquine-463.html				pending
+chantal-thomass	Chantal Thomass		female	https://www.fragrantica.com/perfume/Chantal-Thomass/Chantal-Thomass-462.html				pending
+chantal-thomass-eau-de-toilette	Chantal Thomass Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Chantal-Thomass/Chantal-Thomass-Eau-de-Toilette-10560.html				pending
+osez-moi	Osez-Moi!		female	https://www.fragrantica.com/perfume/Chantal-Thomass/Osez-Moi-6032.html				pending

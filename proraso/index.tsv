@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-azur-lime	Azur Lime		male		https://www.fragrantica.com/perfume/Proraso/Azur-Lime-46022.html				pending
-cypress-and-vetiver	Cypress & Vetiver		male		https://www.fragrantica.com/perfume/Proraso/Cypress-Vetiver-46024.html				pending
-proraso-red-after-shave	Proraso Red After Shave		male		https://www.fragrantica.com/perfume/Proraso/Proraso-Red-After-Shave-39945.html				pending
-wood-and-spice	Wood & Spice		male		https://www.fragrantica.com/perfume/Proraso/Wood-Spice-46025.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+azur-lime	Azur Lime		male	https://www.fragrantica.com/perfume/Proraso/Azur-Lime-46022.html				pending
+cypress-and-vetiver	Cypress & Vetiver		male	https://www.fragrantica.com/perfume/Proraso/Cypress-Vetiver-46024.html				pending
+proraso-red-after-shave	Proraso Red After Shave		male	https://www.fragrantica.com/perfume/Proraso/Proraso-Red-After-Shave-39945.html				pending
+wood-and-spice	Wood & Spice		male	https://www.fragrantica.com/perfume/Proraso/Wood-Spice-46025.html				pending

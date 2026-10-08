@@ -1,12 +1,12 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cannelle	Cannelle		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Cannelle-41861.html				pending
-chocolat	Chocolat		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Chocolat-35466.html				pending
-encens	Encens		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Encens-41862.html				pending
-fraise	Fraise		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Fraise-41867.html				pending
-lotus	Lotus		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Lotus-41863.html				pending
-mimosa	Mimosa		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Mimosa-41866.html				pending
-orange	Orange		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Orange-41864.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Patchouli-41859.html				pending
-rose	Rose		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Rose-41865.html				pending
-vanille	Vanille		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Vanille-41860.html				pending
-violette	Violette		unisex		https://www.fragrantica.com/perfume/Alicia-Milor/Violette-41868.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cannelle	Cannelle		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Cannelle-41861.html				pending
+chocolat	Chocolat		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Chocolat-35466.html				pending
+encens	Encens		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Encens-41862.html				pending
+fraise	Fraise		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Fraise-41867.html				pending
+lotus	Lotus		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Lotus-41863.html				pending
+mimosa	Mimosa		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Mimosa-41866.html				pending
+orange	Orange		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Orange-41864.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Patchouli-41859.html				pending
+rose	Rose		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Rose-41865.html				pending
+vanille	Vanille		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Vanille-41860.html				pending
+violette	Violette		unisex	https://www.fragrantica.com/perfume/Alicia-Milor/Violette-41868.html				pending

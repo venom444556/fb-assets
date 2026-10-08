@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aviation-club	Aviation Club		unisex		https://www.fragrantica.com/perfume/Monsillage/Aviation-Club-30804.html				pending
-dupont-circle	Dupont Circle		female		https://www.fragrantica.com/perfume/Monsillage/Dupont-Circle-30803.html				pending
-eau-de-celeri	Eau de Céleri		unisex		https://www.fragrantica.com/perfume/Monsillage/Eau-de-Celeri-30800.html				pending
-eau-fraiche	Eau Fraiche		unisex		https://www.fragrantica.com/perfume/Monsillage/Eau-Fraiche-30805.html				pending
-ipanema-posto-nove	Ipanema Posto Nove		female		https://www.fragrantica.com/perfume/Monsillage/Ipanema-Posto-Nove-30802.html				pending
-pays-dogon	Pays Dogon		unisex		https://www.fragrantica.com/perfume/Monsillage/Pays-Dogon-44604.html				pending
-vol-870-yul-cdg	Vol 870 YUL-CDG		unisex		https://www.fragrantica.com/perfume/Monsillage/Vol-870-YUL-CDG-30801.html				pending
-wazo	Wazo		unisex		https://www.fragrantica.com/perfume/Monsillage/Wazo-41755.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aviation-club	Aviation Club		unisex	https://www.fragrantica.com/perfume/Monsillage/Aviation-Club-30804.html				pending
+dupont-circle	Dupont Circle		female	https://www.fragrantica.com/perfume/Monsillage/Dupont-Circle-30803.html				pending
+eau-de-celeri	Eau de Céleri		unisex	https://www.fragrantica.com/perfume/Monsillage/Eau-de-Celeri-30800.html				pending
+eau-fraiche	Eau Fraiche	Eau Fraiche	unisex	https://www.fragrantica.com/perfume/Monsillage/Eau-Fraiche-30805.html				pending
+ipanema-posto-nove	Ipanema Posto Nove		female	https://www.fragrantica.com/perfume/Monsillage/Ipanema-Posto-Nove-30802.html				pending
+pays-dogon	Pays Dogon		unisex	https://www.fragrantica.com/perfume/Monsillage/Pays-Dogon-44604.html				pending
+vol-870-yul-cdg	Vol 870 YUL-CDG		unisex	https://www.fragrantica.com/perfume/Monsillage/Vol-870-YUL-CDG-30801.html				pending
+wazo	Wazo		unisex	https://www.fragrantica.com/perfume/Monsillage/Wazo-41755.html				pending

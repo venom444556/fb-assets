@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-arezzo	Arezzo		male		https://www.fragrantica.com/perfume/Naughton-Wilson/Arezzo-99637.html				pending
-bon-viveur	Bon Viveur		male		https://www.fragrantica.com/perfume/Naughton-Wilson/Bon-Viveur-67558.html				pending
-chypre-fulminare	Chypre Fulminare		unisex		https://www.fragrantica.com/perfume/Naughton-Wilson/Chypre-Fulminare-77833.html				pending
-gravitas-essentia	Gravitas Essentia		male		https://www.fragrantica.com/perfume/Naughton-Wilson/Gravitas-Essentia-81806.html				pending
-gravitas-pour-homme	Gravitas Pour Homme		male		https://www.fragrantica.com/perfume/Naughton-Wilson/Gravitas-Pour-Homme-61015.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+arezzo	Arezzo		male	https://www.fragrantica.com/perfume/Naughton-Wilson/Arezzo-99637.html				pending
+bon-viveur	Bon Viveur		male	https://www.fragrantica.com/perfume/Naughton-Wilson/Bon-Viveur-67558.html				pending
+chypre-fulminare	Chypre Fulminare		unisex	https://www.fragrantica.com/perfume/Naughton-Wilson/Chypre-Fulminare-77833.html				pending
+gravitas-essentia	Gravitas Essentia		male	https://www.fragrantica.com/perfume/Naughton-Wilson/Gravitas-Essentia-81806.html				pending
+gravitas-pour-homme	Gravitas Pour Homme		male	https://www.fragrantica.com/perfume/Naughton-Wilson/Gravitas-Pour-Homme-61015.html				pending

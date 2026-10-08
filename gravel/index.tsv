@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-46th-street	46th Street		unisex		https://www.fragrantica.com/perfume/Gravel/46th-Street-62337.html				pending
-a-mans-cologne	A Man's Cologne		male		https://www.fragrantica.com/perfume/Gravel/A-Man-s-Cologne-32018.html				pending
-across-the-ocean	Across the Ocean		unisex		https://www.fragrantica.com/perfume/Gravel/Across-the-Ocean-56034.html				pending
-american-dream	American Dream		unisex		https://www.fragrantica.com/perfume/Gravel/American-Dream-56035.html				pending
-evolution	Evolution		unisex		https://www.fragrantica.com/perfume/Gravel/Evolution-81610.html				pending
-hazel	Hazel		unisex		https://www.fragrantica.com/perfume/Gravel/Hazel-81609.html				pending
-hudson-river-ny	Hudson River NY		unisex		https://www.fragrantica.com/perfume/Gravel/Hudson-River-NY-62341.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+46th-street	46th Street		unisex	https://www.fragrantica.com/perfume/Gravel/46th-Street-62337.html				pending
+a-mans-cologne	A Man's Cologne	Cologne	male	https://www.fragrantica.com/perfume/Gravel/A-Man-s-Cologne-32018.html				pending
+across-the-ocean	Across the Ocean		unisex	https://www.fragrantica.com/perfume/Gravel/Across-the-Ocean-56034.html				pending
+american-dream	American Dream		unisex	https://www.fragrantica.com/perfume/Gravel/American-Dream-56035.html				pending
+evolution	Evolution		unisex	https://www.fragrantica.com/perfume/Gravel/Evolution-81610.html				pending
+hazel	Hazel		unisex	https://www.fragrantica.com/perfume/Gravel/Hazel-81609.html				pending
+hudson-river-ny	Hudson River NY		unisex	https://www.fragrantica.com/perfume/Gravel/Hudson-River-NY-62341.html				pending

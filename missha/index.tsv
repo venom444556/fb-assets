@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-eau-de-love-at-first	Eau de Love at First		female		https://www.fragrantica.com/perfume/Missha/Eau-de-Love-at-First-67969.html				pending
-eau-de-love-in-secret	Eau de Love in Secret		unisex		https://www.fragrantica.com/perfume/Missha/Eau-de-Love-in-Secret-67970.html				pending
-eau-de-love-of-dream	Eau de Love of Dream		female		https://www.fragrantica.com/perfume/Missha/Eau-de-Love-of-Dream-67971.html				pending
-ravoir-1620-in-amsterdam	Ravoir 1620 In Amsterdam		unisex		https://www.fragrantica.com/perfume/Missha/Ravoir-1620-In-Amsterdam-67964.html				pending
-ravoir-1780-in-paris	Ravoir 1780 In Paris		unisex		https://www.fragrantica.com/perfume/Missha/Ravoir-1780-In-Paris-67965.html				pending
-ravoir-1890-in-prague	Ravoir 1890 In Prague		unisex		https://www.fragrantica.com/perfume/Missha/Ravoir-1890-In-Prague-67966.html				pending
-ravoir-1920-in-new-york	Ravoir 1920 In New York		unisex		https://www.fragrantica.com/perfume/Missha/Ravoir-1920-In-New-York-67967.html				pending
-ravoir-1960-in-london	Ravoir 1960 In London		unisex		https://www.fragrantica.com/perfume/Missha/Ravoir-1960-In-London-67968.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+eau-de-love-at-first	Eau de Love at First		female	https://www.fragrantica.com/perfume/Missha/Eau-de-Love-at-First-67969.html				pending
+eau-de-love-in-secret	Eau de Love in Secret		unisex	https://www.fragrantica.com/perfume/Missha/Eau-de-Love-in-Secret-67970.html				pending
+eau-de-love-of-dream	Eau de Love of Dream		female	https://www.fragrantica.com/perfume/Missha/Eau-de-Love-of-Dream-67971.html				pending
+ravoir-1620-in-amsterdam	Ravoir 1620 In Amsterdam		unisex	https://www.fragrantica.com/perfume/Missha/Ravoir-1620-In-Amsterdam-67964.html				pending
+ravoir-1780-in-paris	Ravoir 1780 In Paris		unisex	https://www.fragrantica.com/perfume/Missha/Ravoir-1780-In-Paris-67965.html				pending
+ravoir-1890-in-prague	Ravoir 1890 In Prague		unisex	https://www.fragrantica.com/perfume/Missha/Ravoir-1890-In-Prague-67966.html				pending
+ravoir-1920-in-new-york	Ravoir 1920 In New York		unisex	https://www.fragrantica.com/perfume/Missha/Ravoir-1920-In-New-York-67967.html				pending
+ravoir-1960-in-london	Ravoir 1960 In London		unisex	https://www.fragrantica.com/perfume/Missha/Ravoir-1960-In-London-67968.html				pending

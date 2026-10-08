@@ -1,28 +1,28 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amande-sucree	Amande Sucree		female		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Amande-Sucree-9635.html				pending
-ambra-del-cashmere	Ambra Del Cashmere		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Ambra-Del-Cashmere-46759.html				pending
-bateau	Bateau		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Bateau-19206.html				pending
-bianco-cotone	Bianco Cotone		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Bianco-Cotone-38945.html				pending
-blanc-des-cotons	Blanc des Cotons		female		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Blanc-des-Cotons-9636.html				pending
-bouquet-de-bois	Bouquet de Bois		male		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Bouquet-de-Bois-9637.html				pending
-caldi-legni	Caldi Legni		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Caldi-Legni-38950.html				pending
-coeur-de-noisette	Coeur de Noisette		female		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Coeur-de-Noisette-9638.html				pending
-dea-bianca	Dea Bianca		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Dea-Bianca-38944.html				pending
-dolce-vaniglia	Dolce Vaniglia		female		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Dolce-Vaniglia-43291.html				pending
-ecorce-dorange	Ecorce d'Orange		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Ecorce-d-Orange-9639.html				pending
-fiore-narcotico	Fiore Narcotico		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Fiore-Narcotico-38947.html				pending
-fleur-de-santal	Fleur de Santal		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Fleur-de-Santal-9640.html				pending
-jardin-dorient	Jardin d’Orient		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Jardin-d-Orient-9641.html				pending
-la-rotta-del-mare	La Rotta del Mare		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/La-Rotta-del-Mare-38943.html				pending
-la-via-delle-spezie	La Via delle Spezie		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/La-Via-delle-Spezie-38949.html				pending
-nuvola-talcata	Nuvola Talcata		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Nuvola-Talcata-38948.html				pending
-patchouli	Patchouli		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Patchouli-44367.html				pending
-pepe-and-menta	Pepe & Menta		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Pepe-Menta-44368.html				pending
-petale-rose	Petale Rose		female		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Petale-Rose-9645.html				pending
-poudre-depices	Poudre d'Epices		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Poudre-d-Epices-9642.html				pending
-saveur-dartichaut	Saveur d'Artichaut		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Saveur-d-Artichaut-9643.html				pending
-soffio-diris	Soffio d'Iris		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Soffio-d-Iris-46760.html				pending
-the-nero	The Nero		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/The-Nero-46758.html				pending
-toujours-verts	Toujours Verts		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Toujours-Verts-9644.html				pending
-vetyver	Vetyver		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Vetyver-46757.html				pending
-zucchero-di-mandorla	Zucchero di Mandorla		unisex		https://www.fragrantica.com/perfume/Sinfonia-di-Note/Zucchero-di-Mandorla-38946.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amande-sucree	Amande Sucree		female	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Amande-Sucree-9635.html				pending
+ambra-del-cashmere	Ambra Del Cashmere		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Ambra-Del-Cashmere-46759.html				pending
+bateau	Bateau		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Bateau-19206.html				pending
+bianco-cotone	Bianco Cotone		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Bianco-Cotone-38945.html				pending
+blanc-des-cotons	Blanc des Cotons		female	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Blanc-des-Cotons-9636.html				pending
+bouquet-de-bois	Bouquet de Bois		male	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Bouquet-de-Bois-9637.html				pending
+caldi-legni	Caldi Legni		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Caldi-Legni-38950.html				pending
+coeur-de-noisette	Coeur de Noisette		female	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Coeur-de-Noisette-9638.html				pending
+dea-bianca	Dea Bianca		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Dea-Bianca-38944.html				pending
+dolce-vaniglia	Dolce Vaniglia		female	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Dolce-Vaniglia-43291.html				pending
+ecorce-dorange	Ecorce d'Orange		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Ecorce-d-Orange-9639.html				pending
+fiore-narcotico	Fiore Narcotico		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Fiore-Narcotico-38947.html				pending
+fleur-de-santal	Fleur de Santal		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Fleur-de-Santal-9640.html				pending
+jardin-dorient	Jardin d’Orient		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Jardin-d-Orient-9641.html				pending
+la-rotta-del-mare	La Rotta del Mare		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/La-Rotta-del-Mare-38943.html				pending
+la-via-delle-spezie	La Via delle Spezie		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/La-Via-delle-Spezie-38949.html				pending
+nuvola-talcata	Nuvola Talcata		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Nuvola-Talcata-38948.html				pending
+patchouli	Patchouli		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Patchouli-44367.html				pending
+pepe-and-menta	Pepe & Menta		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Pepe-Menta-44368.html				pending
+petale-rose	Petale Rose		female	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Petale-Rose-9645.html				pending
+poudre-depices	Poudre d'Epices		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Poudre-d-Epices-9642.html				pending
+saveur-dartichaut	Saveur d'Artichaut		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Saveur-d-Artichaut-9643.html				pending
+soffio-diris	Soffio d'Iris		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Soffio-d-Iris-46760.html				pending
+the-nero	The Nero		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/The-Nero-46758.html				pending
+toujours-verts	Toujours Verts		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Toujours-Verts-9644.html				pending
+vetyver	Vetyver		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Vetyver-46757.html				pending
+zucchero-di-mandorla	Zucchero di Mandorla		unisex	https://www.fragrantica.com/perfume/Sinfonia-di-Note/Zucchero-di-Mandorla-38946.html				pending

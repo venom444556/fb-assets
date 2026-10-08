@@ -1,9 +1,9 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-berbera	BERBERA		unisex		https://www.fragrantica.com/perfume/Nissaba/BERBERA-90101.html				pending
-chaco	CHACO		unisex		https://www.fragrantica.com/perfume/Nissaba/CHACO-80503.html				pending
-grande-ile	GRANDE ILE		unisex		https://www.fragrantica.com/perfume/Nissaba/GRANDE-ILE-80505.html				pending
-les-alpes	LES ALPES		unisex		https://www.fragrantica.com/perfume/Nissaba/LES-ALPES-103463.html				pending
-malli-nadu	MALLI NADU		female		https://www.fragrantica.com/perfume/Nissaba/MALLI-NADU-91045.html				pending
-provence	PROVENCE		unisex		https://www.fragrantica.com/perfume/Nissaba/PROVENCE-80506.html				pending
-sulawesi	SULAWESI		unisex		https://www.fragrantica.com/perfume/Nissaba/SULAWESI-80504.html				pending
-tierra-maya	TIERRA MAYA		unisex		https://www.fragrantica.com/perfume/Nissaba/TIERRA-MAYA-80507.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+berbera	BERBERA		unisex	https://www.fragrantica.com/perfume/Nissaba/BERBERA-90101.html				pending
+chaco	CHACO		unisex	https://www.fragrantica.com/perfume/Nissaba/CHACO-80503.html				pending
+grande-ile	GRANDE ILE		unisex	https://www.fragrantica.com/perfume/Nissaba/GRANDE-ILE-80505.html				pending
+les-alpes	LES ALPES		unisex	https://www.fragrantica.com/perfume/Nissaba/LES-ALPES-103463.html				pending
+malli-nadu	MALLI NADU		female	https://www.fragrantica.com/perfume/Nissaba/MALLI-NADU-91045.html				pending
+provence	PROVENCE		unisex	https://www.fragrantica.com/perfume/Nissaba/PROVENCE-80506.html				pending
+sulawesi	SULAWESI		unisex	https://www.fragrantica.com/perfume/Nissaba/SULAWESI-80504.html				pending
+tierra-maya	TIERRA MAYA		unisex	https://www.fragrantica.com/perfume/Nissaba/TIERRA-MAYA-80507.html				pending

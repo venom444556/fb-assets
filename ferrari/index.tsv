@@ -1,38 +1,38 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amber-essence	Amber Essence		male		https://www.fragrantica.com/perfume/Ferrari/Amber-Essence-34815.html				pending
-amber-essence-2016	Amber Essence (2016)		male		https://www.fragrantica.com/perfume/Ferrari/Amber-Essence-2016-39891.html				pending
-bright-neroli	Bright Neroli		unisex		https://www.fragrantica.com/perfume/Ferrari/Bright-Neroli-30258.html				pending
-cedar-essence	Cedar Essence		male		https://www.fragrantica.com/perfume/Ferrari/Cedar-Essence-24450.html				pending
-donna	Donna		female		https://www.fragrantica.com/perfume/Ferrari/Donna-41580.html				pending
-essence-musk	Essence Musk		male		https://www.fragrantica.com/perfume/Ferrari/Essence-Musk-17488.html				pending
-essence-oud	Essence Oud		male		https://www.fragrantica.com/perfume/Ferrari/Essence-Oud-14789.html				pending
-ferrari-black	Ferrari Black		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Black-792.html				pending
-ferrari-extreme	Ferrari Extreme		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Extreme-794.html				pending
-ferrari-light-essence	Ferrari Light Essence		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Light-Essence-3341.html				pending
-ferrari-man-in-red	Ferrari Man in Red		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Man-in-Red-32402.html				pending
-ferrari-no-1	Ferrari No 1		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-No-1-3342.html				pending
-ferrari-passion-unlimited	Ferrari Passion Unlimited		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Passion-Unlimited-3343.html				pending
-ferrari-racing	Ferrari Racing		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Racing-793.html				pending
-ferrari-red-power-intense	Ferrari Red Power Intense		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Red-Power-Intense-27391.html				pending
-ferrari-silver-essence	Ferrari Silver Essence		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Silver-Essence-15961.html				pending
-ferrari-uomo	Ferrari Uomo		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Uomo-5888.html				pending
-ferrari-yellow	Ferrari Yellow		male		https://www.fragrantica.com/perfume/Ferrari/Ferrari-Yellow-46118.html				pending
-leather-essence	Leather Essence		male		https://www.fragrantica.com/perfume/Ferrari/Leather-Essence-18901.html				pending
-noble-fig	Noble Fig		unisex		https://www.fragrantica.com/perfume/Ferrari/Noble-Fig-30259.html				pending
-pure-lavender	Pure Lavender		unisex		https://www.fragrantica.com/perfume/Ferrari/Pure-Lavender-30257.html				pending
-radiant-bergamot	Radiant Bergamot		unisex		https://www.fragrantica.com/perfume/Ferrari/Radiant-Bergamot-39894.html				pending
-red-power	Red Power		male		https://www.fragrantica.com/perfume/Ferrari/Red-Power-15158.html				pending
-red-power-ice-3	Red Power Ice 3		male		https://www.fragrantica.com/perfume/Ferrari/Red-Power-Ice-3-30576.html				pending
-scuderia-ferrari	Scuderia Ferrari		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-9542.html				pending
-scuderia-ferrari-black	Scuderia Ferrari Black		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Black-25064.html				pending
-scuderia-ferrari-black-limited-edition	Scuderia Ferrari Black Limited Edition		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Black-Limited-Edition-25065.html				pending
-scuderia-ferrari-black-shine	Scuderia Ferrari Black Shine		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Black-Shine-13674.html				pending
-scuderia-ferrari-black-signature	Scuderia Ferrari Black Signature		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Black-Signature-25063.html				pending
-scuderia-ferrari-extreme	Scuderia Ferrari Extreme		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Extreme-25075.html				pending
-scuderia-ferrari-forte	Scuderia Ferrari Forte		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Forte-44054.html				pending
-scuderia-ferrari-light-essence-acqua	Scuderia Ferrari Light Essence Acqua		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Light-Essence-Acqua-24984.html				pending
-scuderia-ferrari-light-essence-bright	Scuderia Ferrari Light Essence Bright		unisex		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Light-Essence-Bright-24985.html				pending
-scuderia-ferrari-racing-red	Scuderia Ferrari Racing Red		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Racing-Red-25062.html				pending
-scuderia-ferrari-red	Scuderia Ferrari Red		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Red-25061.html				pending
-scuderia-ferrari-scuderia-club	Scuderia Ferrari Scuderia Club		male		https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Scuderia-Club-23224.html				pending
-vetiver-essence	Vetiver Essence		male		https://www.fragrantica.com/perfume/Ferrari/Vetiver-Essence-28051.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amber-essence	Amber Essence		male	https://www.fragrantica.com/perfume/Ferrari/Amber-Essence-34815.html				pending
+amber-essence-2016	Amber Essence (2016)		male	https://www.fragrantica.com/perfume/Ferrari/Amber-Essence-2016-39891.html				pending
+bright-neroli	Bright Neroli		unisex	https://www.fragrantica.com/perfume/Ferrari/Bright-Neroli-30258.html				pending
+cedar-essence	Cedar Essence		male	https://www.fragrantica.com/perfume/Ferrari/Cedar-Essence-24450.html				pending
+donna	Donna		female	https://www.fragrantica.com/perfume/Ferrari/Donna-41580.html				pending
+essence-musk	Essence Musk		male	https://www.fragrantica.com/perfume/Ferrari/Essence-Musk-17488.html				pending
+essence-oud	Essence Oud		male	https://www.fragrantica.com/perfume/Ferrari/Essence-Oud-14789.html				pending
+ferrari-black	Ferrari Black		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Black-792.html				pending
+ferrari-extreme	Ferrari Extreme		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Extreme-794.html				pending
+ferrari-light-essence	Ferrari Light Essence		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Light-Essence-3341.html				pending
+ferrari-man-in-red	Ferrari Man in Red		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Man-in-Red-32402.html				pending
+ferrari-no-1	Ferrari No 1		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-No-1-3342.html				pending
+ferrari-passion-unlimited	Ferrari Passion Unlimited		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Passion-Unlimited-3343.html				pending
+ferrari-racing	Ferrari Racing		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Racing-793.html				pending
+ferrari-red-power-intense	Ferrari Red Power Intense		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Red-Power-Intense-27391.html				pending
+ferrari-silver-essence	Ferrari Silver Essence		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Silver-Essence-15961.html				pending
+ferrari-uomo	Ferrari Uomo		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Uomo-5888.html				pending
+ferrari-yellow	Ferrari Yellow		male	https://www.fragrantica.com/perfume/Ferrari/Ferrari-Yellow-46118.html				pending
+leather-essence	Leather Essence		male	https://www.fragrantica.com/perfume/Ferrari/Leather-Essence-18901.html				pending
+noble-fig	Noble Fig		unisex	https://www.fragrantica.com/perfume/Ferrari/Noble-Fig-30259.html				pending
+pure-lavender	Pure Lavender		unisex	https://www.fragrantica.com/perfume/Ferrari/Pure-Lavender-30257.html				pending
+radiant-bergamot	Radiant Bergamot		unisex	https://www.fragrantica.com/perfume/Ferrari/Radiant-Bergamot-39894.html				pending
+red-power	Red Power		male	https://www.fragrantica.com/perfume/Ferrari/Red-Power-15158.html				pending
+red-power-ice-3	Red Power Ice 3		male	https://www.fragrantica.com/perfume/Ferrari/Red-Power-Ice-3-30576.html				pending
+scuderia-ferrari	Scuderia Ferrari		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-9542.html				pending
+scuderia-ferrari-black	Scuderia Ferrari Black		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Black-25064.html				pending
+scuderia-ferrari-black-limited-edition	Scuderia Ferrari Black Limited Edition		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Black-Limited-Edition-25065.html				pending
+scuderia-ferrari-black-shine	Scuderia Ferrari Black Shine		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Black-Shine-13674.html				pending
+scuderia-ferrari-black-signature	Scuderia Ferrari Black Signature		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Black-Signature-25063.html				pending
+scuderia-ferrari-extreme	Scuderia Ferrari Extreme		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Extreme-25075.html				pending
+scuderia-ferrari-forte	Scuderia Ferrari Forte		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Forte-44054.html				pending
+scuderia-ferrari-light-essence-acqua	Scuderia Ferrari Light Essence Acqua		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Light-Essence-Acqua-24984.html				pending
+scuderia-ferrari-light-essence-bright	Scuderia Ferrari Light Essence Bright		unisex	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Light-Essence-Bright-24985.html				pending
+scuderia-ferrari-racing-red	Scuderia Ferrari Racing Red		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Racing-Red-25062.html				pending
+scuderia-ferrari-red	Scuderia Ferrari Red		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Red-25061.html				pending
+scuderia-ferrari-scuderia-club	Scuderia Ferrari Scuderia Club		male	https://www.fragrantica.com/perfume/Ferrari/Scuderia-Ferrari-Scuderia-Club-23224.html				pending
+vetiver-essence	Vetiver Essence		male	https://www.fragrantica.com/perfume/Ferrari/Vetiver-Essence-28051.html				pending

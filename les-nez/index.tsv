@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-lantimatiere	L'Antimatiere		unisex		https://www.fragrantica.com/perfume/Les-Nez/L-Antimatiere-8625.html				pending
-let-me-play-the-lion	Let Me Play the Lion		unisex		https://www.fragrantica.com/perfume/Les-Nez/Let-Me-Play-the-Lion-8624.html				pending
-manoumalia	Manoumalia		female		https://www.fragrantica.com/perfume/Les-Nez/Manoumalia-8627.html				pending
-the-unicorn-spell	The Unicorn Spell		female		https://www.fragrantica.com/perfume/Les-Nez/The-Unicorn-Spell-8623.html				pending
-turtle-vetiver	Turtle Vetiver		male		https://www.fragrantica.com/perfume/Les-Nez/Turtle-Vetiver-8626.html				pending
-turtle-vetiver-back	Turtle Vetiver Back		unisex		https://www.fragrantica.com/perfume/Les-Nez/Turtle-Vetiver-Back-17747.html				pending
-turtle-vetiver-front	Turtle Vetiver Front		unisex		https://www.fragrantica.com/perfume/Les-Nez/Turtle-Vetiver-Front-20960.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+lantimatiere	L'Antimatiere		unisex	https://www.fragrantica.com/perfume/Les-Nez/L-Antimatiere-8625.html				pending
+let-me-play-the-lion	Let Me Play the Lion		unisex	https://www.fragrantica.com/perfume/Les-Nez/Let-Me-Play-the-Lion-8624.html				pending
+manoumalia	Manoumalia		female	https://www.fragrantica.com/perfume/Les-Nez/Manoumalia-8627.html				pending
+the-unicorn-spell	The Unicorn Spell		female	https://www.fragrantica.com/perfume/Les-Nez/The-Unicorn-Spell-8623.html				pending
+turtle-vetiver	Turtle Vetiver		male	https://www.fragrantica.com/perfume/Les-Nez/Turtle-Vetiver-8626.html				pending
+turtle-vetiver-back	Turtle Vetiver Back		unisex	https://www.fragrantica.com/perfume/Les-Nez/Turtle-Vetiver-Back-17747.html				pending
+turtle-vetiver-front	Turtle Vetiver Front		unisex	https://www.fragrantica.com/perfume/Les-Nez/Turtle-Vetiver-Front-20960.html				pending

@@ -1,38 +1,38 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-attache	Attache		male		https://www.fragrantica.com/perfume/Signature-Fragrances/Attache-29069.html				pending
-british-musk	British Musk		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/British-Musk-29063.html				pending
-coffee-oud-noire	Coffee Oud Noire		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Coffee-Oud-Noire-74724.html				pending
-cool-demure	Cool Demure		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Cool-Demure-49685.html				pending
-deja-vu	Deja Vu		female		https://www.fragrantica.com/perfume/Signature-Fragrances/Deja-Vu-29057.html				pending
-demure	Demure		male		https://www.fragrantica.com/perfume/Signature-Fragrances/Demure-29068.html				pending
-endure	Endure		female		https://www.fragrantica.com/perfume/Signature-Fragrances/Endure-29060.html				pending
-english-oud	English Oud		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/English-Oud-49678.html				pending
-english-patchouli	English Patchouli		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/English-Patchouli-74729.html				pending
-exotic-rouge	Exotic Rouge		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Exotic-Rouge-74721.html				pending
-fruit-rosse	Fruit Rosse		female		https://www.fragrantica.com/perfume/Signature-Fragrances/Fruit-Rosse-29061.html				pending
-fruity-fusion	Fruity Fusion		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Fruity-Fusion-49684.html				pending
-glorious	Glorious		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Glorious-74720.html				pending
-isparta-rose	Isparta Rose		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Isparta-Rose-49682.html				pending
-leather-edition	Leather Edition		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Leather-Edition-74725.html				pending
-lily	Lily		female		https://www.fragrantica.com/perfume/Signature-Fragrances/Lily-29071.html				pending
-lola	Lola		female		https://www.fragrantica.com/perfume/Signature-Fragrances/Lola-29058.html				pending
-lola-intense	Lola Intense		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Lola-Intense-49686.html				pending
-london-leather	London Leather		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/London-Leather-49680.html				pending
-london-nights	London Nights		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/London-Nights-74723.html				pending
-london-ruby	London Ruby		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/London-Ruby-74722.html				pending
-lurre	Lurre		female		https://www.fragrantica.com/perfume/Signature-Fragrances/Lurre-29056.html				pending
-nouveau	Nouveau		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Nouveau-29070.html				pending
-odd-rush	Odd Rush		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Odd-Rush-29072.html				pending
-opulence-oud	Opulence Oud		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Opulence-Oud-74727.html				pending
-oud-bete-noire	Oud Bete Noire		male		https://www.fragrantica.com/perfume/Signature-Fragrances/Oud-Bete-Noire-29066.html				pending
-oud-memlaki	Oud Memlaki		male		https://www.fragrantica.com/perfume/Signature-Fragrances/Oud-Memlaki-29064.html				pending
-renaissance	Renaissance		male		https://www.fragrantica.com/perfume/Signature-Fragrances/Renaissance-29067.html				pending
-rose-art	Rose Art		female		https://www.fragrantica.com/perfume/Signature-Fragrances/Rose-Art-29062.html				pending
-santal-couture	Santal Couture		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Santal-Couture-49681.html				pending
-sublime-oud	Sublime Oud		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/Sublime-Oud-49679.html				pending
-tobacco-intense	Tobacco Intense		male		https://www.fragrantica.com/perfume/Signature-Fragrances/Tobacco-Intense-74728.html				pending
-un-chercher	Un Chercher		male		https://www.fragrantica.com/perfume/Signature-Fragrances/Un-Chercher-32869.html				pending
-violet-leaves-and-jasmine	Violet Leaves & Jasmine		female		https://www.fragrantica.com/perfume/Signature-Fragrances/Violet-Leaves-Jasmine-29059.html				pending
-white-tea-rose	White Tea Rose		unisex		https://www.fragrantica.com/perfume/Signature-Fragrances/White-Tea-Rose-49683.html				pending
-woody-conjure	Woody Conjure		male		https://www.fragrantica.com/perfume/Signature-Fragrances/Woody-Conjure-29065.html				pending
-woody-conjure-74726	Woody Conjure		male		https://www.fragrantica.com/perfume/Signature-Fragrances/Woody-Conjure-74726.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+attache	Attache		male	https://www.fragrantica.com/perfume/Signature-Fragrances/Attache-29069.html				pending
+british-musk	British Musk		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/British-Musk-29063.html				pending
+coffee-oud-noire	Coffee Oud Noire		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Coffee-Oud-Noire-74724.html				pending
+cool-demure	Cool Demure		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Cool-Demure-49685.html				pending
+deja-vu	Deja Vu		female	https://www.fragrantica.com/perfume/Signature-Fragrances/Deja-Vu-29057.html				pending
+demure	Demure		male	https://www.fragrantica.com/perfume/Signature-Fragrances/Demure-29068.html				pending
+endure	Endure		female	https://www.fragrantica.com/perfume/Signature-Fragrances/Endure-29060.html				pending
+english-oud	English Oud		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/English-Oud-49678.html				pending
+english-patchouli	English Patchouli		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/English-Patchouli-74729.html				pending
+exotic-rouge	Exotic Rouge		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Exotic-Rouge-74721.html				pending
+fruit-rosse	Fruit Rosse		female	https://www.fragrantica.com/perfume/Signature-Fragrances/Fruit-Rosse-29061.html				pending
+fruity-fusion	Fruity Fusion		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Fruity-Fusion-49684.html				pending
+glorious	Glorious		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Glorious-74720.html				pending
+isparta-rose	Isparta Rose		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Isparta-Rose-49682.html				pending
+leather-edition	Leather Edition		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Leather-Edition-74725.html				pending
+lily	Lily		female	https://www.fragrantica.com/perfume/Signature-Fragrances/Lily-29071.html				pending
+lola	Lola		female	https://www.fragrantica.com/perfume/Signature-Fragrances/Lola-29058.html				pending
+lola-intense	Lola Intense		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Lola-Intense-49686.html				pending
+london-leather	London Leather		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/London-Leather-49680.html				pending
+london-nights	London Nights		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/London-Nights-74723.html				pending
+london-ruby	London Ruby		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/London-Ruby-74722.html				pending
+lurre	Lurre		female	https://www.fragrantica.com/perfume/Signature-Fragrances/Lurre-29056.html				pending
+nouveau	Nouveau		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Nouveau-29070.html				pending
+odd-rush	Odd Rush		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Odd-Rush-29072.html				pending
+opulence-oud	Opulence Oud		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Opulence-Oud-74727.html				pending
+oud-bete-noire	Oud Bete Noire		male	https://www.fragrantica.com/perfume/Signature-Fragrances/Oud-Bete-Noire-29066.html				pending
+oud-memlaki	Oud Memlaki		male	https://www.fragrantica.com/perfume/Signature-Fragrances/Oud-Memlaki-29064.html				pending
+renaissance	Renaissance		male	https://www.fragrantica.com/perfume/Signature-Fragrances/Renaissance-29067.html				pending
+rose-art	Rose Art		female	https://www.fragrantica.com/perfume/Signature-Fragrances/Rose-Art-29062.html				pending
+santal-couture	Santal Couture		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Santal-Couture-49681.html				pending
+sublime-oud	Sublime Oud		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/Sublime-Oud-49679.html				pending
+tobacco-intense	Tobacco Intense		male	https://www.fragrantica.com/perfume/Signature-Fragrances/Tobacco-Intense-74728.html				pending
+un-chercher	Un Chercher		male	https://www.fragrantica.com/perfume/Signature-Fragrances/Un-Chercher-32869.html				pending
+violet-leaves-and-jasmine	Violet Leaves & Jasmine		female	https://www.fragrantica.com/perfume/Signature-Fragrances/Violet-Leaves-Jasmine-29059.html				pending
+white-tea-rose	White Tea Rose		unisex	https://www.fragrantica.com/perfume/Signature-Fragrances/White-Tea-Rose-49683.html				pending
+woody-conjure	Woody Conjure		male	https://www.fragrantica.com/perfume/Signature-Fragrances/Woody-Conjure-29065.html				pending
+woody-conjure-74726	Woody Conjure		male	https://www.fragrantica.com/perfume/Signature-Fragrances/Woody-Conjure-74726.html				pending

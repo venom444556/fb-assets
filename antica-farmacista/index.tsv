@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ala-moana	Ala Moana		unisex		https://www.fragrantica.com/perfume/Antica-Farmacista/Ala-Moana-20456.html				pending
-fico-verde	Fico Verde		unisex		https://www.fragrantica.com/perfume/Antica-Farmacista/Fico-Verde-5171.html				pending
-grapefruit	Grapefruit		female		https://www.fragrantica.com/perfume/Antica-Farmacista/Grapefruit-7244.html				pending
-green-fig	Green Fig		unisex		https://www.fragrantica.com/perfume/Antica-Farmacista/Green-Fig-20457.html				pending
-lustrous-fire	Lustrous Fire		unisex		https://www.fragrantica.com/perfume/Antica-Farmacista/Lustrous-Fire-5172.html				pending
-magnolia-orchid-and-mimosa	Magnolia, Orchid & Mimosa		female		https://www.fragrantica.com/perfume/Antica-Farmacista/Magnolia-Orchid-Mimosa-7248.html				pending
-orange-blossom-lilac-and-jasmine	Orange Blossom, Lilac & Jasmine		female		https://www.fragrantica.com/perfume/Antica-Farmacista/Orange-Blossom-Lilac-Jasmine-7243.html				pending
-prosecco	Prosecco		female		https://www.fragrantica.com/perfume/Antica-Farmacista/Prosecco-45212.html				pending
-tuberose-hyacinth-and-lily-of-the-valley	Tuberose, Hyacinth & Lily of the Valley		female		https://www.fragrantica.com/perfume/Antica-Farmacista/Tuberose-Hyacinth-Lily-of-the-Valley-7246.html				pending
-vanilla-bourbon-and-mandarin	Vanilla, Bourbon & Mandarin		unisex		https://www.fragrantica.com/perfume/Antica-Farmacista/Vanilla-Bourbon-Mandarin-20458.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ala-moana	Ala Moana		unisex	https://www.fragrantica.com/perfume/Antica-Farmacista/Ala-Moana-20456.html				pending
+fico-verde	Fico Verde		unisex	https://www.fragrantica.com/perfume/Antica-Farmacista/Fico-Verde-5171.html				pending
+grapefruit	Grapefruit		female	https://www.fragrantica.com/perfume/Antica-Farmacista/Grapefruit-7244.html				pending
+green-fig	Green Fig		unisex	https://www.fragrantica.com/perfume/Antica-Farmacista/Green-Fig-20457.html				pending
+lustrous-fire	Lustrous Fire		unisex	https://www.fragrantica.com/perfume/Antica-Farmacista/Lustrous-Fire-5172.html				pending
+magnolia-orchid-and-mimosa	Magnolia, Orchid & Mimosa		female	https://www.fragrantica.com/perfume/Antica-Farmacista/Magnolia-Orchid-Mimosa-7248.html				pending
+orange-blossom-lilac-and-jasmine	Orange Blossom, Lilac & Jasmine		female	https://www.fragrantica.com/perfume/Antica-Farmacista/Orange-Blossom-Lilac-Jasmine-7243.html				pending
+prosecco	Prosecco		female	https://www.fragrantica.com/perfume/Antica-Farmacista/Prosecco-45212.html				pending
+tuberose-hyacinth-and-lily-of-the-valley	Tuberose, Hyacinth & Lily of the Valley		female	https://www.fragrantica.com/perfume/Antica-Farmacista/Tuberose-Hyacinth-Lily-of-the-Valley-7246.html				pending
+vanilla-bourbon-and-mandarin	Vanilla, Bourbon & Mandarin		unisex	https://www.fragrantica.com/perfume/Antica-Farmacista/Vanilla-Bourbon-Mandarin-20458.html				pending

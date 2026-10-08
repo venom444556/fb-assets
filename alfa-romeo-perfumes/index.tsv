@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black	Black		male		https://www.fragrantica.com/perfume/Alfa-Romeo-Perfumes/Black-70093.html				pending
-blue	Blue		male		https://www.fragrantica.com/perfume/Alfa-Romeo-Perfumes/Blue-70092.html				pending
-green	Green		male		https://www.fragrantica.com/perfume/Alfa-Romeo-Perfumes/Green-94182.html				pending
-red	Red		male		https://www.fragrantica.com/perfume/Alfa-Romeo-Perfumes/Red-70091.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black	Black		male	https://www.fragrantica.com/perfume/Alfa-Romeo-Perfumes/Black-70093.html				pending
+blue	Blue		male	https://www.fragrantica.com/perfume/Alfa-Romeo-Perfumes/Blue-70092.html				pending
+green	Green		male	https://www.fragrantica.com/perfume/Alfa-Romeo-Perfumes/Green-94182.html				pending
+red	Red		male	https://www.fragrantica.com/perfume/Alfa-Romeo-Perfumes/Red-70091.html				pending

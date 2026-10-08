@@ -1,26 +1,26 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amore	Amore		female		https://www.fragrantica.com/perfume/Vince-Camuto/Amore-25814.html				pending
-bella	Bella		female		https://www.fragrantica.com/perfume/Vince-Camuto/Bella-29202.html				pending
-bella-notte	Bella Notte		female		https://www.fragrantica.com/perfume/Vince-Camuto/Bella-Notte-81634.html				pending
-brilliante	Brilliante		female		https://www.fragrantica.com/perfume/Vince-Camuto/Brilliante-62674.html				pending
-capri	Capri		female		https://www.fragrantica.com/perfume/Vince-Camuto/Capri-34770.html				pending
-ciao	Ciao		female		https://www.fragrantica.com/perfume/Vince-Camuto/Ciao-41563.html				pending
-divina	Divina		female		https://www.fragrantica.com/perfume/Vince-Camuto/Divina-48847.html				pending
-fiori	Fiori		female		https://www.fragrantica.com/perfume/Vince-Camuto/Fiori-17833.html				pending
-floreale	Floreale		female		https://www.fragrantica.com/perfume/Vince-Camuto/Floreale-70544.html				pending
-illuminare	Illuminare		female		https://www.fragrantica.com/perfume/Vince-Camuto/Illuminare-56211.html				pending
-illuminare-intensa	Illuminare Intensa		female		https://www.fragrantica.com/perfume/Vince-Camuto/Illuminare-Intensa-64828.html				pending
-riviera	Riviera		male		https://www.fragrantica.com/perfume/Vince-Camuto/Riviera-84574.html				pending
-smoked-oud	Smoked Oud		male		https://www.fragrantica.com/perfume/Vince-Camuto/Smoked-Oud-46984.html				pending
-terra	Terra		male		https://www.fragrantica.com/perfume/Vince-Camuto/Terra-41565.html				pending
-terra-extreme	Terra Extreme		male		https://www.fragrantica.com/perfume/Vince-Camuto/Terra-Extreme-62726.html				pending
-vince-camuto	Vince Camuto		female		https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-13018.html				pending
-vince-camuto-eterno	Vince Camuto Eterno		male		https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Eterno-36604.html				pending
-vince-camuto-femme	Vince Camuto Femme		female		https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Femme-23016.html				pending
-vince-camuto-for-men	Vince Camuto for Men		male		https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-for-Men-15942.html				pending
-vince-camuto-homme	Vince Camuto Homme		male		https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Homme-24792.html				pending
-vince-camuto-homme-intenso	Vince Camuto Homme Intenso		male		https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Homme-Intenso-70549.html				pending
-vince-camuto-oud	Vince Camuto Oud		male		https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Oud-39668.html				pending
-vince-camuto-solare	Vince Camuto Solare		male		https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Solare-30117.html				pending
-virtu	Virtu		male		https://www.fragrantica.com/perfume/Vince-Camuto/Virtu-51235.html				pending
-wonderbloom	Wonderbloom		female		https://www.fragrantica.com/perfume/Vince-Camuto/Wonderbloom-91929.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+amore	Amore		female	https://www.fragrantica.com/perfume/Vince-Camuto/Amore-25814.html				pending
+bella	Bella		female	https://www.fragrantica.com/perfume/Vince-Camuto/Bella-29202.html				pending
+bella-notte	Bella Notte		female	https://www.fragrantica.com/perfume/Vince-Camuto/Bella-Notte-81634.html				pending
+brilliante	Brilliante		female	https://www.fragrantica.com/perfume/Vince-Camuto/Brilliante-62674.html				pending
+capri	Capri		female	https://www.fragrantica.com/perfume/Vince-Camuto/Capri-34770.html				pending
+ciao	Ciao		female	https://www.fragrantica.com/perfume/Vince-Camuto/Ciao-41563.html				pending
+divina	Divina		female	https://www.fragrantica.com/perfume/Vince-Camuto/Divina-48847.html				pending
+fiori	Fiori		female	https://www.fragrantica.com/perfume/Vince-Camuto/Fiori-17833.html				pending
+floreale	Floreale		female	https://www.fragrantica.com/perfume/Vince-Camuto/Floreale-70544.html				pending
+illuminare	Illuminare		female	https://www.fragrantica.com/perfume/Vince-Camuto/Illuminare-56211.html				pending
+illuminare-intensa	Illuminare Intensa		female	https://www.fragrantica.com/perfume/Vince-Camuto/Illuminare-Intensa-64828.html				pending
+riviera	Riviera		male	https://www.fragrantica.com/perfume/Vince-Camuto/Riviera-84574.html				pending
+smoked-oud	Smoked Oud		male	https://www.fragrantica.com/perfume/Vince-Camuto/Smoked-Oud-46984.html				pending
+terra	Terra		male	https://www.fragrantica.com/perfume/Vince-Camuto/Terra-41565.html				pending
+terra-extreme	Terra Extreme		male	https://www.fragrantica.com/perfume/Vince-Camuto/Terra-Extreme-62726.html				pending
+vince-camuto	Vince Camuto		female	https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-13018.html				pending
+vince-camuto-eterno	Vince Camuto Eterno		male	https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Eterno-36604.html				pending
+vince-camuto-femme	Vince Camuto Femme		female	https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Femme-23016.html				pending
+vince-camuto-for-men	Vince Camuto for Men		male	https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-for-Men-15942.html				pending
+vince-camuto-homme	Vince Camuto Homme		male	https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Homme-24792.html				pending
+vince-camuto-homme-intenso	Vince Camuto Homme Intenso		male	https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Homme-Intenso-70549.html				pending
+vince-camuto-oud	Vince Camuto Oud		male	https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Oud-39668.html				pending
+vince-camuto-solare	Vince Camuto Solare		male	https://www.fragrantica.com/perfume/Vince-Camuto/Vince-Camuto-Solare-30117.html				pending
+virtu	Virtu		male	https://www.fragrantica.com/perfume/Vince-Camuto/Virtu-51235.html				pending
+wonderbloom	Wonderbloom		female	https://www.fragrantica.com/perfume/Vince-Camuto/Wonderbloom-91929.html				pending

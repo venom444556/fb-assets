@@ -1,20 +1,20 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-bharara-queen	Bharara Queen		female		https://www.fragrantica.com/perfume/Bharara/Bharara-Queen-95437.html				pending
-bleu	Bleu		male		https://www.fragrantica.com/perfume/Bharara/Bleu-79500.html				pending
-champagne-black	Champagne Black		unisex		https://www.fragrantica.com/perfume/Bharara/Champagne-Black-79506.html				pending
-champagne-blue	Champagne Blue		male		https://www.fragrantica.com/perfume/Bharara/Champagne-Blue-79508.html				pending
-champagne-pink	Champagne Pink		female		https://www.fragrantica.com/perfume/Bharara/Champagne-Pink-79511.html				pending
-champagne-pour-femme	Champagne Pour Femme		female		https://www.fragrantica.com/perfume/Bharara/Champagne-Pour-Femme-79507.html				pending
-don	Don		male		https://www.fragrantica.com/perfume/Bharara/Don-79503.html				pending
-double-bleu	Double Bleu		male		https://www.fragrantica.com/perfume/Bharara/Double-Bleu-79502.html				pending
-dynamic	Dynamic		male		https://www.fragrantica.com/perfume/Bharara/Dynamic-91317.html				pending
-farao-ramses-i	Faraó Ramsés I		male		https://www.fragrantica.com/perfume/Bharara/Farao-Ramses-I-105692.html				pending
-king	King		male		https://www.fragrantica.com/perfume/Bharara/King-74184.html				pending
-niche	Niche		unisex		https://www.fragrantica.com/perfume/Bharara/Niche-79501.html				pending
-niche-femme	Niche Femme		female		https://www.fragrantica.com/perfume/Bharara/Niche-Femme-79504.html				pending
-onyx	Onyx		unisex		https://www.fragrantica.com/perfume/Bharara/Onyx-128323.html				pending
-pharaoh-ramesses-ii	Pharaoh Ramesses II		male		https://www.fragrantica.com/perfume/Bharara/Pharaoh-Ramesses-II-113753.html				pending
-viking-beirut	Viking Beirut		unisex		https://www.fragrantica.com/perfume/Bharara/Viking-Beirut-103875.html				pending
-viking-cairo	Viking Cairo		unisex		https://www.fragrantica.com/perfume/Bharara/Viking-Cairo-103876.html				pending
-viking-dubai	Viking Dubai		unisex		https://www.fragrantica.com/perfume/Bharara/Viking-Dubai-113760.html				pending
-viking-rio	Viking Rio		unisex		https://www.fragrantica.com/perfume/Bharara/Viking-Rio-96818.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+bharara-queen	Bharara Queen		female	https://www.fragrantica.com/perfume/Bharara/Bharara-Queen-95437.html				pending
+bleu	Bleu		male	https://www.fragrantica.com/perfume/Bharara/Bleu-79500.html				pending
+champagne-black	Champagne Black		unisex	https://www.fragrantica.com/perfume/Bharara/Champagne-Black-79506.html				pending
+champagne-blue	Champagne Blue		male	https://www.fragrantica.com/perfume/Bharara/Champagne-Blue-79508.html				pending
+champagne-pink	Champagne Pink		female	https://www.fragrantica.com/perfume/Bharara/Champagne-Pink-79511.html				pending
+champagne-pour-femme	Champagne Pour Femme		female	https://www.fragrantica.com/perfume/Bharara/Champagne-Pour-Femme-79507.html				pending
+don	Don		male	https://www.fragrantica.com/perfume/Bharara/Don-79503.html				pending
+double-bleu	Double Bleu		male	https://www.fragrantica.com/perfume/Bharara/Double-Bleu-79502.html				pending
+dynamic	Dynamic		male	https://www.fragrantica.com/perfume/Bharara/Dynamic-91317.html				pending
+farao-ramses-i	Faraó Ramsés I		male	https://www.fragrantica.com/perfume/Bharara/Farao-Ramses-I-105692.html				pending
+king	King		male	https://www.fragrantica.com/perfume/Bharara/King-74184.html				pending
+niche	Niche		unisex	https://www.fragrantica.com/perfume/Bharara/Niche-79501.html				pending
+niche-femme	Niche Femme		female	https://www.fragrantica.com/perfume/Bharara/Niche-Femme-79504.html				pending
+onyx	Onyx		unisex	https://www.fragrantica.com/perfume/Bharara/Onyx-128323.html				pending
+pharaoh-ramesses-ii	Pharaoh Ramesses II		male	https://www.fragrantica.com/perfume/Bharara/Pharaoh-Ramesses-II-113753.html				pending
+viking-beirut	Viking Beirut		unisex	https://www.fragrantica.com/perfume/Bharara/Viking-Beirut-103875.html				pending
+viking-cairo	Viking Cairo		unisex	https://www.fragrantica.com/perfume/Bharara/Viking-Cairo-103876.html				pending
+viking-dubai	Viking Dubai		unisex	https://www.fragrantica.com/perfume/Bharara/Viking-Dubai-113760.html				pending
+viking-rio	Viking Rio		unisex	https://www.fragrantica.com/perfume/Bharara/Viking-Rio-96818.html				pending

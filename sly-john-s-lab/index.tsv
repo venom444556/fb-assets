@@ -1,5 +1,5 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-cherry-passion	Cherry Passion		unisex		https://www.fragrantica.com/perfume/Sly-John-s-Lab/Cherry-Passion-74925.html				pending
-indian-grass	Indian Grass		unisex		https://www.fragrantica.com/perfume/Sly-John-s-Lab/Indian-Grass-74924.html				pending
-seychelles-breeze	Seychelles Breeze		unisex		https://www.fragrantica.com/perfume/Sly-John-s-Lab/Seychelles-Breeze-74922.html				pending
-sweet-lure	Sweet Lure		unisex		https://www.fragrantica.com/perfume/Sly-John-s-Lab/Sweet-Lure-74921.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+cherry-passion	Cherry Passion		unisex	https://www.fragrantica.com/perfume/Sly-John-s-Lab/Cherry-Passion-74925.html				pending
+indian-grass	Indian Grass		unisex	https://www.fragrantica.com/perfume/Sly-John-s-Lab/Indian-Grass-74924.html				pending
+seychelles-breeze	Seychelles Breeze		unisex	https://www.fragrantica.com/perfume/Sly-John-s-Lab/Seychelles-Breeze-74922.html				pending
+sweet-lure	Sweet Lure		unisex	https://www.fragrantica.com/perfume/Sly-John-s-Lab/Sweet-Lure-74921.html				pending

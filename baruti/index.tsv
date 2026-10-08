@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-berlin-im-winter	Berlin Im Winter		unisex		https://www.fragrantica.com/perfume/Baruti/Berlin-Im-Winter-29645.html				pending
-chai	Chai		unisex		https://www.fragrantica.com/perfume/Baruti/Chai-29642.html				pending
-dama-koupa	Dama Koupa		female		https://www.fragrantica.com/perfume/Baruti/Dama-Koupa-41052.html				pending
-hot-cotton	Hot Cotton		unisex		https://www.fragrantica.com/perfume/Baruti/Hot-Cotton-91870.html				pending
-indigo	Indigo		unisex		https://www.fragrantica.com/perfume/Baruti/Indigo-29641.html				pending
-laurakimou	Laurakimou!		unisex		https://www.fragrantica.com/perfume/Baruti/Laurakimou-91869.html				pending
-mono-no-aware	Mono No Aware		unisex		https://www.fragrantica.com/perfume/Baruti/Mono-No-Aware-91811.html				pending
-nooud	NOOUD		unisex		https://www.fragrantica.com/perfume/Baruti/NOOUD-29644.html				pending
-oh-my-deer	Oh My Deer!		unisex		https://www.fragrantica.com/perfume/Baruti/Oh-My-Deer-78282.html				pending
-onder-de-linde-melkmeisje	Onder de Linde (Melkmeisje)		unisex		https://www.fragrantica.com/perfume/Baruti/Onder-de-Linde-Melkmeisje-29643.html				pending
-perverso	Perverso		unisex		https://www.fragrantica.com/perfume/Baruti/Perverso-54651.html				pending
-tindrer	Tindrer		unisex		https://www.fragrantica.com/perfume/Baruti/Tindrer-37704.html				pending
-voyance	Voyance		unisex		https://www.fragrantica.com/perfume/Baruti/Voyance-29640.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+berlin-im-winter	Berlin Im Winter		unisex	https://www.fragrantica.com/perfume/Baruti/Berlin-Im-Winter-29645.html				pending
+chai	Chai		unisex	https://www.fragrantica.com/perfume/Baruti/Chai-29642.html				pending
+dama-koupa	Dama Koupa		female	https://www.fragrantica.com/perfume/Baruti/Dama-Koupa-41052.html				pending
+hot-cotton	Hot Cotton		unisex	https://www.fragrantica.com/perfume/Baruti/Hot-Cotton-91870.html				pending
+indigo	Indigo		unisex	https://www.fragrantica.com/perfume/Baruti/Indigo-29641.html				pending
+laurakimou	Laurakimou!		unisex	https://www.fragrantica.com/perfume/Baruti/Laurakimou-91869.html				pending
+mono-no-aware	Mono No Aware		unisex	https://www.fragrantica.com/perfume/Baruti/Mono-No-Aware-91811.html				pending
+nooud	NOOUD		unisex	https://www.fragrantica.com/perfume/Baruti/NOOUD-29644.html				pending
+oh-my-deer	Oh My Deer!		unisex	https://www.fragrantica.com/perfume/Baruti/Oh-My-Deer-78282.html				pending
+onder-de-linde-melkmeisje	Onder de Linde (Melkmeisje)		unisex	https://www.fragrantica.com/perfume/Baruti/Onder-de-Linde-Melkmeisje-29643.html				pending
+perverso	Perverso		unisex	https://www.fragrantica.com/perfume/Baruti/Perverso-54651.html				pending
+tindrer	Tindrer		unisex	https://www.fragrantica.com/perfume/Baruti/Tindrer-37704.html				pending
+voyance	Voyance		unisex	https://www.fragrantica.com/perfume/Baruti/Voyance-29640.html				pending

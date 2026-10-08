@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-big-sky	Big Sky		unisex		https://www.fragrantica.com/perfume/Abbott-New-York-City/Big-Sky-55236.html				pending
-crescent-beach	Crescent Beach		unisex		https://www.fragrantica.com/perfume/Abbott-New-York-City/Crescent-Beach-73525.html				pending
-mojave	Mojave		unisex		https://www.fragrantica.com/perfume/Abbott-New-York-City/Mojave-39792.html				pending
-sequoia	Sequoia		unisex		https://www.fragrantica.com/perfume/Abbott-New-York-City/Sequoia-39790.html				pending
-the-cape	The Cape		unisex		https://www.fragrantica.com/perfume/Abbott-New-York-City/The-Cape-39789.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+big-sky	Big Sky		unisex	https://www.fragrantica.com/perfume/Abbott-New-York-City/Big-Sky-55236.html				pending
+crescent-beach	Crescent Beach		unisex	https://www.fragrantica.com/perfume/Abbott-New-York-City/Crescent-Beach-73525.html				pending
+mojave	Mojave		unisex	https://www.fragrantica.com/perfume/Abbott-New-York-City/Mojave-39792.html				pending
+sequoia	Sequoia		unisex	https://www.fragrantica.com/perfume/Abbott-New-York-City/Sequoia-39790.html				pending
+the-cape	The Cape		unisex	https://www.fragrantica.com/perfume/Abbott-New-York-City/The-Cape-39789.html				pending

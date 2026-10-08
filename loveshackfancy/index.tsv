@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-berry-kiss	Berry Kiss		female		https://www.fragrantica.com/perfume/LoveShackFancy/Berry-Kiss-95823.html				pending
-boheme	Boheme		female		https://www.fragrantica.com/perfume/LoveShackFancy/Boheme-84847.html				pending
-endless-dreams	Endless Dreams		female		https://www.fragrantica.com/perfume/LoveShackFancy/Endless-Dreams-95650.html				pending
-forever-in-love	Forever In Love		female		https://www.fragrantica.com/perfume/LoveShackFancy/Forever-In-Love-84846.html				pending
-love-on-the-beach	Love on the Beach		unisex		https://www.fragrantica.com/perfume/LoveShackFancy/Love-on-the-Beach-104652.html				pending
-moondance	Moondance		female		https://www.fragrantica.com/perfume/LoveShackFancy/Moondance-84845.html				pending
-secret-crush	Secret Crush		female		https://www.fragrantica.com/perfume/LoveShackFancy/Secret-Crush-115552.html				pending
-sugar-blush	Sugar Blush		female		https://www.fragrantica.com/perfume/LoveShackFancy/Sugar-Blush-95821.html				pending
-sweetheart	Sweetheart		female		https://www.fragrantica.com/perfume/LoveShackFancy/Sweetheart-128200.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+berry-kiss	Berry Kiss		female	https://www.fragrantica.com/perfume/LoveShackFancy/Berry-Kiss-95823.html				pending
+boheme	Boheme		female	https://www.fragrantica.com/perfume/LoveShackFancy/Boheme-84847.html				pending
+endless-dreams	Endless Dreams		female	https://www.fragrantica.com/perfume/LoveShackFancy/Endless-Dreams-95650.html				pending
+forever-in-love	Forever In Love		female	https://www.fragrantica.com/perfume/LoveShackFancy/Forever-In-Love-84846.html				pending
+love-on-the-beach	Love on the Beach		unisex	https://www.fragrantica.com/perfume/LoveShackFancy/Love-on-the-Beach-104652.html				pending
+moondance	Moondance		female	https://www.fragrantica.com/perfume/LoveShackFancy/Moondance-84845.html				pending
+secret-crush	Secret Crush		female	https://www.fragrantica.com/perfume/LoveShackFancy/Secret-Crush-115552.html				pending
+sugar-blush	Sugar Blush		female	https://www.fragrantica.com/perfume/LoveShackFancy/Sugar-Blush-95821.html				pending
+sweetheart	Sweetheart		female	https://www.fragrantica.com/perfume/LoveShackFancy/Sweetheart-128200.html				pending

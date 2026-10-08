@@ -1,14 +1,14 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-abime	Abîme		unisex		https://www.fragrantica.com/perfume/Maison-Violet/Abime-76310.html				pending
-california-blossom	California Blossom		unisex		https://www.fragrantica.com/perfume/Maison-Violet/California-Blossom-106736.html				pending
-compliment	Compliment		female		https://www.fragrantica.com/perfume/Maison-Violet/Compliment-67459.html				pending
-cycle-001	CYCLE 001		unisex		https://www.fragrantica.com/perfume/Maison-Violet/CYCLE-001-61394.html				pending
-cycle-002	CYCLE 002		unisex		https://www.fragrantica.com/perfume/Maison-Violet/CYCLE-002-87191.html				pending
-musc-angelique	Musc Angélique		unisex		https://www.fragrantica.com/perfume/Maison-Violet/Musc-Angelique-106737.html				pending
-nuee-bleue	Nuée Bleue		unisex		https://www.fragrantica.com/perfume/Maison-Violet/Nuee-Bleue-58148.html				pending
-pour-rever	Pour Rêver		unisex		https://www.fragrantica.com/perfume/Maison-Violet/Pour-Rever-98208.html				pending
-pourpre-dautomne	Pourpre d’Automne		unisex		https://www.fragrantica.com/perfume/Maison-Violet/Pourpre-d-Automne-48515.html				pending
-rivage	Rivage		unisex		https://www.fragrantica.com/perfume/Maison-Violet/Rivage-106735.html				pending
-sketch	Sketch		unisex		https://www.fragrantica.com/perfume/Maison-Violet/Sketch-48514.html				pending
-tanagra	Tanagra		unisex		https://www.fragrantica.com/perfume/Maison-Violet/Tanagra-58149.html				pending
-un-air-dapogee	Un Air d’Apogée		unisex		https://www.fragrantica.com/perfume/Maison-Violet/Un-Air-d-Apogee-48516.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+abime	Abîme		unisex	https://www.fragrantica.com/perfume/Maison-Violet/Abime-76310.html				pending
+california-blossom	California Blossom		unisex	https://www.fragrantica.com/perfume/Maison-Violet/California-Blossom-106736.html				pending
+compliment	Compliment		female	https://www.fragrantica.com/perfume/Maison-Violet/Compliment-67459.html				pending
+cycle-001	CYCLE 001		unisex	https://www.fragrantica.com/perfume/Maison-Violet/CYCLE-001-61394.html				pending
+cycle-002	CYCLE 002		unisex	https://www.fragrantica.com/perfume/Maison-Violet/CYCLE-002-87191.html				pending
+musc-angelique	Musc Angélique		unisex	https://www.fragrantica.com/perfume/Maison-Violet/Musc-Angelique-106737.html				pending
+nuee-bleue	Nuée Bleue		unisex	https://www.fragrantica.com/perfume/Maison-Violet/Nuee-Bleue-58148.html				pending
+pour-rever	Pour Rêver		unisex	https://www.fragrantica.com/perfume/Maison-Violet/Pour-Rever-98208.html				pending
+pourpre-dautomne	Pourpre d’Automne		unisex	https://www.fragrantica.com/perfume/Maison-Violet/Pourpre-d-Automne-48515.html				pending
+rivage	Rivage		unisex	https://www.fragrantica.com/perfume/Maison-Violet/Rivage-106735.html				pending
+sketch	Sketch		unisex	https://www.fragrantica.com/perfume/Maison-Violet/Sketch-48514.html				pending
+tanagra	Tanagra		unisex	https://www.fragrantica.com/perfume/Maison-Violet/Tanagra-58149.html				pending
+un-air-dapogee	Un Air d’Apogée		unisex	https://www.fragrantica.com/perfume/Maison-Violet/Un-Air-d-Apogee-48516.html				pending

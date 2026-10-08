@@ -1,15 +1,15 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-melatonin-1	Melatonin 1		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-1-87575.html				pending
-melatonin-2	Melatonin 2		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-2-87576.html				pending
-melatonin-3	Melatonin 3		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-3-87577.html				pending
-melatonin-4	Melatonin 4		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-4-87578.html				pending
-melatonin-5	Melatonin 5		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-5-87579.html				pending
-this-is-not-adrenaline	This is Not Adrenaline		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Adrenaline-63833.html				pending
-this-is-not-caffeine	This is Not Caffeine		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Caffeine-118765.html				pending
-this-is-not-dopamine	This is Not Dopamine		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Dopamine-63835.html				pending
-this-is-not-endorphin	This is Not Endorphin		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Endorphin-80676.html				pending
-this-is-not-gaba	This is Not GABA		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-GABA-80679.html				pending
-this-is-not-kisspeptin	This is Not Kisspeptin		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Kisspeptin-63832.html				pending
-this-is-not-oxytocin	This is Not Oxytocin		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Oxytocin-63834.html				pending
-this-is-not-serotonin	This is Not Serotonin		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Serotonin-63831.html				pending
-this-is-not-testosterone	This is Not Testosterone		unisex		https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Testosterone-105751.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+melatonin-1	Melatonin 1		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-1-87575.html				pending
+melatonin-2	Melatonin 2		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-2-87576.html				pending
+melatonin-3	Melatonin 3		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-3-87577.html				pending
+melatonin-4	Melatonin 4		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-4-87578.html				pending
+melatonin-5	Melatonin 5		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/Melatonin-5-87579.html				pending
+this-is-not-adrenaline	This is Not Adrenaline		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Adrenaline-63833.html				pending
+this-is-not-caffeine	This is Not Caffeine		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Caffeine-118765.html				pending
+this-is-not-dopamine	This is Not Dopamine		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Dopamine-63835.html				pending
+this-is-not-endorphin	This is Not Endorphin		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Endorphin-80676.html				pending
+this-is-not-gaba	This is Not GABA		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-GABA-80679.html				pending
+this-is-not-kisspeptin	This is Not Kisspeptin		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Kisspeptin-63832.html				pending
+this-is-not-oxytocin	This is Not Oxytocin		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Oxytocin-63834.html				pending
+this-is-not-serotonin	This is Not Serotonin		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Serotonin-63831.html				pending
+this-is-not-testosterone	This is Not Testosterone		unisex	https://www.fragrantica.com/perfume/Hormone-Paris/This-is-Not-Testosterone-105751.html				pending

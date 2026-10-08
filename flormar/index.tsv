@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-feel	Feel		female		https://www.fragrantica.com/perfume/Flormar/Feel-12477.html				pending
-heart	Heart		female		https://www.fragrantica.com/perfume/Flormar/Heart-12472.html				pending
-mind	Mind		female		https://www.fragrantica.com/perfume/Flormar/Mind-12475.html				pending
-soul	Soul		female		https://www.fragrantica.com/perfume/Flormar/Soul-12473.html				pending
-touch	Touch		female		https://www.fragrantica.com/perfume/Flormar/Touch-12474.html				pending
-trust	Trust		female		https://www.fragrantica.com/perfume/Flormar/Trust-12476.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+feel	Feel		female	https://www.fragrantica.com/perfume/Flormar/Feel-12477.html				pending
+heart	Heart		female	https://www.fragrantica.com/perfume/Flormar/Heart-12472.html				pending
+mind	Mind		female	https://www.fragrantica.com/perfume/Flormar/Mind-12475.html				pending
+soul	Soul		female	https://www.fragrantica.com/perfume/Flormar/Soul-12473.html				pending
+touch	Touch		female	https://www.fragrantica.com/perfume/Flormar/Touch-12474.html				pending
+trust	Trust		female	https://www.fragrantica.com/perfume/Flormar/Trust-12476.html				pending

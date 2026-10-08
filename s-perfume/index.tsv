@@ -1,3 +1,3 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-100-love	100% Love		female		https://www.fragrantica.com/perfume/S-Perfume/100-Love-3727.html				pending
-s-ex	S-ex		unisex		https://www.fragrantica.com/perfume/S-Perfume/S-ex-10473.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+100-love	100% Love		female	https://www.fragrantica.com/perfume/S-Perfume/100-Love-3727.html				pending
+s-ex	S-ex		unisex	https://www.fragrantica.com/perfume/S-Perfume/S-ex-10473.html				pending

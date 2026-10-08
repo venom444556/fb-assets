@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-agent-provocateur	Agent Provocateur		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-205.html				pending
-agent-provocateur-eau-emotionnelle	Agent Provocateur Eau Emotionnelle		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-Eau-Emotionnelle-206.html				pending
-agent-provocateur-lace	Agent Provocateur Lace		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-Lace-38913.html				pending
-agent-provocateur-maitresse	Agent Provocateur Maitresse		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-Maitresse-760.html				pending
-agent-provocateur-menage-a-trois	Agent Provocateur Ménage à Trois		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-Menage-a-Trois-31391.html				pending
-aphrodisiaque	Aphrodisiaque		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Aphrodisiaque-45363.html				pending
-blue-silk	Blue Silk		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Blue-Silk-51326.html				pending
-cosmic	Cosmic		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Cosmic-55451.html				pending
-diamond-dust-edition	Diamond Dust Edition		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Diamond-Dust-Edition-4610.html				pending
-eau-provocateur	Eau Provocateur		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Eau-Provocateur-14404.html				pending
-electric	Electric		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Electric-55450.html				pending
-fatale	Fatale		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Fatale-24307.html				pending
-fatale-intense	Fatale Intense		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Fatale-Intense-30196.html				pending
-fatale-orchid	Fatale Orchid		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Fatale-Orchid-52527.html				pending
-fatale-pink	Fatale Pink		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Fatale-Pink-25352.html				pending
-lagent	L'Agent		female		https://www.fragrantica.com/perfume/Agent-Provocateur/L-Agent-11214.html				pending
-lace-noir	Lace Noir		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Lace-Noir-51327.html				pending
-lagent-eau-provocateur	L’Agent Eau Provocateur		female		https://www.fragrantica.com/perfume/Agent-Provocateur/L-Agent-Eau-Provocateur-14406.html				pending
-maitresse-eau-provocateur	Maitresse Eau Provocateur		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Maitresse-Eau-Provocateur-14405.html				pending
-miss-ap	Miss AP		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Miss-AP-54519.html				pending
-petale-noir	Petale Noir		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Petale-Noir-16000.html				pending
-pure-aphrodisiaque	Pure Aphrodisiaque		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Pure-Aphrodisiaque-42152.html				pending
-strip	Strip		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Strip-1255.html				pending
-strip-2008	Strip 2008		female		https://www.fragrantica.com/perfume/Agent-Provocateur/Strip-2008-31392.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+agent-provocateur	Agent Provocateur		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-205.html				pending
+agent-provocateur-eau-emotionnelle	Agent Provocateur Eau Emotionnelle		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-Eau-Emotionnelle-206.html				pending
+agent-provocateur-lace	Agent Provocateur Lace		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-Lace-38913.html				pending
+agent-provocateur-maitresse	Agent Provocateur Maitresse		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-Maitresse-760.html				pending
+agent-provocateur-menage-a-trois	Agent Provocateur Ménage à Trois		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Agent-Provocateur-Menage-a-Trois-31391.html				pending
+aphrodisiaque	Aphrodisiaque		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Aphrodisiaque-45363.html				pending
+blue-silk	Blue Silk		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Blue-Silk-51326.html				pending
+cosmic	Cosmic		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Cosmic-55451.html				pending
+diamond-dust-edition	Diamond Dust Edition		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Diamond-Dust-Edition-4610.html				pending
+eau-provocateur	Eau Provocateur		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Eau-Provocateur-14404.html				pending
+electric	Electric		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Electric-55450.html				pending
+fatale	Fatale		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Fatale-24307.html				pending
+fatale-intense	Fatale Intense		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Fatale-Intense-30196.html				pending
+fatale-orchid	Fatale Orchid		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Fatale-Orchid-52527.html				pending
+fatale-pink	Fatale Pink		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Fatale-Pink-25352.html				pending
+lagent	L'Agent		female	https://www.fragrantica.com/perfume/Agent-Provocateur/L-Agent-11214.html				pending
+lace-noir	Lace Noir		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Lace-Noir-51327.html				pending
+lagent-eau-provocateur	L’Agent Eau Provocateur		female	https://www.fragrantica.com/perfume/Agent-Provocateur/L-Agent-Eau-Provocateur-14406.html				pending
+maitresse-eau-provocateur	Maitresse Eau Provocateur		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Maitresse-Eau-Provocateur-14405.html				pending
+miss-ap	Miss AP		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Miss-AP-54519.html				pending
+petale-noir	Petale Noir		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Petale-Noir-16000.html				pending
+pure-aphrodisiaque	Pure Aphrodisiaque		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Pure-Aphrodisiaque-42152.html				pending
+strip	Strip		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Strip-1255.html				pending
+strip-2008	Strip 2008		female	https://www.fragrantica.com/perfume/Agent-Provocateur/Strip-2008-31392.html				pending

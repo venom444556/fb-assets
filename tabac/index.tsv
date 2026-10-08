@@ -1,6 +1,6 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-tabac-craftsman	Tabac Craftsman		male		https://www.fragrantica.com/perfume/Tabac/Tabac-Craftsman-58875.html				pending
-tabac-gentle-mens-care	Tabac Gentle Men's Care		male		https://www.fragrantica.com/perfume/Tabac/Tabac-Gentle-Men-s-Care-31403.html				pending
-tabac-man-gravity	Tabac Man Gravity		male		https://www.fragrantica.com/perfume/Tabac/Tabac-Man-Gravity-65173.html				pending
-tabac-men-fire-power	Tabac Men Fire Power		male		https://www.fragrantica.com/perfume/Tabac/Tabac-Men-Fire-Power-46286.html				pending
-tabac-wild-ride	Tabac Wild Ride		male		https://www.fragrantica.com/perfume/Tabac/Tabac-Wild-Ride-75646.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+tabac-craftsman	Tabac Craftsman		male	https://www.fragrantica.com/perfume/Tabac/Tabac-Craftsman-58875.html				pending
+tabac-gentle-mens-care	Tabac Gentle Men's Care		male	https://www.fragrantica.com/perfume/Tabac/Tabac-Gentle-Men-s-Care-31403.html				pending
+tabac-man-gravity	Tabac Man Gravity		male	https://www.fragrantica.com/perfume/Tabac/Tabac-Man-Gravity-65173.html				pending
+tabac-men-fire-power	Tabac Men Fire Power		male	https://www.fragrantica.com/perfume/Tabac/Tabac-Men-Fire-Power-46286.html				pending
+tabac-wild-ride	Tabac Wild Ride		male	https://www.fragrantica.com/perfume/Tabac/Tabac-Wild-Ride-75646.html				pending

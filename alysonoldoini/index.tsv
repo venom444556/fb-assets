@@ -1,16 +1,16 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-ambra-guaiac	Ambra Guaiac		unisex		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Ambra-Guaiac-57167.html				pending
-black-violet	Black Violet		female		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Black-Violet-24154.html				pending
-bourbon-oud	Bourbon Oud		unisex		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Bourbon-Oud-57166.html				pending
-bucato-royale	Bucato Royale		unisex		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Bucato-Royale-81963.html				pending
-caro-barbiere	Caro Barbiere		male		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Caro-Barbiere-81965.html				pending
-chocman-mint	Chocman Mint		male		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Chocman-Mint-30293.html				pending
-crystal-oud	Crystal Oud		male		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Crystal-Oud-30294.html				pending
-cuir-dencens	Cuir d'Encens		male		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Cuir-d-Encens-24151.html				pending
-diafana-skin	Diafana Skin		female		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Diafana-Skin-41101.html				pending
-georges-b	Georges B		unisex		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Georges-B-81966.html				pending
-marine-vodka	Marine Vodka		male		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Marine-Vodka-24152.html				pending
-marsiglia-musk	Marsiglia Musk		unisex		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Marsiglia-Musk-81964.html				pending
-oranger-moi	Oranger Moi		female		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Oranger-Moi-24155.html				pending
-rhum-dhiver	Rhum d'Hiver		male		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Rhum-d-Hiver-24153.html				pending
-rose-profond	Rose Profond		female		https://www.fragrantica.com/perfume/ALYSONOLDOINI/Rose-Profond-24156.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+ambra-guaiac	Ambra Guaiac		unisex	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Ambra-Guaiac-57167.html				pending
+black-violet	Black Violet		female	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Black-Violet-24154.html				pending
+bourbon-oud	Bourbon Oud		unisex	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Bourbon-Oud-57166.html				pending
+bucato-royale	Bucato Royale		unisex	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Bucato-Royale-81963.html				pending
+caro-barbiere	Caro Barbiere		male	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Caro-Barbiere-81965.html				pending
+chocman-mint	Chocman Mint		male	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Chocman-Mint-30293.html				pending
+crystal-oud	Crystal Oud		male	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Crystal-Oud-30294.html				pending
+cuir-dencens	Cuir d'Encens		male	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Cuir-d-Encens-24151.html				pending
+diafana-skin	Diafana Skin		female	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Diafana-Skin-41101.html				pending
+georges-b	Georges B		unisex	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Georges-B-81966.html				pending
+marine-vodka	Marine Vodka		male	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Marine-Vodka-24152.html				pending
+marsiglia-musk	Marsiglia Musk		unisex	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Marsiglia-Musk-81964.html				pending
+oranger-moi	Oranger Moi		female	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Oranger-Moi-24155.html				pending
+rhum-dhiver	Rhum d'Hiver		male	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Rhum-d-Hiver-24153.html				pending
+rose-profond	Rose Profond		female	https://www.fragrantica.com/perfume/ALYSONOLDOINI/Rose-Profond-24156.html				pending

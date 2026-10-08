@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-black-femme	Black Femme		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Black-Femme-68557.html				pending
-black-uomo	Black Uomo		male		https://www.fragrantica.com/perfume/Abelha-Rainha/Black-Uomo-61353.html				pending
-black-vulcano	Black Vulcano		male		https://www.fragrantica.com/perfume/Abelha-Rainha/Black-Vulcano-74256.html				pending
-cacador	Caçador		male		https://www.fragrantica.com/perfume/Abelha-Rainha/Cacador-74259.html				pending
-confidence-carmim	Confidence Carmim		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Confidence-Carmim-74255.html				pending
-diamond-rose	Diamond Rosé		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Diamond-Rose-74260.html				pending
-duny	Duny		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Duny-74249.html				pending
-enigma-ela	Enigma Ela		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Enigma-Ela-74252.html				pending
-enigma-ele	Enigma Ele		male		https://www.fragrantica.com/perfume/Abelha-Rainha/Enigma-Ele-74251.html				pending
-floralle	Floralle		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Floralle-71311.html				pending
-floralle-mystery	Floralle Mystery		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Floralle-Mystery-71312.html				pending
-fofa	Fofa!		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Fofa-74261.html				pending
-hero	Hero		male		https://www.fragrantica.com/perfume/Abelha-Rainha/Hero-61354.html				pending
-ibizza	Ibizza		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Ibizza-71310.html				pending
-k-sual	K|sual		unisex		https://www.fragrantica.com/perfume/Abelha-Rainha/K-sual-63445.html				pending
-k-sual-ela	K|sual Ela		female		https://www.fragrantica.com/perfume/Abelha-Rainha/K-sual-Ela-63447.html				pending
-k-sual-ele	K|sual Ele		male		https://www.fragrantica.com/perfume/Abelha-Rainha/K-sual-Ele-63446.html				pending
-lendario	Lendário		unisex		https://www.fragrantica.com/perfume/Abelha-Rainha/Lendario-74253.html				pending
-love-colors	Love Colors		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Love-Colors-61355.html				pending
-madeira-do-oriente-classic	Madeira do Oriente Classic		male		https://www.fragrantica.com/perfume/Abelha-Rainha/Madeira-do-Oriente-Classic-63370.html				pending
-madeira-do-oriente-intense	Madeira do Oriente Intense		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Madeira-do-Oriente-Intense-74257.html				pending
-marcelle	Marcelle		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Marcelle-61356.html				pending
-narcizo	Narcizo		male		https://www.fragrantica.com/perfume/Abelha-Rainha/Narcizo-61357.html				pending
-rubi-glamour	Rubi Glamour		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Rubi-Glamour-74254.html				pending
-sense-man	Sense Man		male		https://www.fragrantica.com/perfume/Abelha-Rainha/Sense-Man-61359.html				pending
-sense-woman	Sense Woman		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Sense-Woman-61358.html				pending
-vegas	Vegas		male		https://www.fragrantica.com/perfume/Abelha-Rainha/Vegas-74258.html				pending
-volupia	Volúpia		female		https://www.fragrantica.com/perfume/Abelha-Rainha/Volupia-61360.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+black-femme	Black Femme		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Black-Femme-68557.html				pending
+black-uomo	Black Uomo		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Black-Uomo-61353.html				pending
+black-vulcano	Black Vulcano		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Black-Vulcano-74256.html				pending
+cacador	Caçador		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Cacador-74259.html				pending
+confidence-carmim	Confidence Carmim		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Confidence-Carmim-74255.html				pending
+diamond-rose	Diamond Rosé		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Diamond-Rose-74260.html				pending
+duny	Duny		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Duny-74249.html				pending
+enigma-ela	Enigma Ela		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Enigma-Ela-74252.html				pending
+enigma-ele	Enigma Ele		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Enigma-Ele-74251.html				pending
+floralle	Floralle		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Floralle-71311.html				pending
+floralle-mystery	Floralle Mystery		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Floralle-Mystery-71312.html				pending
+fofa	Fofa!		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Fofa-74261.html				pending
+hero	Hero		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Hero-61354.html				pending
+ibizza	Ibizza		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Ibizza-71310.html				pending
+k-sual	K|sual		unisex	https://www.fragrantica.com/perfume/Abelha-Rainha/K-sual-63445.html				pending
+k-sual-ela	K|sual Ela		female	https://www.fragrantica.com/perfume/Abelha-Rainha/K-sual-Ela-63447.html				pending
+k-sual-ele	K|sual Ele		male	https://www.fragrantica.com/perfume/Abelha-Rainha/K-sual-Ele-63446.html				pending
+lendario	Lendário		unisex	https://www.fragrantica.com/perfume/Abelha-Rainha/Lendario-74253.html				pending
+love-colors	Love Colors		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Love-Colors-61355.html				pending
+madeira-do-oriente-classic	Madeira do Oriente Classic		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Madeira-do-Oriente-Classic-63370.html				pending
+madeira-do-oriente-intense	Madeira do Oriente Intense		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Madeira-do-Oriente-Intense-74257.html				pending
+marcelle	Marcelle		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Marcelle-61356.html				pending
+narcizo	Narcizo		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Narcizo-61357.html				pending
+rubi-glamour	Rubi Glamour		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Rubi-Glamour-74254.html				pending
+sense-man	Sense Man		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Sense-Man-61359.html				pending
+sense-woman	Sense Woman		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Sense-Woman-61358.html				pending
+vegas	Vegas		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Vegas-74258.html				pending
+volupia	Volúpia		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Volupia-61360.html				pending

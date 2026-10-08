@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aloha-coco	Aloha Coco		female		https://www.fragrantica.com/perfume/Hawaiian-Tropic/Aloha-Coco-55362.html				pending
-golden-paradise	Golden Paradise		female		https://www.fragrantica.com/perfume/Hawaiian-Tropic/Golden-Paradise-43768.html				pending
-summer-dreams	Summer Dreams		female		https://www.fragrantica.com/perfume/Hawaiian-Tropic/Summer-Dreams-43769.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aloha-coco	Aloha Coco		female	https://www.fragrantica.com/perfume/Hawaiian-Tropic/Aloha-Coco-55362.html				pending
+golden-paradise	Golden Paradise		female	https://www.fragrantica.com/perfume/Hawaiian-Tropic/Golden-Paradise-43768.html				pending
+summer-dreams	Summer Dreams		female	https://www.fragrantica.com/perfume/Hawaiian-Tropic/Summer-Dreams-43769.html				pending

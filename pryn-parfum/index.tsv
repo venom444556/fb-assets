@@ -1,4 +1,4 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aranyaka	Aranyaka		unisex		https://www.fragrantica.com/perfume/Pryn-Parfum/Aranyaka-50102.html				pending
-morah	Morah		unisex		https://www.fragrantica.com/perfume/Pryn-Parfum/Morah-47689.html				pending
-turkish-leather	Turkish Leather		unisex		https://www.fragrantica.com/perfume/Pryn-Parfum/Turkish-Leather-34857.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aranyaka	Aranyaka		unisex	https://www.fragrantica.com/perfume/Pryn-Parfum/Aranyaka-50102.html				pending
+morah	Morah		unisex	https://www.fragrantica.com/perfume/Pryn-Parfum/Morah-47689.html				pending
+turkish-leather	Turkish Leather		unisex	https://www.fragrantica.com/perfume/Pryn-Parfum/Turkish-Leather-34857.html				pending

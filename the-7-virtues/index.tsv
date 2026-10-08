@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-afghanistan-orange-blossom	Afghanistan Orange Blossom		female		https://www.fragrantica.com/perfume/The-7-Virtues/Afghanistan-Orange-Blossom-12416.html				pending
-amber-vanilla	Amber Vanilla		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Amber-Vanilla-90294.html				pending
-blackberry-lily	Blackberry Lily		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Blackberry-Lily-70101.html				pending
-buttercream-haze	Buttercream Haze		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Buttercream-Haze-116996.html				pending
-candied-lychee	Candied Lychee		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Candied-Lychee-98491.html				pending
-cherry-ambition	Cherry Ambition		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Cherry-Ambition-87203.html				pending
-clementine-dream	Clementine Dream		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Clementine-Dream-102782.html				pending
-coconut-sun	Coconut Sun		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Coconut-Sun-81412.html				pending
-grapefruit-lime	Grapefruit Lime		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Grapefruit-Lime-52558.html				pending
-jasmine-neroli	Jasmine Neroli		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Jasmine-Neroli-52562.html				pending
-jasmine-of-india	Jasmine of India		female		https://www.fragrantica.com/perfume/The-7-Virtues/Jasmine-of-India-52561.html				pending
-lisa-ray-jasmine-of-india	Lisa Ray Jasmine of India		female		https://www.fragrantica.com/perfume/The-7-Virtues/Lisa-Ray-Jasmine-of-India-41096.html				pending
-lotus-pear	Lotus Pear		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Lotus-Pear-72611.html				pending
-middle-east-peace	Middle East Peace		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Middle-East-Peace-17501.html				pending
-noble-rose-of-afghanistan	Noble Rose of Afghanistan		female		https://www.fragrantica.com/perfume/The-7-Virtues/Noble-Rose-of-Afghanistan-12417.html				pending
-orange-blossom	Orange Blossom		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Orange-Blossom-52555.html				pending
-patchouli-citrus	Patchouli Citrus		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Patchouli-Citrus-52559.html				pending
-patchouli-of-rwanda	Patchouli of Rwanda		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Patchouli-of-Rwanda-26371.html				pending
-rose-amber	Rose Amber		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Rose-Amber-52556.html				pending
-santal-vanille	Santal Vanille		female		https://www.fragrantica.com/perfume/The-7-Virtues/Santal-Vanille-67204.html				pending
-strawberry-jam	Strawberry Jam		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Strawberry-Jam-123769.html				pending
-vanilla-woods	Vanilla Woods		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Vanilla-Woods-52560.html				pending
-vetiver-elemi	Vetiver Elemi		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Vetiver-Elemi-52557.html				pending
-vetiver-of-haiti	Vetiver of Haiti		unisex		https://www.fragrantica.com/perfume/The-7-Virtues/Vetiver-of-Haiti-17502.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+afghanistan-orange-blossom	Afghanistan Orange Blossom		female	https://www.fragrantica.com/perfume/The-7-Virtues/Afghanistan-Orange-Blossom-12416.html				pending
+amber-vanilla	Amber Vanilla		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Amber-Vanilla-90294.html				pending
+blackberry-lily	Blackberry Lily		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Blackberry-Lily-70101.html				pending
+buttercream-haze	Buttercream Haze		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Buttercream-Haze-116996.html				pending
+candied-lychee	Candied Lychee		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Candied-Lychee-98491.html				pending
+cherry-ambition	Cherry Ambition		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Cherry-Ambition-87203.html				pending
+clementine-dream	Clementine Dream		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Clementine-Dream-102782.html				pending
+coconut-sun	Coconut Sun		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Coconut-Sun-81412.html				pending
+grapefruit-lime	Grapefruit Lime		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Grapefruit-Lime-52558.html				pending
+jasmine-neroli	Jasmine Neroli		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Jasmine-Neroli-52562.html				pending
+jasmine-of-india	Jasmine of India		female	https://www.fragrantica.com/perfume/The-7-Virtues/Jasmine-of-India-52561.html				pending
+lisa-ray-jasmine-of-india	Lisa Ray Jasmine of India		female	https://www.fragrantica.com/perfume/The-7-Virtues/Lisa-Ray-Jasmine-of-India-41096.html				pending
+lotus-pear	Lotus Pear		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Lotus-Pear-72611.html				pending
+middle-east-peace	Middle East Peace		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Middle-East-Peace-17501.html				pending
+noble-rose-of-afghanistan	Noble Rose of Afghanistan		female	https://www.fragrantica.com/perfume/The-7-Virtues/Noble-Rose-of-Afghanistan-12417.html				pending
+orange-blossom	Orange Blossom		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Orange-Blossom-52555.html				pending
+patchouli-citrus	Patchouli Citrus		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Patchouli-Citrus-52559.html				pending
+patchouli-of-rwanda	Patchouli of Rwanda		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Patchouli-of-Rwanda-26371.html				pending
+rose-amber	Rose Amber		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Rose-Amber-52556.html				pending
+santal-vanille	Santal Vanille		female	https://www.fragrantica.com/perfume/The-7-Virtues/Santal-Vanille-67204.html				pending
+strawberry-jam	Strawberry Jam		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Strawberry-Jam-123769.html				pending
+vanilla-woods	Vanilla Woods		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Vanilla-Woods-52560.html				pending
+vetiver-elemi	Vetiver Elemi		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Vetiver-Elemi-52557.html				pending
+vetiver-of-haiti	Vetiver of Haiti		unisex	https://www.fragrantica.com/perfume/The-7-Virtues/Vetiver-of-Haiti-17502.html				pending

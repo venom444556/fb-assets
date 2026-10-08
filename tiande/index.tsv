@@ -1,25 +1,25 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-absolute-lady	Absolute Lady		female		https://www.fragrantica.com/perfume/TianDe/Absolute-Lady-23776.html				pending
-caribbean-breeze	Caribbean Breeze		female		https://www.fragrantica.com/perfume/TianDe/Caribbean-Breeze-23766.html				pending
-cristal-love	Cristal Love		female		https://www.fragrantica.com/perfume/TianDe/Cristal-Love-23774.html				pending
-delicate-touch	Delicate Touch		female		https://www.fragrantica.com/perfume/TianDe/Delicate-Touch-28634.html				pending
-diamond-dew	Diamond Dew		female		https://www.fragrantica.com/perfume/TianDe/Diamond-Dew-28632.html				pending
-dominance	Dominance		male		https://www.fragrantica.com/perfume/TianDe/Dominance-23781.html				pending
-drop-of-bliss	Drop of Bliss		female		https://www.fragrantica.com/perfume/TianDe/Drop-of-Bliss-23769.html				pending
-green-fresh	Green Fresh		female		https://www.fragrantica.com/perfume/TianDe/Green-Fresh-23777.html				pending
-heart-of-the-ocean	Heart of the Ocean		female		https://www.fragrantica.com/perfume/TianDe/Heart-of-the-Ocean-23773.html				pending
-hot-ice	Hot Ice		male		https://www.fragrantica.com/perfume/TianDe/Hot-Ice-23779.html				pending
-joss	Joss		male		https://www.fragrantica.com/perfume/TianDe/Joss-23782.html				pending
-just-a-drop	Just a Drop		male		https://www.fragrantica.com/perfume/TianDe/Just-a-Drop-23778.html				pending
-life-elixir	Life Elixir		male		https://www.fragrantica.com/perfume/TianDe/Life-Elixir-23780.html				pending
-love-essence	Love Essence		female		https://www.fragrantica.com/perfume/TianDe/Love-Essence-28633.html				pending
-moonlight-dew	Moonlight Dew		female		https://www.fragrantica.com/perfume/TianDe/Moonlight-Dew-23764.html				pending
-my-angel	My Angel		female		https://www.fragrantica.com/perfume/TianDe/My-Angel-23775.html				pending
-power	Power		male		https://www.fragrantica.com/perfume/TianDe/Power-23783.html				pending
-sea-magic	Sea Magic		female		https://www.fragrantica.com/perfume/TianDe/Sea-Magic-23765.html				pending
-sensual-style	Sensual Style		female		https://www.fragrantica.com/perfume/TianDe/Sensual-Style-28631.html				pending
-sparkling-spring	Sparkling Spring		female		https://www.fragrantica.com/perfume/TianDe/Sparkling-Spring-23768.html				pending
-summer-rain	Summer Rain		female		https://www.fragrantica.com/perfume/TianDe/Summer-Rain-23767.html				pending
-violet-mist	Violet Mist		female		https://www.fragrantica.com/perfume/TianDe/Violet-Mist-23771.html				pending
-water-nimph	Water Nimph		female		https://www.fragrantica.com/perfume/TianDe/Water-Nimph-23770.html				pending
-water-song	Water Song		female		https://www.fragrantica.com/perfume/TianDe/Water-Song-23772.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+absolute-lady	Absolute Lady		female	https://www.fragrantica.com/perfume/TianDe/Absolute-Lady-23776.html				pending
+caribbean-breeze	Caribbean Breeze		female	https://www.fragrantica.com/perfume/TianDe/Caribbean-Breeze-23766.html				pending
+cristal-love	Cristal Love		female	https://www.fragrantica.com/perfume/TianDe/Cristal-Love-23774.html				pending
+delicate-touch	Delicate Touch		female	https://www.fragrantica.com/perfume/TianDe/Delicate-Touch-28634.html				pending
+diamond-dew	Diamond Dew		female	https://www.fragrantica.com/perfume/TianDe/Diamond-Dew-28632.html				pending
+dominance	Dominance		male	https://www.fragrantica.com/perfume/TianDe/Dominance-23781.html				pending
+drop-of-bliss	Drop of Bliss		female	https://www.fragrantica.com/perfume/TianDe/Drop-of-Bliss-23769.html				pending
+green-fresh	Green Fresh		female	https://www.fragrantica.com/perfume/TianDe/Green-Fresh-23777.html				pending
+heart-of-the-ocean	Heart of the Ocean		female	https://www.fragrantica.com/perfume/TianDe/Heart-of-the-Ocean-23773.html				pending
+hot-ice	Hot Ice		male	https://www.fragrantica.com/perfume/TianDe/Hot-Ice-23779.html				pending
+joss	Joss		male	https://www.fragrantica.com/perfume/TianDe/Joss-23782.html				pending
+just-a-drop	Just a Drop		male	https://www.fragrantica.com/perfume/TianDe/Just-a-Drop-23778.html				pending
+life-elixir	Life Elixir		male	https://www.fragrantica.com/perfume/TianDe/Life-Elixir-23780.html				pending
+love-essence	Love Essence		female	https://www.fragrantica.com/perfume/TianDe/Love-Essence-28633.html				pending
+moonlight-dew	Moonlight Dew		female	https://www.fragrantica.com/perfume/TianDe/Moonlight-Dew-23764.html				pending
+my-angel	My Angel		female	https://www.fragrantica.com/perfume/TianDe/My-Angel-23775.html				pending
+power	Power		male	https://www.fragrantica.com/perfume/TianDe/Power-23783.html				pending
+sea-magic	Sea Magic		female	https://www.fragrantica.com/perfume/TianDe/Sea-Magic-23765.html				pending
+sensual-style	Sensual Style		female	https://www.fragrantica.com/perfume/TianDe/Sensual-Style-28631.html				pending
+sparkling-spring	Sparkling Spring		female	https://www.fragrantica.com/perfume/TianDe/Sparkling-Spring-23768.html				pending
+summer-rain	Summer Rain		female	https://www.fragrantica.com/perfume/TianDe/Summer-Rain-23767.html				pending
+violet-mist	Violet Mist		female	https://www.fragrantica.com/perfume/TianDe/Violet-Mist-23771.html				pending
+water-nimph	Water Nimph		female	https://www.fragrantica.com/perfume/TianDe/Water-Nimph-23770.html				pending
+water-song	Water Song		female	https://www.fragrantica.com/perfume/TianDe/Water-Song-23772.html				pending

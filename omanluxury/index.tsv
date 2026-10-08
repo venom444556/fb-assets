@@ -1,19 +1,19 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-angham	Angham		unisex		https://www.fragrantica.com/perfume/Omanluxury/Angham-51544.html				pending
-belfiore	Belfiore		unisex		https://www.fragrantica.com/perfume/Omanluxury/Belfiore-54994.html				pending
-caden	Caden		unisex		https://www.fragrantica.com/perfume/Omanluxury/Caden-105465.html				pending
-dejan	Dejan		unisex		https://www.fragrantica.com/perfume/Omanluxury/Dejan-51549.html				pending
-flowerlush	Flowerlush		unisex		https://www.fragrantica.com/perfume/Omanluxury/Flowerlush-77100.html				pending
-hommage-1744	Hommage 1744		unisex		https://www.fragrantica.com/perfume/Omanluxury/Hommage-1744-126621.html				pending
-khanjar	Khanjar		unisex		https://www.fragrantica.com/perfume/Omanluxury/Khanjar-51546.html				pending
-mariya	Mariya		female		https://www.fragrantica.com/perfume/Omanluxury/Mariya-51545.html				pending
-nasaj	Nasaj		unisex		https://www.fragrantica.com/perfume/Omanluxury/Nasaj-116897.html				pending
-oud-aquilaria	Oud Aquilaria		unisex		https://www.fragrantica.com/perfume/Omanluxury/Oud-Aquilaria-51553.html				pending
-overdose	Overdose		unisex		https://www.fragrantica.com/perfume/Omanluxury/Overdose-51552.html				pending
-paramour	Paramour		unisex		https://www.fragrantica.com/perfume/Omanluxury/Paramour-51555.html				pending
-royal-incense	Royal Incense		unisex		https://www.fragrantica.com/perfume/Omanluxury/Royal-Incense-63818.html				pending
-serenity	Serenity		unisex		https://www.fragrantica.com/perfume/Omanluxury/Serenity-51878.html				pending
-voyage	Voyage		unisex		https://www.fragrantica.com/perfume/Omanluxury/Voyage-77101.html				pending
-wanderlust	Wanderlust		unisex		https://www.fragrantica.com/perfume/Omanluxury/Wanderlust-51554.html				pending
-wanderlust-2023-edition	Wanderlust 2023 Edition		unisex		https://www.fragrantica.com/perfume/Omanluxury/Wanderlust-2023-Edition-84618.html				pending
-zafar	Zafar		unisex		https://www.fragrantica.com/perfume/Omanluxury/Zafar-77102.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+angham	Angham		unisex	https://www.fragrantica.com/perfume/Omanluxury/Angham-51544.html				pending
+belfiore	Belfiore		unisex	https://www.fragrantica.com/perfume/Omanluxury/Belfiore-54994.html				pending
+caden	Caden		unisex	https://www.fragrantica.com/perfume/Omanluxury/Caden-105465.html				pending
+dejan	Dejan		unisex	https://www.fragrantica.com/perfume/Omanluxury/Dejan-51549.html				pending
+flowerlush	Flowerlush		unisex	https://www.fragrantica.com/perfume/Omanluxury/Flowerlush-77100.html				pending
+hommage-1744	Hommage 1744		unisex	https://www.fragrantica.com/perfume/Omanluxury/Hommage-1744-126621.html				pending
+khanjar	Khanjar		unisex	https://www.fragrantica.com/perfume/Omanluxury/Khanjar-51546.html				pending
+mariya	Mariya		female	https://www.fragrantica.com/perfume/Omanluxury/Mariya-51545.html				pending
+nasaj	Nasaj		unisex	https://www.fragrantica.com/perfume/Omanluxury/Nasaj-116897.html				pending
+oud-aquilaria	Oud Aquilaria		unisex	https://www.fragrantica.com/perfume/Omanluxury/Oud-Aquilaria-51553.html				pending
+overdose	Overdose		unisex	https://www.fragrantica.com/perfume/Omanluxury/Overdose-51552.html				pending
+paramour	Paramour		unisex	https://www.fragrantica.com/perfume/Omanluxury/Paramour-51555.html				pending
+royal-incense	Royal Incense		unisex	https://www.fragrantica.com/perfume/Omanluxury/Royal-Incense-63818.html				pending
+serenity	Serenity		unisex	https://www.fragrantica.com/perfume/Omanluxury/Serenity-51878.html				pending
+voyage	Voyage		unisex	https://www.fragrantica.com/perfume/Omanluxury/Voyage-77101.html				pending
+wanderlust	Wanderlust		unisex	https://www.fragrantica.com/perfume/Omanluxury/Wanderlust-51554.html				pending
+wanderlust-2023-edition	Wanderlust 2023 Edition		unisex	https://www.fragrantica.com/perfume/Omanluxury/Wanderlust-2023-Edition-84618.html				pending
+zafar	Zafar		unisex	https://www.fragrantica.com/perfume/Omanluxury/Zafar-77102.html				pending

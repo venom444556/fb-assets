@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-call-me-goddess	Call Me Goddess		unisex		https://www.fragrantica.com/perfume/Adscenture/Call-Me-Goddess-82518.html				pending
-cosmic-purple	Cosmic Purple		unisex		https://www.fragrantica.com/perfume/Adscenture/Cosmic-Purple-82515.html				pending
-firefly	Firefly		unisex		https://www.fragrantica.com/perfume/Adscenture/Firefly-82516.html				pending
-holographic	Holographic		unisex		https://www.fragrantica.com/perfume/Adscenture/Holographic-82517.html				pending
-kyoto	Kyoto		unisex		https://www.fragrantica.com/perfume/Adscenture/Kyoto-82520.html				pending
-onward-to-seville	Onward To Seville		unisex		https://www.fragrantica.com/perfume/Adscenture/Onward-To-Seville-82513.html				pending
-sands-of-time	Sands Of Time		unisex		https://www.fragrantica.com/perfume/Adscenture/Sands-Of-Time-82514.html				pending
-secret-garden	Secret Garden		unisex		https://www.fragrantica.com/perfume/Adscenture/Secret-Garden-82519.html				pending
-serendipity	Serendipity		unisex		https://www.fragrantica.com/perfume/Adscenture/Serendipity-82525.html				pending
-turkish-delight	Turkish Delight		unisex		https://www.fragrantica.com/perfume/Adscenture/Turkish-Delight-82524.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+call-me-goddess	Call Me Goddess		unisex	https://www.fragrantica.com/perfume/Adscenture/Call-Me-Goddess-82518.html				pending
+cosmic-purple	Cosmic Purple		unisex	https://www.fragrantica.com/perfume/Adscenture/Cosmic-Purple-82515.html				pending
+firefly	Firefly		unisex	https://www.fragrantica.com/perfume/Adscenture/Firefly-82516.html				pending
+holographic	Holographic		unisex	https://www.fragrantica.com/perfume/Adscenture/Holographic-82517.html				pending
+kyoto	Kyoto		unisex	https://www.fragrantica.com/perfume/Adscenture/Kyoto-82520.html				pending
+onward-to-seville	Onward To Seville		unisex	https://www.fragrantica.com/perfume/Adscenture/Onward-To-Seville-82513.html				pending
+sands-of-time	Sands Of Time		unisex	https://www.fragrantica.com/perfume/Adscenture/Sands-Of-Time-82514.html				pending
+secret-garden	Secret Garden		unisex	https://www.fragrantica.com/perfume/Adscenture/Secret-Garden-82519.html				pending
+serendipity	Serendipity		unisex	https://www.fragrantica.com/perfume/Adscenture/Serendipity-82525.html				pending
+turkish-delight	Turkish Delight		unisex	https://www.fragrantica.com/perfume/Adscenture/Turkish-Delight-82524.html				pending

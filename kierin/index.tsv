@@ -1,7 +1,7 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-10-a-m-flirt	10 a.m. Flirt		unisex		https://www.fragrantica.com/perfume/Kierin/10-a-m-Flirt-48714.html				pending
-nitro-noir	Nitro Noir		unisex		https://www.fragrantica.com/perfume/Kierin/Nitro-Noir-48711.html				pending
-pier-ny	Pier NY		unisex		https://www.fragrantica.com/perfume/Kierin/Pier-NY-69897.html				pending
-rose-ink	Rose Ink		unisex		https://www.fragrantica.com/perfume/Kierin/Rose-Ink-63365.html				pending
-santal-sky	Santal Sky		unisex		https://www.fragrantica.com/perfume/Kierin/Santal-Sky-48713.html				pending
-sunday-brunch	Sunday Brunch		unisex		https://www.fragrantica.com/perfume/Kierin/Sunday-Brunch-48712.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+10-a-m-flirt	10 a.m. Flirt		unisex	https://www.fragrantica.com/perfume/Kierin/10-a-m-Flirt-48714.html				pending
+nitro-noir	Nitro Noir		unisex	https://www.fragrantica.com/perfume/Kierin/Nitro-Noir-48711.html				pending
+pier-ny	Pier NY		unisex	https://www.fragrantica.com/perfume/Kierin/Pier-NY-69897.html				pending
+rose-ink	Rose Ink		unisex	https://www.fragrantica.com/perfume/Kierin/Rose-Ink-63365.html				pending
+santal-sky	Santal Sky		unisex	https://www.fragrantica.com/perfume/Kierin/Santal-Sky-48713.html				pending
+sunday-brunch	Sunday Brunch		unisex	https://www.fragrantica.com/perfume/Kierin/Sunday-Brunch-48712.html				pending

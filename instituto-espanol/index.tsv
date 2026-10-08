@@ -1,29 +1,29 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-aire-de-barcelona	Aire de Barcelona		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Barcelona-43990.html				pending
-aire-de-barcelona-43909	Aire de Barcelona		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Barcelona-43909.html				pending
-aire-de-sevilla	Aire de Sevilla		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-43907.html				pending
-aire-de-sevilla-azahar	Aire de Sevilla Azahar		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Azahar-43900.html				pending
-aire-de-sevilla-azul-fresh	Aire de Sevilla Azul Fresh		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Azul-Fresh-43901.html				pending
-aire-de-sevilla-bella	Aire de Sevilla Bella		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Bella-43898.html				pending
-aire-de-sevilla-chicca-bonita	Aire de Sevilla Chicca Bonita		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Chicca-Bonita-77974.html				pending
-aire-de-sevilla-experience	Aire de Sevilla Experience		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Experience-43894.html				pending
-aire-de-sevilla-hombre	Aire de Sevilla Hombre		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Hombre-43988.html				pending
-aire-de-sevilla-laudace	Aire de Sevilla L'Audace		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-L-Audace-43896.html				pending
-aire-de-sevilla-primavera	Aire de Sevilla Primavera		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Primavera-43908.html				pending
-aire-de-sevilla-rosas	Aire de Sevilla Rosas		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Rosas-43904.html				pending
-aire-de-sevilla-rose	Aire de Sevilla Rose		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Rose-43897.html				pending
-anfora-oro	Anfora Oro		unisex		https://www.fragrantica.com/perfume/Instituto-Espanol/Anfora-Oro-43993.html				pending
-blue-aire-de-sevilla	Blue Aire de Sevilla		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Blue-Aire-de-Sevilla-43989.html				pending
-dragon-fire-force	Dragon Fire Force		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Dragon-Fire-Force-43991.html				pending
-dragon-fire-power	Dragon Fire Power		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Dragon-Fire-Power-43992.html				pending
-dragon-fire-seduction	Dragon Fire Seduction		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Dragon-Fire-Seduction-43891.html				pending
-dragon-fire-sweet-love	Dragon Fire Sweet Love		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Dragon-Fire-Sweet-Love-43892.html				pending
-poseidon-classic	Poseidon Classic		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Classic-43986.html				pending
-poseidon-gold	Poseidon Gold		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Gold-43987.html				pending
-poseidon-gold-woman	Poseidon Gold Woman		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Gold-Woman-43969.html				pending
-poseidon-impulse	Poseidon Impulse		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Impulse-43971.html				pending
-poseidon-indomito	Poseidon Indómito		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Indomito-43970.html				pending
-poseidon-sport	Poseidon Sport		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Sport-43985.html				pending
-poseidon-the-black	Poseidon The Black		male		https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-The-Black-43984.html				pending
-poseidon-the-black-for-woman	Poseidon The Black for Woman		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-The-Black-for-Woman-43895.html				pending
-poseidon-victoria	Poseidon Victoria		female		https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Victoria-43893.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+aire-de-barcelona	Aire de Barcelona		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Barcelona-43990.html				pending
+aire-de-barcelona-43909	Aire de Barcelona		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Barcelona-43909.html				pending
+aire-de-sevilla	Aire de Sevilla		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-43907.html				pending
+aire-de-sevilla-azahar	Aire de Sevilla Azahar		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Azahar-43900.html				pending
+aire-de-sevilla-azul-fresh	Aire de Sevilla Azul Fresh		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Azul-Fresh-43901.html				pending
+aire-de-sevilla-bella	Aire de Sevilla Bella		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Bella-43898.html				pending
+aire-de-sevilla-chicca-bonita	Aire de Sevilla Chicca Bonita		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Chicca-Bonita-77974.html				pending
+aire-de-sevilla-experience	Aire de Sevilla Experience		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Experience-43894.html				pending
+aire-de-sevilla-hombre	Aire de Sevilla Hombre		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Hombre-43988.html				pending
+aire-de-sevilla-laudace	Aire de Sevilla L'Audace		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-L-Audace-43896.html				pending
+aire-de-sevilla-primavera	Aire de Sevilla Primavera		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Primavera-43908.html				pending
+aire-de-sevilla-rosas	Aire de Sevilla Rosas		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Rosas-43904.html				pending
+aire-de-sevilla-rose	Aire de Sevilla Rose		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Aire-de-Sevilla-Rose-43897.html				pending
+anfora-oro	Anfora Oro		unisex	https://www.fragrantica.com/perfume/Instituto-Espanol/Anfora-Oro-43993.html				pending
+blue-aire-de-sevilla	Blue Aire de Sevilla		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Blue-Aire-de-Sevilla-43989.html				pending
+dragon-fire-force	Dragon Fire Force		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Dragon-Fire-Force-43991.html				pending
+dragon-fire-power	Dragon Fire Power		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Dragon-Fire-Power-43992.html				pending
+dragon-fire-seduction	Dragon Fire Seduction		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Dragon-Fire-Seduction-43891.html				pending
+dragon-fire-sweet-love	Dragon Fire Sweet Love		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Dragon-Fire-Sweet-Love-43892.html				pending
+poseidon-classic	Poseidon Classic		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Classic-43986.html				pending
+poseidon-gold	Poseidon Gold		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Gold-43987.html				pending
+poseidon-gold-woman	Poseidon Gold Woman		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Gold-Woman-43969.html				pending
+poseidon-impulse	Poseidon Impulse		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Impulse-43971.html				pending
+poseidon-indomito	Poseidon Indómito		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Indomito-43970.html				pending
+poseidon-sport	Poseidon Sport		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Sport-43985.html				pending
+poseidon-the-black	Poseidon The Black		male	https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-The-Black-43984.html				pending
+poseidon-the-black-for-woman	Poseidon The Black for Woman		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-The-Black-for-Woman-43895.html				pending
+poseidon-victoria	Poseidon Victoria		female	https://www.fragrantica.com/perfume/Instituto-Espanol/Poseidon-Victoria-43893.html				pending

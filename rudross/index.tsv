@@ -1,10 +1,10 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-citrus-molecule	Citrus Molecule		unisex		https://www.fragrantica.com/perfume/RudRoss/Citrus-Molecule-84008.html				pending
-cozy	Cozy		unisex		https://www.fragrantica.com/perfume/RudRoss/Cozy-83018.html				pending
-lust-for-life	Lust for Life		unisex		https://www.fragrantica.com/perfume/RudRoss/Lust-for-Life-113804.html				pending
-mineral	Mineral		unisex		https://www.fragrantica.com/perfume/RudRoss/Mineral-83020.html				pending
-mira	Mira		unisex		https://www.fragrantica.com/perfume/RudRoss/Mira-102007.html				pending
-monkey	Monkey		unisex		https://www.fragrantica.com/perfume/RudRoss/Monkey-83021.html				pending
-road-to-paradise	Road to Paradise		unisex		https://www.fragrantica.com/perfume/RudRoss/Road-to-Paradise-83024.html				pending
-thai-mango	Thai Mango		unisex		https://www.fragrantica.com/perfume/RudRoss/Thai-Mango-83027.html				pending
-vanilla-love	Vanilla Love		unisex		https://www.fragrantica.com/perfume/RudRoss/Vanilla-Love-96097.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+citrus-molecule	Citrus Molecule		unisex	https://www.fragrantica.com/perfume/RudRoss/Citrus-Molecule-84008.html				pending
+cozy	Cozy		unisex	https://www.fragrantica.com/perfume/RudRoss/Cozy-83018.html				pending
+lust-for-life	Lust for Life		unisex	https://www.fragrantica.com/perfume/RudRoss/Lust-for-Life-113804.html				pending
+mineral	Mineral		unisex	https://www.fragrantica.com/perfume/RudRoss/Mineral-83020.html				pending
+mira	Mira		unisex	https://www.fragrantica.com/perfume/RudRoss/Mira-102007.html				pending
+monkey	Monkey		unisex	https://www.fragrantica.com/perfume/RudRoss/Monkey-83021.html				pending
+road-to-paradise	Road to Paradise		unisex	https://www.fragrantica.com/perfume/RudRoss/Road-to-Paradise-83024.html				pending
+thai-mango	Thai Mango		unisex	https://www.fragrantica.com/perfume/RudRoss/Thai-Mango-83027.html				pending
+vanilla-love	Vanilla Love		unisex	https://www.fragrantica.com/perfume/RudRoss/Vanilla-Love-96097.html				pending

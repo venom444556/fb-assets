@@ -1,32 +1,32 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-alacati-lavender	Alacati Lavender		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Alacati-Lavender-48520.html				pending
-amber	Amber		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Amber-48519.html				pending
-ayvalik-olive-blossom	Ayvalik Olive Blossom		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Ayvalik-Olive-Blossom-48521.html				pending
-basilica-cistern	Basilica Cistern		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Basilica-Cistern-63602.html				pending
-bodrum-mandarin	Bodrum Mandarin		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Bodrum-Mandarin-48522.html				pending
-bosphorus	Bosphorus		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Bosphorus-63603.html				pending
-cuban-tobacco	Cuban Tobacco		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Cuban-Tobacco-48523.html				pending
-egyptian-bazaar	Egyptian Bazaar		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Egyptian-Bazaar-63604.html				pending
-eyuep-sabri-tuncer	Eyuep Sabri Tuncer		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Eyuep-Sabri-Tuncer-48538.html				pending
-eyuep-sultan	Eyuep Sultan		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Eyuep-Sultan-63605.html				pending
-galata-tower	Galata Tower		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Galata-Tower-63606.html				pending
-golden-horn	Golden Horn		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Golden-Horn-63608.html				pending
-grand-bazaar	Grand Bazaar		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Grand-Bazaar-63607.html				pending
-hagia-sophia	Hagia Sophia		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Hagia-Sophia-63609.html				pending
-harem	Harem		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Harem-63610.html				pending
-hatiralar-memories	Hatiralar (Memories)		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Hatiralar-Memories-48534.html				pending
-indian-oud	Indian Oud		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Indian-Oud-48525.html				pending
-japanese-cherry-blossom	Japanese Cherry Blossom		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Japanese-Cherry-Blossom-48526.html				pending
-klasik-limon-lemon	Klasik Limon (Lemon)		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Klasik-Limon-Lemon-48536.html				pending
-kolonya-tuetuen	Kolonya Tuetuen		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Kolonya-Tuetuen-83337.html				pending
-maidens-tower	Maiden's Tower		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Maiden-s-Tower-63611.html				pending
-millions-of-roses	Millions of Roses		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Millions-of-Roses-48527.html				pending
-ocean-breeze	Ocean Breeze		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Ocean-Breeze-48528.html				pending
-paris-gecesi-paris-nights	Paris Gecesi (Paris Nights)		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Paris-Gecesi-Paris-Nights-48535.html				pending
-pink-grapefruit	Pink Grapefruit		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Pink-Grapefruit-48529.html				pending
-sultan-ahmet	Sultan Ahmet		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Sultan-Ahmet-63612.html				pending
-topkapi-palace	Topkapi Palace		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Topkapi-Palace-63613.html				pending
-verbena-with-citrus	Verbena with Citrus		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Verbena-with-Citrus-48533.html				pending
-white-tea	White Tea		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/White-Tea-48532.html				pending
-wild-fig	Wild Fig		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Wild-Fig-48531.html				pending
-cesme-limonu	Çeşme Limonu		unisex		https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Cesme-Limonu-48524.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+alacati-lavender	Alacati Lavender		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Alacati-Lavender-48520.html				pending
+amber	Amber		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Amber-48519.html				pending
+ayvalik-olive-blossom	Ayvalik Olive Blossom		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Ayvalik-Olive-Blossom-48521.html				pending
+basilica-cistern	Basilica Cistern		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Basilica-Cistern-63602.html				pending
+bodrum-mandarin	Bodrum Mandarin		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Bodrum-Mandarin-48522.html				pending
+bosphorus	Bosphorus		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Bosphorus-63603.html				pending
+cuban-tobacco	Cuban Tobacco		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Cuban-Tobacco-48523.html				pending
+egyptian-bazaar	Egyptian Bazaar		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Egyptian-Bazaar-63604.html				pending
+eyuep-sabri-tuncer	Eyuep Sabri Tuncer		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Eyuep-Sabri-Tuncer-48538.html				pending
+eyuep-sultan	Eyuep Sultan		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Eyuep-Sultan-63605.html				pending
+galata-tower	Galata Tower		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Galata-Tower-63606.html				pending
+golden-horn	Golden Horn		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Golden-Horn-63608.html				pending
+grand-bazaar	Grand Bazaar		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Grand-Bazaar-63607.html				pending
+hagia-sophia	Hagia Sophia		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Hagia-Sophia-63609.html				pending
+harem	Harem		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Harem-63610.html				pending
+hatiralar-memories	Hatiralar (Memories)		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Hatiralar-Memories-48534.html				pending
+indian-oud	Indian Oud		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Indian-Oud-48525.html				pending
+japanese-cherry-blossom	Japanese Cherry Blossom		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Japanese-Cherry-Blossom-48526.html				pending
+klasik-limon-lemon	Klasik Limon (Lemon)		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Klasik-Limon-Lemon-48536.html				pending
+kolonya-tuetuen	Kolonya Tuetuen		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Kolonya-Tuetuen-83337.html				pending
+maidens-tower	Maiden's Tower		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Maiden-s-Tower-63611.html				pending
+millions-of-roses	Millions of Roses		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Millions-of-Roses-48527.html				pending
+ocean-breeze	Ocean Breeze		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Ocean-Breeze-48528.html				pending
+paris-gecesi-paris-nights	Paris Gecesi (Paris Nights)		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Paris-Gecesi-Paris-Nights-48535.html				pending
+pink-grapefruit	Pink Grapefruit		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Pink-Grapefruit-48529.html				pending
+sultan-ahmet	Sultan Ahmet		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Sultan-Ahmet-63612.html				pending
+topkapi-palace	Topkapi Palace		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Topkapi-Palace-63613.html				pending
+verbena-with-citrus	Verbena with Citrus		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Verbena-with-Citrus-48533.html				pending
+white-tea	White Tea		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/White-Tea-48532.html				pending
+wild-fig	Wild Fig		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Wild-Fig-48531.html				pending
+cesme-limonu	Çeşme Limonu		unisex	https://www.fragrantica.com/perfume/Eyuep-Sabri-Tuncer/Cesme-Limonu-48524.html				pending

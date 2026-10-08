@@ -1,28 +1,28 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-adore	Adore		female		https://www.fragrantica.com/perfume/Alta-Moda/Adore-26825.html				pending
-beau-contour	Beau Contour		female		https://www.fragrantica.com/perfume/Alta-Moda/Beau-Contour-26808.html				pending
-black-cash	Black Cash		male		https://www.fragrantica.com/perfume/Alta-Moda/Black-Cash-26815.html				pending
-cocktail	Cocktail		female		https://www.fragrantica.com/perfume/Alta-Moda/Cocktail-58586.html				pending
-conquer	Conquer		male		https://www.fragrantica.com/perfume/Alta-Moda/Conquer-26814.html				pending
-coquette-pour-femme	Coquette Pour Femme		female		https://www.fragrantica.com/perfume/Alta-Moda/Coquette-Pour-Femme-26804.html				pending
-dreams	Dreams		female		https://www.fragrantica.com/perfume/Alta-Moda/Dreams-9822.html				pending
-encore	Encore		male		https://www.fragrantica.com/perfume/Alta-Moda/Encore-26806.html				pending
-expose	Expose		female		https://www.fragrantica.com/perfume/Alta-Moda/Expose-26817.html				pending
-fusion	Fusion		female		https://www.fragrantica.com/perfume/Alta-Moda/Fusion-26809.html				pending
-just-bleu	Just Bleu		male		https://www.fragrantica.com/perfume/Alta-Moda/Just-Bleu-26810.html				pending
-just-gold	Just Gold		male		https://www.fragrantica.com/perfume/Alta-Moda/Just-Gold-26813.html				pending
-midnight-dreams	Midnight Dreams		female		https://www.fragrantica.com/perfume/Alta-Moda/Midnight-Dreams-9821.html				pending
-miss-glam	Miss Glam		female		https://www.fragrantica.com/perfume/Alta-Moda/Miss-Glam-26811.html				pending
-my-style-classic	My Style Classic		female		https://www.fragrantica.com/perfume/Alta-Moda/My-Style-Classic-26820.html				pending
-my-style-epic	My Style Epic		female		https://www.fragrantica.com/perfume/Alta-Moda/My-Style-Epic-26821.html				pending
-nuit-extreme-pour-homme	Nuit Extreme Pour Homme		male		https://www.fragrantica.com/perfume/Alta-Moda/Nuit-Extreme-Pour-Homme-26805.html				pending
-only-me	Only Me		female		https://www.fragrantica.com/perfume/Alta-Moda/Only-Me-26818.html				pending
-only-you	Only You		female		https://www.fragrantica.com/perfume/Alta-Moda/Only-You-26819.html				pending
-prestige-pour-homme	Prestige pour Homme		male		https://www.fragrantica.com/perfume/Alta-Moda/Prestige-pour-Homme-26822.html				pending
-pure-gold	Pure Gold		female		https://www.fragrantica.com/perfume/Alta-Moda/Pure-Gold-26824.html				pending
-real	Real		female		https://www.fragrantica.com/perfume/Alta-Moda/Real-9819.html				pending
-roset	Roset		female		https://www.fragrantica.com/perfume/Alta-Moda/Roset-26807.html				pending
-sauvage	Sauvage		male		https://www.fragrantica.com/perfume/Alta-Moda/Sauvage-82473.html				pending
-sweet-heart	Sweet Heart		female		https://www.fragrantica.com/perfume/Alta-Moda/Sweet-Heart-9820.html				pending
-v6	V6		male		https://www.fragrantica.com/perfume/Alta-Moda/V6-26812.html				pending
-victory	Victory		male		https://www.fragrantica.com/perfume/Alta-Moda/Victory-26823.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+adore	Adore		female	https://www.fragrantica.com/perfume/Alta-Moda/Adore-26825.html				pending
+beau-contour	Beau Contour		female	https://www.fragrantica.com/perfume/Alta-Moda/Beau-Contour-26808.html				pending
+black-cash	Black Cash		male	https://www.fragrantica.com/perfume/Alta-Moda/Black-Cash-26815.html				pending
+cocktail	Cocktail		female	https://www.fragrantica.com/perfume/Alta-Moda/Cocktail-58586.html				pending
+conquer	Conquer		male	https://www.fragrantica.com/perfume/Alta-Moda/Conquer-26814.html				pending
+coquette-pour-femme	Coquette Pour Femme		female	https://www.fragrantica.com/perfume/Alta-Moda/Coquette-Pour-Femme-26804.html				pending
+dreams	Dreams		female	https://www.fragrantica.com/perfume/Alta-Moda/Dreams-9822.html				pending
+encore	Encore		male	https://www.fragrantica.com/perfume/Alta-Moda/Encore-26806.html				pending
+expose	Expose		female	https://www.fragrantica.com/perfume/Alta-Moda/Expose-26817.html				pending
+fusion	Fusion		female	https://www.fragrantica.com/perfume/Alta-Moda/Fusion-26809.html				pending
+just-bleu	Just Bleu		male	https://www.fragrantica.com/perfume/Alta-Moda/Just-Bleu-26810.html				pending
+just-gold	Just Gold		male	https://www.fragrantica.com/perfume/Alta-Moda/Just-Gold-26813.html				pending
+midnight-dreams	Midnight Dreams		female	https://www.fragrantica.com/perfume/Alta-Moda/Midnight-Dreams-9821.html				pending
+miss-glam	Miss Glam		female	https://www.fragrantica.com/perfume/Alta-Moda/Miss-Glam-26811.html				pending
+my-style-classic	My Style Classic		female	https://www.fragrantica.com/perfume/Alta-Moda/My-Style-Classic-26820.html				pending
+my-style-epic	My Style Epic		female	https://www.fragrantica.com/perfume/Alta-Moda/My-Style-Epic-26821.html				pending
+nuit-extreme-pour-homme	Nuit Extreme Pour Homme		male	https://www.fragrantica.com/perfume/Alta-Moda/Nuit-Extreme-Pour-Homme-26805.html				pending
+only-me	Only Me		female	https://www.fragrantica.com/perfume/Alta-Moda/Only-Me-26818.html				pending
+only-you	Only You		female	https://www.fragrantica.com/perfume/Alta-Moda/Only-You-26819.html				pending
+prestige-pour-homme	Prestige pour Homme		male	https://www.fragrantica.com/perfume/Alta-Moda/Prestige-pour-Homme-26822.html				pending
+pure-gold	Pure Gold		female	https://www.fragrantica.com/perfume/Alta-Moda/Pure-Gold-26824.html				pending
+real	Real		female	https://www.fragrantica.com/perfume/Alta-Moda/Real-9819.html				pending
+roset	Roset		female	https://www.fragrantica.com/perfume/Alta-Moda/Roset-26807.html				pending
+sauvage	Sauvage		male	https://www.fragrantica.com/perfume/Alta-Moda/Sauvage-82473.html				pending
+sweet-heart	Sweet Heart		female	https://www.fragrantica.com/perfume/Alta-Moda/Sweet-Heart-9820.html				pending
+v6	V6		male	https://www.fragrantica.com/perfume/Alta-Moda/V6-26812.html				pending
+victory	Victory		male	https://www.fragrantica.com/perfume/Alta-Moda/Victory-26823.html				pending

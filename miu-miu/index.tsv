@@ -1,11 +1,11 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-miu-miu	Miu Miu		female		https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-31468.html				pending
-miu-miu-fleur-de-lait	Miu Miu Fleur de Lait		female		https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Fleur-de-Lait-78755.html				pending
-miu-miu-fleur-dargent	Miu Miu Fleur D’Argent		female		https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Fleur-D-Argent-50756.html				pending
-miu-miu-leau-bleue	Miu Miu L’Eau Bleue		female		https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-L-Eau-Bleue-42720.html				pending
-miu-miu-leau-rosee	Miu Miu L’Eau Rosée		female		https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-L-Eau-Rosee-48104.html				pending
-miu-miu-rosee	Miu Miu Rosee		female		https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Rosee-113969.html				pending
-miu-miu-twist	Miu Miu Twist		female		https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Twist-53147.html				pending
-miu-miu-twist-eau-de-toilette	Miu Miu Twist Eau de Toilette		female		https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Twist-Eau-de-Toilette-58494.html				pending
-miutine	Miutine		female		https://www.fragrantica.com/perfume/Miu-Miu/Miutine-113885.html				pending
-miutine-intense	Miutine Intense		female		https://www.fragrantica.com/perfume/Miu-Miu/Miutine-Intense-138318.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+miu-miu	Miu Miu		female	https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-31468.html				pending
+miu-miu-fleur-de-lait	Miu Miu Fleur de Lait		female	https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Fleur-de-Lait-78755.html				pending
+miu-miu-fleur-dargent	Miu Miu Fleur D’Argent		female	https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Fleur-D-Argent-50756.html				pending
+miu-miu-leau-bleue	Miu Miu L’Eau Bleue		female	https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-L-Eau-Bleue-42720.html				pending
+miu-miu-leau-rosee	Miu Miu L’Eau Rosée		female	https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-L-Eau-Rosee-48104.html				pending
+miu-miu-rosee	Miu Miu Rosee		female	https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Rosee-113969.html				pending
+miu-miu-twist	Miu Miu Twist		female	https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Twist-53147.html				pending
+miu-miu-twist-eau-de-toilette	Miu Miu Twist Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Miu-Miu/Miu-Miu-Twist-Eau-de-Toilette-58494.html				pending
+miutine	Miutine		female	https://www.fragrantica.com/perfume/Miu-Miu/Miutine-113885.html				pending
+miutine-intense	Miutine Intense		female	https://www.fragrantica.com/perfume/Miu-Miu/Miutine-Intense-138318.html				pending

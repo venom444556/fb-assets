@@ -1,2 +1,2 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-privet-bloom	Privet Bloom		female		https://www.fragrantica.com/perfume/Hampton-Sun/Privet-Bloom-4862.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+privet-bloom	Privet Bloom		female	https://www.fragrantica.com/perfume/Hampton-Sun/Privet-Bloom-4862.html				pending

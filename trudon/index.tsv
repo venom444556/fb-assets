@@ -1,17 +1,17 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-45	45°		unisex		https://www.fragrantica.com/perfume/Trudon/450-113434.html				pending
-absolu	Absolu		unisex		https://www.fragrantica.com/perfume/Trudon/Absolu-96547.html				pending
-aphelie	Aphélie		female		https://www.fragrantica.com/perfume/Trudon/Aphelie-69727.html				pending
-bruma	Bruma		unisex		https://www.fragrantica.com/perfume/Trudon/Bruma-46321.html				pending
-carmen	Carmen		unisex		https://www.fragrantica.com/perfume/Trudon/Carmen-131710.html				pending
-elae	Elae		female		https://www.fragrantica.com/perfume/Trudon/Elae-58218.html				pending
-ii	II		unisex		https://www.fragrantica.com/perfume/Trudon/II-46323.html				pending
-isla	Isla		unisex		https://www.fragrantica.com/perfume/Trudon/Isla-93622.html				pending
-midnight-omen	Midnight Omen		unisex		https://www.fragrantica.com/perfume/Trudon/Midnight-Omen-113433.html				pending
-mortel	Mortel		unisex		https://www.fragrantica.com/perfume/Trudon/Mortel-46325.html				pending
-mortel-noir	Mortel Noir		unisex		https://www.fragrantica.com/perfume/Trudon/Mortel-Noir-79217.html				pending
-mystique	Mystique		unisex		https://www.fragrantica.com/perfume/Trudon/Mystique-113435.html				pending
-medie	Médie		unisex		https://www.fragrantica.com/perfume/Trudon/Medie-58219.html				pending
-olim	Olim		unisex		https://www.fragrantica.com/perfume/Trudon/Olim-46322.html				pending
-revolution	Revolution		unisex		https://www.fragrantica.com/perfume/Trudon/Revolution-46324.html				pending
-vixi	Vixi		unisex		https://www.fragrantica.com/perfume/Trudon/Vixi-85183.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+45	45°		unisex	https://www.fragrantica.com/perfume/Trudon/450-113434.html				pending
+absolu	Absolu		unisex	https://www.fragrantica.com/perfume/Trudon/Absolu-96547.html				pending
+aphelie	Aphélie		female	https://www.fragrantica.com/perfume/Trudon/Aphelie-69727.html				pending
+bruma	Bruma		unisex	https://www.fragrantica.com/perfume/Trudon/Bruma-46321.html				pending
+carmen	Carmen		unisex	https://www.fragrantica.com/perfume/Trudon/Carmen-131710.html				pending
+elae	Elae		female	https://www.fragrantica.com/perfume/Trudon/Elae-58218.html				pending
+ii	II		unisex	https://www.fragrantica.com/perfume/Trudon/II-46323.html				pending
+isla	Isla		unisex	https://www.fragrantica.com/perfume/Trudon/Isla-93622.html				pending
+midnight-omen	Midnight Omen		unisex	https://www.fragrantica.com/perfume/Trudon/Midnight-Omen-113433.html				pending
+mortel	Mortel		unisex	https://www.fragrantica.com/perfume/Trudon/Mortel-46325.html				pending
+mortel-noir	Mortel Noir		unisex	https://www.fragrantica.com/perfume/Trudon/Mortel-Noir-79217.html				pending
+mystique	Mystique		unisex	https://www.fragrantica.com/perfume/Trudon/Mystique-113435.html				pending
+medie	Médie		unisex	https://www.fragrantica.com/perfume/Trudon/Medie-58219.html				pending
+olim	Olim		unisex	https://www.fragrantica.com/perfume/Trudon/Olim-46322.html				pending
+revolution	Revolution		unisex	https://www.fragrantica.com/perfume/Trudon/Revolution-46324.html				pending
+vixi	Vixi		unisex	https://www.fragrantica.com/perfume/Trudon/Vixi-85183.html				pending

@@ -1,23 +1,23 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-1968	1968		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/1968-80351.html				pending
-1970	1970		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/1970-80352.html				pending
-1988	1988		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/1988-80356.html				pending
-2010	2010		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/2010-80357.html				pending
-fresh-oud	Fresh Oud		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Fresh-Oud-61687.html				pending
-incense-wood	Incense Wood		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Incense-Wood-61685.html				pending
-no-1-bergamot-tea-leaves-sandal-wood	NO 1 Bergamot, Tea Leaves, Sandal Wood		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/NO-1-Bergamot-Tea-Leaves-Sandal-Wood-34434.html				pending
-no-2-lavender-spicy-chocolate	NO 2 Lavender, Spicy, Chocolate		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/NO-2-Lavender-Spicy-Chocolate-34435.html				pending
-no-3-neroli-iris-white-musk	NO 3 Neroli, Iris, White Musk		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/NO-3-Neroli-Iris-White-Musk-34436.html				pending
-no-4-saffron-oud-vanilla	NO 4 Saffron, Oud, Vanilla		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/NO-4-Saffron-Oud-Vanilla-34437.html				pending
-rosendo-mateu-no-1-bergamot-tea-leaf-sandalwood	Rosendo Mateu Nº 1 Bergamot, Tea Leaf, Sandalwood		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-1-Bergamot-Tea-Leaf-Sandalwood-46111.html				pending
-rosendo-mateu-no-10-musk-musk-musk	Rosendo Mateu Nº 10 Musk, Musk, Musk		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-10-Musk-Musk-Musk-131273.html				pending
-rosendo-mateu-no-2-citrus-wood-suede-leather	Rosendo Mateu Nº 2 Citrus, Wood, Suede Leather		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-2-Citrus-Wood-Suede-Leather-46112.html				pending
-rosendo-mateu-no-3-neroli-iris-white-musk	Rosendo Mateu Nº 3 Neroli, Iris, White Musk		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-3-Neroli-Iris-White-Musk-46113.html				pending
-rosendo-mateu-no-4-saffron-oud-vanilla	Rosendo Mateu Nº 4 Saffron, Oud, Vanilla		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-4-Saffron-Oud-Vanilla-46114.html				pending
-rosendo-mateu-no-5-elixir	Rosendo Mateu Nº 5 Elixir		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-5-Elixir-99801.html				pending
-rosendo-mateu-no-5-floral-amber-sensual-musk	Rosendo Mateu Nº 5 Floral, Amber, Sensual Musk		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-5-Floral-Amber-Sensual-Musk-46115.html				pending
-rosendo-mateu-no-6-jasmin-sandalwood-oriental-musk	Rosendo Mateu Nº 6 Jasmin, Sandalwood, Oriental Musk		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-6-Jasmin-Sandalwood-Oriental-Musk-52928.html				pending
-rosendo-mateu-no-7-patchouli-oud-vanilla	Rosendo Mateu Nº 7 Patchouli, Oud, Vanilla		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-7-Patchouli-Oud-Vanilla-70200.html				pending
-rosendo-mateu-no-8-fruity-amber-exotic-musk	Rosendo Mateu Nº 8 Fruity, Amber, Exotic Musk		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-8-Fruity-Amber-Exotic-Musk-91181.html				pending
-rosendo-mateu-no-9-wood-osmanthus-vanilla	Rosendo Mateu Nº 9 Wood, Osmanthus, Vanilla		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-9-Wood-Osmanthus-Vanilla-106293.html				pending
-sweet-rose	Sweet Rose		unisex		https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Sweet-Rose-61684.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+1968	1968		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/1968-80351.html				pending
+1970	1970		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/1970-80352.html				pending
+1988	1988		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/1988-80356.html				pending
+2010	2010		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/2010-80357.html				pending
+fresh-oud	Fresh Oud		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Fresh-Oud-61687.html				pending
+incense-wood	Incense Wood		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Incense-Wood-61685.html				pending
+no-1-bergamot-tea-leaves-sandal-wood	NO 1 Bergamot, Tea Leaves, Sandal Wood		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/NO-1-Bergamot-Tea-Leaves-Sandal-Wood-34434.html				pending
+no-2-lavender-spicy-chocolate	NO 2 Lavender, Spicy, Chocolate		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/NO-2-Lavender-Spicy-Chocolate-34435.html				pending
+no-3-neroli-iris-white-musk	NO 3 Neroli, Iris, White Musk		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/NO-3-Neroli-Iris-White-Musk-34436.html				pending
+no-4-saffron-oud-vanilla	NO 4 Saffron, Oud, Vanilla		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/NO-4-Saffron-Oud-Vanilla-34437.html				pending
+rosendo-mateu-no-1-bergamot-tea-leaf-sandalwood	Rosendo Mateu Nº 1 Bergamot, Tea Leaf, Sandalwood		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-1-Bergamot-Tea-Leaf-Sandalwood-46111.html				pending
+rosendo-mateu-no-10-musk-musk-musk	Rosendo Mateu Nº 10 Musk, Musk, Musk		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-10-Musk-Musk-Musk-131273.html				pending
+rosendo-mateu-no-2-citrus-wood-suede-leather	Rosendo Mateu Nº 2 Citrus, Wood, Suede Leather		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-2-Citrus-Wood-Suede-Leather-46112.html				pending
+rosendo-mateu-no-3-neroli-iris-white-musk	Rosendo Mateu Nº 3 Neroli, Iris, White Musk		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-3-Neroli-Iris-White-Musk-46113.html				pending
+rosendo-mateu-no-4-saffron-oud-vanilla	Rosendo Mateu Nº 4 Saffron, Oud, Vanilla		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-4-Saffron-Oud-Vanilla-46114.html				pending
+rosendo-mateu-no-5-elixir	Rosendo Mateu Nº 5 Elixir		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-5-Elixir-99801.html				pending
+rosendo-mateu-no-5-floral-amber-sensual-musk	Rosendo Mateu Nº 5 Floral, Amber, Sensual Musk		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-5-Floral-Amber-Sensual-Musk-46115.html				pending
+rosendo-mateu-no-6-jasmin-sandalwood-oriental-musk	Rosendo Mateu Nº 6 Jasmin, Sandalwood, Oriental Musk		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-6-Jasmin-Sandalwood-Oriental-Musk-52928.html				pending
+rosendo-mateu-no-7-patchouli-oud-vanilla	Rosendo Mateu Nº 7 Patchouli, Oud, Vanilla		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-7-Patchouli-Oud-Vanilla-70200.html				pending
+rosendo-mateu-no-8-fruity-amber-exotic-musk	Rosendo Mateu Nº 8 Fruity, Amber, Exotic Musk		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-8-Fruity-Amber-Exotic-Musk-91181.html				pending
+rosendo-mateu-no-9-wood-osmanthus-vanilla	Rosendo Mateu Nº 9 Wood, Osmanthus, Vanilla		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Rosendo-Mateu-No-9-Wood-Osmanthus-Vanilla-106293.html				pending
+sweet-rose	Sweet Rose		unisex	https://www.fragrantica.com/perfume/Rosendo-Mateu-Olfactive-Expressions/Sweet-Rose-61684.html				pending

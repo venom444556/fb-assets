@@ -1,8 +1,8 @@
-slug	fragrance	concentration	gender	list	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-almond-milk	Almond Milk		unisex		https://www.fragrantica.com/perfume/Mischief-Academy/Almond-Milk-123484.html				pending
-hansel-and-gretel	Hansel & Gretel		unisex		https://www.fragrantica.com/perfume/Mischief-Academy/Hansel-Gretel-102533.html				pending
-the-cursed-apple	The Cursed Apple		female		https://www.fragrantica.com/perfume/Mischief-Academy/The-Cursed-Apple-102532.html				pending
-the-jungle-book	The Jungle Book		unisex		https://www.fragrantica.com/perfume/Mischief-Academy/The-Jungle-Book-102535.html				pending
-the-little-mermaid	The Little Mermaid		female		https://www.fragrantica.com/perfume/Mischief-Academy/The-Little-Mermaid-102530.html				pending
-the-mad-hatter	The Mad Hatter		unisex		https://www.fragrantica.com/perfume/Mischief-Academy/The-Mad-Hatter-102531.html				pending
-winnie-the-pooh	Winnie the Pooh		unisex		https://www.fragrantica.com/perfume/Mischief-Academy/Winnie-the-Pooh-102529.html				pending
+slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
+almond-milk	Almond Milk		unisex	https://www.fragrantica.com/perfume/Mischief-Academy/Almond-Milk-123484.html				pending
+hansel-and-gretel	Hansel & Gretel		unisex	https://www.fragrantica.com/perfume/Mischief-Academy/Hansel-Gretel-102533.html				pending
+the-cursed-apple	The Cursed Apple		female	https://www.fragrantica.com/perfume/Mischief-Academy/The-Cursed-Apple-102532.html				pending
+the-jungle-book	The Jungle Book		unisex	https://www.fragrantica.com/perfume/Mischief-Academy/The-Jungle-Book-102535.html				pending
+the-little-mermaid	The Little Mermaid		female	https://www.fragrantica.com/perfume/Mischief-Academy/The-Little-Mermaid-102530.html				pending
+the-mad-hatter	The Mad Hatter		unisex	https://www.fragrantica.com/perfume/Mischief-Academy/The-Mad-Hatter-102531.html				pending
+winnie-the-pooh	Winnie the Pooh		unisex	https://www.fragrantica.com/perfume/Mischief-Academy/Winnie-the-Pooh-102529.html				pending
