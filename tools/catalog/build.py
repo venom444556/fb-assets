@@ -55,11 +55,11 @@ for hs in idx:
         seen.add(i); keep.append(x)
     idx[hs] = keep
 # slugs already published keep their Fragrantica ID (FB_SLUGS: house_slug<TAB>fragrantica_id<TAB>slug)
-prev, reserved = {}, set()
+prev, prevh, reserved = {}, {}, set()
 if os.environ.get('FB_SLUGS'):
     with open(os.environ['FB_SLUGS'], encoding='utf-8') as f:
         for line in f:
-            h, i, sl = line.rstrip('\n').split('\t'); prev[i] = sl; reserved.add((h, sl))
+            h, i, sl = line.rstrip('\n').split('\t'); prev[i] = sl; prevh[i] = h; reserved.add((h, sl))
 added = collections.Counter(); skipped = collections.Counter()
 for src in sys.argv[2:]:
     with open(src, encoding='utf-8') as f:
@@ -70,8 +70,9 @@ for src in sys.argv[2:]:
             if not m or g not in ('male','female','unisex') or not name or not house:
                 skipped['invalid'] += 1; continue
             seg = m.group(1)
-            hs = seg2slug.get(seg) or seg.lower()
-            seg2slug[seg] = hs
+            # a published ID stays in its house even when a fresh rebuild has no rows to learn the segment from
+            hs = prevh.get(m.group(2)) or seg2slug.get(seg) or seg.lower()
+            seg2slug.setdefault(seg, hs)
             if hs not in cat: cat[hs] = house; idx[hs] = []
             rows = idx[hs]
             if m.group(2) in seen:
