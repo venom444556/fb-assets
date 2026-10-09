@@ -6,8 +6,7 @@ import os
 LENIENT = os.path.exists(os.path.join(os.path.dirname(raw), '..', 'names', seg + '.tsv'))  # search-matched names: slugs often drop collection prefixes
 URL = re.compile(r'^https://www\.fragrantica\.com/perfume/([^/]+)/([^/]+)-(\d+)\.html$')
 G = {'for women':'female','for men':'male','for women and men':'unisex','female':'female','male':'male','unisex':'unisex','women':'female','men':'male'}
-try: from unidecode import unidecode   # transliterates Cyrillic/CJK names the way Fragrantica's slugs do
-except ImportError: unidecode = lambda s: s
+from unidecode import unidecode   # transliterates Cyrillic/CJK names the way Fragrantica's slugs do (pip install -r tools/catalog/requirements.txt)
 def norm(s): return re.sub(r'[^a-z0-9]','',unicodedata.normalize('NFKD',s).encode('ascii','ignore').decode().lower())
 def like(name, slug):   # names often carry the house as a prefix the slug drops
     return any(difflib.SequenceMatcher(None, norm(n), norm(slug)).ratio() >= 0.6 or (len(norm(slug)) >= 3 and norm(n).endswith(norm(slug)))
@@ -39,6 +38,6 @@ house = house or (sys.argv[4] if len(sys.argv) > 4 else seg.replace('-', ' '))
 with open(raw.replace('.tsv', '.ok.tsv'), 'w', encoding='utf-8') as f:
     f.write('house\tfragrance\tgender\tfragrantica_url\n')
     for r in new: f.write(f'{house}\t{r[0]}\t{r[1]}\t{r[2]}\n')
-rate = agree / len(overlap) if overlap else (0.0 if known and not LENIENT else None)  # a known house with no overlap is a failed fetch
+rate = agree / len(overlap) if overlap else (0.0 if known and not LENIENT else None)  # a known house with no overlap is a failed fetch; nothing accepted at all is never OK
 print(f'{seg}\tlisted={len(ids)}\tbad={bad}\tknown={len(known)}\toverlap={len(overlap)}\tagree={agree}\tnew={len(new)}\tseed_not_listed={missing}\t' +
-      ('OK' if (rate is None or rate >= (0.9 if LENIENT else 0.95)) and (LENIENT or bad <= max(2, len(rows)//20)) else 'REJECT'))
+      ('OK' if ids and (rate is None or rate >= (0.9 if LENIENT else 0.95)) and (LENIENT or bad <= max(2, len(rows)//20)) else 'REJECT'))

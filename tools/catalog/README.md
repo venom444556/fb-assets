@@ -16,6 +16,8 @@ Sources, in merge order:
 
 `base.tsv` = `seed.tsv` plus the data rows of `kaggle-new.tsv`.
 
+Needs `pip install -r tools/catalog/requirements.txt` (Unidecode, for Cyrillic/CJK names).
+
 Run: `tools/catalog/round.sh . DATA_DIR RAW_DIR`. It rewrites `crawl/progress.tsv`, one row per house checked
 live, so a crawl can resume with the houses that are missing from it. `build.py` folds renamed Fragrantica
 houses (`ALIAS`) and never writes an ID twice.
