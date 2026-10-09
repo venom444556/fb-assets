@@ -18,7 +18,7 @@ house	house_slug	fragrances	male	female	unisex
 1667	1667	6	0	0	6
 18.21 Man Made	18-21-man-made	3	2	0	1
 19-69	19-69	25	0	0	25
-1907	1907	6	0	3	3
+1907	1907	31	1	6	24
 1918 Parfum National	1918-parfum-national	3	0	0	3
 1973	1973	21	0	0	21
 2 Be 3	2-be-3	1	1	0	0
@@ -131,7 +131,7 @@ Adamo Parfum	adamo-parfum	13	0	0	13
 ADAR	adar	3	0	0	3
 Addct	addct	10	0	0	10
 Addiction	addiction	1	0	1	0
-Addison Rae	addison-rae	3	0	3	0
+Addison Rae	addison-rae	4	0	4	0
 Addy van den Krommenacker	addy-van-den-krommenacker	1	0	1	0
 ADEN Parfum	aden-parfum	1	0	0	1
 Adi Ale Van	adi-ale-van	48	0	0	48
@@ -231,7 +231,7 @@ Akon	akon	2	1	1	0
 Akparfume	akparfume	6	3	3	0
 Akro	akro	17	0	0	17
 Al & Marie	al-marie	4	0	0	4
-Al Absar	al-absar	3	0	1	2
+Al Absar	al-absar	41	2	10	29
 Al Ambra	al-ambra	41	4	3	34
 Al Aneeq	al-aneeq	16	9	2	5
 Al Asrar	al-asrar	25	0	0	25
@@ -437,10 +437,10 @@ Andesara	andesara	4	0	0	4
 Andraus Parfums	andraus-parfums	6	0	0	6
 Andre Sinan	andre-sinan	6	2	3	1
 Andrea Catalano	andrea-catalano	3	0	0	3
-Andrea Maack	andrea-maack	26	0	0	26
+Andrea Maack	andrea-maack	27	0	0	27
 Andreas Friedrich	andreas-friedrich	7	0	0	7
 Andree Putman	andree-putman	8	0	0	8
-Andreea Rada	andreea-rada	1	0	0	1
+Andreea Rada	andreea-rada	7	0	0	7
 Andres Croxatto	andres-croxatto	3	1	1	1
 Andromeda's Curse	andromeda-s-curse	24	0	19	5
 AndrèSimon	andresimon	4	0	0	4
@@ -635,7 +635,7 @@ Arno Sorel	arno-sorel	69	32	35	2
 Arnott's Tim Tam	arnott-s-tim-tam	1	0	0	1
 Arnué	arnue	6	0	0	6
 ARO-FAC Aroma Factory	aro-fac-aroma-factory	114	28	21	65
-Aroma Concepts	aroma-concepts	5	0	1	4
+Aroma Concepts	aroma-concepts	15	0	2	13
 Aroma d'Anima	aroma-d-anima	10	1	8	1
 Aroma De Merrie	aroma-de-merrie	18	1	0	17
 Aroma Essence	aroma-essence	10	1	9	0
@@ -1207,7 +1207,7 @@ Breil Milano	breil-milano	7	3	4	0
 Brera6 Perfumes	brera6-perfumes	7	1	1	5
 Brett Johnson	brett-johnson	3	3	0	0
 Briard	briard	3	0	3	0
-Bridgerton Parfums	bridgerton-parfums	2	0	2	0
+Bridgerton Parfums	bridgerton-parfums	3	0	3	0
 Brigion	brigion	3	0	0	3
 Briix Fragrances	briix-fragrances	13	0	0	13
 BRILLIANT ITALY	brilliant-italy	11	1	0	10
@@ -1224,7 +1224,7 @@ Brooklyn Soap Company	brooklyn-soap-company	2	2	0	0
 Brooks Brothers	brooks-brothers	12	5	4	3
 Brooksfield	brooksfield	4	3	1	0
 Broun Suga Co.	broun-suga-co	4	0	0	4
-Brown Girl Jane	brown-girl-jane	12	0	4	8
+Brown Girl Jane	brown-girl-jane	15	0	4	11
 Bruce Darnell	bruce-darnell	2	1	1	0
 Bruce LaBruce	bruce-labruce	1	0	0	1
 Bruce Oldfield	bruce-oldfield	1	0	1	0
@@ -1408,7 +1408,7 @@ Cave London	cave-london	18	1	3	14
 Cavok	cavok	2	0	0	2
 CB I Hate Perfume	cb-i-hate-perfume	60	1	2	57
 cbcb fragrances	cbcb-fragrances	6	0	0	6
-Celebon	celebon	10	5	5	0
+Celebon	celebon	15	7	7	1
 Celine	celine	23	2	8	13
 Celine Dion	celine-dion	16	0	16	0
 Celine Leora	celine-leora	1	0	1	0
@@ -1468,7 +1468,7 @@ Chatillon Lux Parfums	chatillon-lux-parfums	17	5	0	12
 Chaugan	chaugan	11	1	0	10
 Chaumet	chaumet	3	1	2	0
 Chaz Dean	chaz-dean	1	0	0	1
-Cher	cher	1	0	0	1
+Cher	cher	7	0	1	6
 Cher Lloyd	cher-lloyd	1	0	1	0
 Cheri Milaney	cheri-milaney	4	0	4	0
 Cherigan	cherigan	14	0	3	11
@@ -1491,7 +1491,7 @@ Chord	chord	2	0	0	2
 Chouette Vierge Parfumée	chouette-vierge-parfumee	18	0	0	18
 Chris Adams	chris-adams	74	40	33	1
 Chris Collins	chris-collins	19	2	0	17
-Chris Rusak	chris-rusak	3	0	0	3
+Chris Rusak	chris-rusak	9	0	0	9
 Christian Alexander	christian-alexander	4	0	0	4
 Christian Audigier	christian-audigier	18	9	9	0
 Christian Breton	christian-breton	4	0	4	0
@@ -1501,7 +1501,7 @@ Christian Louboutin	christian-louboutin	28	0	12	16
 Christian Provenzano Parfums	christian-provenzano-parfums	35	0	0	35
 Christian Richard	christian-richard	21	3	4	14
 Christian Riese Lassen	christian-riese-lassen	14	9	5	0
-Christian Siriano	christian-siriano	7	0	7	0
+Christian Siriano	christian-siriano	8	0	8	0
 Christian Tortu	christian-tortu	3	0	1	2
 Christina Aguilera	christina-aguilera	23	0	22	1
 Christine Arbel	christine-arbel	41	11	28	2
@@ -1514,7 +1514,7 @@ Christopher Hanlon	christopher-hanlon	15	3	1	11
 Christy Organics	christy-organics	5	0	0	5
 Christèle Jacquemin	christele-jacquemin	8	0	0	8
 Chronicles – scents of history	chronicles-scents-of-history	3	0	0	3
-Chronotope	chronotope	1	0	0	1
+Chronotope	chronotope	11	0	0	11
 Chryso Louer	chryso-louer	4	0	0	4
 ChuJian 初柬	chujian-chu-jian	12	0	0	12
 Chupa Chups	chupa-chups	18	0	13	5
@@ -1528,13 +1528,13 @@ Cigar	cigar	9	5	4	0
 Cigno Nero	cigno-nero	7	0	1	6
 Cimed	cimed	3	0	3	0
 Cindy C.	cindy-c	50	21	28	1
-Cindy Crawford	cindy-crawford	3	0	3	0
+Cindy Crawford	cindy-crawford	5	0	5	0
 Cinojad	cinojad	5	0	0	5
 Cinq Mondes	cinq-mondes	11	1	7	3
 Cioccolato Mon Amour	cioccolato-mon-amour	2	0	2	0
 Circle of Lim	circle-of-lim	7	0	0	7
 Cirque du Soleil	cirque-du-soleil	1	0	0	1
-Cirrus Parfum	cirrus-parfum	1	0	1	0
+Cirrus Parfum	cirrus-parfum	26	0	1	25
 Cities Perfumes	cities-perfumes	4	0	0	4
 City	city	53	18	35	0
 City Parfum	city-parfum	19	8	8	3
@@ -1542,7 +1542,7 @@ City Rhythm	city-rhythm	23	1	0	22
 CJ Scents	cj-scents	17	0	0	17
 Clair de Lune	clair-de-lune	10	0	3	7
 Claire Commeau	claire-commeau	1	0	1	0
-Clandestine Laboratories	clandestine-laboratories	15	2	2	11
+Clandestine Laboratories	clandestine-laboratories	21	2	2	17
 Clarins	clarins	11	1	7	3
 Clash	clash	37	16	21	0
 Class	class	12	5	6	1
@@ -1580,7 +1580,7 @@ CodruD Parfums	codrud-parfums	3	0	0	3
 Coelia Parfums	coelia-parfums	2	0	0	2
 Coeur d’Esprit Natural Perfumes	coeur-d-esprit-natural-perfumes	14	0	10	4
 Cofinluxe	cofinluxe	10	5	5	0
-Cognoscenti	cognoscenti	1	0	0	1
+Cognoscenti	cognoscenti	8	0	0	8
 Coisy B.	coisy-b	9	0	1	8
 COLABO	colabo	10	0	0	10
 Colcci	colcci	8	3	4	1
@@ -1594,7 +1594,7 @@ Collines de Provence	collines-de-provence	1	0	0	1
 Collistar	collistar	22	7	8	7
 Cologne-Zation	cologne-zation	5	3	0	2
 COLOR.ZONE	color-zone	6	0	6	0
-Colornoise	colornoise	19	0	0	19
+Colornoise	colornoise	21	0	1	20
 Colors Parfums Paris	colors-parfums-paris	3	0	0	3
 Colour Intense	colour-intense	5	0	1	4
 Comedìa	comedia	3	0	0	3
@@ -1655,7 +1655,7 @@ Coty	coty	128	28	96	4
 Courrèges	courreges	43	6	20	17
 Courvoisier Cognac	courvoisier-cognac	1	1	0	0
 Cousu de Fil Blanc	cousu-de-fil-blanc	3	0	0	3
-Couteau de Poche	couteau-de-poche	1	0	0	1
+Couteau de Poche	couteau-de-poche	2	0	0	2
 Cowshed	cowshed	7	0	2	5
 Coyotl	coyotl	64	0	0	64
 COYSEIO	coyseio	1	0	1	0
@@ -1761,9 +1761,9 @@ Darkbeat Parfums	darkbeat-parfums	26	1	0	25
 Darline	darline	4	0	0	4
 Darling*	darling	3	0	2	1
 Darphin	darphin	5	1	4	0
-Darren Alan Perfumes	darren-alan-perfumes	14	1	0	13
+Darren Alan Perfumes	darren-alan-perfumes	18	1	0	17
 Dasa Concept Store	dasa-concept-store	9	0	0	9
-Dasein	dasein	2	0	0	2
+Dasein	dasein	6	0	0	6
 Dashu	dashu	3	0	0	3
 Datura Perfumes	datura-perfumes	9	1	0	8
 Davene	davene	23	1	20	2
@@ -1792,9 +1792,9 @@ Dear Diary	dear-diary	7	0	0	7
 Death of The Night	death-of-the-night	1	0	0	1
 Debaucherous Bath	debaucherous-bath	12	0	0	12
 Deborah	deborah	28	4	21	3
-Decennial	decennial	1	0	0	1
+Decennial	decennial	4	0	0	4
 Dechkotzar	dechkotzar	1	0	0	1
-Deck of Scarlet	deck-of-scarlet	1	0	1	0
+Deck of Scarlet	deck-of-scarlet	8	0	3	5
 Decleor	decleor	3	2	1	0
 Declination	declination	6	0	0	6
 Deco London	deco-london	6	3	3	0
@@ -1806,7 +1806,7 @@ Dedè Arte Profumata	dede-arte-profumata	17	0	0	17
 Dee April	dee-april	3	0	0	3
 DeFacto	defacto	22	11	11	0
 DefineMe	defineme	10	0	4	6
-DefineMe Creative Studio	defineme-creative-studio	1	0	1	0
+DefineMe Creative Studio	defineme-creative-studio	3	1	2	0
 DeGrhaal	degrhaal	8	0	0	8
 Dehnee	dehnee	1	0	0	1
 Del Río	del-rio	6	2	1	3
@@ -1855,7 +1855,7 @@ Diana Vreeland	diana-vreeland	16	0	13	3
 Diana zur Löwen	diana-zur-loewen	13	0	11	2
 Diane Castel	diane-castel	22	0	0	22
 Diane Pernet	diane-pernet	5	0	0	5
-Diane von Furstenberg	diane-von-furstenberg	4	0	4	0
+Diane von Furstenberg	diane-von-furstenberg	7	0	7	0
 Dianne Brill Cosmetics	dianne-brill-cosmetics	1	0	1	0
 Dicora Urban Fit	dicora-urban-fit	10	4	6	0
 DIEM	diem	21	0	0	21
@@ -1864,7 +1864,7 @@ Dieter Bohlen	dieter-bohlen	2	1	1	0
 Diffractive Studio	diffractive-studio	3	0	0	3
 Dilli House	dilli-house	2	0	0	2
 Dilís Parfum	dilis-parfum	220	52	149	19
-DIME Beauty	dime-beauty	4	0	4	0
+DIME Beauty	dime-beauty	12	2	9	1
 Dina Cosmetics	dina-cosmetics	30	13	17	0
 Dior	dior	322	56	197	69
 Diptyque	diptyque	103	0	15	88
@@ -1873,7 +1873,7 @@ DIRISTA	dirista	3	0	0	3
 Dirk Bikkembergs	dirk-bikkembergs	1	1	0	0
 Discothèque	discotheque	10	0	0	10
 Discovery Perfumes	discovery-perfumes	6	0	0	6
-Disney	disney	45	1	34	10
+Disney	disney	50	1	35	14
 Dissident Parfums	dissident-parfums	3	0	0	3
 Dita Von Teese	dita-von-teese	7	0	6	1
 Divage	divage	12	0	12	0
@@ -1896,7 +1896,7 @@ Doktor Michalis S.A	doktor-michalis-s-a	1	1	0	0
 Dolce	dolce	3	0	3	0
 Dolce Fiore	dolce-fiore	7	0	0	7
 Dolce&Gabbana	dolce-gabbana	161	52	77	32
-Dolly Parton	dolly-parton	4	0	4	0
+Dolly Parton	dolly-parton	7	0	7	0
 Dolomia	dolomia	8	0	0	8
 Dolomites	dolomites	3	0	0	3
 Dom Do	dom-do	6	0	3	3
@@ -1925,7 +1925,7 @@ DOUCÉ Parfums	douce-parfums	6	0	0	6
 Douglas	douglas	9	0	1	8
 Dove	dove	9	0	3	6
 Dr. Grandel	dr-grandel	3	0	3	0
-Dr. Squatch	dr-squatch	3	3	0	0
+Dr. Squatch	dr-squatch	4	4	0	0
 Dr. Taffi	dr-taffi	40	4	18	18
 Dr. Vranjes Firenze	dr-vranjes-firenze	21	3	3	15
 Dragon Parfums	dragon-parfums	5	5	0	0
@@ -1944,7 +1944,7 @@ Ducati	ducati	7	7	0	0
 Duchessa di Parma	duchessa-di-parma	1	0	1	0
 Duduar Milano	duduar-milano	14	0	0	14
 Duerr's	duerr-s	1	0	0	1
-Dueto Parfums	dueto-parfums	6	0	1	5
+Dueto Parfums	dueto-parfums	8	1	2	5
 Dumo Luxury Perfume	dumo-luxury-perfume	7	0	0	7
 Dumont	dumont	41	21	1	19
 Dunlop	dunlop	9	7	2	0
@@ -1982,7 +1982,7 @@ Eau de Space	eau-de-space	2	0	0	2
 Eau Jeune	eau-jeune	38	0	36	2
 EAU.MG	eau-mg	10	0	0	10
 Eauk	eauk	4	4	0	0
-EAUSO VERT	eauso-vert	7	0	0	7
+EAUSO VERT	eauso-vert	8	0	0	8
 Eaux Parfums	eaux-parfums	18	0	2	16
 Ebba Los Angeles	ebba-los-angeles	18	0	15	3
 Ebers Papyrus	ebers-papyrus	6	0	1	5
@@ -2002,7 +2002,7 @@ Edeniste	edeniste	16	0	0	16
 Edgardio Chilini	edgardio-chilini	105	4	3	98
 Edge	edge	3	0	0	3
 Editions M. R.	editions-m-r	1	1	0	0
-Edward Bess	edward-bess	1	0	1	0
+Edward Bess	edward-bess	8	0	3	5
 Effa	effa	1	0	0	1
 Efva Attling	efva-attling	7	0	5	2
 Eglė Jonaitytė Botanical Perfumes	egle-jonaityte-botanical-perfumes	2	0	0	2
@@ -2035,13 +2035,13 @@ Elev	elev	5	0	0	5
 Elganaur	elganaur	4	0	0	4
 Elghzaly	elghzaly	6	0	0	6
 Elie Saab	elie-saab	40	2	25	13
-Elie Tahari	elie-tahari	1	0	1	0
+Elie Tahari	elie-tahari	3	0	3	0
 Eligia	eligia	10	4	6	0
-Elisire	elisire	10	0	2	8
+Elisire	elisire	13	0	2	11
 Elisium	elisium	9	0	0	9
 Elite Fragrances London	elite-fragrances-london	16	1	3	12
 Elixir	elixir	2	0	0	2
-Elixir Attar	elixir-attar	23	0	0	23
+Elixir Attar	elixir-attar	74	0	0	74
 Elixir Signature Scents	elixir-signature-scents	32	0	0	32
 Elixirs Of Eden	elixirs-of-eden	12	0	1	11
 Elizabeth and James	elizabeth-and-james	8	0	7	1
@@ -2057,19 +2057,19 @@ Ellen Dahlgren Perfumes	ellen-dahlgren-perfumes	2	0	0	2
 Ellen Tracy	ellen-tracy	18	0	15	3
 Ellis Brooklyn	ellis-brooklyn	47	2	15	30
 Elode	elode	20	7	12	1
-ELOREA | 향수	elorea-hyangsu	11	0	0	11
+ELOREA | 향수	elorea-hyangsu	17	0	0	17
 Elternhaus	elternhaus	1	0	0	1
 Elvis Jesus	elvis-jesus	2	1	1	0
 Elyon Dubai	elyon-dubai	3	0	0	3
 Elysees Fashion	elysees-fashion	26	10	16	0
-Elysian	elysian	13	2	4	7
+Elysian	elysian	34	2	4	28
 Elysium	elysium	8	0	0	8
 Emanuel Dubai	emanuel-dubai	23	10	9	4
 Emanuel Ungaro	emanuel-ungaro	78	24	53	1
 Emanuela Biffoli	emanuela-biffoli	12	0	5	7
 Embrace Perfume	embrace-perfume	10	0	0	10
 Embrace-Spa	embrace-spa	3	0	1	2
-EMES	emes	11	0	0	11
+EMES	emes	12	0	0	12
 Emeshel	emeshel	11	2	6	3
 Emil Elise	emil-elise	12	0	0	12
 Emilio Pucci	emilio-pucci	19	1	18	0
@@ -2078,11 +2078,11 @@ Emina Jahovic	emina-jahovic	2	0	2	0
 Eminence	eminence	13	10	0	3
 Eminence Parfums	eminence-parfums	51	10	12	29
 Emirates Pride Perfumes	emirates-pride-perfumes	50	2	2	46
-Emma S.	emma-s	1	0	1	0
+Emma S.	emma-s	2	0	1	1
 Emmanuel Levain	emmanuel-levain	16	0	0	16
 Emmanuelle Jane	emmanuelle-jane	23	3	5	15
 Emmanuelle Khanh	emmanuelle-khanh	1	0	0	1
-Emoji	emoji	1	0	0	1
+Emoji	emoji	6	0	0	6
 Emozioni Fragrances	emozioni-fragrances	1	0	1	0
 Empatheia	empatheia	12	0	0	12
 Emper	emper	144	52	54	38
@@ -2106,7 +2106,7 @@ enSoie	ensoie	3	0	0	3
 Entre D'Eux	entre-d-eux	3	0	0	3
 Eolie Parfums	eolie-parfums	26	2	2	22
 Eon Productions	eon-productions	12	8	4	0
-EOS	eos	5	0	5	0
+EOS	eos	12	0	12	0
 EPC Experimental Perfume Club	epc-experimental-perfume-club	22	1	0	21
 Ephemera by Unsound	ephemera-by-unsound	3	0	0	3
 Ephemeral Dyadic	ephemeral-dyadic	10	0	0	10
@@ -2122,7 +2122,7 @@ Erba Vita	erba-vita	1	0	0	1
 Erbario Toscano	erbario-toscano	27	2	4	21
 Erboristeria Magentina	erboristeria-magentina	4	0	0	4
 Eredi Zucca	eredi-zucca	10	0	1	9
-Eric Buterbaugh Florals	eric-buterbaugh-florals	12	0	1	11
+Eric Buterbaugh Florals	eric-buterbaugh-florals	24	0	2	22
 Erik Kormann	erik-kormann	13	1	0	12
 Eris Parfums	eris-parfums	9	0	0	9
 Ermanno Scervino	ermanno-scervino	7	0	7	0
@@ -2187,10 +2187,10 @@ Eudora	eudora	220	55	156	9
 Eugenia Klöster	eugenia-kloester	3	0	0	3
 Eugénio Campos	eugenio-campos	2	1	1	0
 Eunoia Perfume	eunoia-perfume	3	0	0	3
-Euphorium Brooklyn	euphorium-brooklyn	11	0	1	10
+Euphorium Brooklyn	euphorium-brooklyn	13	0	1	12
 Eutopie	eutopie	11	0	0	11
 Eva Longoria	eva-longoria	2	0	2	0
-Evaflor	evaflor	76	33	37	6
+Evaflor	evaflor	81	35	40	6
 EVC PARFUM	evc-parfum	5	0	0	5
 Eve & Daphnee	eve-daphnee	1	0	1	0
 Everlast	everlast	26	25	1	0
@@ -2214,7 +2214,7 @@ Executive Shaving	executive-shaving	5	2	0	3
 Exotic Scents	exotic-scents	9	1	0	8
 Expand	expand	24	4	20	0
 Expensive Chaos Company	expensive-chaos-company	5	0	0	5
-Express	express	1	1	0	0
+Express	express	4	2	2	0
 Exte	exte	3	1	2	0
 Exteta	exteta	3	0	0	3
 Extra Virgo	extra-virgo	13	0	0	13
@@ -2230,8 +2230,8 @@ F.Prochaska	f-prochaska	2	0	2	0
 F1 Parfums	f1-parfums	15	0	0	15
 FAAN	faan	74	19	34	21
 Fab.	fab	1	0	1	0
-Fabbrica Della Musa	fabbrica-della-musa	8	0	3	5
-Faberge	faberge	11	5	4	2
+Fabbrica Della Musa	fabbrica-della-musa	14	3	3	8
+Faberge	faberge	13	6	5	2
 Faberlic	faberlic	219	55	162	2
 Fabi	fabi	2	1	1	0
 Fabio LoCoco	fabio-lococo	3	0	0	3
@@ -2240,7 +2240,7 @@ Face Beautiful	face-beautiful	11	0	11	0
 Facetheory	facetheory	1	0	0	1
 Fairia	fairia	7	0	0	7
 Fairy Tail Parfum	fairy-tail-parfum	1	0	0	1
-Faith Hill	faith-hill	1	0	1	0
+Faith Hill	faith-hill	2	0	2	0
 Faizal Privee	faizal-privee	8	0	0	8
 Fakoshima	fakoshima	12	0	0	12
 Falconeri	falconeri	3	0	1	2
@@ -2294,7 +2294,7 @@ FIFA World Cup Qatar 2022 Perfumes	fifa-world-cup-qatar-2022-perfumes	6	0	0	6
 Fiilit	fiilit	17	0	0	17
 Fiji Rugby	fiji-rugby	4	4	0	0
 Fila	fila	12	5	3	4
-Filigree & Shadow	filigree-shadow	46	0	0	46
+Filigree & Shadow	filigree-shadow	49	0	0	49
 Filippo Sorcinelli	filippo-sorcinelli	86	0	0	86
 Filippova Botanical Perfumery	filippova-botanical-perfumery	6	0	2	4
 Financier	financier	1	0	0	1
@@ -2316,8 +2316,8 @@ Fleur de Florence	fleur-de-florence	3	0	0	3
 Fleur de Niche	fleur-de-niche	4	0	0	4
 Fleur de Sante	fleur-de-sante	28	2	26	0
 Fleurage	fleurage	88	25	42	21
-Fleurit Parfums	fleurit-parfums	1	0	0	1
-Flirt!	flirt	1	0	1	0
+Fleurit Parfums	fleurit-parfums	6	0	0	6
+Flirt!	flirt	7	0	7	0
 Flor de Mayo	flor-de-mayo	15	0	4	11
 Flora	flora	24	3	17	4
 Flora Danica	flora-danica	5	0	0	5
@@ -2329,14 +2329,14 @@ Florascent	florascent	64	9	35	20
 Floraïku	floraiku	40	0	0	40
 Florena	florena	8	0	4	4
 Florence	florence	3	0	0	3
-Florence by Mills	florence-by-mills	1	0	1	0
+Florence by Mills	florence-by-mills	4	0	4	0
 Florescent	florescent	3	0	0	3
 Florian	florian	2	0	0	2
 Floridia Parfum	floridia-parfum	10	0	0	10
 Floriography	floriography	22	0	2	20
 Floris	floris	77	12	28	37
 Flormar	flormar	6	0	6	0
-Flower Drew Barrymore	flower-drew-barrymore	3	0	3	0
+Flower Drew Barrymore	flower-drew-barrymore	9	0	9	0
 Flower Knows	flower-knows	24	0	18	6
 Flower Scents	flower-scents	7	0	1	6
 Flownce	flownce	4	0	0	4
@@ -2345,9 +2345,9 @@ Flumen Profumi	flumen-profumi	22	3	3	16
 FLUY	fluy	4	2	1	1
 flâner	flaner	9	0	0	9
 Fn by Fn	fn-by-fn	1	0	0	1
-FO'AH	fo-ah	2	0	0	2
+FO'AH	fo-ah	5	0	0	5
 Foamous	foamous	12	4	8	0
-Folkwinds	folkwinds	1	0	0	1
+Folkwinds	folkwinds	16	0	0	16
 Folli Follie	folli-follie	3	0	3	0
 FOMO	fomo	10	3	0	7
 FOMOWA Paris	fomowa-paris	5	0	0	5
@@ -2360,7 +2360,7 @@ For Strange Women	for-strange-women	13	0	11	2
 For the Scent of It	for-the-scent-of-it	18	0	0	18
 Foras	foras	10	0	0	10
 Forbelle	forbelle	9	4	4	1
-Forever Florals Hawaii	forever-florals-hawaii	1	0	1	0
+Forever Florals Hawaii	forever-florals-hawaii	5	1	3	1
 Forever Liss	forever-liss	3	0	3	0
 Forfolks	forfolks	20	1	1	18
 Forment	forment	4	0	0	4
@@ -2391,8 +2391,8 @@ Franca Ferretti	franca-ferretti	12	3	8	1
 Frances Denney	frances-denney	19	4	15	0
 Francesca Bianchi	francesca-bianchi	26	0	0	26
 Francesca dell'Oro	francesca-dell-oro	28	1	5	22
-francesca's	francesca-s	1	0	1	0
-Francesco Smalto	francesco-smalto	1	1	0	0
+francesca's	francesca-s	6	0	5	1
+Francesco Smalto	francesco-smalto	5	4	1	0
 Francesco Vitelli Perfumes	francesco-vitelli-perfumes	8	3	4	1
 Francis	francis	16	0	0	16
 Franck Boclet	franck-boclet	54	10	4	40
@@ -2415,7 +2415,7 @@ Fred Hayman	fred-hayman	14	7	7	0
 Fred Segal	fred-segal	10	0	0	10
 Freddie Albrighton	freddie-albrighton	6	0	0	6
 Frederic Haldimann	frederic-haldimann	23	3	19	1
-Frederic M	frederic-m	39	11	27	1
+Frederic M	frederic-m	50	15	31	4
 Frederic Malle Editions de Parfums	frederic-malle-editions-de-parfums	69	7	17	45
 Frederick's of Hollywood	frederick-s-of-hollywood	1	0	1	0
 FreeShape Milano	freeshape-milano	8	0	0	8
@@ -2435,7 +2435,7 @@ Frilly Lilly	frilly-lilly	3	0	3	0
 Frostbland	frostbland	1	0	1	0
 Fruits & Passion	fruits-passion	24	0	24	0
 Fruttini	fruttini	16	0	16	0
-FUBU	fubu	1	0	1	0
+FUBU	fubu	2	1	1	0
 Fueguia 1833	fueguia-1833	169	0	1	168
 Fugazzi	fugazzi	46	0	0	46
 Fukudo 浮香堂	fukudo-fu-xiang-tang	51	0	0	51
@@ -2448,19 +2448,19 @@ Fun & Basics	fun-basics	2	1	1	0
 FURIOSA®	furiosa	9	0	7	2
 Furla	furla	14	0	14	0
 Fuse	fuse	12	0	0	12
-Future Society	future-society	8	0	0	8
+Future Society	future-society	9	0	0	9
 Future Style	future-style	10	4	3	3
 fuwally	fuwally	12	0	0	12
 FWIEHA FRAGRANZA TA'MALTA	fwieha-fragranza-ta-malta	9	0	0	9
 FZOTIC	fzotic	24	0	0	24
-F·inity Parfum	f-inity-parfum	1	0	0	1
+F·inity Parfum	f-inity-parfum	2	0	0	2
 Fábio Navarro	fabio-navarro	1	0	0	1
 Förster and Johnsen	foerster-and-johnsen	17	8	8	1
 G Parfums	g-parfums	53	2	6	45
 G-Nose Perfumes	g-nose-perfumes	14	0	0	14
 G. Bellini	g-bellini	3	3	0	0
 G. Inglese	g-inglese	3	0	0	3
-G. Nejman	g-nejman	2	2	0	0
+G. Nejman	g-nejman	4	4	0	0
 G. Weedom	g-weedom	2	2	0	0
 Ga-De	ga-de	12	4	8	0
 Gabar	gabar	8	0	0	8
@@ -2473,8 +2473,8 @@ Gaia Parfums	gaia-parfums	27	0	0	27
 Gala Step Parfums	gala-step-parfums	27	0	9	18
 GalaxDoft	galaxdoft	11	6	5	0
 Gale Hayman	gale-hayman	15	0	14	1
-Galerie Noemie	galerie-noemie	1	0	1	0
-Galimard	galimard	93	21	38	34
+Galerie Noemie	galerie-noemie	6	0	6	0
+Galimard	galimard	100	21	39	40
 Galitzine	galitzine	4	1	3	0
 Gallagher Fragrances	gallagher-fragrances	50	1	2	47
 Galleria Parfums	galleria-parfums	7	0	0	7
@@ -2482,11 +2482,11 @@ Gallivant	gallivant	19	0	0	19
 Gammon	gammon	8	8	0	0
 Ganache Parfums	ganache-parfums	76	0	0	76
 Gandini 1896	gandini-1896	28	6	8	14
-Gant	gant	3	3	0	0
+Gant	gant	13	10	3	0
 Gap	gap	38	10	16	12
 Garage	garage	2	0	2	0
 Gas	gas	2	2	0	0
-Gas Bijoux	gas-bijoux	3	0	0	3
+Gas Bijoux	gas-bijoux	5	0	1	4
 Gather Perfume	gather-perfume	11	0	0	11
 Gatsby	gatsby	28	28	0	0
 Gattinoni	gattinoni	6	1	5	0
@@ -2498,25 +2498,25 @@ Gemina B.	gemina-b	12	3	9	0
 Gendarme	gendarme	15	10	5	0
 Genny	genny	10	0	10	0
 GENTLE HABITS	gentle-habits	12	1	0	11
-Gentleman’s Nod	gentleman-s-nod	10	9	0	1
+Gentleman’s Nod	gentleman-s-nod	13	10	0	3
 Gentlemen's Tonic	gentlemen-s-tonic	3	3	0	0
 Genyum	genyum	13	0	0	13
 Geo. F. Trumper	geo-f-trumper	24	23	0	1
 Geoffrey Beene	geoffrey-beene	8	3	5	0
 George Gina & Lucy	george-gina-lucy	13	0	13	0
 George Kordahi	george-kordahi	8	4	4	0
-Georges Rech	georges-rech	1	0	1	0
-Georges Stahl	georges-stahl	1	0	1	0
-Geparlys Parfums	geparlys-parfums	1	1	0	0
+Georges Rech	georges-rech	7	0	7	0
+Georges Stahl	georges-stahl	2	0	1	1
+Geparlys Parfums	geparlys-parfums	37	16	10	11
 Gerain Chan Parfums	gerain-chan-parfums	2	0	0	2
 Gerani	gerani	2	1	1	0
-Gerard Monet Parfums	gerard-monet-parfums	13	6	7	0
-Gerini	gerini	29	0	0	29
+Gerard Monet Parfums	gerard-monet-parfums	21	12	9	0
+Gerini	gerini	39	0	0	39
 Germaine de Capuccini	germaine-de-capuccini	8	1	7	0
-Germaine Monteil	germaine-monteil	10	2	7	1
+Germaine Monteil	germaine-monteil	17	2	14	1
 Gerry Weber	gerry-weber	2	0	2	0
 Gette's	gette-s	6	3	3	0
-Ggema	ggema	24	8	13	3
+Ggema	ggema	25	8	13	4
 Ghaff	ghaff	6	0	0	6
 Ghalati	ghalati	40	3	12	25
 Ghandour	ghandour	2	1	1	0
@@ -2580,7 +2580,7 @@ Gnezdovje Parfumerie	gnezdovje-parfumerie	23	0	0	23
 GO.	go	5	5	0	0
 Gocce	gocce	9	0	5	4
 Gocce di Byron	gocce-di-byron	7	0	0	7
-Godet	godet	25	2	6	17
+Godet	godet	33	2	7	24
 Gods Of Our Fathers	gods-of-our-fathers	5	0	0	5
 Golan	golan	20	3	4	13
 Golden Judi	golden-judi	20	0	0	20
@@ -2591,7 +2591,7 @@ Goldmusk	goldmusk	3	1	0	2
 Golf Le Fleur	golf-le-fleur	1	0	0	1
 Gonzel	gonzel	2	0	0	2
 Good Chemistry	good-chemistry	33	0	25	8
-Goop	goop	1	0	0	1
+Goop	goop	3	0	0	3
 Gosh	gosh	31	14	16	1
 Gothica	gothica	1	0	0	1
 Goti	goti	9	0	0	9
@@ -2599,19 +2599,19 @@ Gourmet	gourmet	22	0	0	22
 Goutal	goutal	80	6	39	35
 Gozerd	gozerd	10	1	0	9
 GP Fragrances	gp-fragrances	8	0	0	8
-Grace de Monaco	grace-de-monaco	1	0	0	1
+Grace de Monaco	grace-de-monaco	4	0	2	2
 Grace Nicole	grace-nicole	16	0	16	0
-Graff	graff	2	0	2	0
+Graff	graff	9	0	9	0
 GRAHAM & POTT	graham-pott	23	1	2	20
 Grammatik Drammatik	grammatik-drammatik	5	0	0	5
 Granado	granado	75	1	6	68
 Grand Tour	grand-tour	8	0	0	8
 Grande	grande	19	0	0	19
-Grandeur	grandeur	1	1	0	0
+Grandeur	grandeur	4	1	2	1
 Grandiflora	grandiflora	6	0	4	2
 GRANHAND	granhand	4	0	0	4
 Grasse Au Parfum	grasse-au-parfum	43	12	30	1
-Gravel	gravel	7	1	0	6
+Gravel	gravel	13	1	0	12
 GreeNature	greenature	8	2	5	1
 Greta Mastroianni	greta-mastroianni	1	0	1	0
 Grey Parfums	grey-parfums	15	1	0	14
@@ -2634,10 +2634,10 @@ Gulf Orchid	gulf-orchid	146	12	20	114
 Guli	guli	2	1	1	0
 Gumamina	gumamina	2	0	0	2
 Guru Scent	guru-scent	8	2	3	3
-Gustave Eiffel	gustave-eiffel	3	0	0	3
+Gustave Eiffel	gustave-eiffel	8	0	0	8
 Gutteridge	gutteridge	3	3	0	0
 Guy Bouchara	guy-bouchara	74	18	50	6
-GUY FOX	guy-fox	12	12	0	0
+GUY FOX	guy-fox	17	15	0	2
 Guy Laroche	guy-laroche	15	7	8	0
 Gwen Stefani	gwen-stefani	1	0	1	0
 Gydja	gydja	3	1	2	0
@@ -2648,7 +2648,7 @@ H2O	h2o	13	5	8	0
 Haas Parfum	haas-parfum	7	2	3	2
 Habeebi	habeebi	12	1	2	9
 Habib Perfume	habib-perfume	14	2	4	8
-Habibi NY	habibi-ny	24	4	5	15
+Habibi NY	habibi-ny	27	4	6	17
 HABIT	habit	5	0	0	5
 Hackett London	hackett-london	6	6	0	0
 Hadarah Perfumes	hadarah-perfumes	18	0	0	18
@@ -2664,15 +2664,15 @@ Hampton Sun	hampton-sun	1	0	1	0
 Hanae Mori	hanae-mori	16	2	14	0
 Handsome London	handsome-london	2	1	0	1
 Hanorah	hanorah	1	1	0	0
-Happ & Stahns	happ-stahns	2	0	2	0
+Happ & Stahns	happ-stahns	3	0	3	0
 Happyland	happyland	13	1	0	12
 Harajuku Lovers	harajuku-lovers	28	0	28	0
 Harald Gloockler	harald-gloockler	2	1	1	0
-HARB'S	harb-s	13	4	4	5
-Hard Candy	hard-candy	1	0	1	0
+HARB'S	harb-s	72	6	7	59
+Hard Candy	hard-candy	4	0	4	0
 Hardeman	hardeman	1	0	0	1
 Hardwell	hardwell	1	1	0	0
-Harlem Perfume Co.	harlem-perfume-co	4	1	2	1
+Harlem Perfume Co.	harlem-perfume-co	9	2	4	3
 Harmoniche	harmoniche	2	0	0	2
 HARRY LEHMANN	harry-lehmann	74	13	38	23
 Harry Potter	harry-potter	8	2	3	3
@@ -2687,21 +2687,21 @@ hausFOG	hausfog	3	0	0	3
 Hausser	hausser	7	0	0	7
 Haute Fragrance Company HFC	haute-fragrance-company-hfc	42	7	21	14
 Hautt Privé	hautt-prive	5	0	0	5
-Hawaiian Tropic	hawaiian-tropic	3	0	3	0
+Hawaiian Tropic	hawaiian-tropic	14	1	11	2
 Hawk Perfumes	hawk-perfumes	13	0	1	12
-Hawthorne	hawthorne	1	0	0	1
+Hawthorne	hawthorne	10	8	0	2
 Hayaat Al Oud	hayaat-al-oud	6	0	0	6
 Hayari Parfums	hayari-parfums	17	2	3	12
 Hayley Kiyoko	hayley-kiyoko	1	0	1	0
 Hazar Canal	hazar-canal	5	0	0	5
 Head	head	6	3	3	0
-Headspace	headspace	7	0	0	7
+Headspace	headspace	15	0	0	15
 HeavenDuft	heavenduft	22	5	1	16
 Hebron Project	hebron-project	7	0	0	7
 Hedgren	hedgren	1	0	0	1
 Hedonik	hedonik	3	0	0	3
 Hegra	hegra	7	0	0	7
-Heidi Klum	heidi-klum	4	0	4	0
+Heidi Klum	heidi-klum	5	0	5	0
 Hej:Pure	hej-pure	4	0	2	2
 Hekayat Attar	hekayat-attar	30	0	3	27
 Helan	helan	62	6	32	24
@@ -2709,10 +2709,10 @@ Helder Machado Perfumes	helder-machado-perfumes	18	1	0	17
 Helena Rubinstein	helena-rubinstein	12	1	11	0
 Helene Fischer	helene-fischer	3	0	3	0
 Helio	helio	6	0	0	6
-Hellenist	hellenist	5	0	0	5
+Hellenist	hellenist	6	0	0	6
 Hello Stranger	hello-stranger	6	0	0	6
 HelloHelen	hellohelen	17	0	7	10
-Helmut Lang	helmut-lang	6	2	1	3
+Helmut Lang	helmut-lang	7	2	2	3
 Helène D'Arcy	helene-d-arcy	5	0	5	0
 HEMA	hema	24	0	4	20
 Hemcael	hemcael	18	0	0	18
@@ -2724,13 +2724,13 @@ Heno de Pravia	heno-de-pravia	1	0	0	1
 Henri Bendel	henri-bendel	16	0	15	1
 Henrik Vibskov	henrik-vibskov	9	1	0	8
 Henry Cotton's	henry-cotton-s	4	2	2	0
-Henry Jacques	henry-jacques	108	31	44	33
+Henry Jacques	henry-jacques	145	33	46	66
 Henry Rose	henry-rose	22	0	0	22
 HENRYTIMI	henrytimi	4	0	0	4
 Her Lip To	her-lip-to	5	0	3	2
 HERBA London	herba-london	8	1	1	6
 Herbalife	herbalife	10	4	5	1
-Herban Cowboy	herban-cowboy	1	1	0	0
+Herban Cowboy	herban-cowboy	4	2	2	0
 Herdahl-Thorsing	herdahl-thorsing	8	0	0	8
 Heretic Parfum	heretic-parfum	53	0	0	53
 Heretic Parfums	heretic-parfums	18	0	0	18
@@ -2748,7 +2748,7 @@ Herve Gambs Paris	herve-gambs-paris	20	0	1	19
 Hervé Domar	herve-domar	14	0	0	14
 Herédia	heredia	14	0	0	14
 Hetkinen	hetkinen	10	0	0	10
-Hez Parfums	hez-parfums	11	0	0	11
+Hez Parfums	hez-parfums	18	0	0	18
 Hidden Alchemy	hidden-alchemy	9	0	0	9
 Hidden Desire	hidden-desire	8	0	5	3
 Hidrabene	hidrabene	4	0	4	0
@@ -2761,7 +2761,7 @@ Hilal	hilal	7	0	0	7
 Hilary Duff	hilary-duff	2	0	2	0
 Hilde Soliani	hilde-soliani	103	0	14	89
 Hildegard Braukmann	hildegard-braukmann	8	4	4	0
-hima jomo	hima-jomo	7	0	0	7
+hima jomo	hima-jomo	9	0	0	9
 Himba	himba	1	0	0	1
 Hind Al Oud	hind-al-oud	29	1	1	27
 Hinode	hinode	103	39	61	3
@@ -2770,7 +2770,7 @@ Hiram Green	hiram-green	16	0	1	15
 Hiroko Koshino	hiroko-koshino	1	0	1	0
 Histoires D'Eaux	histoires-d-eaux	8	0	0	8
 Histoires de Parfums	histoires-de-parfums	51	3	22	26
-Historiae	historiae	5	0	4	1
+Historiae	historiae	6	0	4	2
 History in Drops	history-in-drops	6	0	0	6
 History Parfums	history-parfums	10	0	0	10
 HMNS	hmns	19	1	3	15
@@ -2786,15 +2786,15 @@ Hollywood Milano	hollywood-milano	2	1	1	0
 Holy Oud	holy-oud	27	3	4	20
 Holynose Parfums	holynose-parfums	18	0	0	18
 Homoelegans	homoelegans	6	0	0	6
-Honore des Pres	honore-des-pres	7	1	3	3
-Honore Payan	honore-payan	23	1	14	8
+Honore des Pres	honore-des-pres	8	1	4	3
+Honore Payan	honore-payan	24	1	14	9
 Honorine	honorine	4	0	0	4
 Hoohaa	hoohaa	1	0	0	1
 Hope Istanbul by Serimu Kozmetiк	hope-istanbul-by-serimu-kozmetik	20	0	0	20
-Horace	horace	4	2	0	2
+Horace	horace	7	5	0	2
 Horatio	horatio	7	0	0	7
-Hormone Paris	hormone-paris	14	0	0	14
-Horseball	horseball	1	0	1	0
+Hormone Paris	hormone-paris	16	0	0	16
+Horseball	horseball	9	3	6	0
 Hoss Intropia	hoss-intropia	6	0	6	0
 HOSTLESS	hostless	3	0	0	3
 Hotel Dawson	hotel-dawson	6	0	0	6
@@ -2805,8 +2805,8 @@ House of Brandt	house-of-brandt	9	0	0	9
 House of BŌ	house-of-bo	14	0	1	13
 House of Coalesce	house-of-coalesce	2	0	0	2
 House of Cor	house-of-cor	3	0	0	3
-House of Cosmo	house-of-cosmo	5	0	0	5
-House of Dastan	house-of-dastan	6	0	0	6
+House of Cosmo	house-of-cosmo	8	0	0	8
+House of Dastan	house-of-dastan	7	0	0	7
 House of Dreams	house-of-dreams	6	0	0	6
 House of Fanatics	house-of-fanatics	8	0	0	8
 House of Forbidden Fruit	house-of-forbidden-fruit	3	0	0	3
@@ -2827,15 +2827,15 @@ House of Sal	house-of-sal	4	0	0	4
 House Of Sillage	house-of-sillage	84	13	46	25
 House of Thêom	house-of-theom	15	0	0	15
 House of Turkmen	house-of-turkmen	10	0	0	10
-Hové Parfumeur, Ltd.	hove-parfumeur-ltd	52	1	29	22
+Hové Parfumeur, Ltd.	hove-parfumeur-ltd	53	1	29	23
 HRH Princess Elizabeth	hrh-princess-elizabeth	2	0	2	0
-Hubert Maes Creations	hubert-maes-creations	3	0	3	0
+Hubert Maes Creations	hubert-maes-creations	4	0	4	0
 Huda Beauty	huda-beauty	2	0	0	2
 Huggies®	huggies	1	0	0	1
 Hugh Parsons	hugh-parsons	13	11	0	2
 Hugo Boss	hugo-boss	157	101	48	8
 Humiecki & Graef	humiecki-graef	15	2	5	8
-Hummer	hummer	3	3	0	0
+Hummer	hummer	5	5	0	0
 Hunayn	hunayn	24	0	0	24
 Hunca	hunca	16	2	13	1
 Hungarykum	hungarykum	4	0	0	4
@@ -2848,7 +2848,7 @@ I LOVE	i-love	15	0	10	5
 I Profumi di Firenze	i-profumi-di-firenze	115	4	38	73
 I-Cos	i-cos	3	0	3	0
 I-Scents Premium	i-scents-premium	9	5	4	0
-I/ME	i-me	4	0	0	4
+I/ME	i-me	6	0	0	6
 Ian Abbas	ian-abbas	2	0	0	2
 Iana Willkofer	iana-willkofer	1	0	0	1
 Iberia - Иверия	iberia-iveria	14	4	9	1
@@ -2858,7 +2858,7 @@ Ibrahim Al Qurashi	ibrahim-al-qurashi	8	0	0	8
 Ibrahim Fuhaid	ibrahim-fuhaid	8	0	1	7
 Iceberg	iceberg	41	21	20	0
 Icon Beauty	icon-beauty	1	0	1	0
-ICONOFLY	iconofly	2	0	0	2
+ICONOFLY	iconofly	6	0	0	6
 ID Parfums	id-parfums	49	6	43	0
 IDENTITY	identity	7	0	0	7
 IDEO Parfumeurs	ideo-parfumeurs	16	0	4	12
@@ -2867,9 +2867,9 @@ IDMAN	idman	7	0	0	7
 Iggywoo	iggywoo	8	0	0	8
 IIUVO	iiuvo	5	0	0	5
 Ikiryō	ikiryo	58	4	16	38
-IKKS	ikks	30	13	16	1
+IKKS	ikks	34	14	18	2
 IKON	ikon	6	0	0	6
-Il Profumiere	il-profumiere	112	5	19	88
+Il Profumiere	il-profumiere	137	5	19	113
 Il Profvmo	il-profvmo	59	11	29	19
 ILIOS	ilios	12	0	0	12
 Illamasqua	illamasqua	3	0	1	2
@@ -2881,17 +2881,17 @@ Ilya Parfums	ilya-parfums	7	0	0	7
 IM : SOLE	im-sole	21	0	2	19
 Imaginary Authors	imaginary-authors	41	0	3	38
 Iman	iman	1	0	1	0
-Immortal Perfumes	immortal-perfumes	1	0	0	1
+Immortal Perfumes	immortal-perfumes	29	0	0	29
 Imotski	imotski	2	1	1	0
 Impala	impala	3	0	3	0
 Imperial Fragrance Design	imperial-fragrance-design	2	1	1	0
-Imperial Parfums	imperial-parfums	2	0	0	2
+Imperial Parfums	imperial-parfums	11	0	0	11
 Imperio Lusso	imperio-lusso	1	0	1	0
 Imprime	imprime	20	5	11	4
 Imprint	imprint	6	0	0	6
 Impulse	impulse	46	0	33	13
 Imrasasi by Rasasi	imrasasi-by-rasasi	14	0	0	14
-In Astra	in-astra	4	0	0	4
+In Astra	in-astra	6	0	0	6
 In Fiore	in-fiore	6	0	0	6
 In The Box	in-the-box	129	85	28	16
 Inayaa Perfumes	inayaa-perfumes	3	0	0	3
@@ -2902,8 +2902,8 @@ Indult	indult	8	0	3	5
 Ineke	ineke	16	0	10	6
 Ines de la Fressange	ines-de-la-fressange	11	0	11	0
 InEstasy	inestasy	90	10	75	5
-Infiniment Coty Paris	infiniment-coty-paris	16	0	0	16
-Influxious	influxious	3	0	0	3
+Infiniment Coty Paris	infiniment-coty-paris	19	0	0	19
+Influxious	influxious	4	0	0	4
 Ingrid	ingrid	8	1	1	6
 Ingrid Starnes	ingrid-starnes	1	0	0	1
 Inhale	inhale	12	1	0	11
@@ -2917,18 +2917,18 @@ Inside Flow 拂若里	inside-flow-fu-ruo-li	5	0	0	5
 Insider Parfums	insider-parfums	25	1	0	24
 Inspires	inspires	13	0	0	13
 Instituto Español	instituto-espanol	30	11	18	1
-InStyle	instyle	3	0	3	0
+InStyle	instyle	7	0	7	0
 Intelligent Perfumery	intelligent-perfumery	8	0	0	8
 Intense Secret	intense-secret	1	0	1	0
 Inthiq Perfumes	inthiq-perfumes	7	0	0	7
-Intimacy	intimacy	1	0	1	0
-Intimissimi	intimissimi	6	0	6	0
+Intimacy	intimacy	16	5	11	0
+Intimissimi	intimissimi	8	0	8	0
 Inubi	inubi	6	2	4	0
 Inui	inui	1	0	0	1
 Investi Design	investi-design	10	0	0	10
 INVISIBLE/HR1	invisible-hr1	2	1	0	1
 Invocation	invocation	7	0	0	7
-iPiccirilli	ipiccirilli	6	0	0	6
+iPiccirilli	ipiccirilli	9	0	0	9
 Ipseity	ipseity	2	0	0	2
 Iren Adler	iren-adler	64	0	63	1
 Irene 艾琳	irene-ai-lin	2	0	0	2
@@ -2937,11 +2937,11 @@ Iris von Arnim	iris-von-arnim	1	0	1	0
 IrisAgro Ltd. Bulgaria	irisagro-ltd-bulgaria	3	0	0	3
 Iruela	iruela	8	0	0	8
 Isa G	isa-g	5	0	0	5
-Isaac Mizrahi	isaac-mizrahi	2	0	2	0
+Isaac Mizrahi	isaac-mizrahi	3	0	3	0
 Isabela Capeto	isabela-capeto	2	0	2	0
 Isabell Kristensen	isabell-kristensen	3	0	3	0
-Isabella Rossellini	isabella-rossellini	4	0	4	0
-Isabelle Larignon	isabelle-larignon	4	0	0	4
+Isabella Rossellini	isabella-rossellini	5	0	5	0
+Isabelle Larignon	isabelle-larignon	5	0	0	5
 Isabey	isabey	16	2	14	0
 Isaev Company	isaev-company	6	0	0	6
 ISAK	isak	16	1	1	14
@@ -2951,7 +2951,7 @@ Ist&Me	ist-me	4	2	1	1
 Itstree	itstree	3	0	3	0
 Itzy	itzy	11	0	11	0
 itā	ita	5	0	0	5
-IUNX	iunx	2	0	1	1
+IUNX	iunx	13	0	1	12
 Ivanka Trump	ivanka-trump	1	0	1	0
 Ivolora	ivolora	14	0	0	14
 IVR Swiss Group	ivr-swiss-group	4	0	0	4
@@ -2961,13 +2961,13 @@ Izod	izod	1	1	0	0
 İydə	iyde	7	0	0	7
 J-Scent	j-scent	36	0	1	35
 J-Scent; Profound	j-scent-profound	3	0	0	3
-J.	j	1	1	0	0
+J.	j	2	1	0	1
 J.F. Schwarzlose Berlin	j-f-schwarzlose-berlin	21	0	0	21
-J.U.S Parfums	j-u-s-parfums	15	0	0	15
+J.U.S Parfums	j-u-s-parfums	16	0	0	16
 Ja Essence	ja-essence	15	0	3	12
 JA Essence de La Vie	ja-essence-de-la-vie	5	0	3	2
 Jaber & Kindi	jaber-kindi	2	0	0	2
-Jack Black	jack-black	2	2	0	0
+Jack Black	jack-black	4	4	0	0
 Jack Perfume	jack-perfume	4	2	0	2
 Jacob	jacob	3	0	3	0
 Jacomo	jacomo	38	18	20	0
@@ -2995,34 +2995,34 @@ Jannatayn	jannatayn	21	5	5	11
 Janua	janua	13	4	1	8
 January Scent Project	january-scent-project	19	0	0	19
 Japonica	japonica	1	0	0	1
-Jar Parfums	jar-parfums	1	0	1	0
-Jardin Bohème	jardin-boheme	18	0	10	8
+Jar Parfums	jar-parfums	8	0	4	4
+Jardin Bohème	jardin-boheme	33	0	17	16
 Jardin d'Amour	jardin-d-amour	10	1	8	1
 Jardin de France	jardin-de-france	59	4	20	35
-Jardin de Parfums	jardin-de-parfums	25	0	0	25
-Jardins d’Ecrivains	jardins-d-ecrivains	21	0	3	18
+Jardin de Parfums	jardin-de-parfums	27	0	0	27
+Jardins d’Ecrivains	jardins-d-ecrivains	23	0	3	20
 Jason Wu	jason-wu	2	0	2	0
 Jasper Conran	jasper-conran	12	6	6	0
 Jawhara	jawhara	5	0	0	5
-Jay Z	jay-z	1	1	0	0
+Jay Z	jay-z	2	2	0	0
 Jazeel	jazeel	8	0	0	8
 Jazmin Sarai	jazmin-sarai	9	0	1	8
-JD Jeffrey Dame	jd-jeffrey-dame	6	1	5	0
+JD Jeffrey Dame	jd-jeffrey-dame	13	6	6	1
 Jealous	jealous	5	0	0	5
 Jean & Len	jean-len	40	11	18	11
-Jean Charles Brosseau	jean-charles-brosseau	21	4	14	3
+Jean Charles Brosseau	jean-charles-brosseau	22	4	14	4
 Jean Couturier	jean-couturier	18	5	9	4
 Jean d'Albret	jean-d-albret	11	1	6	4
-Jean Louis Vermeil	jean-louis-vermeil	1	1	0	0
-Jean Luc Amsler	jean-luc-amsler	1	0	1	0
-Jean Marc Paris	jean-marc-paris	3	1	2	0
+Jean Louis Vermeil	jean-louis-vermeil	14	8	6	0
+Jean Luc Amsler	jean-luc-amsler	4	2	2	0
+Jean Marc Paris	jean-marc-paris	31	9	16	6
 Jean Monnet	jean-monnet	3	0	2	1
 Jean Pascal	jean-pascal	3	2	1	0
 Jean Patou	jean-patou	57	6	49	2
 Jean Paul Gaultier	jean-paul-gaultier	188	80	98	10
 Jean Poivre	jean-poivre	11	0	0	11
-Jean Reno	jean-reno	1	0	1	0
-Jean-Louis Scherrer	jean-louis-scherrer	7	1	6	0
+Jean Reno	jean-reno	2	0	2	0
+Jean-Louis Scherrer	jean-louis-scherrer	14	2	12	0
 Jean-Pierre Sand	jean-pierre-sand	121	39	81	1
 Jeanne Arthes	jeanne-arthes	250	56	183	11
 Jeanne en Provence	jeanne-en-provence	23	5	17	1
@@ -3032,24 +3032,24 @@ Jenni Farley	jenni-farley	1	0	1	0
 Jennifer Aniston	jennifer-aniston	9	0	9	0
 Jennifer Lopez	jennifer-lopez	39	1	36	2
 Jenny Glow	jenny-glow	19	3	10	6
-Jequiti	jequiti	659	190	449	20
+Jequiti	jequiti	665	193	452	20
 Jeroboam	jeroboam	16	1	1	14
 Jesmond Fragrance	jesmond-fragrance	4	0	1	3
 Jesse McCartney	jesse-mccartney	1	0	1	0
-Jessica McClintock	jessica-mcclintock	2	0	2	0
+Jessica McClintock	jessica-mcclintock	13	1	12	0
 Jessica Mila	jessica-mila	1	0	0	1
 Jessica Simpson	jessica-simpson	19	0	19	0
 Jesus Del Pozo	jesus-del-pozo	37	10	13	14
 Jette Joop	jette-joop	16	0	16	0
 Jevelon Canada	jevelon-canada	5	1	1	3
-Jijide	jijide	6	0	0	6
+Jijide	jijide	15	0	0	15
 Jil Sander	jil-sander	104	30	61	13
-Jill Stuart	jill-stuart	32	0	32	0
+Jill Stuart	jill-stuart	37	0	36	1
 Jillian Switzerland	jillian-switzerland	15	0	0	15
 Jimmy Boyd	jimmy-boyd	2	0	0	2
 Jimmy Choo	jimmy-choo	50	9	41	0
 Jinkoh Store	jinkoh-store	66	0	0	66
-Jivago	jivago	34	16	17	1
+Jivago	jivago	35	16	18	1
 Jivi Parfums	jivi-parfums	32	0	0	32
 JLS	jls	2	0	2	0
 JMP Artisan Perfumes	jmp-artisan-perfumes	21	0	0	21
@@ -3068,22 +3068,22 @@ John John	john-john	6	5	1	0
 John Mac Steed	john-mac-steed	13	6	7	0
 John Richmond	john-richmond	12	4	5	3
 John Varvatos	john-varvatos	26	25	1	0
-Johnson & Johnson's	johnson-johnson-s	1	0	0	1
+Johnson & Johnson's	johnson-johnson-s	14	0	7	7
 JOI	joi	1	0	0	1
 Joie	joie	1	0	1	0
 Joli Joli	joli-joli	13	0	13	0
 Jonah Hogden Parfum	jonah-hogden-parfum	1	0	0	1
-Jones New York	jones-new-york	1	0	1	0
+Jones New York	jones-new-york	6	0	6	0
 Joop!	joop	53	41	12	0
 Jordan Spirit	jordan-spirit	2	1	0	1
 Jordana Parfums	jordana-parfums	1	0	1	0
-Jordin Sparks	jordin-sparks	1	0	1	0
+Jordin Sparks	jordin-sparks	3	0	3	0
 Jorum Studio	jorum-studio	38	0	0	38
 Jose Antonio Tenente	jose-antonio-tenente	2	0	1	1
 Joseph	joseph	1	0	1	0
-Joseph Abboud	joseph-abboud	3	3	0	0
+Joseph Abboud	joseph-abboud	9	8	0	1
 Josie Gibson	josie-gibson	1	0	1	0
-Josie Maran	josie-maran	3	0	0	3
+Josie Maran	josie-maran	4	0	0	4
 Jouissance	jouissance	4	0	3	1
 Jouri	jouri	13	0	0	13
 Journal	journal	13	0	0	13
@@ -3096,14 +3096,14 @@ Jozoor	jozoor	15	0	0	15
 JS Douglas Söhne	js-douglas-soehne	3	0	3	0
 Juce	juce	40	13	16	11
 Judith	judith	9	9	0	0
-Judith Leiber	judith-leiber	6	0	6	0
+Judith Leiber	judith-leiber	16	3	13	0
 Judith Muller	judith-muller	8	1	7	0
 Judith Williams	judith-williams	52	2	35	15
 Juicy Couture	juicy-couture	58	1	55	2
 Juicy Jewel	juicy-jewel	2	0	2	0
 Jul et Mad Paris	jul-et-mad-paris	21	0	2	19
 Juliana Paes	juliana-paes	11	0	11	0
-Julianna's Perfume	julianna-s-perfume	1	0	1	0
+Julianna's Perfume	julianna-s-perfume	11	0	3	8
 Julie Burk Perfumes	julie-burk-perfumes	32	15	17	0
 Julien Angelove	julien-angelove	4	0	0	4
 Juliet Rose	juliet-rose	22	0	4	18
@@ -3114,21 +3114,21 @@ Junaid Jamshed	junaid-jamshed	98	56	38	4
 Junaid Perfumes	junaid-perfumes	109	18	53	38
 JUNO	juno	2	0	0	2
 Juozas Statkevicius Josef Statkus	juozas-statkevicius-josef-statkus	1	0	1	0
-Jupilò	jupilo	5	0	0	5
+Jupilò	jupilo	20	0	0	20
 Jurlique	jurlique	1	0	0	1
 Jusbox	jusbox	24	0	3	21
-Just Jack	just-jack	40	12	8	20
+Just Jack	just-jack	41	12	8	21
 Just Scent	just-scent	60	0	0	60
 Justin Bieber	justin-bieber	7	0	7	0
 Juvena	juvena	8	3	5	0
 K Constâncio	k-constancio	15	6	8	1
-K-3	k-3	2	0	0	2
+K-3	k-3	3	0	0	3
 K-Fragrance	k-fragrance	2	0	0	2
 K-R-V-A	k-r-v-a	2	0	0	2
 KaBEAUTY	kabeauty	20	0	19	1
 Kafka International	kafka-international	3	1	2	0
 Kahf	kahf	12	6	0	6
-Kai	kai	1	0	1	0
+Kai	kai	4	0	4	0
 Kai Porten	kai-porten	4	0	0	4
 Kaif Parfum	kaif-parfum	15	8	5	2
 kaisé	kaise	2	0	0	2
@@ -3137,7 +3137,7 @@ Kalem	kalem	12	0	0	12
 Kalina	kalina	2	0	2	0
 Kalit	kalit	3	0	0	3
 Kalmellow	kalmellow	2	0	2	0
-Kaloo	kaloo	2	0	1	1
+Kaloo	kaloo	14	2	3	9
 Kamila Robinson	kamila-robinson	44	4	20	20
 Kanchaveli	kanchaveli	6	0	0	6
 Kanebo	kanebo	36	8	27	1
@@ -3147,7 +3147,7 @@ Kanøn	kanoen	6	6	0	0
 Kar.ribe	kar-ribe	12	0	4	8
 Karakash Perfume	karakash-perfume	12	0	0	12
 Karen Doué	karen-doue	23	4	11	8
-Karen Low	karen-low	34	15	19	0
+Karen Low	karen-low	35	16	19	0
 Karen Timson	karen-timson	7	0	1	6
 Karen Walker	karen-walker	6	0	4	2
 kari	kari	88	26	61	1
@@ -3155,10 +3155,10 @@ Karl Lagerfeld	karl-lagerfeld	53	23	25	5
 Karo Kauer	karo-kauer	2	0	0	2
 Kashti Fragrances	kashti-fragrances	3	0	0	3
 Kat Von D	kat-von-d	6	0	6	0
-Katana Parfums	katana-parfums	3	0	0	3
+Katana Parfums	katana-parfums	22	0	0	22
 Kate Moss	kate-moss	10	0	10	0
 Kate Spade	kate-spade	25	0	25	0
-Kate Walsh	kate-walsh	3	0	3	0
+Kate Walsh	kate-walsh	4	0	3	1
 Kathy Hilton	kathy-hilton	1	0	1	0
 Katie Price aka Jordan	katie-price-aka-jordan	5	0	5	0
 Katra Fragrance	katra-fragrance	6	3	3	0
@@ -3188,21 +3188,21 @@ Key Sun Laboratories	key-sun-laboratories	4	4	0	0
 Keyth	keyth	22	0	0	22
 Khadlaj Perfumes	khadlaj-perfumes	113	10	34	69
 Khaikin	khaikin	4	0	0	4
-Khalil T.	khalil-t	1	0	0	1
+Khalil T.	khalil-t	6	0	0	6
 Khalis	khalis	75	12	18	45
 Khaltat	khaltat	46	0	0	46
 Khamael	khamael	4	2	2	0
 Khas Oud & Perfumes	khas-oud-perfumes	13	0	1	12
 Khayali Perfumes	khayali-perfumes	20	0	0	20
-Kheir Fragrance House	kheir-fragrance-house	3	0	1	2
-Khloe and Lamar	khloe-and-lamar	2	0	0	2
+Kheir Fragrance House	kheir-fragrance-house	6	0	1	5
+Khloe and Lamar	khloe-and-lamar	3	0	0	3
 Khloé Kardashian	khloe-kardashian	3	0	3	0
 Kiani Concept	kiani-concept	1	0	0	1
 KIDA KYO	kida-kyo	6	0	1	5
 Kiehl's	kiehl-s	9	0	1	8
-Kierin	kierin	6	0	0	6
+Kierin	kierin	10	0	0	10
 Kiki Smith	kiki-smith	1	0	0	1
-Kiko Milano	kiko-milano	32	0	31	1
+Kiko Milano	kiko-milano	38	0	34	4
 Kilani Essence	kilani-essence	1	0	0	1
 Kilesa	kilesa	84	3	9	72
 Killer Oud	killer-oud	9	4	0	5
@@ -3219,11 +3219,11 @@ Kintsugi	kintsugi	1	0	0	1
 Kintsugi Perfumes	kintsugi-perfumes	14	0	0	14
 Kira	kira	9	0	1	8
 Kirri	kirri	5	0	0	5
-Kismet Olfactive	kismet-olfactive	6	0	0	6
+Kismet Olfactive	kismet-olfactive	13	0	0	13
 Kiss Cosmetics	kiss-cosmetics	2	1	1	0
 Kiss New York	kiss-new-york	39	0	33	6
-Kiton	kiton	1	1	0	0
-KITSCH	kitsch	4	0	0	4
+Kiton	kiton	9	8	1	0
+KITSCH	kitsch	11	0	2	9
 Kitschy	kitschy	2	0	0	2
 Kiwilabs	kiwilabs	1	0	1	0
 KKW Fragrance	kkw-fragrance	49	0	44	5
@@ -3240,7 +3240,7 @@ Kolmaz	kolmaz	54	16	19	19
 Konka	konka	3	0	0	3
 Konsequence	konsequence	2	0	0	2
 Kookai	kookai	5	0	5	0
-Kopari	kopari	3	0	3	0
+Kopari	kopari	6	0	4	2
 Korbaj	korbaj	9	0	1	8
 Korloff Paris	korloff-paris	48	9	20	19
 Korres	korres	124	19	33	72
@@ -3254,13 +3254,13 @@ Krash Kosmetics	krash-kosmetics	1	0	0	1
 Kreolfleurage Parfums	kreolfleurage-parfums	4	0	0	4
 KREPIDA	krepida	6	0	1	5
 Krigler	krigler	52	9	14	29
-Kristel Saint Martin	kristel-saint-martin	1	0	1	0
+Kristel Saint Martin	kristel-saint-martin	8	2	6	0
 Kristiansand New York	kristiansand-new-york	1	1	0	0
 Krizia	krizia	19	6	13	0
 Kruidvat	kruidvat	8	0	0	8
 Krzysztof Lachowski	krzysztof-lachowski	1	0	0	1
 Ksenya Dim	ksenya-dim	6	0	0	6
-KST SCENT	kst-scent	1	0	0	1
+KST SCENT	kst-scent	12	0	0	12
 KSV	ksv	37	9	19	9
 Kuoca	kuoca	7	0	0	7
 Kusado	kusado	2	0	2	0
@@ -3279,74 +3279,74 @@ L' Âme Botanique	l-ame-botanique	5	0	0	5
 L'acqua Di Fiori	l-acqua-di-fiori	85	21	57	7
 L'Adoné	l-adone	6	0	0	6
 L'AFFAIR	l-affair	19	3	5	11
-L'Amande	l-amande	22	2	20	0
+L'Amande	l-amande	27	5	20	2
 L'Antichambre	l-antichambre	12	0	1	11
-L'Arc	l-arc	8	0	0	8
+L'Arc	l-arc	14	0	0	14
 L'Artisan Parfumeur	l-artisan-parfumeur	133	0	0	133
-L'Atelier Boheme	l-atelier-boheme	1	0	0	1
-L'Atelier des Bois de Grasse	l-atelier-des-bois-de-grasse	2	0	0	2
+L'Atelier Boheme	l-atelier-boheme	16	1	6	9
+L'Atelier des Bois de Grasse	l-atelier-des-bois-de-grasse	5	0	0	5
 L'Atelier Gros-Désirs	l-atelier-gros-desirs	2	0	0	2
 L'Atelier Mobius 莫比乌斯	l-atelier-mobius-mo-bi-wu-si	12	0	0	12
 L'Atelier Parfum	l-atelier-parfum	34	0	0	34
 L'Ateliero	l-ateliero	11	5	5	1
 L'Bel	l-bel	11	6	5	0
-L'Eau De Cassis	l-eau-de-cassis	103	2	6	95
+L'Eau De Cassis	l-eau-de-cassis	104	2	6	96
 L'Eau de Riô	l-eau-de-rio	9	0	0	9
-L'Eau Maliz	l-eau-maliz	1	0	0	1
+L'Eau Maliz	l-eau-maliz	9	0	0	9
 L'Entropiste	l-entropiste	8	0	0	8
-L'Epoque Parfums	l-epoque-parfums	4	0	0	4
+L'Epoque Parfums	l-epoque-parfums	5	0	0	5
 L'Erbolario	l-erbolario	120	8	50	62
 L'evinia	l-evinia	4	0	4	0
-L'Objet	l-objet	3	0	0	3
+L'Objet	l-objet	9	0	0	9
 L'Occitane en Provence	l-occitane-en-provence	227	17	116	94
 L'Orchestre Parfum	l-orchestre-parfum	15	0	0	15
 L'UNPERFECT	l-unperfect	4	0	0	4
 L.K.Bennett	l-k-bennett	1	0	1	0
 L.N Atelier Parfumes	l-n-atelier-parfumes	8	0	4	4
-L.T. Piver	l-t-piver	45	10	25	10
+L.T. Piver	l-t-piver	89	14	47	28
 L:a Bruket	l-a-bruket	3	0	0	3
 La Bastille	la-bastille	1	1	0	0
 La Beauté de L'amour	la-beaute-de-l-amour	19	1	13	5
 LA CHANTEE	la-chantee	25	7	16	2
-La Closerie des Parfums	la-closerie-des-parfums	7	0	0	7
-La Collina Toscana	la-collina-toscana	2	0	0	2
-La Curie	la-curie	6	0	0	6
+La Closerie des Parfums	la-closerie-des-parfums	14	0	0	14
+La Collina Toscana	la-collina-toscana	12	2	7	3
+La Curie	la-curie	13	0	0	13
 La Facon	la-facon	7	1	2	4
 La Fann	la-fann	13	0	1	12
-La Fede	la-fede	1	0	1	0
-La Fleur by Livvy	la-fleur-by-livvy	20	0	13	7
-La Folie a Plusieurs	la-folie-a-plusieurs	14	0	0	14
+La Fede	la-fede	3	0	2	1
+La Fleur by Livvy	la-fleur-by-livvy	23	0	14	9
+La Folie a Plusieurs	la-folie-a-plusieurs	16	0	0	16
 La Joie	la-joie	7	0	0	7
 La Lettre	la-lettre	11	0	0	11
 La Maison de Janus	la-maison-de-janus	5	0	0	5
 La Maison de la Vanille	la-maison-de-la-vanille	25	2	7	16
 La Maison Oud	la-maison-oud	5	0	0	5
-La Manufacture	la-manufacture	5	0	0	5
+La Manufacture	la-manufacture	20	0	0	20
 La Martina	la-martina	33	16	9	8
-La Mer	la-mer	1	0	1	0
+La Mer	la-mer	3	1	1	1
 La Mémoire	la-memoire	1	0	0	1
 La Parfum Galleria	la-parfum-galleria	50	6	8	36
-La Parfumerie Moderne	la-parfumerie-moderne	4	0	0	4
+La Parfumerie Moderne	la-parfumerie-moderne	5	0	0	5
 La Perla	la-perla	50	8	34	8
 La Prairie	la-prairie	17	0	17	0
 La Ric	la-ric	2	1	1	0
 La Rive	la-rive	172	57	109	6
 La Sabia	la-sabia	5	0	0	5
 La Senza	la-senza	3	0	3	0
-La Serra	la-serra	2	0	0	2
+La Serra	la-serra	5	0	0	5
 La Signore The Fragrance	la-signore-the-fragrance	4	2	2	0
 La Soiree Perfume	la-soiree-perfume	14	0	0	14
-La Sultane de Saba	la-sultane-de-saba	6	0	0	6
+La Sultane de Saba	la-sultane-de-saba	10	1	0	9
 La'Ceri	la-ceri	4	0	0	4
 La'French	la-french	14	2	3	9
 LAB 8	lab-8	26	14	5	7
 LABOR8	labor8	11	0	0	11
 Laboratoire des Endorphines	laboratoire-des-endorphines	7	0	0	7
 Laboratorio Olfattivo	laboratorio-olfattivo	41	1	4	36
-Laboratory Perfumes	laboratory-perfumes	5	0	0	5
+Laboratory Perfumes	laboratory-perfumes	6	0	0	6
 Labotrat	labotrat	17	0	17	0
-Laboya Paris	laboya-paris	1	0	0	1
-LabSolue	labsolue	65	0	0	65
+Laboya Paris	laboya-paris	3	0	0	3
+LabSolue	labsolue	70	0	0	70
 Lacoste Fragrances	lacoste-fragrances	79	48	30	1
 Lacrimosa	lacrimosa	12	6	2	4
 Ladanika	ladanika	60	0	5	55
@@ -3384,7 +3384,7 @@ Laundry by Shelli Segal	laundry-by-shelli-segal	1	0	1	0
 Laura Ashley	laura-ashley	14	1	8	5
 Laura Biagiotti	laura-biagiotti	46	14	32	0
 Laura Mercier	laura-mercier	23	0	18	5
-Laurel Bath House	laurel-bath-house	1	0	0	1
+Laurel Bath House	laurel-bath-house	8	0	0	8
 Laurelle London	laurelle-london	81	22	51	8
 Laurence Dumont	laurence-dumont	49	1	38	10
 Laurent Mazzone Parfums	laurent-mazzone-parfums	57	2	3	52
@@ -3395,7 +3395,7 @@ LAVVIE PERFUMES	lavvie-perfumes	17	0	0	17
 Layer+	layer	6	0	0	6
 LAYR	layr	9	0	0	9
 Lazaro	lazaro	6	1	1	4
-Lazarus Douvos	lazarus-douvos	1	0	0	1
+Lazarus Douvos	lazarus-douvos	4	0	0	4
 Lazure Perfumes	lazure-perfumes	6	0	0	6
 LC Waikiki	lc-waikiki	27	10	15	2
 Le Bonheur Perfumes	le-bonheur-perfumes	58	10	15	33
@@ -3407,7 +3407,7 @@ Le Falconé Perfumes	le-falcone-perfumes	28	10	10	8
 Le Frag	le-frag	6	0	0	6
 Le Galion	le-galion	40	6	14	20
 Le Goût De Peau 肌肤之味	le-gout-de-peau-ji-fu-zhi-wei	11	0	0	11
-Le Jardin Retrouve	le-jardin-retrouve	3	0	0	3
+Le Jardin Retrouve	le-jardin-retrouve	20	1	0	19
 Le Juste	le-juste	6	6	0	0
 Le Labo	le-labo	65	0	2	63
 Le Lis Blanc	le-lis-blanc	1	0	1	0
@@ -3419,7 +3419,7 @@ Le Persona	le-persona	7	0	0	7
 Le Prestige	le-prestige	13	0	0	13
 Le Ricette dell'Antica Farmacia del Cinghiale	le-ricette-dell-antica-farmacia-del-cinghiale	31	0	0	31
 Le Ré Noir	le-re-noir	64	5	8	51
-Le Sablier	le-sablier	1	1	0	0
+Le Sablier	le-sablier	2	2	0	0
 Le Sensier	le-sensier	15	0	3	12
 Leaders	leaders	2	1	1	0
 Lecmo	lecmo	18	0	0	18
@@ -3661,7 +3661,7 @@ Maiora Parfum	maiora-parfum	21	0	0	21
 MAIOS	maios	20	5	7	8
 Maison 18.10	maison-18-10	4	1	1	2
 Maison 21G	maison-21g	12	0	0	12
-Maison Alhambra	maison-alhambra	318	66	99	153
+Maison Alhambra	maison-alhambra	319	66	99	154
 Maison Aljazi	maison-aljazi	2	0	0	2
 Maison Anonyme	maison-anonyme	14	0	0	14
 Maison Anthony Marmin	maison-anthony-marmin	49	11	1	37
@@ -4152,7 +4152,7 @@ Natalie	natalie	4	0	4	0
 Nateeva	nateeva	1	0	1	0
 Natio	natio	1	0	1	0
 Natori	natori	1	0	1	0
-Natura	natura	521	133	297	91
+Natura	natura	532	135	303	94
 Natura Selection	natura-selection	7	0	0	7
 Natura Siberica	natura-siberica	9	1	4	4
 Natural Scents	natural-scents	25	6	19	0
@@ -4337,7 +4337,7 @@ Nymphæa	nymphaea	9	0	0	9
 NZA - New Zealand Auckland	nza-new-zealand-auckland	1	0	0	1
 Néomirage	neomirage	3	0	0	3
 NŌRTEAN	nortean	6	0	0	6
-O Boticário	o-boticario	624	164	377	83
+O Boticário	o-boticario	628	166	379	83
 O Te Rā	o-te-ra	4	0	0	4
 O'Driu	o-driu	33	5	6	22
 O'Livia Inspiração Botânica	o-livia-inspiracao-botanica	23	0	1	22
@@ -5529,7 +5529,7 @@ SweDoft	swedoft	24	7	5	12
 Sweet Essentials	sweet-essentials	73	0	0	73
 Swerve Parfums	swerve-parfums	4	2	2	0
 Sweven	sweven	2	0	0	2
-Swiss Arabian	swiss-arabian	248	48	76	124
+Swiss Arabian	swiss-arabian	255	48	77	130
 SYD Botanica	syd-botanica	3	0	0	3
 SYF	syf	3	0	0	3
 Sylhouette Parfums	sylhouette-parfums	14	0	0	14
@@ -5633,7 +5633,7 @@ The Cotswold Perfumery	the-cotswold-perfumery	11	2	6	3
 The Crown Perfumery Co.	the-crown-perfumery-co	40	12	27	1
 The Devil Wears Divinity	the-devil-wears-divinity	1	0	1	0
 The Different Company	the-different-company	41	0	1	40
-The Dua Brand	the-dua-brand	2153	384	265	1504
+The Dua Brand	the-dua-brand	2160	386	266	1508
 The Elite Couture Miami	the-elite-couture-miami	4	0	1	3
 The Exceptional	the-exceptional	4	0	0	4
 The Exotic Island Perfumer	the-exotic-island-perfumer	8	0	4	4
@@ -5943,7 +5943,7 @@ Vicky Tiel	vicky-tiel	3	1	2	0
 Victoria Beckham Beauty	victoria-beckham-beauty	5	0	0	5
 Victoria Bitter	victoria-bitter	1	1	0	0
 Victoria Perfumes	victoria-perfumes	10	0	0	10
-Victoria's Secret	victoria-s-secret	811	10	768	33
+Victoria's Secret	victoria-s-secret	853	10	806	37
 Victorinox Swiss Army	victorinox-swiss-army	26	15	10	1
 Victorio & Lucchino	victorio-lucchino	70	20	44	6
 Victorumm	victorumm	4	1	1	2
@@ -6133,7 +6133,7 @@ Yusuf Bhai	yusuf-bhai	1	1	0	0
 Yveperfume	yveperfume	3	0	2	1
 YVES	yves	1	0	0	1
 Yves de Sistelle	yves-de-sistelle	103	34	69	0
-Yves Rocher	yves-rocher	298	28	212	58
+Yves Rocher	yves-rocher	300	28	214	58
 Yves Saint Laurent	yves-saint-laurent	284	73	166	45
 Yvolution Perfumes	yvolution-perfumes	1	0	0	1
 YVRA	yvra	7	2	1	4
@@ -6143,7 +6143,7 @@ Zaharoff	zaharoff	38	13	2	23
 Zahra	zahra	4	0	3	1
 Zaid Attar Wale	zaid-attar-wale	13	1	0	12
 Zamara	zamara	5	0	0	5
-Zara	zara	1093	417	579	97
+Zara	zara	1101	417	583	101
 Zara Home	zara-home	6	0	0	6
 Zaraya	zaraya	7	0	0	7
 ZARKOPERFUME	zarkoperfume	27	0	2	25
