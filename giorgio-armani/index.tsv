@@ -1,6 +1,6 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 a-milano	A Milano		unisex	https://www.fragrantica.com/perfume/Giorgio-Armani/A-Milano-69489.html				pending
-acqua-di-gio	Acqua di Gio		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-410.html				pending
+acqua-di-gio	Acqua di Gio	Eau de Toilette	male	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-410.html				pending
 acqua-di-gio-411	Acqua di Gio		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-411.html				pending
 acqua-di-gio-acqua-di-life-edition	Acqua di Gio - Acqua di Life Edition		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Acqua-di-Life-Edition-11755.html				pending
 acqua-di-gio-blue-edition-pour-homme	Acqua di Gio Blue Edition Pour Homme		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Blue-Edition-Pour-Homme-25615.html				pending
@@ -31,7 +31,7 @@ ambre-eccentrico	Ambre Eccentrico		unisex	https://www.fragrantica.com/perfume/Gi
 ambre-soie	Ambre Soie		unisex	https://www.fragrantica.com/perfume/Giorgio-Armani/Ambre-Soie-405.html				pending
 armani	Armani		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-827.html				pending
 armani-attitude	Armani Attitude		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Attitude-1067.html				pending
-armani-code	Armani Code		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-412.html				pending
+armani-code	Armani Code	Eau de Toilette	male	https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-412.html				pending
 armani-code-a-list	Armani Code A-List		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-A-List-49501.html				pending
 armani-code-absolu	Armani Code Absolu		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-Absolu-53106.html				pending
 armani-code-absolu-femme	Armani Code Absolu Femme		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Code-Absolu-Femme-54302.html				pending

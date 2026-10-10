@@ -1,5 +1,5 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-34-boulevard-saint-germain	34 Boulevard Saint Germain		unisex	https://www.fragrantica.com/perfume/Diptyque/34-Boulevard-Saint-Germain-12208.html				pending
+34-boulevard-saint-germain	34 Boulevard Saint Germain	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Diptyque/34-Boulevard-Saint-Germain-12208.html				pending
 34-boulevard-saint-germain-eau-de-parfum	34 Boulevard Saint Germain Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Diptyque/34-Boulevard-Saint-Germain-Eau-de-Parfum-51383.html				pending
 34-boulevard-saint-germain-solid-perfume	34 Boulevard Saint Germain Solid Perfume		unisex	https://www.fragrantica.com/perfume/Diptyque/34-Boulevard-Saint-Germain-Solid-Perfume-106894.html				pending
 benjoin-boheme	Benjoin Bohème		unisex	https://www.fragrantica.com/perfume/Diptyque/Benjoin-Boheme-40942.html				pending
@@ -76,7 +76,7 @@ lombre-dans-leau-eau-de-parfum	L’Ombre Dans L’Eau Eau de Parfum	Eau de Parfu
 ofresia-eau-de-toilette	Ofresia Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Diptyque/Ofresia-Eau-de-Toilette-3961.html				pending
 olene-eau-de-toilette	Olene Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Diptyque/Olene-Eau-de-Toilette-3960.html	diptyque/female/olene-eau-de-toilette.png	https://hrd-live.cdn.scayle.cloud/images/0a059b871effa9ae7acc028fc9f9e8bd.jpg?brightness=1&width=922&height=1230&quality=75&bg=ffffff	https://raw.githubusercontent.com/venom444556/fb-assets/main/diptyque/female/olene-eau-de-toilette.png	passed
 opsis	Opsis		unisex	https://www.fragrantica.com/perfume/Diptyque/Opsis-75187.html				pending
-orpheon	Orphéon		unisex	https://www.fragrantica.com/perfume/Diptyque/Orpheon-125429.html				pending
+orpheon	Orphéon	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Diptyque/Orpheon-125429.html				pending
 orpheon-eau-de-parfum	Orphéon Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Diptyque/Orpheon-Eau-de-Parfum-65738.html				pending
 orpheon-solid-perfume	Orphéon Solid Perfume		unisex	https://www.fragrantica.com/perfume/Diptyque/Orpheon-Solid-Perfume-106892.html				pending
 othoniel-rosa	Othoniel Rosa		unisex	https://www.fragrantica.com/perfume/Diptyque/Othoniel-Rosa-61622.html				pending
