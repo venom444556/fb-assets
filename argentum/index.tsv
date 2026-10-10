@@ -1,14 +1,14 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 become	Become		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Become-79388.html				pending
 caregiver	Caregiver		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Caregiver-79394.html				pending
-creator	Creator		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Creator-79389.html				pending
-everyman	Everyman		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Everyman-79392.html				pending
+creator	Creator		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Creator-79389.html	argentum/unisex/creator.png	https://media.parfumo.com/perfume_imagery/f4/f41ea7-creator-argentum_1200.jpg	https://raw.githubusercontent.com/venom444556/fb-assets/main/argentum/unisex/creator.png	passed
+everyman	Everyman		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Everyman-79392.html	argentum/unisex/everyman.png	https://media.parfumo.com/perfume_social/4e/4e14bc-everyman-argentum_1200.jpg?format=jpg&quality=90	https://raw.githubusercontent.com/venom444556/fb-assets/main/argentum/unisex/everyman.png	passed
 explorer	Explorer		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Explorer-79393.html				pending
 hero	Hero		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Hero-79397.html				pending
 innocent	Innocent		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Innocent-79399.html				pending
-jester	Jester		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Jester-79391.html				pending
+jester	Jester		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Jester-79391.html	argentum/unisex/jester.png	https://cdn2.jomashop.com/media/catalog/product/cache/b3e31d40bbb1abcc90b26106659d5d3f/a/r/argentum-unisex-jester-edp-spray-24-oz-fragrances-658556057445_2.jpg?width=800&height=800	https://raw.githubusercontent.com/venom444556/fb-assets/main/argentum/unisex/jester.png	passed
 lover	Lover		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Lover-79390.html				pending
 magician	Magician		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Magician-79396.html				pending
-rebel	Rebel		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Rebel-79400.html				pending
+rebel	Rebel		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Rebel-79400.html	argentum/unisex/rebel.png	https://media.parfumo.com/perfume_imagery/8f/8fcbe3-rebel-argentum_1200.jpg	https://raw.githubusercontent.com/venom444556/fb-assets/main/argentum/unisex/rebel.png	passed
 ruler	Ruler		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Ruler-79398.html				pending
 sage	Sage		unisex	https://www.fragrantica.com/perfume/ARgENTUM/Sage-79395.html				pending

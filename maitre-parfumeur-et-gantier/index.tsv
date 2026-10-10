@@ -1,7 +1,7 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 ambre-dore	Ambre Dore		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Dore-14958.html				pending
 ambre-mythique	Ambre Mythique		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Mythique-38161.html				pending
-ambre-precieux	Ambre Precieux		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Precieux-5259.html				pending
+ambre-precieux	Ambre Precieux		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Precieux-5259.html	maitre-parfumeur-et-gantier/unisex/ambre-precieux.png	https://www.maitre-parfumeur-et-gantier.com/cdn/shop/files/Les_parfums_du_levant.jpg?v=1719093762	https://raw.githubusercontent.com/venom444556/fb-assets/main/maitre-parfumeur-et-gantier/unisex/ambre-precieux.png	passed
 ambre-precieux-ultime	Ambre Precieux Ultime		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Precieux-Ultime-27977.html				pending
 ambre-tibet	Ambre Tibet		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Ambre-Tibet-74673.html				pending
 bahiana	Bahiana		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Bahiana-5598.html				pending
@@ -15,15 +15,15 @@ eau-de-parfum-de-george-sand	Eau de Parfum de George Sand	Eau de Parfum	female	h
 eau-des-iles	Eau des Iles		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Eau-des-Iles-5601.html				pending
 eau-du-gantier	Eau du Gantier		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Eau-du-Gantier-7632.html				pending
 eau-pour-le-jeune-homme	Eau Pour Le Jeune Homme		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Eau-Pour-Le-Jeune-Homme-7645.html				pending
-fleur-des-comores	Fleur des Comores		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Fleur-des-Comores-7640.html				pending
+fleur-des-comores	Fleur des Comores		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Fleur-des-Comores-7640.html	maitre-parfumeur-et-gantier/female/fleur-des-comores.png	https://el-parfume.by/image/cache/catalog/duhi/jenskie_duhi/k16/9/ets-images-products-72759-375x5007640-1200x630.jpg	https://raw.githubusercontent.com/venom444556/fb-assets/main/maitre-parfumeur-et-gantier/female/fleur-des-comores.png	passed
 fleur-diris	Fleur d’Iris		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Fleur-d-Iris-7622.html				pending
 fraiche-badiane	Fraiche Badiane		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Fraiche-Badiane-7651.html				pending
 fraiche-passiflore	Fraiche Passiflore		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Fraiche-Passiflore-7639.html				pending
 fraicheur-muskissime	Fraicheur Muskissime		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Fraicheur-Muskissime-7623.html				pending
 fraicheur-muskissime-extravagante	Fraicheur Muskissime Extravagante		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Fraicheur-Muskissime-Extravagante-13305.html				pending
 freesia-dor	Freesia d’Or		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Freesia-d-Or-7634.html				pending
-garrigue	Garrigue		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Garrigue-7650.html				pending
-grain-de-plaisir	Grain de Plaisir		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Grain-de-Plaisir-7652.html				pending
+garrigue	Garrigue		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Garrigue-7650.html	maitre-parfumeur-et-gantier/male/garrigue.png	https://www.maitre-parfumeur-et-gantier.com/cdn/shop/files/Les_aromatiques.jpg?v=1719093694&width=1946	https://raw.githubusercontent.com/venom444556/fb-assets/main/maitre-parfumeur-et-gantier/male/garrigue.png	passed
+grain-de-plaisir	Grain de Plaisir		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Grain-de-Plaisir-7652.html	maitre-parfumeur-et-gantier/male/grain-de-plaisir.png	http://www.maitre-parfumeur-et-gantier.com/cdn/shop/files/Les_aromatiques.jpg?v=1719093694	https://raw.githubusercontent.com/venom444556/fb-assets/main/maitre-parfumeur-et-gantier/male/grain-de-plaisir.png	passed
 iris-bleu-gris	Iris Bleu Gris		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Iris-Bleu-Gris-7647.html				pending
 jardin-blanc	Jardin Blanc		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Jardin-Blanc-7621.html				pending
 jardin-du-nil	Jardin du Nil		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Jardin-du-Nil-7644.html				pending
@@ -36,10 +36,10 @@ or-des-indes	Or des Indes		female	https://www.fragrantica.com/perfume/Maitre-Par
 oud-extravagant	Oud Extravagant		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Oud-Extravagant-50509.html				pending
 parfum-dhabit	Parfum d’Habit		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Parfum-d-Habit-7648.html				pending
 patchouli-1969	Patchouli 1969		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Patchouli-1969-54947.html				pending
-racine	Racine		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Racine-7646.html				pending
+racine	Racine		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Racine-7646.html	maitre-parfumeur-et-gantier/male/racine.png	https://en.parfumaria.com/Files/10/215000/215980/ProductPhotos/1000x1000/990581090.jpg	https://raw.githubusercontent.com/venom444556/fb-assets/main/maitre-parfumeur-et-gantier/male/racine.png	passed
 rose-muskissime	Rose Muskissime		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Rose-Muskissime-7633.html				pending
 rose-opulente	Rose Opulente		female	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Rose-Opulente-7617.html				pending
-route-du-vetiver	Route du Vetiver		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Route-du-Vetiver-7643.html				pending
+route-du-vetiver	Route du Vetiver		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Route-du-Vetiver-7643.html	maitre-parfumeur-et-gantier/male/route-du-vetiver.png	https://www.orental.ru/upload/resize_cache/catalog/maitre-parfumeur-et-gantier/1210_1040_1/route-du-vetiver.jpg	https://raw.githubusercontent.com/venom444556/fb-assets/main/maitre-parfumeur-et-gantier/male/route-du-vetiver.png	passed
 sanguine-muskissime	Sanguine Muskissime		unisex	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Sanguine-Muskissime-5597.html				pending
 santal-noble	Santal Noble		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Santal-Noble-5252.html				pending
 santal-noble-2017	Santal Noble 2017		male	https://www.fragrantica.com/perfume/Maitre-Parfumeur-et-Gantier/Santal-Noble-2017-44141.html				pending
