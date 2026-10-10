@@ -1,7 +1,7 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 a-milano	A Milano		unisex	https://www.fragrantica.com/perfume/Giorgio-Armani/A-Milano-69489.html				pending
 acqua-di-gio	Acqua di Gio	Eau de Toilette	male	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-410.html				pending
-acqua-di-gio-411	Acqua di Gio		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-411.html				pending
+acqua-di-gio-411	Acqua di Gio	Eau de Toilette	female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-411.html				pending
 acqua-di-gio-acqua-di-life-edition	Acqua di Gio - Acqua di Life Edition		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Acqua-di-Life-Edition-11755.html				pending
 acqua-di-gio-blue-edition-pour-homme	Acqua di Gio Blue Edition Pour Homme		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Blue-Edition-Pour-Homme-25615.html				pending
 acqua-di-gio-essenza	Acqua di Gio Essenza		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Essenza-14825.html				pending
@@ -9,7 +9,7 @@ acqua-di-gio-profumo-special-blend	Acqua di Gio Profumo Special Blend		male	http
 acqua-di-gioia	Acqua di Gioia		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gioia-8442.html				pending
 acqua-di-gioia-eau-de-parfum-satinee	Acqua di Gioia Eau de Parfum Satinee	Eau de Parfum	female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gioia-Eau-de-Parfum-Satinee-14402.html				pending
 acqua-di-gioia-eau-de-toilette	Acqua di Gioia Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gioia-Eau-de-Toilette-24452.html				pending
-acqua-di-gioia-eau-fraiche	Acqua Di Gioia Eau Fraiche	Eau Fraiche	female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-Di-Gioia-Eau-Fraiche-17566.html				pending
+acqua-di-gioia-eau-fraiche	Acqua Di Gioia Eau Fraiche		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-Di-Gioia-Eau-Fraiche-17566.html				pending
 acqua-di-gioia-essenza	Acqua di Gioia Essenza		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gioia-Essenza-12402.html				pending
 acqua-di-gioia-hair-and-body-mist	Acqua di Gioia Hair & Body Mist	Body Mist	female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gioia-Hair-Body-Mist-50128.html				pending
 acqua-di-gioia-intense	Acqua di Gioia Intense		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gioia-Intense-90952.html				pending
@@ -236,8 +236,8 @@ si-rose-signature-ii-eau-de-parfum	Si Rose Signature II Eau de Parfum	Eau de Par
 si-sono-io	Si Sono Io		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Si-Sono-Io-47190.html				pending
 si-white	Si White		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Si-White-28129.html				pending
 sky-di-gioia	Sky di Gioia		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Sky-di-Gioia-43587.html				pending
-summer-mania-eau-fraiche-pour-femme	Summer Mania Eau Fraiche pour Femme	Eau Fraiche	female	https://www.fragrantica.com/perfume/Giorgio-Armani/Summer-Mania-Eau-Fraiche-pour-Femme-928.html				pending
-summer-mania-eau-fraiche-pour-homme	Summer Mania Eau Fraiche pour Homme	Eau Fraiche	male	https://www.fragrantica.com/perfume/Giorgio-Armani/Summer-Mania-Eau-Fraiche-pour-Homme-929.html				pending
+summer-mania-eau-fraiche-pour-femme	Summer Mania Eau Fraiche pour Femme		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Summer-Mania-Eau-Fraiche-pour-Femme-928.html				pending
+summer-mania-eau-fraiche-pour-homme	Summer Mania Eau Fraiche pour Homme		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Summer-Mania-Eau-Fraiche-pour-Homme-929.html				pending
 summer-mania-femme	Summer Mania Femme		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Summer-Mania-Femme-2705.html				pending
 summer-mania-homme	Summer Mania Homme		male	https://www.fragrantica.com/perfume/Giorgio-Armani/Summer-Mania-Homme-2706.html				pending
 sun-di-gioia	Sun di Gioia		female	https://www.fragrantica.com/perfume/Giorgio-Armani/Sun-di-Gioia-36600.html				pending

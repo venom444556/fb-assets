@@ -7,7 +7,7 @@ COLS = ['slug','fragrance','concentration','gender','fragrantica_url','image_pat
 # Fragrantica has no concentration field; it is only known when the name (or URL slug) states it.
 CONC = [(r'\b(?:body|hair) mist\b', None), (r'\bextrait(?: de parfum)?\b', 'Extrait de Parfum'), (r'\b(?:eau de parfum|edp)\b', 'Eau de Parfum'),
         (r'\b(?:eau de toilette|edt)\b', 'Eau de Toilette'), (r'\b(?:eau de cologne|edc)\b', 'Eau de Cologne'),
-        (r'\beau fra[iî]che\b', 'Eau Fraiche'), (r'\b(?:perfume oil|attar)\b', 'Perfume Oil'),
+        (r'\bperfume oil\b', 'Perfume Oil'),  # "Eau Fraiche" and "Attar" are product names, not concentrations (checked 2026-10-10)
         (r'(?<!\ble )(?<!\bla )(?<!\bmon )(?<!\bun )\bparfum$', 'Parfum'), (r'\bcologne$', 'Cologne')]
 def concentration(name, url):
     for text in (name, re.sub(r'-\d+\.html$', '', url.rsplit('/', 1)[-1]).replace('-', ' ')):
