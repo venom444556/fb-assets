@@ -1,7 +1,7 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-concipio	Concipio		unisex	https://www.fragrantica.com/perfume/Lumi/Concipio-99284.html				pending
-dulce-fundamentum	Dulce Fundamentum		unisex	https://www.fragrantica.com/perfume/Lumi/Dulce-Fundamentum-99286.html				pending
-meraviglianza	Meraviglianza		unisex	https://www.fragrantica.com/perfume/Lumi/Meraviglianza-104043.html				pending
+concipio	Concipio		unisex	https://www.fragrantica.com/perfume/Lumi/Concipio-99284.html	lumi/unisex/concipio.png	https://fragrance.ee/9005-large_default/lumi-concipio-eau-de-parfum-10-ml.jpg	https://raw.githubusercontent.com/venom444556/fb-assets/main/lumi/unisex/concipio.png	passed
+dulce-fundamentum	Dulce Fundamentum		unisex	https://www.fragrantica.com/perfume/Lumi/Dulce-Fundamentum-99286.html	lumi/unisex/dulce-fundamentum.png	https://fragrance.ee/9369-large_default/lumi-dulce-fundamentum-eau-de-parfum-10-ml.jpg	https://raw.githubusercontent.com/venom444556/fb-assets/main/lumi/unisex/dulce-fundamentum.png	passed
+meraviglianza	Meraviglianza		unisex	https://www.fragrantica.com/perfume/Lumi/Meraviglianza-104043.html	lumi/unisex/meraviglianza.png	https://media.parfumo.com/perfumes/e4/e48509_meraviglianza-lumi_1200.jpg?width=720&aspect_ratio=1:1	https://raw.githubusercontent.com/venom444556/fb-assets/main/lumi/unisex/meraviglianza.png	passed
 blancoco-chocolate	Blancocò Chocolate		unisex	https://www.fragrantica.com/perfume/Lumi/Blancoco-Chocolate-115366.html				pending
 caffe-letterario	Caffè Letterario		unisex	https://www.fragrantica.com/perfume/Lumi/Caffe-Letterario-104044.html				pending
 ciao	Ciao		unisex	https://www.fragrantica.com/perfume/Lumi/Ciao-139564.html				pending

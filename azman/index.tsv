@@ -1,6 +1,6 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 crown-of-fire	Crown of Fire		unisex	https://www.fragrantica.com/perfume/Azman/Crown-of-Fire-119422.html				pending
-i-am-darkness	I Am Darkness		unisex	https://www.fragrantica.com/perfume/Azman/I-Am-Darkness-71829.html				pending
+i-am-darkness	I Am Darkness		unisex	https://www.fragrantica.com/perfume/Azman/I-Am-Darkness-71829.html	azman/unisex/i-am-darkness.png	https://cdn.shopify.com/s/files/1/0955/9956/products/IamDarkness1200.jpg?v=1654390596	https://raw.githubusercontent.com/venom444556/fb-assets/main/azman/unisex/i-am-darkness.png	passed
 killer-vavoom	Killer Vavoom		unisex	https://www.fragrantica.com/perfume/Azman/Killer-Vavoom-71831.html				pending
 majnoon	Majnoon		unisex	https://www.fragrantica.com/perfume/Azman/Majnoon-71828.html				pending
 majnoon-oud-extraordinaire	Majnoon Oud Extraordinaire		unisex	https://www.fragrantica.com/perfume/Azman/Majnoon-Oud-Extraordinaire-91803.html				pending

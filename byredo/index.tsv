@@ -1,6 +1,6 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 00-00	00:00		unisex	https://www.fragrantica.com/perfume/Byredo/00-00-143766.html				pending
-1996-inez-and-vinoodh	1996 Inez & Vinoodh		unisex	https://www.fragrantica.com/perfume/Byredo/1996-Inez-Vinoodh-19247.html				pending
+1996-inez-and-vinoodh	1996 Inez & Vinoodh		unisex	https://www.fragrantica.com/perfume/Byredo/1996-Inez-Vinoodh-19247.html	byredo/unisex/1996-inez-and-vinoodh.png	https://www.smellattractiveperfumes.com/278-large_default/byredo-1996-inez-vinoodh-edp-100ml.jpg	https://raw.githubusercontent.com/venom444556/fb-assets/main/byredo/unisex/1996-inez-and-vinoodh.png	passed
 accord-oud	Accord Oud		unisex	https://www.fragrantica.com/perfume/Byredo/Accord-Oud-10757.html				pending
 alto-astral	Alto Astral		unisex	https://www.fragrantica.com/perfume/Byredo/Alto-Astral-111517.html				pending
 alto-astral-body-mist	Alto Astral Body Mist	Body Mist	unisex	https://www.fragrantica.com/perfume/Byredo/Alto-Astral-Body-Mist-135120.html				pending
@@ -97,7 +97,7 @@ sundazed	Sundazed		unisex	https://www.fragrantica.com/perfume/Byredo/Sundazed-54
 super-cedar	Super Cedar		unisex	https://www.fragrantica.com/perfume/Byredo/Super-Cedar-35530.html				pending
 susanne-kaufmann-x-byredo-bregenzerwald-fragrance-oil	Susanne Kaufmann x Byredo Bregenzerwald Fragrance Oil		unisex	https://www.fragrantica.com/perfume/Byredo/Susanne-Kaufmann-x-Byredo-Bregenzerwald-Fragrance-Oil-89054.html				pending
 tobacco-mandarin	Tobacco Mandarin		unisex	https://www.fragrantica.com/perfume/Byredo/Tobacco-Mandarin-63031.html				pending
-vanille-antique	Vanille Antique		unisex	https://www.fragrantica.com/perfume/Byredo/Vanille-Antique-73438.html				pending
+vanille-antique	Vanille Antique		unisex	https://www.fragrantica.com/perfume/Byredo/Vanille-Antique-73438.html	byredo/unisex/vanille-antique.png	https://cdn.clothbase.com/uploads/c7189de4-bc9d-415e-b979-0c700426a8f6/vanille-antique-50-ml.jpg	https://raw.githubusercontent.com/venom444556/fb-assets/main/byredo/unisex/vanille-antique.png	passed
 vanille-antique-2025	Vanille Antique 2025		unisex	https://www.fragrantica.com/perfume/Byredo/Vanille-Antique-2025-115294.html				pending
 velvet-haze	Velvet Haze		unisex	https://www.fragrantica.com/perfume/Byredo/Velvet-Haze-46358.html				pending
 young-rose	Young Rose		unisex	https://www.fragrantica.com/perfume/Byredo/Young-Rose-69009.html				pending

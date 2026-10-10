@@ -20,3 +20,11 @@ with empty image columns. `lookup.tsv` is the same data as one flat file (house,
 image_path). Fragrantica has no concentration field, so concentration is filled only where the name states it. Sources, merged by Fragrantica ID: a Fragrantica export dated 2026-09-26
 (github.com/aStyxxx/dataset_Fragrantica_perfumes), the Kaggle "Fragrantica.com Fragrance Dataset" (2024), and live
 Fragrantica designer listings, which are logged per house in `crawl/progress.tsv` so a crawl can resume.
+
+## Extra QC gates (2026-10-10)
+`tools/qc_gates.py` adds three gates on top of `inspect_bottles.py`: (1) placeholder: pixel md5 `532b4d...` (the ScentSplit
+"No image is available" graphic) or visually within 3 bits of it; (2) no duplicate: an image whose pixels already belong to a
+different fragrance is rejected, except known same-product pairs (Burberry Her/Women, Gucci Flora Gorgeous Gardenia,
+Gucci Guilty Intense, Mercedes-Benz Intense, Adidas Floral Dream); (3) box: wider-than-tall or multi-object cutouts are
+rejected and boxy fills warn, and retail box, gift set, logo discs, labels and props beside the bottle are rejected by eye.
+Rows with no clean bottle have an empty `image_path` (qc_status `pending`) instead of a wrong picture.

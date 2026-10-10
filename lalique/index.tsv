@@ -1,5 +1,5 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
-amethyst	Amethyst		female	https://www.fragrantica.com/perfume/Lalique/Amethyst-1835.html				pending
+amethyst	Amethyst		female	https://www.fragrantica.com/perfume/Lalique/Amethyst-1835.html	lalique/female/amethyst.png	https://trendatt.com/assets/images/products/gallery/lalique-amethyst-eau-de-parfum-100ml-for-women_1718204806129827.jpeg	https://raw.githubusercontent.com/venom444556/fb-assets/main/lalique/female/amethyst.png	passed
 amethyst-eclat	Amethyst Eclat		female	https://www.fragrantica.com/perfume/Lalique/Amethyst-Eclat-26247.html				pending
 amethyst-exquise	Amethyst Exquise		female	https://www.fragrantica.com/perfume/Lalique/Amethyst-Exquise-47844.html				pending
 azalee	Azalee		female	https://www.fragrantica.com/perfume/Lalique/Azalee-21855.html				pending
