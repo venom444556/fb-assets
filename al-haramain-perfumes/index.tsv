@@ -1,6 +1,6 @@
 slug	fragrance	concentration	gender	fragrantica_url	image_path	source_url	hosted_raw_url	qc_status
 50-years-golden-oudh	50 Years Golden Oudh		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/50-Years-Golden-Oudh-63798.html				pending
-50-years-oudh-maal-attar	50 Years Oudh Ma’al Attar	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/50-Years-Oudh-Ma-al-Attar-63799.html				pending
+50-years-oudh-maal-attar	50 Years Oudh Ma’al Attar		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/50-Years-Oudh-Ma-al-Attar-63799.html				pending
 50-years-platinum-oud	50 Years Platinum Oud		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/50-Years-Platinum-Oud-70372.html				pending
 50-years-rose-oud	50 Years Rose Oud		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/50-Years-Rose-Oud-70373.html				pending
 a-one	A One		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/A-One-19934.html				pending
@@ -42,12 +42,12 @@ angel	Angel		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Ang
 areej-al-oud	Areej Al Oud		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Areej-Al-Oud-70374.html				pending
 atifa-blanche	Atifa Blanche		female	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Atifa-Blanche-26538.html				pending
 atifa-noir	Atifa Noir		female	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Atifa-Noir-26539.html				pending
-attar-al-kaaba	Attar Al Kaaba	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Al-Kaaba-3899.html				pending
-attar-al-zoujan	Attar Al Zoujan	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Al-Zoujan-19869.html				pending
-attar-lamha	Attar Lamha	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Lamha-19837.html				pending
-attar-mubakhar-gold	Attar Mubakhar Gold	Perfume Oil	female	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Mubakhar-Gold-19857.html				pending
-attar-mubakhar-silver	Attar Mubakhar Silver	Perfume Oil	male	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Mubakhar-Silver-19858.html				pending
-attar-sheikh-al-arab	Attar Sheikh Al Arab	Perfume Oil	male	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Sheikh-Al-Arab-19612.html				pending
+attar-al-kaaba	Attar Al Kaaba		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Al-Kaaba-3899.html				pending
+attar-al-zoujan	Attar Al Zoujan		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Al-Zoujan-19869.html				pending
+attar-lamha	Attar Lamha		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Lamha-19837.html				pending
+attar-mubakhar-gold	Attar Mubakhar Gold		female	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Mubakhar-Gold-19857.html				pending
+attar-mubakhar-silver	Attar Mubakhar Silver		male	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Mubakhar-Silver-19858.html				pending
+attar-sheikh-al-arab	Attar Sheikh Al Arab		male	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Attar-Sheikh-Al-Arab-19612.html				pending
 ayah	Ayah		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Ayah-26540.html				pending
 azlan-oud-blue-edition	Azlan Oud Blue Edition		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Azlan-Oud-Blue-Edition-83047.html				pending
 azure	Azure		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Azure-83049.html				pending
@@ -297,7 +297,7 @@ taj	Taj		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Taj-198
 tajibni	Tajibni		female	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Tajibni-26434.html				pending
 tanasuk	Tanasuk		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Tanasuk-46253.html				pending
 tanasuk-2019	Tanasuk (2019)		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Tanasuk-2019-55794.html				pending
-thohfa-attar	Thohfa Attar	Perfume Oil	unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Thohfa-Attar-19830.html				pending
+thohfa-attar	Thohfa Attar		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Thohfa-Attar-19830.html				pending
 thursday	Thursday		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Thursday-19840.html				pending
 tohfa	Tohfa		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Tohfa-19622.html				pending
 tuesday	Tuesday		unisex	https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Tuesday-19842.html				pending
