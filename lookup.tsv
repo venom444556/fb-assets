@@ -323,7 +323,7 @@ house	fragrance	concentration	gender	fragrantica_url	image_path
 1907	Dame D’Or		female	https://www.fragrantica.com/perfume/1907/Dame-D-Or-56849.html	1907/female/dame-dor.png
 1907	Delisunsa		unisex	https://www.fragrantica.com/perfume/1907/Delisunsa-81514.html	1907/unisex/delisunsa.png
 1907	El Tabaco		unisex	https://www.fragrantica.com/perfume/1907/El-Tabaco-108317.html	1907/unisex/el-tabaco.png
-1907	Fatamorgana		female	https://www.fragrantica.com/perfume/1907/Fatamorgana-71635.html	
+1907	Fatamorgana		female	https://www.fragrantica.com/perfume/1907/Fatamorgana-71635.html	1907/female/fatamorgana.png
 1907	Galbanum		unisex	https://www.fragrantica.com/perfume/1907/Galbanum-43885.html	
 1907	Genevieve		female	https://www.fragrantica.com/perfume/1907/Genevieve-50625.html	1907/female/genevieve.png
 1907	Green Cream		unisex	https://www.fragrantica.com/perfume/1907/Green-Cream-71591.html	
@@ -334,7 +334,7 @@ house	fragrance	concentration	gender	fragrantica_url	image_path
 1907	Mon Ame		unisex	https://www.fragrantica.com/perfume/1907/Mon-Ame-50626.html	1907/unisex/mon-ame.png
 1907	Muscaccino		unisex	https://www.fragrantica.com/perfume/1907/Muscaccino-100110.html	1907/unisex/muscaccino.png
 1907	My Spice		unisex	https://www.fragrantica.com/perfume/1907/My-Spice-71592.html	
-1907	Navalier		unisex	https://www.fragrantica.com/perfume/1907/Navalier-136347.html	
+1907	Navalier		unisex	https://www.fragrantica.com/perfume/1907/Navalier-136347.html	1907/unisex/navalier.png
 1907	Nom		unisex	https://www.fragrantica.com/perfume/1907/Nom-56848.html	1907/unisex/nom.png
 1907	Pepper		unisex	https://www.fragrantica.com/perfume/1907/Pepper-43883.html	1907/unisex/pepper.png
 1907	Pine		unisex	https://www.fragrantica.com/perfume/1907/Pine-43882.html	1907/unisex/pine.png
@@ -1108,12 +1108,12 @@ Abdul Karim Al Faransi	Hayati		unisex	https://www.fragrantica.com/perfume/Abdul-
 Abdul Karim Al Faransi	Hind		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Hind-36992.html	
 Abdul Karim Al Faransi	IAM: Imperial Asiatic Musk		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/IAM-Imperial-Asiatic-Musk-37526.html	
 Abdul Karim Al Faransi	Imperial Desire		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Imperial-Desire-42243.html	
-Abdul Karim Al Faransi	Islamabad	Parfum	unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Islamabad-48357.html	
+Abdul Karim Al Faransi	Islamabad	Parfum	unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Islamabad-48357.html	abdul-karim-al-faransi/unisex/islamabad.png
 Abdul Karim Al Faransi	Istanbul		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Istanbul-36997.html	
 Abdul Karim Al Faransi	Jakarta		male	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Jakarta-36915.html	
 Abdul Karim Al Faransi	Juwayriya		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Juwayriya-36985.html	
 Abdul Karim Al Faransi	Juzur Al Karibi		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Juzur-Al-Karibi-48352.html	
-Abdul Karim Al Faransi	Juzur Al Qamar		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Juzur-Al-Qamar-48356.html	
+Abdul Karim Al Faransi	Juzur Al Qamar		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Juzur-Al-Qamar-48356.html	abdul-karim-al-faransi/unisex/juzur-al-qamar.png
 Abdul Karim Al Faransi	Kayseri		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Kayseri-36988.html	
 Abdul Karim Al Faransi	Massilia		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Massilia-36991.html	
 Abdul Karim Al Faransi	MMA: Mixed Musk Arts		male	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/MMA-Mixed-Musk-Arts-48364.html	
@@ -1159,8 +1159,8 @@ Abdul Karim Al Faransi	Sheikh Al Faransi Parfum	Parfum	male	https://www.fragrant
 Abdul Karim Al Faransi	Singapore		male	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Singapore-36921.html	
 Abdul Karim Al Faransi	Sultan		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Sultan-36995.html	
 Abdul Karim Al Faransi	Sundus		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Sundus-36934.html	
-Abdul Karim Al Faransi	Tahiti		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Tahiti-36983.html	
-Abdul Karim Al Faransi	Tataouine		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Tataouine-48359.html	
+Abdul Karim Al Faransi	Tahiti		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Tahiti-36983.html	abdul-karim-al-faransi/unisex/tahiti.png
+Abdul Karim Al Faransi	Tataouine		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Tataouine-48359.html	abdul-karim-al-faransi/unisex/tataouine.png
 Abdul Karim Al Faransi	Warda		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Warda-36936.html	
 Abdul Karim Al Faransi	Wasima		unisex	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Wasima-42369.html	
 Abdul Karim Al Faransi	Wild Oud Cambodi		male	https://www.fragrantica.com/perfume/Abdul-Karim-Al-Faransi/Wild-Oud-Cambodi-36939.html	
@@ -1385,7 +1385,7 @@ Abelha Rainha	Narcizo Strong		male	https://www.fragrantica.com/perfume/Abelha-Ra
 Abelha Rainha	Rubi Glamour		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Rubi-Glamour-74254.html	abelha-rainha/female/rubi-glamour.png
 Abelha Rainha	Rubi Intense		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Rubi-Intense-99838.html	abelha-rainha/female/rubi-intense.png
 Abelha Rainha	Sense Man		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Sense-Man-61359.html	abelha-rainha/male/sense-man.png
-Abelha Rainha	Sense Woman		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Sense-Woman-61358.html	
+Abelha Rainha	Sense Woman		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Sense-Woman-61358.html	abelha-rainha/female/sense-woman.png
 Abelha Rainha	Todo Cuidado + Melancia		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Todo-Cuidado-Melancia-115590.html	abelha-rainha/female/todo-cuidado-melancia.png
 Abelha Rainha	Vegas		male	https://www.fragrantica.com/perfume/Abelha-Rainha/Vegas-74258.html	abelha-rainha/male/vegas.png
 Abelha Rainha	Volúpia		female	https://www.fragrantica.com/perfume/Abelha-Rainha/Volupia-61360.html	abelha-rainha/female/volupia.png
@@ -1526,7 +1526,7 @@ Above	Fascinatio		female	https://www.fragrantica.com/perfume/Above/Fascinatio-71
 Above	Virtus		male	https://www.fragrantica.com/perfume/Above/Virtus-71496.html	above/male/virtus.png
 Absolue Diamond	Absolue Fuchsia Diamond		female	https://www.fragrantica.com/perfume/Absolue-Diamond/Absolue-Fuchsia-Diamond-62508.html	absolue-diamond/female/absolue-fuchsia-diamond.png
 Absolue Diamond	Absolue Noir Diamond		male	https://www.fragrantica.com/perfume/Absolue-Diamond/Absolue-Noir-Diamond-62510.html	absolue-diamond/male/absolue-noir-diamond.png
-Absolument Parfumeur	Absolument Absinthe		female	https://www.fragrantica.com/perfume/Absolument-Parfumeur/Absolument-Absinthe-4325.html	
+Absolument Parfumeur	Absolument Absinthe		female	https://www.fragrantica.com/perfume/Absolument-Parfumeur/Absolument-Absinthe-4325.html	absolument-parfumeur/female/absolument-absinthe.png
 Absolument Parfumeur	Absolument Femme		female	https://www.fragrantica.com/perfume/Absolument-Parfumeur/Absolument-Femme-16665.html	absolument-parfumeur/female/absolument-femme.png
 Absolument Parfumeur	Absolument Homme		male	https://www.fragrantica.com/perfume/Absolument-Parfumeur/Absolument-Homme-4324.html	absolument-parfumeur/male/absolument-homme.png
 Absolument Parfumeur	Aqua di Aix	Eau de Parfum	female	https://www.fragrantica.com/perfume/Absolument-Parfumeur/Aqua-di-Aix-30288.html	absolument-parfumeur/female/aqua-di-aix.png
@@ -1887,14 +1887,14 @@ Acqua di Parma	Acqua di Parma Magnolia Nobile	Eau de Parfum	female	https://www.f
 Acqua di Parma	Acqua di Parma Magnolia Nobile Special Edition		female	https://www.fragrantica.com/perfume/Acqua-di-Parma/Acqua-di-Parma-Magnolia-Nobile-Special-Edition-10204.html	
 Acqua di Parma	Acqua di Parma Profumo		female	https://www.fragrantica.com/perfume/Acqua-di-Parma/Acqua-di-Parma-Profumo-1683.html	acqua-di-parma/female/acqua-di-parma-profumo.png
 Acqua di Parma	Acqua di Parma Profumo 2008		female	https://www.fragrantica.com/perfume/Acqua-di-Parma/Acqua-di-Parma-Profumo-2008-5069.html	acqua-di-parma/female/acqua-di-parma-profumo-2008.png
-Acqua di Parma	Acqua Nobile Gelsomino		female	https://www.fragrantica.com/perfume/Acqua-di-Parma/Acqua-Nobile-Gelsomino-17384.html	
+Acqua di Parma	Acqua Nobile Gelsomino		female	https://www.fragrantica.com/perfume/Acqua-di-Parma/Acqua-Nobile-Gelsomino-17384.html	acqua-di-parma/female/acqua-nobile-gelsomino.png
 Acqua di Parma	Acqua Nobile Iris	Eau de Parfum	female	https://www.fragrantica.com/perfume/Acqua-di-Parma/Acqua-Nobile-Iris-17487.html	acqua-di-parma/female/acqua-nobile-iris.png
 Acqua di Parma	Acqua Nobile Magnolia	Eau de Toilette	female	https://www.fragrantica.com/perfume/Acqua-di-Parma/Acqua-Nobile-Magnolia-17486.html	acqua-di-parma/female/acqua-nobile-magnolia.png
 Acqua di Parma	Acqua Nobile Rosa	Eau de Parfum	female	https://www.fragrantica.com/perfume/Acqua-di-Parma/Acqua-Nobile-Rosa-29971.html	acqua-di-parma/female/acqua-nobile-rosa.png
 Acqua di Parma	Ambra Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-di-Parma/Ambra-Eau-de-Parfum-56000.html	acqua-di-parma/unisex/ambra-eau-de-parfum.png
 Acqua di Parma	Arancia di Capri La Riserva	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-di-Parma/Arancia-di-Capri-La-Riserva-107109.html	
 Acqua di Parma	Bergamotto di Calabria La Spugnatura		unisex	https://www.fragrantica.com/perfume/Acqua-di-Parma/Bergamotto-di-Calabria-La-Spugnatura-66175.html	acqua-di-parma/unisex/bergamotto-di-calabria-la-spugnatura.png
-Acqua di Parma	Bergamotto La Spugnatura	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-di-Parma/Bergamotto-La-Spugnatura-133880.html	
+Acqua di Parma	Bergamotto La Spugnatura	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-di-Parma/Bergamotto-La-Spugnatura-133880.html	acqua-di-parma/unisex/bergamotto-la-spugnatura.png
 Acqua di Parma	Blu Mediterraneo Foglie di Basilico		unisex	https://www.fragrantica.com/perfume/Acqua-di-Parma/Blu-Mediterraneo-Foglie-di-Basilico-6095.html	acqua-di-parma/unisex/blu-mediterraneo-foglie-di-basilico.png
 Acqua di Parma	Blu Mediterraneo Quercia Marina		unisex	https://www.fragrantica.com/perfume/Acqua-di-Parma/Blu-Mediterraneo-Quercia-Marina-6096.html	
 Acqua di Parma	Blue Mediterraneo Mirto di Panarea Limited Edition 2024		unisex	https://www.fragrantica.com/perfume/Acqua-di-Parma/Blue-Mediterraneo-Mirto-di-Panarea-Limited-Edition-2024-95862.html	acqua-di-parma/unisex/blue-mediterraneo-mirto-di-panarea-limited-edition-2024.png
@@ -1994,7 +1994,7 @@ Acqua di Portofino	Maremosso		unisex	https://www.fragrantica.com/perfume/Acqua-d
 Acqua di Portofino	Notte		unisex	https://www.fragrantica.com/perfume/Acqua-di-Portofino/Notte-30548.html	acqua-di-portofino/unisex/notte.png
 Acqua di Portofino	Oltre		unisex	https://www.fragrantica.com/perfume/Acqua-di-Portofino/Oltre-135384.html	
 Acqua di Portofino	R'Osa Eau de Parfum Sensuelle	Eau de Parfum	female	https://www.fragrantica.com/perfume/Acqua-di-Portofino/R-Osa-Eau-de-Parfum-Sensuelle-37731.html	
-Acqua di Portofino	Sail	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Acqua-di-Portofino/Sail-17036.html	
+Acqua di Portofino	Sail	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/Acqua-di-Portofino/Sail-17036.html	acqua-di-portofino/unisex/sail.png
 Acqua di Portokali	Acqua di Portokali Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-di-Portokali/Acqua-di-Portokali-Eau-de-Parfum-45918.html	acqua-di-portokali/unisex/acqua-di-portokali-eau-de-parfum.png
 Acqua di Praga	Bohemia	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-di-Praga/Bohemia-82888.html	acqua-di-praga/unisex/bohemia.png
 Acqua di Sardegna	Acqua di Sardegna Man Eau de Parfum	Eau de Parfum	male	https://www.fragrantica.com/perfume/Acqua-di-Sardegna/Acqua-di-Sardegna-Man-Eau-de-Parfum-41823.html	acqua-di-sardegna/male/acqua-di-sardegna-man-eau-de-parfum.png
@@ -2022,7 +2022,7 @@ Acqua di Stresa	Acqua di Stresa fresh touch		unisex	https://www.fragrantica.com/
 Acqua di Stresa	Aroma Reale		female	https://www.fragrantica.com/perfume/Acqua-di-Stresa/Aroma-Reale-76865.html	
 Acqua di Stresa	Calycanthus Brumae	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-di-Stresa/Calycanthus-Brumae-28903.html	
 Acqua di Stresa	Camellia		female	https://www.fragrantica.com/perfume/Acqua-di-Stresa/Camellia-117480.html	
-Acqua di Stresa	Camellia Soliflor		female	https://www.fragrantica.com/perfume/Acqua-di-Stresa/Camellia-Soliflor-28902.html	
+Acqua di Stresa	Camellia Soliflor		female	https://www.fragrantica.com/perfume/Acqua-di-Stresa/Camellia-Soliflor-28902.html	acqua-di-stresa/female/camellia-soliflor.png
 Acqua di Stresa	Darkest Hour	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-di-Stresa/Darkest-Hour-57418.html	acqua-di-stresa/unisex/darkest-hour.png
 Acqua di Stresa	Diamonds Rain		unisex	https://www.fragrantica.com/perfume/Acqua-di-Stresa/Diamonds-Rain-57415.html	acqua-di-stresa/unisex/diamonds-rain.png
 Acqua di Stresa	Dianthus		unisex	https://www.fragrantica.com/perfume/Acqua-di-Stresa/Dianthus-40323.html	
@@ -2066,7 +2066,7 @@ AcquaDì	Desire		female	https://www.fragrantica.com/perfume/AcquaDi/Desire-47443
 AcquaDì	Mystery		female	https://www.fragrantica.com/perfume/AcquaDi/Mystery-47444.html	
 AcquaDì	Rich		male	https://www.fragrantica.com/perfume/AcquaDi/Rich-47438.html	acquadi/male/rich.png
 AcquaDì	Vanity		female	https://www.fragrantica.com/perfume/AcquaDi/Vanity-47437.html	acquadi/female/vanity.png
-Acque di Italia	Ambra di Venezia		unisex	https://www.fragrantica.com/perfume/Acque-di-Italia/Ambra-di-Venezia-27001.html	
+Acque di Italia	Ambra di Venezia		unisex	https://www.fragrantica.com/perfume/Acque-di-Italia/Ambra-di-Venezia-27001.html	acque-di-italia/unisex/ambra-di-venezia.png
 Acque di Italia	Cedro di Pantelleria		unisex	https://www.fragrantica.com/perfume/Acque-di-Italia/Cedro-di-Pantelleria-27000.html	acque-di-italia/unisex/cedro-di-pantelleria.png
 Acque di Italia	Giglio di Sardegna	Parfum	female	https://www.fragrantica.com/perfume/Acque-di-Italia/Giglio-di-Sardegna-27002.html	acque-di-italia/female/giglio-di-sardegna.png
 Acque di Italia	Gran Bouquet Italiano		unisex	https://www.fragrantica.com/perfume/Acque-di-Italia/Gran-Bouquet-Italiano-27003.html	acque-di-italia/unisex/gran-bouquet-italiano.png
@@ -3063,7 +3063,7 @@ Afnan	9 PM Night Out	Extrait de Parfum	unisex	https://www.fragrantica.com/perfum
 Afnan	9 PM Rebel	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Afnan/9-PM-Rebel-99238.html	afnan/unisex/9-pm-rebel.png
 Afnan	9am	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/9am-70706.html	
 Afnan	9am Dive	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Afnan/9am-Dive-78611.html	
-Afnan	9am pour Femme	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/9am-pour-Femme-78541.html	
+Afnan	9am pour Femme	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/9am-pour-Femme-78541.html	afnan/female/9am-pour-femme.png
 Afnan	9pm	Eau de Parfum	male	https://www.fragrantica.com/perfume/Afnan/9pm-65414.html	afnan/male/9pm.png
 Afnan	9PM Elixir	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Afnan/9PM-Elixir-111894.html	afnan/unisex/9pm-elixir.png
 Afnan	9pm pour Femme	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/9pm-pour-Femme-78544.html	
@@ -3077,7 +3077,7 @@ Afnan	Al Joud		female	https://www.fragrantica.com/perfume/Afnan/Al-Joud-27379.ht
 Afnan	Al Maqaam		female	https://www.fragrantica.com/perfume/Afnan/Al-Maqaam-59134.html	
 Afnan	Amberythme		unisex	https://www.fragrantica.com/perfume/Afnan/Amberythme-77450.html	afnan/unisex/amberythme.png
 Afnan	Arabian Gems	Parfum	male	https://www.fragrantica.com/perfume/Afnan/Arabian-Gems-27344.html	afnan/male/arabian-gems.png
-Afnan	Arabian Gems	Parfum	female	https://www.fragrantica.com/perfume/Afnan/Arabian-Gems-27343.html	
+Afnan	Arabian Gems	Parfum	female	https://www.fragrantica.com/perfume/Afnan/Arabian-Gems-27343.html	afnan/female/arabian-gems.png
 Afnan	Arjowaan		unisex	https://www.fragrantica.com/perfume/Afnan/Arjowaan-27355.html	
 Afnan	Balquis		female	https://www.fragrantica.com/perfume/Afnan/Balquis-27345.html	afnan/female/balquis.png
 Afnan	Basma		unisex	https://www.fragrantica.com/perfume/Afnan/Basma-27356.html	
@@ -3091,7 +3091,7 @@ Afnan	Hamsa		unisex	https://www.fragrantica.com/perfume/Afnan/Hamsa-36627.html	a
 Afnan	Highness III		male	https://www.fragrantica.com/perfume/Afnan/Highness-III-71861.html	afnan/male/highness-iii.png
 Afnan	Highness IV		female	https://www.fragrantica.com/perfume/Afnan/Highness-IV-78113.html	afnan/female/highness-iv.png
 Afnan	Highness IX		unisex	https://www.fragrantica.com/perfume/Afnan/Highness-IX-78432.html	
-Afnan	Highness V	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/Highness-V-78114.html	
+Afnan	Highness V	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/Highness-V-78114.html	afnan/female/highness-v.png
 Afnan	Highness VI	Eau de Parfum	male	https://www.fragrantica.com/perfume/Afnan/Highness-VI-78115.html	afnan/male/highness-vi.png
 Afnan	Highness White	Eau de Parfum	male	https://www.fragrantica.com/perfume/Afnan/Highness-White-78111.html	afnan/male/highness-white.png
 Afnan	Highness X		male	https://www.fragrantica.com/perfume/Afnan/Highness-X-78116.html	
@@ -3154,7 +3154,7 @@ Afnan	Precious Oudh	Eau de Parfum	male	https://www.fragrantica.com/perfume/Afnan
 Afnan	Precious Pink	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/Precious-Pink-27373.html	
 Afnan	Provoke Black		unisex	https://www.fragrantica.com/perfume/Afnan/Provoke-Black-27349.html	afnan/unisex/provoke-black.png
 Afnan	Provoke White		unisex	https://www.fragrantica.com/perfume/Afnan/Provoke-White-27350.html	afnan/unisex/provoke-white.png
-Afnan	Pure Musk	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Afnan/Pure-Musk-78614.html	
+Afnan	Pure Musk	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Afnan/Pure-Musk-78614.html	afnan/unisex/pure-musk.png
 Afnan	Rahaal		unisex	https://www.fragrantica.com/perfume/Afnan/Rahaal-72319.html	afnan/unisex/rahaal.png
 Afnan	Rare Carbon	Eau de Parfum	male	https://www.fragrantica.com/perfume/Afnan/Rare-Carbon-66627.html	
 Afnan	Rare Passion		female	https://www.fragrantica.com/perfume/Afnan/Rare-Passion-84525.html	afnan/female/rare-passion.png
@@ -3173,7 +3173,7 @@ Afnan	Supremacy Gala	Extrait de Parfum	female	https://www.fragrantica.com/perfum
 Afnan	Supremacy Gold	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Afnan/Supremacy-Gold-27351.html	afnan/unisex/supremacy-gold.png
 Afnan	Supremacy In Heaven	Eau de Parfum	male	https://www.fragrantica.com/perfume/Afnan/Supremacy-In-Heaven-70703.html	afnan/male/supremacy-in-heaven.png
 Afnan	Supremacy in Oud		unisex	https://www.fragrantica.com/perfume/Afnan/Supremacy-in-Oud-68283.html	afnan/unisex/supremacy-in-oud.png
-Afnan	Supremacy Incense	Eau de Parfum	male	https://www.fragrantica.com/perfume/Afnan/Supremacy-Incense-64372.html	
+Afnan	Supremacy Incense	Eau de Parfum	male	https://www.fragrantica.com/perfume/Afnan/Supremacy-Incense-64372.html	afnan/male/supremacy-incense.png
 Afnan	Supremacy Noir		unisex	https://www.fragrantica.com/perfume/Afnan/Supremacy-Noir-40683.html	afnan/unisex/supremacy-noir.png
 Afnan	Supremacy Not Only Intense	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Afnan/Supremacy-Not-Only-Intense-68271.html	afnan/male/supremacy-not-only-intense.png
 Afnan	Supremacy Pink	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/Supremacy-Pink-70705.html	afnan/female/supremacy-pink.png
@@ -3193,7 +3193,7 @@ Afnan	Turathi Brown		male	https://www.fragrantica.com/perfume/Afnan/Turathi-Brow
 Afnan	Turathi Electric	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Afnan/Turathi-Electric-108244.html	
 Afnan	Turathi Purple		female	https://www.fragrantica.com/perfume/Afnan/Turathi-Purple-84402.html	afnan/female/turathi-purple.png
 Afnan	Turathi Red		female	https://www.fragrantica.com/perfume/Afnan/Turathi-Red-84404.html	
-Afnan	Violet Bouquet	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/Violet-Bouquet-70461.html	
+Afnan	Violet Bouquet	Eau de Parfum	female	https://www.fragrantica.com/perfume/Afnan/Violet-Bouquet-70461.html	afnan/female/violet-bouquet.png
 Afnan	Zabarjad		unisex	https://www.fragrantica.com/perfume/Afnan/Zabarjad-72318.html	afnan/unisex/zabarjad.png
 Afnan	Zahrat Al Oud		unisex	https://www.fragrantica.com/perfume/Afnan/Zahrat-Al-Oud-72322.html	afnan/unisex/zahrat-al-oud.png
 Afnan	Zimaya Wujood	Eau de Parfum	male	https://www.fragrantica.com/perfume/Afnan/Zimaya-Wujood-90227.html	afnan/male/zimaya-wujood.png
@@ -3358,7 +3358,7 @@ Agatha Ruiz de la Prada	Gotas de Color		female	https://www.fragrantica.com/perfu
 Agatha Ruiz de la Prada	Gotas de Color Citric Yellow		female	https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/Gotas-de-Color-Citric-Yellow-62844.html	agatha-ruiz-de-la-prada/female/gotas-de-color-citric-yellow.png
 Agatha Ruiz de la Prada	Gotas de Color Entre Líneas		female	https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/Gotas-de-Color-Entre-Lineas-98912.html	agatha-ruiz-de-la-prada/female/gotas-de-color-entre-lineas.png
 Agatha Ruiz de la Prada	Gotas de Color Gourmand Pink		female	https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/Gotas-de-Color-Gourmand-Pink-62842.html	agatha-ruiz-de-la-prada/female/gotas-de-color-gourmand-pink.png
-Agatha Ruiz de la Prada	Gotas de Color Happy Collector		female	https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/Gotas-de-Color-Happy-Collector-49115.html	
+Agatha Ruiz de la Prada	Gotas de Color Happy Collector		female	https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/Gotas-de-Color-Happy-Collector-49115.html	agatha-ruiz-de-la-prada/female/gotas-de-color-happy-collector.png
 Agatha Ruiz de la Prada	Gotas de Color Happy Faces		female	https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/Gotas-de-Color-Happy-Faces-98914.html	agatha-ruiz-de-la-prada/female/gotas-de-color-happy-faces.png
 Agatha Ruiz de la Prada	Gotas de Color Happy Smile		female	https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/Gotas-de-Color-Happy-Smile-49114.html	agatha-ruiz-de-la-prada/female/gotas-de-color-happy-smile.png
 Agatha Ruiz de la Prada	Gotas de Color Made With Love		female	https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/Gotas-de-Color-Made-With-Love-98913.html	agatha-ruiz-de-la-prada/female/gotas-de-color-made-with-love.png
@@ -3519,14 +3519,14 @@ Ahjaar	Regent Star		unisex	https://www.fragrantica.com/perfume/Ahjaar/Regent-Sta
 Ahjaar	Royal Sapphire		unisex	https://www.fragrantica.com/perfume/Ahjaar/Royal-Sapphire-26309.html	ahjaar/unisex/royal-sapphire.png
 Ahjaar	Vintage Rose		unisex	https://www.fragrantica.com/perfume/Ahjaar/Vintage-Rose-26302.html	ahjaar/unisex/vintage-rose.png
 Ahlea	Cuban Mango		unisex	https://www.fragrantica.com/perfume/Ahlea/Cuban-Mango-102697.html	ahlea/unisex/cuban-mango.png
-Ahmed Al Maghribi	2000 - The Roots		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/2000-The-Roots-127390.html	
+Ahmed Al Maghribi	2000 - The Roots		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/2000-The-Roots-127390.html	ahmed-al-maghribi/unisex/2000-the-roots.png
 Ahmed Al Maghribi	2025 The Alchemy Lab		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/2025-The-Alchemy-Lab-127389.html	ahmed-al-maghribi/unisex/2025-the-alchemy-lab.png
 Ahmed Al Maghribi	2050 - The Beyond		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/2050-The-Beyond-127388.html	
 Ahmed Al Maghribi	Aayah	Extrait de Parfum	female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Aayah-115739.html	
 Ahmed Al Maghribi	Abaan	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Abaan-71785.html	ahmed-al-maghribi/unisex/abaan.png
 Ahmed Al Maghribi	Ahl	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Ahl-115744.html	
 Ahmed Al Maghribi	Al Shaikha Hind	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Al-Shaikha-Hind-66617.html	
-Ahmed Al Maghribi	Aqua Oud	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Aqua-Oud-111001.html	
+Ahmed Al Maghribi	Aqua Oud	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Aqua-Oud-111001.html	ahmed-al-maghribi/unisex/aqua-oud.png
 Ahmed Al Maghribi	Arwa	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Arwa-142803.html	
 Ahmed Al Maghribi	Awfa	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Awfa-76282.html	ahmed-al-maghribi/unisex/awfa.png
 Ahmed Al Maghribi	Azure Royal	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Azure-Royal-104215.html	ahmed-al-maghribi/unisex/azure-royal.png
@@ -3536,11 +3536,11 @@ Ahmed Al Maghribi	Bin Ameer		unisex	https://www.fragrantica.com/perfume/Ahmed-Al
 Ahmed Al Maghribi	Bin Shaikh	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Bin-Shaikh-66619.html	
 Ahmed Al Maghribi	Bloom Spectrum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Bloom-Spectrum-136924.html	ahmed-al-maghribi/unisex/bloom-spectrum.png
 Ahmed Al Maghribi	Blu Oud		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Blu-Oud-107869.html	ahmed-al-maghribi/unisex/blu-oud.png
-Ahmed Al Maghribi	Blue by Ahmed	Eau de Parfum	male	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Blue-by-Ahmed-104882.html	
+Ahmed Al Maghribi	Blue by Ahmed	Eau de Parfum	male	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Blue-by-Ahmed-104882.html	ahmed-al-maghribi/male/blue-by-ahmed.png
 Ahmed Al Maghribi	Blush Noir	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Blush-Noir-125252.html	ahmed-al-maghribi/unisex/blush-noir.png
 Ahmed Al Maghribi	Brûlée	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Brulee-112321.html	ahmed-al-maghribi/unisex/brulee.png
 Ahmed Al Maghribi	Camelia Garden		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Camelia-Garden-76284.html	ahmed-al-maghribi/unisex/camelia-garden.png
-Ahmed Al Maghribi	Chill Spectrum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Chill-Spectrum-130638.html	
+Ahmed Al Maghribi	Chill Spectrum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Chill-Spectrum-130638.html	ahmed-al-maghribi/unisex/chill-spectrum.png
 Ahmed Al Maghribi	Cinder	Eau de Parfum	male	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Cinder-118233.html	
 Ahmed Al Maghribi	Coco Blend	Eau de Parfum	female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Coco-Blend-136749.html	ahmed-al-maghribi/female/coco-blend.png
 Ahmed Al Maghribi	Dehn Al Oud Qadeem	Eau de Parfum	male	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Dehn-Al-Oud-Qadeem-115742.html	
@@ -3556,7 +3556,7 @@ Ahmed Al Maghribi	Hayana		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Ma
 Ahmed Al Maghribi	Hirfah	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Hirfah-124761.html	
 Ahmed Al Maghribi	Ighra'a	Eau de Parfum	male	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Ighra-a-104889.html	ahmed-al-maghribi/male/ighra-a.png
 Ahmed Al Maghribi	Ighraa	Eau de Parfum	male	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Ighraa-118232.html	ahmed-al-maghribi/male/ighraa.png
-Ahmed Al Maghribi	Ignite Oud	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Ignite-Oud-99960.html	
+Ahmed Al Maghribi	Ignite Oud	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Ignite-Oud-99960.html	ahmed-al-maghribi/unisex/ignite-oud.png
 Ahmed Al Maghribi	Ignite Rose	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Ignite-Rose-127393.html	ahmed-al-maghribi/unisex/ignite-rose.png
 Ahmed Al Maghribi	Instance		female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Instance-139680.html	
 Ahmed Al Maghribi	Is It Me	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Is-It-Me-139524.html	ahmed-al-maghribi/unisex/is-it-me.png
@@ -3577,23 +3577,23 @@ Ahmed Al Maghribi	Moonlit	Eau de Parfum	female	https://www.fragrantica.com/perfu
 Ahmed Al Maghribi	Musk & Leather	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Musk-Leather-104180.html	ahmed-al-maghribi/unisex/musk-leather.png
 Ahmed Al Maghribi	Musk & Roses	Eau de Parfum	female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Musk-Roses-118231.html	ahmed-al-maghribi/female/musk-roses.png
 Ahmed Al Maghribi	Musk Kashmiri	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Musk-Kashmiri-136746.html	ahmed-al-maghribi/unisex/musk-kashmiri.png
-Ahmed Al Maghribi	Muzn		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Muzn-115736.html	
+Ahmed Al Maghribi	Muzn		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Muzn-115736.html	ahmed-al-maghribi/unisex/muzn.png
 Ahmed Al Maghribi	Nihlah	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Nihlah-127386.html	ahmed-al-maghribi/unisex/nihlah.png
 Ahmed Al Maghribi	Niswah	Eau de Parfum	female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Niswah-116332.html	ahmed-al-maghribi/female/niswah.png
 Ahmed Al Maghribi	O'Clock		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/O-Clock-139525.html	ahmed-al-maghribi/unisex/o-clock.png
 Ahmed Al Maghribi	Oud & Roses	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-Roses-66616.html	
 Ahmed Al Maghribi	Oud Afghano	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-Afghano-77039.html	ahmed-al-maghribi/unisex/oud-afghano.png
-Ahmed Al Maghribi	Oud Classic	Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-Classic-66620.html	
-Ahmed Al Maghribi	Oud Couture	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-Couture-104217.html	
+Ahmed Al Maghribi	Oud Classic	Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-Classic-66620.html	ahmed-al-maghribi/unisex/oud-classic.png
+Ahmed Al Maghribi	Oud Couture	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-Couture-104217.html	ahmed-al-maghribi/unisex/oud-couture.png
 Ahmed Al Maghribi	Oud Crush		female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-Crush-77046.html	ahmed-al-maghribi/female/oud-crush.png
 Ahmed Al Maghribi	Oud Lavender		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-Lavender-66618.html	
 Ahmed Al Maghribi	Oud Moza		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-Moza-115738.html	ahmed-al-maghribi/unisex/oud-moza.png
 Ahmed Al Maghribi	Oulil Amr	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oulil-Amr-115743.html	ahmed-al-maghribi/unisex/oulil-amr.png
 Ahmed Al Maghribi	Patchouli	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Patchouli-139672.html	ahmed-al-maghribi/unisex/patchouli.png
-Ahmed Al Maghribi	Peachy Peach	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Peachy-Peach-115581.html	
+Ahmed Al Maghribi	Peachy Peach	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Peachy-Peach-115581.html	ahmed-al-maghribi/unisex/peachy-peach.png
 Ahmed Al Maghribi	Pearl Oud		female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Pearl-Oud-77041.html	ahmed-al-maghribi/female/pearl-oud.png
 Ahmed Al Maghribi	Prometheus	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Prometheus-127391.html	ahmed-al-maghribi/unisex/prometheus.png
-Ahmed Al Maghribi	Rawdha	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Rawdha-115734.html	
+Ahmed Al Maghribi	Rawdha	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Rawdha-115734.html	ahmed-al-maghribi/unisex/rawdha.png
 Ahmed Al Maghribi	Rhea	Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Rhea-127387.html	ahmed-al-maghribi/unisex/rhea.png
 Ahmed Al Maghribi	Rose Noir		female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Rose-Noir-77031.html	ahmed-al-maghribi/female/rose-noir.png
 Ahmed Al Maghribi	Royal Cherry	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Royal-Cherry-104886.html	ahmed-al-maghribi/unisex/royal-cherry.png
@@ -3608,7 +3608,7 @@ Ahmed Al Maghribi	Summer Oud	Eau de Parfum	unisex	https://www.fragrantica.com/pe
 Ahmed Al Maghribi	Thaqaf		unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Thaqaf-115740.html	ahmed-al-maghribi/unisex/thaqaf.png
 Ahmed Al Maghribi	Tiff Tiff		female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Tiff-Tiff-104340.html	ahmed-al-maghribi/female/tiff-tiff.png
 Ahmed Al Maghribi	Touch Oud	Eau de Parfum	female	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Touch-Oud-77045.html	ahmed-al-maghribi/female/touch-oud.png
-Ahmed Al Maghribi	White Tiger	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/White-Tiger-104341.html	
+Ahmed Al Maghribi	White Tiger	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/White-Tiger-104341.html	ahmed-al-maghribi/unisex/white-tiger.png
 Ahmed Al Maghribi	Xtasy	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Xtasy-143694.html	
 Ahmed Al Maghribi	Zeleny	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Zeleny-104216.html	ahmed-al-maghribi/unisex/zeleny.png
 Ahmed Mahsoub KARIZMA	African jungle		unisex	https://www.fragrantica.com/perfume/Ahmed-Mahsoub-KARIZMA/African-jungle-97834.html	
@@ -3946,7 +3946,7 @@ Ajmal	Amber Wood Noir		unisex	https://www.fragrantica.com/perfume/Ajmal/Amber-Wo
 Ajmal	Amber Zest		unisex	https://www.fragrantica.com/perfume/Ajmal/Amber-Zest-99267.html	ajmal/unisex/amber-zest.png
 Ajmal	Ambre Fruite		unisex	https://www.fragrantica.com/perfume/Ajmal/Ambre-Fruite-18134.html	ajmal/unisex/ambre-fruite.png
 Ajmal	Ambre Lumiere		unisex	https://www.fragrantica.com/perfume/Ajmal/Ambre-Lumiere-129570.html	
-Ajmal	Ambre Pimente		unisex	https://www.fragrantica.com/perfume/Ajmal/Ambre-Pimente-18136.html	
+Ajmal	Ambre Pimente		unisex	https://www.fragrantica.com/perfume/Ajmal/Ambre-Pimente-18136.html	ajmal/unisex/ambre-pimente.png
 Ajmal	Amir One		unisex	https://www.fragrantica.com/perfume/Ajmal/Amir-One-70209.html	ajmal/unisex/amir-one.png
 Ajmal	Amir Two		unisex	https://www.fragrantica.com/perfume/Ajmal/Amir-Two-77145.html	
 Ajmal	Aqamaar		female	https://www.fragrantica.com/perfume/Ajmal/Aqamaar-32511.html	ajmal/female/aqamaar.png
@@ -4032,7 +4032,7 @@ Ajmal	Dawn	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Ajmal/Dawn-7
 Ajmal	Distraction		female	https://www.fragrantica.com/perfume/Ajmal/Distraction-15070.html	ajmal/female/distraction.png
 Ajmal	Eau d'Oud		unisex	https://www.fragrantica.com/perfume/Ajmal/Eau-d-Oud-102542.html	ajmal/unisex/eau-d-oud.png
 Ajmal	Elixir Intense		unisex	https://www.fragrantica.com/perfume/Ajmal/Elixir-Intense-75044.html	
-Ajmal	Elixir Precious		unisex	https://www.fragrantica.com/perfume/Ajmal/Elixir-Precious-75043.html	
+Ajmal	Elixir Precious		unisex	https://www.fragrantica.com/perfume/Ajmal/Elixir-Precious-75043.html	ajmal/unisex/elixir-precious.png
 Ajmal	Elixir Suave		unisex	https://www.fragrantica.com/perfume/Ajmal/Elixir-Suave-75042.html	
 Ajmal	Encore		unisex	https://www.fragrantica.com/perfume/Ajmal/Encore-39346.html	ajmal/unisex/encore.png
 Ajmal	Enigma For Her		female	https://www.fragrantica.com/perfume/Ajmal/Enigma-For-Her-15112.html	
@@ -7819,7 +7819,7 @@ Amber Oud	Noble oak		unisex	https://www.fragrantica.com/perfume/Amber-Oud/Noble-
 Amber Oud	Onyx		unisex	https://www.fragrantica.com/perfume/Amber-Oud/Onyx-73037.html	amber-oud/unisex/onyx.png
 Amber Oud	OUD LIMITED		unisex	https://www.fragrantica.com/perfume/Amber-Oud/OUD-LIMITED-73033.html	amber-oud/unisex/oud-limited.png
 Amber Oud	Oud Yard Eau De Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Amber-Oud/Oud-Yard-Eau-De-Parfum-73028.html	
-Amber Oud	Sillage		unisex	https://www.fragrantica.com/perfume/Amber-Oud/Sillage-73029.html	
+Amber Oud	Sillage		unisex	https://www.fragrantica.com/perfume/Amber-Oud/Sillage-73029.html	amber-oud/unisex/sillage.png
 Amber Oud	Snow Musk		unisex	https://www.fragrantica.com/perfume/Amber-Oud/Snow-Musk-73034.html	amber-oud/unisex/snow-musk.png
 Amber Oud	Soul		unisex	https://www.fragrantica.com/perfume/Amber-Oud/Soul-73035.html	
 Amber Oud	Spice Touch		unisex	https://www.fragrantica.com/perfume/Amber-Oud/Spice-Touch-73031.html	
@@ -7877,7 +7877,7 @@ Amberfig	Vetivert		unisex	https://www.fragrantica.com/perfume/Amberfig/Vetivert-
 Amberfig	Vive La Fête		unisex	https://www.fragrantica.com/perfume/Amberfig/Vive-La-Fete-52398.html	amberfig/unisex/vive-la-fete.png
 Amberfig	Yasamin		unisex	https://www.fragrantica.com/perfume/Amberfig/Yasamin-30472.html	amberfig/unisex/yasamin.png
 Amberfig	Zest Pétillant		unisex	https://www.fragrantica.com/perfume/Amberfig/Zest-Petillant-135998.html	
-Ambregris	Ambre et Diamant Noir		unisex	https://www.fragrantica.com/perfume/Ambregris/Ambre-et-Diamant-Noir-24299.html	
+Ambregris	Ambre et Diamant Noir		unisex	https://www.fragrantica.com/perfume/Ambregris/Ambre-et-Diamant-Noir-24299.html	ambregris/unisex/ambre-et-diamant-noir.png
 AMD Perfumes	ABYSSAL GLARE		male	https://www.fragrantica.com/perfume/AMD-Perfumes/ABYSSAL-GLARE-103175.html	amd-perfumes/male/abyssal-glare.png
 AMD Perfumes	Affair		female	https://www.fragrantica.com/perfume/AMD-Perfumes/Affair-136786.html	amd-perfumes/female/affair.png
 AMD Perfumes	Affaire Privee		unisex	https://www.fragrantica.com/perfume/AMD-Perfumes/Affaire-Privee-123415.html	amd-perfumes/unisex/affaire-privee.png
@@ -8334,7 +8334,7 @@ AMORINO	I'm Yours		unisex	https://www.fragrantica.com/perfume/AMORINO/I-m-Yours-
 AMORINO	More Than Love		unisex	https://www.fragrantica.com/perfume/AMORINO/More-Than-Love-89956.html	amorino/unisex/more-than-love.png
 AMORINO	Never Forget		unisex	https://www.fragrantica.com/perfume/AMORINO/Never-Forget-89955.html	amorino/unisex/never-forget.png
 AMORINO	Private Musk		unisex	https://www.fragrantica.com/perfume/AMORINO/Private-Musk-89924.html	
-AMORINO	Royal Night		unisex	https://www.fragrantica.com/perfume/AMORINO/Royal-Night-89925.html	
+AMORINO	Royal Night		unisex	https://www.fragrantica.com/perfume/AMORINO/Royal-Night-89925.html	amorino/unisex/royal-night.png
 AMORINO	Touch Me		unisex	https://www.fragrantica.com/perfume/AMORINO/Touch-Me-89952.html	amorino/unisex/touch-me.png
 Amoris Perfumes	Cupid		unisex	https://www.fragrantica.com/perfume/Amoris-Perfumes/Cupid-133484.html	
 Amoris Perfumes	Harley Quinn		female	https://www.fragrantica.com/perfume/Amoris-Perfumes/Harley-Quinn-131133.html	
@@ -8509,7 +8509,7 @@ Amouroud	Carissa Flower		unisex	https://www.fragrantica.com/perfume/Amouroud/Car
 Amouroud	Dark Orchid		unisex	https://www.fragrantica.com/perfume/Amouroud/Dark-Orchid-32584.html	amouroud/unisex/dark-orchid.png
 Amouroud	Enchanted Garden		unisex	https://www.fragrantica.com/perfume/Amouroud/Enchanted-Garden-120772.html	amouroud/unisex/enchanted-garden.png
 Amouroud	Golden Oud		unisex	https://www.fragrantica.com/perfume/Amouroud/Golden-Oud-57946.html	amouroud/unisex/golden-oud.png
-Amouroud	Himalayan Woods		unisex	https://www.fragrantica.com/perfume/Amouroud/Himalayan-Woods-120774.html	
+Amouroud	Himalayan Woods		unisex	https://www.fragrantica.com/perfume/Amouroud/Himalayan-Woods-120774.html	amouroud/unisex/himalayan-woods.png
 Amouroud	La Rose Noire		unisex	https://www.fragrantica.com/perfume/Amouroud/La-Rose-Noire-81417.html	amouroud/unisex/la-rose-noire.png
 Amouroud	Licorice Woods		unisex	https://www.fragrantica.com/perfume/Amouroud/Licorice-Woods-77892.html	amouroud/unisex/licorice-woods.png
 Amouroud	Lunar Vetiver		unisex	https://www.fragrantica.com/perfume/Amouroud/Lunar-Vetiver-49492.html	amouroud/unisex/lunar-vetiver.png
@@ -8583,7 +8583,7 @@ Amway	Nelsha		female	https://www.fragrantica.com/perfume/Amway/Nelsha-39548.html
 Amway	Opportune		male	https://www.fragrantica.com/perfume/Amway/Opportune-8919.html	amway/male/opportune.png
 Amway	Opportune		female	https://www.fragrantica.com/perfume/Amway/Opportune-8912.html	amway/female/opportune.png
 Amway	Opportune No1		male	https://www.fragrantica.com/perfume/Amway/Opportune-No1-17366.html	
-Amway	Opportune Sport		male	https://www.fragrantica.com/perfume/Amway/Opportune-Sport-8920.html	
+Amway	Opportune Sport		male	https://www.fragrantica.com/perfume/Amway/Opportune-Sport-8920.html	amway/male/opportune-sport.png
 Amway	Promise for Her		female	https://www.fragrantica.com/perfume/Amway/Promise-for-Her-39546.html	amway/female/promise-for-her.png
 Amway	Quixotic		female	https://www.fragrantica.com/perfume/Amway/Quixotic-8914.html	
 Amway	Quixotic		male	https://www.fragrantica.com/perfume/Amway/Quixotic-8915.html	
@@ -10329,7 +10329,7 @@ Anuja	Île Aux Fleurs		unisex	https://www.fragrantica.com/perfume/Anuja/Ile-Aux-
 Anya's Garden	Amberess		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Amberess-10996.html	
 Anya's Garden	Enticing		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Enticing-31279.html	
 Anya's Garden	Fairchild		female	https://www.fragrantica.com/perfume/Anya-s-Garden/Fairchild-6950.html	
-Anya's Garden	Kaffir		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Kaffir-6951.html	
+Anya's Garden	Kaffir		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Kaffir-6951.html	anya-s-garden/unisex/kaffir.png
 Anya's Garden	Kewdra		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Kewdra-10997.html	
 Anya's Garden	Light		unisex	https://www.fragrantica.com/perfume/Anya-s-Garden/Light-10995.html	
 Anya's Garden	Moon Dance		female	https://www.fragrantica.com/perfume/Anya-s-Garden/Moon-Dance-6952.html	
