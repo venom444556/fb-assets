@@ -287,7 +287,7 @@ house	fragrance	concentration	gender	fragrantica_url	image_path
 1667	Smoked Wood		unisex	https://www.fragrantica.com/perfume/1667/Smoked-Wood-67733.html	1667/unisex/smoked-wood.png
 18.21 Man Made	Absolute Mahogany Spirits		male	https://www.fragrantica.com/perfume/18-21-Man-Made/Absolute-Mahogany-Spirits-132924.html	18-21-man-made/male/absolute-mahogany-spirits.png
 18.21 Man Made	Noble Oud		male	https://www.fragrantica.com/perfume/18-21-Man-Made/Noble-Oud-132926.html	18-21-man-made/male/noble-oud.png
-18.21 Man Made	Sweet Tobacco Spirits		unisex	https://www.fragrantica.com/perfume/18-21-Man-Made/Sweet-Tobacco-Spirits-37691.html	
+18.21 Man Made	Sweet Tobacco Spirits		unisex	https://www.fragrantica.com/perfume/18-21-Man-Made/Sweet-Tobacco-Spirits-37691.html	18-21-man-made/unisex/sweet-tobacco-spirits.png
 19-69	American Psycho		unisex	https://www.fragrantica.com/perfume/19-69/American-Psycho-105780.html	19-69/unisex/american-psycho.png
 19-69	Atlântico		unisex	https://www.fragrantica.com/perfume/19-69/Atlantico-105779.html	19-69/unisex/atlantico.png
 19-69	Burning Palm		unisex	https://www.fragrantica.com/perfume/19-69/Burning-Palm-69257.html	19-69/unisex/burning-palm.png
@@ -1594,12 +1594,12 @@ Accendis	Nooria		female	https://www.fragrantica.com/perfume/Accendis/Nooria-6725
 Accendis	Sera		unisex	https://www.fragrantica.com/perfume/Accendis/Sera-74751.html	accendis/unisex/sera.png
 Accendis	Solevivo		unisex	https://www.fragrantica.com/perfume/Accendis/Solevivo-134060.html	accendis/unisex/solevivo.png
 Accessorize	A Scent		female	https://www.fragrantica.com/perfume/Accessorize/A-Scent-40294.html	
-Accessorize	Accessorize		female	https://www.fragrantica.com/perfume/Accessorize/Accessorize-8709.html	
+Accessorize	Accessorize		female	https://www.fragrantica.com/perfume/Accessorize/Accessorize-8709.html	accessorize/female/accessorize.png
 Accessorize	Bliss		female	https://www.fragrantica.com/perfume/Accessorize/Bliss-40311.html	
 Accessorize	Charm		female	https://www.fragrantica.com/perfume/Accessorize/Charm-40315.html	
 Accessorize	Enchanted		female	https://www.fragrantica.com/perfume/Accessorize/Enchanted-15325.html	
 Accessorize	Joy		female	https://www.fragrantica.com/perfume/Accessorize/Joy-40316.html	
-Accessorize	Love		female	https://www.fragrantica.com/perfume/Accessorize/Love-40317.html	
+Accessorize	Love		female	https://www.fragrantica.com/perfume/Accessorize/Love-40317.html	accessorize/female/love.png
 Accessorize	Lovelily		female	https://www.fragrantica.com/perfume/Accessorize/Lovelily-42248.html	accessorize/female/lovelily.png
 Accessorize	Passion		female	https://www.fragrantica.com/perfume/Accessorize/Passion-40318.html	
 Accessorize	Promise		female	https://www.fragrantica.com/perfume/Accessorize/Promise-40319.html	
@@ -1737,7 +1737,7 @@ Acorelle	Velvet Rose		female	https://www.fragrantica.com/perfume/Acorelle/Velvet
 Acorelle	Verveine Agrumes		female	https://www.fragrantica.com/perfume/Acorelle/Verveine-Agrumes-8464.html	
 Acqua ai Fiori di Spello	Balconi Fioriti		unisex	https://www.fragrantica.com/perfume/Acqua-ai-Fiori-di-Spello/Balconi-Fioriti-76863.html	acqua-ai-fiori-di-spello/unisex/balconi-fioriti.png
 Acqua ai Fiori di Spello	Fioritura		unisex	https://www.fragrantica.com/perfume/Acqua-ai-Fiori-di-Spello/Fioritura-58888.html	acqua-ai-fiori-di-spello/unisex/fioritura.png
-Acqua ai Fiori di Spello	Infiorata		unisex	https://www.fragrantica.com/perfume/Acqua-ai-Fiori-di-Spello/Infiorata-58889.html	
+Acqua ai Fiori di Spello	Infiorata		unisex	https://www.fragrantica.com/perfume/Acqua-ai-Fiori-di-Spello/Infiorata-58889.html	acqua-ai-fiori-di-spello/unisex/infiorata.png
 Acqua ai Fiori di Spello	Raccolta	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-ai-Fiori-di-Spello/Raccolta-58890.html	
 Acqua Alpes	2221		unisex	https://www.fragrantica.com/perfume/Acqua-Alpes/2221-67929.html	acqua-alpes/unisex/2221.png
 Acqua Alpes	2334	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Acqua-Alpes/2334-45483.html	acqua-alpes/unisex/2334.png
@@ -2291,10 +2291,10 @@ Adirondack Fragrance	Vanilla & Balsam		unisex	https://www.fragrantica.com/perfum
 Adirondack Fragrance	White Pine Forest		unisex	https://www.fragrantica.com/perfume/Adirondack-Fragrance/White-Pine-Forest-126347.html	adirondack-fragrance/unisex/white-pine-forest.png
 Adirondack Fragrance	Wild Rose		unisex	https://www.fragrantica.com/perfume/Adirondack-Fragrance/Wild-Rose-126343.html	adirondack-fragrance/unisex/wild-rose.png
 Adjiumi	Cubo Libre		unisex	https://www.fragrantica.com/perfume/Adjiumi/Cubo-Libre-101650.html	adjiumi/unisex/cubo-libre.png
-Adjiumi	Dolce Q.B.		unisex	https://www.fragrantica.com/perfume/Adjiumi/Dolce-Q-B-63636.html	
+Adjiumi	Dolce Q.B.		unisex	https://www.fragrantica.com/perfume/Adjiumi/Dolce-Q-B-63636.html	adjiumi/unisex/dolce-q-b.png
 Adjiumi	Elevato Al Cubo		unisex	https://www.fragrantica.com/perfume/Adjiumi/Elevato-Al-Cubo-70625.html	adjiumi/unisex/elevato-al-cubo.png
-Adjiumi	Incubo		unisex	https://www.fragrantica.com/perfume/Adjiumi/Incubo-76747.html	
-Adjiumi	Vaniglia 18		unisex	https://www.fragrantica.com/perfume/Adjiumi/Vaniglia-18-90742.html	
+Adjiumi	Incubo		unisex	https://www.fragrantica.com/perfume/Adjiumi/Incubo-76747.html	adjiumi/unisex/incubo.png
+Adjiumi	Vaniglia 18		unisex	https://www.fragrantica.com/perfume/Adjiumi/Vaniglia-18-90742.html	adjiumi/unisex/vaniglia-18.png
 Adleen Haute Parfumerie	Adalusite		unisex	https://www.fragrantica.com/perfume/Adleen-Haute-Parfumerie/Adalusite-96601.html	adleen-haute-parfumerie/unisex/adalusite.png
 Adleen Haute Parfumerie	Alexandrite		unisex	https://www.fragrantica.com/perfume/Adleen-Haute-Parfumerie/Alexandrite-90510.html	adleen-haute-parfumerie/unisex/alexandrite.png
 Adleen Haute Parfumerie	Amaira		unisex	https://www.fragrantica.com/perfume/Adleen-Haute-Parfumerie/Amaira-129926.html	adleen-haute-parfumerie/unisex/amaira.png
@@ -3011,14 +3011,14 @@ Aether	Ultrae		unisex	https://www.fragrantica.com/perfume/Aether/Ultrae-49301.ht
 Aether	Xtraem		unisex	https://www.fragrantica.com/perfume/Aether/Xtraem-49296.html	aether/unisex/xtraem.png
 Aether Arts Perfume	Aether Argent		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Aether-Argent-25086.html	
 Aether Arts Perfume	Burner Perfume No 1: Black Rock City		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-1-Black-Rock-City-40102.html	
-Aether Arts Perfume	Burner Perfume No 2: A Roll in the Grass		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-2-A-Roll-in-the-Grass-25084.html	
-Aether Arts Perfume	Burner Perfume No 3: Inuus		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-3-Inuus-25085.html	
-Aether Arts Perfume	Burner Perfume No 4: John Frum		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-4-John-Frum-25083.html	
+Aether Arts Perfume	Burner Perfume No 2: A Roll in the Grass		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-2-A-Roll-in-the-Grass-25084.html	aether-arts-perfume/unisex/burner-perfume-no-2-a-roll-in-the-grass.png
+Aether Arts Perfume	Burner Perfume No 3: Inuus		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-3-Inuus-25085.html	aether-arts-perfume/unisex/burner-perfume-no-3-inuus.png
+Aether Arts Perfume	Burner Perfume No 4: John Frum		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-4-John-Frum-25083.html	aether-arts-perfume/unisex/burner-perfume-no-4-john-frum.png
 Aether Arts Perfume	Burner Perfume No 5: Incense Indica		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-5-Incense-Indica-40098.html	
 Aether Arts Perfume	Burner Perfume No 6: Reflection		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-6-Reflection-40103.html	
 Aether Arts Perfume	Burner Perfume No 7: Red Dodecahedron		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Burner-Perfume-No-7-Red-Dodecahedron-43246.html	
 Aether Arts Perfume	Electrum		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Electrum-25088.html	
-Aether Arts Perfume	Ginger Rose		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Ginger-Rose-25089.html	
+Aether Arts Perfume	Ginger Rose		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Ginger-Rose-25089.html	aether-arts-perfume/unisex/ginger-rose.png
 Aether Arts Perfume	Holy Hemp		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Holy-Hemp-40099.html	
 Aether Arts Perfume	Love for 3 Oranges		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Love-for-3-Oranges-40101.html	
 Aether Arts Perfume	Magic Mushroom		unisex	https://www.fragrantica.com/perfume/Aether-Arts-Perfume/Magic-Mushroom-40100.html	aether-arts-perfume/unisex/magic-mushroom.png
@@ -3694,7 +3694,7 @@ AHRES	The Sea Of Trees		unisex	https://www.fragrantica.com/perfume/AHRES/The-Sea
 AHRES	Tokyo Sakigake AKATSUKI		unisex	https://www.fragrantica.com/perfume/AHRES/Tokyo-Sakigake-AKATSUKI-91263.html	ahres/unisex/tokyo-sakigake-akatsuki.png
 AHRES	Tokyo Sakigake YOI		unisex	https://www.fragrantica.com/perfume/AHRES/Tokyo-Sakigake-YOI-91253.html	ahres/unisex/tokyo-sakigake-yoi.png
 AHRES	Zero		unisex	https://www.fragrantica.com/perfume/AHRES/Zero-91260.html	ahres/unisex/zero.png
-Ahro	Cheery Freesia		unisex	https://www.fragrantica.com/perfume/Ahro/Cheery-Freesia-95502.html	
+Ahro	Cheery Freesia		unisex	https://www.fragrantica.com/perfume/Ahro/Cheery-Freesia-95502.html	ahro/unisex/cheery-freesia.png
 Ahro	Iris Soap		unisex	https://www.fragrantica.com/perfume/Ahro/Iris-Soap-95501.html	ahro/unisex/iris-soap.png
 Ahro	Tangerine Sunshine		unisex	https://www.fragrantica.com/perfume/Ahro/Tangerine-Sunshine-95500.html	ahro/unisex/tangerine-sunshine.png
 Ahuja	Ahuja Pour Femme		female	https://www.fragrantica.com/perfume/Ahuja/Ahuja-Pour-Femme-86247.html	ahuja/female/ahuja-pour-femme.png
@@ -6029,7 +6029,7 @@ Aldakheel Oud	Storm Blu Wood		unisex	https://www.fragrantica.com/perfume/Aldakhe
 Aldakheel Oud	Storm Crazy Mix		unisex	https://www.fragrantica.com/perfume/Aldakheel-Oud/Storm-Crazy-Mix-77148.html	aldakheel-oud/unisex/storm-crazy-mix.png
 ALDO	A is for ALDO Blue		female	https://www.fragrantica.com/perfume/ALDO/A-is-for-ALDO-Blue-14117.html	
 ALDO	A is for ALDO Red		female	https://www.fragrantica.com/perfume/ALDO/A-is-for-ALDO-Red-14114.html	
-ALDO	A is for ALDO Red		male	https://www.fragrantica.com/perfume/ALDO/A-is-for-ALDO-Red-14118.html	
+ALDO	A is for ALDO Red		male	https://www.fragrantica.com/perfume/ALDO/A-is-for-ALDO-Red-14118.html	aldo/male/a-is-for-aldo-red.png
 ALDO	A is for ALDO Yellow		female	https://www.fragrantica.com/perfume/ALDO/A-is-for-ALDO-Yellow-14115.html	aldo/female/a-is-for-aldo-yellow.png
 ALDO	A is for ALDO Yellow		male	https://www.fragrantica.com/perfume/ALDO/A-is-for-ALDO-Yellow-14120.html	aldo/male/a-is-for-aldo-yellow.png
 Alejandro Sanz	Mi Acorde Ella		female	https://www.fragrantica.com/perfume/Alejandro-Sanz/Mi-Acorde-Ella-57488.html	alejandro-sanz/female/mi-acorde-ella.png
@@ -6074,7 +6074,7 @@ Alesha Dixon	Amethyst		female	https://www.fragrantica.com/perfume/Alesha-Dixon/A
 Alessandro	Stiletto Perfume for Legs		female	https://www.fragrantica.com/perfume/Alessandro/Stiletto-Perfume-for-Legs-4578.html	alessandro/female/stiletto-perfume-for-legs.png
 Alessandro Dell' Acqua	Alessandro Dell' Acqua	Eau de Toilette	female	https://www.fragrantica.com/perfume/Alessandro-Dell-Acqua/Alessandro-Dell-Acqua-2358.html	alessandro-dell-acqua/female/alessandro-dell-acqua.png
 Alessandro Dell' Acqua	Alessandro Dell' Acqua Man	Eau de Toilette	male	https://www.fragrantica.com/perfume/Alessandro-Dell-Acqua/Alessandro-Dell-Acqua-Man-2359.html	alessandro-dell-acqua/male/alessandro-dell-acqua-man.png
-Alessandro Dell' Acqua	Woman In Rose		female	https://www.fragrantica.com/perfume/Alessandro-Dell-Acqua/Woman-In-Rose-2360.html	
+Alessandro Dell' Acqua	Woman In Rose		female	https://www.fragrantica.com/perfume/Alessandro-Dell-Acqua/Woman-In-Rose-2360.html	alessandro-dell-acqua/female/woman-in-rose.png
 Alessandro Della Torre	Alessandro Della Torre Alessandro Della Torre		female	https://www.fragrantica.com/perfume/Alessandro-Della-Torre/Alessandro-Della-Torre-4355.html	
 Alex Curran	Alex		female	https://www.fragrantica.com/perfume/Alex-Curran/Alex-5405.html	
 Alex Perfume	Citrodora		unisex	https://www.fragrantica.com/perfume/Alex-Perfume/Citrodora-88017.html	alex-perfume/unisex/citrodora.png
@@ -6110,10 +6110,10 @@ Alex+	Golpar+		unisex	https://www.fragrantica.com/perfume/Alex/Golpar-79020.html
 Alex+	Rum+		unisex	https://www.fragrantica.com/perfume/Alex/Rum-79019.html	
 Alex+	Salvia+		unisex	https://www.fragrantica.com/perfume/Alex/Salvia-79018.html	
 Alex+	Tabacco+		unisex	https://www.fragrantica.com/perfume/Alex/Tabacco-90216.html	
-Alexa Lixfeld	001		female	https://www.fragrantica.com/perfume/Alexa-Lixfeld/001-8013.html	
+Alexa Lixfeld	001		female	https://www.fragrantica.com/perfume/Alexa-Lixfeld/001-8013.html	alexa-lixfeld/female/001.png
 Alexa Lixfeld	002		male	https://www.fragrantica.com/perfume/Alexa-Lixfeld/002-8014.html	alexa-lixfeld/male/002.png
 Alexa Lixfeld	003		unisex	https://www.fragrantica.com/perfume/Alexa-Lixfeld/003-8015.html	alexa-lixfeld/unisex/003.png
-Alexa Lixfeld	004		female	https://www.fragrantica.com/perfume/Alexa-Lixfeld/004-10782.html	
+Alexa Lixfeld	004		female	https://www.fragrantica.com/perfume/Alexa-Lixfeld/004-10782.html	alexa-lixfeld/female/004.png
 Alexander	Astrakan		unisex	https://www.fragrantica.com/perfume/Alexander/Astrakan-79121.html	alexander/unisex/astrakan.png
 Alexander	Crown Jewel		unisex	https://www.fragrantica.com/perfume/Alexander/Crown-Jewel-79128.html	alexander/unisex/crown-jewel.png
 Alexander	Desire		unisex	https://www.fragrantica.com/perfume/Alexander/Desire-79129.html	alexander/unisex/desire.png
@@ -8532,27 +8532,27 @@ Amouroud	Wet Stone		unisex	https://www.fragrantica.com/perfume/Amouroud/Wet-Ston
 Amouroud	White Hinoki		unisex	https://www.fragrantica.com/perfume/Amouroud/White-Hinoki-49490.html	amouroud/unisex/white-hinoki.png
 Amouroud	White Sands		unisex	https://www.fragrantica.com/perfume/Amouroud/White-Sands-81414.html	amouroud/unisex/white-sands.png
 Ampersand	Adventurer		unisex	https://www.fragrantica.com/perfume/Ampersand/Adventurer-109652.html	
-Ampersand	Ambition		unisex	https://www.fragrantica.com/perfume/Ampersand/Ambition-109653.html	
-Ampersand	Attraction		unisex	https://www.fragrantica.com/perfume/Ampersand/Attraction-109654.html	
-Ampersand	Bloom		unisex	https://www.fragrantica.com/perfume/Ampersand/Bloom-109674.html	
-Ampersand	California		unisex	https://www.fragrantica.com/perfume/Ampersand/California-109655.html	
+Ampersand	Ambition		unisex	https://www.fragrantica.com/perfume/Ampersand/Ambition-109653.html	ampersand/unisex/ambition.png
+Ampersand	Attraction		unisex	https://www.fragrantica.com/perfume/Ampersand/Attraction-109654.html	ampersand/unisex/attraction.png
+Ampersand	Bloom		unisex	https://www.fragrantica.com/perfume/Ampersand/Bloom-109674.html	ampersand/unisex/bloom.png
+Ampersand	California		unisex	https://www.fragrantica.com/perfume/Ampersand/California-109655.html	ampersand/unisex/california.png
 Ampersand	Capri		unisex	https://www.fragrantica.com/perfume/Ampersand/Capri-109657.html	
 Ampersand	Discovery		unisex	https://www.fragrantica.com/perfume/Ampersand/Discovery-109662.html	
 Ampersand	Dramatic		unisex	https://www.fragrantica.com/perfume/Ampersand/Dramatic-109663.html	
-Ampersand	Emotion		unisex	https://www.fragrantica.com/perfume/Ampersand/Emotion-109664.html	
-Ampersand	Firenze		unisex	https://www.fragrantica.com/perfume/Ampersand/Firenze-109665.html	
+Ampersand	Emotion		unisex	https://www.fragrantica.com/perfume/Ampersand/Emotion-109664.html	ampersand/unisex/emotion.png
+Ampersand	Firenze		unisex	https://www.fragrantica.com/perfume/Ampersand/Firenze-109665.html	ampersand/unisex/firenze.png
 Ampersand	Gentlemen		male	https://www.fragrantica.com/perfume/Ampersand/Gentlemen-109666.html	
-Ampersand	Iconic		unisex	https://www.fragrantica.com/perfume/Ampersand/Iconic-109667.html	
+Ampersand	Iconic		unisex	https://www.fragrantica.com/perfume/Ampersand/Iconic-109667.html	ampersand/unisex/iconic.png
 Ampersand	Identity		unisex	https://www.fragrantica.com/perfume/Ampersand/Identity-109672.html	
 Ampersand	Opulence		unisex	https://www.fragrantica.com/perfume/Ampersand/Opulence-109693.html	
 Ampersand	Parisian		unisex	https://www.fragrantica.com/perfume/Ampersand/Parisian-109679.html	ampersand/unisex/parisian.png
-Ampersand	Portofino		unisex	https://www.fragrantica.com/perfume/Ampersand/Portofino-109694.html	
+Ampersand	Portofino		unisex	https://www.fragrantica.com/perfume/Ampersand/Portofino-109694.html	ampersand/unisex/portofino.png
 Ampersand	Rebel		unisex	https://www.fragrantica.com/perfume/Ampersand/Rebel-109682.html	
-Ampersand	Santorini		unisex	https://www.fragrantica.com/perfume/Ampersand/Santorini-109690.html	
+Ampersand	Santorini		unisex	https://www.fragrantica.com/perfume/Ampersand/Santorini-109690.html	ampersand/unisex/santorini.png
 Ampersand	Seduction		unisex	https://www.fragrantica.com/perfume/Ampersand/Seduction-109683.html	ampersand/unisex/seduction.png
-Ampersand	Unique		unisex	https://www.fragrantica.com/perfume/Ampersand/Unique-109677.html	
-Ampersand	Valor		unisex	https://www.fragrantica.com/perfume/Ampersand/Valor-109687.html	
-Ampersand	Vetiver		unisex	https://www.fragrantica.com/perfume/Ampersand/Vetiver-109692.html	
+Ampersand	Unique		unisex	https://www.fragrantica.com/perfume/Ampersand/Unique-109677.html	ampersand/unisex/unique.png
+Ampersand	Valor		unisex	https://www.fragrantica.com/perfume/Ampersand/Valor-109687.html	ampersand/unisex/valor.png
+Ampersand	Vetiver		unisex	https://www.fragrantica.com/perfume/Ampersand/Vetiver-109692.html	ampersand/unisex/vetiver.png
 Amphora Parfum	Baby Boy		unisex	https://www.fragrantica.com/perfume/Amphora-Parfum/Baby-Boy-100350.html	amphora-parfum/unisex/baby-boy.png
 Amphora Parfum	honeycakes		unisex	https://www.fragrantica.com/perfume/Amphora-Parfum/honeycakes-105853.html	amphora-parfum/unisex/honeycakes.png
 Amphora Parfum	PRIMAL YELL		unisex	https://www.fragrantica.com/perfume/Amphora-Parfum/PRIMAL-YELL-94623.html	amphora-parfum/unisex/primal-yell.png
@@ -9379,7 +9379,7 @@ Angeline	Warm Embrace		unisex	https://www.fragrantica.com/perfume/Angeline/Warm-
 Angeline	White Silk		unisex	https://www.fragrantica.com/perfume/Angeline/White-Silk-108081.html	angeline/unisex/white-silk.png
 Angeline	Woody Haiku		unisex	https://www.fragrantica.com/perfume/Angeline/Woody-Haiku-99693.html	
 Angeline	X Molecule		unisex	https://www.fragrantica.com/perfume/Angeline/X-Molecule-99691.html	
-Angelique Paris	Into The Oud		unisex	https://www.fragrantica.com/perfume/Angelique-Paris/Into-The-Oud-78274.html	
+Angelique Paris	Into The Oud		unisex	https://www.fragrantica.com/perfume/Angelique-Paris/Into-The-Oud-78274.html	angelique-paris/unisex/into-the-oud.png
 Angelique Paris	Magnolia Musk		unisex	https://www.fragrantica.com/perfume/Angelique-Paris/Magnolia-Musk-78277.html	angelique-paris/unisex/magnolia-musk.png
 Angelique Paris	Mango Oud		unisex	https://www.fragrantica.com/perfume/Angelique-Paris/Mango-Oud-78275.html	
 Angelique Paris	Petals of Cadi		unisex	https://www.fragrantica.com/perfume/Angelique-Paris/Petals-of-Cadi-78276.html	angelique-paris/unisex/petals-of-cadi.png
@@ -10391,11 +10391,11 @@ Apotheca	Silva		unisex	https://www.fragrantica.com/perfume/Apotheca/Silva-55057.
 Apotheca	Tuberosa		unisex	https://www.fragrantica.com/perfume/Apotheca/Tuberosa-55058.html	apotheca/unisex/tuberosa.png
 Apotheca	Vipera		unisex	https://www.fragrantica.com/perfume/Apotheca/Vipera-55056.html	apotheca/unisex/vipera.png
 Apothia	Bronzed		unisex	https://www.fragrantica.com/perfume/Apothia/Bronzed-34855.html	apothia/unisex/bronzed.png
-Apothia	CA The California		unisex	https://www.fragrantica.com/perfume/Apothia/CA-The-California-69433.html	
-Apothia	IF		female	https://www.fragrantica.com/perfume/Apothia/IF-6734.html	
+Apothia	CA The California		unisex	https://www.fragrantica.com/perfume/Apothia/CA-The-California-69433.html	apothia/unisex/ca-the-california.png
+Apothia	IF		female	https://www.fragrantica.com/perfume/Apothia/IF-6734.html	apothia/female/if.png
 Apothia	L Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Apothia/L-Eau-de-Parfum-6735.html	
 Apothia	Pearl		female	https://www.fragrantica.com/perfume/Apothia/Pearl-5470.html	apothia/female/pearl.png
-Apothia	Velvet Rope		female	https://www.fragrantica.com/perfume/Apothia/Velvet-Rope-6736.html	
+Apothia	Velvet Rope		female	https://www.fragrantica.com/perfume/Apothia/Velvet-Rope-6736.html	apothia/female/velvet-rope.png
 Apple Beauty	Cinderella		female	https://www.fragrantica.com/perfume/Apple-Beauty/Cinderella-50068.html	
 Apple Beauty	Hustler Muse		female	https://www.fragrantica.com/perfume/Apple-Beauty/Hustler-Muse-82866.html	apple-beauty/female/hustler-muse.png
 Apple Beauty	Whatever It Takes Daniel Craig		male	https://www.fragrantica.com/perfume/Apple-Beauty/Whatever-It-Takes-Daniel-Craig-58974.html	apple-beauty/male/whatever-it-takes-daniel-craig.png
@@ -11957,11 +11957,11 @@ Argos	Triumph of Bacchus		unisex	https://www.fragrantica.com/perfume/Argos/Trium
 Argos	Triumph of Bacchus Extrait de Parfum	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Argos/Triumph-of-Bacchus-Extrait-de-Parfum-121242.html	argos/unisex/triumph-of-bacchus-extrait-de-parfum.png
 Argos	Vulcan's Revenge		unisex	https://www.fragrantica.com/perfume/Argos/Vulcan-s-Revenge-120738.html	argos/unisex/vulcan-s-revenge.png
 Aria di Sicilia	Corso Umberto	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/Corso-Umberto-98971.html	aria-di-sicilia/unisex/corso-umberto.png
-Aria di Sicilia	No. 1 Zagara di Taormina		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-1-Zagara-di-Taormina-98958.html	
+Aria di Sicilia	No. 1 Zagara di Taormina		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-1-Zagara-di-Taormina-98958.html	aria-di-sicilia/unisex/no-1-zagara-di-taormina.png
 Aria di Sicilia	No. 10 Nero di Monreale		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-10-Nero-di-Monreale-98967.html	
 Aria di Sicilia	No. 11 Luce di Enna		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-11-Luce-di-Enna-98968.html	
-Aria di Sicilia	No. 12 Legni di Cefalù		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-12-Legni-di-Cefalu-98969.html	
-Aria di Sicilia	No. 13 Ulivo degli Iblei		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-13-Ulivo-degli-Iblei-98970.html	
+Aria di Sicilia	No. 12 Legni di Cefalù		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-12-Legni-di-Cefalu-98969.html	aria-di-sicilia/unisex/no-12-legni-di-cefalu.png
+Aria di Sicilia	No. 13 Ulivo degli Iblei		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-13-Ulivo-degli-Iblei-98970.html	aria-di-sicilia/unisex/no-13-ulivo-degli-iblei.png
 Aria di Sicilia	No. 2 Lumia di Siracusa		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-2-Lumia-di-Siracusa-98959.html	
 Aria di Sicilia	No. 3 Profumo del Commissario		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-3-Profumo-del-Commissario-98960.html	
 Aria di Sicilia	No. 4 Mare delle Eolie		unisex	https://www.fragrantica.com/perfume/Aria-di-Sicilia/No-4-Mare-delle-Eolie-98961.html	aria-di-sicilia/unisex/no-4-mare-delle-eolie.png
@@ -13432,7 +13432,7 @@ Artist'o	Ode		unisex	https://www.fragrantica.com/perfume/Artist-o/Ode-102860.htm
 Artist'o	Été		unisex	https://www.fragrantica.com/perfume/Artist-o/Ete-102858.html	artist-o/unisex/ete.png
 Artistry	Flora Chic	Eau de Parfum	female	https://www.fragrantica.com/perfume/Artistry/Flora-Chic-41079.html	artistry/female/flora-chic.png
 Arts&Scents	A Day in Grasse		unisex	https://www.fragrantica.com/perfume/Arts-Scents/A-Day-in-Grasse-23606.html	
-Arts&Scents	Cuero de Mexico		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Cuero-de-Mexico-23607.html	
+Arts&Scents	Cuero de Mexico		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Cuero-de-Mexico-23607.html	arts-scents/unisex/cuero-de-mexico.png
 Arts&Scents	Cupidos Kiss	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Arts-Scents/Cupidos-Kiss-23611.html	arts-scents/unisex/cupidos-kiss.png
 Arts&Scents	Dream of India		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Dream-of-India-23612.html	arts-scents/unisex/dream-of-india.png
 Arts&Scents	Fantastic Green Bird		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Fantastic-Green-Bird-23613.html	
@@ -13440,7 +13440,7 @@ Arts&Scents	Forever Heart Bound		female	https://www.fragrantica.com/perfume/Arts
 Arts&Scents	Light of Ormuz		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Light-of-Ormuz-23608.html	
 Arts&Scents	Night and Dawn A Vampire's Love		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Night-and-Dawn-A-Vampire-s-Love-23610.html	
 Arts&Scents	Pan Tierra		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Pan-Tierra-23609.html	
-Arts&Scents	Wild Cat Musk		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Wild-Cat-Musk-23605.html	
+Arts&Scents	Wild Cat Musk		unisex	https://www.fragrantica.com/perfume/Arts-Scents/Wild-Cat-Musk-23605.html	arts-scents/unisex/wild-cat-musk.png
 Arty Fragrance by Elisabeth de Feydeau	Rêve de la Reine		female	https://www.fragrantica.com/perfume/Arty-Fragrance-by-Elisabeth-de-Feydeau/Reve-de-la-Reine-31991.html	
 Arve	Arve Arve		unisex	https://www.fragrantica.com/perfume/Arve/Arve-73571.html	
 Aryene	Amber Veil		female	https://www.fragrantica.com/perfume/Aryene/Amber-Veil-138554.html	aryene/female/amber-veil.png
@@ -14069,7 +14069,7 @@ Astier de Villatte	Tucson	Eau de Parfum	unisex	https://www.fragrantica.com/perfu
 Astral	Galadriel		female	https://www.fragrantica.com/perfume/Astral/Galadriel-87404.html	astral/female/galadriel.png
 Astral	Ragnar		unisex	https://www.fragrantica.com/perfume/Astral/Ragnar-87389.html	astral/unisex/ragnar.png
 Astral	Wonheda		unisex	https://www.fragrantica.com/perfume/Astral/Wonheda-100718.html	astral/unisex/wonheda.png
-Astre	EXALTÉ		unisex	https://www.fragrantica.com/perfume/Astre/EXALTE-134962.html	
+Astre	EXALTÉ		unisex	https://www.fragrantica.com/perfume/Astre/EXALTE-134962.html	astre/unisex/exalte.png
 Astre	Heavenly Delusion		unisex	https://www.fragrantica.com/perfume/Astre/Heavenly-Delusion-96822.html	astre/unisex/heavenly-delusion.png
 Astre	Luminoir		unisex	https://www.fragrantica.com/perfume/Astre/Luminoir-96821.html	astre/unisex/luminoir.png
 Astre	Vanilla Ataraxia		unisex	https://www.fragrantica.com/perfume/Astre/Vanilla-Ataraxia-142717.html	
@@ -14135,7 +14135,7 @@ Atelier Bloem	Half Moon		unisex	https://www.fragrantica.com/perfume/Atelier-Bloe
 Atelier Bloem	Iris		unisex	https://www.fragrantica.com/perfume/Atelier-Bloem/Iris-47642.html	
 Atelier Bloem	Nieuw Amsterdam		unisex	https://www.fragrantica.com/perfume/Atelier-Bloem/Nieuw-Amsterdam-47645.html	
 Atelier Bloem	William		unisex	https://www.fragrantica.com/perfume/Atelier-Bloem/William-47647.html	atelier-bloem/unisex/william.png
-Atelier Charisma	Grandeur		unisex	https://www.fragrantica.com/perfume/Atelier-Charisma/Grandeur-103726.html	
+Atelier Charisma	Grandeur		unisex	https://www.fragrantica.com/perfume/Atelier-Charisma/Grandeur-103726.html	atelier-charisma/unisex/grandeur.png
 Atelier Charisma	Musc Spritz		unisex	https://www.fragrantica.com/perfume/Atelier-Charisma/Musc-Spritz-127079.html	atelier-charisma/unisex/musc-spritz.png
 Atelier Charisma	Passion Affair		unisex	https://www.fragrantica.com/perfume/Atelier-Charisma/Passion-Affair-130887.html	atelier-charisma/unisex/passion-affair.png
 Atelier Cologne	Ambre Nue		unisex	https://www.fragrantica.com/perfume/Atelier-Cologne/Ambre-Nue-14269.html	atelier-cologne/unisex/ambre-nue.png
@@ -15637,7 +15637,7 @@ Ausmane Paris	Tornade Sahara		unisex	https://www.fragrantica.com/perfume/Ausmane
 Ausmane Paris	Vanille Plurielle		unisex	https://www.fragrantica.com/perfume/Ausmane-Paris/Vanille-Plurielle-77178.html	ausmane-paris/unisex/vanille-plurielle.png
 Ausmane Paris	Vert Ausmane Anniversaire		unisex	https://www.fragrantica.com/perfume/Ausmane-Paris/Vert-Ausmane-Anniversaire-77188.html	ausmane-paris/unisex/vert-ausmane-anniversaire.png
 Ausmane Paris	Vert Imperial		unisex	https://www.fragrantica.com/perfume/Ausmane-Paris/Vert-Imperial-77212.html	ausmane-paris/unisex/vert-imperial.png
-Austin Reed	Austin Reed Men		male	https://www.fragrantica.com/perfume/Austin-Reed/Austin-Reed-Men-14176.html	
+Austin Reed	Austin Reed Men		male	https://www.fragrantica.com/perfume/Austin-Reed/Austin-Reed-Men-14176.html	austin-reed/male/austin-reed-men.png
 Austin Reed	Austin Reed Women		female	https://www.fragrantica.com/perfume/Austin-Reed/Austin-Reed-Women-14175.html	austin-reed/female/austin-reed-women.png
 Austin Reed	Signature		male	https://www.fragrantica.com/perfume/Austin-Reed/Signature-113683.html	austin-reed/male/signature.png
 Austin Young	Accident		unisex	https://www.fragrantica.com/perfume/Austin-Young/Accident-21172.html	austin-young/unisex/accident.png
@@ -17305,7 +17305,7 @@ Avril	Coeur de Bois		female	https://www.fragrantica.com/perfume/Avril/Coeur-de-B
 Avril	Lueur Persane		female	https://www.fragrantica.com/perfume/Avril/Lueur-Persane-73947.html	avril/female/lueur-persane.png
 Avril Lavigne	Black Star		female	https://www.fragrantica.com/perfume/Avril-Lavigne/Black-Star-5863.html	avril-lavigne/female/black-star.png
 Avril Lavigne	Forbidden Rose		female	https://www.fragrantica.com/perfume/Avril-Lavigne/Forbidden-Rose-9046.html	avril-lavigne/female/forbidden-rose.png
-Avril Lavigne	Wild Rose		female	https://www.fragrantica.com/perfume/Avril-Lavigne/Wild-Rose-12769.html	
+Avril Lavigne	Wild Rose		female	https://www.fragrantica.com/perfume/Avril-Lavigne/Wild-Rose-12769.html	avril-lavigne/female/wild-rose.png
 Awshal	Bois d'Aksum		unisex	https://www.fragrantica.com/perfume/Awshal/Bois-d-Aksum-101091.html	awshal/unisex/bois-d-aksum.png
 Awshal	Caravanes d'Encens		unisex	https://www.fragrantica.com/perfume/Awshal/Caravanes-d-Encens-101081.html	awshal/unisex/caravanes-d-encens.png
 Awshal	Chant des Sirènes		unisex	https://www.fragrantica.com/perfume/Awshal/Chant-des-Sirenes-101086.html	awshal/unisex/chant-des-sirenes.png
@@ -20555,7 +20555,7 @@ Berkeley Square	White Bergamot		female	https://www.fragrantica.com/perfume/Berke
 Berkeley Square	White Muguet		female	https://www.fragrantica.com/perfume/Berkeley-Square/White-Muguet-7570.html	
 Berkeley Square	White Tea		female	https://www.fragrantica.com/perfume/Berkeley-Square/White-Tea-7566.html	
 Berlin de Vous	Candemir		unisex	https://www.fragrantica.com/perfume/Berlin-de-Vous/Candemir-124100.html	berlin-de-vous/unisex/candemir.png
-Berlin de Vous	Cerul		unisex	https://www.fragrantica.com/perfume/Berlin-de-Vous/Cerul-124099.html	
+Berlin de Vous	Cerul		unisex	https://www.fragrantica.com/perfume/Berlin-de-Vous/Cerul-124099.html	berlin-de-vous/unisex/cerul.png
 Berlin de Vous	Verboten		unisex	https://www.fragrantica.com/perfume/Berlin-de-Vous/Verboten-124101.html	berlin-de-vous/unisex/verboten.png
 Bernard Dimitri	Hot Black		unisex	https://www.fragrantica.com/perfume/Bernard-Dimitri/Hot-Black-83119.html	bernard-dimitri/unisex/hot-black.png
 Bernard Dimitri	Hot Black Aqua Vibe		unisex	https://www.fragrantica.com/perfume/Bernard-Dimitri/Hot-Black-Aqua-Vibe-127538.html	bernard-dimitri/unisex/hot-black-aqua-vibe.png
@@ -22061,7 +22061,7 @@ Blackcliff Parfums	Vanilla Siren		unisex	https://www.fragrantica.com/perfume/Bla
 Blackglama	Addiction		female	https://www.fragrantica.com/perfume/Blackglama/Addiction-21168.html	blackglama/female/addiction.png
 Blackglama	Epic		female	https://www.fragrantica.com/perfume/Blackglama/Epic-21169.html	
 Blackglama	Icon		female	https://www.fragrantica.com/perfume/Blackglama/Icon-21171.html	blackglama/female/icon.png
-Blackglama	Mythic		female	https://www.fragrantica.com/perfume/Blackglama/Mythic-21170.html	
+Blackglama	Mythic		female	https://www.fragrantica.com/perfume/Blackglama/Mythic-21170.html	blackglama/female/mythic.png
 Blackoud	Abyss		unisex	https://www.fragrantica.com/perfume/Blackoud/Abyss-104317.html	blackoud/unisex/abyss.png
 Blackoud	Amber Black	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Blackoud/Amber-Black-96401.html	blackoud/unisex/amber-black.png
 Blackoud	By Drew		unisex	https://www.fragrantica.com/perfume/Blackoud/By-Drew-96400.html	blackoud/unisex/by-drew.png
@@ -22105,12 +22105,12 @@ Blancheide	Taitutiaré		unisex	https://www.fragrantica.com/perfume/Blancheide/Ta
 Blancheide	Vanille		unisex	https://www.fragrantica.com/perfume/Blancheide/Vanille-41231.html	blancheide/unisex/vanille.png
 Blauer	Blauer Boston 1936 For Her		female	https://www.fragrantica.com/perfume/Blauer/Blauer-Boston-1936-For-Her-72564.html	
 Blauer	Blauer Boston 1936 For Him		male	https://www.fragrantica.com/perfume/Blauer/Blauer-Boston-1936-For-Him-72563.html	
-Blauer	Blauer UN1T3D States Man		male	https://www.fragrantica.com/perfume/Blauer/Blauer-UN1T3D-States-Man-53878.html	
+Blauer	Blauer UN1T3D States Man		male	https://www.fragrantica.com/perfume/Blauer/Blauer-UN1T3D-States-Man-53878.html	blauer/male/blauer-un1t3d-states-man.png
 Blauer	Blauer UN1T3D States Woman		female	https://www.fragrantica.com/perfume/Blauer/Blauer-UN1T3D-States-Woman-53877.html	
 Blauer	Un1t3d Camou For Men		male	https://www.fragrantica.com/perfume/Blauer/Un1t3d-Camou-For-Men-60322.html	blauer/male/un1t3d-camou-for-men.png
 Blauer	Un1t3d Camou For Women		female	https://www.fragrantica.com/perfume/Blauer/Un1t3d-Camou-For-Women-60323.html	blauer/female/un1t3d-camou-for-women.png
 Blauer	Un1t3d Man		male	https://www.fragrantica.com/perfume/Blauer/Un1t3d-Man-47023.html	
-Blauer	Un1t3d Woman		female	https://www.fragrantica.com/perfume/Blauer/Un1t3d-Woman-47022.html	
+Blauer	Un1t3d Woman		female	https://www.fragrantica.com/perfume/Blauer/Un1t3d-Woman-47022.html	blauer/female/un1t3d-woman.png
 Blend Fragrance Cocktailing	Cherry		unisex	https://www.fragrantica.com/perfume/Blend-Fragrance-Cocktailing/Cherry-140100.html	
 Blend Fragrance Cocktailing	Gardenia		unisex	https://www.fragrantica.com/perfume/Blend-Fragrance-Cocktailing/Gardenia-140103.html	blend-fragrance-cocktailing/unisex/gardenia.png
 Blend Fragrance Cocktailing	Grapefruit		unisex	https://www.fragrantica.com/perfume/Blend-Fragrance-Cocktailing/Grapefruit-140102.html	blend-fragrance-cocktailing/unisex/grapefruit.png
@@ -24082,9 +24082,9 @@ Brand Collection	Velvet Petals		female	https://www.fragrantica.com/perfume/Brand
 Brand Collection	Velvet Petals Shimmer		female	https://www.fragrantica.com/perfume/Brand-Collection/Velvet-Petals-Shimmer-138243.html	
 Brand No More	Amber / Remastered		unisex	https://www.fragrantica.com/perfume/Brand-No-More/Amber-Remastered-73501.html	brand-no-more/unisex/amber-remastered.png
 Brand No More	Bergamot / Spiked		unisex	https://www.fragrantica.com/perfume/Brand-No-More/Bergamot-Spiked-73503.html	brand-no-more/unisex/bergamot-spiked.png
-Brand No More	Blossom / Nocturnal		unisex	https://www.fragrantica.com/perfume/Brand-No-More/Blossom-Nocturnal-73502.html	
+Brand No More	Blossom / Nocturnal		unisex	https://www.fragrantica.com/perfume/Brand-No-More/Blossom-Nocturnal-73502.html	brand-no-more/unisex/blossom-nocturnal.png
 Brand No More	Fig / Frozen		unisex	https://www.fragrantica.com/perfume/Brand-No-More/Fig-Frozen-73505.html	
-Brand No More	Santal / Japonais		unisex	https://www.fragrantica.com/perfume/Brand-No-More/Santal-Japonais-73506.html	
+Brand No More	Santal / Japonais		unisex	https://www.fragrantica.com/perfume/Brand-No-More/Santal-Japonais-73506.html	brand-no-more/unisex/santal-japonais.png
 Brand No More	Woods / Icelandic		unisex	https://www.fragrantica.com/perfume/Brand-No-More/Woods-Icelandic-73504.html	
 Brandy Designs	Al Meesan Prestige		female	https://www.fragrantica.com/perfume/Brandy-Designs/Al-Meesan-Prestige-128453.html	brandy-designs/female/al-meesan-prestige.png
 Brandy Designs	Amber Oud		unisex	https://www.fragrantica.com/perfume/Brandy-Designs/Amber-Oud-127394.html	brandy-designs/unisex/amber-oud.png
@@ -28369,7 +28369,7 @@ CFFC Fragrances	Rue Pergolèse pour Homme		male	https://www.fragrantica.com/perf
 CFFC Fragrances	Rue Pergolèse Rouge		female	https://www.fragrantica.com/perfume/CFFC-Fragrances/Rue-Pergolese-Rouge-119123.html	cffc-fragrances/female/rue-pergolese-rouge.png
 CGS	Bad Dream		unisex	https://www.fragrantica.com/perfume/CGS/Bad-Dream-112165.html	cgs/unisex/bad-dream.png
 CGS	Flower Study		unisex	https://www.fragrantica.com/perfume/CGS/Flower-Study-112166.html	cgs/unisex/flower-study.png
-CGS	Love and Hate		unisex	https://www.fragrantica.com/perfume/CGS/Love-and-Hate-112167.html	
+CGS	Love and Hate		unisex	https://www.fragrantica.com/perfume/CGS/Love-and-Hate-112167.html	cgs/unisex/love-and-hate.png
 Chabaud Maison de Parfum	Ambre Du Reve		unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Ambre-Du-Reve-59416.html	chabaud-maison-de-parfum/unisex/ambre-du-reve.png
 Chabaud Maison de Parfum	Caprice de Jeanne		female	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-de-Jeanne-90135.html	chabaud-maison-de-parfum/female/caprice-de-jeanne.png
 Chabaud Maison de Parfum	Caprice de Julie	Parfum	unisex	https://www.fragrantica.com/perfume/Chabaud-Maison-de-Parfum/Caprice-de-Julie-77328.html	chabaud-maison-de-parfum/unisex/caprice-de-julie.png
@@ -28722,7 +28722,7 @@ Char Zillya	Spring over the Dnieper Vesna nad Dniprom		unisex	https://www.fragra
 Char Zillya	Tales of grandfather Taras Kazki dida Tarasa		unisex	https://www.fragrantica.com/perfume/Char-Zillya/Tales-of-grandfather-Taras-Kazki-dida-Tarasa-61791.html	
 Charenton Macerations	Asphalt Rainbow		unisex	https://www.fragrantica.com/perfume/Charenton-Macerations/Asphalt-Rainbow-30351.html	charenton-macerations/unisex/asphalt-rainbow.png
 Charenton Macerations	Christopher Street	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Charenton-Macerations/Christopher-Street-20275.html	charenton-macerations/unisex/christopher-street.png
-Charenton Macerations	Eye, Hatshepsut		unisex	https://www.fragrantica.com/perfume/Charenton-Macerations/Eye-Hatshepsut-39706.html	
+Charenton Macerations	Eye, Hatshepsut		unisex	https://www.fragrantica.com/perfume/Charenton-Macerations/Eye-Hatshepsut-39706.html	charenton-macerations/unisex/eye-hatshepsut.png
 Charles de Beaune	Cuir Sublime		unisex	https://www.fragrantica.com/perfume/Charles-de-Beaune/Cuir-Sublime-79709.html	charles-de-beaune/unisex/cuir-sublime.png
 Charles de Beaune	Esprit de Charles		unisex	https://www.fragrantica.com/perfume/Charles-de-Beaune/Esprit-de-Charles-79710.html	
 Charles de Beaune	Montée Rouge		unisex	https://www.fragrantica.com/perfume/Charles-de-Beaune/Montee-Rouge-79711.html	charles-de-beaune/unisex/montee-rouge.png
@@ -28737,7 +28737,7 @@ Charles Jourdan	Un Homme		male	https://www.fragrantica.com/perfume/Charles-Jourd
 Charles Jourdan	Un Jour		female	https://www.fragrantica.com/perfume/Charles-Jourdan/Un-Jour-12527.html	charles-jourdan/female/un-jour.png
 Charles Jourdan	Votre		female	https://www.fragrantica.com/perfume/Charles-Jourdan/Votre-4893.html	
 Charles of the Ritz	Carrington		male	https://www.fragrantica.com/perfume/Charles-of-the-Ritz/Carrington-14140.html	charles-of-the-ritz/male/carrington.png
-Charles of the Ritz	Charles of the Ritz		female	https://www.fragrantica.com/perfume/Charles-of-the-Ritz/Charles-of-the-Ritz-4598.html	
+Charles of the Ritz	Charles of the Ritz		female	https://www.fragrantica.com/perfume/Charles-of-the-Ritz/Charles-of-the-Ritz-4598.html	charles-of-the-ritz/female/charles-of-the-ritz.png
 Charles of the Ritz	Enjoli		female	https://www.fragrantica.com/perfume/Charles-of-the-Ritz/Enjoli-4596.html	
 Charles of the Ritz	Enjoli Midnight		female	https://www.fragrantica.com/perfume/Charles-of-the-Ritz/Enjoli-Midnight-13555.html	charles-of-the-ritz/female/enjoli-midnight.png
 Charles of the Ritz	Forever Krystle		female	https://www.fragrantica.com/perfume/Charles-of-the-Ritz/Forever-Krystle-4597.html	
@@ -28852,16 +28852,16 @@ Charriol	Royal White		male	https://www.fragrantica.com/perfume/Charriol/Royal-Wh
 Charriol	Show Off		female	https://www.fragrantica.com/perfume/Charriol/Show-Off-14500.html	charriol/female/show-off.png
 Charriol	Tourmaline		female	https://www.fragrantica.com/perfume/Charriol/Tourmaline-8099.html	charriol/female/tourmaline.png
 Charriol	Young For Ever	Eau de Toilette	female	https://www.fragrantica.com/perfume/Charriol/Young-For-Ever-39677.html	
-Chase	Black Bishop		unisex	https://www.fragrantica.com/perfume/Chase/Black-Bishop-99610.html	
+Chase	Black Bishop		unisex	https://www.fragrantica.com/perfume/Chase/Black-Bishop-99610.html	chase/unisex/black-bishop.png
 Chase	Black King		unisex	https://www.fragrantica.com/perfume/Chase/Black-King-99611.html	
 Chase	Black Knight		unisex	https://www.fragrantica.com/perfume/Chase/Black-Knight-99612.html	
 Chase	Black Queen		unisex	https://www.fragrantica.com/perfume/Chase/Black-Queen-99613.html	
-Chase	Black Rook		unisex	https://www.fragrantica.com/perfume/Chase/Black-Rook-99614.html	
+Chase	Black Rook		unisex	https://www.fragrantica.com/perfume/Chase/Black-Rook-99614.html	chase/unisex/black-rook.png
 Chase	White Bishop		unisex	https://www.fragrantica.com/perfume/Chase/White-Bishop-99615.html	chase/unisex/white-bishop.png
-Chase	White King		unisex	https://www.fragrantica.com/perfume/Chase/White-King-99616.html	
+Chase	White King		unisex	https://www.fragrantica.com/perfume/Chase/White-King-99616.html	chase/unisex/white-king.png
 Chase	White Knight		unisex	https://www.fragrantica.com/perfume/Chase/White-Knight-99617.html	
 Chase	White Queen		unisex	https://www.fragrantica.com/perfume/Chase/White-Queen-99618.html	chase/unisex/white-queen.png
-Chase	White Rook		unisex	https://www.fragrantica.com/perfume/Chase/White-Rook-99619.html	
+Chase	White Rook		unisex	https://www.fragrantica.com/perfume/Chase/White-Rook-99619.html	chase/unisex/white-rook.png
 Chasense	Biluochun Green Tea		unisex	https://www.fragrantica.com/perfume/Chasense/Biluochun-Green-Tea-125953.html	
 Chasense	Chinese Milk Tea		unisex	https://www.fragrantica.com/perfume/Chasense/Chinese-Milk-Tea-125957.html	chasense/unisex/chinese-milk-tea.png
 Chasense	Comforting Oolong		unisex	https://www.fragrantica.com/perfume/Chasense/Comforting-Oolong-129509.html	chasense/unisex/comforting-oolong.png
@@ -29382,8 +29382,8 @@ Christian Audigier	Ed Hardy Villain for Men		male	https://www.fragrantica.com/pe
 Christian Audigier	Ed Hardy Villain for Women		female	https://www.fragrantica.com/perfume/Christian-Audigier/Ed-Hardy-Villain-for-Women-13552.html	
 Christian Audigier	Ed Hardy Women's EDT	Eau de Toilette	female	https://www.fragrantica.com/perfume/Christian-Audigier/Ed-Hardy-Women-s-EDT-2464.html	
 Christian Breton	Blue Gold		female	https://www.fragrantica.com/perfume/Christian-Breton/Blue-Gold-42865.html	christian-breton/female/blue-gold.png
-Christian Breton	For a Woman		female	https://www.fragrantica.com/perfume/Christian-Breton/For-a-Woman-41873.html	
-Christian Breton	Her		female	https://www.fragrantica.com/perfume/Christian-Breton/Her-42863.html	
+Christian Breton	For a Woman		female	https://www.fragrantica.com/perfume/Christian-Breton/For-a-Woman-41873.html	christian-breton/female/for-a-woman.png
+Christian Breton	Her		female	https://www.fragrantica.com/perfume/Christian-Breton/Her-42863.html	christian-breton/female/her.png
 Christian Breton	Ismene		female	https://www.fragrantica.com/perfume/Christian-Breton/Ismene-42864.html	christian-breton/female/ismene.png
 Christian Kölbl	Neuwagen		unisex	https://www.fragrantica.com/perfume/Christian-Koelbl/Neuwagen-89142.html	christian-kolbl/unisex/neuwagen.png
 Christian Lacroix	Bazar		female	https://www.fragrantica.com/perfume/Christian-Lacroix/Bazar-356.html	christian-lacroix/female/bazar.png
@@ -29782,10 +29782,10 @@ Christine Lavoisier Parfums	Yummy		unisex	https://www.fragrantica.com/perfume/Ch
 Christophe Guillarme	Le Tapis Rouge		female	https://www.fragrantica.com/perfume/Christophe-Guillarme/Le-Tapis-Rouge-10608.html	
 Christopher Chronis	Christos Man		male	https://www.fragrantica.com/perfume/Christopher-Chronis/Christos-Man-67759.html	
 Christopher Chronis	Christos Woman		female	https://www.fragrantica.com/perfume/Christopher-Chronis/Christos-Woman-67758.html	
-Christopher Dicas	69		unisex	https://www.fragrantica.com/perfume/Christopher-Dicas/69-16088.html	
+Christopher Dicas	69		unisex	https://www.fragrantica.com/perfume/Christopher-Dicas/69-16088.html	christopher-dicas/unisex/69.png
 Christopher Dicas	69 Le Parfum	Parfum	unisex	https://www.fragrantica.com/perfume/Christopher-Dicas/69-Le-Parfum-50456.html	christopher-dicas/unisex/69-le-parfum.png
 Christopher Dicas	Christopher Dicas Eau de Parfum	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Christopher-Dicas/Christopher-Dicas-Eau-de-Parfum-14054.html	christopher-dicas/unisex/christopher-dicas-eau-de-parfum.png
-Christopher Dicas	Christopher DiCas Le Parfum		unisex	https://www.fragrantica.com/perfume/Christopher-DiCas/Christopher-DiCas-Le-Parfum-50455.html	
+Christopher Dicas	Christopher DiCas Le Parfum		unisex	https://www.fragrantica.com/perfume/Christopher-DiCas/Christopher-DiCas-Le-Parfum-50455.html	christopher-dicas/unisex/christopher-dicas-le-parfum.png
 Christopher Hanlon	Black Cockatoo		male	https://www.fragrantica.com/perfume/Christopher-Hanlon/Black-Cockatoo-68377.html	christopher-hanlon/male/black-cockatoo.png
 Christopher Hanlon	Black Jasmine Rose		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Black-Jasmine-Rose-68391.html	christopher-hanlon/unisex/black-jasmine-rose.png
 Christopher Hanlon	Colonial Gold		unisex	https://www.fragrantica.com/perfume/Christopher-Hanlon/Colonial-Gold-68379.html	christopher-hanlon/unisex/colonial-gold.png
@@ -29862,11 +29862,11 @@ Chupa Chups	Sandy Candy		female	https://www.fragrantica.com/perfume/Chupa-Chups/
 Chupa Chups	Strawberries & Cream Dream Body Mist	Body Mist	unisex	https://www.fragrantica.com/perfume/Chupa-Chups/Strawberries-Cream-Dream-Body-Mist-88958.html	
 Chupa Chups	Very Berry		female	https://www.fragrantica.com/perfume/Chupa-Chups/Very-Berry-55537.html	
 Chupa Chups	Wonderful Watermelon Body Mist	Body Mist	unisex	https://www.fragrantica.com/perfume/Chupa-Chups/Wonderful-Watermelon-Body-Mist-88959.html	
-Chwi 취	Daenamu 대나무		unisex	https://www.fragrantica.com/perfume/Chwi-chwi/Daenamu-daenamu-104337.html	
-Chwi 취	Hwawon 화원		unisex	https://www.fragrantica.com/perfume/Chwi-chwi/Hwawon-hwawon-104361.html	
+Chwi 취	Daenamu 대나무		unisex	https://www.fragrantica.com/perfume/Chwi-chwi/Daenamu-daenamu-104337.html	chwi/unisex/daenamu.png
+Chwi 취	Hwawon 화원		unisex	https://www.fragrantica.com/perfume/Chwi-chwi/Hwawon-hwawon-104361.html	chwi/unisex/hwawon.png
 Chwi 취	Odii 오디		unisex	https://www.fragrantica.com/perfume/Chwi-chwi/Odii-odi-104335.html	
 Chwi 취	Sachal 사찰		unisex	https://www.fragrantica.com/perfume/Chwi-chwi/Sachal-sachal-104354.html	chwi/unisex/sachal.png
-Chwi 취	Ssook 쑥		unisex	https://www.fragrantica.com/perfume/Chwi-chwi/Ssook-ssug-104356.html	
+Chwi 취	Ssook 쑥		unisex	https://www.fragrantica.com/perfume/Chwi-chwi/Ssook-ssug-104356.html	chwi/unisex/ssook.png
 Chwi 취	Sumuk 수묵	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Chwi-chwi/Sumuk-sumug-104362.html	chwi/unisex/sumuk.png
 Chypron	Shahi		female	https://www.fragrantica.com/perfume/Chypron/Shahi-72668.html	
 Chypron	Shahi Aqua		female	https://www.fragrantica.com/perfume/Chypron/Shahi-Aqua-72669.html	
@@ -31075,7 +31075,7 @@ Collistar	Profumo di Energia		unisex	https://www.fragrantica.com/perfume/Collist
 Collistar	Vetiver Forte		male	https://www.fragrantica.com/perfume/Collistar/Vetiver-Forte-40962.html	collistar/male/vetiver-forte.png
 Cologne-Zation	Bigarade Verte	Eau de Cologne	male	https://www.fragrantica.com/perfume/Cologne-Zation/Bigarade-Verte-47374.html	cologne-zation/male/bigarade-verte.png
 Cologne-Zation	Iris & Tonka Bean	Eau de Cologne	unisex	https://www.fragrantica.com/perfume/Cologne-Zation/Iris-Tonka-Bean-57180.html	cologne-zation/unisex/iris-tonka-bean.png
-Cologne-Zation	Lavender & Black Tea		male	https://www.fragrantica.com/perfume/Cologne-Zation/Lavender-Black-Tea-47375.html	
+Cologne-Zation	Lavender & Black Tea		male	https://www.fragrantica.com/perfume/Cologne-Zation/Lavender-Black-Tea-47375.html	cologne-zation/male/lavender-black-tea.png
 Cologne-Zation	Spices & Wacapou Wood		male	https://www.fragrantica.com/perfume/Cologne-Zation/Spices-Wacapou-Wood-47376.html	
 Cologne-Zation	Tobacco & Amber		unisex	https://www.fragrantica.com/perfume/Cologne-Zation/Tobacco-Amber-57181.html	
 COLOR.ZONE	Blue Sky	Parfum	female	https://www.fragrantica.com/perfume/COLOR-ZONE/Blue-Sky-107757.html	color-zone/female/blue-sky.png
@@ -31105,7 +31105,7 @@ Colornoise	Orange Ice Cream		unisex	https://www.fragrantica.com/perfume/Colornoi
 Colornoise	Rainfall		unisex	https://www.fragrantica.com/perfume/Colornoise/Rainfall-65310.html	colornoise/unisex/rainfall.png
 Colornoise	Strawberry Ice Cream		female	https://www.fragrantica.com/perfume/Colornoise/Strawberry-Ice-Cream-82699.html	colornoise/female/strawberry-ice-cream.png
 Colornoise	Trumpet		unisex	https://www.fragrantica.com/perfume/Colornoise/Trumpet-65307.html	colornoise/unisex/trumpet.png
-Colors Parfums Paris	Alezane Brulée		unisex	https://www.fragrantica.com/perfume/Colors-Parfums-Paris/Alezane-Brulee-103511.html	
+Colors Parfums Paris	Alezane Brulée		unisex	https://www.fragrantica.com/perfume/Colors-Parfums-Paris/Alezane-Brulee-103511.html	colors-parfums-paris/unisex/alezane-brulee.png
 Colors Parfums Paris	Carmin des Bois		unisex	https://www.fragrantica.com/perfume/Colors-Parfums-Paris/Carmin-des-Bois-103512.html	colors-parfums-paris/unisex/carmin-des-bois.png
 Colors Parfums Paris	Oranger Sous L'Atlas		unisex	https://www.fragrantica.com/perfume/Colors-Parfums-Paris/Oranger-Sous-L-Atlas-127347.html	colors-parfums-paris/unisex/oranger-sous-l-atlas.png
 Colour Intense	Darkilla		female	https://www.fragrantica.com/perfume/Colour-Intense/Darkilla-135518.html	
@@ -31535,7 +31535,7 @@ Conteur	Anecdote		unisex	https://www.fragrantica.com/perfume/Conteur/Anecdote-10
 Conteur	Chronicle		unisex	https://www.fragrantica.com/perfume/Conteur/Chronicle-105299.html	conteur/unisex/chronicle.png
 Conteur	Mythic		unisex	https://www.fragrantica.com/perfume/Conteur/Mythic-105298.html	conteur/unisex/mythic.png
 Conteur	Saga	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Conteur/Saga-105296.html	conteur/unisex/saga.png
-Contraband	Hands off		male	https://www.fragrantica.com/perfume/Contraband/Hands-off-104161.html	
+Contraband	Hands off		male	https://www.fragrantica.com/perfume/Contraband/Hands-off-104161.html	contraband/male/hands-off.png
 Contraband	have it all	Eau de Parfum	female	https://www.fragrantica.com/perfume/Contraband/have-it-all-104163.html	contraband/female/have-it-all.png
 Contraband	Le Oud XI		unisex	https://www.fragrantica.com/perfume/Contraband/Le-Oud-XI-131194.html	
 Contraband	Not Vanille		unisex	https://www.fragrantica.com/perfume/Contraband/Not-Vanille-131193.html	
@@ -32364,10 +32364,10 @@ Crazylibellule and the Poppies	Poule de Luxe Vanilla Ganache		unisex	https://www
 Crazylibellule and the Poppies	Poule de Luxe Vanilla Lemon Pie		unisex	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/Poule-de-Luxe-Vanilla-Lemon-Pie-7329.html	
 Crazylibellule and the Poppies	Poule de Luxe Vanilla Orangette		unisex	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/Poule-de-Luxe-Vanilla-Orangette-7330.html	
 Crazylibellule and the Poppies	Poule de Luxe Vanilla Pom d'Amour		female	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/Poule-de-Luxe-Vanilla-Pom-d-Amour-7332.html	
-Crazylibellule and the Poppies	Poule de Luxe Vanilla Sucre Glace		female	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/Poule-de-Luxe-Vanilla-Sucre-Glace-7334.html	
+Crazylibellule and the Poppies	Poule de Luxe Vanilla Sucre Glace		female	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/Poule-de-Luxe-Vanilla-Sucre-Glace-7334.html	crazylibellule-and-the-poppies/female/poule-de-luxe-vanilla-sucre-glace.png
 Crazylibellule and the Poppies	ShanghaiJava Ananas Imperial		unisex	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/ShanghaiJava-Ananas-Imperial-7328.html	
 Crazylibellule and the Poppies	ShanghaiJava Blue Orchidee		female	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/ShanghaiJava-Blue-Orchidee-7327.html	
-Crazylibellule and the Poppies	ShanghaiJava Encens Mystique		unisex	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/ShanghaiJava-Encens-Mystique-7324.html	
+Crazylibellule and the Poppies	ShanghaiJava Encens Mystique		unisex	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/ShanghaiJava-Encens-Mystique-7324.html	crazylibellule-and-the-poppies/unisex/shanghaijava-encens-mystique.png
 Crazylibellule and the Poppies	ShanghaiJava Lilas Spiritual		female	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/ShanghaiJava-Lilas-Spiritual-7326.html	
 Crazylibellule and the Poppies	ShanghaiJava Litchi Blossom		unisex	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/ShanghaiJava-Litchi-Blossom-7325.html	
 Crazylibellule and the Poppies	ShanghaiJava Musc & Patchouli		unisex	https://www.fragrantica.com/perfume/Crazylibellule-and-the-Poppies/ShanghaiJava-Musc-Patchouli-7323.html	
@@ -32898,7 +32898,7 @@ Cult of Scent	Jazz Age Jasmine		unisex	https://www.fragrantica.com/perfume/Cult-
 Cult of Scent	Karavanserai		unisex	https://www.fragrantica.com/perfume/Cult-of-Scent/Karavanserai-42951.html	
 Cult of Scent	Something Beautiful		unisex	https://www.fragrantica.com/perfume/Cult-of-Scent/Something-Beautiful-42960.html	
 Cult of Scent	Sweet Libertine		unisex	https://www.fragrantica.com/perfume/Cult-of-Scent/Sweet-Libertine-42961.html	cult-of-scent/unisex/sweet-libertine.png
-Cult of Scent	The Hedonist		unisex	https://www.fragrantica.com/perfume/Cult-of-Scent/The-Hedonist-42962.html	
+Cult of Scent	The Hedonist		unisex	https://www.fragrantica.com/perfume/Cult-of-Scent/The-Hedonist-42962.html	cult-of-scent/unisex/the-hedonist.png
 Cult of Scent	The Nightingale's Cup		unisex	https://www.fragrantica.com/perfume/Cult-of-Scent/The-Nightingale-s-Cup-42949.html	
 Culti	A		unisex	https://www.fragrantica.com/perfume/Culti/A-24287.html	
 Culti	Acqua Leggera		unisex	https://www.fragrantica.com/perfume/Culti/Acqua-Leggera-91982.html	culti/unisex/acqua-leggera.png
@@ -33857,7 +33857,7 @@ David Beckham	Urban Homme		male	https://www.fragrantica.com/perfume/David-Beckha
 David Bustamante	Esencia in Blue		male	https://www.fragrantica.com/perfume/David-Bustamante/Esencia-in-Blue-53065.html	david-bustamante/male/esencia-in-blue.png
 David Bustamante	Muy Mio		male	https://www.fragrantica.com/perfume/David-Bustamante/Muy-Mio-23360.html	david-bustamante/male/muy-mio.png
 David Bustamante	Muy Mio Sport		male	https://www.fragrantica.com/perfume/David-Bustamante/Muy-Mio-Sport-23361.html	david-bustamante/male/muy-mio-sport.png
-David Bustamante	Muy Mía		female	https://www.fragrantica.com/perfume/David-Bustamante/Muy-Mia-48501.html	
+David Bustamante	Muy Mía		female	https://www.fragrantica.com/perfume/David-Bustamante/Muy-Mia-48501.html	david-bustamante/female/muy-mia.png
 David Garrett	Rock Symphonies Man		male	https://www.fragrantica.com/perfume/David-Garrett/Rock-Symphonies-Man-39283.html	david-garrett/male/rock-symphonies-man.png
 David Garrett	Rock Symphonies Woman		female	https://www.fragrantica.com/perfume/David-Garrett/Rock-Symphonies-Woman-39282.html	
 David Haris	Cachemere Gold		female	https://www.fragrantica.com/perfume/David-Haris/Cachemere-Gold-36151.html	david-haris/female/cachemere-gold.png
@@ -34261,7 +34261,7 @@ Decorté	Kimono Yui		female	https://www.fragrantica.com/perfume/Decorte/Kimono-Y
 Decorté	La Vallière	Eau de Toilette	female	https://www.fragrantica.com/perfume/Decorte/La-Valliere-137940.html	decorte/female/la-valliere.png
 Decorté	Vice & Virtue		female	https://www.fragrantica.com/perfume/Decorte/Vice-Virtue-11535.html	
 Decorum Stockholm	Noble Black		unisex	https://www.fragrantica.com/perfume/Decorum-Stockholm/Noble-Black-50860.html	
-Decorum Stockholm	Noble White		unisex	https://www.fragrantica.com/perfume/Decorum-Stockholm/Noble-White-50861.html	
+Decorum Stockholm	Noble White		unisex	https://www.fragrantica.com/perfume/Decorum-Stockholm/Noble-White-50861.html	decorum-stockholm/unisex/noble-white.png
 Decorum Stockholm	Sovereign Black		unisex	https://www.fragrantica.com/perfume/Decorum-Stockholm/Sovereign-Black-50862.html	decorum-stockholm/unisex/sovereign-black.png
 Decorum Stockholm	Sovereign White		unisex	https://www.fragrantica.com/perfume/Decorum-Stockholm/Sovereign-White-50863.html	decorum-stockholm/unisex/sovereign-white.png
 Decorum Stockholm	Wise Black		unisex	https://www.fragrantica.com/perfume/Decorum-Stockholm/Wise-Black-50864.html	
@@ -35284,7 +35284,7 @@ Diana Bolocco	Viva		female	https://www.fragrantica.com/perfume/Diana-Bolocco/Viv
 Diana de Silva	Divina		female	https://www.fragrantica.com/perfume/Diana-de-Silva/Divina-23563.html	
 Diana de Silva	Ettore Bugatti		male	https://www.fragrantica.com/perfume/Diana-de-Silva/Ettore-Bugatti-23566.html	diana-de-silva/male/ettore-bugatti.png
 Diana de Silva	Genny		female	https://www.fragrantica.com/perfume/Diana-de-Silva/Genny-23565.html	diana-de-silva/female/genny.png
-Diana de Silva	Genny Shine		female	https://www.fragrantica.com/perfume/Diana-de-Silva/Genny-Shine-23564.html	
+Diana de Silva	Genny Shine		female	https://www.fragrantica.com/perfume/Diana-de-Silva/Genny-Shine-23564.html	diana-de-silva/female/genny-shine.png
 Diana Drummond	Sable		unisex	https://www.fragrantica.com/perfume/Diana-Drummond/Sable-110708.html	diana-drummond/unisex/sable.png
 Diana Drummond	Sable Classic		unisex	https://www.fragrantica.com/perfume/Diana-Drummond/Sable-Classic-110711.html	diana-drummond/unisex/sable-classic.png
 Diana Drummond	Scottish Orchis		unisex	https://www.fragrantica.com/perfume/Diana-Drummond/Scottish-Orchis-110709.html	diana-drummond/unisex/scottish-orchis.png
@@ -36702,7 +36702,7 @@ Domenico Caraceni	Domenico Caraceni 1913	Eau de Parfum	male	https://www.fragrant
 Domenico Caraceni	Domenico Caraceni 1913 Eau de Parfum	Eau de Parfum	male	https://www.fragrantica.com/perfume/Domenico-Caraceni/Domenico-Caraceni-1913-Eau-de-Parfum-76344.html	domenico-caraceni/male/domenico-caraceni-1913-eau-de-parfum.png
 Domenico Caraceni	Ivy League		unisex	https://www.fragrantica.com/perfume/Domenico-Caraceni/Ivy-League-2197.html	domenico-caraceni/unisex/ivy-league.png
 Domenico Caraceni	Loren	Eau de Toilette	female	https://www.fragrantica.com/perfume/Domenico-Caraceni/Loren-2198.html	domenico-caraceni/female/loren.png
-Dominican Perfumes	Happiness Potion		unisex	https://www.fragrantica.com/perfume/Dominican-Perfumes/Happiness-Potion-37762.html	
+Dominican Perfumes	Happiness Potion		unisex	https://www.fragrantica.com/perfume/Dominican-Perfumes/Happiness-Potion-37762.html	dominican-perfumes/unisex/happiness-potion.png
 Dominican Perfumes	Health Potion		unisex	https://www.fragrantica.com/perfume/Dominican-Perfumes/Health-Potion-37761.html	
 Dominican Perfumes	Love Potion		unisex	https://www.fragrantica.com/perfume/Dominican-Perfumes/Love-Potion-37764.html	
 Dominican Perfumes	Manantial Rose		unisex	https://www.fragrantica.com/perfume/Dominican-Perfumes/Manantial-Rose-37759.html	
@@ -38073,7 +38073,7 @@ Durance en Provence	Zeste de Vétiver		male	https://www.fragrantica.com/perfume/
 Dusk	Acapulco		unisex	https://www.fragrantica.com/perfume/Dusk/Acapulco-91664.html	dusk/unisex/acapulco.png
 Dusk	Acapulco Spritz		unisex	https://www.fragrantica.com/perfume/Dusk/Acapulco-Spritz-121506.html	
 Dusk	Alfresco Florence		unisex	https://www.fragrantica.com/perfume/Dusk/Alfresco-Florence-121501.html	
-Dusk	Amber Nights		unisex	https://www.fragrantica.com/perfume/Dusk/Amber-Nights-91665.html	
+Dusk	Amber Nights		unisex	https://www.fragrantica.com/perfume/Dusk/Amber-Nights-91665.html	dusk/unisex/amber-nights.png
 Dusk	Aura Australis		unisex	https://www.fragrantica.com/perfume/Dusk/Aura-Australis-121505.html	
 Dusk	Luminous Gardenia		unisex	https://www.fragrantica.com/perfume/Dusk/Luminous-Gardenia-121504.html	
 Dusk	Ruby Rose		unisex	https://www.fragrantica.com/perfume/Dusk/Ruby-Rose-121455.html	
@@ -38082,7 +38082,7 @@ Dusk	Sunset Symphony		unisex	https://www.fragrantica.com/perfume/Dusk/Sunset-Sym
 Dusk	Tangier Affair		unisex	https://www.fragrantica.com/perfume/Dusk/Tangier-Affair-121456.html	
 Dusk	Tokyo		unisex	https://www.fragrantica.com/perfume/Dusk/Tokyo-91656.html	
 Dusk	Tokyo Bloom		unisex	https://www.fragrantica.com/perfume/Dusk/Tokyo-Bloom-121502.html	dusk/unisex/tokyo-bloom.png
-Dusk	Vanilla Caramel		unisex	https://www.fragrantica.com/perfume/Dusk/Vanilla-Caramel-91657.html	
+Dusk	Vanilla Caramel		unisex	https://www.fragrantica.com/perfume/Dusk/Vanilla-Caramel-91657.html	dusk/unisex/vanilla-caramel.png
 Dylan Jeffries	Blaze		male	https://www.fragrantica.com/perfume/Dylan-Jeffries/Blaze-94790.html	
 Dylan Jeffries	Crave		male	https://www.fragrantica.com/perfume/Dylan-Jeffries/Crave-94791.html	
 Dylan Jeffries	Emerald Lust		female	https://www.fragrantica.com/perfume/Dylan-Jeffries/Emerald-Lust-136734.html	dylan-jeffries/female/emerald-lust.png
@@ -39203,10 +39203,10 @@ Edward Bess	Spanish Veil		female	https://www.fragrantica.com/perfume/Edward-Bess
 Effa	Ayati		unisex	https://www.fragrantica.com/perfume/Effa/Ayati-103649.html	effa/unisex/ayati.png
 Efva Attling	Amor Vincit Omnia No 1		female	https://www.fragrantica.com/perfume/Efva-Attling/Amor-Vincit-Omnia-No-1-50493.html	efva-attling/female/amor-vincit-omnia-no-1.png
 Efva Attling	Captured Harmony	Eau de Parfum	female	https://www.fragrantica.com/perfume/Efva-Attling/Captured-Harmony-53013.html	efva-attling/female/captured-harmony.png
-Efva Attling	Human		unisex	https://www.fragrantica.com/perfume/Efva-Attling/Human-50492.html	
-Efva Attling	Kaboom		unisex	https://www.fragrantica.com/perfume/Efva-Attling/Kaboom-50489.html	
-Efva Attling	Miss Butterfly		female	https://www.fragrantica.com/perfume/Efva-Attling/Miss-Butterfly-50491.html	
-Efva Attling	Rose Petals		female	https://www.fragrantica.com/perfume/Efva-Attling/Rose-Petals-50490.html	
+Efva Attling	Human		unisex	https://www.fragrantica.com/perfume/Efva-Attling/Human-50492.html	efva-attling/unisex/human.png
+Efva Attling	Kaboom		unisex	https://www.fragrantica.com/perfume/Efva-Attling/Kaboom-50489.html	efva-attling/unisex/kaboom.png
+Efva Attling	Miss Butterfly		female	https://www.fragrantica.com/perfume/Efva-Attling/Miss-Butterfly-50491.html	efva-attling/female/miss-butterfly.png
+Efva Attling	Rose Petals		female	https://www.fragrantica.com/perfume/Efva-Attling/Rose-Petals-50490.html	efva-attling/female/rose-petals.png
 Efva Attling	Twosome		female	https://www.fragrantica.com/perfume/Efva-Attling/Twosome-50488.html	
 Eglė Jonaitytė Botanical Perfumes	Aqua Sancta		unisex	https://www.fragrantica.com/perfume/Egle-Jonaityte-Botanical-Perfumes/Aqua-Sancta-53852.html	egle-jonaityte-botanical-perfumes/unisex/aqua-sancta.png
 Eglė Jonaitytė Botanical Perfumes	Kaunas Art Deco		unisex	https://www.fragrantica.com/perfume/Egle-Jonaityte-Botanical-Perfumes/Kaunas-Art-Deco-54391.html	
@@ -39535,7 +39535,7 @@ Elara Paris	Burn For You		female	https://www.fragrantica.com/perfume/Elara-Paris
 Elara Paris	Eden's Heart		female	https://www.fragrantica.com/perfume/Elara-Paris/Eden-s-Heart-138944.html	
 Elaïo	Peau d'un Soir		unisex	https://www.fragrantica.com/perfume/Elaio/Peau-d-un-Soir-80091.html	
 Elaïo	Peau Perlée	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Elaio/Peau-Perlee-80090.html	elaio/unisex/peau-perlee.png
-Elaïo	Peau Salée		unisex	https://www.fragrantica.com/perfume/Elaio/Peau-Salee-80088.html	
+Elaïo	Peau Salée		unisex	https://www.fragrantica.com/perfume/Elaio/Peau-Salee-80088.html	elaio/unisex/peau-salee.png
 Elaïo	Peau Secrète		unisex	https://www.fragrantica.com/perfume/Elaio/Peau-Secrete-80089.html	elaio/unisex/peau-secrete.png
 Elaïo	Peau à Peau		unisex	https://www.fragrantica.com/perfume/Elaio/Peau-a-Peau-80087.html	
 Electimuss	Alkout	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Electimuss/Alkout-61820.html	electimuss/unisex/alkout.png
@@ -39588,7 +39588,7 @@ Elegantes	Amber Incense		unisex	https://www.fragrantica.com/perfume/Elegantes/Am
 Elegantes	Amber Wood		unisex	https://www.fragrantica.com/perfume/Elegantes/Amber-Wood-43255.html	
 Elegantes	Cashmere		female	https://www.fragrantica.com/perfume/Elegantes/Cashmere-52303.html	elegantes/female/cashmere.png
 Elegantes	Chesterfield Club		male	https://www.fragrantica.com/perfume/Elegantes/Chesterfield-Club-43254.html	
-Elegantes	Elegantes Heart		male	https://www.fragrantica.com/perfume/Elegantes/Elegantes-Heart-87565.html	
+Elegantes	Elegantes Heart		male	https://www.fragrantica.com/perfume/Elegantes/Elegantes-Heart-87565.html	elegantes/male/elegantes-heart.png
 Elegantes	Nostalgia		unisex	https://www.fragrantica.com/perfume/Elegantes/Nostalgia-87564.html	elegantes/unisex/nostalgia.png
 Elegantes	Orris Vetiver		female	https://www.fragrantica.com/perfume/Elegantes/Orris-Vetiver-43099.html	
 Elegantes	Oud Exquisite		male	https://www.fragrantica.com/perfume/Elegantes/Oud-Exquisite-87562.html	elegantes/male/oud-exquisite.png
@@ -40884,7 +40884,7 @@ English Blazer	Empire		male	https://www.fragrantica.com/perfume/English-Blazer/E
 English Blazer	English Blazer Original	Eau de Toilette	male	https://www.fragrantica.com/perfume/English-Blazer/English-Blazer-Original-109781.html	english-blazer/male/english-blazer-original.png
 English Blazer	Gold	Eau de Parfum	male	https://www.fragrantica.com/perfume/English-Blazer/Gold-109787.html	english-blazer/male/gold.png
 English Blazer	London		male	https://www.fragrantica.com/perfume/English-Blazer/London-109782.html	english-blazer/male/london.png
-English Blazer	Sailor		male	https://www.fragrantica.com/perfume/English-Blazer/Sailor-109785.html	
+English Blazer	Sailor		male	https://www.fragrantica.com/perfume/English-Blazer/Sailor-109785.html	english-blazer/male/sailor.png
 English Blazer	Timeless		unisex	https://www.fragrantica.com/perfume/English-Blazer/Timeless-109783.html	
 English Laundry	Abbey		unisex	https://www.fragrantica.com/perfume/English-Laundry/Abbey-82695.html	english-laundry/unisex/abbey.png
 English Laundry	Armour		male	https://www.fragrantica.com/perfume/English-Laundry/Armour-74541.html	english-laundry/male/armour.png
@@ -41193,15 +41193,15 @@ EOS	Pomegranate Raspberry		female	https://www.fragrantica.com/perfume/EOS/Pomegr
 EOS	Strawberry Dream		female	https://www.fragrantica.com/perfume/EOS/Strawberry-Dream-122800.html	
 EOS	Strawberry Dream		female	https://www.fragrantica.com/perfume/EOS/Strawberry-Dream-124137.html	
 EOS	Vanilla Cashmere		female	https://www.fragrantica.com/perfume/EOS/Vanilla-Cashmere-122799.html	
-EPC Experimental Perfume Club	1950 Limited Edition Blends		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/1950-Limited-Edition-Blends-75654.html	
-EPC Experimental Perfume Club	Amber Iris		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Amber-Iris-63855.html	
+EPC Experimental Perfume Club	1950 Limited Edition Blends		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/1950-Limited-Edition-Blends-75654.html	epc-experimental-perfume-club/unisex/1950-limited-edition-blends.png
+EPC Experimental Perfume Club	Amber Iris		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Amber-Iris-63855.html	epc-experimental-perfume-club/unisex/amber-iris.png
 EPC Experimental Perfume Club	Ambre Épices		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Ambre-Epices-80962.html	
 EPC Experimental Perfume Club	Bergamot Incense		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Bergamot-Incense-63858.html	
 EPC Experimental Perfume Club	Black Nagarmotha		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Black-Nagarmotha-80968.html	
-EPC Experimental Perfume Club	Cardamom Moss		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Cardamom-Moss-81014.html	
+EPC Experimental Perfume Club	Cardamom Moss		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Cardamom-Moss-81014.html	epc-experimental-perfume-club/unisex/cardamom-moss.png
 EPC Experimental Perfume Club	Cedarwood Absinth		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Cedarwood-Absinth-81019.html	epc-experimental-perfume-club/unisex/cedarwood-absinth.png
-EPC Experimental Perfume Club	Fig Neroli		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Fig-Neroli-63859.html	
-EPC Experimental Perfume Club	Fleur d’Ambre		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Fleur-d-Ambre-80965.html	
+EPC Experimental Perfume Club	Fig Neroli		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Fig-Neroli-63859.html	epc-experimental-perfume-club/unisex/fig-neroli.png
+EPC Experimental Perfume Club	Fleur d’Ambre		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Fleur-d-Ambre-80965.html	epc-experimental-perfume-club/unisex/fleur-dambre.png
 EPC Experimental Perfume Club	Iris Carmin		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Iris-Carmin-75653.html	
 EPC Experimental Perfume Club	Jasmine Osmanthus		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Jasmine-Osmanthus-63860.html	epc-experimental-perfume-club/unisex/jasmine-osmanthus.png
 EPC Experimental Perfume Club	Pistachio Haiku		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Pistachio-Haiku-96572.html	
@@ -41210,10 +41210,10 @@ EPC Experimental Perfume Club	Rose Rhubarb		unisex	https://www.fragrantica.com/p
 EPC Experimental Perfume Club	Sable Gris		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Sable-Gris-80963.html	
 EPC Experimental Perfume Club	Sandalwood Musk		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Sandalwood-Musk-63861.html	
 EPC Experimental Perfume Club	Santal Nuit		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Santal-Nuit-80983.html	
-EPC Experimental Perfume Club	Smell Like A King (Limited Edition)		male	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Smell-Like-A-King-Limited-Edition-82010.html	
+EPC Experimental Perfume Club	Smell Like A King (Limited Edition)		male	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Smell-Like-A-King-Limited-Edition-82010.html	epc-experimental-perfume-club/male/smell-like-a-king-limited-edition.png
 EPC Experimental Perfume Club	Soleil d'Hiver		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Soleil-d-Hiver-96573.html	
-EPC Experimental Perfume Club	Tonka Extraordinaire		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Tonka-Extraordinaire-80972.html	
-EPC Experimental Perfume Club	Tonka Sesame		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Tonka-Sesame-81018.html	
+EPC Experimental Perfume Club	Tonka Extraordinaire		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Tonka-Extraordinaire-80972.html	epc-experimental-perfume-club/unisex/tonka-extraordinaire.png
+EPC Experimental Perfume Club	Tonka Sesame		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Tonka-Sesame-81018.html	epc-experimental-perfume-club/unisex/tonka-sesame.png
 EPC Experimental Perfume Club	Velvet Incense		unisex	https://www.fragrantica.com/perfume/EPC-Experimental-Perfume-Club/Velvet-Incense-80964.html	
 Ephemera by Unsound	Bass		unisex	https://www.fragrantica.com/perfume/Ephemera-by-Unsound/Bass-30678.html	
 Ephemera by Unsound	Drone		unisex	https://www.fragrantica.com/perfume/Ephemera-by-Unsound/Drone-30679.html	
@@ -41882,7 +41882,7 @@ Essence de Roumanie	Roman	Eau de Parfum	male	https://www.fragrantica.com/perfume
 Essence de Roumanie	Roua		unisex	https://www.fragrantica.com/perfume/Essence-de-Roumanie/Roua-77224.html	
 Essence de Roumanie	Vis	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Essence-de-Roumanie/Vis-77225.html	essence-de-roumanie/unisex/vis.png
 Essence Ethics	Arabian Dreams		unisex	https://www.fragrantica.com/perfume/Essence-Ethics/Arabian-Dreams-97678.html	
-Essence Ethics	La Primavera		unisex	https://www.fragrantica.com/perfume/Essence-Ethics/La-Primavera-97693.html	
+Essence Ethics	La Primavera		unisex	https://www.fragrantica.com/perfume/Essence-Ethics/La-Primavera-97693.html	essence-ethics/unisex/la-primavera.png
 Essence Ethics	Marryana		female	https://www.fragrantica.com/perfume/Essence-Ethics/Marryana-97694.html	essence-ethics/female/marryana.png
 Essence Ethics	Overnight		male	https://www.fragrantica.com/perfume/Essence-Ethics/Overnight-97676.html	
 Essence Ethics	Vanilla Coffee		unisex	https://www.fragrantica.com/perfume/Essence-Ethics/Vanilla-Coffee-97677.html	essence-ethics/unisex/vanilla-coffee.png
@@ -42267,7 +42267,7 @@ Estiara	X-Fashion by Night		male	https://www.fragrantica.com/perfume/Estiara/X-F
 Estoras	Antal		unisex	https://www.fragrantica.com/perfume/Estoras/Antal-76248.html	estoras/unisex/antal.png
 Estoras	Port Of Alexandria		unisex	https://www.fragrantica.com/perfume/Estoras/Port-Of-Alexandria-85145.html	estoras/unisex/port-of-alexandria.png
 Estoras	Shadows Of Giza		unisex	https://www.fragrantica.com/perfume/Estoras/Shadows-Of-Giza-85146.html	
-Estoras	Shores Of Asyut		unisex	https://www.fragrantica.com/perfume/Estoras/Shores-Of-Asyut-103236.html	
+Estoras	Shores Of Asyut		unisex	https://www.fragrantica.com/perfume/Estoras/Shores-Of-Asyut-103236.html	estoras/unisex/shores-of-asyut.png
 Estrvs	Coco Extreme		unisex	https://www.fragrantica.com/perfume/Estrvs/Coco-Extreme-138744.html	
 Estrvs	Maresia		unisex	https://www.fragrantica.com/perfume/Estrvs/Maresia-138745.html	
 Estrvs	Oman Sky		unisex	https://www.fragrantica.com/perfume/Estrvs/Oman-Sky-138746.html	
@@ -43388,7 +43388,7 @@ Expand	Pink Pixy		female	https://www.fragrantica.com/perfume/Expand/Pink-Pixy-13
 Expand	Rose Moon		female	https://www.fragrantica.com/perfume/Expand/Rose-Moon-13898.html	expand/female/rose-moon.png
 Expand	Wonder Flower Day		female	https://www.fragrantica.com/perfume/Expand/Wonder-Flower-Day-13895.html	expand/female/wonder-flower-day.png
 Expand	Wonder Flower Night		female	https://www.fragrantica.com/perfume/Expand/Wonder-Flower-Night-13896.html	
-Expensive Chaos Company	Black Square		unisex	https://www.fragrantica.com/perfume/Expensive-Chaos-Company/Black-Square-113607.html	
+Expensive Chaos Company	Black Square		unisex	https://www.fragrantica.com/perfume/Expensive-Chaos-Company/Black-Square-113607.html	expensive-chaos-company/unisex/black-square.png
 Expensive Chaos Company	Can You Hear Me?		unisex	https://www.fragrantica.com/perfume/Expensive-Chaos-Company/Can-You-Hear-Me-113612.html	expensive-chaos-company/unisex/can-you-hear-me.png
 Expensive Chaos Company	Follow Me		unisex	https://www.fragrantica.com/perfume/Expensive-Chaos-Company/Follow-Me-113610.html	
 Expensive Chaos Company	Frozen Mineral		unisex	https://www.fragrantica.com/perfume/Expensive-Chaos-Company/Frozen-Mineral-113619.html	expensive-chaos-company/unisex/frozen-mineral.png
@@ -44059,16 +44059,16 @@ Farfalla	Frangipani Eau Fraiche		female	https://www.fragrantica.com/perfume/Farf
 Farfalla	Hippie Rose		unisex	https://www.fragrantica.com/perfume/Farfalla/Hippie-Rose-61651.html	
 Farfalla	L'Amour		female	https://www.fragrantica.com/perfume/Farfalla/L-Amour-16703.html	
 Farfalla	Mandarine	Eau de Cologne	unisex	https://www.fragrantica.com/perfume/Farfalla/Mandarine-61652.html	
-Farfalla	Nerola		female	https://www.fragrantica.com/perfume/Farfalla/Nerola-16701.html	
+Farfalla	Nerola		female	https://www.fragrantica.com/perfume/Farfalla/Nerola-16701.html	farfalla/female/nerola.png
 Farfalla	No Fake		unisex	https://www.fragrantica.com/perfume/Farfalla/No-Fake-61653.html	
 Farfalla	Nomad		unisex	https://www.fragrantica.com/perfume/Farfalla/Nomad-61654.html	
-Farfalla	Nuvola		unisex	https://www.fragrantica.com/perfume/Farfalla/Nuvola-16699.html	
+Farfalla	Nuvola		unisex	https://www.fragrantica.com/perfume/Farfalla/Nuvola-16699.html	farfalla/unisex/nuvola.png
 Farfalla	Optimist		unisex	https://www.fragrantica.com/perfume/Farfalla/Optimist-61655.html	
 Farfalla	Pleasure Eau Fraiche		female	https://www.fragrantica.com/perfume/Farfalla/Pleasure-Eau-Fraiche-16709.html	
 Farfalla	Sandalwood		male	https://www.fragrantica.com/perfume/Farfalla/Sandalwood-16705.html	farfalla/male/sandalwood.png
-Farfalla	Shandrani		unisex	https://www.fragrantica.com/perfume/Farfalla/Shandrani-16700.html	
+Farfalla	Shandrani		unisex	https://www.fragrantica.com/perfume/Farfalla/Shandrani-16700.html	farfalla/unisex/shandrani.png
 Farfalla	Uomo		unisex	https://www.fragrantica.com/perfume/Farfalla/Uomo-16707.html	
-Farfalla	Vanilla Nuvola		unisex	https://www.fragrantica.com/perfume/Farfalla/Vanilla-Nuvola-61656.html	
+Farfalla	Vanilla Nuvola		unisex	https://www.fragrantica.com/perfume/Farfalla/Vanilla-Nuvola-61656.html	farfalla/unisex/vanilla-nuvola.png
 Farfalla	Vetiver		male	https://www.fragrantica.com/perfume/Farfalla/Vetiver-16706.html	farfalla/male/vetiver.png
 Farfalla	Woody Bergamot		unisex	https://www.fragrantica.com/perfume/Farfalla/Woody-Bergamot-61657.html	
 Farina	1709 Original Eau de Cologne	Eau de Cologne	unisex	https://www.fragrantica.com/perfume/Farina/1709-Original-Eau-de-Cologne-17185.html	farina/unisex/1709-original-eau-de-cologne.png
@@ -44213,7 +44213,7 @@ Faviol Seferi	Insomnia		unisex	https://www.fragrantica.com/perfume/Faviol-Seferi
 Faviol Seferi	Insomnia Ritual		unisex	https://www.fragrantica.com/perfume/Faviol-Seferi/Insomnia-Ritual-69174.html	faviol-seferi/unisex/insomnia-ritual.png
 Favorit & Co	East	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Favorit-Co/East-73650.html	favorit-co/unisex/east.png
 Favorit & Co	North	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Favorit-Co/North-73586.html	favorit-co/unisex/north.png
-Favorit & Co	South		unisex	https://www.fragrantica.com/perfume/Favorit-Co/South-73649.html	
+Favorit & Co	South		unisex	https://www.fragrantica.com/perfume/Favorit-Co/South-73649.html	favorit-co/unisex/south.png
 Favorit & Co	West		unisex	https://www.fragrantica.com/perfume/Favorit-Co/West-73608.html	
 Fawn	Ember Secret		unisex	https://www.fragrantica.com/perfume/Fawn/Ember-Secret-117900.html	fawn/unisex/ember-secret.png
 Fawn	Golden Salt		unisex	https://www.fragrantica.com/perfume/Fawn/Golden-Salt-117898.html	fawn/unisex/golden-salt.png
@@ -45081,8 +45081,8 @@ Fleur de Florence	Pure Rose	Extrait de Parfum	unisex	https://www.fragrantica.com
 Fleur de Florence	Sweet Iris		unisex	https://www.fragrantica.com/perfume/Fleur-de-Florence/Sweet-Iris-95674.html	
 Fleur de Niche	Amantheya		unisex	https://www.fragrantica.com/perfume/Fleur-de-Niche/Amantheya-117478.html	fleur-de-niche/unisex/amantheya.png
 Fleur de Niche	Orilys		unisex	https://www.fragrantica.com/perfume/Fleur-de-Niche/Orilys-117476.html	fleur-de-niche/unisex/orilys.png
-Fleur de Niche	Rhealya Oud		unisex	https://www.fragrantica.com/perfume/Fleur-de-Niche/Rhealya-Oud-117479.html	
-Fleur de Niche	Zanthirya		unisex	https://www.fragrantica.com/perfume/Fleur-de-Niche/Zanthirya-117477.html	
+Fleur de Niche	Rhealya Oud		unisex	https://www.fragrantica.com/perfume/Fleur-de-Niche/Rhealya-Oud-117479.html	fleur-de-niche/unisex/rhealya-oud.png
+Fleur de Niche	Zanthirya		unisex	https://www.fragrantica.com/perfume/Fleur-de-Niche/Zanthirya-117477.html	fleur-de-niche/unisex/zanthirya.png
 Fleur de Sante	Alva		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Alva-29856.html	
 Fleur de Sante	Be Mine		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Be-Mine-29852.html	
 Fleur de Sante	Crystal Glam l'Amour		female	https://www.fragrantica.com/perfume/Fleur-de-Sante/Crystal-Glam-l-Amour-29847.html	fleur-de-sante/female/crystal-glam-l-amour.png
@@ -45201,7 +45201,7 @@ Fleurage	Yuletide Botanical Parfum	Parfum	unisex	https://www.fragrantica.com/per
 Fleurage	Zesty Citrus		unisex	https://www.fragrantica.com/perfume/Fleurage/Zesty-Citrus-35196.html	
 Fleurit Parfums	Fleuriste		unisex	https://www.fragrantica.com/perfume/Fleurit-Parfums/Fleuriste-100013.html	
 Fleurit Parfums	Fleurs de Déesse		unisex	https://www.fragrantica.com/perfume/Fleurit-Parfums/Fleurs-de-Deesse-100015.html	fleurit-parfums/unisex/fleurs-de-deesse.png
-Fleurit Parfums	Fleurs de Tabac		unisex	https://www.fragrantica.com/perfume/Fleurit-Parfums/Fleurs-de-Tabac-100024.html	
+Fleurit Parfums	Fleurs de Tabac		unisex	https://www.fragrantica.com/perfume/Fleurit-Parfums/Fleurs-de-Tabac-100024.html	fleurit-parfums/unisex/fleurs-de-tabac.png
 Fleurit Parfums	Gâteau des Anges		unisex	https://www.fragrantica.com/perfume/Fleurit-Parfums/Gateau-des-Anges-100022.html	fleurit-parfums/unisex/gateau-des-anges.png
 Fleurit Parfums	Sacré Coeur		unisex	https://www.fragrantica.com/perfume/Fleurit-Parfums/Sacre-Coeur-100018.html	fleurit-parfums/unisex/sacre-coeur.png
 Fleurit Parfums	Sainte Fumée		unisex	https://www.fragrantica.com/perfume/Fleurit-Parfums/Sainte-Fumee-100020.html	fleurit-parfums/unisex/sainte-fumee.png
@@ -45814,13 +45814,13 @@ For the Scent of It	Wasteland Warrior		unisex	https://www.fragrantica.com/perfum
 For the Scent of It	Épice Fern		unisex	https://www.fragrantica.com/perfume/For-the-Scent-of-It/Epice-Fern-85322.html	for-the-scent-of-it/unisex/epice-fern.png
 Foras	11 Church Street		unisex	https://www.fragrantica.com/perfume/Foras/11-Church-Street-97302.html	foras/unisex/11-church-street.png
 Foras	Bitter Citrus		unisex	https://www.fragrantica.com/perfume/Foras/Bitter-Citrus-97303.html	foras/unisex/bitter-citrus.png
-Foras	Elemental Musk		unisex	https://www.fragrantica.com/perfume/Foras/Elemental-Musk-97304.html	
+Foras	Elemental Musk		unisex	https://www.fragrantica.com/perfume/Foras/Elemental-Musk-97304.html	foras/unisex/elemental-musk.png
 Foras	Fig Ozone		unisex	https://www.fragrantica.com/perfume/Foras/Fig-Ozone-97305.html	
 Foras	Folkestone Green		unisex	https://www.fragrantica.com/perfume/Foras/Folkestone-Green-97306.html	
 Foras	Mushroom Forest		unisex	https://www.fragrantica.com/perfume/Foras/Mushroom-Forest-97307.html	
-Foras	Ocean Tansy		unisex	https://www.fragrantica.com/perfume/Foras/Ocean-Tansy-97308.html	
+Foras	Ocean Tansy		unisex	https://www.fragrantica.com/perfume/Foras/Ocean-Tansy-97308.html	foras/unisex/ocean-tansy.png
 Foras	Oxidised Rose		unisex	https://www.fragrantica.com/perfume/Foras/Oxidised-Rose-97309.html	
-Foras	Rosemary Benzoin		unisex	https://www.fragrantica.com/perfume/Foras/Rosemary-Benzoin-97310.html	
+Foras	Rosemary Benzoin		unisex	https://www.fragrantica.com/perfume/Foras/Rosemary-Benzoin-97310.html	foras/unisex/rosemary-benzoin.png
 Foras	Summer Vine		unisex	https://www.fragrantica.com/perfume/Foras/Summer-Vine-97311.html	
 Forbelle	Autumn		male	https://www.fragrantica.com/perfume/Forbelle/Autumn-115941.html	forbelle/male/autumn.png
 Forbelle	Brown Apple		female	https://www.fragrantica.com/perfume/Forbelle/Brown-Apple-115938.html	forbelle/female/brown-apple.png
@@ -45889,7 +45889,7 @@ Fort & Manle	V For Vetiver		unisex	https://www.fragrantica.com/perfume/Fort-Manl
 Forum Perfumes	Betty Boop My Jeans		female	https://www.fragrantica.com/perfume/Forum-Perfumes/Betty-Boop-My-Jeans-70851.html	forum-perfumes/female/betty-boop-my-jeans.png
 FORVR MOOD	HARD TO GET		female	https://www.fragrantica.com/perfume/FORVR-MOOD/HARD-TO-GET-92880.html	forvr-mood/female/hard-to-get.png
 FORVR MOOD	I AM HER		female	https://www.fragrantica.com/perfume/FORVR-MOOD/I-AM-HER-92881.html	forvr-mood/female/i-am-her.png
-FORVR MOOD	NDA		unisex	https://www.fragrantica.com/perfume/FORVR-MOOD/NDA-92879.html	
+FORVR MOOD	NDA		unisex	https://www.fragrantica.com/perfume/FORVR-MOOD/NDA-92879.html	forvr-mood/unisex/nda.png
 FORVR MOOD	Not Your Type		female	https://www.fragrantica.com/perfume/FORVR-MOOD/Not-Your-Type-139640.html	forvr-mood/female/not-your-type.png
 FORVR MOOD	She Was Here		unisex	https://www.fragrantica.com/perfume/FORVR-MOOD/She-Was-Here-112726.html	forvr-mood/unisex/she-was-here.png
 FORVR MOOD	YOU REMIND ME		unisex	https://www.fragrantica.com/perfume/FORVR-MOOD/YOU-REMIND-ME-92878.html	forvr-mood/unisex/you-remind-me.png
@@ -47473,8 +47473,8 @@ Frederic Malle Editions de Parfums	Une Fleur de Cassie		female	https://www.fragr
 Frederic Malle Editions de Parfums	Vetiver Extraordinaire		male	https://www.fragrantica.com/perfume/Frederic-Malle-Editions-de-Parfums/Vetiver-Extraordinaire-4774.html	frederic-malle-editions-de-parfums/male/vetiver-extraordinaire.png
 Frederic Malle Editions de Parfums	Vétiver Extraordinaire 20 Ans		male	https://www.fragrantica.com/perfume/Frederic-Malle-Editions-de-Parfums/Vetiver-Extraordinaire-20-Ans-126856.html	frederic-malle-editions-de-parfums/male/vetiver-extraordinaire-20-ans.png
 Frederick's of Hollywood	F		female	https://www.fragrantica.com/perfume/Frederick-s-of-Hollywood/F-12291.html	frederick-s-of-hollywood/female/f.png
-FreeShape Milano	11:11		unisex	https://www.fragrantica.com/perfume/FreeShape-Milano/11-11-74901.html	
-FreeShape Milano	Akasha		unisex	https://www.fragrantica.com/perfume/FreeShape-Milano/Akasha-74903.html	
+FreeShape Milano	11:11		unisex	https://www.fragrantica.com/perfume/FreeShape-Milano/11-11-74901.html	freeshape-milano/unisex/11-11.png
+FreeShape Milano	Akasha		unisex	https://www.fragrantica.com/perfume/FreeShape-Milano/Akasha-74903.html	freeshape-milano/unisex/akasha.png
 FreeShape Milano	Ama		unisex	https://www.fragrantica.com/perfume/FreeShape-Milano/Ama-74906.html	freeshape-milano/unisex/ama.png
 FreeShape Milano	Eden		unisex	https://www.fragrantica.com/perfume/FreeShape-Milano/Eden-103042.html	
 FreeShape Milano	Eywa		unisex	https://www.fragrantica.com/perfume/FreeShape-Milano/Eywa-74904.html	
@@ -48316,7 +48316,7 @@ Future Style	Warda Bloom		female	https://www.fragrantica.com/perfume/Future-Styl
 fuwally	Black Tea		unisex	https://www.fragrantica.com/perfume/fuwally/Black-Tea-111366.html	fuwally/unisex/black-tea.png
 fuwally	Citrus		unisex	https://www.fragrantica.com/perfume/fuwally/Citrus-111360.html	fuwally/unisex/citrus.png
 fuwally	Fruity		unisex	https://www.fragrantica.com/perfume/fuwally/Fruity-111364.html	
-fuwally	Green Tea		unisex	https://www.fragrantica.com/perfume/fuwally/Green-Tea-111363.html	
+fuwally	Green Tea		unisex	https://www.fragrantica.com/perfume/fuwally/Green-Tea-111363.html	fuwally/unisex/green-tea.png
 fuwally	Jasmine		unisex	https://www.fragrantica.com/perfume/fuwally/Jasmine-111362.html	
 fuwally	Kinmokusei		unisex	https://www.fragrantica.com/perfume/fuwally/Kinmokusei-111365.html	fuwally/unisex/kinmokusei.png
 fuwally	Pear		unisex	https://www.fragrantica.com/perfume/fuwally/Pear-111367.html	
@@ -48453,7 +48453,7 @@ G. Inglese	Leucasia		unisex	https://www.fragrantica.com/perfume/G-Inglese/Leucas
 G. Inglese	Odorata Ginestra		unisex	https://www.fragrantica.com/perfume/G-Inglese/Odorata-Ginestra-126657.html	g-inglese/unisex/odorata-ginestra.png
 G. Nejman	G.Nejman Emir		male	https://www.fragrantica.com/perfume/G-Nejman/G-Nejman-Emir-9228.html	g-nejman/male/g-nejman-emir.png
 G. Nejman	Le Professionnel		male	https://www.fragrantica.com/perfume/G-Nejman/Le-Professionnel-18843.html	g-nejman/male/le-professionnel.png
-G. Nejman	Le Seducteur		male	https://www.fragrantica.com/perfume/G-Nejman/Le-Seducteur-17485.html	
+G. Nejman	Le Seducteur		male	https://www.fragrantica.com/perfume/G-Nejman/Le-Seducteur-17485.html	g-nejman/male/le-seducteur.png
 G. Nejman	Le Sportif		male	https://www.fragrantica.com/perfume/G-Nejman/Le-Sportif-18844.html	g-nejman/male/le-sportif.png
 G. Weedom	Gaylord		male	https://www.fragrantica.com/perfume/G-Weedom/Gaylord-127688.html	g-weedom/male/gaylord.png
 G. Weedom	Gaylord English Lavender	Eau de Cologne	male	https://www.fragrantica.com/perfume/G-Weedom/Gaylord-English-Lavender-127689.html	g-weedom/male/gaylord-english-lavender.png
@@ -49397,7 +49397,7 @@ Ghawali	Nobl	Parfum	unisex	https://www.fragrantica.com/perfume/Ghawali/Nobl-4535
 Ghawali	Nomadic Dreams	Parfum	unisex	https://www.fragrantica.com/perfume/Ghawali/Nomadic-Dreams-91150.html	ghawali/unisex/nomadic-dreams.png
 Ghawali	Teahouse Memoirs		unisex	https://www.fragrantica.com/perfume/Ghawali/Teahouse-Memoirs-108447.html	ghawali/unisex/teahouse-memoirs.png
 Ghawali	Untold		unisex	https://www.fragrantica.com/perfume/Ghawali/Untold-91149.html	ghawali/unisex/untold.png
-Gherardini	Donna		female	https://www.fragrantica.com/perfume/Gherardini/Donna-63879.html	
+Gherardini	Donna		female	https://www.fragrantica.com/perfume/Gherardini/Donna-63879.html	gherardini/female/donna.png
 Gherardini	Grazia		female	https://www.fragrantica.com/perfume/Gherardini/Grazia-78598.html	gherardini/female/grazia.png
 Gherardini	Uomo Ghe		male	https://www.fragrantica.com/perfume/Gherardini/Uomo-Ghe-63878.html	gherardini/male/uomo-ghe.png
 Ghost	Captivating		female	https://www.fragrantica.com/perfume/Ghost/Captivating-8374.html	ghost/female/captivating.png
@@ -50124,8 +50124,8 @@ Giovanni Bacci	Carry me Paris		unisex	https://www.fragrantica.com/perfume/Giovan
 Girard	Bali Sunrise		female	https://www.fragrantica.com/perfume/Girard/Bali-Sunrise-7667.html	girard/female/bali-sunrise.png
 Girard	Bouquet D'Orient		female	https://www.fragrantica.com/perfume/Girard/Bouquet-D-Orient-7670.html	girard/female/bouquet-d-orient.png
 Girard	Lysval		female	https://www.fragrantica.com/perfume/Girard/Lysval-7669.html	
-Girard	New York Nights		female	https://www.fragrantica.com/perfume/Girard/New-York-Nights-7671.html	
-Girard	Provence Spring		female	https://www.fragrantica.com/perfume/Girard/Provence-Spring-7672.html	
+Girard	New York Nights		female	https://www.fragrantica.com/perfume/Girard/New-York-Nights-7671.html	girard/female/new-york-nights.png
+Girard	Provence Spring		female	https://www.fragrantica.com/perfume/Girard/Provence-Spring-7672.html	girard/female/provence-spring.png
 Gisada	Ambassador Intense		male	https://www.fragrantica.com/perfume/Gisada/Ambassador-Intense-76636.html	gisada/male/ambassador-intense.png
 Gisada	Ambassador Men		male	https://www.fragrantica.com/perfume/Gisada/Ambassador-Men-58226.html	gisada/male/ambassador-men.png
 Gisada	Ambassador Women		female	https://www.fragrantica.com/perfume/Gisada/Ambassador-Women-58227.html	gisada/female/ambassador-women.png
@@ -50623,7 +50623,7 @@ Giverny	XX Wild		female	https://www.fragrantica.com/perfume/Giverny/XX-Wild-1108
 Giviemme	Tabacco D'Harar		unisex	https://www.fragrantica.com/perfume/Giviemme/Tabacco-D-Harar-73419.html	giviemme/unisex/tabacco-d-harar.png
 Giò Rocca Profumi	Exotic Mou		unisex	https://www.fragrantica.com/perfume/Gio-Rocca-Profumi/Exotic-Mou-128267.html	gio-rocca-profumi/unisex/exotic-mou.png
 Giò Rocca Profumi	Meringa Colada		unisex	https://www.fragrantica.com/perfume/Gio-Rocca-Profumi/Meringa-Colada-105589.html	gio-rocca-profumi/unisex/meringa-colada.png
-Giò Rocca Profumi	Rum for Two		unisex	https://www.fragrantica.com/perfume/Gio-Rocca-Profumi/Rum-for-Two-102984.html	
+Giò Rocca Profumi	Rum for Two		unisex	https://www.fragrantica.com/perfume/Gio-Rocca-Profumi/Rum-for-Two-102984.html	gio-rocca-profumi/unisex/rum-for-two.png
 GL	GL Embaixador		male	https://www.fragrantica.com/perfume/GL/GL-Embaixador-82106.html	gl/male/gl-embaixador.png
 GL	GL Embaixador Desejo Ela		female	https://www.fragrantica.com/perfume/GL/GL-Embaixador-Desejo-Ela-92520.html	gl/female/gl-embaixador-desejo-ela.png
 GL	GL Embaixador Desejo Ele		male	https://www.fragrantica.com/perfume/GL/GL-Embaixador-Desejo-Ele-94719.html	gl/male/gl-embaixador-desejo-ele.png
@@ -50689,7 +50689,7 @@ Glossier	You		unisex	https://www.fragrantica.com/perfume/Glossier/You-46885.html
 Glossier	You Doux		unisex	https://www.fragrantica.com/perfume/Glossier/You-Doux-97605.html	glossier/unisex/you-doux.png
 Glossier	You Fleur		unisex	https://www.fragrantica.com/perfume/Glossier/You-Fleur-103425.html	
 Glossier	You Rêve	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/Glossier/You-Reve-97604.html	glossier/unisex/you-reve.png
-Glossier	You Soie		unisex	https://www.fragrantica.com/perfume/Glossier/You-Soie-127462.html	
+Glossier	You Soie		unisex	https://www.fragrantica.com/perfume/Glossier/You-Soie-127462.html	glossier/unisex/you-soie.png
 Glow Hub	Dopamine		female	https://www.fragrantica.com/perfume/Glow-Hub/Dopamine-113675.html	
 Glow Hub	Hot Sauce		female	https://www.fragrantica.com/perfume/Glow-Hub/Hot-Sauce-113676.html	
 Glow Hub	Pipe Dream		female	https://www.fragrantica.com/perfume/Glow-Hub/Pipe-Dream-113677.html	
@@ -52839,7 +52839,7 @@ Haeckels	510 22 17 N 10 22 41 E		unisex	https://www.fragrantica.com/perfume/Haec
 Haeckels	510 22 46 N 10 12 0 E		unisex	https://www.fragrantica.com/perfume/Haeckels/510-22-46-N-10-12-0-E-48300.html	haeckels/unisex/510-22-46-n-10-12-0-e.png
 Haeckels	510 23 19 N 10 26 3 E		unisex	https://www.fragrantica.com/perfume/Haeckels/510-23-19-N-10-26-3-E-48298.html	
 Haeckels	Elizabeth Street		unisex	https://www.fragrantica.com/perfume/Haeckels/Elizabeth-Street-48302.html	
-Haeckels	Queen Street		unisex	https://www.fragrantica.com/perfume/Haeckels/Queen-Street-48301.html	
+Haeckels	Queen Street		unisex	https://www.fragrantica.com/perfume/Haeckels/Queen-Street-48301.html	haeckels/unisex/queen-street.png
 Hajri	1995		unisex	https://www.fragrantica.com/perfume/Hajri/1995-116476.html	hajri/unisex/1995.png
 Hajri	Amur Bin Nasser		unisex	https://www.fragrantica.com/perfume/Hajri/Amur-Bin-Nasser-118668.html	hajri/unisex/amur-bin-nasser.png
 Hajri	Apple Vert		unisex	https://www.fragrantica.com/perfume/Hajri/Apple-Vert-116477.html	hajri/unisex/apple-vert.png
@@ -53065,7 +53065,7 @@ Happyland	Cuir Cafe		unisex	https://www.fragrantica.com/perfume/Happyland/Cuir-C
 Happyland	Green Irish Tobacco	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Happyland/Green-Irish-Tobacco-58798.html	happyland/unisex/green-irish-tobacco.png
 Happyland	Happyland Signature		unisex	https://www.fragrantica.com/perfume/Happyland/Happyland-Signature-57435.html	happyland/unisex/happyland-signature.png
 Happyland	Homme for the Holidays		unisex	https://www.fragrantica.com/perfume/Happyland/Homme-for-the-Holidays-58796.html	
-Happyland	Hommeland		unisex	https://www.fragrantica.com/perfume/Happyland/Hommeland-61141.html	
+Happyland	Hommeland		unisex	https://www.fragrantica.com/perfume/Happyland/Hommeland-61141.html	happyland/unisex/hommeland.png
 Happyland	Paisley Sky		unisex	https://www.fragrantica.com/perfume/Happyland/Paisley-Sky-58799.html	
 Happyland	Plum Loco		unisex	https://www.fragrantica.com/perfume/Happyland/Plum-Loco-57627.html	
 Happyland	Rhyolite		unisex	https://www.fragrantica.com/perfume/Happyland/Rhyolite-57494.html	
@@ -53355,11 +53355,11 @@ hausFOG	Magnetic Santal	Eau de Parfum	unisex	https://www.fragrantica.com/perfume
 hausFOG	Matchamade	Eau de Parfum	unisex	https://www.fragrantica.com/perfume/hausFOG/Matchamade-119541.html	
 Hausser	Amayadori		unisex	https://www.fragrantica.com/perfume/Hausser/Amayadori-95468.html	hausser/unisex/amayadori.png
 Hausser	Ballade en Papier		unisex	https://www.fragrantica.com/perfume/Hausser/Ballade-en-Papier-95467.html	
-Hausser	Bijoux de Nuit		unisex	https://www.fragrantica.com/perfume/Hausser/Bijoux-de-Nuit-95464.html	
+Hausser	Bijoux de Nuit		unisex	https://www.fragrantica.com/perfume/Hausser/Bijoux-de-Nuit-95464.html	hausser/unisex/bijoux-de-nuit.png
 Hausser	Cuban Waltz		unisex	https://www.fragrantica.com/perfume/Hausser/Cuban-Waltz-95465.html	
-Hausser	Lunaire Rhapsodie		unisex	https://www.fragrantica.com/perfume/Hausser/Lunaire-Rhapsodie-106888.html	
+Hausser	Lunaire Rhapsodie		unisex	https://www.fragrantica.com/perfume/Hausser/Lunaire-Rhapsodie-106888.html	hausser/unisex/lunaire-rhapsodie.png
 Hausser	Symphonie de Tabriz		unisex	https://www.fragrantica.com/perfume/Hausser/Symphonie-de-Tabriz-95463.html	hausser/unisex/symphonie-de-tabriz.png
-Hausser	Trèsor du Bois		unisex	https://www.fragrantica.com/perfume/Hausser/Tresor-du-Bois-95466.html	
+Hausser	Trèsor du Bois		unisex	https://www.fragrantica.com/perfume/Hausser/Tresor-du-Bois-95466.html	hausser/unisex/tresor-du-bois.png
 Haute Fragrance Company HFC	Beautiful & Wild		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Beautiful-Wild-55767.html	haute-fragrance-company-hfc/female/beautiful-and-wild.png
 Haute Fragrance Company HFC	Black Orris	Eau de Cologne	male	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Black-Orris-46087.html	haute-fragrance-company-hfc/male/black-orris.png
 Haute Fragrance Company HFC	Black Princess		female	https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Black-Princess-46081.html	haute-fragrance-company-hfc/female/black-princess.png
@@ -53537,7 +53537,7 @@ Hegra	Sahra		unisex	https://www.fragrantica.com/perfume/Hegra/Sahra-97522.html	h
 Heidi Klum	Shine		female	https://www.fragrantica.com/perfume/Heidi-Klum/Shine-11315.html	
 Heidi Klum	Shine Blue		female	https://www.fragrantica.com/perfume/Heidi-Klum/Shine-Blue-18540.html	heidi-klum/female/shine-blue.png
 Heidi Klum	Shine My Rose		female	https://www.fragrantica.com/perfume/Heidi-Klum/Shine-My-Rose-15921.html	
-Heidi Klum	Summer Shine		female	https://www.fragrantica.com/perfume/Heidi-Klum/Summer-Shine-14096.html	
+Heidi Klum	Summer Shine		female	https://www.fragrantica.com/perfume/Heidi-Klum/Summer-Shine-14096.html	heidi-klum/female/summer-shine.png
 Heidi Klum	Surprise		female	https://www.fragrantica.com/perfume/Heidi-Klum/Surprise-17110.html	heidi-klum/female/surprise.png
 Hej:Pure	Pure Flower	Eau de Parfum	female	https://www.fragrantica.com/perfume/Hej-Pure/Pure-Flower-74077.html	hej-pure/female/pure-flower.png
 Hej:Pure	Pure Lemon		unisex	https://www.fragrantica.com/perfume/Hej-Pure/Pure-Lemon-80564.html	hej-pure/unisex/pure-lemon.png
@@ -53845,7 +53845,7 @@ Henrik Vibskov	Type C		unisex	https://www.fragrantica.com/perfume/Henrik-Vibskov
 Henrik Vibskov	Type D		unisex	https://www.fragrantica.com/perfume/Henrik-Vibskov/Type-D-13811.html	henrik-vibskov/unisex/type-d.png
 Henry Cotton's	Henry Cotton's for Men	Eau de Toilette	male	https://www.fragrantica.com/perfume/Henry-Cotton-s/Henry-Cotton-s-for-Men-41531.html	
 Henry Cotton's	Henry Cotton's for Women		female	https://www.fragrantica.com/perfume/Henry-Cotton-s/Henry-Cotton-s-for-Women-41530.html	henry-cotton-s/female/henry-cotton-s-for-women.png
-Henry Cotton's	Her		female	https://www.fragrantica.com/perfume/Henry-Cotton-s/Her-40395.html	
+Henry Cotton's	Her		female	https://www.fragrantica.com/perfume/Henry-Cotton-s/Her-40395.html	henry-cotton-s/female/her.png
 Henry Cotton's	In Green		male	https://www.fragrantica.com/perfume/Henry-Cotton-s/In-Green-41529.html	henry-cotton-s/male/in-green.png
 Henry Jacques	1995		unisex	https://www.fragrantica.com/perfume/Henry-Jacques/1995-93896.html	henry-jacques/unisex/1995.png
 Henry Jacques	Al Dar		unisex	https://www.fragrantica.com/perfume/Henry-Jacques/Al-Dar-56705.html	henry-jacques/unisex/al-dar.png
@@ -54032,7 +54032,7 @@ HERBA London	Kew The River		unisex	https://www.fragrantica.com/perfume/HERBA-Lon
 HERBA London	Naked Neroli		unisex	https://www.fragrantica.com/perfume/HERBA-London/Naked-Neroli-52371.html	herba-london/unisex/naked-neroli.png
 HERBA London	Urban Hipster		unisex	https://www.fragrantica.com/perfume/HERBA-London/Urban-Hipster-52366.html	herba-london/unisex/urban-hipster.png
 Herbalife	Asmera		female	https://www.fragrantica.com/perfume/Herbalife/Asmera-17843.html	
-Herbalife	Heart		female	https://www.fragrantica.com/perfume/Herbalife/Heart-16326.html	
+Herbalife	Heart		female	https://www.fragrantica.com/perfume/Herbalife/Heart-16326.html	herbalife/female/heart.png
 Herbalife	Improv		male	https://www.fragrantica.com/perfume/Herbalife/Improv-17846.html	herbalife/male/improv.png
 Herbalife	Luscious		female	https://www.fragrantica.com/perfume/Herbalife/Luscious-17845.html	
 Herbalife	Man		male	https://www.fragrantica.com/perfume/Herbalife/Man-16324.html	herbalife/male/man.png
@@ -54926,7 +54926,7 @@ Hoermanseder	Atelier X-Berg		unisex	https://www.fragrantica.com/perfume/Hoermans
 Hoermanseder	Berlin Mornings		unisex	https://www.fragrantica.com/perfume/Hoermanseder/Berlin-Mornings-92946.html	hoermanseder/unisex/berlin-mornings.png
 Hoermanseder	Berlin Nights		unisex	https://www.fragrantica.com/perfume/Hoermanseder/Berlin-Nights-92899.html	hoermanseder/unisex/berlin-nights.png
 Hoermanseder	Mitte Garden		female	https://www.fragrantica.com/perfume/Hoermanseder/Mitte-Garden-83328.html	
-Hoity Toity	Belle de Luxe		female	https://www.fragrantica.com/perfume/Hoity-Toity/Belle-de-Luxe-11663.html	
+Hoity Toity	Belle de Luxe		female	https://www.fragrantica.com/perfume/Hoity-Toity/Belle-de-Luxe-11663.html	hoity-toity/female/belle-de-luxe.png
 Hoity Toity	Bon Bon		female	https://www.fragrantica.com/perfume/Hoity-Toity/Bon-Bon-19956.html	
 Hoity Toity	Cherie		female	https://www.fragrantica.com/perfume/Hoity-Toity/Cherie-11665.html	
 Hoity Toity	ChouChou!		female	https://www.fragrantica.com/perfume/Hoity-Toity/ChouChou-11670.html	
@@ -57767,7 +57767,7 @@ Isabella Rossellini	Daring		female	https://www.fragrantica.com/perfume/Isabella-
 Isabella Rossellini	IsaBella		female	https://www.fragrantica.com/perfume/Isabella-Rossellini/IsaBella-1490.html	
 Isabella Rossellini	Manifesto		female	https://www.fragrantica.com/perfume/Isabella-Rossellini/Manifesto-1491.html	
 Isabella Rossellini	My Manifesto		female	https://www.fragrantica.com/perfume/Isabella-Rossellini/My-Manifesto-1493.html	isabella-rossellini/female/my-manifesto.png
-Isabella Rossellini	Storia		female	https://www.fragrantica.com/perfume/Isabella-Rossellini/Storia-1492.html	
+Isabella Rossellini	Storia		female	https://www.fragrantica.com/perfume/Isabella-Rossellini/Storia-1492.html	isabella-rossellini/female/storia.png
 Isabelle Larignon	Bangla Yasaman		unisex	https://www.fragrantica.com/perfume/Isabelle-Larignon/Bangla-Yasaman-83992.html	isabelle-larignon/unisex/bangla-yasaman.png
 Isabelle Larignon	Dafneïs		unisex	https://www.fragrantica.com/perfume/Isabelle-Larignon/Dafneis-135080.html	isabelle-larignon/unisex/dafneis.png
 Isabelle Larignon	Le Flocon de Johann K		unisex	https://www.fragrantica.com/perfume/Isabelle-Larignon/Le-Flocon-de-Johann-K-79208.html	isabelle-larignon/unisex/le-flocon-de-johann-k.png
@@ -61931,7 +61931,7 @@ Judith Leiber	More Zest!		female	https://www.fragrantica.com/perfume/Judith-Leib
 Judith Leiber	Ruby		female	https://www.fragrantica.com/perfume/Judith-Leiber/Ruby-58098.html	judith-leiber/female/ruby.png
 Judith Leiber	Sapphire		female	https://www.fragrantica.com/perfume/Judith-Leiber/Sapphire-58097.html	judith-leiber/female/sapphire.png
 Judith Leiber	Topaz		female	https://www.fragrantica.com/perfume/Judith-Leiber/Topaz-13176.html	judith-leiber/female/topaz.png
-Judith Muller	Bat-Sheba		female	https://www.fragrantica.com/perfume/Judith-Muller/Bat-Sheba-45208.html	
+Judith Muller	Bat-Sheba		female	https://www.fragrantica.com/perfume/Judith-Muller/Bat-Sheba-45208.html	judith-muller/female/bat-sheba.png
 Judith Muller	Bat-Sheba Exotic Oriental		female	https://www.fragrantica.com/perfume/Judith-Muller/Bat-Sheba-Exotic-Oriental-45215.html	judith-muller/female/bat-sheba-exotic-oriental.png
 Judith Muller	Bat-Sheba Woody Modern		female	https://www.fragrantica.com/perfume/Judith-Muller/Bat-Sheba-Woody-Modern-45214.html	judith-muller/female/bat-sheba-woody-modern.png
 Judith Muller	Judith		female	https://www.fragrantica.com/perfume/Judith-Muller/Judith-45218.html	
@@ -62076,12 +62076,12 @@ Juliana Paes	A Tentação		female	https://www.fragrantica.com/perfume/Juliana-Pa
 Juliana Paes	Essence		female	https://www.fragrantica.com/perfume/Juliana-Paes/Essence-23335.html	juliana-paes/female/essence.png
 Juliana Paes	Exotic		female	https://www.fragrantica.com/perfume/Juliana-Paes/Exotic-23336.html	juliana-paes/female/exotic.png
 Juliana Paes	Glam		female	https://www.fragrantica.com/perfume/Juliana-Paes/Glam-29352.html	
-Juliana Paes	Juliana Paes Encanto		female	https://www.fragrantica.com/perfume/Juliana-Paes/Juliana-Paes-Encanto-59480.html	
+Juliana Paes	Juliana Paes Encanto		female	https://www.fragrantica.com/perfume/Juliana-Paes/Juliana-Paes-Encanto-59480.html	juliana-paes/female/juliana-paes-encanto.png
 Juliana Paes	Juliana Paes Paraíso		female	https://www.fragrantica.com/perfume/Juliana-Paes/Juliana-Paes-Paraiso-59479.html	
 Juliana Paes	Juliana Paes Sonho		female	https://www.fragrantica.com/perfume/Juliana-Paes/Juliana-Paes-Sonho-59478.html	
 Juliana Paes	O Desejo		female	https://www.fragrantica.com/perfume/Juliana-Paes/O-Desejo-56348.html	
 Juliana Paes	O Mistério		female	https://www.fragrantica.com/perfume/Juliana-Paes/O-Misterio-56349.html	
-Juliana Paes	O Poder		female	https://www.fragrantica.com/perfume/Juliana-Paes/O-Poder-56351.html	
+Juliana Paes	O Poder		female	https://www.fragrantica.com/perfume/Juliana-Paes/O-Poder-56351.html	juliana-paes/female/o-poder.png
 Juliana Paes	Precious		female	https://www.fragrantica.com/perfume/Juliana-Paes/Precious-31899.html	juliana-paes/female/precious.png
 Julianna's Perfume	A Night To Remember		unisex	https://www.fragrantica.com/perfume/Julianna-s-Perfume/A-Night-To-Remember-109397.html	julianna-s-perfume/unisex/a-night-to-remember.png
 Julianna's Perfume	Aurora		unisex	https://www.fragrantica.com/perfume/Julianna-s-Perfume/Aurora-109399.html	julianna-s-perfume/unisex/aurora.png
@@ -63370,7 +63370,7 @@ Kemi Blending Magic	Solis		unisex	https://www.fragrantica.com/perfume/Kemi-Blend
 Kemi Blending Magic	Tempest		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Tempest-27456.html	kemi-blending-magic/unisex/tempest-27456.png
 Kemi Blending Magic	Tempest		unisex	https://www.fragrantica.com/perfume/Kemi-Blending-Magic/Tempest-74095.html	kemi-blending-magic/unisex/tempest-74095.png
 Kenji Tanaka	Bushido		male	https://www.fragrantica.com/perfume/Kenji-Tanaka/Bushido-33662.html	kenji-tanaka/male/bushido.png
-Kenji Tanaka	Bushido Sport		male	https://www.fragrantica.com/perfume/Kenji-Tanaka/Bushido-Sport-33663.html	
+Kenji Tanaka	Bushido Sport		male	https://www.fragrantica.com/perfume/Kenji-Tanaka/Bushido-Sport-33663.html	kenji-tanaka/male/bushido-sport.png
 Kenji Tanaka	Yukata		female	https://www.fragrantica.com/perfume/Kenji-Tanaka/Yukata-33661.html	kenji-tanaka/female/yukata.png
 Kenji Tanaka	Yukata Sport		female	https://www.fragrantica.com/perfume/Kenji-Tanaka/Yukata-Sport-33660.html	kenji-tanaka/female/yukata-sport.png
 Kenji Tanaka	Yukata Sport Millenium		female	https://www.fragrantica.com/perfume/Kenji-Tanaka/Yukata-Sport-Millenium-33664.html	
@@ -64178,12 +64178,12 @@ Kim Kardashian	True Reflection		female	https://www.fragrantica.com/perfume/Kim-K
 Kimora Lee Simmons	Baby Phat Dare Me		female	https://www.fragrantica.com/perfume/Kimora-Lee-Simmons/Baby-Phat-Dare-Me-8474.html	kimora-lee-simmons/female/baby-phat-dare-me.png
 Kimora Lee Simmons	Baby Phat Fabulosity		female	https://www.fragrantica.com/perfume/Kimora-Lee-Simmons/Baby-Phat-Fabulosity-2519.html	
 Kimora Lee Simmons	Baby Phat Goddess		female	https://www.fragrantica.com/perfume/Kimora-Lee-Simmons/Baby-Phat-Goddess-2057.html	
-Kimora Lee Simmons	Baby Phat Golden Goddess		female	https://www.fragrantica.com/perfume/Kimora-Lee-Simmons/Baby-Phat-Golden-Goddess-2058.html	
+Kimora Lee Simmons	Baby Phat Golden Goddess		female	https://www.fragrantica.com/perfume/Kimora-Lee-Simmons/Baby-Phat-Golden-Goddess-2058.html	kimora-lee-simmons/female/baby-phat-golden-goddess.png
 Kimora Lee Simmons	Baby Phat Luv Me		female	https://www.fragrantica.com/perfume/Kimora-Lee-Simmons/Baby-Phat-Luv-Me-11964.html	kimora-lee-simmons/female/baby-phat-luv-me.png
 Kimora Lee Simmons	Baby Phat Seductive Goddess		female	https://www.fragrantica.com/perfume/Kimora-Lee-Simmons/Baby-Phat-Seductive-Goddess-3211.html	
 Kinamic	Dohfar		unisex	https://www.fragrantica.com/perfume/Kinamic/Dohfar-136953.html	
 Kinamic	Oud Amalfi		unisex	https://www.fragrantica.com/perfume/Kinamic/Oud-Amalfi-136952.html	kinamic/unisex/oud-amalfi.png
-Kinamic	Qasr Al Alam		unisex	https://www.fragrantica.com/perfume/Kinamic/Qasr-Al-Alam-136951.html	
+Kinamic	Qasr Al Alam		unisex	https://www.fragrantica.com/perfume/Kinamic/Qasr-Al-Alam-136951.html	kinamic/unisex/qasr-al-alam.png
 Kinamic	Rose 1990		unisex	https://www.fragrantica.com/perfume/Kinamic/Rose-1990-136950.html	kinamic/unisex/rose-1990.png
 Kinamic	Voice of Kyara		unisex	https://www.fragrantica.com/perfume/Kinamic/Voice-of-Kyara-136949.html	
 Kinamic	VSOP-Very Special Oud		unisex	https://www.fragrantica.com/perfume/Kinamic/VSOP-Very-Special-Oud-136913.html	kinamic/unisex/vsop-very-special-oud.png
@@ -65376,18 +65376,18 @@ L'Atelier Mobius 莫比乌斯	Par Fume 云烟雾影		unisex	https://www.fragrant
 L'Atelier Mobius 莫比乌斯	Passion Chypre		unisex	https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Passion-Chypre-142135.html	l-atelier-mobius/unisex/passion-chypre.png
 L'Atelier Mobius 莫比乌斯	Sage 智者年轮		unisex	https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Sage-zhi-zhe-nian-lun-73680.html	l-atelier-mobius/unisex/sage.png
 L'Atelier Mobius 莫比乌斯	Solitary 孤独本味		unisex	https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Solitary-gu-du-ben-wei-73682.html	l-atelier-mobius/unisex/solitary.png
-L'Atelier Parfum	Arme Blanche		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Arme-Blanche-67047.html	
-L'Atelier Parfum	Belle Joueuse		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Belle-Joueuse-67050.html	
+L'Atelier Parfum	Arme Blanche		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Arme-Blanche-67047.html	l-atelier-parfum/unisex/arme-blanche.png
+L'Atelier Parfum	Belle Joueuse		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Belle-Joueuse-67050.html	l-atelier-parfum/unisex/belle-joueuse.png
 L'Atelier Parfum	Berry Shiver		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Berry-Shiver-98373.html	
-L'Atelier Parfum	Burning For Oud		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Burning-For-Oud-76758.html	
+L'Atelier Parfum	Burning For Oud		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Burning-For-Oud-76758.html	l-atelier-parfum/unisex/burning-for-oud.png
 L'Atelier Parfum	Carnal Bliss		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Carnal-Bliss-98372.html	
 L'Atelier Parfum	Coeur de Petales		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Coeur-de-Petales-67046.html	
 L'Atelier Parfum	Coeur de Petales Hair and Body Mist	Body Mist	unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Coeur-de-Petales-Hair-and-Body-Mist-105718.html	
 L'Atelier Parfum	Coeur Vagabond		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Coeur-Vagabond-110521.html	l-atelier-parfum/unisex/coeur-vagabond.png
 L'Atelier Parfum	Cordovan Oud		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Cordovan-Oud-119382.html	l-atelier-parfum/unisex/cordovan-oud.png
-L'Atelier Parfum	Cypress Shadow		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Cypress-Shadow-84023.html	
+L'Atelier Parfum	Cypress Shadow		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Cypress-Shadow-84023.html	l-atelier-parfum/unisex/cypress-shadow.png
 L'Atelier Parfum	Dose of Rose		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Dose-of-Rose-76755.html	l-atelier-parfum/unisex/dose-of-rose.png
-L'Atelier Parfum	Douce Insomnie		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Douce-Insomnie-67051.html	
+L'Atelier Parfum	Douce Insomnie		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Douce-Insomnie-67051.html	l-atelier-parfum/unisex/douce-insomnie.png
 L'Atelier Parfum	Exquise Tentation		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Exquise-Tentation-67052.html	
 L'Atelier Parfum	Exquise Tentation Hair and Body Mist	Body Mist	unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Exquise-Tentation-Hair-and-Body-Mist-105722.html	
 L'Atelier Parfum	Green Crush		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Green-Crush-84020.html	
@@ -65399,12 +65399,12 @@ L'Atelier Parfum	Matcha Creme		unisex	https://www.fragrantica.com/perfume/L-Atel
 L'Atelier Parfum	Mystic Leather-Oud		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Mystic-Leather-Oud-107252.html	
 L'Atelier Parfum	Peartopia		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Peartopia-98374.html	
 L'Atelier Parfum	Red Hot Vanilla		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Red-Hot-Vanilla-133090.html	
-L'Atelier Parfum	Rose Coup De Foudre		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Rose-Coup-De-Foudre-67049.html	
+L'Atelier Parfum	Rose Coup De Foudre		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Rose-Coup-De-Foudre-67049.html	l-atelier-parfum/unisex/rose-coup-de-foudre.png
 L'Atelier Parfum	Sakura Kiss		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Sakura-Kiss-133086.html	
-L'Atelier Parfum	Salty Wood		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Salty-Wood-84021.html	
+L'Atelier Parfum	Salty Wood		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Salty-Wood-84021.html	l-atelier-parfum/unisex/salty-wood.png
 L'Atelier Parfum	Tobacco Volute		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Tobacco-Volute-76757.html	l-atelier-parfum/unisex/tobacco-volute.png
 L'Atelier Parfum	Tobacco Volute Hair and Body Mist	Body Mist	unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Tobacco-Volute-Hair-and-Body-Mist-105720.html	
-L'Atelier Parfum	Triple Black Vanilla		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Triple-Black-Vanilla-133088.html	
+L'Atelier Parfum	Triple Black Vanilla		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Triple-Black-Vanilla-133088.html	l-atelier-parfum/unisex/triple-black-vanilla.png
 L'Atelier Parfum	Vanilla Blush		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Vanilla-Blush-133087.html	
 L'Atelier Parfum	Verte Euphorie		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Verte-Euphorie-67048.html	
 L'Atelier Parfum	Vetiver Royal		unisex	https://www.fragrantica.com/perfume/L-Atelier-Parfum/Vetiver-Royal-119381.html	
@@ -66140,7 +66140,7 @@ La Facon	Brasil Natural		unisex	https://www.fragrantica.com/perfume/La-Facon/Bra
 La Facon	Flor de Laranjeira e Lichia		female	https://www.fragrantica.com/perfume/La-Facon/Flor-de-Laranjeira-e-Lichia-40096.html	
 La Facon	Leblon		unisex	https://www.fragrantica.com/perfume/La-Facon/Leblon-40083.html	
 La Facon	Perolas	Eau de Toilette	unisex	https://www.fragrantica.com/perfume/La-Facon/Perolas-40097.html	la-facon/unisex/perolas.png
-La Facon	Provence		unisex	https://www.fragrantica.com/perfume/La-Facon/Provence-40085.html	
+La Facon	Provence		unisex	https://www.fragrantica.com/perfume/La-Facon/Provence-40085.html	la-facon/unisex/provence.png
 La Facon	Vanille Tahaa	Eau de Toilette	female	https://www.fragrantica.com/perfume/La-Facon/Vanille-Tahaa-40094.html	la-facon/female/vanille-tahaa.png
 La Fann	Citrus Bliss		unisex	https://www.fragrantica.com/perfume/La-Fann/Citrus-Bliss-82094.html	la-fann/unisex/citrus-bliss.png
 La Fann	Dark Blue		unisex	https://www.fragrantica.com/perfume/La-Fann/Dark-Blue-82086.html	
@@ -69172,7 +69172,7 @@ le Pelerin	Floritida		unisex	https://www.fragrantica.com/perfume/le-Pelerin/Flor
 le Pelerin	Langkawi Mousson		male	https://www.fragrantica.com/perfume/le-Pelerin/Langkawi-Mousson-57396.html	
 le Pelerin	Manana		unisex	https://www.fragrantica.com/perfume/le-Pelerin/Manana-57394.html	
 le Pelerin	Night in Excelsior	Parfum	unisex	https://www.fragrantica.com/perfume/le-Pelerin/Night-in-Excelsior-69182.html	le-pelerin/unisex/night-in-excelsior.png
-le Pelerin	Porto Rose		unisex	https://www.fragrantica.com/perfume/le-Pelerin/Porto-Rose-57397.html	
+le Pelerin	Porto Rose		unisex	https://www.fragrantica.com/perfume/le-Pelerin/Porto-Rose-57397.html	le-pelerin/unisex/porto-rose.png
 le Pelerin	Tuberose Illusion		unisex	https://www.fragrantica.com/perfume/le-Pelerin/Tuberose-Illusion-69181.html	le-pelerin/unisex/tuberose-illusion.png
 Le Persona	LP01 Mystic Rose		unisex	https://www.fragrantica.com/perfume/Le-Persona/LP01-Mystic-Rose-74626.html	le-persona/unisex/lp01-mystic-rose.png
 Le Persona	LP02 Peacock Feather		unisex	https://www.fragrantica.com/perfume/Le-Persona/LP02-Peacock-Feather-74627.html	le-persona/unisex/lp02-peacock-feather.png
@@ -69368,7 +69368,7 @@ Legendary Perfume	Violet		female	https://www.fragrantica.com/perfume/Legendary-P
 LEGENDÄR	BIGARADE SANTAL		unisex	https://www.fragrantica.com/perfume/LEGENDAER/BIGARADE-SANTAL-76523.html	
 LEGENDÄR	JUNIPER LEATHER		unisex	https://www.fragrantica.com/perfume/LEGENDAER/JUNIPER-LEATHER-76524.html	legendar/unisex/juniper-leather.png
 LeGer by Lena Gercke	Signature		female	https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-138649.html	leger-by-lena-gercke/female/signature-138649.png
-LeGer by Lena Gercke	Signature		female	https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-138676.html	
+LeGer by Lena Gercke	Signature		female	https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-138676.html	leger-by-lena-gercke/female/signature-138676.png
 LeGer by Lena Gercke	Signature Velvet		female	https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-Velvet-138651.html	leger-by-lena-gercke/female/signature-velvet.png
 LeGer by Lena Gercke	Signature Wildflower		female	https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-Wildflower-138650.html	leger-by-lena-gercke/female/signature-wildflower-138650.png
 LeGer by Lena Gercke	Signature Wildflower		female	https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-Wildflower-138677.html	
@@ -74011,7 +74011,7 @@ MAIOS	WHIMS		male	https://www.fragrantica.com/perfume/MAIOS/WHIMS-76568.html	mai
 Maison 18.10	Come Alive		male	https://www.fragrantica.com/perfume/Maison-18-10/Come-Alive-127984.html	maison-18-10/male/come-alive.png
 Maison 18.10	Definitely ME		unisex	https://www.fragrantica.com/perfume/Maison-18-10/Definitely-ME-127983.html	maison-18-10/unisex/definitely-me.png
 Maison 18.10	Tentatio		unisex	https://www.fragrantica.com/perfume/Maison-18-10/Tentatio-134988.html	
-Maison 18.10	The Veil		female	https://www.fragrantica.com/perfume/Maison-18-10/The-Veil-127985.html	
+Maison 18.10	The Veil		female	https://www.fragrantica.com/perfume/Maison-18-10/The-Veil-127985.html	maison-18-10/female/the-veil.png
 Maison 21G	Ambergris Alchimie & Poetic Pear		unisex	https://www.fragrantica.com/perfume/Maison-21G/Ambergris-Alchimie-Poetic-Pear-114005.html	maison-21g/unisex/ambergris-alchimie-poetic-pear.png
 Maison 21G	Ancestral Agar & Vanilla Venus		unisex	https://www.fragrantica.com/perfume/Maison-21G/Ancestral-Agar-Vanilla-Venus-114003.html	maison-21g/unisex/ancestral-agar-vanilla-venus.png
 Maison 21G	Ginger Game		unisex	https://www.fragrantica.com/perfume/Maison-21G/Ginger-Game-129976.html	maison-21g/unisex/ginger-game.png
@@ -74593,7 +74593,7 @@ Maison de Amalric	Constantine		unisex	https://www.fragrantica.com/perfume/Maison
 Maison de Amalric	Cullinan		unisex	https://www.fragrantica.com/perfume/Maison-de-Amalric/Cullinan-75255.html	
 Maison de Amalric	Magnolia		unisex	https://www.fragrantica.com/perfume/Maison-de-Amalric/Magnolia-75259.html	maison-de-amalric/unisex/magnolia.png
 Maison de Amalric	Royal Orchid		unisex	https://www.fragrantica.com/perfume/Maison-de-Amalric/Royal-Orchid-75258.html	maison-de-amalric/unisex/royal-orchid.png
-Maison de Amalric	Tahiti		unisex	https://www.fragrantica.com/perfume/Maison-de-Amalric/Tahiti-75256.html	
+Maison de Amalric	Tahiti		unisex	https://www.fragrantica.com/perfume/Maison-de-Amalric/Tahiti-75256.html	maison-de-amalric/unisex/tahiti.png
 Maison de L'Asie	Bali H'ai		unisex	https://www.fragrantica.com/perfume/Maison-de-L-Asie/Bali-H-ai-69193.html	maison-de-l-asie/unisex/bali-h-ai.png
 Maison de L'Asie	Bangkok 9/9		unisex	https://www.fragrantica.com/perfume/Maison-de-L-Asie/Bangkok-9-9-80026.html	maison-de-l-asie/unisex/bangkok-9-9.png
 Maison de L'Asie	Bois D'Indonésie		unisex	https://www.fragrantica.com/perfume/Maison-de-L-Asie/Bois-D-Indonesie-69194.html	maison-de-l-asie/unisex/bois-d-indonesie.png
@@ -77056,18 +77056,18 @@ Masik Collegiate Fragrances	Louisiana State University Women		female	https://www
 Masik Collegiate Fragrances	North Carolina State Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/North-Carolina-State-Men-21194.html	
 Masik Collegiate Fragrances	North Carolina State Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/North-Carolina-State-Women-21195.html	
 Masik Collegiate Fragrances	Penn State University Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/Penn-State-University-Men-21198.html	
-Masik Collegiate Fragrances	Penn State University Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/Penn-State-University-Women-21199.html	
+Masik Collegiate Fragrances	Penn State University Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/Penn-State-University-Women-21199.html	masik-collegiate-fragrances/female/penn-state-university-women.png
 Masik Collegiate Fragrances	Texas A&M Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/Texas-A-M-Men-21204.html	
 Masik Collegiate Fragrances	Texas A&M Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/Texas-A-M-Women-21205.html	
 Masik Collegiate Fragrances	The University of Alabama Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Alabama-Men-21174.html	
 Masik Collegiate Fragrances	The University of Alabama Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Alabama-Women-21175.html	
 Masik Collegiate Fragrances	The University of Florida Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Florida-Men-21180.html	
 Masik Collegiate Fragrances	The University of Florida Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Florida-Women-21181.html	masik-collegiate-fragrances/female/the-university-of-florida-women.png
-Masik Collegiate Fragrances	The University of Georgia Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Georgia-Men-21184.html	
+Masik Collegiate Fragrances	The University of Georgia Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Georgia-Men-21184.html	masik-collegiate-fragrances/male/the-university-of-georgia-men.png
 Masik Collegiate Fragrances	The University of Georgia Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Georgia-Women-21185.html	masik-collegiate-fragrances/female/the-university-of-georgia-women.png
 Masik Collegiate Fragrances	The University of Kentucky Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Kentucky-Men-21186.html	
 Masik Collegiate Fragrances	The University of Kentucky Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Kentucky-Women-21187.html	
-Masik Collegiate Fragrances	The University of Mississippi Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Mississippi-Men-21190.html	
+Masik Collegiate Fragrances	The University of Mississippi Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Mississippi-Men-21190.html	masik-collegiate-fragrances/male/the-university-of-mississippi-men.png
 Masik Collegiate Fragrances	The University of Mississippi Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-Mississippi-Women-21191.html	
 Masik Collegiate Fragrances	The University of North Carolina Men		male	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-North-Carolina-Men-21192.html	
 Masik Collegiate Fragrances	The University of North Carolina Women		female	https://www.fragrantica.com/perfume/Masik-Collegiate-Fragrances/The-University-of-North-Carolina-Women-21193.html	
@@ -78297,7 +78297,7 @@ Menahra	Elegant Lady		female	https://www.fragrantica.com/perfume/Menahra/Elegant
 Menahra	Emir		male	https://www.fragrantica.com/perfume/Menahra/Emir-98781.html	
 Menahra	Fresh Pear		female	https://www.fragrantica.com/perfume/Menahra/Fresh-Pear-98779.html	
 Menahra	Fresh Pear Shimmer		female	https://www.fragrantica.com/perfume/Menahra/Fresh-Pear-Shimmer-98780.html	
-Menahra	Hockey		male	https://www.fragrantica.com/perfume/Menahra/Hockey-98782.html	
+Menahra	Hockey		male	https://www.fragrantica.com/perfume/Menahra/Hockey-98782.html	menahra/male/hockey.png
 Menahra	Mademoiselle		female	https://www.fragrantica.com/perfume/Menahra/Mademoiselle-98772.html	
 Menahra	Mademoiselle		female	https://www.fragrantica.com/perfume/Menahra/Mademoiselle-98783.html	
 Menahra	Mister		male	https://www.fragrantica.com/perfume/Menahra/Mister-98774.html	menahra/male/mister.png
@@ -78725,7 +78725,7 @@ Micaelangelo	Aurora Fuoco		female	https://www.fragrantica.com/perfume/Micaelange
 Micaelangelo	Aurora Terra		female	https://www.fragrantica.com/perfume/Micaelangelo/Aurora-Terra-16094.html	
 Micaelangelo	Bellagio		female	https://www.fragrantica.com/perfume/Micaelangelo/Bellagio-16091.html	
 Micaelangelo	Bellagio Glamour		female	https://www.fragrantica.com/perfume/Micaelangelo/Bellagio-Glamour-25156.html	
-Micaelangelo	Bellagio Uomo		male	https://www.fragrantica.com/perfume/Micaelangelo/Bellagio-Uomo-16092.html	
+Micaelangelo	Bellagio Uomo		male	https://www.fragrantica.com/perfume/Micaelangelo/Bellagio-Uomo-16092.html	micaelangelo/male/bellagio-uomo.png
 Micaelangelo	Sibilla		female	https://www.fragrantica.com/perfume/Micaelangelo/Sibilla-25155.html	micaelangelo/female/sibilla.png
 Micaelangelo	Sibilla Oro		female	https://www.fragrantica.com/perfume/Micaelangelo/Sibilla-Oro-16095.html	micaelangelo/female/sibilla-oro.png
 Michael Buble	By Invitation		female	https://www.fragrantica.com/perfume/Michael-Buble/By-Invitation-40741.html	michael-buble/female/by-invitation.png
@@ -79096,15 +79096,15 @@ MIIM.MIIC	No 108 Warm Vanilla Syrup		unisex	https://www.fragrantica.com/perfume/
 MIIM.MIIC	No 110 Marine & White Florals		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-110-Marine-White-Florals-116153.html	
 MIIM.MIIC	No 152 Aquatic Lemon		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-152-Aquatic-Lemon-127262.html	
 MIIM.MIIC	No 161 Cocowood		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-161-Cocowood-130262.html	
-MIIM.MIIC	No 162 Caramel Gourmand		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-162-Caramel-Gourmand-130263.html	
+MIIM.MIIC	No 162 Caramel Gourmand		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-162-Caramel-Gourmand-130263.html	miim-miic/unisex/no-162-caramel-gourmand.png
 MIIM.MIIC	No 163 Gelato Gourmand		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-163-Gelato-Gourmand-130264.html	
 MIIM.MIIC	No 165 Cream Gourmand		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-165-Cream-Gourmand-130259.html	
 MIIM.MIIC	No 166 Marshmallow Gourmand		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-166-Marshmallow-Gourmand-130265.html	miim-miic/unisex/no-166-marshmallow-gourmand.png
-MIIM.MIIC	No 3 Sweet Fruits & Floral		female	https://www.fragrantica.com/perfume/MIIM-MIIC/No-3-Sweet-Fruits-Floral-116152.html	
+MIIM.MIIC	No 3 Sweet Fruits & Floral		female	https://www.fragrantica.com/perfume/MIIM-MIIC/No-3-Sweet-Fruits-Floral-116152.html	miim-miic/female/no-3-sweet-fruits-floral.png
 MIIM.MIIC	No 33 White Floral & Lavender		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-33-White-Floral-Lavender-130260.html	
 MIIM.MIIC	No 49 Gourmand Floral		female	https://www.fragrantica.com/perfume/MIIM-MIIC/No-49-Gourmand-Floral-109030.html	
 MIIM.MIIC	No 49 Gourmand Floral		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-49-Gourmand-Floral-109041.html	
-MIIM.MIIC	No 52 Sweet Strawberry Milk		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-52-Sweet-Strawberry-Milk-109031.html	
+MIIM.MIIC	No 52 Sweet Strawberry Milk		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-52-Sweet-Strawberry-Milk-109031.html	miim-miic/unisex/no-52-sweet-strawberry-milk.png
 MIIM.MIIC	No 79 Cherry Vanilla Wood		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-79-Cherry-Vanilla-Wood-109034.html	
 MIIM.MIIC	No 99 Amber Floral Wood		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-99-Amber-Floral-Wood-109032.html	
 MIIM.MIIC	No. 183 Tomato Vine		unisex	https://www.fragrantica.com/perfume/MIIM-MIIC/No-183-Tomato-Vine-133582.html	
@@ -79979,7 +79979,7 @@ Missala	Qessence		female	https://www.fragrantica.com/perfume/Missala/Qessence-18
 Missala	Qmentis		male	https://www.fragrantica.com/perfume/Missala/Qmentis-99620.html	missala/male/qmentis.png
 Missguided	Babe Dreams		female	https://www.fragrantica.com/perfume/Missguided/Babe-Dreams-50171.html	missguided/female/babe-dreams.png
 Missguided	Babe Heat		female	https://www.fragrantica.com/perfume/Missguided/Babe-Heat-103748.html	missguided/female/babe-heat.png
-Missguided	Babe Night		female	https://www.fragrantica.com/perfume/Missguided/Babe-Night-57187.html	
+Missguided	Babe Night		female	https://www.fragrantica.com/perfume/Missguided/Babe-Night-57187.html	missguided/female/babe-night.png
 Missguided	Babe Oud		female	https://www.fragrantica.com/perfume/Missguided/Babe-Oud-50173.html	
 Missguided	Babe Power		female	https://www.fragrantica.com/perfume/Missguided/Babe-Power-45063.html	missguided/female/babe-power.png
 Missguided	Babe Spirit		female	https://www.fragrantica.com/perfume/Missguided/Babe-Spirit-103747.html	
@@ -81489,7 +81489,7 @@ Moschino	Uomo?		male	https://www.fragrantica.com/perfume/Moschino/Uomo-730.html	
 Moseha	7th Heaven		unisex	https://www.fragrantica.com/perfume/Moseha/7th-Heaven-89004.html	
 Moseha	Fougere Originale		unisex	https://www.fragrantica.com/perfume/Moseha/Fougere-Originale-89012.html	moseha/unisex/fougere-originale.png
 Moseha	Gray Labdanum		unisex	https://www.fragrantica.com/perfume/Moseha/Gray-Labdanum-89002.html	
-Moseha	Hues And Cues		unisex	https://www.fragrantica.com/perfume/Moseha/Hues-And-Cues-89013.html	
+Moseha	Hues And Cues		unisex	https://www.fragrantica.com/perfume/Moseha/Hues-And-Cues-89013.html	moseha/unisex/hues-and-cues.png
 Moseha	Oudh No.1		unisex	https://www.fragrantica.com/perfume/Moseha/Oudh-No-1-89001.html	moseha/unisex/oudh-no-1.png
 Moseha	Remember My Name		unisex	https://www.fragrantica.com/perfume/Moseha/Remember-My-Name-89014.html	moseha/unisex/remember-my-name.png
 Moseha	Song Of The Scents		unisex	https://www.fragrantica.com/perfume/Moseha/Song-Of-The-Scents-89003.html	
@@ -83097,7 +83097,7 @@ Natio	Lunar		male	https://www.fragrantica.com/perfume/Natio/Lunar-103327.html	na
 Natio	Natio Woman		female	https://www.fragrantica.com/perfume/Natio/Natio-Woman-41739.html	
 Natio	Solar		unisex	https://www.fragrantica.com/perfume/Natio/Solar-103325.html	natio/unisex/solar.png
 Natio	Stellar		unisex	https://www.fragrantica.com/perfume/Natio/Stellar-103326.html	natio/unisex/stellar.png
-Natori	Josie		female	https://www.fragrantica.com/perfume/Natori/Josie-26128.html	
+Natori	Josie		female	https://www.fragrantica.com/perfume/Natori/Josie-26128.html	natori/female/josie.png
 Natori	Josie Exotic Petals		female	https://www.fragrantica.com/perfume/Natori/Josie-Exotic-Petals-31773.html	
 Natori	Natori		female	https://www.fragrantica.com/perfume/Natori/Natori-6691.html	natori/female/natori.png
 Natori	Natori Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Natori/Natori-Eau-de-Toilette-12654.html	natori/female/natori-eau-de-toilette.png
@@ -84650,7 +84650,7 @@ Nico Uytterhaegen	Nononsense 2		unisex	https://www.fragrantica.com/perfume/Nico-
 Nico Uytterhaegen	Nononsense 3		unisex	https://www.fragrantica.com/perfume/Nico-Uytterhaegen/Nononsense-3-16018.html	nico-uytterhaegen/unisex/nononsense-3.png
 Nico Uytterhaegen	Nononsense 4		unisex	https://www.fragrantica.com/perfume/Nico-Uytterhaegen/Nononsense-4-16019.html	
 Nico Uytterhaegen	Nononsense 5		unisex	https://www.fragrantica.com/perfume/Nico-Uytterhaegen/Nononsense-5-16020.html	nico-uytterhaegen/unisex/nononsense-5.png
-Nico Uytterhaegen	Nononsense 6		unisex	https://www.fragrantica.com/perfume/Nico-Uytterhaegen/Nononsense-6-16021.html	
+Nico Uytterhaegen	Nononsense 6		unisex	https://www.fragrantica.com/perfume/Nico-Uytterhaegen/Nononsense-6-16021.html	nico-uytterhaegen/unisex/nononsense-6.png
 Nico Uytterhaegen	Nononsense 7		unisex	https://www.fragrantica.com/perfume/Nico-Uytterhaegen/Nononsense-7-16022.html	
 Nico Uytterhaegen	Nononsense 8		unisex	https://www.fragrantica.com/perfume/Nico-Uytterhaegen/Nononsense-8-16023.html	nico-uytterhaegen/unisex/nononsense-8.png
 Nico Uytterhaegen	Nononsense 9		unisex	https://www.fragrantica.com/perfume/Nico-Uytterhaegen/Nononsense-9-16024.html	
@@ -85628,10 +85628,10 @@ Nordique Fragrances	Arctic Cottage		unisex	https://www.fragrantica.com/perfume/N
 Nordique Fragrances	Birch Awakening		unisex	https://www.fragrantica.com/perfume/Nordique-Fragrances/Birch-Awakening-135366.html	nordique-fragrances/unisex/birch-awakening.png
 Nordique Fragrances	Harvest Silence		unisex	https://www.fragrantica.com/perfume/Nordique-Fragrances/Harvest-Silence-135374.html	nordique-fragrances/unisex/harvest-silence.png
 Nordique Fragrances	Midsummer Meadow		unisex	https://www.fragrantica.com/perfume/Nordique-Fragrances/Midsummer-Meadow-135372.html	nordique-fragrances/unisex/midsummer-meadow.png
-Norell	Norell		female	https://www.fragrantica.com/perfume/Norell/Norell-3824.html	
+Norell	Norell		female	https://www.fragrantica.com/perfume/Norell/Norell-3824.html	norell/female/norell.png
 Norell	Norell Blushing		female	https://www.fragrantica.com/perfume/Norell/Norell-Blushing-46393.html	norell/female/norell-blushing.png
 Norell	Norell Elixir		female	https://www.fragrantica.com/perfume/Norell/Norell-Elixir-39517.html	norell/female/norell-elixir.png
-Norell	Norell II		female	https://www.fragrantica.com/perfume/Norell/Norell-II-83884.html	
+Norell	Norell II		female	https://www.fragrantica.com/perfume/Norell/Norell-II-83884.html	norell/female/norell-ii.png
 Norell	Norell New York		female	https://www.fragrantica.com/perfume/Norell/Norell-New-York-31819.html	norell/female/norell-new-york.png
 Norfolk Lavender	Lily of the Valley		unisex	https://www.fragrantica.com/perfume/Norfolk-Lavender/Lily-of-the-Valley-122900.html	norfolk-lavender/unisex/lily-of-the-valley.png
 Norfolk Lavender	The English Lavender		unisex	https://www.fragrantica.com/perfume/Norfolk-Lavender/The-English-Lavender-122901.html	
@@ -86362,20 +86362,20 @@ Nuxe	Nuxe Body Exalting Fragrant Water		female	https://www.fragrantica.com/perfu
 Nuxe	Nuxe Body Relaxing Fragrance Water		female	https://www.fragrantica.com/perfume/Nuxe/Nuxe-Body-Relaxing-Fragrance-Water-47746.html	
 Nuxe	Nuxe Men Le Parfum		male	https://www.fragrantica.com/perfume/Nuxe/Nuxe-Men-Le-Parfum-120556.html	
 Nuxe	Prodigieux Absolu de Parfum	Parfum	female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Absolu-de-Parfum-53564.html	nuxe/female/prodigieux-absolu-de-parfum.png
-Nuxe	Prodigieux Floral Le Parfum		female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Floral-Le-Parfum-67838.html	
-Nuxe	Prodigieux Le Parfum		female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Le-Parfum-22992.html	
+Nuxe	Prodigieux Floral Le Parfum		female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Floral-Le-Parfum-67838.html	nuxe/female/prodigieux-floral-le-parfum.png
+Nuxe	Prodigieux Le Parfum		female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Le-Parfum-22992.html	nuxe/female/prodigieux-le-parfum.png
 Nuxe	Prodigieux Néroli Le Parfum		female	https://www.fragrantica.com/perfume/Nuxe/Prodigieux-Neroli-Le-Parfum-82499.html	
 Nuxe	Rêve de Miel		unisex	https://www.fragrantica.com/perfume/Nuxe/Reve-de-Miel-69732.html	
-Nuxe	Rêve de Thé		unisex	https://www.fragrantica.com/perfume/Nuxe/Reve-de-The-67813.html	
+Nuxe	Rêve de Thé		unisex	https://www.fragrantica.com/perfume/Nuxe/Reve-de-The-67813.html	nuxe/unisex/reve-de-the.png
 Nuxe	Sensual Era		female	https://www.fragrantica.com/perfume/Nuxe/Sensual-Era-106826.html	
 Nuxe	Sensual Era Gold Hair & Body Mist	Body Mist	female	https://www.fragrantica.com/perfume/Nuxe/Sensual-Era-Gold-Hair-Body-Mist-139175.html	
-Nuxe	Sun Eau Delicieuse Parfumante		female	https://www.fragrantica.com/perfume/Nuxe/Sun-Eau-Delicieuse-Parfumante-37913.html	
+Nuxe	Sun Eau Delicieuse Parfumante		female	https://www.fragrantica.com/perfume/Nuxe/Sun-Eau-Delicieuse-Parfumante-37913.html	nuxe/female/sun-eau-delicieuse-parfumante.png
 Nuxe	Sunset Bliss		female	https://www.fragrantica.com/perfume/Nuxe/Sunset-Bliss-106829.html	
 Nuxe	Very Rose Eau de Parfum	Eau de Parfum	female	https://www.fragrantica.com/perfume/Nuxe/Very-Rose-Eau-de-Parfum-88151.html	
 NVRNAGN	DELUGE		unisex	https://www.fragrantica.com/perfume/NVRNAGN/DELUGE-120065.html	nvrnagn/unisex/deluge.png
 NVRNAGN	FÉSTIVAL		unisex	https://www.fragrantica.com/perfume/NVRNAGN/FESTIVAL-120067.html	
 NVRNAGN	LÄCKERLI		unisex	https://www.fragrantica.com/perfume/NVRNAGN/LAECKERLI-120064.html	nvrnagn/unisex/lackerli.png
-NVRNAGN	PARADIS		unisex	https://www.fragrantica.com/perfume/NVRNAGN/PARADIS-120066.html	
+NVRNAGN	PARADIS		unisex	https://www.fragrantica.com/perfume/NVRNAGN/PARADIS-120066.html	nvrnagn/unisex/paradis.png
 NVRNAGN	RÉUNION		unisex	https://www.fragrantica.com/perfume/NVRNAGN/REUNION-120068.html	
 NVRNAGN	SOLITAIRE		unisex	https://www.fragrantica.com/perfume/NVRNAGN/SOLITAIRE-120063.html	nvrnagn/unisex/solitaire.png
 Nwaky Artisan Perfumery	Streambound		unisex	https://www.fragrantica.com/perfume/Nwaky-Artisan-Perfumery/Streambound-132521.html	nwaky-artisan-perfumery/unisex/streambound.png
@@ -87636,7 +87636,7 @@ Odoratika	Garden Of The Sun Sad Solnca		unisex	https://www.fragrantica.com/perfu
 Odoratika	Honey Linden Blossom Medovaa Lipa		unisex	https://www.fragrantica.com/perfume/Odoratika/Honey-Linden-Blossom-Medovaa-Lipa-48551.html	
 Odoratika	Irisium		female	https://www.fragrantica.com/perfume/Odoratika/Irisium-61749.html	odoratika/female/irisium.png
 Odoratika	Irisium For Men		male	https://www.fragrantica.com/perfume/Odoratika/Irisium-For-Men-61751.html	odoratika/male/irisium-for-men.png
-Odoratika	M		female	https://www.fragrantica.com/perfume/Odoratika/M-58700.html	
+Odoratika	M		female	https://www.fragrantica.com/perfume/Odoratika/M-58700.html	odoratika/female/m.png
 Odoratika	Marrakech Marrakes		unisex	https://www.fragrantica.com/perfume/Odoratika/Marrakech-Marrakes-48571.html	
 Odoratika	Moon Color Flowers Cvety cveta Luny		unisex	https://www.fragrantica.com/perfume/Odoratika/Moon-Color-Flowers-Cvety-cveta-Luny-48546.html	
 Odoratika	Moon Maiden Lunnaa Deva		female	https://www.fragrantica.com/perfume/Odoratika/Moon-Maiden-Lunnaa-Deva-54529.html	
@@ -87645,7 +87645,7 @@ Odoratika	Narva Bay Narvskaa Buhta		unisex	https://www.fragrantica.com/perfume/O
 Odoratika	Narva Bay Narvskaa Buhta Edition 2020		unisex	https://www.fragrantica.com/perfume/Odoratika/Narva-Bay-Narvskaa-Buhta-Edition-2020-64188.html	
 Odoratika	O Fortuna!		female	https://www.fragrantica.com/perfume/Odoratika/O-Fortuna-51142.html	
 Odoratika	On The Banks Of The Nile Na Berega Nila		unisex	https://www.fragrantica.com/perfume/Odoratika/On-The-Banks-Of-The-Nile-Na-Berega-Nila-48552.html	
-Odoratika	Palau Flores		female	https://www.fragrantica.com/perfume/Odoratika/Palau-Flores-56821.html	
+Odoratika	Palau Flores		female	https://www.fragrantica.com/perfume/Odoratika/Palau-Flores-56821.html	odoratika/female/palau-flores.png
 Odoratika	Paleo Hunters		male	https://www.fragrantica.com/perfume/Odoratika/Paleo-Hunters-52781.html	
 Odoratika	Petals In The Grass Lepestki B Trave		unisex	https://www.fragrantica.com/perfume/Odoratika/Petals-In-The-Grass-Lepestki-B-Trave-48776.html	
 Odoratika	Princess Jeddah Princessa Dzidda		female	https://www.fragrantica.com/perfume/Odoratika/Princess-Jeddah-Princessa-Dzidda-49705.html	
@@ -88418,7 +88418,7 @@ One Day	Seoul		unisex	https://www.fragrantica.com/perfume/One-Day/Seoul-73836.ht
 One Day	Taipei		unisex	https://www.fragrantica.com/perfume/One-Day/Taipei-92210.html	one-day/unisex/taipei.png
 One Day	Thai Soda		unisex	https://www.fragrantica.com/perfume/One-Day/Thai-Soda-73837.html	one-day/unisex/thai-soda.png
 One Day	Thailand		unisex	https://www.fragrantica.com/perfume/One-Day/Thailand-73838.html	one-day/unisex/thailand.png
-One Direction	Between Us		female	https://www.fragrantica.com/perfume/One-Direction/Between-Us-31393.html	
+One Direction	Between Us		female	https://www.fragrantica.com/perfume/One-Direction/Between-Us-31393.html	one-direction/female/between-us.png
 One Direction	Our Moment		female	https://www.fragrantica.com/perfume/One-Direction/Our-Moment-18810.html	
 One Direction	That Moment		female	https://www.fragrantica.com/perfume/One-Direction/That-Moment-24059.html	one-direction/female/that-moment.png
 One Direction	You & I		female	https://www.fragrantica.com/perfume/One-Direction/You-I-26663.html	one-direction/female/you-i.png
@@ -93501,7 +93501,7 @@ Perfumer's Workshop	Samba Ice Woman		female	https://www.fragrantica.com/perfume/
 Perfumer's Workshop	Samba Kiss		female	https://www.fragrantica.com/perfume/Perfumer-s-Workshop/Samba-Kiss-5489.html	
 Perfumer's Workshop	Samba Kiss Man		male	https://www.fragrantica.com/perfume/Perfumer-s-Workshop/Samba-Kiss-Man-5490.html	
 Perfumer's Workshop	Samba Kiss Me		female	https://www.fragrantica.com/perfume/Perfumer-s-Workshop/Samba-Kiss-Me-5491.html	
-Perfumer's Workshop	Samba Natural		female	https://www.fragrantica.com/perfume/Perfumer-s-Workshop/Samba-Natural-5492.html	
+Perfumer's Workshop	Samba Natural		female	https://www.fragrantica.com/perfume/Perfumer-s-Workshop/Samba-Natural-5492.html	perfumer-s-workshop/female/samba-natural.png
 Perfumer's Workshop	Samba Natural Man		male	https://www.fragrantica.com/perfume/Perfumer-s-Workshop/Samba-Natural-Man-5493.html	
 Perfumer's Workshop	Samba Nova		female	https://www.fragrantica.com/perfume/Perfumer-s-Workshop/Samba-Nova-5494.html	
 Perfumer's Workshop	Samba Nova Homme		male	https://www.fragrantica.com/perfume/Perfumer-s-Workshop/Samba-Nova-Homme-5495.html	
@@ -94015,7 +94015,7 @@ Phebo	Água de Sândalo		female	https://www.fragrantica.com/perfume/Phebo/Agua-d
 Phebo	Água de Vetiver		unisex	https://www.fragrantica.com/perfume/Phebo/Agua-de-Vetiver-69196.html	phebo/unisex/agua-de-vetiver.png
 Phebo	Água de Íris		unisex	https://www.fragrantica.com/perfume/Phebo/Agua-de-Iris-24625.html	phebo/unisex/agua-de-iris.png
 Phebo	Âmbar		unisex	https://www.fragrantica.com/perfume/Phebo/Ambar-25454.html	phebo/unisex/ambar.png
-Pheym	Aura		female	https://www.fragrantica.com/perfume/Pheym/Aura-134112.html	
+Pheym	Aura		female	https://www.fragrantica.com/perfume/Pheym/Aura-134112.html	pheym/female/aura.png
 Pheym	Cherish		female	https://www.fragrantica.com/perfume/Pheym/Cherish-134109.html	
 Pheym	Crush		unisex	https://www.fragrantica.com/perfume/Pheym/Crush-116196.html	
 Pheym	Finess		female	https://www.fragrantica.com/perfume/Pheym/Finess-134117.html	
@@ -94303,10 +94303,10 @@ Phytoderm	Águas Musk		male	https://www.fragrantica.com/perfume/Phytoderm/Aguas-
 Pictor Parfum	Airbrush		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Airbrush-89484.html	pictor-parfum/unisex/airbrush.png
 Pictor Parfum	Aperture		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Aperture-92063.html	pictor-parfum/unisex/aperture.png
 Pictor Parfum	Dark Room		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Dark-Room-92064.html	pictor-parfum/unisex/dark-room.png
-Pictor Parfum	Flash		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Flash-89487.html	
-Pictor Parfum	Perspective		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Perspective-89485.html	
+Pictor Parfum	Flash		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Flash-89487.html	pictor-parfum/unisex/flash.png
+Pictor Parfum	Perspective		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Perspective-89485.html	pictor-parfum/unisex/perspective.png
 Pictor Parfum	Shadow		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Shadow-89486.html	
-Pictor Parfum	Silhouette		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Silhouette-89483.html	
+Pictor Parfum	Silhouette		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Silhouette-89483.html	pictor-parfum/unisex/silhouette.png
 Pictor Parfum	Time Lapse		unisex	https://www.fragrantica.com/perfume/Pictor-Parfum/Time-Lapse-92062.html	
 Pictura Fragrans	Animal Épicé		unisex	https://www.fragrantica.com/perfume/Pictura-Fragrans/Animal-Epice-91281.html	pictura-fragrans/unisex/animal-epice.png
 Pictura Fragrans	Aquelarre		unisex	https://www.fragrantica.com/perfume/Pictura-Fragrans/Aquelarre-93913.html	pictura-fragrans/unisex/aquelarre.png
@@ -96581,7 +96581,7 @@ Provence & Nature	Fleur de Pommier		unisex	https://www.fragrantica.com/perfume/P
 Provence & Nature	Fleurs Blanches		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Fleurs-Blanches-50954.html	
 Provence & Nature	Fougère		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Fougere-50916.html	
 Provence & Nature	Fruits Rouges		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Fruits-Rouges-50914.html	
-Provence & Nature	Gingembre Poivre Blanc		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Gingembre-Poivre-Blanc-50918.html	
+Provence & Nature	Gingembre Poivre Blanc		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Gingembre-Poivre-Blanc-50918.html	provence-nature/unisex/gingembre-poivre-blanc.png
 Provence & Nature	Immortal		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Immortal-50872.html	
 Provence & Nature	Jasmin		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Jasmin-50955.html	
 Provence & Nature	Lavande		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Lavande-50897.html	
@@ -96603,7 +96603,7 @@ Provence & Nature	Tahaa		unisex	https://www.fragrantica.com/perfume/Provence-Nat
 Provence & Nature	Thé Vert		unisex	https://www.fragrantica.com/perfume/Provence-Nature/The-Vert-50946.html	
 Provence & Nature	Tubéreuse		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Tubereuse-50966.html	
 Provence & Nature	Ulan		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Ulan-50975.html	
-Provence & Nature	Vanille Ambrée		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Vanille-Ambree-50949.html	
+Provence & Nature	Vanille Ambrée		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Vanille-Ambree-50949.html	provence-nature/unisex/vanille-ambree.png
 Provence & Nature	Vanille Coco		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Vanille-Coco-50924.html	
 Provence & Nature	Vanille Frangipanier		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Vanille-Frangipanier-50950.html	
 Provence & Nature	Vanille Noire		unisex	https://www.fragrantica.com/perfume/Provence-Nature/Vanille-Noire-50951.html	
@@ -96906,7 +96906,7 @@ Pützer's	842m ü. NN.		unisex	https://www.fragrantica.com/perfume/Puetzer-s/842
 Q&A	Click		female	https://www.fragrantica.com/perfume/Q-A/Click-125874.html	q-a/female/click.png
 Q&A	Golden Memory		female	https://www.fragrantica.com/perfume/Q-A/Golden-Memory-125875.html	q-a/female/golden-memory.png
 Qissati	Qissati Chapter 01		unisex	https://www.fragrantica.com/perfume/Qissati/Qissati-Chapter-01-89696.html	qissati/unisex/qissati-chapter-01-89696.png
-Qissati	Qissati Chapter 01		unisex	https://www.fragrantica.com/perfume/Qissati/Qissati-Chapter-01-58684.html	
+Qissati	Qissati Chapter 01		unisex	https://www.fragrantica.com/perfume/Qissati/Qissati-Chapter-01-58684.html	qissati/unisex/qissati-chapter-01-58684.png
 Qissati	Qissati Chapter 02		unisex	https://www.fragrantica.com/perfume/Qissati/Qissati-Chapter-02-89697.html	qissati/unisex/qissati-chapter-02-89697.png
 Qissati	Qissati Chapter 02		unisex	https://www.fragrantica.com/perfume/Qissati/Qissati-Chapter-02-58685.html	
 Qissati	Qissati Chapter 03		unisex	https://www.fragrantica.com/perfume/Qissati/Qissati-Chapter-03-58686.html	
@@ -98977,15 +98977,15 @@ Reminiscence	Vanille		female	https://www.fragrantica.com/perfume/Reminiscence/Va
 Reminiscence	Vanille Santal		unisex	https://www.fragrantica.com/perfume/Reminiscence/Vanille-Santal-60420.html	reminiscence/unisex/vanille-santal.png
 Reminiscence	White Tubereuse		female	https://www.fragrantica.com/perfume/Reminiscence/White-Tubereuse-24136.html	reminiscence/female/white-tubereuse.png
 Reminiscence	White Tubereuse Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Reminiscence/White-Tubereuse-Eau-de-Toilette-30748.html	reminiscence/female/white-tubereuse-eau-de-toilette.png
-Remy Marquis	M Star for Man		male	https://www.fragrantica.com/perfume/Remy-Marquis/M-Star-for-Man-20877.html	
-Remy Marquis	M Star for Woman		female	https://www.fragrantica.com/perfume/Remy-Marquis/M-Star-for-Woman-20878.html	
+Remy Marquis	M Star for Man		male	https://www.fragrantica.com/perfume/Remy-Marquis/M-Star-for-Man-20877.html	remy-marquis/male/m-star-for-man.png
+Remy Marquis	M Star for Woman		female	https://www.fragrantica.com/perfume/Remy-Marquis/M-Star-for-Woman-20878.html	remy-marquis/female/m-star-for-woman.png
 Remy Marquis	M2		male	https://www.fragrantica.com/perfume/Remy-Marquis/M2-20873.html	
 Remy Marquis	M2		female	https://www.fragrantica.com/perfume/Remy-Marquis/M2-20885.html	
 Remy Marquis	M2 Prince		male	https://www.fragrantica.com/perfume/Remy-Marquis/M2-Prince-20879.html	
 Remy Marquis	M2 Princess		female	https://www.fragrantica.com/perfume/Remy-Marquis/M2-Princess-20884.html	remy-marquis/female/m2-princess.png
-Remy Marquis	Marquis		female	https://www.fragrantica.com/perfume/Remy-Marquis/Marquis-20849.html	
-Remy Marquis	Marquis		male	https://www.fragrantica.com/perfume/Remy-Marquis/Marquis-20851.html	
-Remy Marquis	Remy		male	https://www.fragrantica.com/perfume/Remy-Marquis/Remy-20875.html	
+Remy Marquis	Marquis		female	https://www.fragrantica.com/perfume/Remy-Marquis/Marquis-20849.html	remy-marquis/female/marquis.png
+Remy Marquis	Marquis		male	https://www.fragrantica.com/perfume/Remy-Marquis/Marquis-20851.html	remy-marquis/male/marquis.png
+Remy Marquis	Remy		male	https://www.fragrantica.com/perfume/Remy-Marquis/Remy-20875.html	remy-marquis/male/remy.png
 Remy Marquis	Remy		female	https://www.fragrantica.com/perfume/Remy-Marquis/Remy-20874.html	remy-marquis/female/remy.png
 Remy Marquis	RM Magic		female	https://www.fragrantica.com/perfume/Remy-Marquis/RM-Magic-20883.html	remy-marquis/female/rm-magic.png
 Remy Marquis	RM Man		male	https://www.fragrantica.com/perfume/Remy-Marquis/RM-Man-20880.html	
@@ -99420,11 +99420,11 @@ Riaz Dan	Lebenstraum		female	https://www.fragrantica.com/perfume/Riaz-Dan/Lebens
 Ricarda M.	Black Velvet		female	https://www.fragrantica.com/perfume/Ricarda-M/Black-Velvet-113684.html	
 Ricarda M.	Body Eve		female	https://www.fragrantica.com/perfume/Ricarda-M/Body-Eve-12984.html	ricarda-m/female/body-eve.png
 Ricarda M.	High Society		female	https://www.fragrantica.com/perfume/Ricarda-M/High-Society-12979.html	
-Ricarda M.	N°1		female	https://www.fragrantica.com/perfume/Ricarda-M/N01-12977.html	
+Ricarda M.	N°1		female	https://www.fragrantica.com/perfume/Ricarda-M/N01-12977.html	ricarda-m/female/n1.png
 Ricarda M.	N°65		female	https://www.fragrantica.com/perfume/Ricarda-M/N065-12978.html	ricarda-m/female/n65.png
 Ricarda M.	Private Label		female	https://www.fragrantica.com/perfume/Ricarda-M/Private-Label-12983.html	ricarda-m/female/private-label.png
-Ricarda M.	Rich Moments Together He		male	https://www.fragrantica.com/perfume/Ricarda-M/Rich-Moments-Together-He-12986.html	
-Ricarda M.	Rich Moments Together She		female	https://www.fragrantica.com/perfume/Ricarda-M/Rich-Moments-Together-She-12985.html	
+Ricarda M.	Rich Moments Together He		male	https://www.fragrantica.com/perfume/Ricarda-M/Rich-Moments-Together-He-12986.html	ricarda-m/male/rich-moments-together-he.png
+Ricarda M.	Rich Moments Together She		female	https://www.fragrantica.com/perfume/Ricarda-M/Rich-Moments-Together-She-12985.html	ricarda-m/female/rich-moments-together-she.png
 Ricarda M.	Secrets of Love		female	https://www.fragrantica.com/perfume/Ricarda-M/Secrets-of-Love-12980.html	
 Ricarda M.	Sweet Lady		female	https://www.fragrantica.com/perfume/Ricarda-M/Sweet-Lady-12981.html	
 Ricarda M.	Touch of Angels		female	https://www.fragrantica.com/perfume/Ricarda-M/Touch-of-Angels-12982.html	
@@ -99700,7 +99700,7 @@ Rimal	NOIR OBSIDIAN		unisex	https://www.fragrantica.com/perfume/Rimal/NOIR-OBSID
 Rimal	PRECIOUS QUARTZ		unisex	https://www.fragrantica.com/perfume/Rimal/PRECIOUS-QUARTZ-105149.html	
 Rimal	Royal Garnet		unisex	https://www.fragrantica.com/perfume/Rimal/Royal-Garnet-105146.html	
 Rimal	Silky Crystal		unisex	https://www.fragrantica.com/perfume/Rimal/Silky-Crystal-105151.html	
-Rimal	Smoky Jasper		unisex	https://www.fragrantica.com/perfume/Rimal/Smoky-Jasper-105148.html	
+Rimal	Smoky Jasper		unisex	https://www.fragrantica.com/perfume/Rimal/Smoky-Jasper-105148.html	rimal/unisex/smoky-jasper.png
 Rimal	Soft Turquoise		unisex	https://www.fragrantica.com/perfume/Rimal/Soft-Turquoise-105145.html	rimal/unisex/soft-turquoise.png
 Rimal	Velvet Topaz		unisex	https://www.fragrantica.com/perfume/Rimal/Velvet-Topaz-105144.html	rimal/unisex/velvet-topaz.png
 Rimmel	London Glam		female	https://www.fragrantica.com/perfume/Rimmel/London-Glam-8895.html	
@@ -100943,7 +100943,7 @@ Rothenstein	Deja Vu David & Venus		unisex	https://www.fragrantica.com/perfume/Ro
 Rothenstein	Deja Vu Gay		male	https://www.fragrantica.com/perfume/Rothenstein/Deja-Vu-Gay-7896.html	rothenstein/male/deja-vu-gay.png
 Rothenstein	Deja Vu Gold Edition		unisex	https://www.fragrantica.com/perfume/Rothenstein/Deja-Vu-Gold-Edition-7897.html	
 Rothenstein	Deja Vu Rodin		female	https://www.fragrantica.com/perfume/Rothenstein/Deja-Vu-Rodin-7892.html	rothenstein/female/deja-vu-rodin.png
-Rothenstein	Pirates of Love		male	https://www.fragrantica.com/perfume/Rothenstein/Pirates-of-Love-7898.html	
+Rothenstein	Pirates of Love		male	https://www.fragrantica.com/perfume/Rothenstein/Pirates-of-Love-7898.html	rothenstein/male/pirates-of-love.png
 Rouge Bunny Rouge	Allegria		female	https://www.fragrantica.com/perfume/Rouge-Bunny-Rouge/Allegria-24675.html	rouge-bunny-rouge/female/allegria.png
 Rouge Bunny Rouge	Arcadia		unisex	https://www.fragrantica.com/perfume/Rouge-Bunny-Rouge/Arcadia-29099.html	rouge-bunny-rouge/unisex/arcadia.png
 Rouge Bunny Rouge	Arcane		female	https://www.fragrantica.com/perfume/Rouge-Bunny-Rouge/Arcane-42648.html	rouge-bunny-rouge/female/arcane.png
@@ -101413,7 +101413,7 @@ Rundholz	12th of Oct. 1492		unisex	https://www.fragrantica.com/perfume/Rundholz/
 Rundholz	20 MARS 2022		unisex	https://www.fragrantica.com/perfume/Rundholz/20-MARS-2022-47940.html	rundholz/unisex/20-mars-2022.png
 Rundholz	2024-june-2nd		unisex	https://www.fragrantica.com/perfume/Rundholz/2024-june-2nd-100132.html	rundholz/unisex/2024-june-2nd.png
 Rundholz	AUGUST 7th 2088		unisex	https://www.fragrantica.com/perfume/Rundholz/AUGUST-7th-2088-86867.html	
-Rundholz	FEB.14,1912		unisex	https://www.fragrantica.com/perfume/Rundholz/FEB-14-1912-46389.html	
+Rundholz	FEB.14,1912		unisex	https://www.fragrantica.com/perfume/Rundholz/FEB-14-1912-46389.html	rundholz/unisex/feb-14-1912.png
 Rundholz	SEPT.21.1966		unisex	https://www.fragrantica.com/perfume/Rundholz/SEPT-21-1966-31984.html	
 Ruskolon	Apple Flower – Цветок Яблока		unisex	https://www.fragrantica.com/perfume/Ruskolon/Apple-Flower-Cvetok-Abloka-130047.html	ruskolon/unisex/apple-flower.png
 Ruskolon	Berry Painting – Ягодная Роспись		unisex	https://www.fragrantica.com/perfume/Ruskolon/Berry-Painting-Agodnaa-Rospis-105424.html	ruskolon/unisex/berry-painting.png
@@ -103231,7 +103231,7 @@ Sasva	Shanthi		unisex	https://www.fragrantica.com/perfume/Sasva/Shanthi-90731.ht
 Satellite	40º a l'Ombre		female	https://www.fragrantica.com/perfume/Satellite/40o-a-l-Ombre-4341.html	satellite/female/40o-a-l-ombre.png
 Satellite	A La Figue!		female	https://www.fragrantica.com/perfume/Satellite/A-La-Figue-4342.html	
 Satellite	Corrida		female	https://www.fragrantica.com/perfume/Satellite/Corrida-4338.html	satellite/female/corrida.png
-Satellite	Ipanema		female	https://www.fragrantica.com/perfume/Satellite/Ipanema-4339.html	
+Satellite	Ipanema		female	https://www.fragrantica.com/perfume/Satellite/Ipanema-4339.html	satellite/female/ipanema.png
 Satellite	Padparadscha		female	https://www.fragrantica.com/perfume/Satellite/Padparadscha-4340.html	satellite/female/padparadscha.png
 Sauzé	Ambre et Cuir		unisex	https://www.fragrantica.com/perfume/Sauze/Ambre-et-Cuir-74226.html	sauze/unisex/ambre-et-cuir.png
 Sauzé	Caracole		female	https://www.fragrantica.com/perfume/Sauze/Caracole-80121.html	sauze/female/caracole.png
@@ -104722,8 +104722,8 @@ Sevilla Fragrances	Your Dragee		unisex	https://www.fragrantica.com/perfume/Sevil
 Sex and the City	Hello Lover		female	https://www.fragrantica.com/perfume/Sex-and-the-City/Hello-Lover-17546.html	sex-and-the-city/female/hello-lover.png
 Sex and the City	Sex and the City By Night		female	https://www.fragrantica.com/perfume/Sex-and-the-City/Sex-and-the-City-By-Night-16904.html	sex-and-the-city/female/sex-and-the-city-by-night.png
 Sex and the City	Sex and the City for Her		female	https://www.fragrantica.com/perfume/Sex-and-the-City/Sex-and-the-City-for-Her-16903.html	sex-and-the-city/female/sex-and-the-city-for-her.png
-Sex and the City	Sex and the City Sunrise		female	https://www.fragrantica.com/perfume/Sex-and-the-City/Sex-and-the-City-Sunrise-16905.html	
-Sex and the City	Sex and the City Sunset		female	https://www.fragrantica.com/perfume/Sex-and-the-City/Sex-and-the-City-Sunset-16906.html	
+Sex and the City	Sex and the City Sunrise		female	https://www.fragrantica.com/perfume/Sex-and-the-City/Sex-and-the-City-Sunrise-16905.html	sex-and-the-city/female/sex-and-the-city-sunrise.png
+Sex and the City	Sex and the City Sunset		female	https://www.fragrantica.com/perfume/Sex-and-the-City/Sex-and-the-City-Sunset-16906.html	sex-and-the-city/female/sex-and-the-city-sunset.png
 SG79 STHLM	Nº 1		unisex	https://www.fragrantica.com/perfume/SG79-STHLM/No-1-41596.html	sg79-sthlm/unisex/no-1.png
 SG79 STHLM	Nº 16		unisex	https://www.fragrantica.com/perfume/SG79-STHLM/No-16-41602.html	sg79-sthlm/unisex/no-16.png
 SG79 STHLM	Nº 17		unisex	https://www.fragrantica.com/perfume/SG79-STHLM/No-17-45670.html	sg79-sthlm/unisex/no-17.png
@@ -104979,7 +104979,7 @@ Shiraz Parfums	Kibrit Ahmar		unisex	https://www.fragrantica.com/perfume/Shiraz-P
 Shiraz Parfums	Kingston		male	https://www.fragrantica.com/perfume/Shiraz-Parfums/Kingston-88264.html	
 Shiraz Parfums	Lahore		unisex	https://www.fragrantica.com/perfume/Shiraz-Parfums/Lahore-75252.html	shiraz-parfums/unisex/lahore.png
 Shiraz Parfums	S Prive Edition		unisex	https://www.fragrantica.com/perfume/Shiraz-Parfums/S-Prive-Edition-102399.html	shiraz-parfums/unisex/s-prive-edition.png
-Shiraz Parfums	Taaj		unisex	https://www.fragrantica.com/perfume/Shiraz-Parfums/Taaj-75253.html	
+Shiraz Parfums	Taaj		unisex	https://www.fragrantica.com/perfume/Shiraz-Parfums/Taaj-75253.html	shiraz-parfums/unisex/taaj.png
 Shiraz Parfums	The Opening		male	https://www.fragrantica.com/perfume/Shiraz-Parfums/The-Opening-88268.html	
 Shiraz Parfums	Triumph		male	https://www.fragrantica.com/perfume/Shiraz-Parfums/Triumph-88272.html	
 Shirin Beauty	Creamy Blueberry Caramel Bliss		female	https://www.fragrantica.com/perfume/Shirin-Beauty/Creamy-Blueberry-Caramel-Bliss-139916.html	
@@ -105988,9 +105988,9 @@ Skinfood	Cinnamon Black Tea		female	https://www.fragrantica.com/perfume/Skinfood
 Skinfood	Sheer Cassis		female	https://www.fragrantica.com/perfume/Skinfood/Sheer-Cassis-37627.html	skinfood/female/sheer-cassis.png
 Skinfood	Sweet Sparkling		female	https://www.fragrantica.com/perfume/Skinfood/Sweet-Sparkling-37628.html	skinfood/female/sweet-sparkling.png
 Skinnydip	Just Peachy		female	https://www.fragrantica.com/perfume/Skinnydip/Just-Peachy-70247.html	skinnydip/female/just-peachy.png
-SKLVA	[cassis chypre]		unisex	https://www.fragrantica.com/perfume/SKLVA/cassis-chypre-73840.html	
+SKLVA	[cassis chypre]		unisex	https://www.fragrantica.com/perfume/SKLVA/cassis-chypre-73840.html	sklva/unisex/cassis-chypre.png
 SKLVA	[sea citrus]		unisex	https://www.fragrantica.com/perfume/SKLVA/sea-citrus-73859.html	sklva/unisex/sea-citrus.png
-SKLVA	[suede hyacinth]		unisex	https://www.fragrantica.com/perfume/SKLVA/suede-hyacinth-73841.html	
+SKLVA	[suede hyacinth]		unisex	https://www.fragrantica.com/perfume/SKLVA/suede-hyacinth-73841.html	sklva/unisex/suede-hyacinth.png
 SKLVA	[urban petunia]		unisex	https://www.fragrantica.com/perfume/SKLVA/urban-petunia-73839.html	sklva/unisex/urban-petunia.png
 SKLVA	[vintage powder]		unisex	https://www.fragrantica.com/perfume/SKLVA/vintage-powder-73869.html	
 SKLVA	[wood iris]		unisex	https://www.fragrantica.com/perfume/SKLVA/wood-iris-73871.html	sklva/unisex/wood-iris.png
@@ -108008,7 +108008,7 @@ STR8	Red Code		male	https://www.fragrantica.com/perfume/STR8/Red-Code-40404.html
 STR8	Rise		unisex	https://www.fragrantica.com/perfume/STR8/Rise-71267.html	str8/unisex/rise.png
 STR8	STR8 Wild Beat		male	https://www.fragrantica.com/perfume/STR8/STR8-Wild-Beat-128479.html	str8/male/str8-wild-beat.png
 Strada	5th Ave		unisex	https://www.fragrantica.com/perfume/Strada/5th-Ave-61482.html	strada/unisex/5th-ave.png
-Strada	Avenue Montaigne		unisex	https://www.fragrantica.com/perfume/Strada/Avenue-Montaigne-61481.html	
+Strada	Avenue Montaigne		unisex	https://www.fragrantica.com/perfume/Strada/Avenue-Montaigne-61481.html	strada/unisex/avenue-montaigne.png
 Strada	Sloane St		unisex	https://www.fragrantica.com/perfume/Strada/Sloane-St-61483.html	strada/unisex/sloane-st.png
 Strada	Via Veneto		unisex	https://www.fragrantica.com/perfume/Strada/Via-Veneto-61480.html	strada/unisex/via-veneto.png
 Stradivarius	008 This Is Fun		female	https://www.fragrantica.com/perfume/Stradivarius/008-This-Is-Fun-58215.html	stradivarius/female/008-this-is-fun.png
@@ -109177,7 +109177,7 @@ Swarovski	Aura by Swarovski Collection Mariage		female	https://www.fragrantica.c
 Swarovski	Aura by Swarovski Love Collection		female	https://www.fragrantica.com/perfume/Swarovski/Aura-by-Swarovski-Love-Collection-17781.html	
 Swarovski	Aura Intense		female	https://www.fragrantica.com/perfume/Swarovski/Aura-Intense-26119.html	swarovski/female/aura-intense.png
 Swarovski	Aura Swarovski Eau de Toilette	Eau de Toilette	female	https://www.fragrantica.com/perfume/Swarovski/Aura-Swarovski-Eau-de-Toilette-14631.html	swarovski/female/aura-swarovski-eau-de-toilette.png
-Swarovski	Miss Aura		female	https://www.fragrantica.com/perfume/Swarovski/Miss-Aura-18806.html	
+Swarovski	Miss Aura		female	https://www.fragrantica.com/perfume/Swarovski/Miss-Aura-18806.html	swarovski/female/miss-aura.png
 Swarovski	Swarovski Edition		female	https://www.fragrantica.com/perfume/Swarovski/Swarovski-Edition-15636.html	
 Swarovski	Swarovski Edition 2014		female	https://www.fragrantica.com/perfume/Swarovski/Swarovski-Edition-2014-24986.html	swarovski/female/swarovski-edition-2014.png
 SweDoft	1000'1 Nights		unisex	https://www.fragrantica.com/perfume/SweDoft/1000-1-Nights-61784.html	swedoft/unisex/10001-nights.png
@@ -109898,7 +109898,7 @@ Tammie Garr	Royalty		female	https://www.fragrantica.com/perfume/Tammie-Garr/Roya
 Tan Giudicelli	Annam		female	https://www.fragrantica.com/perfume/Tan-Giudicelli/Annam-21863.html	
 Tan Giudicelli	Eau D'annam		female	https://www.fragrantica.com/perfume/Tan-Giudicelli/Eau-D-annam-21870.html	
 Tan Giudicelli	Gardenia		female	https://www.fragrantica.com/perfume/Tan-Giudicelli/Gardenia-21869.html	tan-giudicelli/female/gardenia.png
-Tan Giudicelli	L'Ambre de Tan Giudicelli		female	https://www.fragrantica.com/perfume/Tan-Giudicelli/L-Ambre-de-Tan-Giudicelli-21866.html	
+Tan Giudicelli	L'Ambre de Tan Giudicelli		female	https://www.fragrantica.com/perfume/Tan-Giudicelli/L-Ambre-de-Tan-Giudicelli-21866.html	tan-giudicelli/female/l-ambre-de-tan-giudicelli.png
 Tan Giudicelli	L'Ambre Vanille		female	https://www.fragrantica.com/perfume/Tan-Giudicelli/L-Ambre-Vanille-21865.html	
 Tan Giudicelli	Pluie d'Ete		female	https://www.fragrantica.com/perfume/Tan-Giudicelli/Pluie-d-Ete-21867.html	tan-giudicelli/female/pluie-d-ete.png
 Tan Giudicelli	Pourpre		female	https://www.fragrantica.com/perfume/Tan-Giudicelli/Pourpre-21868.html	tan-giudicelli/female/pourpre.png
@@ -110057,7 +110057,7 @@ Taylor of Old Bond Street	St James		male	https://www.fragrantica.com/perfume/Tay
 Taylor Swift	Incredible Things		female	https://www.fragrantica.com/perfume/Taylor-Swift/Incredible-Things-28153.html	taylor-swift/female/incredible-things.png
 Taylor Swift	Taylor		female	https://www.fragrantica.com/perfume/Taylor-Swift/Taylor-18489.html	
 Taylor Swift	Taylor by Taylor Swift Made of Starlight		female	https://www.fragrantica.com/perfume/Taylor-Swift/Taylor-by-Taylor-Swift-Made-of-Starlight-23531.html	taylor-swift/female/taylor-by-taylor-swift-made-of-starlight.png
-Taylor Swift	Wonderstruck		female	https://www.fragrantica.com/perfume/Taylor-Swift/Wonderstruck-12991.html	
+Taylor Swift	Wonderstruck		female	https://www.fragrantica.com/perfume/Taylor-Swift/Wonderstruck-12991.html	taylor-swift/female/wonderstruck.png
 Taylor Swift	Wonderstruck Enchanted		female	https://www.fragrantica.com/perfume/Taylor-Swift/Wonderstruck-Enchanted-15508.html	taylor-swift/female/wonderstruck-enchanted.png
 Tayyib	Al Mumaiez		male	https://www.fragrantica.com/perfume/Tayyib/Al-Mumaiez-27855.html	
 Tayyib	Barak		male	https://www.fragrantica.com/perfume/Tayyib/Barak-27856.html	
@@ -110905,18 +110905,18 @@ The Cologne House	Bergamot & Musk		unisex	https://www.fragrantica.com/perfume/Th
 The Cologne House	Bergamot in C Major		male	https://www.fragrantica.com/perfume/The-Cologne-House/Bergamot-in-C-Major-77091.html	
 The Cologne House	GINGER IN D MAJOR		male	https://www.fragrantica.com/perfume/The-Cologne-House/GINGER-IN-D-MAJOR-77092.html	
 The Cologne House	Jasmin & Neroli		female	https://www.fragrantica.com/perfume/The-Cologne-House/Jasmin-Neroli-93925.html	the-cologne-house/female/jasmin-neroli.png
-The Cologne House	Osmanthus & Tea		unisex	https://www.fragrantica.com/perfume/The-Cologne-House/Osmanthus-Tea-77087.html	
+The Cologne House	Osmanthus & Tea		unisex	https://www.fragrantica.com/perfume/The-Cologne-House/Osmanthus-Tea-77087.html	the-cologne-house/unisex/osmanthus-tea.png
 The Cologne House	Osmanthus in A Major		unisex	https://www.fragrantica.com/perfume/The-Cologne-House/Osmanthus-in-A-Major-77094.html	
 The Cologne House	Oud in A Minor		unisex	https://www.fragrantica.com/perfume/The-Cologne-House/Oud-in-A-Minor-77095.html	
 The Cologne House	Pastel		unisex	https://www.fragrantica.com/perfume/The-Cologne-House/Pastel-92655.html	the-cologne-house/unisex/pastel.png
 The Cologne House	Saffron in E Major		unisex	https://www.fragrantica.com/perfume/The-Cologne-House/Saffron-in-E-Major-77097.html	
-The Cologne House	Sandalwood & Cedar		unisex	https://www.fragrantica.com/perfume/The-Cologne-House/Sandalwood-Cedar-77088.html	
+The Cologne House	Sandalwood & Cedar		unisex	https://www.fragrantica.com/perfume/The-Cologne-House/Sandalwood-Cedar-77088.html	the-cologne-house/unisex/sandalwood-cedar.png
 The Cologne House	Tuberose & Vanilla		female	https://www.fragrantica.com/perfume/The-Cologne-House/Tuberose-Vanilla-77089.html	
 The Cotswold Perfumery	Amber		male	https://www.fragrantica.com/perfume/The-Cotswold-Perfumery/Amber-16322.html	the-cotswold-perfumery/male/amber.png
 The Cotswold Perfumery	Cymbelline		female	https://www.fragrantica.com/perfume/The-Cotswold-Perfumery/Cymbelline-16314.html	
 The Cotswold Perfumery	English Rose		female	https://www.fragrantica.com/perfume/The-Cotswold-Perfumery/English-Rose-16315.html	
 The Cotswold Perfumery	Lavandula		unisex	https://www.fragrantica.com/perfume/The-Cotswold-Perfumery/Lavandula-16319.html	the-cotswold-perfumery/unisex/lavandula.png
-The Cotswold Perfumery	Muguet		female	https://www.fragrantica.com/perfume/The-Cotswold-Perfumery/Muguet-16316.html	
+The Cotswold Perfumery	Muguet		female	https://www.fragrantica.com/perfume/The-Cotswold-Perfumery/Muguet-16316.html	the-cotswold-perfumery/female/muguet.png
 The Cotswold Perfumery	Neroli		unisex	https://www.fragrantica.com/perfume/The-Cotswold-Perfumery/Neroli-16320.html	
 The Cotswold Perfumery	Oberon		male	https://www.fragrantica.com/perfume/The-Cotswold-Perfumery/Oberon-16323.html	
 The Cotswold Perfumery	Pallas		female	https://www.fragrantica.com/perfume/The-Cotswold-Perfumery/Pallas-16313.html	
@@ -114397,7 +114397,7 @@ The Dua Brand	Électrique Rendezvous		male	https://www.fragrantica.com/perfume/T
 The Dua Brand	Électrique Rendezvous Gingembre Attar		male	https://www.fragrantica.com/perfume/The-Dua-Brand/Electrique-Rendezvous-Gingembre-Attar-86737.html	the-dua-brand/male/electrique-rendezvous-gingembre-attar.png
 The Elite Couture Miami	Esprit d'Ambre		unisex	https://www.fragrantica.com/perfume/The-Elite-Couture-Miami/Esprit-d-Ambre-110304.html	the-elite-couture-miami/unisex/esprit-d-ambre.png
 The Elite Couture Miami	Leather Nectar		unisex	https://www.fragrantica.com/perfume/The-Elite-Couture-Miami/Leather-Nectar-110303.html	the-elite-couture-miami/unisex/leather-nectar.png
-The Elite Couture Miami	Miami Sunshine		unisex	https://www.fragrantica.com/perfume/The-Elite-Couture-Miami/Miami-Sunshine-110305.html	
+The Elite Couture Miami	Miami Sunshine		unisex	https://www.fragrantica.com/perfume/The-Elite-Couture-Miami/Miami-Sunshine-110305.html	the-elite-couture-miami/unisex/miami-sunshine.png
 The Elite Couture Miami	Rose Poudrée		female	https://www.fragrantica.com/perfume/The-Elite-Couture-Miami/Rose-Poudree-110302.html	the-elite-couture-miami/female/rose-poudree.png
 The Exceptional	Acqua Di Exceptional		unisex	https://www.fragrantica.com/perfume/The-Exceptional/Acqua-Di-Exceptional-120245.html	the-exceptional/unisex/acqua-di-exceptional.png
 The Exceptional	Dark Leather		unisex	https://www.fragrantica.com/perfume/The-Exceptional/Dark-Leather-120247.html	the-exceptional/unisex/dark-leather.png
@@ -117326,7 +117326,7 @@ Transilvania Parfums Gothiques	Vampir		unisex	https://www.fragrantica.com/perfum
 Transilvania Parfums Gothiques	Vampiros		unisex	https://www.fragrantica.com/perfume/Transilvania-Parfums-Gothiques/Vampiros-120026.html	transilvania-parfums-gothiques/unisex/vampiros.png
 Tree Of Life	Eden's Garden		unisex	https://www.fragrantica.com/perfume/Tree-Of-Life/Eden-s-Garden-91805.html	
 Tree Of Life	Essential Element		unisex	https://www.fragrantica.com/perfume/Tree-Of-Life/Essential-Element-91806.html	
-Tree Of Life	Golden Leaf		unisex	https://www.fragrantica.com/perfume/Tree-Of-Life/Golden-Leaf-91807.html	
+Tree Of Life	Golden Leaf		unisex	https://www.fragrantica.com/perfume/Tree-Of-Life/Golden-Leaf-91807.html	tree-of-life/unisex/golden-leaf.png
 Tree Of Life	Heretic Gardenia		female	https://www.fragrantica.com/perfume/Tree-Of-Life/Heretic-Gardenia-79448.html	
 Tree Of Life	Holy Herb		male	https://www.fragrantica.com/perfume/Tree-Of-Life/Holy-Herb-79453.html	
 Tree Of Life	Illuminating Rose		female	https://www.fragrantica.com/perfume/Tree-Of-Life/Illuminating-Rose-79447.html	tree-of-life/female/illuminating-rose.png
@@ -118332,7 +118332,7 @@ Umer Hasan Bhatti	Dastan e Naranj		unisex	https://www.fragrantica.com/perfume/Um
 Umma Perfumes	Alphonso Oud		unisex	https://www.fragrantica.com/perfume/Umma-Perfumes/Alphonso-Oud-107968.html	umma-perfumes/unisex/alphonso-oud.png
 Umma Perfumes	Blue Waters		unisex	https://www.fragrantica.com/perfume/Umma-Perfumes/Blue-Waters-107069.html	umma-perfumes/unisex/blue-waters.png
 Umma Perfumes	Bois Verts		unisex	https://www.fragrantica.com/perfume/Umma-Perfumes/Bois-Verts-107067.html	umma-perfumes/unisex/bois-verts.png
-Umma Perfumes	Vanilla Berry		unisex	https://www.fragrantica.com/perfume/Umma-Perfumes/Vanilla-Berry-107068.html	
+Umma Perfumes	Vanilla Berry		unisex	https://www.fragrantica.com/perfume/Umma-Perfumes/Vanilla-Berry-107068.html	umma-perfumes/unisex/vanilla-berry.png
 UNDER THE PERGOLA	Bless		unisex	https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Bless-142555.html	under-the-pergola/unisex/bless.png
 UNDER THE PERGOLA	Ch.r		unisex	https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Ch-r-142640.html	under-the-pergola/unisex/ch-r.png
 UNDER THE PERGOLA	Cheers		unisex	https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Cheers-142542.html	under-the-pergola/unisex/cheers.png
@@ -122807,7 +122807,7 @@ Wood Moss	Wood Moss		unisex	https://www.fragrantica.com/perfume/Wood-Moss/Wood-M
 Wood Moss	Мгла		unisex	https://www.fragrantica.com/perfume/Wood-Moss/Mgla-117546.html	
 Woods of Windsor	Bergamot & Neroli		unisex	https://www.fragrantica.com/perfume/Woods-of-Windsor/Bergamot-Neroli-23639.html	woods-of-windsor/unisex/bergamot-neroli.png
 Woods of Windsor	Blue Orchid & Water Lily		female	https://www.fragrantica.com/perfume/Woods-of-Windsor/Blue-Orchid-Water-Lily-20616.html	
-Woods of Windsor	Cedar Woods		unisex	https://www.fragrantica.com/perfume/Woods-of-Windsor/Cedar-Woods-23638.html	
+Woods of Windsor	Cedar Woods		unisex	https://www.fragrantica.com/perfume/Woods-of-Windsor/Cedar-Woods-23638.html	woods-of-windsor/unisex/cedar-woods.png
 Woods of Windsor	For Men		male	https://www.fragrantica.com/perfume/Woods-of-Windsor/For-Men-16310.html	woods-of-windsor/male/for-men.png
 Woods of Windsor	Forget Me Not		female	https://www.fragrantica.com/perfume/Woods-of-Windsor/Forget-Me-Not-40628.html	
 Woods of Windsor	Lavender		female	https://www.fragrantica.com/perfume/Woods-of-Windsor/Lavender-5155.html	
@@ -122860,7 +122860,7 @@ Wren Atelier	Valensole Romance		unisex	https://www.fragrantica.com/perfume/Wren-
 Written on Water	En Plein Air		unisex	https://www.fragrantica.com/perfume/Written-on-Water/En-Plein-Air-142134.html	
 Written on Water	Ondine		unisex	https://www.fragrantica.com/perfume/Written-on-Water/Ondine-142526.html	written-on-water/unisex/ondine.png
 Written on Water	Reflets Verts		unisex	https://www.fragrantica.com/perfume/Written-on-Water/Reflets-Verts-142527.html	written-on-water/unisex/reflets-verts.png
-Wuwen 无文	Drunk Fairy 花月酒仙		unisex	https://www.fragrantica.com/perfume/Wuwen-wu-wen/Drunk-Fairy-hua-yue-jiu-xian-107312.html	
+Wuwen 无文	Drunk Fairy 花月酒仙		unisex	https://www.fragrantica.com/perfume/Wuwen-wu-wen/Drunk-Fairy-hua-yue-jiu-xian-107312.html	wuwen/unisex/drunk-fairy.png
 Wuwen 无文	Inkwashed Sandalwood 水墨檀香		unisex	https://www.fragrantica.com/perfume/Wuwen-wu-wen/Inkwashed-Sandalwood-shui-mo-tan-xiang-107313.html	
 Wuwen 无文	Leon & Mathilda 里昂的玛蒂尔达		unisex	https://www.fragrantica.com/perfume/Wuwen-wu-wen/Leon-Mathilda-li-ang-de-ma-di-er-da-107307.html	wuwen/unisex/leon-mathilda.png
 Wuwen 无文	Mr. Cedar's Crush 凌云花境		unisex	https://www.fragrantica.com/perfume/Wuwen-wu-wen/Mr-Cedar-s-Crush-ling-yun-hua-jing-107314.html	
@@ -123113,10 +123113,10 @@ Xerjoff	Yacht Club de Monaco		unisex	https://www.fragrantica.com/perfume/Xerjoff
 Xerjoff	Zafar		unisex	https://www.fragrantica.com/perfume/Xerjoff/Zafar-14803.html	xerjoff/unisex/zafar.png
 Xerjoff	Zanzibar (Najaf)		unisex	https://www.fragrantica.com/perfume/Xerjoff/Zanzibar-Najaf-14805.html	
 XiangHai 香海	Flowers Perfume Golden Osmanthus 百花香水 金桂		unisex	https://www.fragrantica.com/perfume/XiangHai-xiang-hai/Flowers-Perfume-Golden-Osmanthus-bai-hua-xiang-shui-jin-gui-34055.html	xianghai/unisex/flowers-perfume-golden-osmanthus.png
-Xinú	Aguamadera		unisex	https://www.fragrantica.com/perfume/Xinu/Aguamadera-44916.html	
-Xinú	Copala		unisex	https://www.fragrantica.com/perfume/Xinu/Copala-44917.html	
+Xinú	Aguamadera		unisex	https://www.fragrantica.com/perfume/Xinu/Aguamadera-44916.html	xinu/unisex/aguamadera.png
+Xinú	Copala		unisex	https://www.fragrantica.com/perfume/Xinu/Copala-44917.html	xinu/unisex/copala.png
 Xinú	Monstera		unisex	https://www.fragrantica.com/perfume/Xinu/Monstera-45881.html	xinu/unisex/monstera.png
-Xinú	OroNardo		unisex	https://www.fragrantica.com/perfume/Xinu/OroNardo-44918.html	
+Xinú	OroNardo		unisex	https://www.fragrantica.com/perfume/Xinu/OroNardo-44918.html	xinu/unisex/oronardo.png
 Xinú	Ummo		unisex	https://www.fragrantica.com/perfume/Xinu/Ummo-67782.html	xinu/unisex/ummo.png
 Xinú	VetiVerde		unisex	https://www.fragrantica.com/perfume/Xinu/VetiVerde-103611.html	xinu/unisex/vetiverde.png
 XOXO	Heartbeat		female	https://www.fragrantica.com/perfume/XOXO/Heartbeat-2230.html	
@@ -126486,7 +126486,7 @@ Zoella Beauty	Botanic'Eau		female	https://www.fragrantica.com/perfume/Zoella-Bea
 Zoella Beauty	Cosmos		female	https://www.fragrantica.com/perfume/Zoella-Beauty/Cosmos-51355.html	zoella-beauty/female/cosmos.png
 Zoella Beauty	Fruit Medley		female	https://www.fragrantica.com/perfume/Zoella-Beauty/Fruit-Medley-61701.html	
 Zoella Beauty	Gelat'Eau		female	https://www.fragrantica.com/perfume/Zoella-Beauty/Gelat-Eau-46151.html	
-Zoella Beauty	Let's Spritz		female	https://www.fragrantica.com/perfume/Zoella-Beauty/Let-s-Spritz-37144.html	
+Zoella Beauty	Let's Spritz		female	https://www.fragrantica.com/perfume/Zoella-Beauty/Let-s-Spritz-37144.html	zoella-beauty/female/let-s-spritz.png
 Zoella Beauty	Snowella		female	https://www.fragrantica.com/perfume/Zoella-Beauty/Snowella-46544.html	
 Zoella Beauty	Sweet Inspirations		female	https://www.fragrantica.com/perfume/Zoella-Beauty/Sweet-Inspirations-39088.html	
 Zolf	Scale Up		male	https://www.fragrantica.com/perfume/Zolf/Scale-Up-125428.html	zolf/male/scale-up.png
