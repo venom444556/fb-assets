@@ -31,4 +31,6 @@ Houses written under an old alias are folded into the current house, and IDs wri
 
 `lookup.tsv` carries seven `notes_*` columns after `image_path` (house-sourced top/heart/base or
 unlayered notes, source type, source URL, check date). `notes.tsv` is the feed; after it changes run
-`python3 tools/catalog/notes_to_lookup.py` from the repo root. `build.py` keeps these columns on rebuild.
+`python3 tools/catalog/notes_to_lookup.py` from the repo root. Five `seed_notes_*` columns follow with the notes
+from the original seed dump (33,111 rows), as the fallback when a row has no house notes; house notes win.
+Refill them with `--seed <dump.csv>`. `build.py` keeps all these columns on rebuild.
