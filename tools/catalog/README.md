@@ -26,3 +26,9 @@ Normally `build.py` runs over the current catalog, so existing rows (and their s
 from scratch, export the published slugs first (`house_slug<TAB>fragrantica_id<TAB>slug`, one line per row of the
 current index files) and pass the file as `FB_SLUGS=...`, so every ID keeps the slug it already had.
 Houses written under an old alias are folded into the current house, and IDs written twice are dropped (first wins).
+
+## House notes in lookup.tsv
+
+`lookup.tsv` carries seven `notes_*` columns after `image_path` (house-sourced top/heart/base or
+unlayered notes, source type, source URL, check date). `notes.tsv` is the feed; after it changes run
+`python3 tools/catalog/notes_to_lookup.py` from the repo root. `build.py` keeps these columns on rebuild.

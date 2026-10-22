@@ -111,7 +111,15 @@ with open(os.path.join(repo,'catalog.tsv'), 'w', encoding='utf-8', newline='') a
         c = collections.Counter(r['gender'] for r in rows)
         f.write(f"{cat[hs]}\t{hs}\t{len(rows)}\t{c['male']}\t{c['female']}\t{c['unisex']}\n")
 lookup.sort(key=lambda t: (t[0].lower(), t[1].lower()))
-with open(os.path.join(repo,'lookup.tsv'), 'w', encoding='utf-8', newline='') as f:
-    f.write('house\tfragrance\tconcentration\tgender\tfragrantica_url\timage_path\n')
-    for t in lookup: f.write('\t'.join(t) + '\n')
+# keep any columns after image_path (the house notes from notes_to_lookup.py) by fragrantica_url
+extra_hdr, extra = [], {}
+lp = os.path.join(repo, 'lookup.tsv')
+if os.path.exists(lp):
+    with open(lp, encoding='utf-8') as f:
+        extra_hdr = f.readline().rstrip('\n').split('\t')[6:]
+        for line in f:
+            p = line.rstrip('\n').split('\t'); extra[p[4]] = p[6:]
+with open(lp, 'w', encoding='utf-8', newline='') as f:
+    f.write('\t'.join(['house','fragrance','concentration','gender','fragrantica_url','image_path'] + extra_hdr) + '\n')
+    for t in lookup: f.write('\t'.join(list(t) + (extra.get(t[4]) or [''] * len(extra_hdr))) + '\n')
 print('houses', len(idx), 'rows', len(lookup), 'added', sum(added.values()), dict(skipped))
