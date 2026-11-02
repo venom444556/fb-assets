@@ -67495,7 +67495,7 @@ LANSY	BOIS AMBERE		male	https://www.fragrantica.com/perfume/LANSY/BOIS-AMBERE-73
 LANSY	CHERIE		female	https://www.fragrantica.com/perfume/LANSY/CHERIE-73926.html	lansy/female/cherie.png												
 LANSY	CITRUS BLEND		male	https://www.fragrantica.com/perfume/LANSY/CITRUS-BLEND-82908.html	placeholders/no-image-available.png												
 LANSY	CRAZY NIGHT		female	https://www.fragrantica.com/perfume/LANSY/CRAZY-NIGHT-73927.html	lansy/female/crazy-night.png												
-LANSY	Douce Harmonie		female	https://www.fragrantica.com/perfume/LANSY/Douce-Harmonie-92506.html	lansy/female/douce-harmonie.png	Ginger, Pear	Ambroxan, Orange Blossom	Amber, Musk		house_site	https://lansy.com/products/douce-harmonie-perfume	2026-10-21					
+LANSY	Douce Harmonie		female	https://www.fragrantica.com/perfume/LANSY/Douce-Harmonie-92506.html	lansy/female/douce-harmonie.png												
 LANSY	Elan		female	https://www.fragrantica.com/perfume/LANSY/Elan-122159.html	lansy/female/elan.png												
 LANSY	ESPOIR		female	https://www.fragrantica.com/perfume/LANSY/ESPOIR-82909.html	placeholders/no-image-available.png												
 LANSY	I'm The Lady		female	https://www.fragrantica.com/perfume/LANSY/I-m-The-Lady-128059.html	lansy/female/i-m-the-lady.png	Yuzu, Pear, Bergamot, Peach	Orange Blossom, Jasmine, Ylang-Ylang	Musk, Moss, Sandalwood		house_site	https://lansy.com/products/im-the-lady	2026-10-21					
@@ -67509,7 +67509,7 @@ LANSY	L’HOMME PARFAIT		male	https://www.fragrantica.com/perfume/LANSY/L-HOMME-
 LANSY	Musk Arabian Edition		unisex	https://www.fragrantica.com/perfume/LANSY/Musk-Arabian-Edition-105034.html	lansy/unisex/musk-arabian-edition.png												
 LANSY	Nayla Bloom		female	https://www.fragrantica.com/perfume/LANSY/Nayla-Bloom-137462.html	placeholders/no-image-available.png	Blackcurrant, Pink Pepper, Pear	Jasmine, Rose, Freesia	Patchouli, Vanilla, Cedarwood		house_site	https://lansy.com/products/nayla-bloom-perfume	2026-10-21					
 LANSY	Oud Arabian Edition		unisex	https://www.fragrantica.com/perfume/LANSY/Oud-Arabian-Edition-97692.html	placeholders/no-image-available.png												
-LANSY	Pink Rose		female	https://www.fragrantica.com/perfume/LANSY/Pink-Rose-92505.html	lansy/female/pink-rose.png				bergamot, mandarin, almond, rose, peony, ylang-ylang, vanilla, tonka bean	house_site	https://lansy.com/products/pink-rose-perfume	2026-10-21					
+LANSY	Pink Rose		female	https://www.fragrantica.com/perfume/LANSY/Pink-Rose-92505.html	lansy/female/pink-rose.png												
 LANSY	Secret Bloom		female	https://www.fragrantica.com/perfume/LANSY/Secret-Bloom-122913.html	placeholders/no-image-available.png	Apple, Lemon, Mandarin, Peach	Cinnamon, Floral, Jasmine, Rose	Ambery, Musk, Praline, Vanilla		house_site	https://lansy.com/products/secret-bloom-perfume	2026-10-21					
 LANSY	SOFTY SILK		female	https://www.fragrantica.com/perfume/LANSY/SOFTY-SILK-115456.html	lansy/female/softy-silk.png	Peach, Orange blossom, Mandarin, Green leaves	White flowers, Osmanthus, Magnolia, Floral	Woody, Vanilla, Patchouli, Incense		house_site	https://lansy.com/products/softy-silk-perfume	2026-10-21					
 LANSY	SOIREE		unisex	https://www.fragrantica.com/perfume/LANSY/SOIREE-73932.html	lansy/unisex/soiree.png												
@@ -67705,21 +67705,21 @@ Latherati	This Moment in June		unisex	https://www.fragrantica.com/perfume/Lather
 Latherati	Waltz of the Snowflakes		unisex	https://www.fragrantica.com/perfume/Latherati/Waltz-of-the-Snowflakes-52748.html	placeholders/no-image-available.png												
 Latherati	Woodland Birthday		unisex	https://www.fragrantica.com/perfume/Latherati/Woodland-Birthday-50300.html	placeholders/no-image-available.png												
 Lathr	Alaskan Falls		unisex	https://www.fragrantica.com/perfume/Lathr/Alaskan-Falls-94818.html	lathr/unisex/alaskan-falls.png												
-Lathr	Arctic Mist		unisex	https://www.fragrantica.com/perfume/Lathr/Arctic-Mist-94823.html	lathr/unisex/arctic-mist.png												
-Lathr	Barbershop		unisex	https://www.fragrantica.com/perfume/Lathr/Barbershop-94827.html	lathr/unisex/barbershop.png												
-Lathr	Black Cherry		unisex	https://www.fragrantica.com/perfume/Lathr/Black-Cherry-94816.html	lathr/unisex/black-cherry.png												
+Lathr	Arctic Mist		unisex	https://www.fragrantica.com/perfume/Lathr/Arctic-Mist-94823.html	lathr/unisex/arctic-mist.png	lemon, raspberry, black currants	jasmine, gardenia, nutmeg	white chocolate, musk, sandalwood		house_site	https://lathr.com/en-us/products/arctic-mist-cologne	2026-10-21					
+Lathr	Barbershop		unisex	https://www.fragrantica.com/perfume/Lathr/Barbershop-94827.html	lathr/unisex/barbershop.png				bay rum, patchouli, cedarwood, sandalwood, vetiver	house_site	https://lathr.com/products/barbershop-cologne	2026-10-21					
+Lathr	Black Cherry		unisex	https://www.fragrantica.com/perfume/Lathr/Black-Cherry-94816.html	lathr/unisex/black-cherry.png				cherry, almond, warm spice, Turkish rose, vanilla, tonka, smoke	house_site	https://lathr.com/en-us/products/black-cherry-cologne	2026-10-21					
 Lathr	Cotton Candy		male	https://www.fragrantica.com/perfume/Lathr/Cotton-Candy-93653.html	lathr/male/cotton-candy.png												
-Lathr	Emperor		unisex	https://www.fragrantica.com/perfume/Lathr/Emperor-94825.html	lathr/unisex/emperor.png												
+Lathr	Emperor		unisex	https://www.fragrantica.com/perfume/Lathr/Emperor-94825.html	lathr/unisex/emperor.png				pineapple, smoky birch, oakmoss, musk, smooth woods	house_site	https://lathr.com/en-us/products/emperor-cologne	2026-10-21					
 Lathr	Empress		unisex	https://www.fragrantica.com/perfume/Lathr/Empress-94820.html	lathr/unisex/empress.png												
-Lathr	Fresh AF	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Lathr/Fresh-AF-94824.html	lathr/unisex/fresh-af.png												
+Lathr	Fresh AF	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Lathr/Fresh-AF-94824.html	lathr/unisex/fresh-af.png				bergamot, cypress, lavender, musk, sandalwood, cedarwood	house_site	https://lathr.com/en-us/products/fresh-af-cologne	2026-10-21					
 Lathr	Fruity Hoops		male	https://www.fragrantica.com/perfume/Lathr/Fruity-Hoops-93649.html	lathr/male/fruity-hoops.png												
-Lathr	Pine Tar		unisex	https://www.fragrantica.com/perfume/Lathr/Pine-Tar-94819.html	lathr/unisex/pine-tar.png												
-Lathr	Sandalwood		unisex	https://www.fragrantica.com/perfume/Lathr/Sandalwood-94815.html	lathr/unisex/sandalwood.png												
+Lathr	Pine Tar		unisex	https://www.fragrantica.com/perfume/Lathr/Pine-Tar-94819.html	lathr/unisex/pine-tar.png				pine, lemon, deep woods	house_site	https://lathr.com/en-us/products/pine-tar-cologne	2026-10-21					
+Lathr	Sandalwood		unisex	https://www.fragrantica.com/perfume/Lathr/Sandalwood-94815.html	lathr/unisex/sandalwood.png				creamy sandalwood, cedar, patchouli, soft spice, musk	house_site	https://lathr.com/en-us/products/sandalwood-cologne	2026-10-21					
 Lathr	Tabac Vanilla		unisex	https://www.fragrantica.com/perfume/Lathr/Tabac-Vanilla-94822.html	lathr/unisex/tabac-vanilla.png												
-Lathr	The Gentlemen		unisex	https://www.fragrantica.com/perfume/Lathr/The-Gentlemen-94821.html	lathr/unisex/the-gentlemen.png												
+Lathr	The Gentlemen		unisex	https://www.fragrantica.com/perfume/Lathr/The-Gentlemen-94821.html	lathr/unisex/the-gentlemen.png				bergamot, mandarin, lavender, black pepper, cedarwood, vetiver, leather, tonka bean	house_site	https://lathr.com/en-us/products/the-gentlemen-cologne	2026-10-21					
 Lathr	The Humidor	Extrait de Parfum	unisex	https://www.fragrantica.com/perfume/Lathr/The-Humidor-94826.html	lathr/unisex/the-humidor.png												
-Lathr	Tremendous	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Lathr/Tremendous-93655.html	lathr/male/tremendous.png												
-Lathr	Vagabond	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Lathr/Vagabond-93658.html	lathr/male/vagabond.png												
+Lathr	Tremendous	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Lathr/Tremendous-93655.html	lathr/male/tremendous.png				bitter almond, supple leather, tonka bean	house_site	https://lathr.com/en-us/products/tremendous-cologne	2026-10-21					
+Lathr	Vagabond	Extrait de Parfum	male	https://www.fragrantica.com/perfume/Lathr/Vagabond-93658.html	lathr/male/vagabond.png	bergamot, grapefruit, smoky pineapple	ginger, cardamom, cinnamon	labdanum, vetiver, patchouli		house_site	https://lathr.com/en-us/products/vagabond-cologne	2026-10-21					
 Latimah	Urayb		unisex	https://www.fragrantica.com/perfume/Latimah/Urayb-142436.html	latimah/unisex/urayb.png				White Lotus absolute, red champaca absolute, vintage Rose de Mai, Patchouli, ambergris, SQ Bukhoor absolute	house_site	https://www.latimah.com/products/urayb	2026-10-21					
 Lattafa Perfumes	24 Carat Pure Gold		unisex	https://www.fragrantica.com/perfume/Lattafa-Perfumes/24-Carat-Pure-Gold-25821.html	lattafa-perfumes/unisex/24-carat-pure-gold.png	Agarwood (Oud), Saffron, Cinnamon	Rose, Sandalwood	Incense, Amber, Leather, Musk, Vanilla		house_site	https://www.lattafa-usa.com/products/24-carat-pure-gold	2026-10-21					
 Lattafa Perfumes	24 Carat White Gold		unisex	https://www.fragrantica.com/perfume/Lattafa-Perfumes/24-Carat-White-Gold-25822.html	lattafa-perfumes/unisex/24-carat-white-gold.png	Bergamot, Orange Blossom	Lavender, Nutmeg, Geranium, Pink Pepper	Vetiver, Tonka Bean, Agarwood (Oud)		house_site	https://www.lattafa-usa.com/products/24-carat-white-gold	2026-10-21					
@@ -68492,23 +68492,23 @@ Laverne	White Garden		female	https://www.fragrantica.com/perfume/Laverne/White-G
 Lavish Care	1 Indicus		male	https://www.fragrantica.com/perfume/Lavish-Care/1-Indicus-63393.html	lavish-care/male/1-indicus.png												
 Lavish Care	2 Blundus		male	https://www.fragrantica.com/perfume/Lavish-Care/2-Blundus-63392.html	lavish-care/male/2-blundus.png												
 Lavish Care	3 Instictus		male	https://www.fragrantica.com/perfume/Lavish-Care/3-Instictus-63394.html	lavish-care/male/3-instictus.png												
-LAVVIE PERFUMES	AMBRE NOIR		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/AMBRE-NOIR-95585.html	lavvie-perfumes/unisex/ambre-noir.png	coconut, lemon, mandarin, peach	ylang yalng, tuberose, jasmine	sandalwood, vanilla, musk, amber		house_site	https://lavvieperfumes.com/shop/private-collection/ambre-noir/	2026-10-21					
-LAVVIE PERFUMES	AURA		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/AURA-95592.html	placeholders/no-image-available.png	grapefruit, mandarin, pink pepper, coriander	Rose, violet leaf, jasmine, tiara	Mossy notes, musk, cedarwood, patchouli, amber		house_site	https://lavvieperfumes.com/shop/sublime/aura/	2026-10-21					
-LAVVIE PERFUMES	BESPOKE		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/BESPOKE-95584.html	lavvie-perfumes/unisex/bespoke.png	grapefruit, mandarin, pink pepper, coriander	rose, violet leaf, jasmine, tiare	Moss, musk, cedar wood, patchouli, amber		house_site	https://lavvieperfumes.com/shop/men-fragrance/bespoke/	2026-10-21					
+LAVVIE PERFUMES	AMBRE NOIR		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/AMBRE-NOIR-95585.html	lavvie-perfumes/unisex/ambre-noir.png												
+LAVVIE PERFUMES	AURA		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/AURA-95592.html	placeholders/no-image-available.png												
+LAVVIE PERFUMES	BESPOKE		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/BESPOKE-95584.html	lavvie-perfumes/unisex/bespoke.png												
 LAVVIE PERFUMES	BLACK VELVET		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/BLACK-VELVET-95587.html	lavvie-perfumes/unisex/black-velvet.png												
-LAVVIE PERFUMES	BLEND OUD		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/BLEND-OUD-95588.html	lavvie-perfumes/unisex/blend-oud.png	labdanum	rose, patchouli	sandalwood, agarwood		house_site	https://lavvieperfumes.com/shop/private-collection/belnd-oud/	2026-10-21					
-LAVVIE PERFUMES	BOUQUET		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/BOUQUET-95589.html	lavvie-perfumes/unisex/bouquet.png	Fruity note, Lavender	Rose, Carnation, Cinnamon	Patchouli, Vetiver, Vanilla, Incense		house_site	https://lavvieperfumes.com/shop/sublime/bouquet/	2026-10-21					
-LAVVIE PERFUMES	ELEGANCE		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/ELEGANCE-95581.html	lavvie-perfumes/unisex/elegance.png	bergamot, lavender, lemon	ylang ylang, jasmine, white flowers	amber, sandalwood, white musks, vanilla		house_site	https://lavvieperfumes.com/shop/women-fragrance/elegance/	2026-10-21					
-LAVVIE PERFUMES	EVOKES		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/EVOKES-95591.html	lavvie-perfumes/unisex/evokes.png	Mandarin, fruity notes, Honey, sweet notes	Cypress, white flowers, labdanum, woody notes, Tobacco	Amber, Vanilla, Mossy Notes		house_site	https://lavvieperfumes.com/shop/sublime/evokes/	2026-10-21					
-LAVVIE PERFUMES	JOY		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/JOY-95577.html	lavvie-perfumes/unisex/joy.png	raspberry, neroli, bergamot	rose, jasmine, lily of the valley	vanilla, white musk, amber		house_site	https://lavvieperfumes.com/shop/women-fragrance/joy/	2026-10-21					
-LAVVIE PERFUMES	LOVE		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/LOVE-95576.html	lavvie-perfumes/unisex/love.png	bergamot, mandarin, pear, sour cherry	jasmine, tuberose, ginger	patchouli, vetiver, sandalwood, musk, amber		house_site	https://lavvieperfumes.com/shop/women-fragrance/love/	2026-10-21					
-LAVVIE PERFUMES	MOOD		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/MOOD-95578.html	lavvie-perfumes/unisex/mood.png	bergamot, lemon, mandarin, blackcurrant	jasmine, orange blossom, white flowers	vanilla, amber, musk		house_site	https://lavvieperfumes.com/shop/women-fragrance/mood/	2026-10-21					
-LAVVIE PERFUMES	NOBLE		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/NOBLE-95583.html	lavvie-perfumes/unisex/noble.png	nutmeg, saffron	cedar wood, agarwood, sandalwood	Patchouli, incense, labdanum, amber		house_site	https://lavvieperfumes.com/shop/men-fragrance/noble/	2026-10-21					
-LAVVIE PERFUMES	PASSION		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/PASSION-95579.html	lavvie-perfumes/unisex/passion.png	apple, pear, nutty notes	almond, magnolia, muguet, tonka bean	vanilla, white musk, woody notes		house_site	https://lavvieperfumes.com/shop/women-fragrance/passion/	2026-10-21					
-LAVVIE PERFUMES	SAMA		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/SAMA-95590.html	lavvie-perfumes/unisex/sama.png	bergamot, nutmeg, elemi	Iris, Jasmine, incense, labdanum	Patchouli, Vanilla, Agarwood, Amber		house_site	https://lavvieperfumes.com/shop/sublime/sama/	2026-10-21					
-LAVVIE PERFUMES	SANDAL WOOD		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/SANDAL-WOOD-95586.html	lavvie-perfumes/unisex/sandal-wood.png	bergamot, cinnamon, black pepper	ylang-ylang, jasmine, tuberose, cedar wood	amber, vanilla, sandalwood		house_site	https://lavvieperfumes.com/shop/private-collection/sandal-wood/	2026-10-21					
-LAVVIE PERFUMES	SENSATION		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/SENSATION-95580.html	lavvie-perfumes/unisex/sensation.png	lemon, orange, blackcurrant	iris, orange blossom, jasmine	patchouli, tonka bean, vanilla, musk		house_site	https://lavvieperfumes.com/shop/women-fragrance/sensation/	2026-10-21					
-LAVVIE PERFUMES	SUPREME		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/SUPREME-95582.html	lavvie-perfumes/unisex/supreme.png	pink pepper, bergamot, cardamom, pineapple	lavender, clary sage, violet leaf, mint	cedarwood, vetiver, sandalwood, tonka, sweet notes, amber, musk		house_site	https://lavvieperfumes.com/shop/men-fragrance/supreme/	2026-10-21					
+LAVVIE PERFUMES	BLEND OUD		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/BLEND-OUD-95588.html	lavvie-perfumes/unisex/blend-oud.png												
+LAVVIE PERFUMES	BOUQUET		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/BOUQUET-95589.html	lavvie-perfumes/unisex/bouquet.png												
+LAVVIE PERFUMES	ELEGANCE		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/ELEGANCE-95581.html	lavvie-perfumes/unisex/elegance.png												
+LAVVIE PERFUMES	EVOKES		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/EVOKES-95591.html	lavvie-perfumes/unisex/evokes.png												
+LAVVIE PERFUMES	JOY		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/JOY-95577.html	lavvie-perfumes/unisex/joy.png												
+LAVVIE PERFUMES	LOVE		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/LOVE-95576.html	lavvie-perfumes/unisex/love.png												
+LAVVIE PERFUMES	MOOD		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/MOOD-95578.html	lavvie-perfumes/unisex/mood.png												
+LAVVIE PERFUMES	NOBLE		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/NOBLE-95583.html	lavvie-perfumes/unisex/noble.png												
+LAVVIE PERFUMES	PASSION		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/PASSION-95579.html	lavvie-perfumes/unisex/passion.png												
+LAVVIE PERFUMES	SAMA		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/SAMA-95590.html	lavvie-perfumes/unisex/sama.png												
+LAVVIE PERFUMES	SANDAL WOOD		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/SANDAL-WOOD-95586.html	lavvie-perfumes/unisex/sandal-wood.png												
+LAVVIE PERFUMES	SENSATION		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/SENSATION-95580.html	lavvie-perfumes/unisex/sensation.png												
+LAVVIE PERFUMES	SUPREME		unisex	https://www.fragrantica.com/perfume/LAVVIE-PERFUMES/SUPREME-95582.html	lavvie-perfumes/unisex/supreme.png												
 Layer+	Ambery		unisex	https://www.fragrantica.com/perfume/Layer/Ambery-140191.html	placeholders/no-image-available.png												
 Layer+	Fruity		unisex	https://www.fragrantica.com/perfume/Layer/Fruity-119056.html	layer/unisex/fruity.png												
 Layer+	Matcha		unisex	https://www.fragrantica.com/perfume/Layer/Matcha-140192.html	layer/unisex/matcha.png												
@@ -68544,13 +68544,13 @@ LC Waikiki	Azure		male	https://www.fragrantica.com/perfume/LC-Waikiki/Azure-1096
 LC Waikiki	Beta for Men		male	https://www.fragrantica.com/perfume/LC-Waikiki/Beta-for-Men-135405.html	lc-waikiki/male/beta-for-men.png												
 LC Waikiki	Cobalt	Eau de Cologne	male	https://www.fragrantica.com/perfume/LC-Waikiki/Cobalt-109686.html	lc-waikiki/male/cobalt.png												
 LC Waikiki	Color Aura		female	https://www.fragrantica.com/perfume/LC-Waikiki/Color-Aura-109684.html	lc-waikiki/female/color-aura.png												
-LC Waikiki	Dark Black		unisex	https://www.fragrantica.com/perfume/LC-Waikiki/Dark-Black-109671.html	lc-waikiki/unisex/dark-black.png	Bergamot, Greyfurt, Kakule	Yasemin, Manolya, Frezya	Vetiver, Amber, White Musk		house_site	https://www.lcw.com/dark-black-edp-erkek-parfum-100-ml-karisik-o-2333194	2026-10-21					
+LC Waikiki	Dark Black		unisex	https://www.fragrantica.com/perfume/LC-Waikiki/Dark-Black-109671.html	lc-waikiki/unisex/dark-black.png												
 LC Waikiki	Etriel Fleur		female	https://www.fragrantica.com/perfume/LC-Waikiki/Etriel-Fleur-52974.html	lc-waikiki/female/etriel-fleur.png												
 LC Waikiki	Etriel Gardenia		female	https://www.fragrantica.com/perfume/LC-Waikiki/Etriel-Gardenia-52971.html	placeholders/no-image-available.png												
 LC Waikiki	Etriel Peony		female	https://www.fragrantica.com/perfume/LC-Waikiki/Etriel-Peony-109689.html	lc-waikiki/female/etriel-peony.png	Böğürtlen, Şeftali, Mandalina	Beyaz Yasemin	Sandal Ağacı, Vanilya, Amber		house_site	https://www.lcw.com/lcw-etriel-peony-edp-kadin-parfum-50-ml-karisik-o-2353619	2026-10-21					
 LC Waikiki	Fancy Bouquet		female	https://www.fragrantica.com/perfume/LC-Waikiki/Fancy-Bouquet-52975.html	lc-waikiki/female/fancy-bouquet.png												
 LC Waikiki	Fresh Mint		female	https://www.fragrantica.com/perfume/LC-Waikiki/Fresh-Mint-135291.html	placeholders/no-image-available.png												
-LC Waikiki	Genesis		male	https://www.fragrantica.com/perfume/LC-Waikiki/Genesis-109661.html	lc-waikiki/male/genesis.png	bergamot	paçuli, floral	misk		house_site	https://www.lcw.com/genesis-edp-erkek-parfum-100-ml-karisik-o-4449167	2026-10-21					
+LC Waikiki	Genesis		male	https://www.fragrantica.com/perfume/LC-Waikiki/Genesis-109661.html	lc-waikiki/male/genesis.png												
 LC Waikiki	Gentleman		male	https://www.fragrantica.com/perfume/LC-Waikiki/Gentleman-109660.html	lc-waikiki/male/gentleman.png												
 LC Waikiki	Iceberg		male	https://www.fragrantica.com/perfume/LC-Waikiki/Iceberg-109658.html	placeholders/no-image-available.png												
 LC Waikiki	LCW Blackout		male	https://www.fragrantica.com/perfume/LC-Waikiki/LCW-Blackout-109673.html	lc-waikiki/male/lcw-blackout.png	Orange, lemon	Lavander, eucalyptus	Musk, sandalwood, veramoss, tonka bean		house_site	https://www.lcw.com/lcw-blackout-edp-erkek-parfum-60-ml-karisik-o-2330752	2026-10-21					
@@ -68559,7 +68559,7 @@ LC Waikiki	LCW Purple Breeze		female	https://www.fragrantica.com/perfume/LC-Waik
 LC Waikiki	LCW Sour Cherry Edition		female	https://www.fragrantica.com/perfume/LC-Waikiki/LCW-Sour-Cherry-Edition-109675.html	lc-waikiki/female/lcw-sour-cherry-edition.png												
 LC Waikiki	LCW Vision Rose Glow		female	https://www.fragrantica.com/perfume/LC-Waikiki/LCW-Vision-Rose-Glow-52973.html	placeholders/no-image-available.png												
 LC Waikiki	Orange Bloosom		female	https://www.fragrantica.com/perfume/LC-Waikiki/Orange-Bloosom-109670.html	lc-waikiki/female/orange-bloosom.png												
-LC Waikiki	Renew Earth		unisex	https://www.fragrantica.com/perfume/LC-Waikiki/Renew-Earth-130454.html	lc-waikiki/unisex/renew-earth.png	Deniz notaları	Gül, Şakayık, Muguet, Küçük Hindistan Cevizi	Misk, Amber, Paçuli		house_site	https://www.lcw.com/renew-earth-edp-erkek-parfum-100-ml-karisik-o-2489442	2026-10-21					
+LC Waikiki	Renew Earth		unisex	https://www.fragrantica.com/perfume/LC-Waikiki/Renew-Earth-130454.html	lc-waikiki/unisex/renew-earth.png												
 LC Waikiki	Royal Bouquet		female	https://www.fragrantica.com/perfume/LC-Waikiki/Royal-Bouquet-52976.html	lc-waikiki/female/royal-bouquet.png												
 LC Waikiki	Shiny Marble		female	https://www.fragrantica.com/perfume/LC-Waikiki/Shiny-Marble-52970.html	placeholders/no-image-available.png												
 LC Waikiki	Tropical		female	https://www.fragrantica.com/perfume/LC-Waikiki/Tropical-52969.html	lc-waikiki/female/tropical.png												
@@ -69163,7 +69163,7 @@ Le Monde Gourmand	Vanille Brillante		female	https://www.fragrantica.com/perfume/
 Le Monde Gourmand	Violet Sucré	Eau de Parfum	female	https://www.fragrantica.com/perfume/Le-Monde-Gourmand/Violet-Sucre-124766.html	le-monde-gourmand/female/violet-sucre.png	Raspberry Puree	Candied Violet	Sugar Crystals		authorized_retailer	https://www.ulta.com/p/violet-sucre-eau-parfum-pimprod2057290?sku=2653532	2026-10-21					
 Le Parfum de Nathalie	La F	Eau de Parfum	female	https://www.fragrantica.com/perfume/Le-Parfum-de-Nathalie/La-F-87489.html	placeholders/no-image-available.png												
 Le Parfum de Nathalie	NATHAL 02/le parfum 'Island Edition'	Parfum	unisex	https://www.fragrantica.com/perfume/Le-Parfum-de-Nathalie/NATHAL-02-le-parfum-Island-Edition-87490.html	le-parfum-de-nathalie/unisex/nathal-02-le-parfum-island-edition.png												
-Le Parfum de Nathalie	NATHAL 04 /Opal Allure		unisex	https://www.fragrantica.com/perfume/Le-Parfum-de-Nathalie/NATHAL-04-Opal-Allure-137582.html	le-parfum-de-nathalie/unisex/nathal-04-opal-allure.png												
+Le Parfum de Nathalie	NATHAL 04 /Opal Allure		unisex	https://www.fragrantica.com/perfume/Le-Parfum-de-Nathalie/NATHAL-04-Opal-Allure-137582.html	le-parfum-de-nathalie/unisex/nathal-04-opal-allure.png	Frisse aqua- en kruidige toetsen, Bergamot, Jasmijn, Neroli, Caramel	Witte Bloemen, Tropische Vruchten	Sandelhout, Vanille, Eikenmos		house_site	https://leparfumdenathalie.be/product/nathal-04-opal-allure-100ml/	2026-10-21					
 le Pelerin	Adamant Mist		unisex	https://www.fragrantica.com/perfume/le-Pelerin/Adamant-Mist-69184.html	le-pelerin/unisex/adamant-mist.png												
 le Pelerin	Bolivian Hide		unisex	https://www.fragrantica.com/perfume/le-Pelerin/Bolivian-Hide-69302.html	le-pelerin/unisex/bolivian-hide.png												
 le Pelerin	Dio Mio		unisex	https://www.fragrantica.com/perfume/le-Pelerin/Dio-Mio-69180.html	le-pelerin/unisex/dio-mio.png												
